@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Jana Horn",
-  "num_followers": 65492,
+  "num_followers": 65524,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDU1MjljZTQ1YzE0OWQxZTY1NWUzMTZlNzczY2ZmNTc4NjgwMDVi",
+  "snapshot_id": "MCxlMzg4OWIxODMzMDNhOWIxZGQwODcxOTI5NmU3YzE4M2NiMWZiMTdj",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "In My Own Time (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 203397,
-      "name": "Something on Your Mind",
-      "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Vanilla Sky",
         "url": "https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 218000,
       "name": "King Street",
       "url": "https://open.spotify.com/track/1iD8ge87IXRn8KPo3oNZb1"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "In My Own Time (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 203397,
+      "name": "Something on Your Mind",
+      "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Catch Your Eye",
-      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -891,6 +875,38 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Catch Your Eye",
+      "url": "https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Let The Radio Play",
+        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
+      },
+      "artists": [
+        {
+          "name": "Reverend Baron",
+          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
+        }
+      ],
+      "duration_ms": 209634,
+      "name": "Let The Radio Play",
+      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Let The Radio Play",
-        "url": "https://open.spotify.com/album/3FOOxVr6GYnKLVtVDJSfmH"
-      },
-      "artists": [
-        {
-          "name": "Reverend Baron",
-          "url": "https://open.spotify.com/artist/7I6tVCXE2CFHl3QwHLFCBH"
-        }
-      ],
-      "duration_ms": 209634,
-      "name": "Let The Radio Play",
-      "url": "https://open.spotify.com/track/02gdamJgcfDKYV4QDWTT07"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "As You Are",
-        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 141946,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "squirrel song",
         "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 264954,
       "name": "Plum",
       "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "As You Are",
+        "url": "https://open.spotify.com/album/1C11POJDeirmj0HP7JGF2w"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 141946,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/3oTiIGIgmjdavBHdsUrY1M"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Blue Sea",
+        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
+      },
+      "artists": [
+        {
+          "name": "RICEWINE",
+          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
+        }
+      ],
+      "duration_ms": 195514,
+      "name": "Blue Sea",
+      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hailaker",
         "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
       },
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Blue Sea",
-        "url": "https://open.spotify.com/album/61X7kP2SSMXt88MVImUqUz"
-      },
-      "artists": [
-        {
-          "name": "RICEWINE",
-          "url": "https://open.spotify.com/artist/6Vf4rmMsQbAwiCG00YeEI7"
-        }
-      ],
-      "duration_ms": 195514,
-      "name": "Blue Sea",
-      "url": "https://open.spotify.com/track/3XqbLsVmAwvTJqW6NKopg0"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tell Me What You Want",
-        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Tell Me What You Want",
-      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Hannah",
         "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 208382,
       "name": "Hannah Sun",
       "url": "https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tell Me What You Want",
+        "url": "https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Tell Me What You Want",
+      "url": "https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 286042,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 286042,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Florist",
+        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "I'm Ready",
         "url": "https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol"
       },
@@ -1599,18 +1615,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Florist",
-        "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
+        "name": "Making You Up",
+        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Baseball Game",
+          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
         }
       ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY"
+      "duration_ms": 219595,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Making You Up",
-        "url": "https://open.spotify.com/album/6TIqQfv8TZHzAsdmggbxF8"
-      },
-      "artists": [
-        {
-          "name": "Baseball Game",
-          "url": "https://open.spotify.com/artist/1z94OBX5O0uAp1Uz6viKxK"
-        }
-      ],
-      "duration_ms": 219595,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2P3pcxpeW1tPDh73XyOCF2"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Smashed Up My Fender",
         "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
       },
@@ -1663,22 +1663,6 @@
       "duration_ms": 174040,
       "name": "Smashed Up My Fender",
       "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Less Ready to Go",
-        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
-      },
-      "artists": [
-        {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
-        }
-      ],
-      "duration_ms": 267870,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+        "name": "Less Ready to Go",
+        "url": "https://open.spotify.com/album/6zjdTFA6kHI60lpIJCTbOa"
       },
       "artists": [
         {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 228492,
-      "name": "A Thread to Find",
-      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+      "duration_ms": 267870,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/5AuTmQwPgdgF340ASEGKRo"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1743,6 +1727,22 @@
       "duration_ms": 265160,
       "name": "Distant Axis",
       "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 228492,
+      "name": "A Thread to Find",
+      "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fun House",
-        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 192520,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Stay In Touch",
         "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 289987,
       "name": "Homes",
       "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Vagabon",
+        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Every Woman",
+      "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Vagabon",
-        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+        "name": "Fun House",
+        "url": "https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0"
       },
       "artists": [
         {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
         }
       ],
-      "duration_ms": 207078,
-      "name": "Every Woman",
-      "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
+      "duration_ms": 192520,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/696fALU6kUpJXrx2mWmh3G"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2051,18 +2051,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "needy",
-        "url": "https://open.spotify.com/album/4t8yem8v9bWIV9gLgpUAdB"
+        "name": "VBS",
+        "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
       "artists": [
         {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 232419,
-      "name": "needy",
-      "url": "https://open.spotify.com/track/2ECYThSRIguvX5SZO5ke26"
+      "duration_ms": 236864,
+      "name": "VBS",
+      "url": "https://open.spotify.com/track/4scUHBmjuMhzW398qc2JXO"
     }
   ],
   "unique_name": "Folk Arc",

@@ -4,7 +4,7 @@
 
 > A dose of high\-energy rock & alt songs for your workout.
 
-234 songs - 13 hr 3 min
+235 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Nothing Left](https://open.spotify.com/track/3PoiPLGqcvVnZUGAzaStv9) | [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Nothing Left](https://open.spotify.com/album/7Ga5rDDpZcRVkjTx4fVrm5) | 2:02 | 2020-11-13 | 2022-07-28 |
 | [Oh My Heart](https://open.spotify.com/track/0Tpc0c8WaTnbYsoWoJ06k2) | [Night Riots](https://open.spotify.com/artist/67Dg546QfThu4PuanvFD8y) | [Howl \(Deluxe Edition\)](https://open.spotify.com/album/7l9uIV35NqVTEHa3gqvC3h) | 3:11 | 2020-08-20 | 2022-04-21 |
 | [Oh No](https://open.spotify.com/track/51EhqjwJH9AmtnQhxVGv1F) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Oh No](https://open.spotify.com/album/6mSMYCTFoVA4Wjcu4I1Nls) | 3:40 | 2020-08-20 | 2022-07-20 |
+| [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 | 2023-04-19 |  |
 | [Painkiller](https://open.spotify.com/track/15BsrefgYpMgu1ZCIr8EJw) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:22 | 2020-08-20 | 2022-11-14 |
 | [Paralyzed](https://open.spotify.com/track/5svL1PkWw8hPEAOdTNLexy) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Paralyzed](https://open.spotify.com/album/6QBRBHphSZ5CE6KYzCDdI9) | 2:43 | 2021-09-10 |  |
 | [Past Life](https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Past Life](https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK) | 3:30 | 2022-06-17 | 2022-08-20 |
@@ -184,7 +185,7 @@
 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 | 2020-08-20 | 2022-04-20 |
 | [Sex Party](https://open.spotify.com/track/0kP4jYOuH9le6avYm2JnvZ) | [Ferdinand fka Left Boy](https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ) | [Sex Party](https://open.spotify.com/album/4NgAfTr86rkILEFBkhHZky) | 2:47 | 2020-08-20 | 2022-07-29 |
 | [Sick of U \(with Oliver Tree\)](https://open.spotify.com/track/5IXdkgrT4lb9sKIb8tbOQ3) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Sick of U](https://open.spotify.com/album/2DA4VGpM7OkPIAiyviDPCl) | 2:48 | 2022-12-02 |  |
-| [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-01-20 |  |
+| [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-01-20 | 2023-05-07 |
 | [Smile](https://open.spotify.com/track/0wQKKPy050lguUxlKvHIi5) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 3:16 | 2022-06-17 | 2022-07-29 |
 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 | 2022-04-08 | 2022-07-29 |
 | [So Called Life](https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 3:26 | 2022-06-28 | 2023-01-21 |

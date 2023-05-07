@@ -1,12 +1,12 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 27314,
+  "num_followers": 27435,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmJjN2QyNWYyMjAyOTA5NDE5YTg3NDY4MWJiNjc0ZjE5MzVmMGY2",
+  "snapshot_id": "MCxjMGFhOWI4NjliODIxZWY5NTkxOGNlYTI5MzQwZTNkNWRjZmFiMDQ0",
   "tracks": [
     {
       "added_at": "2022-12-28 20:23:43",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "No More Drama",
-        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "No More Drama",
+        "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2022-12-28 20:23:43",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2022-12-28 20:23:43",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
-      },
-      "artists": [
-        {
-          "name": "LeAnn Rimes",
-          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Can't Fight The Moonlight",
-      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
-    },
-    {
-      "added_at": "2022-12-28 20:23:43",
-      "album": {
         "name": "Britney Jean (Deluxe Version)",
         "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 247960,
       "name": "Work Bitch",
       "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
+    },
+    {
+      "added_at": "2022-12-28 20:23:43",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY"
     },
     {
       "added_at": "2022-12-28 20:23:43",

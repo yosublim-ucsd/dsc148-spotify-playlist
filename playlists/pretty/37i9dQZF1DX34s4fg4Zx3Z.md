@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Ronboogz; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,637 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,639 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 66 | [Từ Nay Không Phiền Anh Nữa](https://open.spotify.com/track/37ZiMHAFkCe9UFHeGyzZbq) | [Tuệ Phương](https://open.spotify.com/artist/72RJ0YGU1V1AMr6E3lqeKV) | [Từ Nay Không Phiền Anh Nữa](https://open.spotify.com/album/63qsfeYLqfSOeXm8cCx6hQ) | 3:16 |
 | 67 | [NGÀY XA EM](https://open.spotify.com/track/0byJ14Bq2MzGk84asssidS) | [PT3](https://open.spotify.com/artist/1mlZRnekQgYGn3nyIgAsze), [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW), [Domi](https://open.spotify.com/artist/3ilRrV8bsWwSgbwApmbtnk) | [NGÀY XA EM](https://open.spotify.com/album/7pQfoZW2DDzNdrQiFhsUU4) | 2:28 |
 | 68 | [Anh Đã Từ Bỏ Rồi Đấy](https://open.spotify.com/track/1YW6r5WNuGOBiofHQZkyCM) | [Nguyenn](https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou), [Aric](https://open.spotify.com/artist/2M3RlbYLy67kjYrrCCZcm2) | [Anh Đã Từ Bỏ Rồi Đấy](https://open.spotify.com/album/1VmIxDRDv2dowkEF4CIFF0) | 5:04 |
-| 69 | [Yêu Em Trong Mơ](https://open.spotify.com/track/2EEaz9kSAwRisyj167lYwD) | [Kai](https://open.spotify.com/artist/5ATpNDwaT4vPXxsRhJpCXg), [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34), [Sino](https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh) | [Yêu Em Trong Mơ](https://open.spotify.com/album/5cFxEP2AmxoDLNv0yqxFOo) | 4:27 |
+| 69 | [Yêu Em Trong Mơ](https://open.spotify.com/track/2EEaz9kSAwRisyj167lYwD) | [Sino](https://open.spotify.com/artist/4GxnBu03QfkLI9By82WNmh), [Kai](https://open.spotify.com/artist/5ATpNDwaT4vPXxsRhJpCXg), [An Vũ](https://open.spotify.com/artist/0IBUlucigx80io4qV5fQ34) | [Yêu Em Trong Mơ](https://open.spotify.com/album/5cFxEP2AmxoDLNv0yqxFOo) | 4:27 |
 | 70 | [Đôi Mắt Biết Nói Dối](https://open.spotify.com/track/6ppAOdNAPzMNbzjQRFRGPZ) | [CeCe Trương](https://open.spotify.com/artist/0We6FybaRNC3InZwnhiH2J) | [Đôi Mắt Biết Nói Dối](https://open.spotify.com/album/3AQAwEp9vAsbvAi6fozsch) | 4:06 |
 | 71 | [Vũ trụ ngừng trôi](https://open.spotify.com/track/4ORZJ2RgSDAmYIDBRHaVsE) | [Sweet Liquor](https://open.spotify.com/artist/2s2AP9Bj9ltYjB9XIbGr0e) | [Vũ trụ ngừng trôi](https://open.spotify.com/album/77HV6j02nBVaNeKU6Eu5dR) | 2:53 |
 | 72 | [ai dau can anh...?](https://open.spotify.com/track/5XCwP3NH8XiqukfUSh8Pjr) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [ai dau can anh...?](https://open.spotify.com/album/4xLv7DVlNFKiaz5BeqIE4F) | 5:20 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [Mây của trời phải để gió cuốn](https://open.spotify.com/track/37lTnoIEd3kPMal1WqICgq) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [Mây của trời phải để gió cuốn](https://open.spotify.com/album/6poXW1dNN56g7QYHYxjBPL) | 4:03 |
 | 101 | [Deep Down](https://open.spotify.com/track/03kIWG1vlvODIlCZ2IKxOv) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a), [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK) | [Deep Down](https://open.spotify.com/album/50glZnNhveNXJsOgPg5HQp) | 5:15 |
 
-Snapshot ID: `MCxlNWUyZjc5ODBhMGU1N2EzNTM2ZjQzOWIyNzAyYzJlYWM1NWEyNmRh`
+Snapshot ID: `MCwyNzM4ZDUyZGNhZGU4MmRkZjgxMWY0NTI3YzE1YTEwYWNiMTc5MzA5`

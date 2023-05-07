@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 222402,
       "name": "Always (feat. Summer Walker) - Bonus",
       "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
@@ -8074,7 +8074,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 173134,
       "name": "FLOWER",
       "url": "https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s"
@@ -9556,6 +9556,24 @@
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ"
+    },
+    {
+      "album": {
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
     },
     {
       "album": {

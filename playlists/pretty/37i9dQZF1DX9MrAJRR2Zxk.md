@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,619 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,896 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 40 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 |
 | 41 | [Hold You \- Hold Yuh](https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Hold You](https://open.spotify.com/album/3Oi5j0kqicMfqW51jqrsfe) | 3:53 |
 | 42 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
-| 43 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 |
-| 44 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
+| 43 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
+| 44 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 |
 | 45 | [Here Comes the Hotstepper \- Heartical Mix](https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Here Comes The Hotstepper](https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5) | 4:10 |
 | 46 | [Who Let The Dogs Out](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo) | [Baha Men](https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ) | [Who Let The Dogs Out](https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd) | 3:18 |
 | 47 | [Feeling Myself](https://open.spotify.com/track/5fyIGoaaKelzdyW8ELhYJZ) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(Deluxe\)](https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 50 | [Eenie Meenie](https://open.spotify.com/track/45O0tUN9Bh6LH4eNxQ07AT) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Eenie Meenie EP](https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu) | 3:21 |
 
-Snapshot ID: `MCw5ZTNhMmUzMmY2OTI1NjZjNTFjZjY1MDdhOThlNTMzZDI0ZjJhOGNj`
+Snapshot ID: `MCxjYTUzNzcxYjZkM2U0MzU2ZDFkNTVkZWExZGI4MGE1OTIyMDY4NTk4`

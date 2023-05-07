@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 
 > Rap de alta gama\. Foto: Juice WRLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,497 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,524 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 59 | [Lock It Up \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1qwMkkRiD5jqLeUUjfgblh) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 2:50 |
 | 60 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
 | 61 | [T.D \(Lil Yachty & Tierra Whack feat\. A$AP Rocky & Tyler, The Creator\)](https://open.spotify.com/track/0gO3E51A3fqp0ypJ26QbVP) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Lil Boat 3](https://open.spotify.com/album/2CYr9450iYkEWq4IWL8plY) | 3:52 |
-| 62 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 |
+| 62 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
 | 63 | [Errbody](https://open.spotify.com/track/6eVxH9Kyanzrw636zJRPcw) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Errbody](https://open.spotify.com/album/1AhcXFOhxnWriMEslx0LC2) | 3:30 |
-| 64 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 |
+| 64 | [BURBERRY](https://open.spotify.com/track/4kdMfObhCkNZ47gsl63uXP) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [BURBERRY](https://open.spotify.com/album/6xWmbEEd3Tcfu5rxpTFMXx) | 4:41 |
 | 65 | [Kobe En LA](https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN) | 3:45 |
 | 66 | [Second Emotion \(feat\. Travis Scott\)](https://open.spotify.com/track/1PnAx788sAvcI3ZxTlEyX8) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Changes](https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii) | 3:22 |
 | 67 | [GNF \(OKOKOK\)](https://open.spotify.com/track/3gntlMjzCV42fREUUbOHCN) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 1:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2y6end4Tb8T.md) - [plain]
 | 99 | [Twisted \(feat\. Juicy J, Logic & A$AP Rocky\)](https://open.spotify.com/track/3CiXFXXykPmgZAKyK5iQ95) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [MONTANA](https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa) | 4:22 |
 | 100 | [NO TV](https://open.spotify.com/track/78KiqdSnQIGiJzOJRQMs8G) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [NO TV](https://open.spotify.com/album/6M3SHnGd6dndntqykBbbKU) | 2:04 |
 
-Snapshot ID: `MCw4YmU5NzhkMzVjMzdjYWJmNzE5OTc2NWU1M2I5YmZkMDA0M2YxYTQ3`
+Snapshot ID: `MCw2ODAzYWIyY2YwMTc1ZjY2NmIwODg3MDVhNTFiOGEzYWFjYjIzM2Rm`

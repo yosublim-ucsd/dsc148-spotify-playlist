@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Enforcer
 
-719 songs - 2 day 5 hr 30 min
+720 songs - 2 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [My Will to Live](https://open.spotify.com/track/4sAWFLOCxVfyBvZq9dWy0s) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [My Will to Live](https://open.spotify.com/album/5Jqz6ZgchnSaUNsTbV38pz) | 5:20 | 2023-01-13 | 2023-02-09 |
 | [Mystic Voices](https://open.spotify.com/track/23qe3H5ToeXOfFj9gSSPrX) | [Rising Steel](https://open.spotify.com/artist/0R7Gm5z32NOYcpwScO1JSh) | [Mystic Voices](https://open.spotify.com/album/0X5n66zXSf8NkEanAwC7QR) | 5:05 | 2021-12-29 | 2022-04-24 |
 | [Nabbed in Nebraska](https://open.spotify.com/track/2DcykF5eaHu1z2TiuRmns0) | [Anvil](https://open.spotify.com/artist/0maNhqGx60ucjS4UaAH6cP) | [Nabbed in Nebraska](https://open.spotify.com/album/1Q7cGukENcz0K2QPr9AIAE) | 4:33 | 2021-12-17 | 2022-07-20 |
+| [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2023-05-05 |  |
 | [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-08-19 | 2023-02-11 |
 | [Never the Heroes](https://open.spotify.com/track/5LHebeJkgALO0q8YpullpY) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Reflections \- 50 Heavy Metal Years of Music](https://open.spotify.com/album/2alySadx70cVPH0YC9QHFM) | 4:24 | 2021-12-17 | 2022-07-05 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-06-17 |
@@ -677,7 +678,7 @@
 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 | 2022-03-22 |  |
 | [War Eternal](https://open.spotify.com/track/0WZZENH0kt3O2cBE8q5IRq) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:16 | 2022-08-19 |  |
 | [War Within Me](https://open.spotify.com/track/4hZGFLU6NS60OeJ2c3bBjH) | [Blaze Bayley](https://open.spotify.com/artist/2N1l5VEy6whDRqvnUElnau) | [War Within Me](https://open.spotify.com/album/45h7hIWSv2MNpWJqKAu7dh) | 4:11 | 2021-12-17 | 2022-07-29 |
-| [Warrior](https://open.spotify.com/track/4EllS6NXwCOggtnnBqByNd) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:45 | 2022-07-13 |  |
+| [Warrior](https://open.spotify.com/track/4EllS6NXwCOggtnnBqByNd) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:45 | 2022-07-13 | 2023-05-07 |
 | [Warriors](https://open.spotify.com/track/7I7qX3YcwUehkRdDfHu2Ts) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Warriors](https://open.spotify.com/album/7A6wd0u82G5vJujTVkxupk) | 3:52 | 2021-12-17 | 2022-06-12 |
 | [Waterfall](https://open.spotify.com/track/5lOcFmoLpiS6rtjSWgdbVJ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Waterfall](https://open.spotify.com/album/6uJesMZ71FKsNbP3cXfFKJ) | 4:04 | 2021-12-17 | 2022-07-24 |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-03-22 | 2022-04-02 |

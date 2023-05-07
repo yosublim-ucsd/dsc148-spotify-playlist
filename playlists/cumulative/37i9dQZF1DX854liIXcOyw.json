@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
+    },
+    {
+      "album": {
         "name": "Native (Deluxe)",
         "url": "https://open.spotify.com/album/0G0vIGvVlJ3MtXunjqrbMY"
       },
@@ -1070,7 +1088,7 @@
       ],
       "date_added": "2021-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 257840,
       "name": "Counting Stars",
       "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"

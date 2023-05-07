@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,346 likes - 50 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,397 likes - 50 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 30 | [Right There](https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Right There / Holy Ghost](https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX) | 2:57 |
 | 31 | [Riod](https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 9:14 |
 | 32 | [The Dance](https://open.spotify.com/track/3BcFcJUfnBh3nmwvg6ra3g) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 7:12 |
-| 33 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
-| 34 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 |
+| 33 | [Low Life](https://open.spotify.com/track/1MBHNJsI9KV84lxaV5bhVl) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Clocks / Low Life / Go](https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1) | 5:34 |
+| 34 | [Into The Dark](https://open.spotify.com/track/1RqAbR7LefLPPGeEKKukCk) | [The Saunderson Brothers](https://open.spotify.com/artist/4yTGUL6IP7JtGmnVUexpQR) | [Into The Dark](https://open.spotify.com/album/7GJJnxx9JQVhMsT7MR0oNX) | 3:41 |
 | 35 | [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 |
 | 36 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
 | 37 | [Telekinesis](https://open.spotify.com/track/4Wa515K1fkOSwdK64rIKZn) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [The Art of Music](https://open.spotify.com/album/3Nlt0lmS0UzBfTRPrkMGQm) | 5:20 |
 | 38 | [Q](https://open.spotify.com/track/2ClYwWJs6wnCRH9qAnCsWW) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X) | 6:23 |
 | 39 | [The Sound \- Extended Mix](https://open.spotify.com/track/64RmTfytQUOT73BeNrVlvx) | [Reese & Santonio](https://open.spotify.com/artist/6ZYPFa3rUYzI4j87w1CURo) | [The Sound / How To Play Our Music](https://open.spotify.com/album/5zY7Di2QT0Y2OZwmVwCr6w) | 6:48 |
 | 40 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
-| 41 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4VUUiDoySoS7LDboUOX5mv), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
-| 42 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
+| 41 | [Elements](https://open.spotify.com/track/2mLPPe67nRyoMSiRZyLsVr) | [Psyche/BFC](https://open.spotify.com/artist/0HyKkzt6higWFs5IwxSzrw) | [Psyche/BFC \- DELUXE DIGITAL VERSION](https://open.spotify.com/album/1Bb0ser2obQ8dLRfNAiO7U) | 6:51 |
+| 42 | [Just Want Another Chance \- Original Mix](https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j) | [Reese](https://open.spotify.com/artist/4VUUiDoySoS7LDboUOX5mv), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Just Want Another Chance](https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH) | 5:12 |
 | 43 | [Throw](https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [Best of Techno \(Compilation Tracks\)](https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK) | 3:43 |
 | 44 | [The Bearer feat\. Karina Mia \- Brother’s Burden PT1](https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [The Bearer feat\. Karina Mia](https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl) | 6:00 |
 | 45 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [We All Move Together \- Album Mix](https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 5:52 |
 | 50 | [On A Journey](https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [On A Journey](https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412) | 4:31 |
 
-Snapshot ID: `MCw2MzQ0NThiOWIzNDI4NGRmOWM2NDgzNjg5NGY0MGUyYzljNjRjNDJj`
+Snapshot ID: `MCw0ZWQ5NGEwN2VkNmNlOWJmMjFmZGVmMGFiNzg5NDZhN2MzMDg4NTBi`

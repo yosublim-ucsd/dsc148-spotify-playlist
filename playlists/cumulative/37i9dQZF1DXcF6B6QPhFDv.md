@@ -4,7 +4,7 @@
 
 > Bring Me The Horizon along with today's Rock songs you need to hear.
 
-325 songs - 18 hr 23 min
+326 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-29 | 2022-11-26 |
 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 | 2021-10-20\* | 2021-11-20 |
 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2022-09-02 | 2023-04-15 |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-03 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-05 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-03 | 2023-05-07 |
 | [honey](https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:53 | 2021-10-01 | 2022-02-19 |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-25 | 2022-07-16 |
 | [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 | 2023-03-24 |  |

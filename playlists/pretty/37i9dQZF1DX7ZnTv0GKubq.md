@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,128 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,178 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 28 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 |
 | 29 | [Indonesian Fantasies](https://open.spotify.com/track/3NktF1rRdORH8FH3p8wKp3) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Late To Die Young](https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn) | 1:59 |
 | 30 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
-| 31 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
+| 31 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 | 32 | [Tryna Be](https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:50 |
 | 33 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
-| 34 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
+| 34 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
 | 35 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 36 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |
 | 37 | [Home](https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [The Art of Conversation](https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J) | 1:56 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 44 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 |
 | 45 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 |
 | 46 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
-| 47 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
-| 48 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
+| 47 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
+| 48 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 49 | [Plastic Plants](https://open.spotify.com/track/68OnIh4v10tWxZYJTsHJWX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Isolation Tapes](https://open.spotify.com/album/3DB2RnzDwpcwQdXij6vLWI) | 3:19 |
 | 50 | [Motorbike](https://open.spotify.com/track/3mMduiD8yb4IaS5tZKqSZy) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Gold\-Diggers Sound](https://open.spotify.com/album/6pKaUDUnQiZgWLPZJqwkzn) | 3:08 |
 
-Snapshot ID: `MCxhZWJmMDMxOGM0YzRhNjRiODNmMjU0NGRhMjI1OWU1NWVmNGNmMjE5`
+Snapshot ID: `MCxhMGViOWE0OGYzNDA3ZWY5ZjUyYzNjYmVhMTFiNDNjNGJiMjkyODQ1`

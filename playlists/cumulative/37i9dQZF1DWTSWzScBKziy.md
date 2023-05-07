@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-197 songs - 12 hr 41 min
+198 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Streams](https://open.spotify.com/track/4TNqLqR26yumoTFs5ESCex) | [Jonathan David Middleton](https://open.spotify.com/artist/3sVONkahZrlRA1ITNOn6ZD) | [Streams](https://open.spotify.com/album/561scYchLsHReTlfcPJxaH) | 6:33 | 2022-05-27 | 2022-10-30 |
 | [Take It To Jesus](https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Take It To Jesus](https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2) | 4:28 | 2022-05-27 |  |
 | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW), [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Teach Me to Dance \(Acoustic Version\)](https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx) | 3:38 | 2022-05-27 |  |
-| [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 | 2022-05-27 |  |
+| [Thank God For Sunday Morning](https://open.spotify.com/track/3P0ym6s1b2FCLC32C2uahw) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Thank God For Sunday Morning](https://open.spotify.com/album/4P5Iq9iYYccNJQ9qiAaCnb) | 3:28 | 2022-05-27 | 2023-05-07 |
+| [Thank God For Sunday Morning](https://open.spotify.com/track/6OC3n631AkgqbWrrQbN1yH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:28 | 2022-10-29 |  |
 | [Thank God!](https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz) | [Tracy Nitschke](https://open.spotify.com/artist/3MFePrlHaLPnHIHkbAw3RW) | [Thank God!](https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm) | 2:22 | 2022-05-27 | 2022-10-30 |
 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 | 2022-10-29 |  |
 | [The Goodness \(feat\. Blessing Offor\)](https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Goodness](https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR) | 3:45 | 2022-10-29 |  |

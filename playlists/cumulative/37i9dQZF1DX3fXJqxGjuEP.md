@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-463 songs - 1 day 3 hr 48 min
+464 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Canto](https://open.spotify.com/track/1UsU4CyFhYPC8r56yimkZV) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Canto](https://open.spotify.com/album/4rpAblzSuH39Q3EhwF6nOT) | 3:18 | 2021-10-20 | 2022-04-19 |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 | 2021-10-20 | 2022-04-20 |
 | [Caramelo](https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:23 | 2021-10-20 |  |
-| [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2021-10-20 | 2022-07-26 |
+| [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2021-10-20 |  |
 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 | 2021-10-20 | 2022-07-05 |
 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 | 2021-10-20 |  |
 | [Cenizas y Miel](https://open.spotify.com/track/7j5n02hf4Biqj1rA6AhFiJ) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI) | [Cenizas y Miel](https://open.spotify.com/album/5oo725EgblR5xePh1O4GXt) | 3:11 | 2021-10-20 | 2022-07-06 |
@@ -173,7 +173,7 @@
 | [En Las Olas](https://open.spotify.com/track/7wq9qUvUvQhv6kMQ13tyCX) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [En Las Olas](https://open.spotify.com/album/2wfE4uDiMSti5YCwfaZssj) | 3:22 | 2021-10-20 | 2022-07-29 |
 | [En Tu Mar](https://open.spotify.com/track/4Uh2ef5jDZIoWmohwMrbyS) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [En Tu Mar](https://open.spotify.com/album/51DDnzoITLWFqW5K9Nx84l) | 5:29 | 2022-04-23 | 2022-07-28 |
 | [En tu pelo](https://open.spotify.com/track/7pfyOy1Tbz68brlpi2JrZU) | [Isaac & Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [En tu pelo](https://open.spotify.com/album/61JJTXsxJCbeU3J3rOcadz) | 3:04 | 2021-10-20 | 2022-07-25 |
-| [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 | 2021-10-20 |  |
+| [En Tu Pelo](https://open.spotify.com/track/1WoLEPg3uGeFYqKk9S174p) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 3:03 | 2021-10-20 | 2023-05-07 |
 | [Entre Paraísos](https://open.spotify.com/track/02P3oPhKA2SAlLlFvTvEgg) | [Arial](https://open.spotify.com/artist/0oegQ94V48WQtfYpkvaW2G) | [Entre Paraísos](https://open.spotify.com/album/0m1nXpYzV1JYQNp3hJrKGe) | 3:34 | 2021-10-20 | 2022-04-21 |
 | [Eres Tú](https://open.spotify.com/track/2mCJpbOH8h7vwu2oJYFCjh) | [Mac Gregor](https://open.spotify.com/artist/15s9gq5gVKup8mbM2KmawF) | [Eres Tú](https://open.spotify.com/album/21fMKfrrSkfaUvvWu5wrJR) | 2:39 | 2021-10-20 | 2022-04-21 |
 | [Espinas](https://open.spotify.com/track/5UbXtPeRaCWGhA3KiZ3OMC) | [Espanglish](https://open.spotify.com/artist/5wnMB6o7El35W7BNYxKeb1) | [Espinas](https://open.spotify.com/album/2DbUtUuR9pAuyARLiBBKTG) | 3:14 | 2021-10-20 | 2022-07-22 |
@@ -292,8 +292,9 @@
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2021-10-20 | 2022-04-19 |
 | [Mis Muertos](https://open.spotify.com/track/7hHqwnpLHCILZxF9mmSSqI) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/3unTf9Fint6gmlFkgA17em) | 2:21 | 2021-10-20 | 2022-12-24 |
 | [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 |  |
-| [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 |  |
+| [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 | 2023-05-07 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-14 |
+| [Moody Cumbia](https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:36 | 2023-03-28 |  |
 | [Morena](https://open.spotify.com/track/3eoegPFmJo2k7eRUR31bSl) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Morena](https://open.spotify.com/album/5AUfStt82PZpTvwqptRdFg) | 3:09 | 2021-10-20 | 2022-04-16 |
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-07-11 | 2022-12-03 |
 | [Moreno](https://open.spotify.com/track/0Cj7uNieo8kJ7RIijZBbJl) | [Natále](https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Moreno](https://open.spotify.com/album/29wGqyAlq3YBb9jzje0tw4) | 4:18 | 2022-09-10 | 2022-11-24 |

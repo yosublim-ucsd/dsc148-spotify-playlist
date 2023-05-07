@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 137990,
       "name": "Fake It - Warehouse Mix",
       "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
@@ -2902,6 +2902,24 @@
       "duration_ms": 217311,
       "name": "I Trust You - Radio Edit",
       "url": "https://open.spotify.com/track/5qZREphIiL2VQ4IvuxgRnH"
+    },
+    {
+      "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
     },
     {
       "album": {

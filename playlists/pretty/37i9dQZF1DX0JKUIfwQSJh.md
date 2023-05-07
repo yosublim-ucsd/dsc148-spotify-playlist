@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,295 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,483 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 47 | [Going to California \- Remaster](https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 3:32 |
 | 48 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
 | 49 | [You've Got a Friend](https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 4:28 |
-| 50 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
+| 50 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 |
 | 51 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:49 |
-| 52 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 |
+| 52 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 53 | [Something on Your Mind](https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time \(50th Anniversary Edition\)](https://open.spotify.com/album/36WryGURqME9Y2URzzzmio) | 3:23 |
 | 54 | [Tom's Diner](https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 2:09 |
 | 55 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 59 | [Dreams \- Sessions, Roughs & Outtakes; 2004 Remaster](https://open.spotify.com/track/23hieFLBMATmL2HseI2nBL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:21 |
 | 60 | [Personal Jesus \- Acoustic](https://open.spotify.com/track/7JbHx1w8yllNESuyp9SYv3) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Personal Jesus](https://open.spotify.com/album/2nsxERlQsbUOWBwaz8HCj8) | 3:27 |
 
-Snapshot ID: `MCw5ZGY4YmE2ZDhjNWYzZTUzNzA5OWEyZGZlOTg5NjMwNjAxODlkNDQ3`
+Snapshot ID: `MCxiNmVkMDZjMWU1NjEyODUyYmJmMzRjNzUzZDAzZTg5ZDYxZmYwM2Vl`

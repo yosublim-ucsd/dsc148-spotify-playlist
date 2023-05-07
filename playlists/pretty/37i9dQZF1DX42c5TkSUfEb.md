@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 
 > La playlist idéale pour se détendre en musique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,788 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,899 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 28 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
 | 29 | [Jimmy](https://open.spotify.com/track/6Zw0NBdfr1VlVJjDRFwUe1) | [Moriarty](https://open.spotify.com/artist/0qG2Tf6fJaCuWKGz1IitKa) | [Gee Whiz But This Is a Lonesome Town](https://open.spotify.com/album/5XX0nXTLzjR16Eo7f1AhTK) | 4:24 |
 | 30 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
-| 31 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 |
-| 32 | [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 |
+| 31 | [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 |
+| 32 | [Misread](https://open.spotify.com/track/3O090PYVo1do7s3PMCoVoz) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:08 |
 | 33 | [Familiar](https://open.spotify.com/track/2EWnKuspetOzgfBtmaNZvJ) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Citizen of Glass](https://open.spotify.com/album/78BjMfLH8YUXM6hbodHKmA) | 3:55 |
 | 34 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
 | 35 | [Daydream](https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Daydream](https://open.spotify.com/album/678WzpMIeszIatLVnczSnS) | 2:19 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 65 | [Sharpness](https://open.spotify.com/track/2dk5HQv2V6hEVeGGlPvCFA) | [Jamie Woon](https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL) | [Making Time](https://open.spotify.com/album/6ITNDvsL7pS6nv93kwHgwq) | 3:27 |
 | 66 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 67 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
-| 68 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
-| 69 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
+| 68 | [Poison & Wine](https://open.spotify.com/track/4BFudy2Zbryi9a1KFad66B) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E) | 3:39 |
+| 69 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 70 | [Let Her Go \- Acoustic](https://open.spotify.com/track/38OudvGwGjmc5R4sDb2rd0) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights \(Deluxe Version\)](https://open.spotify.com/album/6jH2g82WMRAVCuyifUsLpF) | 4:26 |
 | 71 | [Gaffe aux autres](https://open.spotify.com/track/33mN4sWswIF5wlRs061KXX) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Carrousel](https://open.spotify.com/album/48ipTBEr85O48Ig0CAQc5x) | 2:57 |
 | 72 | [Sunny Road](https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq) | 3:04 |
@@ -87,17 +87,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 77 | [Mon idole](https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs](https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy) | 4:41 |
 | 78 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 |
 | 79 | [Words Remain](https://open.spotify.com/track/1AW4amyytwC0JNVmpVngIN) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The World Within \(Deluxe\)](https://open.spotify.com/album/4fPZlK0nyB5bOXZdRnihUX) | 3:27 |
-| 80 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
-| 81 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |
+| 80 | [Black Dog](https://open.spotify.com/track/37pShAS4iuRXJeRAa9k6xw) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:48 |
+| 81 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
 | 82 | [Grace](https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:31 |
-| 83 | [Le temps fera les choses \- Alternative version](https://open.spotify.com/track/4m6d9oMljnYhxgY46vTTs8) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite \(Deluxe\)](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 2:57 |
-| 84 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
-| 85 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
+| 83 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
+| 84 | [Lay Down](https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Son Little \(Deluxe Edition\)](https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ) | 3:48 |
+| 85 | [Le temps fera les choses \- Alternative version](https://open.spotify.com/track/4m6d9oMljnYhxgY46vTTs8) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite \(Deluxe\)](https://open.spotify.com/album/2hQ9QcZ4VkoeBdBo1JNG64) | 2:57 |
 | 86 | [Let You Go](https://open.spotify.com/track/3Q5EDW5YtRcnrWS2fTFnw1) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Blood Moon](https://open.spotify.com/album/2jCMxN3Ys1PCq6FQBEwM5L) | 3:52 |
 | 87 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 |
 | 88 | [Living Proof](https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 4:53 |
-| 89 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 |
-| 90 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
+| 89 | [4 And 20](https://open.spotify.com/track/6UHJ8O2EmdLiroQzYTswDn) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Colour Me Free](https://open.spotify.com/album/3OOpBySVB1weJ90qyLxFKL) | 5:06 |
+| 90 | [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 |
 | 91 | [You and Me](https://open.spotify.com/track/3DKYv4paFYB1p4H6qKaiKi) | [You+Me](https://open.spotify.com/artist/0WO1Yn4pcC30HOKLD68JKm) | [rose ave.](https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ) | 3:12 |
 | 92 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
 | 93 | [Worry](https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42c5TkSUfEb.md) - [plain]
 | 99 | [Tableau](https://open.spotify.com/track/6d7Nhnnd68Pzdf6Pr476BT) | [Kaky](https://open.spotify.com/artist/2BbWg6tgQK7hINJ0EDzk4O) | [Joli monde](https://open.spotify.com/album/0ue1oWkvCPf8gAGnJ6m9t6) | 3:48 |
 | 100 | [Imagining My Man](https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Party](https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K) | 5:51 |
 
-Snapshot ID: `MCxlNzliNzZiMjNkZjdlOGIzNWYwYTM4ZjYyNjAxZGJjYThhMWZiMGFh`
+Snapshot ID: `MCxjYWRlYzc4YzdhYjQ2NDI5MzFmOWYxZDI5MGU5NTM5OWVmMzU0OGY2`

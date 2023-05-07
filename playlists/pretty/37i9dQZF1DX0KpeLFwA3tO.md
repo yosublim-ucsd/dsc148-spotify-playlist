@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: DRAIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,502 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,559 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Armageddon](https://open.spotify.com/track/0cphnlzamiAzqoX52U0UtB) | [Lil Misery](https://open.spotify.com/artist/5eZhEAEkHKmrPhambLphk9) | [Armageddon](https://open.spotify.com/album/5m839NgZKuERdFCsDB5Exi) | 2:41 |
 | 100 | [Facedown](https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:31 |
 
-Snapshot ID: `MCw5NWI1Yzg2OGRmMDBjZjcxOTRhMmFkYjk5N2Q5YTJhZDJjYmYyN2M5`
+Snapshot ID: `MCw0OTRiZTg5MTIwZjdmODI5MmI0YTg0ZjQ2YTJiYzQ1NWFkZjJlYjk2`

@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 32319,
+  "num_followers": 32383,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmM5NTA0YjI3YmYyMzhkMDFkNmEyODg5ZjcwMWY3YTA2MWE5N2Q3",
+  "snapshot_id": "MCw3MmI0MzFkZDliZGU0NzU1MDBhMGUwOGM1YzJhNjE4NmU2ODhmOTQw",
   "tracks": [
     {
       "added_at": "2023-05-02 08:48:46",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "Salad Days",
-        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 231723,
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
+        "name": "Salad Days",
+        "url": "https://open.spotify.com/album/2sij95QgjmgrhNv33achzn"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 231723,
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/7H7NyZ3G075GqPx2evsfeb"
     },
     {
       "added_at": "2023-05-02 08:48:46",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2023-05-02 08:48:46",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "vendetta!",
-        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
-      },
-      "artists": [
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
-        },
-        {
-          "name": "Sadfriendd",
-          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
-        }
-      ],
-      "duration_ms": 107044,
-      "name": "vendetta!",
-      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "LIVE FOREVER",
         "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 85360,
       "name": "nuts",
       "url": "https://open.spotify.com/track/11k8KTbNeG9iabeNXMuwf0"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
+        "name": "vendetta!",
+        "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
+      },
+      "artists": [
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        },
+        {
+          "name": "Sadfriendd",
+          "url": "https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH"
+        }
+      ],
+      "duration_ms": 107044,
+      "name": "vendetta!",
+      "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
       "added_at": "2023-05-02 08:48:46",
@@ -939,42 +939,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 156506,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
-        "name": "Collide (Remix Pack)",
-        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
-      },
-      "artists": [
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 221168,
-      "name": "Collide (Sped Up Remix)",
-      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "WORTH NOTHING (feat. Oliver Tree) [Fast & Furious: Drift Tape/Vol 1]",
         "url": "https://open.spotify.com/album/3iqdAcelKcHA5cdJXse2Gr"
       },
@@ -995,6 +959,22 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 156506,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
+        "name": "Collide (Remix Pack)",
+        "url": "https://open.spotify.com/album/3mF3LQfPAiw2gAuj0BrzPG"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 221168,
+      "name": "Collide (Sped Up Remix)",
+      "url": "https://open.spotify.com/track/1r6qzxz77Tvbrvqd1Q1MIN"
     },
     {
       "added_at": "2023-05-02 08:48:46",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "MIDNIGHT",
-        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
-      },
-      "artists": [
-        {
-          "name": "PLAYAMANE",
-          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
-        },
-        {
-          "name": "Nateki",
-          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
-        }
-      ],
-      "duration_ms": 121972,
-      "name": "MIDNIGHT",
-      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
@@ -1123,6 +1103,26 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
+        "name": "MIDNIGHT",
+        "url": "https://open.spotify.com/album/5nWRdZWdSXAMvLTZFxuD2W"
+      },
+      "artists": [
+        {
+          "name": "PLAYAMANE",
+          "url": "https://open.spotify.com/artist/13itspgSHkUbOq03AhIyjS"
+        },
+        {
+          "name": "Nateki",
+          "url": "https://open.spotify.com/artist/3g0UoyvaTaHUrfpHiRqsD1"
+        }
+      ],
+      "duration_ms": 121972,
+      "name": "MIDNIGHT",
+      "url": "https://open.spotify.com/track/2WzAAerBvZvvFXgUpSwHZ9"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
         "name": "moment",
         "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 129543,
       "name": "moment",
       "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213394,
+      "name": "Freed From Desire",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-05-02 08:48:46",
@@ -1159,22 +1175,6 @@
       "duration_ms": 153758,
       "name": "ORIGAMI ALL'ALBA - CLARA",
       "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
     },
     {
       "added_at": "2023-05-02 08:48:46",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Bubble Gum",
+      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
         "name": "Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A"
       },
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/4IlnBRDEsHcr9EWxmbgMC2"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Bubble Gum",
-      "url": "https://open.spotify.com/track/3zksbXteOCeSusJ5Xltr3t"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "Dear Wormwood",
         "url": "https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-05-02 08:48:46",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
-      },
-      "artists": [
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        }
-      ],
-      "duration_ms": 152593,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
-    },
-    {
-      "added_at": "2023-05-02 08:48:46",
-      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
       },
@@ -1295,6 +1279,26 @@
       "duration_ms": 111074,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
+    },
+    {
+      "added_at": "2023-05-02 08:48:46",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy"
     }
   ],
   "unique_name": "la mia testa:",

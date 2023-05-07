@@ -1,12 +1,12 @@
 {
-  "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: White-B",
-  "num_followers": 7192,
+  "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
+  "num_followers": 7200,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDVjNTdiNWU4M2VhMmE0Y2NjOWEzOGFlYzA4NzNhYTYzMjExNGVi",
+  "snapshot_id": "MCw3ZmUwY2IzYjRiZjc4ODM2NDc4ZjVmMDJhNzIxYjNkY2JkMmE2NzA4",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "On Frap",
-        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
-      },
-      "artists": [
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Diamant",
-      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Monarque",
         "url": "https://open.spotify.com/album/4dnkodXsUuDEIEZ5WfYqHb"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 194805,
       "name": "Femme fatale",
       "url": "https://open.spotify.com/track/4EqRnOWaV7JoK1Z6EZzVU9"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "On Frap",
+        "url": "https://open.spotify.com/album/4WacgaqV5Fj3kjvr9Azv2k"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Diamant",
+      "url": "https://open.spotify.com/track/60XNFbjWEmcxxG1Mjm3OyF"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -907,22 +907,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "5 dans la whip",
-        "url": "https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C"
+        "name": "Silence de mort",
+        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
       "artists": [
         {
-          "name": "Le Ice",
-          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
-        },
-        {
-          "name": "Peeda",
-          "url": "https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4"
+          "name": "Random",
+          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
         }
       ],
-      "duration_ms": 206216,
-      "name": "5 dans la whip",
-      "url": "https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd"
+      "duration_ms": 189344,
+      "name": "Entre toi et moi",
+      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -963,18 +959,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Silence de mort",
-        "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
+        "name": "5 dans la whip",
+        "url": "https://open.spotify.com/album/2ARSenbmfKFWJE6XDQeq0C"
       },
       "artists": [
         {
-          "name": "Random",
-          "url": "https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8"
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4"
         }
       ],
-      "duration_ms": 189344,
-      "name": "Entre toi et moi",
-      "url": "https://open.spotify.com/track/5NfnhUxP5iSIPajibgMB67"
+      "duration_ms": 206216,
+      "name": "5 dans la whip",
+      "url": "https://open.spotify.com/track/10mXjx88SfukbzEotbM1Jd"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Dis moi",
-        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 247170,
-      "name": "Dis Moi",
-      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Dead Summer",
         "url": "https://open.spotify.com/album/3sOQNYpBqJ4ycOhcDTxUy5"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "La Nuit des Longs Couteaux",
-        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
+        "name": "Dis moi",
+        "url": "https://open.spotify.com/album/0o2F7nm9VHaApSJqWTgQOW"
       },
       "artists": [
         {
-          "name": "Koriass",
-          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
         }
       ],
-      "duration_ms": 283613,
-      "name": "\u00c9l\u00e9phant",
-      "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
+      "duration_ms": 247170,
+      "name": "Dis Moi",
+      "url": "https://open.spotify.com/track/1oFBEWYPqis4mpQZB8sl4H"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 228092,
       "name": "\u00c7a que c'tait",
       "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "La Nuit des Longs Couteaux",
+        "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
+      },
+      "artists": [
+        {
+          "name": "Koriass",
+          "url": "https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq"
+        }
+      ],
+      "duration_ms": 283613,
+      "name": "\u00c9l\u00e9phant",
+      "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Non Merci",
-        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
-      },
-      "artists": [
-        {
-          "name": "Corops",
-          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
-        }
-      ],
-      "duration_ms": 211970,
-      "name": "Non Merci",
-      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
-      },
-      "artists": [
-        {
-          "name": "DawaMafia",
-          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
-        }
-      ],
-      "duration_ms": 171262,
-      "name": "G-code",
-      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1215,6 +1183,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/0IylneHtusMBsWufSs54aE"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "duration_ms": 171262,
+      "name": "G-code",
+      "url": "https://open.spotify.com/track/5itkCvoNJEMKZjrphwxTv7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Silence de mort",
         "url": "https://open.spotify.com/album/0GCjjUJVzXRPU3UfkUqjlU"
       },
@@ -1235,26 +1219,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "51tr4p Fr4p50",
-        "url": "https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG"
+        "name": "Non Merci",
+        "url": "https://open.spotify.com/album/3asfrXJVyCY59xbybGCeXA"
       },
       "artists": [
         {
-          "name": "Tizzo",
-          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
-        },
-        {
-          "name": "Shreez",
-          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
-        },
-        {
-          "name": "Soft",
-          "url": "https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF"
+          "name": "Corops",
+          "url": "https://open.spotify.com/artist/2eufINdyNiN9l083aCyf8s"
         }
       ],
-      "duration_ms": 226067,
-      "name": "On Fouette",
-      "url": "https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn"
+      "duration_ms": 211970,
+      "name": "Non Merci",
+      "url": "https://open.spotify.com/track/1tWOEYX6BrunBUDk6uApLC"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1279,6 +1255,30 @@
       "duration_ms": 219062,
       "name": "Dans L'trap",
       "url": "https://open.spotify.com/track/4ZaVq23ofISP4U9EChy7sN"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "51tr4p Fr4p50",
+        "url": "https://open.spotify.com/album/2F8K3bOEdbX9xh6g9EX5uG"
+      },
+      "artists": [
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Soft",
+          "url": "https://open.spotify.com/artist/24tG8onRIqNr5bFhVkROUF"
+        }
+      ],
+      "duration_ms": 226067,
+      "name": "On Fouette",
+      "url": "https://open.spotify.com/track/70MAMZj0aeCAq3duYgngsn"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Le set up",
-        "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
-      },
-      "artists": [
-        {
-          "name": "Raccoon",
-          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
-        }
-      ],
-      "duration_ms": 158660,
-      "name": "Univers parall\u00e8le",
-      "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Bonhomme Pendu (Chapitre 2)",
         "url": "https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 235075,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Le set up",
+        "url": "https://open.spotify.com/album/58yIunmtr4PsI04yTaZYPc"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        }
+      ],
+      "duration_ms": 158660,
+      "name": "Univers parall\u00e8le",
+      "url": "https://open.spotify.com/track/6B2W2VCHsXfHGAdvfJK4CA"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "...At Least My Mom Loves Me",
-        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
-      },
-      "artists": [
-        {
-          "name": "Maky Lavender",
-          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
-        }
-      ],
-      "duration_ms": 243721,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Le sens des paroles",
         "url": "https://open.spotify.com/album/0GNDdLfBY9hHJK4x4BU6Ck"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "...At Least My Mom Loves Me",
+        "url": "https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        }
+      ],
+      "duration_ms": 243721,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
+      },
+      "artists": [
+        {
+          "name": "O.Z",
+          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1575,22 +1591,6 @@
       "duration_ms": 180983,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/00dvZVIrHdAJJCSQx9kcS0"
-      },
-      "artists": [
-        {
-          "name": "O.Z",
-          "url": "https://open.spotify.com/artist/1OOqRDxjjXJZaHjgliZaHc"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3hdQsBaZ7FD3MpNIhwBSM1"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Faits d'hiver",
+        "url": "https://open.spotify.com/album/4kk3W4tg7QRzm0UEQfBBWf"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Faits d'hiver",
+      "url": "https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Canicule, Vol.1",
         "url": "https://open.spotify.com/album/31u0rjLg49Ae8T7VHysfwP"
       },
@@ -1835,38 +1851,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Faits d'hiver",
-        "url": "https://open.spotify.com/album/4kk3W4tg7QRzm0UEQfBBWf"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Faits d'hiver",
-      "url": "https://open.spotify.com/track/300wnPpERq0OFEG92ur2Nn"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "4:00AM",
-        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
-      },
-      "artists": [
-        {
-          "name": "Kevin Na$h",
-          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
-        }
-      ],
-      "duration_ms": 202515,
-      "name": "I Roll",
-      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Sainte-Foy",
         "url": "https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 252259,
       "name": "\u00c7a fait mal",
       "url": "https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "4:00AM",
+        "url": "https://open.spotify.com/album/06L3p66OXrDTt8HWOVos57"
+      },
+      "artists": [
+        {
+          "name": "Kevin Na$h",
+          "url": "https://open.spotify.com/artist/4bSqrWNdF5qg2YjzygfaJj"
+        }
+      ],
+      "duration_ms": 202515,
+      "name": "I Roll",
+      "url": "https://open.spotify.com/track/7qRsQKdI9v4vMle581uJu0"
     }
   ],
   "unique_name": "Les nouveaux classiques",

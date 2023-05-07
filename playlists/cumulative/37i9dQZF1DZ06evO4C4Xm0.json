@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "album": {
         "name": "EPICA EXTENSION",
         "url": "https://open.spotify.com/album/6xGS4skTi0ZUyzyqIUDocs"
       },
@@ -1816,7 +1838,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 141040,
       "name": "Sombre Reptiles - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/09owruFWkS2w3SXKdbmBbw"

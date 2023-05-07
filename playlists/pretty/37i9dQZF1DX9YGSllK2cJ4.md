@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,524 likes - 184 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,627 likes - 184 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 183 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 184 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCxkNzVkMzVkYjU3NDI1ZWE5Y2IyNjlkMWQ5NWYyM2YxNjM1MTA3YjE1`
+Snapshot ID: `MCw1Y2E5YTFlMTlmMDQzZjg2NjFmZTEzOWU4YzA1MGIxODZhODE3YzRh`

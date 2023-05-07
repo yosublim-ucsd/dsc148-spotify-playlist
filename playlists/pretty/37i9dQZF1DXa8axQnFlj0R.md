@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,271 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,251 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 65 | [Darling](https://open.spotify.com/track/39nc7C7C7iIJtVAlNznst7) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:02 |
 | 66 | [Brutally](https://open.spotify.com/track/4z6qtN4iZ7MPVZYCtiSgsM) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Brutally](https://open.spotify.com/album/1EffBpw7DW3vrOBCox9l0R) | 3:28 |
 | 67 | [Unfortunate Love](https://open.spotify.com/track/5Syb5fDjejlzXhwHhEFVzq) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx), [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Unfortunate Love](https://open.spotify.com/album/67aV8hBRcZ0irSncujuXA6) | 3:46 |
-| 68 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
-| 69 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
+| 68 | [Two People](https://open.spotify.com/track/0htjtrOVbQpWoDYYwPIrWY) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:56 |
+| 69 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 70 | [The Killer Was a Coward](https://open.spotify.com/track/3c67dPnPg08gwduVB08hpZ) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear \(The Complete Edition\)](https://open.spotify.com/album/4Z6CfVlX40xDUq4CTiFpAa) | 4:20 |
 | 71 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
 | 72 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 89 | [Glad I Got You](https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 2:40 |
 | 90 | [Last To Make It Home](https://open.spotify.com/track/3cV2LIqOuroxPnpAYsfoLq) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under \(Deluxe\)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | 5:21 |
 | 91 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
-| 92 | [Love You Twice](https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Love You Twice](https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5) | 3:24 |
-| 93 | [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 |
+| 92 | [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 |
+| 93 | [Love You Twice](https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Love You Twice](https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5) | 3:24 |
 | 94 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
 | 95 | [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 |
 | 96 | [Delicious Things](https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 5:04 |
 | 97 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 |
-| 98 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
-| 99 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
+| 98 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
+| 99 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 100 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 |
 
-Snapshot ID: `MCxjMzM4ZmI2YzViYjVhMDc2ZjU4ZWY0NzY1NjBkZTA0MTA0Zjg0OTVl`
+Snapshot ID: `MCw3MDZmNmU1ZTM5MGUxZjNjNmIzNjVlMDdhZmIxMTQ3MmM4ZmFhZmE3`

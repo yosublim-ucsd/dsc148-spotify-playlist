@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Against The Current
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,083 likes - 85 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,168 likes - 85 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 84 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 |
 | 85 | [32](https://open.spotify.com/track/2sYl3t3Rrnrs7mDbDHnIPg) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [32](https://open.spotify.com/album/3pm0elSt5GTx5OJAw0Wrfx) | 4:41 |
 
-Snapshot ID: `MCw1NTQ0ZDE3ZTVjYzI2Zjk2YTkwZDE5YWEzZTZlMjdmM2E1MWI2NmRi`
+Snapshot ID: `MCw0YjQxOGI1ZTVkYTBhMzg0NmNmYzJmY2NlZjYxZmZlNDdjOGY4YTll`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > AJR along with the top alternative songs of today!
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,766 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,804 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 54 | [Digital Silence](https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Digital Silence](https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp) | 3:18 |
 | 55 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
 
-Snapshot ID: `MCwzOTI5ZWU2MTM5OWRiOGMzMThkOWYwZjI5NGQ5OWI4ZTI0YWM5MGMz`
+Snapshot ID: `MCw0OWQyZTk5NzhhYWJiYjNkZjE3NGE3MDQwNDAzMmJkYTM2ZTVkZGVh`

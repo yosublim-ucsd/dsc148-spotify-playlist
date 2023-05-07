@@ -1,12 +1,12 @@
 {
   "description": "A beginners introduction to the beauty of Jazz. Cover: Chet Baker",
-  "num_followers": 174100,
+  "num_followers": 174314,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWNkM2MyY2M4ZTNhNzYxOTE2NTI0Nzc4MTNjOGFlN2M0Y2FkZjg3",
+  "snapshot_id": "MCwzZGY0OTRjZTZlN2NiN2NhNWE3ZDA4ODc5MjBkNGM2YzVlMWQyMjRl",
   "tracks": [
     {
       "added_at": "2023-05-03 13:24:51",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-03 13:24:51",
       "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Love Me Or Leave Me",
-      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
-    },
-    {
-      "added_at": "2023-05-03 13:24:51",
-      "album": {
         "name": "The Glenn Miller Carnegie Hall Concert (Live)",
         "url": "https://open.spotify.com/album/5HX046215eBYM6hZ5rwDKk"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 209573,
       "name": "In the Mood - Live",
       "url": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
+    },
+    {
+      "added_at": "2023-05-03 13:24:51",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
     },
     {
       "added_at": "2023-05-03 13:24:51",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-05-03 13:24:51",
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+    },
+    {
+      "added_at": "2023-05-03 13:24:51",
+      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 570720,
       "name": "Moanin' - Remastered",
       "url": "https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt"
-    },
-    {
-      "added_at": "2023-05-03 13:24:51",
-      "album": {
-        "name": "Satchmo Serenades",
-        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "La vie en rose - Single Version",
-      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
     },
     {
       "added_at": "2023-05-03 13:24:51",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-03 13:24:51",
       "album": {
-        "name": "Jazz Profile: Cannonball Adderley",
-        "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 313200,
-      "name": "Mercy, Mercy, Mercy",
-      "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
-    },
-    {
-      "added_at": "2023-05-03 13:24:51",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2023-05-03 13:24:51",
+      "album": {
+        "name": "Jazz Profile: Cannonball Adderley",
+        "url": "https://open.spotify.com/album/5JpHin9lKOyizuJhKxaHWp"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Mercy, Mercy, Mercy",
+      "url": "https://open.spotify.com/track/6NF8MZ2trxckVBr82pyyPt"
     },
     {
       "added_at": "2023-05-03 13:24:51",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-03 13:24:51",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
-    },
-    {
-      "added_at": "2023-05-03 13:24:51",
-      "album": {
         "name": "The Atomic Mr Basie",
         "url": "https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 217373,
       "name": "Splanky",
       "url": "https://open.spotify.com/track/3Y0LpU5kqQ3vSZvwcGjl1M"
+    },
+    {
+      "added_at": "2023-05-03 13:24:51",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2023-05-03 13:24:51",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-05-03 13:24:51",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Peggy Lee",
-        "url": "https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF"
-      },
-      "artists": [
-        {
-          "name": "Peggy Lee",
-          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN"
-    },
-    {
-      "added_at": "2023-05-03 13:24:51",
-      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 322000,
       "name": "I Guess I'll Hang My Tears Out To Dry - Rudy Van Gelder Edition/Remastered 1999",
       "url": "https://open.spotify.com/track/58ylMBq2yqYdHyevarkNWa"
+    },
+    {
+      "added_at": "2023-05-03 13:24:51",
+      "album": {
+        "name": "Great Ladies Of Song / Spotlight On Peggy Lee",
+        "url": "https://open.spotify.com/album/0MX57ntrC0wpRZpTOXhWEF"
+      },
+      "artists": [
+        {
+          "name": "Peggy Lee",
+          "url": "https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/6eCsRg7OBi1zT2CEKKyoXN"
     },
     {
       "added_at": "2023-05-03 13:24:51",

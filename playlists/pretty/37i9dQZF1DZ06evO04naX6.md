@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,068 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,084 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Plakito \(feat\. El General Gadiel & Farruko\) \- Remix](https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [El General Gadiel](https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Legacy \- De Líder a Leyenda Tour \(Deluxe Edition\)](https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ) | 3:26 |
 | 50 | [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkNDM1OWM1Y2NkNjQ2N2RjYmQ4YzQ5ZTMxMWU5YTU0Yw==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAwNDQ3ODFhMTY5MjMwODgzMTA5ZmUxODZjYThlMjQzMw==`

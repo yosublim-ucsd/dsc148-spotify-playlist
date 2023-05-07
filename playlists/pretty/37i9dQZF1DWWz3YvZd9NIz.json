@@ -1,405 +1,13 @@
 {
   "description": "The best remixes of popular tracks!",
-  "num_followers": 48425,
+  "num_followers": 48966,
   "original_name": "Hardstyle Remixes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWZmYTRjOWYxNGQxNmIwYTYzNGUxNzRlZDQ3N2ZlNjAwNzE1OTQz",
+  "snapshot_id": "MCw1NDk0NGM5ZjIwMzQ2MDEyYTU5OGRjZWFlOGMwMTliZjNhZWE1MTcw",
   "tracks": [
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "I'm Good (Blue) [Hardstyle Remix]",
-        "url": "https://open.spotify.com/album/6ve23uImjwV76ljprYJHSZ"
-      },
-      "artists": [
-        {
-          "name": "Kratos",
-          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
-        },
-        {
-          "name": "Hardstyle Gym Bro",
-          "url": "https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G"
-        }
-      ],
-      "duration_ms": 151124,
-      "name": "I'm Good (Blue) - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/5YQoeliHU9Iz2La6pgsL9X"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "The Nights (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP"
-      },
-      "artists": [
-        {
-          "name": "Thymo",
-          "url": "https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn"
-        }
-      ],
-      "duration_ms": 150375,
-      "name": "The Nights - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Bloody Mary",
-        "url": "https://open.spotify.com/album/4seVM4HKphKWbuVPL0q8k9"
-      },
-      "artists": [
-        {
-          "name": "Lockdown",
-          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Bloody Mary",
-      "url": "https://open.spotify.com/track/00NbtCjGk8CqdB8ukjxCT4"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Bad Habits",
-        "url": "https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3"
-      },
-      "artists": [
-        {
-          "name": "MELON",
-          "url": "https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB"
-        },
-        {
-          "name": "Hardstyle Fruits Music",
-          "url": "https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Das Armas",
-        "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 182709,
-      "name": "Das Armas",
-      "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Cotton Eye Joe",
-        "url": "https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej"
-      },
-      "artists": [
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Cotton Eye Joe",
-      "url": "https://open.spotify.com/track/6drFg3M61Ed3puJCcQ44XI"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Another Love (Hardstyle - Sped Up)",
-        "url": "https://open.spotify.com/album/0oZRwlLZJqGWRyLMS72RQ9"
-      },
-      "artists": [
-        {
-          "name": "BAKI",
-          "url": "https://open.spotify.com/artist/76krwUBanEdJxfdBhGehLW"
-        },
-        {
-          "name": "ZYZZ",
-          "url": "https://open.spotify.com/artist/4iVtUKJwDlropmzNOFMBtM"
-        },
-        {
-          "name": "GYM HARDSTYLE",
-          "url": "https://open.spotify.com/artist/4L5D0YgMaZOS1xJKUCBBMH"
-        }
-      ],
-      "duration_ms": 129783,
-      "name": "Another Love - Hardstyle - Sped Up",
-      "url": "https://open.spotify.com/track/5VhPhDGiJrc2rd7GbToA7z"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "What's Up?",
-        "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Fire to the Rain Hardstyle",
-        "url": "https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8"
-      },
-      "artists": [
-        {
-          "name": "ANDONIS",
-          "url": "https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP"
-        }
-      ],
-      "duration_ms": 150363,
-      "name": "Fire to the Rain - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Just Dance (Hardstyle)",
-        "url": "https://open.spotify.com/album/5iMaejRpMPquOG2YXVRPJ7"
-      },
-      "artists": [
-        {
-          "name": "puremind",
-          "url": "https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX"
-        }
-      ],
-      "duration_ms": 150427,
-      "name": "Just Dance (Hardstyle)",
-      "url": "https://open.spotify.com/track/3O5nmXfS7o6FuEEmiNTWDz"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Sweater Weather",
-        "url": "https://open.spotify.com/album/49oEQTuxnqqiOw66AfI5zc"
-      },
-      "artists": [
-        {
-          "name": "Jomarijan",
-          "url": "https://open.spotify.com/artist/5iHZxQtcP3E5hjuzPeocgW"
-        }
-      ],
-      "duration_ms": 202398,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/77y3caTFtC3n4tGgyPUF87"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "All the Things She Said 2020 (Sub Sonik Remix)",
-        "url": "https://open.spotify.com/album/3jq4Nwfz3kIAK1N2bfbRnz"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Scarlet",
-          "url": "https://open.spotify.com/artist/59APLaxReprkLuj2JBO0YD"
-        },
-        {
-          "name": "Sub Sonik",
-          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
-        }
-      ],
-      "duration_ms": 209931,
-      "name": "All The Things She Said 2020 - Sub Sonik Remix",
-      "url": "https://open.spotify.com/track/5w7TpgrPzWAEuAg0PSQukj"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/65ZzjaYCQC51PxGo0anzme"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "Firelite",
-          "url": "https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2"
-        }
-      ],
-      "duration_ms": 194921,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/3fdK0eZWK2iNOdigAxvDGr"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Miss You (Remix)",
-        "url": "https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Yosuf",
-          "url": "https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg"
-        },
-        {
-          "name": "Dionysus",
-          "url": "https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Miss You - Remix",
-      "url": "https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "The Sinner",
-        "url": "https://open.spotify.com/album/0i17sHHGhyA9OSAPhwnYkH"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Raakmo",
-          "url": "https://open.spotify.com/artist/5RAiaze7u3rrFkJbFJ4dWG"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "The Sinner",
-      "url": "https://open.spotify.com/track/1vXhMbqeQdSpsdVNf8mP8n"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Come With Me",
-        "url": "https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "Special D.",
-          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
-        }
-      ],
-      "duration_ms": 161589,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Around the World (La la La)",
-        "url": "https://open.spotify.com/album/6ZMEtCubtaVQp5q458xbgj"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 153328,
-      "name": "Around the World (La la La)",
-      "url": "https://open.spotify.com/track/1WF4RTvSeDTOQBD9epYwEi"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Firework",
-        "url": "https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w"
-      },
-      "artists": [
-        {
-          "name": "Always Mirin",
-          "url": "https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y"
-        }
-      ],
-      "duration_ms": 128274,
-      "name": "Firework",
-      "url": "https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Creep (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92"
-      },
-      "artists": [
-        {
-          "name": "Naeleck",
-          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        },
-        {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Creep - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz"
-    },
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
@@ -651,22 +259,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "One Kiss (Hardstyle)",
-        "url": "https://open.spotify.com/album/1mMXaL9ODZKbtfy0T5KlHl"
-      },
-      "artists": [
-        {
-          "name": "crypvolk",
-          "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS"
-        }
-      ],
-      "duration_ms": 165677,
-      "name": "One Kiss (Hardstyle)",
-      "url": "https://open.spotify.com/track/2sNrZEAGLRQ7iDtXf5WsuV"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Mirrors (Hardstyle)",
         "url": "https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU"
       },
@@ -679,6 +271,22 @@
       "duration_ms": 116117,
       "name": "Mirrors (Hardstyle)",
       "url": "https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "One Kiss (Hardstyle)",
+        "url": "https://open.spotify.com/album/1mMXaL9ODZKbtfy0T5KlHl"
+      },
+      "artists": [
+        {
+          "name": "crypvolk",
+          "url": "https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS"
+        }
+      ],
+      "duration_ms": 165677,
+      "name": "One Kiss (Hardstyle)",
+      "url": "https://open.spotify.com/track/2sNrZEAGLRQ7iDtXf5WsuV"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1307,6 +915,26 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "One Kiss (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/2wkkPYISfaTdPhOuZxeAfh"
+      },
+      "artists": [
+        {
+          "name": "Kratos",
+          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
+        },
+        {
+          "name": "Hardstyle Gym Bro",
+          "url": "https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G"
+        }
+      ],
+      "duration_ms": 142875,
+      "name": "One Kiss - Hardstyle Remix",
+      "url": "https://open.spotify.com/track/0Z2adSk6KmnD22xsUuBKLP"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "All Of Me (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/6mHRTXGitwY2KC3Dw3CxxF"
       },
@@ -1347,22 +975,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Never See Me Again",
-        "url": "https://open.spotify.com/album/1EsUu6pZ6I0NsITBN1Ua9y"
-      },
-      "artists": [
-        {
-          "name": "Unproven",
-          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
-        }
-      ],
-      "duration_ms": 160812,
-      "name": "Never See Me Again",
-      "url": "https://open.spotify.com/track/7KQchwvb5bBeGbkQ8E0A1N"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Turn The Tide Revisited",
         "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
       },
@@ -1383,6 +995,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Never See Me Again",
+        "url": "https://open.spotify.com/album/1EsUu6pZ6I0NsITBN1Ua9y"
+      },
+      "artists": [
+        {
+          "name": "Unproven",
+          "url": "https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI"
+        }
+      ],
+      "duration_ms": 160812,
+      "name": "Never See Me Again",
+      "url": "https://open.spotify.com/track/7KQchwvb5bBeGbkQ8E0A1N"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "The Ketchup Song (Aserej\u00e9)",
         "url": "https://open.spotify.com/album/5IqL7tTITGxUmCpIVxa1eZ"
       },
@@ -1395,26 +1023,6 @@
       "duration_ms": 170217,
       "name": "The Ketchup Song (Aserej\u00e9)",
       "url": "https://open.spotify.com/track/4OlxnyDUxqxD8s5nLspmz3"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "One Kiss (Hardstyle Remix)",
-        "url": "https://open.spotify.com/album/2wkkPYISfaTdPhOuZxeAfh"
-      },
-      "artists": [
-        {
-          "name": "Kratos",
-          "url": "https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs"
-        },
-        {
-          "name": "Hardstyle Gym Bro",
-          "url": "https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G"
-        }
-      ],
-      "duration_ms": 142875,
-      "name": "One Kiss - Hardstyle Remix",
-      "url": "https://open.spotify.com/track/0Z2adSk6KmnD22xsUuBKLP"
     }
   ],
   "unique_name": "Hardstyle Remixes",

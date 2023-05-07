@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Ed Sheeran,  Galantis, XG, Tyga and more! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,738 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,774 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 17 | [Love Is The New Money](https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Is The New Money](https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S) | 2:30 |
 | 18 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 |
 | 19 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 |
-| 20 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral Version](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
+| 20 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
 | 21 | [I'll Be](https://open.spotify.com/track/7DtlKJZoks3dmk6RXDM0yG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:03 |
 | 22 | [5/7](https://open.spotify.com/track/3PccLRXNz7D3qtm1vPhlao) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Portrait](https://open.spotify.com/album/23aneMwJR1EVtAodadsvWj) | 3:49 |
 | 23 | [Lovers in Tokyo \(feat\. ジャンク フジヤマ\)](https://open.spotify.com/track/1rJWTWJ5y8DrrlhHn3XM8G) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb), [ジャンク フジヤマ](https://open.spotify.com/artist/3Adpfee3Od5HH729hCQM7p) | [Lovers in Tokyo \(feat\. ジャンク フジヤマ\)](https://open.spotify.com/album/7FSKYh1Dt2s3KcolYM7QBg) | 3:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 69 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
 | 70 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 
-Snapshot ID: `MCxkNDFkNDk3YzViZDc4Mzg0OGU1Y2IxZTZmNjgyNzc3Zjg0NzkwNWU4`
+Snapshot ID: `MCxjODQ2ZTIwODAwNGNjNTFmYmJkOGU3MmMyNTNlYWFiOGNlODFhNjdm`

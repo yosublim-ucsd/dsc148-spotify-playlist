@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,148 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,139 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 99 | [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 |
 | 100 | [Lunar Eclipse](https://open.spotify.com/track/5LeKKDF7i65mQ3NIW8mkwP) | [Fulton Lee](https://open.spotify.com/artist/5CAvR9koH16JpcoTxUoeyS) | [Lunar Eclipse](https://open.spotify.com/album/40SlzaFKQTtGh2vOv1BPAC) | 3:14 |
 
-Snapshot ID: `MCw5YmIxY2NkMGZiNzQxNWQxNTk5YzdhYjgxM2U1NTkxODQwNWRlZDFl`
+Snapshot ID: `MCw2ZDVkZDEyYmM0ZDkxNzllMjA1MjgzOTRiOWQ3N2NiOTVkNTU4ZjUw`

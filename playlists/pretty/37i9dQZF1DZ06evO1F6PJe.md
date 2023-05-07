@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,917 likes - 51 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,978 likes - 51 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 50 | [Self\-Inflicted Wounds](https://open.spotify.com/track/0r61QhigETeOXpl03u1nSV) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Redemption](https://open.spotify.com/album/0RYR3Kbdh86eNax0i2ulCQ) | 6:35 |
 | 51 | [Somewhere Down The Road](https://open.spotify.com/track/7iXlT2Zy74M7SfbOJH5Sgm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Road To Redemption](https://open.spotify.com/album/4gj1UOa3iiULaU85YcdYTJ) | 5:17 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA1OTY3ZWRlNDNiYjBkYzJlZGEzMzBlYjAwNGI3MGE2Mw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA1ZDU1YzJjZDcxMjE0MGY5YmYyOTQ4NzMxNWIwZDc4MQ==`

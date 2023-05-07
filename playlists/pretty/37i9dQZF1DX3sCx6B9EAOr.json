@@ -1,12 +1,12 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 112293,
+  "num_followers": 112309,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Driving)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTM0ZWIwZTBlZmZlOThkNTRlZDViMjBlODIwMTVhYWYyM2U3OWU2",
+  "snapshot_id": "MCwxZWEzZTM5ZjM4YmVjMWJmMGE3ZDAyYjI4YWE2ZjdjYzFjMDU2MWQ5",
   "tracks": [
     {
       "added_at": "2023-05-02 06:15:15",
@@ -419,26 +419,18 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
         }
       ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -491,18 +483,26 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+        "name": "Bad Decisions (with BTS & Snoop Dogg)",
+        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
       "artists": [
         {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
+      "duration_ms": 172714,
+      "name": "Bad Decisions (with BTS & Snoop Dogg)",
+      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "Glitch Mode - The 2nd Album",
-        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 207053,
-      "name": "Glitch Mode",
-      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
-    },
-    {
-      "added_at": "2023-05-02 06:15:15",
-      "album": {
         "name": "SUNMI SPECIAL EDITION [Gashina]",
         "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 180000,
       "name": "Gashina",
       "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
+    },
+    {
+      "added_at": "2023-05-02 06:15:15",
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Glitch Mode",
+      "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "I Need The Light",
-        "url": "https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "I Need The Light",
-      "url": "https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE"
-    },
-    {
-      "added_at": "2023-05-02 06:15:15",
-      "album": {
         "name": "Paint Me Naked - SM STATION",
         "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 180560,
       "name": "Paint Me Naked",
       "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
+    },
+    {
+      "added_at": "2023-05-02 06:15:15",
+      "album": {
+        "name": "I Need The Light",
+        "url": "https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "I Need The Light",
+      "url": "https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
+        "name": "MOTH",
+        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        }
+      ],
+      "duration_ms": 154003,
+      "name": "Phase Me",
+      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
+    },
+    {
+      "added_at": "2023-05-02 06:15:15",
+      "album": {
         "name": "Return of The Girl",
         "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
       },
@@ -2007,18 +2023,18 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "MOTH",
-        "url": "https://open.spotify.com/album/7JdpeV87hczflCV8GXF3yV"
+        "name": "White Wind",
+        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
       },
       "artists": [
         {
-          "name": "WOOSUNG",
-          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 154003,
-      "name": "Phase Me",
-      "url": "https://open.spotify.com/track/62DCFw57LAAX4CTrzmUCny"
+      "duration_ms": 195855,
+      "name": "gogobebe",
+      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -2039,22 +2055,6 @@
       "duration_ms": 188280,
       "name": "Love War (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
-    },
-    {
-      "added_at": "2023-05-02 06:15:15",
-      "album": {
-        "name": "White Wind",
-        "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 195855,
-      "name": "gogobebe",
-      "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
+        "name": "TRAVEL",
+        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "AYA",
+      "url": "https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV"
+    },
+    {
+      "added_at": "2023-05-02 06:15:15",
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9"
       },
@@ -2155,18 +2171,18 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "TRAVEL",
-        "url": "https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu"
+        "name": "Happy Death Day",
+        "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
         }
       ],
-      "duration_ms": 211280,
-      "name": "AYA",
-      "url": "https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV"
+      "duration_ms": 220396,
+      "name": "Happy Death Day",
+      "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -2187,18 +2203,18 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "Happy Death Day",
-        "url": "https://open.spotify.com/album/3kA1SlUEM2Qt52prtDTuWr"
+        "name": "Dingga",
+        "url": "https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK"
       },
       "artists": [
         {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 220396,
-      "name": "Happy Death Day",
-      "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
+      "duration_ms": 179080,
+      "name": "Dingga",
+      "url": "https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -2231,22 +2247,6 @@
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
-    },
-    {
-      "added_at": "2023-05-02 06:15:15",
-      "album": {
-        "name": "Dingga",
-        "url": "https://open.spotify.com/album/4xzsBcZaK04c8IE5iVyMNK"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Dingga",
-      "url": "https://open.spotify.com/track/0bDYceyQd1jnJO4sK47YxU"
     },
     {
       "added_at": "2023-05-02 06:15:15",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-05-02 06:15:15",
       "album": {
-        "name": "MOVE AGAIN",
-        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "WHEN I MOVE",
-      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
-    },
-    {
-      "added_at": "2023-05-02 06:15:15",
-      "album": {
         "name": "from our Memento Box",
         "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 195653,
       "name": "Stay This Way",
       "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
+    },
+    {
+      "added_at": "2023-05-02 06:15:15",
+      "album": {
+        "name": "MOVE AGAIN",
+        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE",
+      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
     },
     {
       "added_at": "2023-05-02 06:15:15",

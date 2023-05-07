@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,816 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,852 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 17 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 18 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 |
 | 19 | [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 |
-| 20 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 |
-| 21 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:17 |
+| 20 | [Beautiful People \(feat\. Khalid\)](https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:17 |
+| 21 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 |
 | 22 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 |
 | 23 | [High On Life \(feat\. Bonn\)](https://open.spotify.com/track/4ut5G4rgB1ClpMTMfjoIuy) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [High On Life \(feat\. Bonn\)](https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim) | 3:50 |
 | 24 | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/track/0mNi3gEjt1CmZVhXFFjx8d) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB), [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K) | [It's a Beautiful Day \(Reprise\)](https://open.spotify.com/album/5y16jXfwpM8ZrZ2nnNRVlP) | 2:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
 | 60 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
 
-Snapshot ID: `MCw1MGEyY2MyNWZhN2JhMzQ5MjU3YzQ2OTE5NTNjNTUwNWY2YmYyMjk5`
+Snapshot ID: `MCw1MTQxNGMyMWJkN2ViZTEwMWJjM2FjNDFmNWMwYjVmYWFkZTdhYjYy`

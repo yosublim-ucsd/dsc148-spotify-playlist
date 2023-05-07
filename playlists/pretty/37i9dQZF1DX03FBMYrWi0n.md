@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: LUMIÈRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,465 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 35 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
 | 36 | [Cantalou](https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:31 |
 | 37 | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef) | [Backxwash](https://open.spotify.com/artist/4du3q8TIzsZxZZKdRT23Jg), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY) | [I LIE HERE BURIED WITH MY RINGS AND MY DRESSES](https://open.spotify.com/album/4gaxRsSkSQmoyDsTesvplD) | 4:58 |
-| 38 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
+| 38 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
 | 39 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
-| 40 | [Shoegaze](https://open.spotify.com/track/6t5COdf65qd8igj588vkET) | [Mon Doux Saigneur](https://open.spotify.com/artist/7uRYXdN5CZeHV5nYOGol9x) | [Fleur de l'Âge](https://open.spotify.com/album/6Aj0vdfEBYeHmOiFFjZJev) | 3:22 |
+| 40 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
 | 41 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
 | 42 | [Ton hôtel](https://open.spotify.com/track/0kJ00ZShVy5w2hPvabYKsA) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 2:25 |
 | 43 | [Mélamine](https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 2:50 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 48 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
 | 49 | [Coin coin](https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Coin coin](https://open.spotify.com/album/5xDc2kS6gj4IfSX9JcbAeA) | 3:26 |
 | 50 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
-| 51 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
-| 52 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 51 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 52 | [Witness Protection](https://open.spotify.com/track/25c2s6RdpSQN27iPc8Exps) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [The Witness](https://open.spotify.com/album/4UqiUZuZyxnwLQPyJflsjl) | 4:09 |
 | 53 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 |
 | 54 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
 | 55 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 64 | [Ekuan Ek\(u\)](https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC) | [Mitshuap](https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7) | 3:46 |
 | 65 | [Juillet](https://open.spotify.com/track/0rAmw31b9kQLSbOAF7ElaP) | [Frais Dispo](https://open.spotify.com/artist/6TDKketvd7bXUsKVcMKMb9) | [Juillet](https://open.spotify.com/album/78WQi9nKw7KivHbgVwF61a) | 3:04 |
 | 66 | [Sweet Montérégie](https://open.spotify.com/track/622Po4YytbjATQ1B9J6xid) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Sweet Montérégie](https://open.spotify.com/album/62dJ6IUek4cuNPKhgYRaIr) | 3:49 |
-| 67 | [Glam](https://open.spotify.com/track/4eguSwduvRXYMcHuPf6zYO) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Glam](https://open.spotify.com/album/0limMkqQ5HILZa6E9zGMY2) | 4:28 |
-| 68 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 67 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
+| 68 | [Glam](https://open.spotify.com/track/4eguSwduvRXYMcHuPf6zYO) | [LUMIÈRE](https://open.spotify.com/artist/4ANqTWPfihrjaz66YFykwX) | [Glam](https://open.spotify.com/album/0limMkqQ5HILZa6E9zGMY2) | 4:28 |
 | 69 | [Rock & roll sur ton chemin](https://open.spotify.com/track/7Aez89dhpMN39MgmFk9d6K) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rock & roll sur ton chemin](https://open.spotify.com/album/26i7XLkOPTGFz061Ntro8p) | 3:58 |
 | 70 | [Wave](https://open.spotify.com/track/7JjHkIW5WcA68HTYu3K75b) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Wave](https://open.spotify.com/album/4TLtqGfe71qF4fY5n83JgE) | 3:59 |
-| 71 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 |
+| 71 | [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 |
 | 72 | [Nimueshtaten nete](https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza) | [Kanen](https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Nimueshtaten nete](https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO) | 4:00 |
-| 73 | [Doux doux](https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D) | [Jesuslesfilles](https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W) | [L'heure idéale](https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR) | 3:24 |
+| 73 | [Butane](https://open.spotify.com/track/4Gz17gxip7P72DZ8CIzwRI) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Butane](https://open.spotify.com/album/71pFQF3pkQhCDGkHmuxBFd) | 3:47 |
 | 74 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 |
-| 75 | [Pinceau au tombeau](https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Pinceau au tombeau](https://open.spotify.com/album/4GePFLLCkBw3IhK1n851B7) | 4:11 |
+| 75 | [Nyx](https://open.spotify.com/track/5atArqWjcTEjYuoEODbwHU) | [Laurence\-Anne](https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B) | [Musivision](https://open.spotify.com/album/0h2YOL6mf83Ih5I4tvVXUd) | 3:07 |
 
-Snapshot ID: `MCw3YTVjNDg5YTVlYzkxNzQxODVlNWM3M2QzOGJjOTc4Y2YwNDFkMTdl`
+Snapshot ID: `MCxlYWU0YzY5ZDMzMWJmYmZiNjM0MzkzY2NlNTUxZjg3ODk1ZjBmMjMy`

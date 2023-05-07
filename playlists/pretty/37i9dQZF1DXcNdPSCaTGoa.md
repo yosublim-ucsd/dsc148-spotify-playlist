@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,992 likes - 60 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,045 likes - 60 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 13 | [Stimela SaseZola](https://open.spotify.com/track/4sgQGJhzo5kLMCCa9vaRil) | [Mbongeni Ngema](https://open.spotify.com/artist/1CViKOoXPg99pi9aeyvdC1) | [The Ultimate Collection: Mbongeni Ngema](https://open.spotify.com/album/6pFattd30V5QtQimALPrdH) | 5:10 |
 | 14 | [Destiny](https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT) | [Malaika](https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM) | [Malaika](https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z) | 7:22 |
 | 15 | [Nkalakatha](https://open.spotify.com/track/2PGxiV2TSgVHd02eBd0Kz1) | [Mandoza](https://open.spotify.com/artist/4eNzQCNP9F9UKbglvPkDdH) | [Nkalakatha](https://open.spotify.com/album/1hqQFeOpmzLiqQzVkEYSIg) | 4:45 |
-| 16 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
-| 17 | [Sister Bethina](https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf) | [Mgarimbe](https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY) | [Sister Bethina](https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8) | 4:21 |
-| 18 | [1000 Seconds](https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi) | [Durbans Finest](https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd) | 6:08 |
-| 19 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
+| 16 | [Sister Bethina](https://open.spotify.com/track/6MRc3b6gqj916Q2Jjfnswf) | [Mgarimbe](https://open.spotify.com/artist/375le8C5ntGjYVNl3dGYgY) | [Sister Bethina](https://open.spotify.com/album/0PyDqci989gKaLtGzrmjk8) | 4:21 |
+| 17 | [Ngeke Ndiphinde](https://open.spotify.com/track/6mrrQb0xQFxDAA6PkdpnaQ) | [Jaziel Brothers](https://open.spotify.com/artist/4KsgkEyPqr3FCNsKSaNzxs) | [The Beginning](https://open.spotify.com/album/02sIi2DonI9fTx2ExmM6er) | 4:00 |
+| 18 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
+| 19 | [1000 Seconds](https://open.spotify.com/track/6O90gKqMWqeFUiQDWwmLhY) | [Blackwhole](https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi) | [Durbans Finest](https://open.spotify.com/album/6f7w3xSHRV6N3aWEjsZdCd) | 6:08 |
 | 20 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 |
 | 21 | [La Vida](https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:34 |
 | 22 | [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 48 | [Where I Wanna Be](https://open.spotify.com/track/0CJ8BEJi9NOQblvrGspHY9) | [Mina Nawe](https://open.spotify.com/artist/3TZ6Mxn3L5WgSMhXaQtHa0) | [Njalo](https://open.spotify.com/album/5Ho2YfXnMygWGE8Dh2CeAH) | 4:23 |
 | 49 | [Ingoma](https://open.spotify.com/track/1L8hlyQDH09vqHzuCwZDA2) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 6:12 |
 | 50 | [Thobela](https://open.spotify.com/track/25ql5pIONMI4sWnJ7fPnq1) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL), [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [It's Our Game \(No Need To Claim\)](https://open.spotify.com/album/2gPTpcklNpoZBR2awmYX1m) | 4:46 |
-| 51 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
-| 52 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
+| 51 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 |
+| 52 | [Cooler as Ekke](https://open.spotify.com/track/4fBxUtH4erpLDc2BEvUkgf) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA) | [Jack Parow](https://open.spotify.com/album/4NOqbyrs8P30p5fXgcCqX4) | 4:08 |
 | 53 | [Palafala \(feat\. S'bu\)](https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi), [S'bu](https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:15 |
 | 54 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
 | 55 | [Whistling in Tongues](https://open.spotify.com/track/3yGPPz2VJbscAtwWpyHaqj) | [Felix Laband](https://open.spotify.com/artist/3E6Tbv49KoKnCoGqHJHQGx) | [Dark Days Exit](https://open.spotify.com/album/6QJmhprG4QVLv2nrqmRKYq) | 7:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Nizalwa Ngobani?](https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 6:44 |
 | 60 | [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 |
 
-Snapshot ID: `MCw3YTQwYTk0NzM3YmFkZGVmMTRkZjQyZGJkOTk4YTU0MWFlOTI3ZGM3`
+Snapshot ID: `MCwzZGZjNmFmNzBjMTRjNTQ1MTY1ZTE1NGQ5ODUxMzdkZTgyNGEwYjcy`

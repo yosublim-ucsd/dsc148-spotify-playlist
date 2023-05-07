@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378509,
+  "num_followers": 378524,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5",
+  "snapshot_id": "MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -231,6 +231,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "concrete",
-        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "concrete",
-      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "On the Lookout",
         "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 229560,
       "name": "On the Lookout",
       "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "concrete",
+        "url": "https://open.spotify.com/album/4otlYN4uGurlL16mvgeIHT"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "concrete",
+      "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Optimist",
-        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 167551,
-      "name": "The Kids Are All Dying",
-      "url": "https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 199768,
       "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
       "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Optimist",
+        "url": "https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 167551,
+      "name": "The Kids Are All Dying",
+      "url": "https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 254871,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
-      },
-      "artists": [
-        {
-          "name": "New Friends",
-          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
-        }
-      ],
-      "duration_ms": 255847,
-      "name": "Purple Candy",
-      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Boy in Jeans",
         "url": "https://open.spotify.com/album/2JCzwyBkW4xUNs35vlG3mn"
       },
@@ -827,22 +811,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Letting In",
-        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4CFhg4fJu76ORCJL3VeRUl"
       },
       "artists": [
         {
-          "name": "Beauville",
-          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
-        },
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
         }
       ],
-      "duration_ms": 263466,
-      "name": "Letting In",
-      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
+      "duration_ms": 255847,
+      "name": "Purple Candy",
+      "url": "https://open.spotify.com/track/6Nw8yJrwuuGalE9FPejPuZ"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -871,18 +851,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+        "name": "Letting In",
+        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
       },
       "artists": [
         {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+          "name": "Beauville",
+          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
         }
       ],
-      "duration_ms": 184015,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
+      "duration_ms": 263466,
+      "name": "Letting In",
+      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -899,6 +883,22 @@
       "duration_ms": 224253,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 184015,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
-      },
-      "artists": [
-        {
-          "name": "BEKA",
-          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
-        }
-      ],
-      "duration_ms": 235464,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "EPHEMERA",
         "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 274500,
       "name": "Julia (deep diving)",
       "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J"
+      },
+      "artists": [
+        {
+          "name": "BEKA",
+          "url": "https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A"
+        }
+      ],
+      "duration_ms": 235464,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 199371,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "6 Letters",
         "url": "https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 166469,
       "name": "6 Letters",
       "url": "https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
-      },
-      "artists": [
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 151733,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "The Color of Nothing",
         "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 203504,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Bless You",
+        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+      },
+      "artists": [
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 151733,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
     },
     {
       "added_at": "2023-01-11 21:01:15",

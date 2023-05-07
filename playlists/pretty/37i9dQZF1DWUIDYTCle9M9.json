@@ -1,12 +1,12 @@
 {
   "description": "Hits e cl\u00e1ssicos para jogar sua energia l\u00e1 em cima!",
-  "num_followers": 673976,
+  "num_followers": 674428,
   "original_name": "Alto Astral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGI3MGY0YWE1MzZmMGJhYjAwY2MyNjFmOTkzMjljNTA2NjkxYzYy",
+  "snapshot_id": "MCw3MGRmODU3NTE4YmZjMzM1NGRkMjBjMjc3ODBmZWZlYzk3YThiNDAz",
   "tracks": [
     {
       "added_at": "2023-04-25 22:24:51",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-04-25 22:24:51",
       "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
+    },
+    {
+      "added_at": "2023-04-25 22:24:51",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2023-04-25 22:24:51",
-      "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2023-04-25 22:24:51",
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-04-25 22:24:51",
       "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "Whistle",
+      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
+    },
+    {
+      "added_at": "2023-04-25 22:24:51",
+      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 212506,
       "name": "Down",
       "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
-    },
-    {
-      "added_at": "2023-04-25 22:24:51",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "Whistle",
-      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF"
     },
     {
       "added_at": "2023-04-25 22:24:51",

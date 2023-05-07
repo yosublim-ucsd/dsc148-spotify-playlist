@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Puras morras rifadas\. ¡Súbele al volumen! En portada: Vondré
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,499 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,514 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 33 | [no estamos bien](https://open.spotify.com/track/7iKNgzcupObOYD1sKQtM1n) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 2:03 |
 | 34 | [Extrañar](https://open.spotify.com/track/192eUOSZQEjYPAsoZ1rY5m) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Extrañar](https://open.spotify.com/album/7vPZnP3n1kzkq5lrPXYh0B) | 3:17 |
 | 35 | [tuviste](https://open.spotify.com/track/7GF3A4qaws52KBcxUB1Owl) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tuviste](https://open.spotify.com/album/6MCEy8eBUXCoT7r2InLlxC) | 3:54 |
-| 36 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
-| 37 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
+| 36 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
+| 37 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 | 38 | [Free Your Mind \- Spanish Version](https://open.spotify.com/track/1cBFq8ArDimc2lnz7bI2Va) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Free Your Mind \(Spanish Version\)](https://open.spotify.com/album/0nm8RYsOK1mCjJPn3yGH2i) | 2:57 |
 | 39 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 40 | [Niños furbito y niñas lo que sea](https://open.spotify.com/track/7JM2NCmPwdBldEWCJlzpUZ) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Niños furbito y niñas lo que sea](https://open.spotify.com/album/5O7QhTmi2g5f7Y91KmfO4L) | 2:24 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 46 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
 | 47 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
 | 48 | [Frente al Mar](https://open.spotify.com/track/5FfoOol6bSXoO1FnnkhjeI) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 6:07 |
-| 49 | [Beef Mac](https://open.spotify.com/track/0c8ZhWamPw4TL1WCri6iel) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 3:26 |
-| 50 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
+| 49 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
+| 50 | [Beef Mac](https://open.spotify.com/track/0c8ZhWamPw4TL1WCri6iel) | [Las Dianas](https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm) | [Lo Que Te Pide el Cuerpo](https://open.spotify.com/album/6WjosRVMn4vFuwzDHAln2m) | 3:26 |
 | 51 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
 | 52 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 |
 | 53 | [Desvelo](https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [La Ciudad Que Dejamos](https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey) | 4:34 |
-| 54 | [Dentro](https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:25 |
-| 55 | [Hey Heartbreaker](https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:20 |
+| 54 | [Hey Heartbreaker](https://open.spotify.com/track/4GlABUbKd2p5dRvOlGhphU) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF) | 3:20 |
+| 55 | [Dentro](https://open.spotify.com/track/7zygrEhhUZgzLzoX8RWdWR) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Lo Que Duró la Vida de Alguien](https://open.spotify.com/album/1laV2Pxw2s1PCOhYNLEk5v) | 2:25 |
 | 56 | [Corrida al Arco](https://open.spotify.com/track/5QTBQvrTCudXdatBV3ycRF) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Corrida al Arco](https://open.spotify.com/album/6o0XLbTOCvzBz7rH0kYZUk) | 4:15 |
 | 57 | [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 |
 | 58 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 |
 | 59 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
 | 60 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
 
-Snapshot ID: `MCxlMDNlY2M3OGM4ZGE5NTFmY2NiMzgyYTQ4ZmQ1ZWM2ODg5Nzk2ZWM0`
+Snapshot ID: `MCxmZjUzZWEwZGIzNmY5NTA1YjRkYzJiYWU3NjQ4NDQ5NGZlYWZjZDI4`

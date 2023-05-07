@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Bring Me The Horizon
 
-228 songs - 12 hr 48 min
+229 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 | 2023-04-20 |  |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-23 |  |
 | [HOLIDAY](https://open.spotify.com/track/1dB0NylVkpjdOe8DiekIs7) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:52 | 2023-03-16 | 2023-03-20 |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-04 |  |
 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-16 | 2023-04-29 |
 | [Hurricanes](https://open.spotify.com/track/2vZJcCFqe455nGhID8zjao) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hurricanes](https://open.spotify.com/album/3app92UwFa2PMnisP0PwCz) | 3:22 | 2023-03-16 | 2023-03-25 |
 | [Hysteria](https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu) | 5:54 | 2023-05-04 |  |
@@ -116,7 +117,7 @@
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 | 2023-03-16 | 2023-04-07 |
 | [Jealousy](https://open.spotify.com/track/7xMZix45UoyZiS40vHC8oy) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Jealousy](https://open.spotify.com/album/1948jAOGWUVxGl7mCLEIef) | 2:09 | 2023-04-13 | 2023-04-21 |
 | [Jesus He Knows Me](https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Jesus He Knows Me](https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK) | 4:05 | 2023-04-14 |  |
-| [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-16 |  |
+| [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 | 2023-03-16 | 2023-05-07 |
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-16 |  |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-30 | 2023-04-07 |
 | [Know Better](https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Know Better](https://open.spotify.com/album/091rITH4fXltYccZlmbrzw) | 3:11 | 2023-04-20 | 2023-04-28 |

@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Bassjackers
 
-350 songs - 16 hr 28 min
+351 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Raindrop \(feat\. Shibui\)](https://open.spotify.com/track/7AZHmKLqMIpjvt0nxReVlz) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Raindrop \(feat\. Shibui\)](https://open.spotify.com/album/3vI8rJQBebnZfCsuGODsAe) | 2:26 | 2022-06-01 | 2022-07-14 |
 | [Rave All Night](https://open.spotify.com/track/4AXtDJp0o8l6hOMxwZx1aL) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl) | [Rave All Night](https://open.spotify.com/album/2m2DL56EzrVle3Cqg5cA6d) | 2:34 | 2023-04-12 |  |
 | [Rave Superstar](https://open.spotify.com/track/26dZqv39K4kE2kFXAI5dH5) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Rave Superstar](https://open.spotify.com/album/1qXEVMoSphad9CrO7Zwdsi) | 2:39 | 2023-03-01 |  |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-03 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-03 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-03 |  |
 | [Romeo & Juliet](https://open.spotify.com/track/4t2BiyPhaMpf2bzOdUoTD5) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Romeo & Juliet](https://open.spotify.com/album/3MOCPhpSF2KOfh1eE688mI) | 2:40 | 2022-11-23 | 2023-03-23 |
 | [Rooftop](https://open.spotify.com/track/21LTZZP3cRDzVFKmvDEtZt) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Rooftop](https://open.spotify.com/album/3NY5MKyBEE0w2ZGQrANjHQ) | 2:45 | 2022-03-02 | 2022-09-09 |
 | [Sailor's Melody](https://open.spotify.com/track/22yqJ337zbB2u9mB7igNWm) | [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [Sula](https://open.spotify.com/artist/5eZVJzX99tmM2goIPe5rCq) | [Sailor's Melody](https://open.spotify.com/album/4tOpYbxSSHryjfh2q39kvG) | 2:10 | 2021-12-15 | 2022-05-05 |

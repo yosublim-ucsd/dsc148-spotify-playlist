@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Fred Again.\. & Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,824 likes - 70 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,826 likes - 70 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 69 | [Unknown Angel](https://open.spotify.com/track/0c3l1ht3cKspGlY67Fcogu) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Unknown Angel](https://open.spotify.com/album/0Uo6UEk7brlxliZ1KmzTKV) | 6:59 |
 | 70 | [Plaid](https://open.spotify.com/track/7knr1Ak0hW5apJicbQ1doJ) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw), [Monako](https://open.spotify.com/artist/281y760OdoAujOeovQnKmC) | [Codec Tweak/Plaid](https://open.spotify.com/album/3f6HJFDtEOdFCTdGlrDkux) | 6:04 |
 
-Snapshot ID: `MCw1OTJlYjRkMTJiOGVjMGVlNDlkMTA2OGQzNTBhODIxMjdmYzM4ZGFl`
+Snapshot ID: `MCw5YzljYThiOGUzMzhiZjg2MzNmOWFhYzU1MjAyY2FkN2Q2MzZkMDEx`

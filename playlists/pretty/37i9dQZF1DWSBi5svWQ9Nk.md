@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 
 > De 50 populairste hits van Nederland\. Cover: Kevin & Yade Lauren
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,396 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,536 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 26 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
 | 27 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 |
 | 28 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You](https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo) | 3:52 |
-| 29 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 |
+| 29 | [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 |
 | 30 | [Chemical](https://open.spotify.com/track/5TOgxgZrIZzvaKg9r2bvc2) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [The Diamond Collection](https://open.spotify.com/album/1DsM0AOBGPPIDp0gWN8Zb4) | 3:04 |
 | 31 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 |
 | 32 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBi5svWQ9Nk.md) - [plain]
 | 49 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 50 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 
-Snapshot ID: `MCxhYzEwYTliOGQ4Yjg3NTllMWI0MDVjODg1N2EyODY0MGY5Yjc4NTY1`
+Snapshot ID: `MCw3MjY2ZmJmYTQ1MDJmMDgyMDU5M2ZhZTVmYjgxYjVmNGIwOTU3Mzk2`

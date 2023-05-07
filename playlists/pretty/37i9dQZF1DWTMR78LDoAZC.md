@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,968 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,070 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 33 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
 | 34 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
 | 35 | [Phanta](https://open.spotify.com/track/6agThDCDlPNwJL6lvU5iYX) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [Le Tigre](https://open.spotify.com/album/5k3SJlcTe5aDF7gDkcBnOL) | 3:14 |
-| 36 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 |
-| 37 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
-| 38 | [Dead Weight](https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:27 |
+| 36 | [Dead Weight](https://open.spotify.com/track/3FmsKw8ie3KLC5273nH6wD) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:27 |
+| 37 | [Power Of Two](https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC) | [Indigo Girls](https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG) | [Swamp Ophelia](https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21) | 5:22 |
+| 38 | [Outta Time](https://open.spotify.com/track/3usFKA7XXOtaIqDdH6mUx9) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 4:18 |
 | 39 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 | 40 | [are you?](https://open.spotify.com/track/22sTjPna1Haei3cRLgAUh0) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [are you?](https://open.spotify.com/album/3EswyAfo6ryjlpeZ48lVvb) | 3:17 |
 | 41 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 46 | [Tenderness](https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 4:01 |
 | 47 | [Angel](https://open.spotify.com/track/1cP1tHCWCiiOJRJtSvESbu) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Angel](https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f) | 3:56 |
 | 48 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 |
-| 49 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 |
-| 50 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze) | 4:07 |
-| 51 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
+| 49 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze) | 4:07 |
+| 50 | [More Like You](https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [More Like You](https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw) | 3:39 |
+| 51 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 |
 | 52 | [SONGS ABOUT YOU](https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 4:01 |
 | 53 | [if we lived on the moon](https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [if we lived on the moon](https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a) | 2:31 |
 | 54 | [Body](https://open.spotify.com/track/45jFhmLaKBWOT0lvFsezaC) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Body](https://open.spotify.com/album/0MKbgbnqz8YcDCl4uvSSWk) | 3:30 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 72 | [sims](https://open.spotify.com/track/0mPh3y1fgrZiWlhuNmPq5Y) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [sims](https://open.spotify.com/album/3LezwC2bGCJNNCN5l6hs0y) | 2:42 |
 | 73 | [California Girl](https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl) | 3:57 |
 | 74 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
-| 75 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
+| 75 | [Vacation](https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF) | 3:47 |
 
-Snapshot ID: `MCw0NWIxNWVhOTVhZmJjNjI2ZGU3Zjc2OWI4NWY5Mjk2MjRmNTc5N2M4`
+Snapshot ID: `MCw5OGRkOWM3NTVlMDNhMmQ1ODUxYTA2N2Q0ZjFhNWNhMmVkNmM2ZGY3`

@@ -4,7 +4,7 @@
 
 > Set the mood of your day with these happy songs.
 
-528 songs - 1 day 5 hr 45 min
+529 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,8 @@
 | [Come On Eileen](https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm) | [Dexys Midnight Runners](https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk) | [Too Rye Ay](https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6) | 4:47 | 2022-07-08 |  |
 | [Conversation \(feat\. Kojo Funds\)](https://open.spotify.com/track/59E7kJadiZbcYhek0tEU9s) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Conversation \(feat\. Kojo Funds\)](https://open.spotify.com/album/3mTlZY6YabgcidFPTdwCqj) | 3:52 | 2021-12-16 | 2022-07-29 |
 | [Costa Rica](https://open.spotify.com/track/6iM9PebIqd6fiUlcxm4Fkp) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Costa Rica](https://open.spotify.com/album/7IfaW9AntTR2FnbKVGCx9T) | 3:08 | 2021-12-16 | 2022-07-12 |
-| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2022-10-07 |  |
+| [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2023-02-10 |  |
+| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2022-10-07 | 2023-05-07 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-12-14 |  |
 | [Crocodile Rock](https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Don't Shoot Me I'm Only The Piano Player](https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR) | 3:55 | 2022-01-18 | 2022-01-20 |
 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 | 2022-06-10 | 2023-04-20 |

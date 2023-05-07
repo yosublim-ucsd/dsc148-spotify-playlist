@@ -4,7 +4,7 @@
 
 > Las grandes canciones escritas por El Buki.
 
-183 songs - 11 hr 37 min
+184 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Inventame](https://open.spotify.com/track/5RJuWtHaZqnHRCVzk1z1uS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 3:29 | 2021-11-12 | 2022-07-29 |
 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 | 2021-11-12 |  |
 | [Invéntame](https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:29 | 2021-11-12 | 2023-04-24 |
+| [Invéntame](https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desamor y Despecho](https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC) | 3:33 | 2023-02-24 |  |
 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 | 2021-11-12 |  |
 | [La Pareja Ideal](https://open.spotify.com/track/2eJRI9i2EoNxYSkc2jvFfH) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Sin Él](https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [La Pareja Ideal](https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 1](https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z) | 3:33 | 2021-11-12 |  |
@@ -82,7 +83,7 @@
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:43 | 2021-11-12 | 2023-02-01 |
 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [FAVORITAS CON AMOR Vol\. 2](https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ) | 3:48 | 2023-02-24 |  |
 | [Mi Eterno Amor Secreto \- Live](https://open.spotify.com/track/5Ipirnomv7UvSnOuH6Df6v) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 3:55 | 2021-11-12 |  |
-| [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 | 2021-11-12 |  |
+| [Mi Fantasia](https://open.spotify.com/track/1C5b8u6soZnLGkBqYrEtUE) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Mi Fantasia](https://open.spotify.com/album/1adsPQiPWD6KU41u114eii) | 3:23 | 2021-11-12 | 2023-05-07 |
 | [Mi Fantasía](https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:16 | 2021-11-12 |  |
 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 | 2021-11-12 |  |
 | [Mi Najayita](https://open.spotify.com/track/5MZCiR2Xx5ljwiseVVU87N) | [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [Después De Hoy](https://open.spotify.com/album/2RrTYKRkPR0eAGTOWLkTa4) | 3:09 | 2021-11-12 |  |

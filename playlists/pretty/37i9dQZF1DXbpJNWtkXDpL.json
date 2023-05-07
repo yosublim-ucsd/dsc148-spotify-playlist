@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 69562,
+  "num_followers": 69580,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzlkNzE2ZmE0MTgzOTMyOGQ0YTU1MTZlMTRhMmYwZTZmMzdmMWY4",
+  "snapshot_id": "MCxiNjViYzllOTBlNDhkNGEwYWM4ZTU4MzhiYzFiNmVlOTA3MzRiOGUw",
   "tracks": [
     {
       "added_at": "2023-04-21 21:43:27",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "LMV",
-        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Raro",
         "url": "https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 183510,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "LMV",
+        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "AS\u00cd ME ENAMOR\u00c9",
-        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 164096,
-      "name": "\u00bfY que pensabas?",
-      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "No Quiero Llorar",
         "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192500,
       "name": "No Quiero Llorar",
       "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "AS\u00cd ME ENAMOR\u00c9",
+        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 164096,
+      "name": "\u00bfY que pensabas?",
+      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "San Mike",
-        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "San Mike",
-      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Mi Tierra",
         "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 117779,
       "name": "Mi Tierra",
       "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "San Mike",
+        "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "San Mike",
+      "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
     },
     {
       "added_at": "2023-04-21 21:43:27",

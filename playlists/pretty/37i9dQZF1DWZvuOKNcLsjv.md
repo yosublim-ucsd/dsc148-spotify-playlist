@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,455 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,464 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 10 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |
 | 11 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 |
 | 12 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 |
-| 13 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 |
+| 13 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 14 | [Eyes Wide Shut](https://open.spotify.com/track/556awMv4WQP0h1VXMU8rSU) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 2:32 |
 | 15 | [Get Back](https://open.spotify.com/track/0lxWZTQh1QLGH0mKHfMcip) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [Get Back](https://open.spotify.com/album/5n3LWRLAo23gemhWfTB4Mc) | 3:27 |
 | 16 | [Kimochy](https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [ALOT](https://open.spotify.com/track/7kb2vMLEB6SmK1ELPjLOBw) | [VLOT](https://open.spotify.com/artist/5I9DSyEXlMP12Qw59gshyk), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [ALOT](https://open.spotify.com/album/0NvR9stzHjZn6coHsYZElI) | 1:56 |
 | 100 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 |
 
-Snapshot ID: `MCwwYjlkNWUzYTViMmJkYWEyZDNhOTBkNmMwZTA1YWE3NDFlMjc0M2E1`
+Snapshot ID: `MCw1NTUyODFhNTQ1YTZiODNkYjY1MGY1OTYwMGViODJlODY0OGY0Y2Jk`

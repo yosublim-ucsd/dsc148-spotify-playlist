@@ -4,7 +4,7 @@
 
 > We hear you.
 
-579 songs - 1 day 4 hr 34 min
+581 songs - 1 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 Hurt Me](https://open.spotify.com/track/2IpSgH91f8BVfoKSIVhCxu) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [2 Hurt Me](https://open.spotify.com/album/28I6rRHavLzqvdJb9GCQqA) | 2:51 | 2021-04-02 | 2022-04-17 |
 | [28](https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [CESSATION](https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa) | 3:36 | 2022-11-11 | 2022-11-16 |
 | [5](https://open.spotify.com/track/2uhsLVdlg8eRs62cg0Ilm7) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [5](https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8) | 4:03 | 2021-04-02 | 2022-04-19 |
+| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2023-04-26 |  |
 | [A Song About Being Sad](https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 2:16 | 2021-04-02 | 2022-04-20 |
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2021-04-02 | 2023-05-06 |
 | [a world of chaos \(feat\. Rxseboy, Jomie & Ivri\)](https://open.spotify.com/track/2JcMKZhCd5RwcwRbEG58wu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [poems of the past](https://open.spotify.com/album/5pAEEkvjNXOVFUazjKJgps) | 2:42 | 2021-04-02 | 2022-04-21 |
@@ -91,7 +92,7 @@
 | [Cotton Candy](https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Cotton Candy](https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4) | 1:33 | 2023-01-18 |  |
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2021-07-19 | 2022-05-26 |
 | [Cross the Sea](https://open.spotify.com/track/1pRtM1cHkCBvGGgmIsBfj5) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Cross the Sea](https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS) | 3:36 | 2022-08-09 | 2022-08-23 |
-| [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [crow's nest](https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE) | 3:42 | 2023-03-23 |  |
+| [crow's nest \(feat\. Ollie\)](https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [crow's nest](https://open.spotify.com/album/2hMXOaCFcRn3ZrZAIefdKE) | 3:42 | 2023-03-23 | 2023-05-07 |
 | [Crybaby](https://open.spotify.com/track/2bXOylRRysIa9H2OBt1TBj) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Crybaby](https://open.spotify.com/album/1P7qBeQFQthjTSOTQ1FmEy) | 3:25 | 2021-04-02 | 2022-07-12 |
 | [curse,](https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ) | [normal the kid](https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V) | [curse,](https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO) | 3:58 | 2022-11-22 |  |
 | [Dad](https://open.spotify.com/track/5x99jhGlbn0g4WLDwtfHhK) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Dad](https://open.spotify.com/album/5EGOyf7afVwEwgNx78TPj6) | 3:57 | 2021-10-08 | 2022-04-18 |
@@ -287,7 +288,7 @@
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-04-02 | 2022-04-18 |
 | [just don't hurt me](https://open.spotify.com/track/0mXltaK1ktzHAK4rd6jAbY) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [just don't hurt me](https://open.spotify.com/album/6huHcFOz0Rbbg9zsGUTF39) | 2:38 | 2022-01-27 | 2022-07-05 |
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2021-04-02 | 2022-07-29 |
-| [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-10 |  |
+| [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-10 | 2023-05-07 |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-06-25 |  |
 | [killmeinmysleep](https://open.spotify.com/track/77zViu7V0wRnzTafJE6HUH) | [Eli Moon](https://open.spotify.com/artist/7w9kwVf3KJfvBBfE4o6K56) | [killmeinmysleep](https://open.spotify.com/album/1i7rFneH6LmqeeAuy96u4U) | 3:20 | 2021-04-02 | 2022-04-15 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2022-07-22 | 2022-07-26 |
@@ -436,6 +437,7 @@
 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 | 2021-04-02 | 2022-07-29 |
 | [September 13th](https://open.spotify.com/track/5JzhtNahrk4YvntIa7jGNp) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Closure](https://open.spotify.com/album/3lLOJxYWfrolopz8MnKLIc) | 3:36 | 2021-04-02 | 2022-04-21 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-01-25 | 2022-07-16 |
+| [shame](https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [shame](https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei) | 2:52 | 2023-04-26 |  |
 | [she took me to a place, Pt\. 3 \(the final chapter\)](https://open.spotify.com/track/7Hi6mb9U40gpkgnj4E8Xdr) | [chap](https://open.spotify.com/artist/2uoXWbG2hPTqTvdNhmd3Fd), [P.O.I](https://open.spotify.com/artist/04eH343JjbPvoDVSyuXAha) | [she took me to a place, Pt\. 3 \(the final chapter\)](https://open.spotify.com/album/2Gw4UhdskIkfJe8xWhq6CK) | 2:02 | 2021-04-02 | 2022-04-20 |
 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 | 2022-07-15 | 2022-10-13 |
 | [Shoot](https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Shoot](https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj) | 2:37 | 2021-09-10 | 2022-07-29 |

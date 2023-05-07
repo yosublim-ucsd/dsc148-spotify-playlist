@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,114 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,124 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 64 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 |
 | 65 | [CHOKER](https://open.spotify.com/track/4BhDkugxAaXgS0k6fxa6jW) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [CHOKER](https://open.spotify.com/album/3uAsQcyJAS9hAfZKrNYBvL) | 3:20 |
 | 66 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr) | 3:07 |
-| 67 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 67 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 68 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 |
 | 69 | [The King](https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The King](https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6) | 5:34 |
 | 70 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 100 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 |
 
-Snapshot ID: `MCw4MGI0MTAxNTE5M2JhNTk3NmNiOTU3OGM5M2E4NmRiZGE3YTAwMDMw`
+Snapshot ID: `MCxlZGE2ZjI3MjkyYmUwZDgwM2NjNzU1OTliN2VjMjgyYTFjMTkxMjll`

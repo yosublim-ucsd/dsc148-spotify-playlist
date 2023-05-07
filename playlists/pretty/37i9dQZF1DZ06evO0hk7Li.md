@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,665 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,673 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
 | 50 | [Sink or Swim](https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:38 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAzYzg4NjcxZjg2NDc3NGZjMmRlZGMyNWU1ZWQyMDY3Yg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA4NWE5N2ZkOGFhYzdiZGY2NzAzNDc3NDk3ODE1MjA4Mg==`

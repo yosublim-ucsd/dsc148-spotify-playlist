@@ -4,7 +4,7 @@
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-55 songs - 3 hr 2 min
+56 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Captive](https://open.spotify.com/track/6ZvgvFGY2Pv5iL8u0ptduc) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Captive](https://open.spotify.com/album/6Lqrl0jg68hcV4GhGTYT4H) | 3:19 | 2022-11-30 | 2023-03-26 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-11-30 |  |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2022-11-30 |  |
+| [Color Of Your Soul](https://open.spotify.com/track/4rhooL7Cj0YkvIC4wGL7Jo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/6o6palGHy3IqwNGXPQDYXn) | 3:22 | 2022-11-30 |  |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-11-30 | 2023-05-03 |
 | [Colorblind \(feat\. Dayseeker\)](https://open.spotify.com/track/44J9wUVTFIGKmjDJb4e5Oq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Love // Chaos](https://open.spotify.com/album/3Iz1TViTuDQ6C7Cyn5CD7k) | 3:19 | 2022-11-30 |  |
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-11-30 |  |
@@ -38,7 +39,7 @@
 | [Kill Me With Your Love](https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Kill Me With Your Love](https://open.spotify.com/album/1iO64sEfOWxk7KGLpr8l31) | 2:54 | 2022-11-30 |  |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-11-30 |  |
 | [Lay Me Down](https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem) | [Lay Me Down](https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX) | 3:30 | 2022-11-30 |  |
-| [Losing My Mind \(with Elohim\)](https://open.spotify.com/track/4EJ32mSyaiC9r5XMKxqu1I) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:26 | 2022-11-30 |  |
+| [Losing My Mind \(with Elohim\)](https://open.spotify.com/track/4EJ32mSyaiC9r5XMKxqu1I) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 3:26 | 2022-11-30 | 2023-05-07 |
 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 | 2022-11-30 |  |
 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 | 2022-11-30 |  |
 | [Miss You](https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4) | 3:26 | 2022-11-30 |  |

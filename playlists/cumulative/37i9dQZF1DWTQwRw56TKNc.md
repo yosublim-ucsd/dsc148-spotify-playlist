@@ -4,7 +4,7 @@
 
 > Relax with these timeless tunes\. Cover: John Denver
 
-138 songs - 8 hr 34 min
+139 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Keep Me in Your Heart](https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3) | 3:28 | 2021-09-30 | 2022-11-26 |
 | [Keep Me in Your Heart](https://open.spotify.com/track/6eceqMrRFKCnq7ksH2L7Wp) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/2MdzSNkUMDfJNs2uEhxbbO) | 3:28 | 2019-05-26\* | 2022-07-29 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Killing Me Softly](https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA) | 4:46 | 2019-05-26\* |  |
+| [La vie en rose \- Single Version](https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Satchmo Serenades](https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc) | 3:23 | 2021-09-30 |  |
 | [La Vie En Rose \- Single Version](https://open.spotify.com/track/6BGu9IJlUza0h7YrTWElnD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [All Time Greatest Hits](https://open.spotify.com/album/16niuq7vcf4QvnnrJO7yFc) | 3:25 | 2019-05-26\* | 2022-04-21 |
 | [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 | 2021-09-30 | 2023-04-30 |
 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 | 2019-05-26\* |  |
@@ -137,7 +138,7 @@
 | [When a Man Loves a Woman](https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M) | 2:53 | 2019-05-26\* |  |
 | [Where Have All the Flowers Gone \- 2004 Remaster](https://open.spotify.com/track/1V8BSBe2fB5Np30sXmUCNU) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:56 | 2022-04-25 | 2022-07-03 |
 | [Wholy Holy](https://open.spotify.com/track/1d9XimiMXrllkSb4BIq5W0) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/6qX4eoPWGteMdJMqGOwPTs) | 3:07 | 2019-05-26\* | 2022-04-21 |
-| [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 | 2021-09-30 |  |
+| [Wild Horses](https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hot Rocks \(1964\-1971\)](https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp) | 5:42 | 2021-09-30 | 2023-05-07 |
 | [Wild World](https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered\)](https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ) | 3:20 | 2019-05-26\* | 2022-07-29 |
 | [Wild World](https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Tea For The Tillerman \(Remastered 2020\)](https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild) | 3:20 | 2021-09-30 |  |
 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 | 2019-05-26\* |  |

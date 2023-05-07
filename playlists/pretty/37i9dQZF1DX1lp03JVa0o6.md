@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Flume
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,830 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,907 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 15 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 |
 | 16 | [You're The Voice](https://open.spotify.com/track/6zQLRsQnoJHL96LzUuR6gQ) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [You're The Voice](https://open.spotify.com/album/5p0gzjEtN8H2wNxjrSZnHA) | 2:42 |
 | 17 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
-| 18 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 |
+| 18 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 19 | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
 | 20 | [Dancing is Healing](https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Dancing is Healing](https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp) | 2:57 |
 | 21 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 89 | [Sweet Goodbye](https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Sweet Goodbye](https://open.spotify.com/album/7mRbem2BY4VVK4fUUjQqzo) | 2:37 |
 | 90 | [Designer Love](https://open.spotify.com/track/3bK9O7F6SMk8hnOcRhxdjm) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Designer Love](https://open.spotify.com/album/4FLy9OVf3KrxN9hjJJOfNN) | 2:54 |
 
-Snapshot ID: `MCw5MWNkNTUzNWRlNTAyYmYzN2FiMzNlZGNkMzI0M2U2Mjc4ODU5MWU1`
+Snapshot ID: `MCxlOWY2YzhjZjg2N2IyZTM0YTk2MmJhMjkwOTA2ZmZjMGYwNDc3NTUz`

@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Ed Sheeran (pictured), Bring Me The Horizon, Lava La Rue and more!",
-  "num_followers": 830476,
+  "num_followers": 830510,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Q1ZmIyZTg0OTlhNGZmNjcyNmYwODBlZTFlN2RmZGEyZDY1Yzk4",
+  "snapshot_id": "MCw0YmFmOThhZTgyNjVhYjkxZmFjZmQxMGExNjI4OWY1YjY4ZmYxYTQ1",
   "tracks": [
     {
       "added_at": "2023-05-05 11:25:16",
@@ -186,6 +186,10 @@
         {
           "name": "SBTRKT",
           "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "LEILAH",
+          "url": "https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e"
         }
       ],
       "duration_ms": 247209,
@@ -335,7 +339,7 @@
     {
       "added_at": "2023-05-05 11:25:16",
       "album": {
-        "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+        "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
         "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
       },
       "artists": [
@@ -349,7 +353,7 @@
         }
       ],
       "duration_ms": 145609,
-      "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+      "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {

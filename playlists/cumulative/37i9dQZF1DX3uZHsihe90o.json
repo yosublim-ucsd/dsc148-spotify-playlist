@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "Tumble Bee",
+        "url": "https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT"
+      },
+      "artists": [
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136053,
+      "name": "All the Pretty Little Horses",
+      "url": "https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK"
+    },
+    {
+      "album": {
+        "name": "Tumble Bee",
         "url": "https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W"
       },
       "artists": [
@@ -870,7 +888,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 114466,
       "name": "He's Got the Whole World in His Hands",
       "url": "https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39"

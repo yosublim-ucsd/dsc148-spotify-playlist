@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring Little Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,438 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,454 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 42 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 |
 | 43 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
 | 44 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
-| 45 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 |
-| 46 | [LA RUTA NATURAL](https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF) | 3:17 |
+| 45 | [LA RUTA NATURAL](https://open.spotify.com/track/1BAc6iqnXXilFBKDaxXpSY) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [LA RUTA NATURAL](https://open.spotify.com/album/3JgA2PPl6TmIWEC4C3f1sF) | 3:17 |
+| 46 | [Think of You](https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [What Do You Want It To Be?](https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL) | 4:18 |
 | 47 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
 | 48 | [Se Apagó](https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Se Apagó](https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe) | 2:21 |
 | 49 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
-| 50 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
-| 51 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
+| 50 | [Muerta de Frío](https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4), [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Muerta de Frío](https://open.spotify.com/album/1gbqdDkwfvEWirx6po0YtY) | 4:18 |
+| 51 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 |
 | 52 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
 | 53 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 |
 | 54 | [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 64 | [Better With You](https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 2:36 |
 | 65 | [inigualable](https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [inigualable](https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq) | 2:58 |
 | 66 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 |
-| 67 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 |
-| 68 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
+| 67 | [No Puedo Olvidarte](https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G), [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [No Puedo Olvidarte](https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y) | 3:27 |
+| 68 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 |
 | 69 | [Te Espero Aquí](https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 4:11 |
 | 70 | [Amante](https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Amante](https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk) | 3:51 |
 
-Snapshot ID: `MCw2MTZmNmVmYWE3M2ZjZGYyZDM1ZmNlMzA2NTAzNDQ5YmFkMjEyZTUz`
+Snapshot ID: `MCw4MmM0MzQxNDEyYzAyZjEzZGQxZTJmMjFiNTI4MzRjNTk3ODJjZTJh`

@@ -4,7 +4,7 @@
 
 > A salute to all of the women opening up the pit\. Cover: BABYMETAL
 
-268 songs - 17 hr 28 min
+269 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 | 2020-12-07\* |  |
 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 | 2020-12-07\* |  |
 | [My Nightmares Would Do Numbers As Horror Movies](https://open.spotify.com/track/2F33HiU5YDmFKFmlTgUuS6) | [If I Die First](https://open.spotify.com/artist/1YITexXsar0m4s4AROHCKE) | [My Nightmares Would Do Numbers As Horror Movies](https://open.spotify.com/album/2Qvi0VnGTYVteHW7pCSJvV) | 3:14 | 2021-05-15 | 2021-10-16 |
-| [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-10-03 |  |
+| [Nemo](https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:36 | 2022-11-18 |  |
+| [Nemo](https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) | 4:36 | 2022-10-03 | 2023-05-07 |
 | [Never Die](https://open.spotify.com/track/5nFyBTvOprvEosMaZCGVU9) | [Allen/Olzon](https://open.spotify.com/artist/34W3MmEwZVbj136Xk3G2EK) | [Never Die](https://open.spotify.com/album/3ewJ6ftp5b87dcVoMYbmDI) | 5:47 | 2020-12-07\* | 2022-07-17 |
 | [No More Hollywood Endings](https://open.spotify.com/track/0S8hHlISzm8GebwdtTDPkD) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [No More Hollywood Endings](https://open.spotify.com/album/27a6npYtoMBSwG9qqNoQvM) | 3:54 | 2020-12-07\* | 2021-02-06 |
 | [Noise](https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:40 | 2022-03-11 | 2023-01-02 |

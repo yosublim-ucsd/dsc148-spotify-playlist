@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,735 likes - 177 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,761 likes - 177 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 72 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 |
 | 73 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 |
 | 74 | [Trippin](https://open.spotify.com/track/6hURVOp7JtavNu11tfl912) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Trippin](https://open.spotify.com/album/4BIweiaOt0a8tMBV9Ncigs) | 3:10 |
-| 75 | [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 |
+| 75 | [Bounce](https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:52 |
 | 76 | [Kerosene](https://open.spotify.com/track/6PamSzxRNCbbBH2OXrz9Yl) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [Kerosene](https://open.spotify.com/album/4MSiTkDNGzUCGPzrOjwegY) | 3:29 |
 | 77 | [Treat U Good](https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Lyriya](https://open.spotify.com/artist/3kh6Ltl9keXAm5NcLvdSjI), [MERON](https://open.spotify.com/artist/1PUEwFv131uL8pigp6fNlG) | [Treat U Good](https://open.spotify.com/album/3ClRTsQuJUaUg340vgZDOA) | 3:37 |
 | 78 | [So Full Of Love](https://open.spotify.com/track/0Vb4ByCBddUaXWyqr8Aj6B) | [Dave Leatherman](https://open.spotify.com/artist/6yIn9HZS8StotrpaKwAyzV), [Bruce Nolan](https://open.spotify.com/artist/5sKnJafPSfMttoO0ZqHMO8) | [So Full Of Love](https://open.spotify.com/album/52vPiQ46PABlhPjMhLRbD3) | 6:32 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 | 176 | [Stranger](https://open.spotify.com/track/5FoT7QLoywPzLv4ZGyHpOC) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Stranger](https://open.spotify.com/album/5wrVHUkEIpUhAuls9A6KR1) | 3:15 |
 | 177 | [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 |
 
-Snapshot ID: `MCxhOTI2OGU4ODk1MTUwYzM3MmRlYWQ1N2IzNDZmNjk3MmM4YTI5N2Ez`
+Snapshot ID: `MCw0N2M1NTA1MDgwNzBjZDJiZjY4ZjE5M2UzZTdlMzgwMzBiNjAwYTgy`

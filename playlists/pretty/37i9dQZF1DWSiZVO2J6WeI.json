@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 765618,
+  "num_followers": 765799,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjU5ZjI3MDk1YjVlZTk3MDYxOTFiMDM2YTI4ZmE3MGJhMTQ0MDc3",
+  "snapshot_id": "MCxiY2Q2NmIwMTMxMDY1ZDIwNjhjOTcxMjJlZDJhYzVhMWRiNWY2MzRj",
   "tracks": [
     {
       "added_at": "2023-05-05 15:15:42",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
+        "name": "Through The Mist",
+        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Crew",
+          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Through The Mist",
+      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
         "name": "The Far Distance",
         "url": "https://open.spotify.com/album/4BsjkgUXT2QBtig8ONnvks"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 158529,
       "name": "Lux Mane",
       "url": "https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
-        "name": "Through The Mist",
-        "url": "https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C"
-      },
-      "artists": [
-        {
-          "name": "The Sleep Crew",
-          "url": "https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Through The Mist",
-      "url": "https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
+        "name": "Sensory Bypass",
+        "url": "https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "duration_ms": 151800,
+      "name": "Sensory Bypass",
+      "url": "https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
         "name": "Drommenes Verden",
         "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 187200,
       "name": "Revolve",
       "url": "https://open.spotify.com/track/0X33Oo6yg2qlTsrFiH1qta"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
-        "name": "Sensory Bypass",
-        "url": "https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s"
-      },
-      "artists": [
-        {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "Sensory Bypass",
-      "url": "https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Distant Oceans",
-        "url": "https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80"
-      },
-      "artists": [
-        {
-          "name": "Frieda Walsch",
-          "url": "https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Distant Oceans",
-      "url": "https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Yalmi",
         "url": "https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 143529,
       "name": "Yalmi",
       "url": "https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Distant Oceans",
+        "url": "https://open.spotify.com/album/3qXuyU8MWIDQnAyefC0Y80"
+      },
+      "artists": [
+        {
+          "name": "Frieda Walsch",
+          "url": "https://open.spotify.com/artist/0Ue0VWmaybjJo2MykZRGCM"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Distant Oceans",
+      "url": "https://open.spotify.com/track/4TbaG2d0oHVSL5WWHr3paT"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
+        "name": "Clarity Frequency",
+        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
+      },
+      "artists": [
+        {
+          "name": "Beatrice Laporte",
+          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
+        }
+      ],
+      "duration_ms": 152318,
+      "name": "Eternal Frequencies",
+      "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
         "name": "Eudaimonia",
         "url": "https://open.spotify.com/album/5N8QguI6uHLEXn9Ai8ZmEw"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 177600,
       "name": "Sobre las Nubes",
       "url": "https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
-        "name": "Clarity Frequency",
-        "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
-      },
-      "artists": [
-        {
-          "name": "Beatrice Laporte",
-          "url": "https://open.spotify.com/artist/1ZIKR3Tjxro7Zltjogbrkr"
-        }
-      ],
-      "duration_ms": 152318,
-      "name": "Eternal Frequencies",
-      "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Evolving",
-        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
-      },
-      "artists": [
-        {
-          "name": "Astral Wonder",
-          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Evolving",
-      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Miho no Matsubara",
         "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 173750,
       "name": "Miho no Matsubara",
       "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Evolving",
+        "url": "https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Evolving",
+      "url": "https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Apesanteur",
-        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
-      },
-      "artists": [
-        {
-          "name": "Elodie Acy",
-          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
-        }
-      ],
-      "duration_ms": 158882,
-      "name": "Apesanteur",
-      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Luminescence",
         "url": "https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 174500,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Apesanteur",
+        "url": "https://open.spotify.com/album/4CEpijln4tZLMM8yf4jK39"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "duration_ms": 158882,
+      "name": "Apesanteur",
+      "url": "https://open.spotify.com/track/3lIe2hHmBqG3qcvD9rcZ4F"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Binaural Emotions",
-        "url": "https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c"
-      },
-      "artists": [
-        {
-          "name": "Astro Project",
-          "url": "https://open.spotify.com/artist/3qKQCiBjuf4iR5T0krtcaG"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Binaural Emotions",
-      "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Sv\u00e4var Fritt",
         "url": "https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 184018,
       "name": "Sv\u00e4var Fritt",
       "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Binaural Emotions",
+        "url": "https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c"
+      },
+      "artists": [
+        {
+          "name": "Astro Project",
+          "url": "https://open.spotify.com/artist/3qKQCiBjuf4iR5T0krtcaG"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Binaural Emotions",
+      "url": "https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
-      },
-      "artists": [
-        {
-          "name": "SUND",
-          "url": "https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL"
-        }
-      ],
-      "duration_ms": 166161,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Maja's Miracle",
         "url": "https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Cool Air",
-        "url": "https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA"
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82"
       },
       "artists": [
         {
-          "name": "Lily Augustadt",
-          "url": "https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6"
+          "name": "SUND",
+          "url": "https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Cool Air",
-      "url": "https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl"
+      "duration_ms": 166161,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1611,6 +1595,22 @@
       "duration_ms": 112000,
       "name": "Determination",
       "url": "https://open.spotify.com/track/20pBeapTd5bksxa4QZqvcR"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Cool Air",
+        "url": "https://open.spotify.com/album/24ERw8DNZYHnejbmdTCjXA"
+      },
+      "artists": [
+        {
+          "name": "Lily Augustadt",
+          "url": "https://open.spotify.com/artist/1Jl25mzgeWgkMQmfvpH4p6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Cool Air",
+      "url": "https://open.spotify.com/track/02tUBBShoCFZE2RB1sANKl"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Partly Cloudy",
-        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
-      },
-      "artists": [
-        {
-          "name": "Gazebo Clouds",
-          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "Stars Above",
-      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Deep Sleep",
         "url": "https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 216674,
       "name": "Evolving Dreams",
       "url": "https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Partly Cloudy",
+        "url": "https://open.spotify.com/album/7z42cZQUpyxurNOifKVN03"
+      },
+      "artists": [
+        {
+          "name": "Gazebo Clouds",
+          "url": "https://open.spotify.com/artist/70GLgOz3KqWNNbwxmIbQgx"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "Stars Above",
+      "url": "https://open.spotify.com/track/3pnNr9iQ93YtDX2O26fLo1"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Through it All",
-        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
+        "name": "528 Hz Clarity Vibrations",
+        "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
       },
       "artists": [
         {
-          "name": "Iselinn",
-          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
+          "name": "Pan Galactic Vibration",
+          "url": "https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER"
         }
       ],
-      "duration_ms": 186559,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
+      "duration_ms": 132624,
+      "name": "528 Hz Clarity Vibrations",
+      "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "528 Hz Clarity Vibrations",
-        "url": "https://open.spotify.com/album/35K9cAhglhHKSiJfWNdgQC"
+        "name": "Through it All",
+        "url": "https://open.spotify.com/album/4mbpx3mS53pVlUAhSZKmUt"
       },
       "artists": [
         {
-          "name": "Pan Galactic Vibration",
-          "url": "https://open.spotify.com/artist/5LD5A8M950t4R7S2coaZER"
+          "name": "Iselinn",
+          "url": "https://open.spotify.com/artist/1vbCHcSHjojGGaDsREfYCV"
         }
       ],
-      "duration_ms": 132624,
-      "name": "528 Hz Clarity Vibrations",
-      "url": "https://open.spotify.com/track/60igFMbBK2OBW6QulmTDsS"
+      "duration_ms": 186559,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/5XEO7wnzRT06M9R58ByLYP"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -1999,38 +1999,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Sea Angel",
-        "url": "https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY"
-      },
-      "artists": [
-        {
-          "name": "O.A.S.",
-          "url": "https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt"
-        }
-      ],
-      "duration_ms": 208701,
-      "name": "Sea Angel",
-      "url": "https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
-        "name": "Inevitably",
-        "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
-      },
-      "artists": [
-        {
-          "name": "Dreamcloud Haze",
-          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Inevitably - Deep Sleep Edit",
-      "url": "https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Close To Sleep",
         "url": "https://open.spotify.com/album/5Af16QhTTGy7uenrj8cAIK"
       },
@@ -2047,6 +2015,22 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
+        "name": "Sea Angel",
+        "url": "https://open.spotify.com/album/4q4aGzy6knPh2apjwaFDQY"
+      },
+      "artists": [
+        {
+          "name": "O.A.S.",
+          "url": "https://open.spotify.com/artist/1aoMIhif29oGaZGwQJ1oTt"
+        }
+      ],
+      "duration_ms": 208701,
+      "name": "Sea Angel",
+      "url": "https://open.spotify.com/track/2ZC9pIlwUXquQDWRcsCtKp"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
         "name": "Bright Morning",
         "url": "https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 204923,
       "name": "Bright Morning",
       "url": "https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Inevitably",
+        "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
+      },
+      "artists": [
+        {
+          "name": "Dreamcloud Haze",
+          "url": "https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Inevitably - Deep Sleep Edit",
+      "url": "https://open.spotify.com/track/3UVIU2AhIHFKfbRbttOKSu"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Elusive Thoughts",
-        "url": "https://open.spotify.com/album/2IYILu4PofhTJ0KaYAQC17"
-      },
-      "artists": [
-        {
-          "name": "Nayantara",
-          "url": "https://open.spotify.com/artist/6nyEz0nYXb8PwCF3QOEuj3"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Elusive Thoughts",
-      "url": "https://open.spotify.com/track/6cYBl8KJEgVMFiSYEPHyOm"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Nuee",
         "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 168000,
       "name": "Nuee",
       "url": "https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Elusive Thoughts",
+        "url": "https://open.spotify.com/album/2IYILu4PofhTJ0KaYAQC17"
+      },
+      "artists": [
+        {
+          "name": "Nayantara",
+          "url": "https://open.spotify.com/artist/6nyEz0nYXb8PwCF3QOEuj3"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Elusive Thoughts",
+      "url": "https://open.spotify.com/track/6cYBl8KJEgVMFiSYEPHyOm"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Armonikos",
-        "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
-      },
-      "artists": [
-        {
-          "name": "Armonikos",
-          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
-        }
-      ],
-      "duration_ms": 155348,
-      "name": "Armonikos",
-      "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -2283,6 +2267,22 @@
       "duration_ms": 198000,
       "name": "Ceremonial Stone",
       "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Armonikos",
+        "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
+      },
+      "artists": [
+        {
+          "name": "Armonikos",
+          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
+        }
+      ],
+      "duration_ms": 155348,
+      "name": "Armonikos",
+      "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2403,18 +2403,18 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Alcyone",
-        "url": "https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl"
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/2S1iykMBAeHcNcazqzDmRo"
       },
       "artists": [
         {
-          "name": "Donald Beaudoin",
-          "url": "https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI"
+          "name": "David Payne",
+          "url": "https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0"
         }
       ],
-      "duration_ms": 236124,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
+      "duration_ms": 126013,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/2prKpK6HwKDDJJ1g892W1f"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2435,34 +2435,18 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/2S1iykMBAeHcNcazqzDmRo"
+        "name": "Alcyone",
+        "url": "https://open.spotify.com/album/3ucA44AcStyBbX26Wl9HVl"
       },
       "artists": [
         {
-          "name": "David Payne",
-          "url": "https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0"
+          "name": "Donald Beaudoin",
+          "url": "https://open.spotify.com/artist/2Z0z4n4ndyWuJVJYoSvlLI"
         }
       ],
-      "duration_ms": 126013,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/2prKpK6HwKDDJJ1g892W1f"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
-        "name": "serenity (sleep)",
-        "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
-      },
-      "artists": [
-        {
-          "name": "oh, the joy.",
-          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
-        }
-      ],
-      "duration_ms": 165891,
-      "name": "isolation",
-      "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
+      "duration_ms": 236124,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2479,6 +2463,22 @@
       "duration_ms": 198000,
       "name": "Along The Way",
       "url": "https://open.spotify.com/track/0Q1y8Inh5CnoSENHEeNuLC"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "serenity (sleep)",
+        "url": "https://open.spotify.com/album/5lnMojdby3SecxHBCVWvQm"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "duration_ms": 165891,
+      "name": "isolation",
+      "url": "https://open.spotify.com/track/7uB64dVoDwxbMCdeEqEl1Q"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2515,22 +2515,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Faust",
-        "url": "https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo"
-      },
-      "artists": [
-        {
-          "name": "Smith/Hill",
-          "url": "https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "Faust",
-      "url": "https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Into Your Hands",
         "url": "https://open.spotify.com/album/7E9kkPd8SwH4aLlcsWLgHN"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 180624,
       "name": "Stream Of Consciousness",
       "url": "https://open.spotify.com/track/2OcirqlSNj6JgEfqp3FrdV"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Faust",
+        "url": "https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo"
+      },
+      "artists": [
+        {
+          "name": "Smith/Hill",
+          "url": "https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Faust",
+      "url": "https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z"
     },
     {
       "added_at": "2023-05-05 15:15:42",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2023-05-05 15:15:42",
       "album": {
-        "name": "Incondizionatamente",
-        "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
-      },
-      "artists": [
-        {
-          "name": "Miravaldini",
-          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "Incondizionatamente",
-      "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
-    },
-    {
-      "added_at": "2023-05-05 15:15:42",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 188000,
       "name": "Takamatsu",
       "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+    },
+    {
+      "added_at": "2023-05-05 15:15:42",
+      "album": {
+        "name": "Incondizionatamente",
+        "url": "https://open.spotify.com/album/2W0VmuykAhepZvdTojs1IB"
+      },
+      "artists": [
+        {
+          "name": "Miravaldini",
+          "url": "https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "Incondizionatamente",
+      "url": "https://open.spotify.com/track/5BRRlNwuYhMILuP59sqruv"
     },
     {
       "added_at": "2023-05-05 15:15:42",

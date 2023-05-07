@@ -4,7 +4,7 @@
 
 > Indie dance and alternative hip\-hop for a mellow time.
 
-231 songs - 13 hr 14 min
+232 songs - 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Isn't It Lovely](https://open.spotify.com/track/3ukEbKCjmgeAWlROfHSF2Y) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:25 | 2022-06-30 | 2022-07-29 |
 | [It Was A Good Day](https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Predator](https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46) | 4:20 | 2022-03-17 | 2022-04-21 |
 | [Just Don't](https://open.spotify.com/track/2KIIrpnsVBuHWGjiVx8YkB) | [Zanski](https://open.spotify.com/artist/6IVta6osiP9HifjCLIw4cv) | [Just Don't](https://open.spotify.com/album/0XZGUc88dTR4FqXjnqbSec) | 4:01 | 2021-10-26 | 2022-07-29 |
+| [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 | 2023-04-28 |  |
 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 | 2022-07-28 |  |
 | [Keep On Calling](https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Inside Out](https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP) | 3:50 | 2022-07-28 |  |
 | [Kerosene](https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Kerosene](https://open.spotify.com/album/6ZZJgVir4fSS9inF2IFoU9) | 2:29 | 2022-09-09 |  |
@@ -166,7 +167,7 @@
 | [Regrets](https://open.spotify.com/track/2Qbx0BOqQbMLwwrAb50rl0) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Regrets](https://open.spotify.com/album/5Tzh1u7kniXHj1VucpwMwb) | 2:34 | 2023-01-19 | 2023-04-18 |
 | [Regrets](https://open.spotify.com/track/6nQSwXVn3DAa2vNl57rbFD) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [Regrets](https://open.spotify.com/album/0pN6aORNF276Hkwh2RlNBw) | 2:34 | 2021-10-26 | 2022-09-12 |
 | [Relax](https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq) | [Rejjie Snow](https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt), [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Baw Baw Black Sheep](https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k) | 3:51 | 2022-03-17 | 2023-02-05 |
-| [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 | 2021-10-26 |  |
+| [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/track/5LWKsMeXaYBoKzCHk8syQy) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Moe Moks](https://open.spotify.com/artist/6wwgDxXnmagUtCLbNRFJpF) | [Rockets \(feat\. Moe Moks\)](https://open.spotify.com/album/7ixoMIHFujDeqLmaGLEKqL) | 3:37 | 2021-10-26 | 2023-05-07 |
 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 | 2022-03-29 | 2022-07-29 |
 | [Rooftop](https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Rooftop](https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL) | 3:19 | 2023-01-19 |  |
 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 | 2022-09-09 |  |

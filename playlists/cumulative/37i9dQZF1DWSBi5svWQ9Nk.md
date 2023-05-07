@@ -4,7 +4,7 @@
 
 > De 50 populairste hits van Nederland\. Cover: Kevin & Yade Lauren
 
-84 songs - 4 hr 13 min
+85 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-24 |  |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-04-06 | 2023-04-14 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-23 |  |
-| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 |  |
+| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 | 2023-05-07 |
+| [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-04 |  |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 |  |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-23 |  |
 | [Helen](https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:22 | 2023-02-23 | 2023-03-03 |

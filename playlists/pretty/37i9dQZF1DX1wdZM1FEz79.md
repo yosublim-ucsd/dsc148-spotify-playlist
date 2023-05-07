@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Jukjae\(적재\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,156 likes - 52 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,397 likes - 52 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 36 | [봄인가 봐 Spring Love](https://open.spotify.com/track/6YOXdy9jShw66iOnBzQMKv) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [봄인가 봐 Spring Love \- SM STATION](https://open.spotify.com/album/1DzMyEZcFmD72jdkp4O73D) | 3:18 |
 | 37 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 |
 | 38 | [with you](https://open.spotify.com/track/4epozEKOwPtszj2zaKeVIP) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Tofu Personified Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QX9efMZlYa0HQic1iO3PX) | 3:29 |
-| 39 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
-| 40 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
+| 39 | [Paint](https://open.spotify.com/track/4lthTadTs7WMkpn9w2krk4) | [MoonMoon](https://open.spotify.com/artist/1LOeaOZCreokgQaauWT5rV) | [Paint](https://open.spotify.com/album/5jxRZ8YZanMKXowrQVYf3A) | 3:08 |
+| 40 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
 | 41 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 |
 | 42 | [Starlight](https://open.spotify.com/track/3zqS0EHUWTE9BDU3hf2aRd) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Starlight](https://open.spotify.com/album/1NBKHWgypm4yyAbz6PyZEG) | 4:33 |
 | 43 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
 | 44 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
-| 45 | [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 |
-| 46 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
+| 45 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 |
+| 46 | [Time’s Up](https://open.spotify.com/track/68OeJN8El9Yc5EOmVP9MFa) | [Hajin](https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu) | [The Interest of Love \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/0mdnc4j51htd1nPCgJs2ao) | 3:46 |
 | 47 | [YOUR SONG \(With Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/610IckJdwTyY8nez5v64DH) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/6iV30nbNl5Gmm2jG7Ej44D) | 4:18 |
 | 48 | [A Little Braver](https://open.spotify.com/track/2ekUnvuL7fclPdPK28kwDH) | [New Empire](https://open.spotify.com/artist/5iVjA1Of8CIToe69eg3EUQ) | [Uncontrollably Fond OST Part.14](https://open.spotify.com/album/7x0gVxvOhrQZKTFuWVkAlh) | 3:26 |
 | 49 | [I want to be a pillow](https://open.spotify.com/track/5lDeH3wAzJ1YnBYDPL6NYk) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [H\_ello?](https://open.spotify.com/album/6jfjO5f2SuzkXZHlE7pH4B) | 3:43 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 51 | [Rocking Chair](https://open.spotify.com/track/0qnW3Fl1IADc9UKr2FYLK2) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Rocking Chair](https://open.spotify.com/album/22LDFeOvXM6mtimOODDgyU) | 3:54 |
 | 52 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 |
 
-Snapshot ID: `MCwyZTEzMTk4NjU1OTA3ZDI0ODFjM2VmMDcxOGE5NGQ0M2M5MDViMDAz`
+Snapshot ID: `MCw1MjhiMWQ2MDQ5OGI2MWFmZmQyZTU2MjE3MTJlYTgwYmUzMGRhNTFk`

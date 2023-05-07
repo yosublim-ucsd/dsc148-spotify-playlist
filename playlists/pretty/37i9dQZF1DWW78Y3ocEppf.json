@@ -1,12 +1,12 @@
 {
   "description": "Let the songs speak. Cover: Reggie Becton",
-  "num_followers": 41173,
+  "num_followers": 41190,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWE2YTA3OWQ3YzUwYWI1ZjcyMzI2MTQwNjE3NWY5OGVmODc5MGM2",
+  "snapshot_id": "MCw2Y2MyYWQzNmY1MWE1NjI5YzZkZjU2YTJjMTYzZDU5NTdjZjM1YzBi",
   "tracks": [
     {
       "added_at": "2023-05-05 04:18:58",
@@ -347,7 +347,7 @@
     {
       "added_at": "2023-05-05 04:18:58",
       "album": {
-        "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+        "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
         "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
       },
       "artists": [
@@ -361,7 +361,7 @@
         }
       ],
       "duration_ms": 145609,
-      "name": "Glowin 4 Me (Pt. 2) [feat. Amaria BB]",
+      "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
@@ -685,26 +685,6 @@
       "url": "https://open.spotify.com/track/1muiS9jrDUTADqIE7yKuYV"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Do You Mind",
-        "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 140568,
-      "name": "Do You Mind",
-      "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "Soulection Takeover: 2K23 Edition",
@@ -723,6 +703,26 @@
       "duration_ms": 110400,
       "name": "Step 2 Me",
       "url": "https://open.spotify.com/track/57tg0m3Iu8YzWyaDfFfDtR"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Do You Mind",
+        "url": "https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 140568,
+      "name": "Do You Mind",
+      "url": "https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/2omLNrDBhaCBqscV1yltOB"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Spin the Block",
+        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 229052,
+      "name": "Spin the Block",
+      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Love Scars II",
@@ -915,22 +931,6 @@
       "duration_ms": 161684,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/24KsIgn3IsG6N5e43XQvvx"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Spin the Block",
-        "url": "https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 229052,
-      "name": "Spin the Block",
-      "url": "https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp"
     },
     {
       "added_at": "2023-03-03 05:16:10",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kissing On Your Tattoos",
-        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
-      },
-      "artists": [
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 153599,
-      "name": "Kissing On Your Tattoos",
-      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Still Over It",
@@ -1031,6 +1015,22 @@
       "duration_ms": 200472,
       "name": "You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Kissing On Your Tattoos",
+        "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 153599,
+      "name": "Kissing On Your Tattoos",
+      "url": "https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
-      "album": {
-        "name": "Before We Crash",
-        "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
-      },
-      "artists": [
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 229447,
-      "name": "Better Than Him",
-      "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "No Drama",
@@ -1179,6 +1163,22 @@
       "duration_ms": 189200,
       "name": "No Drama",
       "url": "https://open.spotify.com/track/5S7LgarbUuknrVO2gFkhtT"
+    },
+    {
+      "added_at": "2023-01-06 05:00:00",
+      "album": {
+        "name": "Before We Crash",
+        "url": "https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        }
+      ],
+      "duration_ms": 229447,
+      "name": "Better Than Him",
+      "url": "https://open.spotify.com/track/4O8LjiiXtsL0Jnb5xK4VxZ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1221,24 +1221,24 @@
       "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2022-09-02 04:00:00",
       "album": {
-        "name": "Lost In Melody (Deluxe)",
-        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
       },
       "artists": [
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 144869,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -1261,24 +1261,24 @@
       "url": "https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C"
     },
     {
-      "added_at": "2022-09-02 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+        "name": "Lost In Melody (Deluxe)",
+        "url": "https://open.spotify.com/album/6A6bRf5FGdvsCp1U1d4H9m"
       },
       "artists": [
         {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         },
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+      "duration_ms": 144869,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/4clYYm4VdZaqQkiNHSfIQG"
     },
     {
       "added_at": "2022-10-14 05:33:57",
@@ -1385,22 +1385,6 @@
       "url": "https://open.spotify.com/track/4Yd30sxNlXmpsf5IYsoMhf"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
-        "name": "$weet n $our",
-        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
-      },
-      "artists": [
-        {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
-        }
-      ],
-      "duration_ms": 183588,
-      "name": "$weet n $our",
-      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
-    },
-    {
       "added_at": "2023-01-27 05:01:00",
       "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
@@ -1417,20 +1401,20 @@
       "url": "https://open.spotify.com/track/7xCWoRmkwjW9UghbGCZHHI"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Glowin 4 Me",
-        "url": "https://open.spotify.com/album/6aziyhUkY3zHrW8ZVL9uds"
+        "name": "$weet n $our",
+        "url": "https://open.spotify.com/album/5L5fNQrj8Bq3nnf6PnyfTQ"
       },
       "artists": [
         {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+          "name": "K. Forest",
+          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
         }
       ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me",
-      "url": "https://open.spotify.com/track/5jI8xKMCIEToPXuXdFCoFJ"
+      "duration_ms": 183588,
+      "name": "$weet n $our",
+      "url": "https://open.spotify.com/track/6xxPmqOp8AbM32rEiJ3AQ4"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1701,6 +1685,26 @@
       "url": "https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU"
     },
     {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+      },
+      "artists": [
+        {
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+    },
+    {
       "added_at": "2023-03-17 04:00:00",
       "album": {
         "name": "Forgotten Flowers",
@@ -1735,22 +1739,18 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+        "name": "Sock It 2 Me",
+        "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+      "duration_ms": 201802,
+      "name": "Sock It 2 Me",
+      "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
     }
   ],
   "unique_name": "Some Kinda Way",

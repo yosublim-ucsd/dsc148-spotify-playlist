@@ -59,7 +59,7 @@
     },
     {
       "album": {
-        "name": "'-!- (Deluxe)",
+        "name": "-!- (Deluxe)",
         "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
       "artists": [
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 173276,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK"
@@ -2199,6 +2199,24 @@
     },
     {
       "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
+    },
+    {
+      "album": {
         "name": "Hollywood Baby",
         "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
       },
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
@@ -2398,6 +2416,24 @@
       "duration_ms": 188026,
       "name": "I Like the Way You Die",
       "url": "https://open.spotify.com/track/05HQ6KrftQ0kvnvM1qE5pt"
+    },
+    {
+      "album": {
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261680,
+      "name": "I Never Loved Myself Like I Loved You",
+      "url": "https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh"
     },
     {
       "album": {

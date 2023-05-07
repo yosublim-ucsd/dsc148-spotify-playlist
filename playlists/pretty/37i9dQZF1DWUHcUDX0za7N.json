@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX?si=d0hf2IO-T9m3Boh8CcZn7A\"> A-Q</a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=GLVEnDSgRv6NWAaIdIM-wg\"> Ruger</a> ",
-  "num_followers": 18958,
+  "num_followers": 18983,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzdjZWExMmU2MmRkYzg1MzIzNTNmZjNlNjcwYjcxMzM5ZDFhY2Y4",
+  "snapshot_id": "MCwwZWY0MTkwYjJiNmU3MTVhMDdiNjkyNDYxNWNlYmQyYzE4ZDE4ZjA3",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -719,6 +719,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Cruel Love/Vex",
         "url": "https://open.spotify.com/album/2HFv2oD5Ji4b0GeHrrt47u"
       },
@@ -767,42 +787,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Where Dem Dey",
-        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+        "name": "Vigilante Bop",
+        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
       },
       "artists": [
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+          "name": "Alpha Ojini",
+          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
         },
         {
           "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Where Dem Dey",
-      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Palmwine Music 3",
-        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 221399,
-      "name": "Live Life",
-      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
+      "duration_ms": 180950,
+      "name": "Vigilante Bop",
+      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -823,22 +823,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Vigilante Bop",
-        "url": "https://open.spotify.com/album/62wsAbVkM8OxT2tJ9hIkiG"
+        "name": "Palmwine Music 3",
+        "url": "https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF"
       },
       "artists": [
         {
-          "name": "Alpha Ojini",
-          "url": "https://open.spotify.com/artist/6qawnc72hY3uiAVLDZa6Rc"
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 180950,
-      "name": "Vigilante Bop",
-      "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+      "duration_ms": 221399,
+      "name": "Live Life",
+      "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 178775,
       "name": "PARA",
       "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1135,30 +1135,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+        "name": "Smackdown",
+        "url": "https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "AttiFaya",
+          "url": "https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "Zamir",
-          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
         }
       ],
-      "duration_ms": 168247,
-      "name": "Awolowo",
-      "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
+      "duration_ms": 162000,
+      "name": "Smackdown",
+      "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1203,6 +1195,54 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Zamir",
+          "url": "https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Awolowo",
+      "url": "https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "NI NIGERIA",
+        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
+      },
+      "artists": [
+        {
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "NI NIGERIA",
+      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1239,26 +1279,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Smackdown",
-        "url": "https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn"
-      },
-      "artists": [
-        {
-          "name": "AttiFaya",
-          "url": "https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0"
-        },
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Smackdown",
-      "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Soundtrack To The Good Life",
         "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
       },
@@ -1275,22 +1295,6 @@
       "duration_ms": 235081,
       "name": "Soft Life",
       "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "NI NIGERIA",
-        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
       "artists": [
         {
-          "name": "Tomi Tribe",
-          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
-        },
-        {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
         }
       ],
-      "duration_ms": 145263,
-      "name": "NI NIGERIA",
-      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2023-05-04 23:00:00",

@@ -4,7 +4,7 @@
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Ed Sheeran
 
-159 songs - 9 hr 11 min
+160 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-02-23 |  |
 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 | 2023-02-23 | 2023-03-03 |
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-02-23 |  |
-| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 |  |
+| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 | 2023-05-07 |
+| [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-04 |  |
 | [Heart And Soul](https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Heart And Soul](https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up) | 2:54 | 2023-04-06 |  |
 | [Heartaches](https://open.spotify.com/track/356RuMLuflEhfFuK2CrzZd) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Heartaches](https://open.spotify.com/album/68taUYP2jqsYXxBwTcth54) | 3:37 | 2023-04-20 |  |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 |  |

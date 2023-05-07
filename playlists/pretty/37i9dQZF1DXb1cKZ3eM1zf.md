@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,683 likes - 500 songs - 1 day 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,696 likes - 500 songs - 1 day 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 29 | [1992](https://open.spotify.com/track/31G662jWMvWL1e0qmefLIE) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [The Mustard Seed](https://open.spotify.com/album/7IC45fywo2lGgkzE0tA0jP) | 2:49 |
 | 30 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
 | 31 | [Light It Up \- Remix](https://open.spotify.com/track/500mvzh7TRZ0YdnVeHhj8b) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:46 |
-| 32 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 |
+| 32 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/7kZgIvKhFV57Xo5JGcSLmY) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Sports Anthems](https://open.spotify.com/album/6w0aYme7Q5ewujE59yTSLX) | 4:24 |
 | 33 | [Insomnia \- Radio Edit](https://open.spotify.com/track/7gWc0QEt2hoIkMv3XxPY1T) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [90s 100 Hits](https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b) | 3:33 |
 | 34 | [The Pretender](https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Echoes, Silence, Patience & Grace](https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz) | 4:29 |
 | 35 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 |
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1cKZ3eM1zf.md) - [plain]
 | 499 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 500 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 |
 
-Snapshot ID: `MCxmMzBiOTlkZTkyNzZhZGIwZTBjMGM0OTg4ZjBmNWI5MjU0M2JjMzhh`
+Snapshot ID: `MCwxZWU5MTc2ODQ0NDdjYjYyMzNiN2NmYjY2YzRhOTljNmY2MGVkOTQ3`

@@ -1,12 +1,12 @@
 {
   "description": "The songs we've been partying to in 2022. Cover: David Guetta & Bebe Rexha #SpotifyWrapped",
-  "num_followers": 49165,
+  "num_followers": 49197,
   "original_name": "Top Party Hits of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGEwYzJmZjkzMmQ4NWYzNTQyNzlkMWVhZThhZDg4MWY4YzMzZGRk",
+  "snapshot_id": "MCw1M2E2MzQyYjA3M2E3YmY4YTFkZDdlZjQxYmM3OTYwNDUyMjIxNmJl",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2022-11-30 13:46:00",

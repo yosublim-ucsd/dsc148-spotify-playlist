@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. ",
-  "num_followers": 7729042,
+  "num_followers": 7730943,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTc2ZjY0YmZmMzIwNDQ2NjQ2ZGMzMzVmOGU1NDg3NmQyMDAzMjYw",
+  "snapshot_id": "MCxlYzBiYmQxNWVjMzJiOWNhYTk4NjlmODVkMGRlZjc0NmQ3M2I5NGY2",
   "tracks": [
     {
       "added_at": "2022-12-22 14:12:20",
@@ -163,6 +163,26 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "The Product G&B",
+          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "Maria Maria (feat. The Product G&B)",
+      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "Millennium",
         "url": "https://open.spotify.com/album/5ySxm9hxBNss01WCL7GLyQ"
       },
@@ -175,22 +195,6 @@
       "duration_ms": 213306,
       "name": "I Want It That Way",
       "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -211,22 +215,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
       },
       "artists": [
         {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        },
-        {
-          "name": "The Product G&B",
-          "url": "https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 261973,
-      "name": "Maria Maria (feat. The Product G&B)",
-      "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+      "duration_ms": 180160,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4EchqUKQ3qAQuRNKmeIpnf"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "My Name Is",
-      "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "My Name Is",
+      "url": "https://open.spotify.com/track/75IN3CtuZwTHTnZvYM4qnJ"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Dish of the Day",
-        "url": "https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/1yr9HpAu3prvxmq783ZELn"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Ricky Martin",
         "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Dish of the Day",
+        "url": "https://open.spotify.com/album/1VQkUcV1j0hbsZAFghmeXh"
+      },
+      "artists": [
+        {
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/1yr9HpAu3prvxmq783ZELn"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "Let's Talk About Love",
         "url": "https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs"
       },
@@ -1427,6 +1427,22 @@
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Savage Garden",
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "Truly Madly Deeply",
+      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1451,22 +1467,6 @@
       "duration_ms": 257399,
       "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Savage Garden",
-        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 277266,
-      "name": "Truly Madly Deeply",
-      "url": "https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+        "name": "Crazysexycool",
+        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
         }
       ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
+      "duration_ms": 279506,
+      "name": "Waterfalls",
+      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Crazysexycool",
-        "url": "https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f"
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 279506,
-      "name": "Waterfalls",
-      "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "We See The Same Sun",
-        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
-      },
-      "artists": [
-        {
-          "name": "Mr. President",
-          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Coco Jamboo",
-      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 294786,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/6sHsXIJoEN5JpdkGMQDJxt"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Bills, Bills, Bills",
-      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "On How Life Is",
         "url": "https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -2143,18 +2127,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Ironic - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2171,6 +2155,22 @@
       "duration_ms": 225946,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Ironic - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -2255,18 +2239,34 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
         }
       ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2283,6 +2283,22 @@
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2315,22 +2331,6 @@
       "duration_ms": 312626,
       "name": "One Headlight",
       "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
     },
     {
       "added_at": "2022-12-22 14:12:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,976 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,066 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 22 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 23 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
 | 24 | [Farther Up The Road](https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:57 |
-| 25 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
-| 26 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
-| 27 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
-| 28 | [Trouble Blues](https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:20 |
+| 25 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
+| 26 | [I'm Ready](https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:04 |
+| 27 | [Trouble Blues](https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:20 |
+| 28 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
 | 29 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
 | 30 | [Got My Mojo Workin'](https://open.spotify.com/track/7i8YfqTfMuGrADrOQTigrb) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Got My Mojo Workin'](https://open.spotify.com/album/7M0FL4rB8lWBzMQXzyhuiO) | 8:02 |
 | 31 | [Five Long Years](https://open.spotify.com/track/7mdznHVGqPbcviLMxTJwti) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 4:47 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 50 | [\(You've Got To\) Love Her With A Feeling](https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Blues With A Feeling](https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB) | 3:45 |
 | 51 | [Sitting On Top Of The World](https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 3:36 |
 | 52 | [Caldonia](https://open.spotify.com/track/5E5j6R646UhSlyahYReXwU) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:54 |
-| 53 | [Trouble In Mind](https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:53 |
-| 54 | [\(I Think\) Drowning on Dry Land](https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh), [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Good Things Don't Happen Every Day](https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE) | 3:03 |
+| 53 | [\(I Think\) Drowning on Dry Land](https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z) | [Jimmy McGriff](https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh), [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Good Things Don't Happen Every Day](https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE) | 3:03 |
+| 54 | [Trouble In Mind](https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:53 |
 | 55 | [Driftin' Blues](https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [The Anthology](https://open.spotify.com/album/5pXSSHIS0f6WnV9dQa5NwM) | 3:26 |
 | 56 | [Please Send Me Someone To Love](https://open.spotify.com/track/3w6OE7KBUN5WTXIuTt9rmm) | [Percy Mayfield](https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU) | [Poet Of The Blues](https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf) | 2:53 |
 | 57 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 59 | [I Can't Quit You Baby](https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Can't Quit You Baby / Sit Down Baby](https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV) | 3:07 |
 | 60 | [Kansas City](https://open.spotify.com/track/1I5p5nMwstb6SZNtQXaT7b) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53) | 2:31 |
 
-Snapshot ID: `MCwwODI2YjBmOTg1MjYwNDQ2YmFlNzk1MjliMjQ4NjI2NTQyOTBmYWJl`
+Snapshot ID: `MCwyYmM4ZDE4N2VjYmRlMTFjOTA3NDkyZmU3N2M5ZjkxNTU5YmU1MGI4`

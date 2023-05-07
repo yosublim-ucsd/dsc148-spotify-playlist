@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 ### [Chaos Anthems](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
-> Back to the golden age of the scene\. Cover: The Used
+> Back to the golden age of the scene\. Cover: Alexisonfire
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,143 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,476 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 74 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 75 | [My Darkest Hour](https://open.spotify.com/track/7mV7vI17u8TRVnuE9YwkuY) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [The City Sleeps in Flames](https://open.spotify.com/album/73Kx19MysqVHMYvW29CTw3) | 3:29 |
 
-Snapshot ID: `MCxmYjkzNzZhMDZlN2Q0YWNkZmFlNGY5NGE5OGY2ZmFhYmU2YWQ2MDEz`
+Snapshot ID: `MCxhZDk3ZmIzODc4ZTY3ZWFiMzg5ODAwOTY0NTU5ZDRmYjc4ZGE1N2U3`

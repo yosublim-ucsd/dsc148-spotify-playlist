@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > Celebrating the powerful voices of Latin music\. Cover: Emilia
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,000 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,085 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 81 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 |
 | 82 | [Eternamente Bella](https://open.spotify.com/track/0WZqP2WahJbKURqUK3fBPk) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Eternamente Bella](https://open.spotify.com/album/1PhIfhQdduYiD72UKXIot9) | 3:26 |
 | 83 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
-| 84 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
+| 84 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
 | 85 | [Tengo Un Trato \- Remastered 2015](https://open.spotify.com/track/13crLwJf5aEt3R8MKcisou) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Lujo Ibérico \(Edición 15 Aniversario\)](https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR) | 2:48 |
-| 86 | [Crayola](https://open.spotify.com/track/3aDXAKTlUxN5Nq4dwk5CyI) | [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Crayola](https://open.spotify.com/album/4f4UcqSlToqzBzTPgtP7C3) | 2:30 |
+| 86 | [Kitty](https://open.spotify.com/track/3ElaFhLinetMp5S6pOWVcy) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Kitty](https://open.spotify.com/album/6C7o5jeXJAAuQJ7RA6SHSi) | 2:09 |
 | 87 | [Baila Conmigo](https://open.spotify.com/track/0mD63phUwHYnlvAJn8NgqC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR) | [Baila Conmigo](https://open.spotify.com/album/1NfmNWGsa4mRMGrqHhMNJ6) | 2:43 |
 | 88 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 |
 | 89 | [dale Play](https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [dale Play](https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 99 | [Bailo Pa Ti](https://open.spotify.com/track/0eRPNA76bLUkPUk2YMUcQk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bailo Pa Ti](https://open.spotify.com/album/5qAD8mFpMoR9mrGzAPqJHn) | 3:20 |
 | 100 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 |
 
-Snapshot ID: `MCxmYjM5MDI4ZTkxMmZkNGM0Njg2YmNkMzJiMTk3ZDQ1YWQ5MTJmZDUy`
+Snapshot ID: `MCxlNTE5NzAzODhmYTcwY2IyMjhmOWY5ZjQ0ZDBhYjNhYjVlZWY0OGQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 
 > This is Banda Zeta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725 likes - 49 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45UHxY.md) - [plain]
 | 48 | [Zapatos viejos](https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 2:51 |
 | 49 | [Derecho De Amarla](https://open.spotify.com/track/6XU8HRtPHsWYwVzgA7sgZ3) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Mi Regreso Es Por Ti](https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi) | 2:36 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBiNmZjY2ZjYmFkOWMyNDUyNWYzZDBkZmEwNTc1MDRhZA==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAyZTQ3NjRmMmY4Y2VlYTk1OWIxY2FmZDNiYmYxOTQzMA==`

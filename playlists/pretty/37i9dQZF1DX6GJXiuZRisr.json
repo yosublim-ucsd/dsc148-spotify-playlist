@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1476876,
+  "num_followers": 1477212,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWFmOGFiNDkwNzRiOGFlODE3NzQwOTdhYTJjOTFjZDZiYjdmMGU5",
+  "snapshot_id": "MCxlZmRmOGY1ZmQ3ODZlMDBlODgyNjNkZWM5ODhiYTIyZjdlODQzNmZj",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -911,6 +911,30 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Anjunabeats Volume 14",
+        "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
+      },
+      "artists": [
+        {
+          "name": "Reflekt",
+          "url": "https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY"
+        },
+        {
+          "name": "delline bass",
+          "url": "https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk"
+        },
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "Need To Feel Loved - Tinlicker Remix",
+      "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -927,26 +951,6 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Turning Away",
-        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 244543,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -975,30 +979,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Anjunabeats Volume 14",
-        "url": "https://open.spotify.com/album/3SppKnyNf5sdqLxCMwsTzX"
-      },
-      "artists": [
-        {
-          "name": "Reflekt",
-          "url": "https://open.spotify.com/artist/6TwTAUcCILwoSPY2N3etuY"
-        },
-        {
-          "name": "delline bass",
-          "url": "https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk"
-        },
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Need To Feel Loved - Tinlicker Remix",
-      "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Turning Away",
+        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 244543,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
-        }
-      ],
-      "duration_ms": 279555,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "It's Ours",
         "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
       },
@@ -1139,6 +1119,46 @@
       "duration_ms": 483779,
       "name": "It's Ours",
       "url": "https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 279555,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1167,22 +1187,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+        "name": "Love Run Out",
+        "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
         }
       ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
+      "duration_ms": 158192,
+      "name": "Love Run Out",
+      "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Risky Business",
-        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        }
-      ],
-      "duration_ms": 320853,
-      "name": "Risky Business",
-      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Thermal / Oblivion",
         "url": "https://open.spotify.com/album/02tXBr9D8rhPT9lR3KY3Zl"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Love Run Out",
-        "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
+        "name": "Risky Business",
+        "url": "https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k"
       },
       "artists": [
         {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         }
       ],
-      "duration_ms": 158192,
-      "name": "Love Run Out",
-      "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
+      "duration_ms": 320853,
+      "name": "Risky Business",
+      "url": "https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
-      },
-      "artists": [
-        {
-          "name": "Super8 & Tab",
-          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
-        },
-        {
-          "name": "Nazzereene",
-          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
-        }
-      ],
-      "duration_ms": 234960,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
+      },
+      "artists": [
+        {
+          "name": "Super8 & Tab",
+          "url": "https://open.spotify.com/artist/3WGxBKuYawiVOmCwR8FIUC"
+        },
+        {
+          "name": "Nazzereene",
+          "url": "https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ"
+        }
+      ],
+      "duration_ms": 234960,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "LINE IN THE SAND",
-        "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
-      },
-      "artists": [
-        {
-          "name": "KILL SCRIPT",
-          "url": "https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 305078,
-      "name": "LINE IN THE SAND",
-      "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
       },
@@ -1751,6 +1731,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "LINE IN THE SAND",
+        "url": "https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk"
+      },
+      "artists": [
+        {
+          "name": "KILL SCRIPT",
+          "url": "https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 305078,
+      "name": "LINE IN THE SAND",
+      "url": "https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Too Little Too Late (Little Late Edit)",
         "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
       },
@@ -1767,26 +1767,6 @@
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Artefact",
-        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Fuenka",
-          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Artefact",
-      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1831,18 +1811,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+        "name": "Artefact",
+        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Fuenka",
+          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
         }
       ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+      "duration_ms": 220649,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 209016,
       "name": "Golden (feat. Blondfire)",
       "url": "https://open.spotify.com/track/1he0nibCzlDvB96EoJbbIZ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Am I Dreaming?",
         "url": "https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 230500,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Gee",
-          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
     },
     {
       "added_at": "2023-05-05 04:00:00",

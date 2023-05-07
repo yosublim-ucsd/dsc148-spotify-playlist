@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 63 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 398 likes - 64 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF9vcF2v630V.md) - [plain]
 | 52 | [Playground](https://open.spotify.com/track/4XOt0iwNTXhIRY7pEwCrkx) | [Alexa Curtis](https://open.spotify.com/artist/3LT9ZwcBwm9dNIXnReLknF) | [Playground](https://open.spotify.com/album/2TQrRtp7JxUtRun0Z5U3Z9) | 3:59 |
 | 53 | [Vabank](https://open.spotify.com/track/7mlveqBsHCR5a9SEDVo7lS) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Puzzle](https://open.spotify.com/album/1Vdso29GjI3NKulPRhGSeX) | 3:33 |
 | 54 | [Goodbye](https://open.spotify.com/track/3hyhiK6GT3I5e2pJBOT2yc) | [Riza Raquel](https://open.spotify.com/artist/4e9Vcf27riqB6oA9IgWSpb) | [Goodbye](https://open.spotify.com/album/5Ot1evmXCckrToeHdqslPG) | 3:35 |
-| 55 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
-| 56 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 |
-| 57 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
-| 58 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
-| 59 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 |
-| 60 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
-| 61 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 |
-| 62 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
-| 63 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
+| 55 | [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 |
+| 56 | [ALL MY PEOPLE \- 中文版](https://open.spotify.com/track/5QzzgDutL6lCfL8r9oB6NL) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/5horZvhbK2RHcYZayVHpe3) | 3:46 |
+| 57 | [Cry Baby](https://open.spotify.com/track/3QQKbpLfV89Jcl33vWrIWI) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/6IqhUb6X6WWRm2hde1MiyT) | 2:54 |
+| 58 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
+| 59 | [Get Away](https://open.spotify.com/track/01dbqbILV6Xp0omwxIZFOY) | [Angel Valdueza](https://open.spotify.com/artist/3JZKtORRzaYbEpTpp3H5RK) | [Get Away](https://open.spotify.com/album/14PTHi9hgtGbIGno1Rgpv6) | 2:48 |
+| 60 | [Don't Wait Too Long](https://open.spotify.com/track/5yUG1UgHD2LjpuQkJjOlJu) | [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Shadow Man \(feat\. Sasha Gracanin\)](https://open.spotify.com/album/5debPYP5vc7Cl4gJE3hbpT) | 3:16 |
+| 61 | [Forever](https://open.spotify.com/track/1s6D3PQHOlpmylZqT0NjQi) | [DreamHouse](https://open.spotify.com/artist/3JLTTXtAd1NzSPTMXGJEfK) | [Sha La La](https://open.spotify.com/album/4cEGZCz6TdHTqhQkSdonoD) | 3:22 |
+| 62 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 |
+| 63 | [Diamonds \- Secret Bonus Track!](https://open.spotify.com/track/2AZsIgKo8s1gBdpoegvGdd) | [Grant](https://open.spotify.com/artist/1hTSQPidbmRHNVwak6jthu) | [Something To Believe In](https://open.spotify.com/album/4SJWnPQrZNpNu4hVHMIw2i) | 4:23 |
+| 64 | [Home](https://open.spotify.com/track/5nRceu5UXYgAKYPJO87DYG) | [Audio Illustrator James Newman](https://open.spotify.com/artist/7bN53jxGeZW8mOmBPZzMdd) | [This Side of the Curse](https://open.spotify.com/album/5SnaMrXmisUfKVQ3cecjtf) | 3:16 |
 
-Snapshot ID: `MjgwNTU1ODAsMDAwMDAwMDA4YjY1YWFmY2FlNzY2NGVlOWQ0MjAyNzU2ZTUxYmU5Yw==`
+Snapshot ID: `MjgwNTcwMjAsMDAwMDAwMDBmMDE3ZGRmYTVmMmY1M2Y3NGNlZmQ1NzY0NmFjOGEyYQ==`

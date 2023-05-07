@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-550 songs - 2 day 3 hr 41 min
+553 songs - 2 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-04-13 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-04-13 | 2023-02-02 |
 | [Dandy](https://open.spotify.com/track/3OOps11k5cKeTLrVu3gwhP) | [Kid606](https://open.spotify.com/artist/7kDf1ziRxPFtWbbZB1XmrM) | [GQ On The EQ](https://open.spotify.com/album/2GdDU2TAxNqxO4MMJ8JJbJ) | 5:06 | 2022-04-13 | 2023-02-07 |
-| [Dark & Long \- Remastered](https://open.spotify.com/track/2nZPzVKtW9j8aztHy8HKAa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(20th Anniversary Remaster\)](https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY) | 7:33 | 2022-04-13 |  |
+| [Dark & Long \- Remastered](https://open.spotify.com/track/2nZPzVKtW9j8aztHy8HKAa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(20th Anniversary Remaster\)](https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY) | 7:33 | 2022-04-13 | 2023-05-07 |
 | [Dark Smile](https://open.spotify.com/track/0x5JyANX8fchQQd8MCm5uh) | [Autocreation](https://open.spotify.com/artist/5qTewcTbxLjtvmtaNY5sNU) | [Mettle.](https://open.spotify.com/album/5eu9ZEcYYIfl3x1Zi3aAaf) | 7:04 | 2022-04-13 | 2022-07-29 |
 | [Data\-Spotting](https://open.spotify.com/track/4CnqYSipGYrZIQxYQ7UJf5) | [Goodiepal](https://open.spotify.com/artist/4ymEewluEtOTy7ATOyMzT3) | [Hobby Industries Split EP 1](https://open.spotify.com/album/3EOTfjuSS02GqrmR0jhXYH) | 2:06 | 2022-04-13 | 2022-07-21 |
 | [Daymares, It Is What It Is](https://open.spotify.com/track/2zGwA60byxEWlt4FeVxwet) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator \(Mayday\)](https://open.spotify.com/album/2DtFJsPFDFp8b8AebiZmIL) | 6:37 | 2022-04-13 |  |
@@ -195,6 +195,7 @@
 | [Gammi](https://open.spotify.com/track/7AWRP5rrMaHilI2bvFXPzw) | [Disjecta](https://open.spotify.com/artist/5hkjh4uNB1fItsgLDJOVG5) | [Clean Pit & Lid](https://open.spotify.com/album/25lKzjvLD2qJMOPw1N7jyj) | 7:48 | 2022-04-13 | 2022-07-27 |
 | [Gemini \(Early\)](https://open.spotify.com/track/3PrqDhiojWpH5owGZ3XpaA) | [Hrvatski](https://open.spotify.com/artist/0Li1NnItMz6nHmW1rHS744) | [Swarm & Dither](https://open.spotify.com/album/1zj5fneHRoNF11WeK4G8c8) | 3:16 | 2022-04-13 | 2022-07-13 |
 | [Gemini \(Revision\)](https://open.spotify.com/track/6t1oxt528HkF5SgUZyh0KS) | [Hrvatski](https://open.spotify.com/artist/0Li1NnItMz6nHmW1rHS744) | [Swarm & Dither](https://open.spotify.com/album/1zj5fneHRoNF11WeK4G8c8) | 8:39 | 2022-04-13 | 2022-07-28 |
+| [Geometry](https://open.spotify.com/track/0KrFSR94gp3cCPcTKURwS9) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Geometry](https://open.spotify.com/album/3TmGzqL4AAvbG3TYoUbQFC) | 4:35 | 2022-04-13 |  |
 | [Geometry](https://open.spotify.com/track/4ZSiklc2iXA6OnPzgSXw4f) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Geometry](https://open.spotify.com/album/4HWmyaD3uOgkBRIvlZL3Rr) | 4:35 | 2022-04-13 | 2022-07-29 |
 | [Geometry](https://open.spotify.com/track/6zaj8ZG3JGllbAVelAbntN) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [Geometry](https://open.spotify.com/album/2TBR0T2zZlXqnjzwnL4RvJ) | 4:35 | 2022-04-13 | 2023-04-29 |
 | [Giant Sunflowers Swaying In The Wind](https://open.spotify.com/track/0bYYiVfOeqjiN4nN6T6on8) | [Metamatics](https://open.spotify.com/artist/0MWaIWO3tQOJccGmcL8TP8) | [From Death To Passwords](https://open.spotify.com/album/1ZEhN7VpfuuWvchfTjSPY6) | 6:18 | 2022-04-13 |  |
@@ -288,6 +289,7 @@
 | [Melodicore](https://open.spotify.com/track/4supwTnuCsUD5xz2UcLAc7) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Like Weather \(Remastered Edition\)](https://open.spotify.com/album/21t4lny66XPZPuVVPoo1hO) | 5:21 | 2022-04-13 | 2023-02-07 |
 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 | 2022-04-13 |  |
 | [Memoria](https://open.spotify.com/track/7po1yZf9QAnoDl2AUt4LJM) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes](https://open.spotify.com/album/56w7QMVBxVWfNs9j5NHmxd) | 5:53 | 2022-04-13 | 2022-07-29 |
+| [Memoria](https://open.spotify.com/track/03luYDnIolLvrMhYjTt9cs) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/2jUEo0xs0kmOvB06trFQxR) | 5:58 | 2022-04-13 |  |
 | [Memoria](https://open.spotify.com/track/2WhqPkVoPN7LAAndjHOmBE) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Martes + Utopía](https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e) | 5:58 | 2022-04-13 | 2023-04-30 |
 | [Mentok 1](https://open.spotify.com/track/2fJEhigKyt5otsVYQCk4Rn) | [LFO](https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e) | [LFO](https://open.spotify.com/album/7a2ja1S9hGEDBTO91uoj6n) | 4:31 | 2022-04-13 | 2023-02-04 |
 | [Metro Dade \(Plaid Mix\)](https://open.spotify.com/track/37xSuy37txchAXjHHnpgRR) | [Ko\-Wreck Technique](https://open.spotify.com/artist/4czdPTdZFsj3Lj2kXVtOxe) | [Ko\-Wrecktion EP](https://open.spotify.com/album/2C3DDj8OTvKZgcWOsuoSos) | 6:05 | 2022-04-13 | 2022-07-27 |
@@ -392,7 +394,8 @@
 | [Recat](https://open.spotify.com/track/5AxF9GFsJIMZMBgvxhazMi) | [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4), [Max Loderbauer](https://open.spotify.com/artist/66xtPavg2eAxglfIKmPWHP) | [RE: ECM](https://open.spotify.com/album/7dKtn3RL0K3sAXV4CFC4b6) | 7:15 | 2022-04-13 |  |
 | [Recently In The Sahara](https://open.spotify.com/track/4taCY5qWWHH3jxYkr2hW7L) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Lucky Cat](https://open.spotify.com/album/3ctNSs8cZLgDfDVmQvdgM8) | 5:32 | 2022-04-13 |  |
 | [Rewind! \- Vocal](https://open.spotify.com/track/1ChgIIBX7k99Op7E2kR4wM) | [Cylob](https://open.spotify.com/artist/3rUTj1FI3FvdUHfS1nmRv5) | [Cymply The Best 93\-01](https://open.spotify.com/album/4Zhq90l2QauFVB1GRCwagX) | 3:04 | 2022-04-13 |  |
-| [Rez \- Remastered](https://open.spotify.com/track/1a6ktLZUBl9Ep9t8Qkz7Tj) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(Deluxe / 20th Anniversary Edition\)](https://open.spotify.com/album/0DDUsPuwNlVuclPWAGodJm) | 9:57 | 2022-04-13 |  |
+| [Rez \- Remastered](https://open.spotify.com/track/4lASy63EFBU4y62UYP7Unt) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Collection 2](https://open.spotify.com/album/2gcoahpKkv7X0PDcYYDnqX) | 9:57 | 2022-04-13 |  |
+| [Rez \- Remastered](https://open.spotify.com/track/1a6ktLZUBl9Ep9t8Qkz7Tj) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(Deluxe / 20th Anniversary Edition\)](https://open.spotify.com/album/0DDUsPuwNlVuclPWAGodJm) | 9:57 | 2022-04-13 | 2023-05-07 |
 | [Right Time Right Place](https://open.spotify.com/track/2n5wJWJwTabSA2zJk7xEO3) | [Blectum From Blechdom](https://open.spotify.com/artist/2iDfyLGn8aPFWfY6v7yd40) | [Haus de Snaus](https://open.spotify.com/album/3GJDbkBNxLqQ3qaLe3rGan) | 2:09 | 2022-04-13 | 2022-07-28 |
 | [rightclick](https://open.spotify.com/track/4dlFG5cBPJeP2aBKAelWdK) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/5defpn27uPvw6KeSt1s0gP) | 2:54 | 2022-04-13 |  |
 | [rightclick](https://open.spotify.com/track/54wkv0gYaFNbH97DTENlii) | [Mira Calix](https://open.spotify.com/artist/7yop5VpIW8Wv2l8ReGzbSq) | [utopia](https://open.spotify.com/album/4y1I5CWHIVme0FCOllppJy) | 2:54 | 2022-04-13 | 2023-02-02 |
@@ -430,7 +433,7 @@
 | [Slac](https://open.spotify.com/track/4cwXjW3AiE75mWj6nL52eR) | [F.U.S.E.](https://open.spotify.com/artist/6qRKwyDhiTu2n9cOhbHict), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Dimension Intrusion \(25th Anniversary Edition\)](https://open.spotify.com/album/3BSEkF5PStiNQYKZB2RQKE) | 3:20 | 2022-04-13 |  |
 | [Slo Bird Whistle \- Peel Session](https://open.spotify.com/track/3bQOgK2jol0IYuI01Aa7dO) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Peel Session 2](https://open.spotify.com/album/2AmoY6ypezs0oIMMtlK80M) | 3:33 | 2022-04-13 | 2022-07-29 |
 | [Slow Knife](https://open.spotify.com/track/5TBXc1GBJ6PfEwoswqjxUD) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [µ20: 20 Years of Planet Mu](https://open.spotify.com/album/6MFhamY5fCtvAo17hpnZ4F) | 3:55 | 2022-04-13 | 2022-07-20 |
-| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 |  |
+| [Sodastream](https://open.spotify.com/track/5YwaZKmLuWOCaux9Vk8Ggu) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice](https://open.spotify.com/album/0iUtQmTYPLQSST5QMo6USi) | 5:51 | 2022-04-13 | 2023-05-07 |
 | [Sodastream](https://open.spotify.com/track/7eg52M91djAxgqiHxo03Xb) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy Of Choice](https://open.spotify.com/album/1rC2DXywY27u7qc1hIzx5J) | 5:51 | 2022-04-13 | 2022-07-25 |
 | [Soft Power](https://open.spotify.com/track/5fPp9JTVrne1sEJDivDDcC) | [Bone Head](https://open.spotify.com/artist/6k2X5Q2HpaokIZSlPPTyZY) | [Soft Power](https://open.spotify.com/album/6w5CqfaTeDxkptpMCZFfJA) | 8:01 | 2022-04-13 | 2022-07-29 |
 | [Solanus](https://open.spotify.com/track/26fmZTYJkxfQHZMT02DeRU) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Reductions 1995–1997](https://open.spotify.com/album/0dSDOoQ2jDQAjMzkhJQAy9) | 11:44 | 2022-04-13 | 2023-02-04 |

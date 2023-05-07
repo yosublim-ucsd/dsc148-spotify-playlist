@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 311337,
       "name": "Returning After Leaving",
       "url": "https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5"
@@ -4176,6 +4176,24 @@
       "duration_ms": 102515,
       "name": "Zkoum\u00e1n\u00ed du\u0161e, Pt. 2",
       "url": "https://open.spotify.com/track/7fbJJEWelteCwXXACq98ZC"
+    },
+    {
+      "album": {
+        "name": "Wander Into",
+        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "\u604b\u306e\u4e88\u611f",
+      "url": "https://open.spotify.com/track/3ysYqlfJFsqmt5ip28ZwUl"
     },
     {
       "album": {

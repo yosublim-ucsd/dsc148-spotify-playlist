@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,160 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 49 | [Rich Sex \(feat\. Lil Wayne\)](https://open.spotify.com/track/2D1MK9oaxy7axXggy3iVbp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:12 |
 | 50 | [All Hands on Deck](https://open.spotify.com/track/1kXmApTm4wonqscYBoLwxj) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Aquarius](https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L) | 3:41 |
 
-Snapshot ID: `MCxjZTUxODAxNTM0NTlhMjAxMjFmZmFjM2VkMTRiYmJlYWIwZTFjNzE3`
+Snapshot ID: `MCxhYzQyYjI2MmFkNjU2ZGIxMDVmOTA5ZDU1YjcxZDA5ZjFhOWZjNTMx`

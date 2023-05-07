@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,605 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,971 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 27 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 |
 | 28 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 29 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 |
-| 30 | [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 |
-| 31 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
+| 30 | [光るなら](https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa) | [Goose house](https://open.spotify.com/artist/7BzEKSgHp2yrNC6w5NkFhQ) | [Milk](https://open.spotify.com/album/0uF7LYXx0mDrWeMxZ3vRkz) | 4:12 |
+| 31 | [Shinzo wo Sasageyo!](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 |
 | 32 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
 | 33 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
 | 34 | [crossing field](https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDSPACE](https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 49 | [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 |
 | 50 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 
-Snapshot ID: `MCwxODliNGI2M2RiNTgxMWFkZDJhNjdkZWU5NzNiZDNmNzI5M2U1NzRj`
+Snapshot ID: `MCxmODFhZTQ5OWE3OTg2ZDdkODkzNGU2MGY3M2JmYzdiNGMwMjQ4NmY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,819 likes - 50 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,900 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 13 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 |
 | 14 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 |
 | 15 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 |
-| 16 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
-| 17 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
+| 16 | [Jesus at the Centre](https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 6:09 |
+| 17 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
 | 18 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
 | 19 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
 | 20 | [See What the Lord Has Done](https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:34 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 42 | [More](https://open.spotify.com/track/1ECetasD2CDQ9sCxlX9y6G) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Chapter One](https://open.spotify.com/album/7JssBmu17Xn85hGOFZWvZZ) | 7:35 |
 | 43 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
 | 44 | [Awurade Kasa](https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo) | [Cindy Thompson](https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd) | [Cindy's Messiah](https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD) | 7:42 |
-| 45 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
-| 46 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
+| 45 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
+| 46 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
 | 47 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
 | 48 | [Jesus](https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Jesus](https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB) | 8:50 |
 | 49 | [Love in My Heart](https://open.spotify.com/track/4i6Qzd0sZBNXH5PmMQ9qUH) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak) | [Love in My Heart](https://open.spotify.com/album/1UPfneh8tSjjNlsPhcdfPq) | 7:10 |
 | 50 | [Master of the World](https://open.spotify.com/track/0f0SU60F9bZvriZwV1SefF) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Master of the World](https://open.spotify.com/album/3dQAMDPv5qZ8bazXNsE1Ha) | 5:36 |
 
-Snapshot ID: `MCxlYTYwOWY5NTA2ZWZkMTIxMWY3Y2JhNzAxODgwZTEyY2NlODllMDkz`
+Snapshot ID: `MCw0MzhjMzYyZmIwMWQxYzgxZjQ0NDcwOGVjNDIwODg1YzYzZWRlOTc5`

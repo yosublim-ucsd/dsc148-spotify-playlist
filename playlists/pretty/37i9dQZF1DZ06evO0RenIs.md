@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,019 likes - 44 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,033 likes - 44 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 43 | [Bourgeois](https://open.spotify.com/track/77p0SZ7bEyMlsKMS6cv43z) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/1MJotRlrO8AFegESeJRuBV) | 4:53 |
 | 44 | [Tuttifrutti](https://open.spotify.com/track/0R98IdPkYNH36q3DhAO3NB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/6kcDKcht2MzEizeqtioYtP) | 3:52 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBhYzk0NmEzNDIwMzkyMGJlNzliYTc3M2Q3NjVjZjI1ZQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBmMTcwODlkYzNhYzdjZTVmMGE0ZDIzZGJjZjRmODNhZA==`

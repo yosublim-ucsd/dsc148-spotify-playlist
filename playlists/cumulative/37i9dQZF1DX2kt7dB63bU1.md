@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-592 songs - 1 day 17 hr 33 min
+593 songs - 1 day 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,8 @@
 | [My Truth](https://open.spotify.com/track/3SmunenWR60n0G9VpjDkLc) | [Wayne Escoffery](https://open.spotify.com/artist/5OZcVqX1OWspU3UCsymKw9), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [My Truth](https://open.spotify.com/album/0NmrSzDbUAcBWQjizsqH1w) | 7:55 | 2023-04-14 |  |
 | [My Universe](https://open.spotify.com/track/4dKzjrbS7DdtYYOJWmrupL) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F), [Dan Chmielinski](https://open.spotify.com/artist/2QNwUq3cOVzml72NbNmNkD), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [My Universe](https://open.spotify.com/album/29SORe1JXLAFFzr1QsqtwX) | 4:35 | 2022-05-06 | 2022-07-22 |
 | [Mélusine](https://open.spotify.com/track/11xHFmZ9IuwLjciHW3alnF) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/51fDNfHksS7ry5yqUx1gLj) | 3:13 | 2023-03-03 | 2023-03-25 |
-| [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 | 2023-03-24 |  |
+| [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 | 2023-03-24 | 2023-05-07 |
+| [Nature Boy](https://open.spotify.com/track/6FlvwL0btl7luPQ3BwvTRE) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:35 | 2023-03-24 |  |
 | [Nature Boy](https://open.spotify.com/track/2m7mn0YHBcPLfZaNwmzBp8) | [Ranee Lee](https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G) | [Nature Boy](https://open.spotify.com/album/13iuZUA9X8WZzoIEozbePr) | 5:11 | 2022-03-11 | 2023-02-25 |
 | [Nature Boy](https://open.spotify.com/track/6qb2rhcuK47JxLkyVAqbyA) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Nature Boy](https://open.spotify.com/album/5jwAJkrOO8IDT3l4VChY9F) | 3:26 | 2023-03-24 |  |
 | [Necessity](https://open.spotify.com/track/2MZTALOk4f0D2RkzKP2vOj) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Necessity](https://open.spotify.com/album/6roEKXOFMgCJ9nC2y3oE2q) | 3:19 | 2020-10-09 | 2022-02-19 |

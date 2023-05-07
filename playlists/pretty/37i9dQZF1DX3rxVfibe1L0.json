@@ -1,12 +1,12 @@
 {
   "description": "Get happy with today's dose of feel-good songs!",
-  "num_followers": 7495111,
+  "num_followers": 7487264,
   "original_name": "Mood Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzNkM2NiNDVlYWZmZTFjY2YyM2ZjNmE3MGI1NTdlMGFiZmRkMzQ1",
+  "snapshot_id": "MCw1YTM5YmQyN2MzNDhmN2MyMzU0ZjA0MjRmYTg0ZjYwMWI1MDliOGFh",
   "tracks": [
     {
       "added_at": "2023-04-28 15:08:42",
@@ -183,22 +183,6 @@
     {
       "added_at": "2023-04-28 15:08:42",
       "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
-    },
-    {
-      "added_at": "2023-04-28 15:08:42",
-      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-04-28 15:08:42",
+      "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "added_at": "2023-04-28 15:08:42",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-28 15:08:42",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2023-04-28 15:08:42",
-      "album": {
         "name": "Meltdown",
         "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 153037,
       "name": "Meltdown",
       "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
+    },
+    {
+      "added_at": "2023-04-28 15:08:42",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-04-28 15:08:42",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-04-28 15:08:42",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
-    },
-    {
-      "added_at": "2023-04-28 15:08:42",
-      "album": {
         "name": "My Stupid Heart",
         "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 160866,
       "name": "My Stupid Heart",
       "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
+    },
+    {
+      "added_at": "2023-04-28 15:08:42",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2023-04-28 15:08:42",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-28 15:08:42",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2023-04-28 15:08:42",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 210384,
       "name": "Can I Get It",
       "url": "https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN"
+    },
+    {
+      "added_at": "2023-04-28 15:08:42",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     },
     {
       "added_at": "2023-04-28 15:08:42",

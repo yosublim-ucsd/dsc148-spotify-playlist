@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Magdalena Bay",
-  "num_followers": 1702192,
+  "num_followers": 1702185,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGJlZDE2Nzk4ODMxNzllNjE4YWNhNmY0MDhjMDFiMjFkZGQzNDE1",
+  "snapshot_id": "MCxmZGU5ODk1NjQ0YjIzZjJmN2YzOTZlY2RmYWZkMTdkZjMyYTMzYjIx",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "DEATH",
-        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 306655,
-      "name": "DEATH",
-      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
+      "duration_ms": 229804,
+      "name": "drive ME crazy!",
+      "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
     },
     {
       "added_at": "2023-04-10 21:20:08",
@@ -121,20 +121,20 @@
       "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-10 21:20:08",
       "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+        "name": "Digital Silence",
+        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
       },
       "artists": [
         {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+          "name": "Peter McPoland",
+          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
         }
       ],
-      "duration_ms": 229804,
-      "name": "drive ME crazy!",
-      "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
+      "duration_ms": 198026,
+      "name": "Digital Silence",
+      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -167,22 +167,6 @@
       "duration_ms": 185040,
       "name": "F2F",
       "url": "https://open.spotify.com/track/2e2AXpIiJpet5b4qg85Gh6"
-    },
-    {
-      "added_at": "2023-04-10 21:20:08",
-      "album": {
-        "name": "Digital Silence",
-        "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
-      },
-      "artists": [
-        {
-          "name": "Peter McPoland",
-          "url": "https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Digital Silence",
-      "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -347,6 +331,38 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 306655,
+      "name": "DEATH",
+      "url": "https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 262623,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -393,20 +393,20 @@
       "url": "https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-21 04:19:11",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "Blades",
+        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 235035,
-      "name": "Pancakes for Dinner",
-      "url": "https://open.spotify.com/track/1WThEmIxSyaqG6fVsyCmcL"
+      "duration_ms": 221092,
+      "name": "Blades",
+      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -425,20 +425,20 @@
       "url": "https://open.spotify.com/track/0T7aTl1t15HKHfwep4nANV"
     },
     {
-      "added_at": "2023-04-21 04:19:11",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Blades",
-        "url": "https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep"
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3TI3FFFz3hKQfsL0izZ8JS"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 221092,
-      "name": "Blades",
-      "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
+      "duration_ms": 262623,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/0uBdQzKghx88d2Lp8SLFKJ"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -541,24 +541,20 @@
       "url": "https://open.spotify.com/track/4Z3Mmn6cIeuKprHQyyAbXQ"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "To Be Yours",
-        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
         }
       ],
-      "duration_ms": 211782,
-      "name": "To Be Yours",
-      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -577,20 +573,24 @@
       "url": "https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+        "name": "To Be Yours",
+        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
       },
       "artists": [
         {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
         }
       ],
-      "duration_ms": 190933,
-      "name": "Designer",
-      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+      "duration_ms": 211782,
+      "name": "To Be Yours",
+      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "added_at": "2023-04-21 04:19:11",
@@ -741,22 +741,6 @@
       "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Moonshine",
@@ -771,6 +755,22 @@
       "duration_ms": 240000,
       "name": "Moonshine",
       "url": "https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -913,22 +913,6 @@
       "url": "https://open.spotify.com/track/4Xl7ibqczUliZV3RNOnBzq"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Yippie Ki Yay",
-        "url": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 266911,
-      "name": "Yippie Ki Yay",
-      "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
-    },
-    {
       "added_at": "2023-04-21 04:19:11",
       "album": {
         "name": "TE EXTRA\u00d1O Y LO SIENTO...",
@@ -947,50 +931,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "It\u2019s Never Fair, Always True",
-        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+        "name": "Yippie Ki Yay",
+        "url": "https://open.spotify.com/album/2YvJnCMTTHVUBcnZFjs0f1"
       },
       "artists": [
         {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 167841,
-      "name": "lalala",
-      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 268992,
-      "name": "Home By Now",
-      "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
+      "duration_ms": 266911,
+      "name": "Yippie Ki Yay",
+      "url": "https://open.spotify.com/track/7kqwuYDC4u3vgN1xevrmGp"
     },
     {
       "added_at": "2023-04-28 05:05:19",
@@ -1009,6 +961,38 @@
       "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "It\u2019s Never Fair, Always True",
+        "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 167841,
+      "name": "lalala",
+      "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 268992,
+      "name": "Home By Now",
+      "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
+    },
+    {
       "added_at": "2023-04-18 18:49:21",
       "album": {
         "name": "Til U Hate Me",
@@ -1025,20 +1009,20 @@
       "url": "https://open.spotify.com/track/3wrgRknQKf58IIEbV4flhx"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Trail Mix Tape",
-        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 187850,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
+      "duration_ms": 222650,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1055,6 +1039,22 @@
       "duration_ms": 186643,
       "name": "Friends",
       "url": "https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 187850,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Think I'm In Love",
         "url": "https://open.spotify.com/album/6sYZJIIFZK1zVjVGCBM20f"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 133000,
       "name": "Think I'm In Love",
       "url": "https://open.spotify.com/track/4DdNJPSeSHacmc04nlvwx1"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-03-24 04:00:00",

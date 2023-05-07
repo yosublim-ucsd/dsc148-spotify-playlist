@@ -1,12 +1,12 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 192067,
+  "num_followers": 192177,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTE0NWVjMDlmZjM5YzliMjgxZWRmMTgyZTJiNDc1ODEwNWVkYjMz",
+  "snapshot_id": "MCxlYTgzNjUxMDIyNTY2NDc2OTIzODUzOGNiYzI3Nzk2Yzc5NTc4OGI5",
   "tracks": [
     {
       "added_at": "2023-03-10 18:44:18",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "El Chico Del Apartamento 512",
-      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 190533,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/53IpyJOqUIcCzCUtMjP9oy"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Dreaming Of You",
-      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 265120,
+      "name": "Ay\u00fadame",
+      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Llegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Le Pedir\u00e9",
-      "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Esto Es Lo Nuestro - 20 Exitos",
         "url": "https://open.spotify.com/album/467yWFddzRSYF4H11tCHdl"
       },
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 265120,
-      "name": "Ay\u00fadame",
-      "url": "https://open.spotify.com/track/4qC5OxQRMDKxi2NtYkiegc"
+      "duration_ms": 169493,
+      "name": "Fuertemente",
+      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -388,9 +372,25 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Llegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/1bm9teaYqUaTbyJzpqNu6l"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Le Pedir\u00e9",
+      "url": "https://open.spotify.com/track/0Oon0YwVUvqf8O8KLukfZj"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Ens\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "Qui\u00e9n Iba A Pensar (Remastered)",
         "url": "https://open.spotify.com/album/7nh2gzgcGZDwFBLl11dEFs"
       },
@@ -439,38 +423,6 @@
       "duration_ms": 240826,
       "name": "Qui\u00e9n Iba A Pensar",
       "url": "https://open.spotify.com/track/5HfaD1ZJHpPyYinCO8NrSU"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena y los Dinos",
-          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
-        }
-      ],
-      "duration_ms": 143053,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 210626,
-      "name": "Bidi Bidi Bom Bom - 1994 Version",
-      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -535,22 +487,50 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
       "artists": [
         {
-          "name": "Emilio Navaira",
-          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
-        },
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "duration_ms": 143053,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/164h2ksJh1l27JoQH0W9kl"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
         {
           "name": "Bobby Pulido",
           "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 217129,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+      "duration_ms": 189440,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/0IHrQNuGVj2c3dBwyw2lNC"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -571,18 +551,38 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/6VB3iQvl5osGIQyaJv7vqm"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Emilio Navaira",
+          "url": "https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 169493,
-      "name": "Fuertemente",
-      "url": "https://open.spotify.com/track/5TEzNtE6KmRccDqNosDByw"
+      "duration_ms": 217129,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/050UuOQmyhJ470uVMpm6dM"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 245160,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/3xvl7xQiICvrTJolyPKvMF"
+      "duration_ms": 210626,
+      "name": "Bidi Bidi Bom Bom - 1994 Version",
+      "url": "https://open.spotify.com/track/7bZtI85x9Vw2t6EkvILqkr"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "10 Grandes Exitos",
-        "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
-      },
-      "artists": [
-        {
-          "name": "Roberto Pulido",
-          "url": "https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC"
-        }
-      ],
-      "duration_ms": 169760,
-      "name": "La Ronera",
-      "url": "https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "ANTHOLOGY: BACK IN THE DAY",
         "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 205626,
       "name": "Poquito A Poco",
       "url": "https://open.spotify.com/track/27J7T92kctWB7YBi5SKTSo"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "10 Grandes Exitos",
+        "url": "https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww"
+      },
+      "artists": [
+        {
+          "name": "Roberto Pulido",
+          "url": "https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "La Ronera",
+      "url": "https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
+        "name": "ANTHOLOGY: BACK IN THE DAY",
+        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
+      },
+      "artists": [
+        {
+          "name": "Jay P\u00e9rez",
+          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
+        }
+      ],
+      "duration_ms": 167279,
+      "name": "Que Tristeza",
+      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
         "name": "Tejano Award Nominees",
         "url": "https://open.spotify.com/album/593414IuPj6r0WKUnqAdBy"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 194013,
       "name": "Al Partir",
       "url": "https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
-        "name": "ANTHOLOGY: BACK IN THE DAY",
-        "url": "https://open.spotify.com/album/23oqTk9aC9aeA1iKzPDBRE"
-      },
-      "artists": [
-        {
-          "name": "Jay P\u00e9rez",
-          "url": "https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC"
-        }
-      ],
-      "duration_ms": 167279,
-      "name": "Que Tristeza",
-      "url": "https://open.spotify.com/track/2oM0iRiHYqh7SDzjIKWRap"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Un Golpe De Suerte",
-      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "\u00cdconos 25 \u00c9xitos",
         "url": "https://open.spotify.com/album/3jh3J0EDLLDP5VfCLpW4Ve"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 195293,
       "name": "Soy Un Novato",
       "url": "https://open.spotify.com/track/5akdgRJMR9kwrrpOY2KUHg"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Un Golpe De Suerte",
+      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
     },
     {
       "added_at": "2023-03-10 18:44:18",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-03-10 18:44:18",
       "album": {
-        "name": "Lo Basico",
-        "url": "https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC"
-      },
-      "artists": [
-        {
-          "name": "Mazz",
-          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
-        }
-      ],
-      "duration_ms": 255013,
-      "name": "Vuelvo",
-      "url": "https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG"
-    },
-    {
-      "added_at": "2023-03-10 18:44:18",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 146720,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/5neqwbGxk0u6OgiTqXmd57"
+    },
+    {
+      "added_at": "2023-03-10 18:44:18",
+      "album": {
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/2hruqNk86ciCeHpUv0tggC"
+      },
+      "artists": [
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA"
+        }
+      ],
+      "duration_ms": 255013,
+      "name": "Vuelvo",
+      "url": "https://open.spotify.com/track/0oj2y6H2rneQ1QV4lLkTyG"
     }
   ],
   "unique_name": "Tejano Classics",

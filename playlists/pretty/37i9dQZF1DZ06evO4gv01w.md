@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,019 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,049 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 44 | [Take What You Want](https://open.spotify.com/track/5SIsbugJ2rnfrHQ0wU0o1Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:59 |
 | 45 | [Ramblin' Man](https://open.spotify.com/track/1wbeozaNyIwKOUwocSzdLE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:43 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAxYzdlZWYxOTBhNmVmOWRmZTg0ODQ3MjZlZDQ5MzI5Yw==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDA5YmEyMzE0OWQwMDQzOWY5MGY3NGY4N2RkOWRiODdkYQ==`

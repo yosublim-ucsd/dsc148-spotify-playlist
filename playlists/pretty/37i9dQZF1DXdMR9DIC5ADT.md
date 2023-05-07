@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 
 > フェス関係者の皆様、Let's book them! いま聴きたい、注目の洋楽アーティストを特集！ cover: Labrinth
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMR9DIC5ADT.md) - [plain]
 | 34 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 |
 | 35 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 |
 | 36 | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Lottery \(feat\. LU KALA\)](https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4) | 3:06 |
-| 37 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 |
+| 37 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
 | 38 | [Solo](https://open.spotify.com/track/6YYvWyhAqooh8RqNeGsOlq) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Solo](https://open.spotify.com/album/0a7Qd2a1DiTqRJIdJgtcSC) | 2:47 |
-| 39 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 |
+| 39 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
 | 40 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
-| 41 | [Not Strong Enough](https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:54 |
+| 41 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
 | 42 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 |
-| 43 | [WORTHLESS](https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [WORTHLESS](https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH) | 2:43 |
+| 43 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 |
 | 44 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
-| 45 | [Candy Necklace \(feat\. Jon Batiste\)](https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 5:14 |
+| 45 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 |
 | 46 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 |
-| 47 | [Over](https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 3:27 |
+| 47 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
 | 48 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 49 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 |
-| 50 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 |
+| 50 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 |
 
-Snapshot ID: `MCwxNjI1MzQ0NTZhN2EzODA2YTYzY2U3MTJiNjc5ZTUyNWVlNDFlNTc0`
+Snapshot ID: `MCxlOGY0ZDE1MDRkNzMxZjJjNDhlMjg0YTg2OGM1ZjVhMDkwZjYzYTdk`

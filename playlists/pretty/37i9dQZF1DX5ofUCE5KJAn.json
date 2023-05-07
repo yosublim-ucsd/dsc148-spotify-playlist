@@ -1,12 +1,12 @@
 {
   "description": "Un surtido rico de canciones con sabor a M\u00e9xico. ",
-  "num_followers": 160425,
+  "num_followers": 160510,
   "original_name": "La Pozoliza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2UwNDY0Nzc0NGZhODUxMmQ3ZmIxNzQ1MDc3MGI3YTg2ZDk5ODdk",
+  "snapshot_id": "MCxjODM1ZWJlNDg2Y2QyNTk5Nzc0NWU1NjA0MTQxZmEwMGFjY2Y4NmQy",
   "tracks": [
     {
       "added_at": "2023-04-21 19:05:42",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 202560,
       "name": "El Color de Tus Ojos",
       "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Partido En Dos",
-        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
       "artists": [
         {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 226003,
-      "name": "Partido En Dos",
-      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+      "duration_ms": 158440,
+      "name": "Ni Parientes Somos",
+      "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -783,34 +783,18 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+        "name": "Partido En Dos",
+        "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
         }
       ],
-      "duration_ms": 158440,
-      "name": "Ni Parientes Somos",
-      "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Si Una Vez",
-      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
+      "duration_ms": 226003,
+      "name": "Partido En Dos",
+      "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -827,6 +811,22 @@
       "duration_ms": 209506,
       "name": "M\u00e1s Que Tu Amigo",
       "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/3zLQtoEeXA6Lr1sNrbyYbs"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -899,22 +899,18 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 263100,
-      "name": "T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -955,18 +951,22 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Gu\u00e1rdame Esta Noche",
-        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+        "name": "T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 196099,
-      "name": "Palabra de Hombre",
-      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+      "duration_ms": 263100,
+      "name": "T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "No Me Queda M\u00e1s",
-      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
         "name": "FAVORITAS CON AMOR Vol. 2",
         "url": "https://open.spotify.com/album/0syW2iMTuETtexNib0YXiQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 228013,
       "name": "Mi Eterno Amor Secreto",
       "url": "https://open.spotify.com/track/5obxcZHZMJRx4ynD8SxEoz"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -1367,38 +1367,6 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
-        "name": "Por Siempre (Deluxe)",
-        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
-      },
-      "artists": [
-        {
-          "name": "Nico Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
-        }
-      ],
-      "duration_ms": 249375,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -1419,6 +1387,22 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
         "name": "Me Extra\u00f1o",
         "url": "https://open.spotify.com/album/0fuHe4cJQ677flvGr2QLN1"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 191880,
       "name": "Me Extra\u00f1o",
       "url": "https://open.spotify.com/track/49A0SKbXyTUyk5uw8fXzFi"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
+        "name": "Por Siempre (Deluxe)",
+        "url": "https://open.spotify.com/album/2lQvOIRLasJVmvlVtBG7dm"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/1mN5WYv2oJF0wHks5qx9aH"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Espejeando",
-      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
         "name": "PUNTO Y APARTE",
         "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 152823,
       "name": "Me Dej\u00e9 Ir Con Todo",
       "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Espejeando",
+      "url": "https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 174160,
+      "name": "El Tucanazo",
+      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
         "name": "Cuando Te Acuerdes De Mi (En Vivo)",
         "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 187250,
       "name": "Cuando Te Acuerdes De Mi (En Vivo)",
       "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 174160,
-      "name": "El Tucanazo",
-      "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
     },
     {
       "added_at": "2023-04-21 19:05:42",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-04-21 19:05:42",
       "album": {
-        "name": "Y Es el Contacto \u00a1Raza!",
-        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
-      },
-      "artists": [
-        {
-          "name": "Contacto Norte",
-          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
-        }
-      ],
-      "duration_ms": 168045,
-      "name": "El Agua Clara",
-      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
-    },
-    {
-      "added_at": "2023-04-21 19:05:42",
-      "album": {
         "name": "25 Bandazos de Peque\u00f1os Musical (Vol. 1) [USA]",
         "url": "https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 174106,
       "name": "La nena",
       "url": "https://open.spotify.com/track/5OwFcVt4icprLmc5bO9ruK"
+    },
+    {
+      "added_at": "2023-04-21 19:05:42",
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
     },
     {
       "added_at": "2023-04-21 19:05:42",

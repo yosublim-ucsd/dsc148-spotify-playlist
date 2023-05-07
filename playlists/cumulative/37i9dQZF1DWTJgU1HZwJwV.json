@@ -1227,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Danny Boy",
+        "url": "https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6"
+      },
+      "artists": [
+        {
+          "name": "Xuefei Yang",
+          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"
+    },
+    {
+      "album": {
         "name": "Dans l'air de la nuit",
         "url": "https://open.spotify.com/album/7pPRTqSuz5khh0yf9sYTWm"
       },
@@ -5666,24 +5684,6 @@
       "duration_ms": 113691,
       "name": "Tot Morgen",
       "url": "https://open.spotify.com/track/2W0sCLz5wGHBYLBKkN3kp2"
-    },
-    {
-      "album": {
-        "name": "Danny Boy",
-        "url": "https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6"
-      },
-      "artists": [
-        {
-          "name": "Xuefei Yang",
-          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
-        }
-      ],
-      "date_added": "2022-11-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212040,
-      "name": "Traditional: Danny Boy",
-      "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"
     },
     {
       "album": {

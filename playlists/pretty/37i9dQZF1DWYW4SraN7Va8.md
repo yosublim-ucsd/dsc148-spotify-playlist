@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,614 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,678 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 71 | [Here I Go Again \- Radio Mix](https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Whitesnake \(30th Anniversary Super Deluxe Edition\)](https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp) | 3:52 |
 | 72 | [Flight of Icarus \- 2015 Remaster](https://open.spotify.com/track/5orSFpEyBcj8ogpOqI4yOQ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 3:50 |
 | 73 | [Generator](https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:22 |
-| 74 | [Black Night](https://open.spotify.com/track/7yn7rpRvg6XCq10B94etIp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best of Deep Purple](https://open.spotify.com/album/0I84E9cRfRO8rrT1mTtufq) | 3:27 |
-| 75 | [You Drive Me Wild](https://open.spotify.com/track/4KsakXCO9XXOYKLn15rt7y) | [The Runaways](https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV) | [The Runaways](https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey) | 3:21 |
+| 74 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
+| 75 | [Black Night](https://open.spotify.com/track/7yn7rpRvg6XCq10B94etIp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Very Best of Deep Purple](https://open.spotify.com/album/0I84E9cRfRO8rrT1mTtufq) | 3:27 |
 
-Snapshot ID: `MCw5MGQ2OWE2OGFhZjY3NjljZTZlM2IyNjdjMWY2N2IwY2VlYjZlMmZj`
+Snapshot ID: `MCwyMmIzMDQ4MTU4ZjU0YWMwZjIzZjU4ZDM4ODIxZGUyZGJiYmNkYTVh`

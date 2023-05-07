@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-256 songs - 14 hr 18 min
+257 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Call Me](https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 2:51 | 2021-10-19 |  |
 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 | 2021-10-19 |  |
 | [Can You Get To That](https://open.spotify.com/track/3SWZ9fHtWMxwkFok5qhhpO) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/4P5bvMUWhoYILjMf2fhKxZ) | 2:51 | 2021-10-19 | 2022-04-20 |
-| [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2022-02-25 |  |
+| [Can't Hide It](https://open.spotify.com/track/6cJZx1AeXC7CIi6xZrJQq7) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:19 | 2022-02-25 | 2023-05-07 |
 | [Chain of Fools](https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:47 | 2021-10-19 |  |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2022-06-07 |
 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 | 2021-10-19 |  |
@@ -233,6 +233,7 @@
 | [The Oogum Boogum Song](https://open.spotify.com/track/7fp41IDi1dqARoX0Nuvz5O) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [The Very Best Of](https://open.spotify.com/album/5KUvaRNaKNDxprs1RsHq4O) | 2:33 | 2021-10-19 |  |
 | [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2023-03-28 |  |
 | [The World \(Is Going Up In Flames\)](https://open.spotify.com/track/4u2KDCwcj8WGcFXDhy1aKL) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb) | 3:22 | 2021-10-19 | 2022-04-20 |
+| [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:22 | 2021-10-19 |  |
 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 | 2021-10-19 | 2023-04-30 |
 | [Theme From Shaft \- Remastered](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2021-10-19 |  |
 | [Then He Kissed Me](https://open.spotify.com/track/5usNPz6U1acDrkUYekGYDY) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Wall of Sound: The Very Best of Phil Spector 1961\-1966](https://open.spotify.com/album/020ep2kmPRC8tgh95hMP2i) | 2:38 | 2021-10-19 |  |

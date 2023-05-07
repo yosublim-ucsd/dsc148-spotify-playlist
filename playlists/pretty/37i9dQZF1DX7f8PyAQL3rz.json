@@ -1,12 +1,12 @@
 {
   "description": "tu\u00ea se vingou",
-  "num_followers": 1125776,
+  "num_followers": 1126936,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OWZjMzA0ZWRmYzQ3ZDdmOWU5NzNiZGRlNTljNjJhZWE3YjNlNGNh",
+  "snapshot_id": "MCxiNDM3MmRhMDk5ZDNjZTRkZjYxYjdjZTFmMTlkNWRmNjM4YjdiZTIw",
   "tracks": [
     {
       "added_at": "2023-05-05 14:18:48",
@@ -547,6 +547,38 @@
     {
       "added_at": "2023-05-05 14:18:48",
       "album": {
+        "name": "Meca Cereja",
+        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Meca Cereja",
+      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
+    },
+    {
+      "added_at": "2023-05-05 14:18:48",
+      "album": {
         "name": "Sorrisin De Puto",
         "url": "https://open.spotify.com/album/2JCWmfqubxXm3zuH4BQQXM"
       },
@@ -599,38 +631,6 @@
     {
       "added_at": "2023-05-05 14:18:48",
       "album": {
-        "name": "Meca Cereja",
-        "url": "https://open.spotify.com/album/3gCKmwdF0znVzCsHgSFMmC"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Meca Cereja",
-      "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
-    },
-    {
-      "added_at": "2023-05-05 14:18:48",
-      "album": {
         "name": "Sereia",
         "url": "https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI"
       },
@@ -667,6 +667,30 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
+    },
+    {
+      "added_at": "2023-05-05 14:18:48",
+      "album": {
+        "name": "Vampiro",
+        "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
     },
     {
       "added_at": "2023-05-05 14:18:48",
@@ -723,30 +747,6 @@
       "duration_ms": 628124,
       "name": "Poesia Ac\u00fastica 13",
       "url": "https://open.spotify.com/track/7qoIhutxU269Zqo9PG5IOj"
-    },
-    {
-      "added_at": "2023-05-05 14:18:48",
-      "album": {
-        "name": "Vampiro",
-        "url": "https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Vampiro",
-      "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
     },
     {
       "added_at": "2023-05-05 14:18:48",
@@ -863,6 +863,34 @@
       "duration_ms": 209032,
       "name": "Hino dos Mlks",
       "url": "https://open.spotify.com/track/3gx9a8ea1nI0Wym9hJpdbJ"
+    },
+    {
+      "added_at": "2023-05-05 14:18:48",
+      "album": {
+        "name": "Clickbait",
+        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "duration_ms": 161344,
+      "name": "Clickbait",
+      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-05-05 14:18:48",
@@ -987,34 +1015,6 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": "2023-05-05 14:18:48",
-      "album": {
-        "name": "Clickbait",
-        "url": "https://open.spotify.com/album/4ICMUPXh8IwNeBvQoUpWSZ"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Clickbait",
-      "url": "https://open.spotify.com/track/5qOZbLAjBqInXwAECb9NRS"
     },
     {
       "added_at": "2023-05-05 14:18:48",

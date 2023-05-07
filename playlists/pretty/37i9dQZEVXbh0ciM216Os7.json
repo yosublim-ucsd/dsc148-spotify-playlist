@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTQzMjAsMDAwMDAwMDAwNDMwMGM2NjdlYzZlNWZkNjZhYTljMGM2ZTgzM2I2Mg==",
+  "snapshot_id": "MjgwNTQzMjAsMDAwMDAwMDBmNThlYmJiZWM3N2MwMzU3NzFjNzYxZWYzNDUxMjkyOA==",
   "tracks": [
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hustlin",
+        "url": "https://open.spotify.com/album/6sUNiupoZka7z35bw6WnyD"
+      },
+      "artists": [
+        {
+          "name": "FLVR",
+          "url": "https://open.spotify.com/artist/0leKSEjHxsp5fYvQB67kEH"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 111034,
+      "name": "Hustlin",
+      "url": "https://open.spotify.com/track/63Fd8XtzBEAJh2lr13FIHl"
+    },
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
@@ -55,22 +75,6 @@
       "duration_ms": 183360,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "I\u2019m The President",
-        "url": "https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L"
-      },
-      "artists": [
-        {
-          "name": "KNOWER",
-          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "I\u2019m The President",
-      "url": "https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -307,6 +311,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 322499,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Dethalbum (Expanded Edition)",
         "url": "https://open.spotify.com/album/0NADZfQoyOerevGXzMqWru"
       },
@@ -316,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
         }
       ],
-      "duration_ms": 74933,
-      "name": "Duncan Hills Coffee Jingle",
-      "url": "https://open.spotify.com/track/6LRllcXfyLUyVVXcxHzTZ0"
+      "duration_ms": 206853,
+      "name": "Dethklok Gets in Tune",
+      "url": "https://open.spotify.com/track/40eoYcHHDmREY3r7QRO0bm"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -587,58 +611,6 @@
       "duration_ms": 109241,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/0ctvAQSD8kcQP6VUYF5yLf"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Cult of Personality (Re-Recorded - Sped Up)",
-        "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
-      },
-      "artists": [
-        {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
-        }
-      ],
-      "duration_ms": 237912,
-      "name": "Cult of Personality - Re-Recorded - Sped Up",
-      "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/4JvUT0RuTH3rYTp26QB5o4"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Jeffrey James",
-          "url": "https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D"
-        }
-      ],
-      "duration_ms": 241532,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4vRlN2qaQbdtpL9caPqh5q"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lost Not Forgotten Archives: The Making of Falling Into Infinity (1997)",
-        "url": "https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 213316,
-      "name": "You Not Me (Strings, Piano, Vocals and Key Overdubs)",
-      "url": "https://open.spotify.com/track/6TIj3K9nu4HNrtogAfSJAH"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

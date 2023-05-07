@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Eladio Carrión & Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,286 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,571 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 87 | [Correteando Los Billetes](https://open.spotify.com/track/03k7Ho93Tcbkqfl9Yn3N9z) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Correteando Los Billetes](https://open.spotify.com/album/0P52nbVEjZAZ1W6gO9sTUg) | 3:27 |
 | 88 | [Es Mi Gusto](https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq) | 3:35 |
 | 89 | [Cero Punto Cero](https://open.spotify.com/track/7usXJeeHI1fa9oBoby8UpT) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Cero Punto Cero](https://open.spotify.com/album/0R0JEnEpyLdk7asKxuFeLg) | 3:02 |
-| 90 | [Te Invito a Mi Barrio](https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Te Invito a Mi Barrio](https://open.spotify.com/album/42zWIVSMYhtuKgx6de8aiE) | 3:58 |
+| 90 | [Querida](https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Querida](https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S) | 3:08 |
 | 91 | [Mi Última Venganza](https://open.spotify.com/track/0jteQrCsuLwAJAMEZdr8dU) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Mi Última Venganza](https://open.spotify.com/album/6wfOTvn87F3laVFBRJdLtm) | 3:33 |
 | 92 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 |
-| 93 | [Forjando Mi Historia](https://open.spotify.com/track/7ly3nWgGdDIoec14iLl1Jq) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Dani Ez](https://open.spotify.com/artist/4RPB5RKDzpLwmRNQQucGQy) | [Forjando Mi Historia](https://open.spotify.com/album/03TYLZbkF4IyK2y0YiJqZS) | 2:44 |
+| 93 | [Te Invito a Mi Barrio](https://open.spotify.com/track/64nRwgxwycVnTVnor7tgU6) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Te Invito a Mi Barrio](https://open.spotify.com/album/42zWIVSMYhtuKgx6de8aiE) | 3:58 |
 | 94 | [Lo Mío No Tiene Cura](https://open.spotify.com/track/18Q3lULIvXX0n0zOkeUv9X) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Lo Mío No Tiene Cura](https://open.spotify.com/album/143kPEitPDgMiNotLyLene) | 3:40 |
-| 95 | [Botellitas De Dobel \(REMIX\)](https://open.spotify.com/track/7F5bJ7FujYhlvEVC69xQmP) | [Legión 3](https://open.spotify.com/artist/0PBGE4R18dCG5oDpK7KNuo), [Mitch Caleboy](https://open.spotify.com/artist/7vzj9TlqiNn3Tfacpado2b) | [Botellitas De Dobel \(REMIX\)](https://open.spotify.com/album/1ZnTg0fF8lgSfPbp1qwpeX) | 2:57 |
+| 95 | [Forjando Mi Historia](https://open.spotify.com/track/7ly3nWgGdDIoec14iLl1Jq) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Dani Ez](https://open.spotify.com/artist/4RPB5RKDzpLwmRNQQucGQy) | [Forjando Mi Historia](https://open.spotify.com/album/03TYLZbkF4IyK2y0YiJqZS) | 2:44 |
 | 96 | [Chakalicious](https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Chakalicious](https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC) | 3:19 |
-| 97 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
-| 98 | [Querida](https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Querida](https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S) | 3:08 |
+| 97 | [Botellitas De Dobel \(REMIX\)](https://open.spotify.com/track/7F5bJ7FujYhlvEVC69xQmP) | [Legión 3](https://open.spotify.com/artist/0PBGE4R18dCG5oDpK7KNuo), [Mitch Caleboy](https://open.spotify.com/artist/7vzj9TlqiNn3Tfacpado2b) | [Botellitas De Dobel \(REMIX\)](https://open.spotify.com/album/1ZnTg0fF8lgSfPbp1qwpeX) | 2:57 |
+| 98 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
 | 99 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
 | 100 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
 
-Snapshot ID: `MCw2ZDNmYWM1N2I3MTg4NjRiNzcxMzRkMDk1Yzg1ZmVhZmVmMTc5ZTcz`
+Snapshot ID: `MCwyODVmOTVmMzc4Y2U2ZWVmYjc3MzczNTNiMmI5ZjY1YThkMDAwYTJk`

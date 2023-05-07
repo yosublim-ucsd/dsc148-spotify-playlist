@@ -748,7 +748,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 265000,
       "name": "ALBERTO NAVARRO (feat. Danny Yash)",
       "url": "https://open.spotify.com/track/0jDkzYfkYI5faOTftiqydF"
@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+    },
+    {
+      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -7504,7 +7522,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 159306,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
@@ -8554,6 +8572,32 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
     },
     {
       "album": {
@@ -15112,6 +15156,28 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/2yJfdgd8Y38uK5PgukSnpB"
+      },
+      "artists": [
+        {
+          "name": "Nerry Money",
+          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
+        },
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214961,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/0JJ074OaMdofBdF5DRqOVr"
     },
     {
       "album": {

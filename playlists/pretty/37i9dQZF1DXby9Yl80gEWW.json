@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 38169,
+  "num_followers": 38198,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDJmMDlmOWU2OTBhNTNkZjc0ODBkNTUzMWNjYzc0MmE5ZTMyMjBm",
+  "snapshot_id": "MCxmNWU2OTkxZWU3MzA0ZWEzNTRhZWU5ZjM1NmFjNWE3ZmY1MDIxMzA1",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -179,18 +179,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Songs of the Sunrise Fox",
-        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
+        "name": "Uncommon Ritual",
+        "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
       },
       "artists": [
         {
-          "name": "Andy Thorn",
-          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+          "name": "Mike Marshall",
+          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
+        },
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        },
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
         }
       ],
-      "duration_ms": 208280,
-      "name": "Aesop Mountain",
-      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
+      "duration_ms": 240440,
+      "name": "Big Country - Instrumental",
+      "url": "https://open.spotify.com/track/7N3SAicdAPqwRXu7luvNl2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -227,26 +235,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Uncommon Ritual",
-        "url": "https://open.spotify.com/album/1RbHExhYXBvSng2iSUTibx"
+        "name": "Songs of the Sunrise Fox",
+        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
       },
       "artists": [
         {
-          "name": "Mike Marshall",
-          "url": "https://open.spotify.com/artist/2WJmZq6fEmecdQVd3s38jE"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
         }
       ],
-      "duration_ms": 240440,
-      "name": "Big Country - Instrumental",
-      "url": "https://open.spotify.com/track/7N3SAicdAPqwRXu7luvNl2"
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Song of the Traveling Daughter (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
       },
       "artists": [
         {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Backstep Cindy / Purple Bamboo",
-      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
+      "duration_ms": 205293,
+      "name": "Choctaw Hayride - Live From The Louisville Palace, Kentucky / 2002",
+      "url": "https://open.spotify.com/track/4cBEspuS2ksy4Cgdb1GkpA"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO"
+        "name": "Song of the Traveling Daughter (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4EdanYXG2bE9jAIdF8ZuXL"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
         }
       ],
-      "duration_ms": 205293,
-      "name": "Choctaw Hayride - Live From The Louisville Palace, Kentucky / 2002",
-      "url": "https://open.spotify.com/track/4cBEspuS2ksy4Cgdb1GkpA"
+      "duration_ms": 181533,
+      "name": "Backstep Cindy / Purple Bamboo",
+      "url": "https://open.spotify.com/track/5NH9to3cBp0qdLihn3ro0i"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Church Street Blues",
         "url": "https://open.spotify.com/album/2ikwlUUIe2EiOO2gDZjOJb"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 207440,
       "name": "Jerusalem Ridge",
       "url": "https://open.spotify.com/track/2I38eMHKtOsIFUMWebyHj7"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "New Highway (Remastered)",
-        "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
-      },
-      "artists": [
-        {
-          "name": "Larry Sparks",
-          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Just a Closer Walk With Thee",
-      "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "How To Grow A Woman From The Ground",
         "url": "https://open.spotify.com/album/3UVP898xdmvyLVE1OLCLh4"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "New Highway (Remastered)",
+        "url": "https://open.spotify.com/album/7vL8jUadq4thgWJVnGzuZ0"
+      },
+      "artists": [
+        {
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Just a Closer Walk With Thee",
+      "url": "https://open.spotify.com/track/5a5FTyeln9QIRJdE8P8GzS"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Plays Bill Monroe",
-        "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
-      },
-      "artists": [
-        {
-          "name": "Kenny Baker",
-          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "Road To Columbus",
-      "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 246357,
       "name": "Waiting for Erin",
       "url": "https://open.spotify.com/track/0ISzfI7FecislLcHOZlOuh"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Plays Bill Monroe",
+        "url": "https://open.spotify.com/album/5Ccpn9YY8gJxInLMquM5yL"
+      },
+      "artists": [
+        {
+          "name": "Kenny Baker",
+          "url": "https://open.spotify.com/artist/2hdWa1ITLNBBtU5CM0m2Jg"
+        }
+      ],
+      "duration_ms": 159533,
+      "name": "Road To Columbus",
+      "url": "https://open.spotify.com/track/3mwenypVIMuSBJ1ta1u6cF"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
       },
       "artists": [
         {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 287533,
       "name": "Port Tobacco",
       "url": "https://open.spotify.com/track/0QhRl7KFHpODnyOJTcodtN"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "40 West",
-      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "30 Turkeys",
         "url": "https://open.spotify.com/album/5A3GlnJs11WNlVZKh3uY5a"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "40 West",
+      "url": "https://open.spotify.com/track/7eRqhurJzyKgPucmAFMTwB"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Into My Own",
         "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 306059,
       "name": "Overton Waltz",
       "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Cumberland Gap",
+        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "duration_ms": 68725,
+      "name": "Cumberland Gap",
+      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Cumberland Gap",
-        "url": "https://open.spotify.com/album/2kJ2mebmHglVZxIRfrOJGq"
-      },
-      "artists": [
-        {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
-        }
-      ],
-      "duration_ms": 68725,
-      "name": "Cumberland Gap",
-      "url": "https://open.spotify.com/track/6422IVV0bPOMsvTEIyW2cs"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Mashbluegrass D-28",
         "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Americana Master Series: Best Of The Sugar Hill Years",
-        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 325013,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
         "url": "https://open.spotify.com/album/5Ox4AXjm8naieQbNqyAW78"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Americana Master Series: Best Of The Sugar Hill Years",
+        "url": "https://open.spotify.com/album/4DCwmLDAejaXf9YmzOw0pS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Doc & Merle Watson's Guitar Album",
-        "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
-      },
-      "artists": [
-        {
-          "name": "Doc Watson",
-          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
-        },
-        {
-          "name": "Merle Watson",
-          "url": "https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Black Mountain Rag",
-      "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Short Trip Home",
         "url": "https://open.spotify.com/album/5qd2N0FM2Ld4RRG4OWtNRA"
       },
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Doc & Merle Watson's Guitar Album",
+        "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
+      },
+      "artists": [
+        {
+          "name": "Doc Watson",
+          "url": "https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ"
+        },
+        {
+          "name": "Merle Watson",
+          "url": "https://open.spotify.com/artist/6lynZefatZW6zvh500EIKN"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "Black Mountain Rag",
+      "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
       },
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
-      },
-      "artists": [
-        {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Cellopickin'",
         "url": "https://open.spotify.com/album/5GORB7gJRciuBSmr5zXLva"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     }
   ],
   "unique_name": "Instrumental Bluegrass",

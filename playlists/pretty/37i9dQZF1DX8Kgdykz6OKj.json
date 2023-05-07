@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1129891,
+  "num_followers": 1121520,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODYxYzJiZDZiY2M5NDRhMjg2YzhlN2I2YzUwZWM0MzU5NWI2NDNh",
+  "snapshot_id": "MCxmODQ1ZTM2NGVlYTZjZTdkZDI4Yjc2NDg3ZjUzNmJhZjlkYjJmNGQ4",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
         }
       ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -551,18 +547,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9"
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT"
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "POETRY JAM (feat. Foggieraw)",
-        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
-      },
-      "artists": [
-        {
-          "name": "Ciscero",
-          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
-        },
-        {
-          "name": "Foggieraw",
-          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
-        }
-      ],
-      "duration_ms": 198525,
-      "name": "POETRY JAM (feat. Foggieraw)",
-      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "The Return (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3qA0tPLgVE2F7GjnaqGLDP"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "POETRY JAM (feat. Foggieraw)",
+        "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
+      },
+      "artists": [
+        {
+          "name": "Ciscero",
+          "url": "https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL"
+        },
+        {
+          "name": "Foggieraw",
+          "url": "https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM"
+        }
+      ],
+      "duration_ms": 198525,
+      "name": "POETRY JAM (feat. Foggieraw)",
+      "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Stories From The Brass Section",
+        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly & Phoniks",
+          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
+        }
+      ],
+      "duration_ms": 200829,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Stories From The Brass Section",
-        "url": "https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly & Phoniks",
-          "url": "https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe"
-        }
-      ],
-      "duration_ms": 200829,
-      "name": "Blue In Green",
-      "url": "https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 121974,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Chino",
         "url": "https://open.spotify.com/album/35qNi6pahzBPwAQGeSDQv6"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/5eAklfAJQPJjX6QLK98Mmq"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 121974,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
+      },
+      "artists": [
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Back At The House",
         "url": "https://open.spotify.com/album/2T7xEVNUgsoZ1pDlseBpg2"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 258461,
       "name": "Down",
       "url": "https://open.spotify.com/track/1g5Cpz0Gs4mKkmLa7sUgpj"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1963,26 +1963,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Eterea - EP",
-        "url": "https://open.spotify.com/album/5I9EioV66WFu1wZcW00zan"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
       "artists": [
         {
-          "name": "LESKY",
-          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
-        },
-        {
-          "name": "M e a d o w",
-          "url": "https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Same Old Me",
-      "url": "https://open.spotify.com/track/3kN5KzZ0Zreg9TkTw4qzjn"
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -2007,18 +1999,26 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+        "name": "Eterea - EP",
+        "url": "https://open.spotify.com/album/5I9EioV66WFu1wZcW00zan"
       },
       "artists": [
         {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "M e a d o w",
+          "url": "https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
         }
       ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
+      "duration_ms": 141000,
+      "name": "Same Old Me",
+      "url": "https://open.spotify.com/track/3kN5KzZ0Zreg9TkTw4qzjn"
     }
   ],
   "unique_name": "Jazz Rap",

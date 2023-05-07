@@ -1,12 +1,12 @@
 {
   "description": "A compilation of the all-time biggest hits in Country Music. Cover: Dolly Parton",
-  "num_followers": 495445,
+  "num_followers": 495863,
   "original_name": "Country's Greatest Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjcyNGRhYWU0MzUzYjY1NzQ1YmMwNWZkNTI2MTYxMDNlMjg4M2Y2",
+  "snapshot_id": "MCw5YmI5MmZmMTM0ODMwNDE1MTNkOWQ1ZTQ4Mjg0OWQ4YzE0NDFlYjU2",
   "tracks": [
     {
       "added_at": "2023-01-10 01:36:03",
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6iy4PoAuZBMvtrlDX4VxC7"
     },
     {
-      "added_at": "2023-05-06 00:13:00",
+      "added_at": "2023-05-07 00:22:51",
       "album": {
         "name": "9 To 5 And Odd Jobs",
         "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+        "name": "Dan + Shay",
+        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
+      "duration_ms": 196746,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Dan + Shay",
-        "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2023-01-10 01:36:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-10 01:36:03",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 247826,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
-    },
-    {
-      "added_at": "2023-01-10 01:36:03",
-      "album": {
         "name": "Don`t Rock The Jukebox",
         "url": "https://open.spotify.com/album/6767Q48U82ay3Vbr27YNbA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 171066,
       "name": "Don't Rock the Jukebox",
       "url": "https://open.spotify.com/track/3oyByfBYegVEDwYyqx9pRd"
+    },
+    {
+      "added_at": "2023-01-10 01:36:03",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 247826,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
     },
     {
       "added_at": "2023-01-10 01:36:03",

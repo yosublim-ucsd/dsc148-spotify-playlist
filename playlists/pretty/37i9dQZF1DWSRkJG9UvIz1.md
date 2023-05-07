@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,281 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,330 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
 | 60 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
 
-Snapshot ID: `MCxiODRhOTA5NDk1NWJlY2FmMmU3MmI5ZDA2OWM1NjY1ZGJkMjNmNGQ2`
+Snapshot ID: `MCxkY2M4MjA5OWRkNGFhNDFhZTAwYTM5YTcwNjA0NTY5M2ZkNDc4MDIz`

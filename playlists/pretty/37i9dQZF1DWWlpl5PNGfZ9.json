@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90.",
-  "num_followers": 142050,
+  "num_followers": 142275,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjU4MzZlMjM2ZjIyNGMyMjhjMzEyN2NmNWVjZjAzNjZkMTY0NDM3",
+  "snapshot_id": "MCwyMGE3ZjdhNjVjOWRjN2I3YWE5NjViNWI4MjFlZjA5MGNmODFkYjUz",
   "tracks": [
     {
       "added_at": "2022-03-29 19:23:51",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Clasicos de la Provincia",
-        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 215493,
-      "name": "La Gota Fria",
-      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "La Gota Fria",
+      "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
         "name": "Qui\u00e9n Dijo Ayer",
         "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 207013,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 405120,
+      "name": "Historia de Taxi",
+      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
         "name": "Tierna La Noche",
         "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 288986,
       "name": "Cosas De La Vida",
       "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
-        }
-      ],
-      "duration_ms": 405120,
-      "name": "Historia de Taxi",
-      "url": "https://open.spotify.com/track/005Dlt8Xaz3DkaXiRJgdiS"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI"
+        "name": "Qui\u00e9n Dijo Ayer",
+        "url": "https://open.spotify.com/album/1icNy43dW75nSFOkucRFJZ"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
         }
       ],
-      "duration_ms": 281173,
-      "name": "Bella Se\u00f1ora",
-      "url": "https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ"
+      "duration_ms": 264786,
+      "name": "Dime Que No",
+      "url": "https://open.spotify.com/track/3uEJFR0oQeBaNMEXs4bTSq"
     }
   ],
   "unique_name": "Pop Latino: Los 90",

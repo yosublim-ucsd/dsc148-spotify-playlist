@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 44 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152 likes - 44 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 43 | [Déjame Amarte Otra Vez](https://open.spotify.com/track/1tviCqQuqbC7AOb0yRb9Eg) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Puras de Lazo y Reata](https://open.spotify.com/album/6U69aIpRrAyu0XiRX6eBr0) | 3:13 |
 | 44 | [Mambo Loco](https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 3:33 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAwMDhmYWE3NjA5MjE5YTU4MWJjYjBmMDY2ZjQwNmFkNQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA3NzFlOTJjZTQ3NDk5YjU5MjlmMjUzZmE3YjJlYTk3Nw==`

@@ -4,7 +4,7 @@
 
 > Up tempo jazz classics.
 
-101 songs - 11 hr 11 min
+102 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Bloomdido \- Master Take](https://open.spotify.com/track/2qkDwUvGAQcxqHWsguEbXV) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Bird And Diz: The Genius Of Charlie Parker \#4](https://open.spotify.com/album/7LVNnSl6UhjkLepWoPLqg1) | 3:25 | 2023-03-24 |  |
 | [Blues And The Abstract Truth](https://open.spotify.com/track/0Nlj7A0uSf1uytsTIsEZJO) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN), [Daniel Moore](https://open.spotify.com/artist/7ePbCvgnCDpz0SfaQHV8Bq) | [More Blues And The Abstract Truth](https://open.spotify.com/album/1seITlhNRDbQbTEEDzdbie) | 5:12 | 2023-03-24 |  |
 | [Boogie Stop Shuffle](https://open.spotify.com/track/11cHTwgw5L3qrNcv5Ugv0O) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 4:58 | 2023-03-24 |  |
-| [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 | 2023-03-24 |  |
+| [Bu's Delight \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/1HGT8LppbMIui1FtlcOMic) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Buhaina's Delight \(Rudy Van Gelder Edition / Remastered\)](https://open.spotify.com/album/1gGO3aUcdvI1dcANVs2qQ9) | 9:21 | 2023-03-24 | 2023-05-07 |
 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 | 2023-03-24 |  |
 | [Cookin' At The Continental \- Rudy Van Gelder Edition / Remastered](https://open.spotify.com/track/1DU2qdtCoFsonRs7UjHnWq) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Finger Poppin' \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on) | 4:54 | 2023-03-24 |  |
 | [Cranky Spanky](https://open.spotify.com/track/0YpDyg89lkfI1rY0klMdtf) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Hard Bop \(Expanded Edition\)](https://open.spotify.com/album/4GQHWCO7xTs34YECtSCfAL) | 4:48 | 2023-03-24 |  |
@@ -46,6 +46,7 @@
 | [Hub\-Tones \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Hub\-Tones](https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5) | 8:24 | 2023-03-24 | 2023-04-06 |
 | [Humph \- Rudy Van Gelder 24\-Bit Mastering / 1998 Digital Remaster](https://open.spotify.com/track/4oGruUJSJ1r10pOxGNlGd5) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Genius Of Modern Music \(Vol.1, Expanded Edition\)](https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL) | 2:55 | 2023-03-24 |  |
 | [I Could Write A Book](https://open.spotify.com/track/4fTV2tXbeAeTaIfFIDoF4H) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Relaxin' With The Miles Davis Quintet](https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt) | 5:08 | 2023-03-24 |  |
+| [I Know That You Know](https://open.spotify.com/track/4HjJh260ibYagtkgQIhxNR) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Dizzy 100](https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn) | 5:30 | 2023-05-04 |  |
 | [I'll Remember April](https://open.spotify.com/track/6yRPErtmW2FuTeQ1cvDsrr) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Clifford Brown And Max Roach At Basin Street](https://open.spotify.com/album/3uPU83MTXiLpmpoAMViCBc) | 9:13 | 2023-03-24 |  |
 | [Impressions \- Live At The Half Note /1965](https://open.spotify.com/track/6UkSSoeVvxyUFBzDVtLiTe) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Smokin' At The Half Note \(Expanded Edition\)](https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy) | 5:03 | 2023-03-24 |  |
 | [Inception](https://open.spotify.com/track/1Dy1zTcsjdsd6JUVNBLC3R) | [McCoy Tyner Trio](https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p) | [Inception](https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK) | 4:28 | 2023-03-24 |  |

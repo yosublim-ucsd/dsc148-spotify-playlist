@@ -4,12 +4,13 @@
 
 > This is Jhené Aiko\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 10 min
+51 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3:16AM](https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 3:20 | 2023-05-02 |  |
 | [Above And Beyond](https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:26 | 2023-05-02 |  |
+| [alive & well \(gratitude mantra\)](https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [alive & well \(gratitude mantra\)](https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI) | 10:34 | 2023-05-06 |  |
 | [B.S\. \(feat\. H.E.R.\)](https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Chilombo](https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920) | 3:32 | 2023-05-02 |  |
 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 | 2023-05-02 |  |
 | [Bed Peace](https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:16 | 2023-05-02 |  |

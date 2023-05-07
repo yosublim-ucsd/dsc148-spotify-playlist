@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
-  "num_followers": 989087,
+  "num_followers": 989235,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjA4NWExYzdmOGVlY2QwZjcxN2I1MmNkYWQxNzQyMGVhNGRmNTJh",
+  "snapshot_id": "MCxlNzA4MzIxMWE5YjU2NWNmY2MzYTE1MjQyMGM1OGIyMjgyODRjOWEx",
   "tracks": [
     {
       "added_at": "2023-04-28 06:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Siento Que...",
-      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 232253,
       "name": "Sin Rencor",
       "url": "https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Siento Que...",
+      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
     },
     {
       "added_at": "2023-04-28 06:00:00",

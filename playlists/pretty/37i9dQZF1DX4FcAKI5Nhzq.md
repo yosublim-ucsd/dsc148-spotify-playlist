@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: ATEEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,821 likes - 52 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,124 likes - 52 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 51 | [Love or Die](https://open.spotify.com/track/5JDfcFU6lCYU7jQJ8dDo8v) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:05 |
 | 52 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 |
 
-Snapshot ID: `MCxjNmEzZjdkNzQwMjExMGQ0YWU3MGNkNGZmNWQ3YTAzNzdjYjkzNTI1`
+Snapshot ID: `MCxkZjJjNGU5ODBkOTU3ZWFjY2M2OGExNTMxYTk4MjZiNmMzNjAyMjNl`

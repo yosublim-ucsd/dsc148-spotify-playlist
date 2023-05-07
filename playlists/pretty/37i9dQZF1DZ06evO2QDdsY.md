@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,792 likes - 43 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,795 likes - 43 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 42 | [Twas Twined & Twisted](https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 3:07 |
 | 43 | [Imagine](https://open.spotify.com/track/4xUsxA83y9Ea5qC6v8m6VG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:07 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlYTdlYTQxZDA5YTg4MzMzODdiYTdjNDA0MjRlODg5Yg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAyYTFiNjBjYTgxOWM2MjdmNmIzOTgxZjVkNjExY2IyZA==`

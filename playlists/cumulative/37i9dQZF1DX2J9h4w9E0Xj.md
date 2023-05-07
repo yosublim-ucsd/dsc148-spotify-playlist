@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [.intoodeep.](https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | ['\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:39 | 2022-03-24 |  |
+| [.intoodeep.](https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:39 | 2022-03-24 |  |
 | [.intoodeep.](https://open.spotify.com/track/5QhNhUBkNtz9f6NQLrv5A8) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\-](https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl) | 3:39 | 2022-03-24 | 2023-05-04 |
 | [abcdefu \(angrier\)](https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(angrier\)](https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ) | 2:39 | 2022-03-24 |  |
 | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/track/5xLv5i7u2e4uT3Ewgvkr8Z) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe) | [AFTER THERAPY \(feat\. Hot Mulligan\)](https://open.spotify.com/album/69miU2ZUNDbOpyqUziOHFS) | 2:21 | 2022-03-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 130327,
+  "num_followers": 130391,
   "original_name": "Summer Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDAzNTJkNDBiNTU1OWFhYWUxYzE5NjNhYmRmMjBmOTY4NmRhMDVm",
+  "snapshot_id": "MCxjNWExMmUwOWMyN2MxN2YwNTAyOGYyMzk0Yzk1ZDkzNWRkNjlkYzk5",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "My Heart Goes (La Di Da) (feat. Topic)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da) (feat. Topic)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "My Heart Goes (La Di Da) (feat. Topic)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da) (feat. Topic)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 193018,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Hurricane (feat. SHIBUI)",
         "url": "https://open.spotify.com/album/5QGih7kgYuAfmYJROylEX3"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 153222,
       "name": "Hurricane (feat. SHIBUI)",
       "url": "https://open.spotify.com/track/1SlLP2AI4L2oh3VRJfHBpf"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
-        "url": "https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 217673,
-      "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
-      "url": "https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
+        "url": "https://open.spotify.com/album/3EG2GluQhbHDQ3lZl30r2o"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 217673,
+      "name": "D\u00e9senchant\u00e9e (Oli\u2019s EuroRave Mix)",
+      "url": "https://open.spotify.com/track/0QpAKilUehAlHpHzE9bWms"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Good Feeling",
-        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
-      },
-      "artists": [
-        {
-          "name": "Duvall",
-          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 169440,
-      "name": "Good Feeling",
-      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Ritmo (HUGEL Edit)",
         "url": "https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 165483,
       "name": "Ritmo - HUGEL Edit",
       "url": "https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Good Feeling",
+        "url": "https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE"
+      },
+      "artists": [
+        {
+          "name": "Duvall",
+          "url": "https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 169440,
+      "name": "Good Feeling",
+      "url": "https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "2 Hearts (feat. Gia Koka)",
         "url": "https://open.spotify.com/album/798RdmwmE3IZcZnW0jT7kc"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 186750,
       "name": "2 Hearts (feat. Gia Koka)",
       "url": "https://open.spotify.com/track/0EdgK7ASb4kfRkW8pVMN02"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
     },
     {
       "added_at": "2023-04-27 22:01:00",

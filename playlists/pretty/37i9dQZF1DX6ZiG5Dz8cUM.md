@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 
 > Set the mood for your romantic date night with some soft and cozy Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,510 likes - 166 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,627 likes - 166 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ZiG5Dz8cUM.md) - [plain]
 | 165 | [A Certain Sadness](https://open.spotify.com/track/7ghC8JSmKgrUzjTcceZ5fN) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [The Getaway](https://open.spotify.com/album/140DzepgudObqMe1uv4W1f) | 5:15 |
 | 166 | [Confidant](https://open.spotify.com/track/2uW43oEqS8nCOcMP7nwNLE) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Confidant](https://open.spotify.com/album/4SBCeZYO6ldszj9bzQHfPl) | 4:04 |
 
-Snapshot ID: `MCxlYmJmZTMxYmVhODVmYzNhNzk5NGUwYTAyMzc0MmNlNzkzNDc4MzIx`
+Snapshot ID: `MCxkY2E0NDE2NzJhOGMwM2M3ZjY2ZjEwNWFiYWE2ZWJmZTY0OTk0NWFi`

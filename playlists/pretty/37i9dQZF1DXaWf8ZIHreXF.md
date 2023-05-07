@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 
 > The biggest dance floor bangers of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,658 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,815 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 80 | [You & Me \- Flume Remix](https://open.spotify.com/track/1snNAXmmPXCn0dkF9DaPWw) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Settle \(The Remixes\)](https://open.spotify.com/album/0QFMqnSP2kBMTrbfNkj3SB) | 4:42 |
 | 81 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 |
 | 82 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
-| 83 | [Say Something \- Zac Samuel Remix](https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Say Something](https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH) | 3:33 |
-| 84 | [I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:00 |
+| 83 | [I Want You To Know](https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [True Colors](https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT) | 4:00 |
+| 84 | [Say Something \- Zac Samuel Remix](https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Say Something](https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH) | 3:33 |
 | 85 | [Reload \- Radio Edit](https://open.spotify.com/track/5jyUBKpmaH670zrXrE0wmO) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Tommy Trash](https://open.spotify.com/artist/1tBU8jUEdVR3mqSsAqEGfD), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Reload \(Vocal Version / Radio Edit\)](https://open.spotify.com/album/2UgmfoJF7x7cQmWADnoQdG) | 3:41 |
 | 86 | [Easy Love](https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:49 |
 | 87 | [Where Them Girls At \(feat\. Nicki Minaj & Flo Rida\)](https://open.spotify.com/track/63rbP24OzfaQCJjsHWZXnY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWf8ZIHreXF.md) - [plain]
 | 99 | [On & On](https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [On & On](https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn) | 2:27 |
 | 100 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 |
 
-Snapshot ID: `MCwwZDZjMDJlMTRhNzQ5OTAzMzliMzQ4NmIwNTM4MTQxY2M3MzE2N2Uz`
+Snapshot ID: `MCxmYzcxNWI4NmEzNzE4YzgzOWM5NDYzOWM4OWU5NTQzMWNiMTVlNzZi`

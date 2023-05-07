@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-546 songs - 1 day 5 hr 49 min
+547 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Dejame Tranki](https://open.spotify.com/track/3STO1ZJi4EBbYCWY6qC8rv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:42 | 2021-08-22 | 2021-10-17 |
 | [DELITO](https://open.spotify.com/track/0K3dGPXHVALEqW8EEQGc3T) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Calambre](https://open.spotify.com/album/0HvKhpJzjmC5wloza8MjXF) | 3:23 | 2021-03-27\* | 2021-04-04 |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-03-20 | 2022-05-22 |
+| [DESCARTABLE](https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY) | 3:01 | 2023-05-06 |  |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2022-01-08 | 2022-12-11 |
 | [DESPECHÁ](https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:36 | 2022-09-10 | 2023-03-22 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-29 | 2022-09-11 |
@@ -310,7 +311,7 @@
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-21 | 2023-02-21 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2021-04-07 | 2021-04-14 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2021-04-14 | 2021-08-03 |
-| [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-17 |  |
+| [MORNING](https://open.spotify.com/track/1dJhW3HRdLnySFEUhf6VRh) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [MORNING](https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q) | 2:03 | 2023-03-17 | 2023-05-07 |
 | [Morocha](https://open.spotify.com/track/5nv4ffgl1eVW7MvnEuEf31) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Morocha](https://open.spotify.com/album/32iPicZA3H69P7btglWyKh) | 2:10 | 2023-05-03 | 2023-05-06 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-07 | 2022-12-11 |
 | [Muchachos, Ahora Nos Volvimos a Ilusionar](https://open.spotify.com/track/79d6fVzRM6DRYxR302AJFY) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [Muchachos, Ahora Nos Volvimos a Ilusionar](https://open.spotify.com/album/0WRR7nTtUtQXKe8kpQHGvn) | 2:21 | 2022-12-04 | 2023-01-19 |

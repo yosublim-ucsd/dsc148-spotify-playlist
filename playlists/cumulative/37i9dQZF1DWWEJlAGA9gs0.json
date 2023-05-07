@@ -541,36 +541,6 @@
     },
     {
       "album": {
-        "name": "Bruch: Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
-        "url": "https://open.spotify.com/album/3jKsaoFTxljjiz6Rf10Gp2"
-      },
-      "artists": [
-        {
-          "name": "Max Bruch",
-          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
-        },
-        {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
-        },
-        {
-          "name": "Philadelphia Orchestra",
-          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
-        },
-        {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        }
-      ],
-      "date_added": "2023-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 463000,
-      "name": "Bruch: Violin Concerto No. 1 in G Minor, Op. 26 - III. Finale. Allegro energico",
-      "url": "https://open.spotify.com/track/3bDA5rMBde88xVYgm1oIUw"
-    },
-    {
-      "album": {
         "name": "Bizet : Carmen",
         "url": "https://open.spotify.com/album/249X9ZjhWATM2KlkcCh9pt"
       },
@@ -3033,6 +3003,36 @@
     },
     {
       "album": {
+        "name": "Price: Piano Concerto in One Movement: Adagio cantabile",
+        "url": "https://open.spotify.com/album/7ICuukmLLzvOAgrHzvHGOh"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        },
+        {
+          "name": "Leslie Suganandarajah",
+          "url": "https://open.spotify.com/artist/50EdNZeCjqzjCfkh3oMea1"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371666,
+      "name": "Piano Concerto in One Movement: Adagio cantabile",
+      "url": "https://open.spotify.com/track/3Yf8ais15iSDj9i0at2fOC"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: Piano Concerto No. 1",
         "url": "https://open.spotify.com/album/6CGw0GbQ3PyJhXxHlBVjSk"
       },
@@ -3324,36 +3324,6 @@
       "duration_ms": 206426,
       "name": "Prelude & Fughetta in G Major, BWV 902: I. Prelude",
       "url": "https://open.spotify.com/track/0nrCOJpS3gpwLvoANVZEeJ"
-    },
-    {
-      "album": {
-        "name": "Price: Piano Concerto in One Movement: Adagio cantabile",
-        "url": "https://open.spotify.com/album/7ICuukmLLzvOAgrHzvHGOh"
-      },
-      "artists": [
-        {
-          "name": "Florence Beatrice Price",
-          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
-        },
-        {
-          "name": "Jeneba Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
-        },
-        {
-          "name": "Chineke! Orchestra",
-          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
-        },
-        {
-          "name": "Leslie Suganandarajah",
-          "url": "https://open.spotify.com/artist/50EdNZeCjqzjCfkh3oMea1"
-        }
-      ],
-      "date_added": "2023-05-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 371666,
-      "name": "Price: Piano Concerto in One Movement - Adagio cantabile",
-      "url": "https://open.spotify.com/track/3Yf8ais15iSDj9i0at2fOC"
     },
     {
       "album": {
@@ -6500,6 +6470,36 @@
       "duration_ms": 473893,
       "name": "Violin Concerto No. 1 in G minor, Op. 26: 1. Vorspiel (Allegro moderato)",
       "url": "https://open.spotify.com/track/2kWBaubfvDNKmrHjWMhllH"
+    },
+    {
+      "album": {
+        "name": "Bruch: Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+        "url": "https://open.spotify.com/album/3jKsaoFTxljjiz6Rf10Gp2"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        },
+        {
+          "name": "Philadelphia Orchestra",
+          "url": "https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463000,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/3bDA5rMBde88xVYgm1oIUw"
     },
     {
       "album": {

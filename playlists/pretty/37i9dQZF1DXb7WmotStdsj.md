@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,661 likes - 60 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,830 likes - 60 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 |
-| 2 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
-| 3 | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Abderrahmane Piti](https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY) | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz) | 4:35 |
+| 2 | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/track/0ASqhlxw7xAYrYu5XPNuQ4) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Abderrahmane Piti](https://open.spotify.com/artist/0hcxeVxZkWcHMlt0oJw9qY) | [Fal Moujtama3 Ghir Dahiya](https://open.spotify.com/album/6GSFQJUp2IvC2z2aMQoDlz) | 4:35 |
+| 3 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 |
 | 4 | [Zadma w Sayi](https://open.spotify.com/track/2H1voC89zdPWZsFw3slhXX) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl), [Cheb Mirou](https://open.spotify.com/artist/39O6tDnyxN5GNWhjHRkjNa) | [Zadma w Sayi](https://open.spotify.com/album/5f73BUqCz6mZ1mysN4gSFo) | 6:35 |
 | 5 | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 |
 | 6 | [Galbi Datah](https://open.spotify.com/track/5JsvWH6RGUJB6534yHu6h1) | [Cheb Reda](https://open.spotify.com/artist/4Dv4xd6O64eglhzxOCQDcb), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Galbi Datah](https://open.spotify.com/album/6u1mr4vKlPuFnAzUnWpUR8) | 4:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [راني عليكم نمعني](https://open.spotify.com/track/7tfDyZ9ko2WpGJYW0DL8Qr) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [راني عليكم نمعني](https://open.spotify.com/album/4XjMsZ30WhHiUOwALl6dkQ) | 11:54 |
 | 60 | [Mimti Khali Bab Mahloul](https://open.spotify.com/track/6vzwnkS56YV0JbqQuZFnXj) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Mimti Khali Bab Mahloul](https://open.spotify.com/album/7BMI1KVKuODfFt4wnNhuuD) | 4:32 |
 
-Snapshot ID: `MCxiYjk4YzFjYmIwNzRiNGIzMjI4MWNhNTVkMGMwZDE2Yzk5YzM0ODkw`
+Snapshot ID: `MCwzNzIxZjY5MDczZTUxZmYwNGM5ZDVkNDdmYWQyNjViMjM4NWVkODg2`

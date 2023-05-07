@@ -4,11 +4,12 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-145 songs - 6 hr 18 min
+146 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All I Need Is Your Smile](https://open.spotify.com/track/7jax7ShpqTK4khC0Ixzeyk) | [Sonia De Los Santos](https://open.spotify.com/artist/4aNmQzHcg0vTqPSauw4CKr) | [All I Need Is Your Smile](https://open.spotify.com/album/0fNZ0lr45AD8IZJBdnxSTF) | 2:23 | 2022-02-10 | 2022-07-25 |
+| [All the Pretty Little Horses](https://open.spotify.com/track/55h7xXk2Y4yT5SnDZo5jnK) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/1fadoiabDmHdq0A2RIL7oT) | 2:16 | 2023-01-31 |  |
 | [All the Pretty Little Horses](https://open.spotify.com/track/5HXDMlAhQDa991t1CSfcdO) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/3VgWRCn0IIHO9h3CADQw1W) | 2:16 | 2022-04-15 | 2023-04-29 |
 | [All The Pretty Little Horses](https://open.spotify.com/track/6UCLWz7yZsDW5g4G6TbATn) | [Laura Veirs](https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00) | [Tumble Bee](https://open.spotify.com/album/41bFok4mb7CrZlC8NioTGe) | 2:16 | 2021-12-16 | 2022-07-29 |
 | [Awesome Blossom](https://open.spotify.com/track/73LhvPZug2UePzRWjXriCV) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [Easy Breezy!](https://open.spotify.com/album/6eresS8fJq05Eg8bpztUv2) | 2:39 | 2021-12-31 |  |
@@ -51,7 +52,7 @@
 | [Goodnight Little Arlo \(Goodnight Little Darlin'\)](https://open.spotify.com/track/2BxQTBn9PvfdnMJ1frMHA5) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [Songs to Grow on for Mother and Child](https://open.spotify.com/album/6zjiagirCtoXcEvQxjUoCo) | 3:16 | 2021-12-16 |  |
 | [Hambone](https://open.spotify.com/track/0wFFx8vFTw1tPHMnAjCnxe) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Uncle Devin](https://open.spotify.com/artist/1oIvJJNT73bpBMML4d6S16), [Cathy Fink](https://open.spotify.com/artist/62OaIdI5m5BTdW5VrkTjPq), [Lolita Walker](https://open.spotify.com/artist/2LYigWE2M2TRtOHtZ4ZRFv) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 2:35 | 2021-12-16 | 2022-07-28 |
 | [Happy Trails](https://open.spotify.com/track/43fPABag9neCVtugDO9acg) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM), [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Frogs And Birds](https://open.spotify.com/album/29XcuEEpUkyv5fc6Z26fP9) | 2:37 | 2021-12-16 | 2022-07-29 |
-| [He's Got the Whole World in His Hands](https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:54 | 2022-04-15 |  |
+| [He's Got the Whole World in His Hands](https://open.spotify.com/track/30DiNVMuWhBwU24K16dk39) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 1:54 | 2022-04-15 | 2023-05-07 |
 | [Hello](https://open.spotify.com/track/0wc2Tvr3N1y1n8ovv21XWy) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/6JgT1z71Q2vCyYS5486C3N) | 2:37 | 2021-12-16 | 2022-07-29 |
 | [Hello](https://open.spotify.com/track/4J3YXDyesmkN4q6Diy9qDV) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/2kaRIwMtwtGJOvoOLPCrDo) | 2:37 | 2023-01-31 |  |
 | [Hello](https://open.spotify.com/track/6rkleD9KWx0iz0RTQYCfY7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [My Tiny Twilight](https://open.spotify.com/album/38MybNdH299tXHS9uLJ2hq) | 2:37 | 2022-04-15 | 2023-04-29 |

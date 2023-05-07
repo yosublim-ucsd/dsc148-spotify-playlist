@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 986424,
+  "num_followers": 986625,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjRiMjFlZjI0YTQzNTc0MzI0OGEwYjcwNTc2ZDA1ZDM0ZWY3MDFm",
+  "snapshot_id": "MCwwZjY0ZDkxM2ZmNDM5MTRiYzQ3ZWY2YzA0YWU0MTI5ZmUwNjYzNTE1",
   "tracks": [
     {
       "added_at": "2023-02-07 00:10:22",
@@ -79,6 +79,22 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
         "name": "D\u00c1KITI",
         "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 205090,
       "name": "D\u00c1KITI",
       "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -203,6 +203,26 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
         "name": "PAPI JUANCHO",
         "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 263306,
       "name": "Oye Mi Amor",
       "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
-        "name": "X 100PRE",
-        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 210367,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
         "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 207466,
       "name": "Lambada - Original Version 1989",
       "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "Re",
         "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 212000,
       "name": "La ingrata",
       "url": "https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "El Sapo",
         "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 123960,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 320253,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
         "name": "Entren Los Que Quieran",
         "url": "https://open.spotify.com/album/3yqcj5G3zkeXuWIx6cjQgx"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 338253,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/5nvS1vouQkX0HxOohfqCoS"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
-        "name": "Getz/Gilberto (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 320253,
-      "name": "The Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "Inolvidables",
         "url": "https://open.spotify.com/album/7D79IE8KdqXLvfyxi4IKIl"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 208866,
       "name": "Amigo",
       "url": "https://open.spotify.com/track/4CKIoO64EM5M37TkshbaQE"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
     },
     {
       "added_at": "2023-02-07 00:10:22",

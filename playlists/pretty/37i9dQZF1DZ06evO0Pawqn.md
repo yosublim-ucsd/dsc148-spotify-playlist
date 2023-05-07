@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,145 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,149 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 49 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 |
 | 50 | [Quiero Que Me Digas Cuando](https://open.spotify.com/track/0QxUOvVy6FqHdJhcW644P6) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [El Hijo Desobediente](https://open.spotify.com/album/6M6B0WN3QftAZaxySwK1YC) | 2:19 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlNTBjOTdlMmRjMGZiMDRjNDZmNmEyN2MxZDU4ZWJlMQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBkNzgxNjhhM2E3M2RlZDUzYzA1MGM0MTJjYWY0ZmNkNg==`

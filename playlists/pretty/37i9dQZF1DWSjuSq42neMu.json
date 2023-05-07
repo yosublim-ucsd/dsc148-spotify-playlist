@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 627388,
+  "num_followers": 627758,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDMyNWM4ZjQ3YmUwNWI3ZjI3MWI0NWQwODkzOGNmMDI4MTE4NDVl",
+  "snapshot_id": "MCwyMjY1YjhjODY0MmFjMjQwZTJkM2FiOWM5ZGMzZGUyYTc3MjEwNGNi",
   "tracks": [
     {
       "added_at": "2023-04-17 19:31:45",
@@ -551,22 +551,18 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+      "duration_ms": 186426,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -603,18 +599,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 186426,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 199994,
       "name": "Antes de Morirme (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "No Fue (feat. Brray, Feid) [Remix]",
         "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 317789,
       "name": "No Fue - Remix",
       "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Mejor No Nos Vemos",
-        "url": "https://open.spotify.com/album/0aHJ2SLyt8oeyWdvEMN3IS"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 189187,
-      "name": "Mejor No Nos Vemos",
-      "url": "https://open.spotify.com/track/6NT4RZ6CF6qFJqslGdqaRM"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "Mejor No Nos Vemos",
+        "url": "https://open.spotify.com/album/0aHJ2SLyt8oeyWdvEMN3IS"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 189187,
+      "name": "Mejor No Nos Vemos",
+      "url": "https://open.spotify.com/track/6NT4RZ6CF6qFJqslGdqaRM"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
       },
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "Imaginaste",
-      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 377580,
       "name": "M\u00edrame - Remix",
       "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "Respuesta Cero",
         "url": "https://open.spotify.com/album/0WmmOyzqhYtW0Pg2Pnhwhk"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 203951,
       "name": "Respuesta Cero",
       "url": "https://open.spotify.com/track/07piZvs54drv7466oPLTt0"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1727,26 +1727,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
+        "name": "Amor en Coma",
+        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
       },
       "artists": [
         {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        },
-        {
-          "name": "Pablo Mas",
-          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Dominicana",
-      "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
+      "duration_ms": 199881,
+      "name": "Amor en Coma",
+      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1767,22 +1763,26 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Amor en Coma",
-        "url": "https://open.spotify.com/album/0NHD8Het1Mqslp46azKDU2"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        },
+        {
+          "name": "Pablo Mas",
+          "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
         }
       ],
-      "duration_ms": 199881,
-      "name": "Amor en Coma",
-      "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
+      "duration_ms": 216000,
+      "name": "Dominicana",
+      "url": "https://open.spotify.com/track/7qetypYpvINP4AJ3fZNsGm"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "The Sensation",
         "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 203666,
       "name": "Qu\u00e9 M\u00e1s Pues",
       "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1911,26 +1911,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Loquita",
-        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199551,
-      "name": "Loquita",
-      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "M\u00e1s de Ti",
         "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
       },
@@ -1947,6 +1927,26 @@
       "duration_ms": 266835,
       "name": "M\u00e1s de Ti",
       "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Loquita",
+        "url": "https://open.spotify.com/album/5GjwudL8UiuD9wsRNSBHgZ"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199551,
+      "name": "Loquita",
+      "url": "https://open.spotify.com/track/2OTULPNeQUkwQ0tNzcG7tj"
     },
     {
       "added_at": "2023-04-17 19:31:45",

@@ -1,12 +1,12 @@
 {
   "description": "Keep your workout 100 with these Hip-Hop motivators.",
-  "num_followers": 64424,
+  "num_followers": 64472,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDAwMTA4Y2NhN2I4MjUwNTdhNTQzN2ZmMDZjYTg4MzJlN2E0Y2Y4",
+  "snapshot_id": "MCxhZjA2MjdkOGE4NzcwMGU3ZjMxZjI1ODdjM2NmY2M4ODIxN2VkNjgx",
   "tracks": [
     {
       "added_at": "2023-03-31 06:56:00",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-03-31 06:56:00",
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2023-03-31 06:56:00",
-      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 149546,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2023-03-31 06:56:00",
+      "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
       "added_at": "2023-03-31 06:56:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-03-31 06:56:00",
       "album": {
-        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
-      },
-      "artists": [
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 202636,
-      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
-    },
-    {
-      "added_at": "2023-03-31 06:56:00",
-      "album": {
         "name": "The Thrill",
         "url": "https://open.spotify.com/album/4NtEHyzC02jvTLMERHn6Rw"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 234333,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/56oGoEjA9eTZYgsttEFKY3"
+    },
+    {
+      "added_at": "2023-03-31 06:56:00",
+      "album": {
+        "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+        "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 202636,
+      "name": "Plain Jane REMIX (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
     },
     {
       "added_at": "2023-03-31 06:56:00",

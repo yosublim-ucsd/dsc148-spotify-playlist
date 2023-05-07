@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,450 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,484 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 21 | [Falaytaka Tahlou](https://open.spotify.com/track/2QC2N9Y3qfyeqFqyizohk6) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Falaytaka Tahlou](https://open.spotify.com/album/4fRMjvfPoNSVNkJT0E4GFm) | 3:56 |
 | 22 | [Hasaruha](https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Hasaruha](https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa) | 3:24 |
 | 23 | [Wallé](https://open.spotify.com/track/5mJbEJTjxwEhhlccQDm5kd) | [Bu Kolthoum](https://open.spotify.com/artist/58UPSgCUefEHXrtQkPd64B) | [Wallé](https://open.spotify.com/album/0llPrZmYWkRxQnH9o1ERF3) | 2:57 |
-| 24 | [El Lela](https://open.spotify.com/track/5mCeOghVDQ36pgq63OcDXc) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [El Lela](https://open.spotify.com/album/4dpk3etzFX1hpVVCO70LL9) | 2:48 |
-| 25 | [Kalam Ennas](https://open.spotify.com/track/5AXhE2O0TQqQmQzarCPqYJ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
+| 24 | [Kalam Ennas](https://open.spotify.com/track/5AXhE2O0TQqQmQzarCPqYJ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [أروع أغاني جورج وسوف](https://open.spotify.com/album/6Mi7z46UWq0oR9sWVVmuGP) | 7:02 |
+| 25 | [El Lela](https://open.spotify.com/track/5mCeOghVDQ36pgq63OcDXc) | [Hadi Aswad](https://open.spotify.com/artist/7cyJ9VJt6xQRFVJmhvbz6Q) | [El Lela](https://open.spotify.com/album/4dpk3etzFX1hpVVCO70LL9) | 2:48 |
 | 26 | [Sallemi](https://open.spotify.com/track/2RTIyzG5nwK06Qwyg75gtW) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:12 |
 | 27 | [Moonlight](https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Moonlight](https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ) | 3:57 |
 | 28 | [Moustahil](https://open.spotify.com/track/6URORXDF7eytWWR07VH6tB) | [Nancy Zaabalawi](https://open.spotify.com/artist/04aGEO8WSIbsk5FEM2BPh5) | [Moustahil](https://open.spotify.com/album/639E6Qim9hlNKHjWvsEqJL) | 4:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Wala Fuse \- Special Version](https://open.spotify.com/track/1bQEqxv5YcCgXXYVwSa9Us) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Wala Fuse \(Special Version\)](https://open.spotify.com/album/2MUWf8lrTWfSkyqapMlHfI) | 3:07 |
 | 50 | [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 |
 
-Snapshot ID: `MCw2ZjVmMGMxNjM0NTVmZDBjZmQ1ZmZlZmU0ZTUwOTg4ZjY3MGU1ODMw`
+Snapshot ID: `MCxjNGEzYTk5OGQxNzk2YTgzYzhlZjRhN2Y3YWI1MzgwOGE2YjM4ZWZh`

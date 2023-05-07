@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 349387,
+  "num_followers": 349715,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODBmY2MyZWQ4NjZlZDI4MzY3MGJjNzQxZjc3ODRkYmE0MTc1Y2E4",
+  "snapshot_id": "MCwxOGRmMmI3ZGM1OWUwMzcwNjhhODgwMmM1ZjEwMWE2NDM5MTE0MDZm",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1107,6 +1107,74 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Amigos y Enemigos (Remix)",
+        "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
+      },
+      "artists": [
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        }
+      ],
+      "duration_ms": 295304,
+      "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
+      "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Leby",
+          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
+        }
+      ],
+      "duration_ms": 191846,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) [Remix]",
         "url": "https://open.spotify.com/album/36ehOw44KSj8riww8Eamd8"
       },
@@ -1155,74 +1223,6 @@
       "duration_ms": 456939,
       "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, Khea, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
       "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Leby",
-          "url": "https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF"
-        }
-      ],
-      "duration_ms": 191846,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Amigos y Enemigos (Remix)",
-        "url": "https://open.spotify.com/album/3pUkjrzOZhiaipOiANpLuF"
-      },
-      "artists": [
-        {
-          "name": "Trap Capos",
-          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 295304,
-      "name": "Amigos y Enemigos (feat. Bad Bunny & Almighty) - Remix",
-      "url": "https://open.spotify.com/track/2sA4woGW5KgEgGXXxOKPAZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1367,6 +1367,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Gan-Ga (Remix)",
+        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 193363,
+      "name": "Gan-Ga - Remix",
+      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Carbon Fiber Hits",
         "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 331413,
       "name": "Diabla (Official Remix)",
       "url": "https://open.spotify.com/track/1OPVFxzEgHEdfvCTiB7nh2"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Gan-Ga (Remix)",
-        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 193363,
-      "name": "Gan-Ga - Remix",
-      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Na' Nuevo",
+      "url": "https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Real G4 Life Vol. 3",
         "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 234271,
       "name": "Hoy (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Na' Nuevo",
-      "url": "https://open.spotify.com/track/0jYLYhbDoceMWHWwwvYpVv"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Kobe En LA",
+        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 225906,
+      "name": "Kobe En LA",
+      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "No Quiere Amor (feat. Farruko)",
         "url": "https://open.spotify.com/album/1IREmSsAW11sdfG8gDUygU"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 268560,
       "name": "No Quiere Amor (feat. Farruko)",
       "url": "https://open.spotify.com/track/4NGlDkTO27uxg8del4oTAr"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Kobe En LA",
-        "url": "https://open.spotify.com/album/2ZlDvWWIeKF4gLRUFe5msN"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Kobe En LA",
-      "url": "https://open.spotify.com/track/0dKO7r8XnLskHM4JJH3BRi"
     },
     {
       "added_at": "2022-06-08 18:27:09",

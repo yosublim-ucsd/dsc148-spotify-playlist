@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 251929,
+  "num_followers": 252042,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGE1ZjZmNWZiMWQ4Yjc4YmQ0NTkyOWJhNWIzZDNkYzg3MGRiY2I3",
+  "snapshot_id": "MCxlMzFhYzY1YTIyZTQxOThkNWM2MDBmMGY1NmE5YmE3NzU1OTI4OGY3",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 233478,
-      "name": "Locked out of Heaven",
-      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 139146,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -391,6 +395,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 139146,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 186043,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
-        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 196519,
-      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+        "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 196519,
+      "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+      "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Happier Than Ever (Edit)",
         "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
       },
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Hold Me Closer",
-        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 202245,
-      "name": "Hold Me Closer",
-      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Jagger.mp3",
         "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
       },
@@ -1195,22 +1195,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "qu\u00e9 le pasa conmigo?",
-        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 167251,
-      "name": "qu\u00e9 le pasa conmigo?",
-      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-05-05 03:00:00",

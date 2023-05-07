@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-477 songs - 1 day 0 hr 38 min
+478 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Chanel](https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Chanel](https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo) | 3:21 | 2023-03-31 | 2023-04-29 |
 | [CHANT \(feat\. Tones And I\)](https://open.spotify.com/track/5BgeAX4HuZdcuCqmu4pIMM) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [CHANT \(feat\. Tones And I\)](https://open.spotify.com/album/4z2ItYJOliymox1iXbu9gs) | 4:30 | 2022-08-05 | 2022-08-27 |
 | [Charlie Be Quiet!](https://open.spotify.com/track/4nrDn3HEdKn524GrOSAll8) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Charlie Be Quiet!](https://open.spotify.com/album/6nT8NzRCvaGVbCvpgSkFjz) | 2:08 | 2022-09-30 | 2022-10-15 |
-| [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-17 |  |
+| [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-05 |  |
+| [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-17 | 2023-05-07 |
 | [CHASING THE SUN](https://open.spotify.com/track/4ld5JAPiiU0O4smQ0j4pAd) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [FINAL \(Vol.1\)](https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z) | 2:31 | 2021-12-24 | 2022-05-20 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-14 |  |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-12-17 | 2022-04-19 |

@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 213106,
       "name": "Gives You Hell",
       "url": "https://open.spotify.com/track/6ihL9TjfRjadfEePzXXyVF"
@@ -7792,6 +7792,28 @@
       "duration_ms": 252773,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX"
+    },
+    {
+      "album": {
+        "name": "Summer Party Anthems",
+        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+        }
+      ],
+      "date_added": "2023-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     },
     {
       "album": {

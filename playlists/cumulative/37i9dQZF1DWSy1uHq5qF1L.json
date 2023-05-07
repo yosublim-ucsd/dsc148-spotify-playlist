@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 134946,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/7MZE5hpTg0LsnRonlnDPlI"
+    },
+    {
+      "album": {
+        "name": "Don Julin",
+        "url": "https://open.spotify.com/album/48RcT7yNHDXSWfZEdhR3dK"
+      },
+      "artists": [
+        {
+          "name": "Don Julin",
+          "url": "https://open.spotify.com/artist/7fqbIY3YTlJvcXw1jmWb14"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138576,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/7s8ZstmS6N1MJO7pdcJ8Si"
     },
     {
       "album": {

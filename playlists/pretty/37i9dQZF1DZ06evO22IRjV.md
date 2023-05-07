@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,590 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,596 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 |
 | 50 | [コルコバード](https://open.spotify.com/track/7qKPkXpHB1SuOKWRKYBhjT) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voy☆☆☆](https://open.spotify.com/album/1bTyGypqlwvfmXLOGkzdFY) | 1:26 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyMWNjMzRmMDIyNDU5ZjdmMTdiNWU0MjNmZGRmZmU4YQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBmMjFjN2IwOGQyNzc2NzkyZDY2YjlhYjU2OGQ1ZjIwYg==`

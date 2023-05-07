@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: De Jeugd Van Tegenwoordig
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,823 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,841 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 |
 | 100 | [Hey Zonnebloem](https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Zonnebloem](https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN) | 3:27 |
 
-Snapshot ID: `MCw5M2M2ZGI3ODExMTVjY2QwN2U5YmYxNjYyMjc1OTE5MTM0OGYyODlm`
+Snapshot ID: `MCxiNjRiNzhkM2JmNTM0YWVlYjVhZWNkNzAyMGU0OTQwMDg4MTk1YjIx`

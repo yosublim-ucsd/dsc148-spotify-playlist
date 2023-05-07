@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 483333,
+  "num_followers": 483511,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWFmMWNkNDZkNmJmOGQ1ZWZjYjA0MTc1MDc4NDcyNTA5Y2UwMzkw",
+  "snapshot_id": "MCxhZTMzNGIwMWMxZGVhNjU3YWYzNjAwOGQ1YTc1MzYwOWY0YjJjNjk5",
   "tracks": [
     {
       "added_at": "2023-03-24 17:53:51",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -387,18 +387,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "El Nervio Del Volcan",
         "url": "https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 294266,
       "name": "Aqu\u00ed No Es As\u00ed",
       "url": "https://open.spotify.com/track/02KG9DpLT3bV4fzUM1bORW"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+      },
+      "artists": [
+        {
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
+      },
+      "artists": [
+        {
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+        }
+      ],
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "El Silencio",
+        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "El Silencio",
-        "url": "https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Reptilectric",
         "url": "https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 232288,
       "name": "Reptilectric",
       "url": "https://open.spotify.com/track/2sProjAkdt5b4TgShSRvgA"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
-      },
-      "artists": [
-        {
-          "name": "Genitallica",
-          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
-        }
-      ],
-      "duration_ms": 181866,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Zo\u00e9",
         "url": "https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Cronicas De Un Laberinto",
-        "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
       "artists": [
         {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+          "name": "Genitallica",
+          "url": "https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA"
         }
       ],
-      "duration_ms": 190893,
-      "name": "Hay Amores Que Matan",
-      "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
+      "duration_ms": 181866,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1267,6 +1251,22 @@
       "duration_ms": 174880,
       "name": "Cada Vez Que Me Voy",
       "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Cronicas De Un Laberinto",
+        "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Hay Amores Que Matan",
+      "url": "https://open.spotify.com/track/3b9yTPrrIquBZsco8jVPi1"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 269866,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Rock Latino",
         "url": "https://open.spotify.com/album/0aGusz7aHYnYfjWSTr1YFI"
       },
@@ -1399,38 +1415,6 @@
       "duration_ms": 208866,
       "name": "Chavo de Onda",
       "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 269866,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/5j14Xn8nJDcH9omZkBU4jP"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Rosa Venus",
-        "url": "https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 270533,
-      "name": "Hoy Tengo Miedo",
-      "url": "https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+        "name": "Rosa Venus",
+        "url": "https://open.spotify.com/album/35YMu32GI36kpBDG0Ts1ul"
       },
       "artists": [
         {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Afroman",
-      "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
+      "duration_ms": 270533,
+      "name": "Hoy Tengo Miedo",
+      "url": "https://open.spotify.com/track/7dkzqJnqaLDEH8MsP1Rxx7"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1559,6 +1543,22 @@
       "duration_ms": 253866,
       "name": "Si Senor",
       "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Afroman",
+      "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Maquillaje",
-        "url": "https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu"
-      },
-      "artists": [
-        {
-          "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Est\u00e1tico",
-      "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Deshabitado",
         "url": "https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 223920,
       "name": "Olvidate De M\u00ed",
       "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu"
+      },
+      "artists": [
+        {
+          "name": "Zurdok",
+          "url": "https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Est\u00e1tico",
+      "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

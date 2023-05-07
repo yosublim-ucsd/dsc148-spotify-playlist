@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 209014,
       "name": "2:02",
       "url": "https://open.spotify.com/track/0jDvY7YKzncG41sg1clKs9"
@@ -3191,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "CITYBOY",
+        "url": "https://open.spotify.com/album/1YFMx0DEEElb3LVQZW38Sn"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181741,
+      "name": "CITYBOY",
+      "url": "https://open.spotify.com/track/6ie36ZZnVBzZgkdfghyRQ7"
+    },
+    {
+      "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
@@ -3510,6 +3532,24 @@
       "duration_ms": 255278,
       "name": "Cry Your Heart Out",
       "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "album": {
@@ -4810,7 +4850,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 152147,
       "name": "Ei vitus (feat. Korelon)",
       "url": "https://open.spotify.com/track/4f1IC0mWzqRcYtsALav0kJ"
@@ -7234,7 +7274,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 216454,
       "name": "Haukilahden rantaan",
       "url": "https://open.spotify.com/track/3yZWaLo76NW6EL49Q0GLKP"
@@ -7646,6 +7686,28 @@
       "duration_ms": 193788,
       "name": "Herkkii koviksii",
       "url": "https://open.spotify.com/track/6tRVk2ln0ue5Eu15tsGfYg"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "album": {
@@ -8848,7 +8910,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 187909,
       "name": "Ihana kipu",
       "url": "https://open.spotify.com/track/4EXBxZeqKIayJa65KtAwZw"
@@ -8888,6 +8950,24 @@
       "duration_ms": 220600,
       "name": "Ihanaa Leijonat, Ihanaa",
       "url": "https://open.spotify.com/track/14l8B86O8bFUpy2ujERYfX"
+    },
+    {
+      "album": {
+        "name": "Ihminen",
+        "url": "https://open.spotify.com/album/4FHdQPTQM2lq9V5ebYNZpy"
+      },
+      "artists": [
+        {
+          "name": "Mouhous",
+          "url": "https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199523,
+      "name": "Ihminen",
+      "url": "https://open.spotify.com/track/5eps7chRcG5wHZvGI40ffd"
     },
     {
       "album": {
@@ -9616,6 +9696,24 @@
       "duration_ms": 195170,
       "name": "Jonah",
       "url": "https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q"
+    },
+    {
+      "album": {
+        "name": "Joo joo",
+        "url": "https://open.spotify.com/album/7EKhY6oUZaGrydLwiRXzjj"
+      },
+      "artists": [
+        {
+          "name": "Paperi T",
+          "url": "https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188767,
+      "name": "Joo joo",
+      "url": "https://open.spotify.com/track/1VScZBWYSs6lzVnxJgh4SE"
     },
     {
       "album": {
@@ -11224,7 +11322,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 204292,
       "name": "kilsoi",
       "url": "https://open.spotify.com/track/0jz7L1HGCL81c6scYojIRI"
@@ -12100,7 +12198,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 168448,
       "name": "Kyl\u00e4 keskell\u00e4 ei mit\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/4cNo4LHRbuK73a6eclNXYY"
@@ -14918,6 +15016,24 @@
       "duration_ms": 174782,
       "name": "Midnight Rain",
       "url": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4"
+    },
+    {
+      "album": {
+        "name": "mietin sua pahalla",
+        "url": "https://open.spotify.com/album/2eMaovAMKvZa17Yx3vnVuX"
+      },
+      "artists": [
+        {
+          "name": "pehmoaino",
+          "url": "https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183268,
+      "name": "mietin sua pahalla",
+      "url": "https://open.spotify.com/track/4Ac4YAaS8HkCuIX7zr8Ycu"
     },
     {
       "album": {
@@ -18105,6 +18221,28 @@
     },
     {
       "album": {
+        "name": "T\u00c4YDELLINEN AJOITUS",
+        "url": "https://open.spotify.com/album/3v4Vgetpzn7no8entBuDEo"
+      },
+      "artists": [
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        },
+        {
+          "name": "Joalin",
+          "url": "https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154913,
+      "name": "Pariisin kev\u00e4t",
+      "url": "https://open.spotify.com/track/4NbcnW0v1yoeq2IAuWFriv"
+    },
+    {
+      "album": {
         "name": "Parisuhdehautausmaa",
         "url": "https://open.spotify.com/album/0c2YXNTjbAAUFeiy2IfuRE"
       },
@@ -18120,6 +18258,28 @@
       "duration_ms": 243419,
       "name": "Parisuhdehautausmaa",
       "url": "https://open.spotify.com/track/3pQzhjQKES7qGfAW1ROT4a"
+    },
+    {
+      "album": {
+        "name": "PARTYBOY",
+        "url": "https://open.spotify.com/album/0IFu8OkgmQOVWM0yXu2X0h"
+      },
+      "artists": [
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ"
+        },
+        {
+          "name": "Lauri Haav",
+          "url": "https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161476,
+      "name": "PARTYBOY",
+      "url": "https://open.spotify.com/track/2ZJ50ZqUlqFnva0hCvmWkh"
     },
     {
       "album": {
@@ -19542,7 +19702,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 247426,
       "name": "Reiviluola",
       "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
@@ -19652,6 +19812,28 @@
       "duration_ms": 202285,
       "name": "Rich Spirit",
       "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
+    },
+    {
+      "album": {
+        "name": "Riidell\u00e4\u00e4n",
+        "url": "https://open.spotify.com/album/0LO9r2b4MfUaaDUtF2FotE"
+      },
+      "artists": [
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        },
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182597,
+      "name": "Riidell\u00e4\u00e4n",
+      "url": "https://open.spotify.com/track/2iyem3u1Bl9WBRhLyn1Yv9"
     },
     {
       "album": {
@@ -20254,7 +20436,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 212641,
       "name": "Sata vuotta",
       "url": "https://open.spotify.com/track/1mHRqzrSR9MQaryDj6GibE"
@@ -22100,6 +22282,42 @@
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "album": {
+        "name": "Susi",
+        "url": "https://open.spotify.com/album/5Bon0eRp7MdAkLaM6Jn9sm"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202073,
+      "name": "Susi",
+      "url": "https://open.spotify.com/track/7hKsScZ91gpahaBaumXHu7"
+    },
+    {
+      "album": {
+        "name": "Susta tulee t\u00e4hti",
+        "url": "https://open.spotify.com/album/5StNFA9kGwUOd8Ojxf7Xok"
+      },
+      "artists": [
+        {
+          "name": "Sara Siipola",
+          "url": "https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161792,
+      "name": "Susta tulee t\u00e4hti",
+      "url": "https://open.spotify.com/track/6nG0mV3RUeWHG96a99aZRp"
     },
     {
       "album": {
@@ -24512,7 +24730,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 148290,
       "name": "Uudestaan",
       "url": "https://open.spotify.com/track/6t8EkW44VBwXPzzCFrCUvO"
@@ -25062,7 +25280,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 132874,
       "name": "Veronica",
       "url": "https://open.spotify.com/track/7sh5CvW4iq5lwA8EsvJN96"
@@ -26394,7 +26612,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 182211,
       "name": "Yksinkertasta (feat. Costi)",
       "url": "https://open.spotify.com/track/6uKLnIwPSiVQrZpuHa3zbf"

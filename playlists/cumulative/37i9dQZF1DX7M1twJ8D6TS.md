@@ -4,7 +4,7 @@
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-164 songs - 9 hr 58 min
+165 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Half a Song](https://open.spotify.com/track/4EETgKkkLxXrsrc0q50K1P) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:31 | 2021-04-16 | 2022-03-19 |
 | [Happier Alone](https://open.spotify.com/track/1vvUJRVvs5XurGvVpj9i5B) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Happier Alone](https://open.spotify.com/album/2PJdY41DZQOc7zaEfqxdP1) | 3:44 | 2022-05-27 | 2022-11-14 |
 | [Happier Alone](https://open.spotify.com/track/3GpSelbkykBVq1HqFQh9gN) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Happier Alone](https://open.spotify.com/album/4WpXUnUqr8d45uNhH3HqEH) | 3:44 | 2021-07-16 | 2022-07-29 |
+| [Happier Alone](https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1) | 3:44 | 2023-02-10 |  |
 | [Happier Alone](https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP) | 3:44 | 2022-05-27 | 2023-05-04 |
 | [He Ain't a Cowboy](https://open.spotify.com/track/696dr7CxLuSxj52kQhCmEV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [He Ain't a Cowboy](https://open.spotify.com/album/1EJPMuvwOyopFUq730Zjv0) | 3:13 | 2021-04-16 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2022-05-27 |  |
@@ -92,12 +93,12 @@
 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 | 2022-03-18 |  |
 | [Javelina](https://open.spotify.com/track/46YBC6L6URk7rZ3FiZH6AS) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Javelina](https://open.spotify.com/album/5tyO5E9XvwHp2QxF3VOKVq) | 3:28 | 2021-10-08 |  |
 | [Just Had to Be There](https://open.spotify.com/track/5GvKGncDYOEWjW4dmmblM3) | [Colton Venner](https://open.spotify.com/artist/2j8Sh4ZxKM8iqE55xUoR1L) | [Just Had to Be There](https://open.spotify.com/album/18K5EcNoicY0KI6mlAXIAC) | 3:45 | 2022-03-18 | 2023-02-11 |
-| [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 | 2021-09-03 |  |
+| [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 | 2021-09-03 | 2023-05-07 |
 | [Kill a Man](https://open.spotify.com/track/1N6pD66bUuUuVX9CfXJxFA) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye EP](https://open.spotify.com/album/3tKu9bTu6dfnXHZot0kKFy) | 5:19 | 2022-05-27 |  |
 | [Kill a Man](https://open.spotify.com/track/29vxm6LKPquf3gWDnKdijO) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Red Eye E.P.](https://open.spotify.com/album/4siecYatTT3ySmsG6juFIv) | 5:19 | 2021-10-08 | 2023-03-04 |
 | [Leave Me My Heart](https://open.spotify.com/track/6oAp4G5TCSVu8S76x51h4N) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Good Ones Never Last \(Deluxe Edition\)](https://open.spotify.com/album/0bP4iNa6xwBAHOmojqDsAy) | 3:17 | 2021-04-16 |  |
 | [Life Without You](https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:46 | 2022-03-18 |  |
-| [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 | 2022-03-18 | 2023-05-05 |
+| [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 | 2022-03-18 |  |
 | [Like I Love You](https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo) | [Sarah Hobbs](https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI) | [Texas Made](https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA) | 3:51 | 2021-07-16 |  |
 | [Long Gone](https://open.spotify.com/track/0KaQom2aaLURgTYMKSYDnC) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Long Gone](https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F) | 3:14 | 2022-01-07 | 2023-02-11 |
 | [Loser Mentality](https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Loser Mentality](https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6) | 3:13 | 2022-05-27 | 2023-05-04 |
@@ -158,7 +159,7 @@
 | [Unrung](https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Long Way from Your Heart](https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9) | 3:07 | 2021-04-16 |  |
 | [Unwanted Man](https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:16 | 2022-05-27 |  |
 | [Unwanted Man](https://open.spotify.com/track/6vvg8BQtLpvcmFq3X6wWwU) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [From The Album 'Unwanted Man'](https://open.spotify.com/album/6BoLrl0d4vtJ06y7oRuUFp) | 4:16 | 2022-05-27 | 2022-07-29 |
-| [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 | 2021-04-16 |  |
+| [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 | 2021-04-16 | 2023-05-07 |
 | [Walls Coming Down](https://open.spotify.com/track/2OvZ5FqpAHrbp1cyRPp7CP) | [Abbey Duncan](https://open.spotify.com/artist/1gxoexlfgalY8uZT3Rp0ui) | [Walls Coming Down](https://open.spotify.com/album/6HPdPvqDCzBVMFxXmjsIPG) | 3:37 | 2021-09-24 |  |
 | [Wasn't That Drunk \(feat\. Carly Pearce\)](https://open.spotify.com/track/0WnGvxW15RZyOvZxDYiWF4) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Front Row Seat](https://open.spotify.com/album/7yxhlLyOZAyFyjE3PyTaKX) | 3:43 | 2021-04-16 |  |
 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 | 2021-09-03 |  |

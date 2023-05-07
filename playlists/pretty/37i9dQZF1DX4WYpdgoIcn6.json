@@ -1,12 +1,12 @@
 {
   "description": "Kick back to the best new and recent chill hits.",
-  "num_followers": 8056600,
+  "num_followers": 8049098,
   "original_name": "Chill Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTZkMDNiMWMyMzkzMjU5ODQ5MTEwZTg1M2VjMjE3NmE4ZmI1NGUz",
+  "snapshot_id": "MCxjNTc4YzBiMmI4OGU3ZGU1M2M3OTljYzYwZDU1ZTFiNmEzNTk1MWVh",
   "tracks": [
     {
       "added_at": "2023-04-27 22:00:00",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 181830,
-      "name": "Shirt",
-      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "I GUESS I'M IN LOVE",
         "url": "https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 181830,
+      "name": "Shirt",
+      "url": "https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "We Go Down Together (with Khalid)",
         "url": "https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3"
       },
@@ -1183,34 +1183,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 245896,
-      "name": "Your Power",
-      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
-      },
-      "artists": [
-        {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
-        }
-      ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1231,6 +1215,38 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+      },
+      "artists": [
+        {
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 245896,
+      "name": "Your Power",
+      "url": "https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
         "name": "Be Kind (with Halsey)",
         "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
       },
@@ -1247,6 +1263,26 @@
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1283,22 +1319,6 @@
       "duration_ms": 241595,
       "name": "Let Somebody Go",
       "url": "https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1391,26 +1411,6 @@
       "duration_ms": 215000,
       "name": "go",
       "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "The Alcott (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Before You",
-        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 187940,
-      "name": "Before You",
-      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "love is not dying",
         "url": "https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 146160,
       "name": "always, i'll care",
       "url": "https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Before You",
+        "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "Before You",
+      "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
-        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Leaving My Love Behind",
-      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 171200,
       "name": "I Quit Drinking",
       "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Leaving My Love Behind",
+      "url": "https://open.spotify.com/track/1NxHgM5nOnmqi3KUVLbaIw"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1811,22 +1811,18 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "The Joker And The Queen (feat. Taylor Swift)",
-        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 185422,
-      "name": "The Joker And The Queen (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+      "duration_ms": 172597,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1851,18 +1847,22 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P"
+        "name": "The Joker And The Queen (feat. Taylor Swift)",
+        "url": "https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 172597,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE"
+      "duration_ms": 185422,
+      "name": "The Joker And The Queen (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "Love Me More",
-        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 190658,
-      "name": "Love Me More",
-      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 210906,
       "name": "Livin It Up (with Post Malone & A$AP Rocky)",
       "url": "https://open.spotify.com/track/7zjEyeBsaw9gV0jofJLfOM"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 190658,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3"
     },
     {
       "added_at": "2023-04-27 22:00:00",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-04-27 22:00:00",
       "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 191830,
-      "name": "this is what sadness feels like",
-      "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
-    },
-    {
-      "added_at": "2023-04-27 22:00:00",
-      "album": {
         "name": "Astronomy",
         "url": "https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 243907,
       "name": "Astronomy",
       "url": "https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3"
+    },
+    {
+      "added_at": "2023-04-27 22:00:00",
+      "album": {
+        "name": "this is what ____ feels like (Vol. 1-4)",
+        "url": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 191830,
+      "name": "this is what sadness feels like",
+      "url": "https://open.spotify.com/track/5GpYt1p4z2EPVKv5t7XDof"
     },
     {
       "added_at": "2023-04-27 22:00:00",

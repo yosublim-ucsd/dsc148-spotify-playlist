@@ -1,12 +1,12 @@
 {
   "description": "cute moments in fields and on dancefloors #SpotifyWrapped",
-  "num_followers": 30437,
+  "num_followers": 30664,
   "original_name": "dance tracks we hugged our friends to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjM0NTM3Mjc3MzdkNjMzYzBlMDhlZTVkNGY0YzJkZmRkZjIwNWQ5",
+  "snapshot_id": "MCw4ZTExYjA4MjQ2NDdiMzE2N2RhOWU1NDBkNDUzYTE1N2U0YzJhZmJm",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "In Control (Innellea Remix)",
         "url": "https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 345135,
       "name": "In Control - Innellea Remix",
       "url": "https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -555,6 +555,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "Can We Still Be Friends?",
+        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Laurence Guy",
+          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "Can We Still Be Friends?",
+      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 244672,
       "name": "Arms",
       "url": "https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "Can We Still Be Friends?",
-        "url": "https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Laurence Guy",
-          "url": "https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "Can We Still Be Friends?",
-      "url": "https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj"
     },
     {
       "added_at": "2022-11-30 13:46:00",

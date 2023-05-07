@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,669 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,746 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 29 | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/track/1LEac3XXwvRlOWkKDZjLeK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Walk In The Night \(Feat\. Zion.T\)](https://open.spotify.com/album/49B53FD6M1eVPEGcEnk95g) | 3:05 |
 | 30 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 |
 | 31 | [Mayday \(feat\. 조이\)](https://open.spotify.com/track/37cXQzQaHR7zMk8G360Vke) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [homemade 1](https://open.spotify.com/album/1ki9IXpNliEpYmXqhPIJz6) | 3:19 |
-| 32 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
-| 33 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
+| 32 | [See you](https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq) | [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U) | [See you](https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx) | 3:06 |
+| 33 | [Better \(Feat\. BIG Naughty\)](https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Better](https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean) | 3:06 |
 | 34 | [Troll \(Feat\. DEAN\)](https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:09 |
 | 35 | [I Wanna Be](https://open.spotify.com/track/7Bd6h5KwA4ASCXCSoWIS3i) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [I Wanna Be \- The 1st Album Repackage](https://open.spotify.com/album/2QDzBw32zlyvFtfeRCoSFH) | 3:13 |
 | 36 | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [The Moon \(Feat\. TAEIL of NCT\)](https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Let Me Go \(with TAEYEON\)](https://open.spotify.com/track/0W1BHowUDWND1AIQU6nUbD) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:31 |
 | 50 | [Love Virus](https://open.spotify.com/track/4JA2u5Grq0GCSSQfy5cLFG) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS), [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [Whats wrong with secretary kim OST Part.1](https://open.spotify.com/album/1l8yWyu8JIf2GttsAVOWlR) | 3:27 |
 
-Snapshot ID: `MCxlNmFlZjQxMzY3MDNjZWYwYmU5MDQxYWZkMGFjZjliOTA4OGMxZDA1`
+Snapshot ID: `MCwwODZiODM4ZTczN2JiNzI5MmY0NjY5ODE0ZjA2MzBhYTJjZWRhMGZh`

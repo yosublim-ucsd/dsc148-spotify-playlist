@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nerissima Serpe in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,540 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,593 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 28 | [Cerchio \(feat\. Radical\)](https://open.spotify.com/track/3sdVWL8zrfTpeq77A7KsxX) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56), [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3) | [Cerchio \(feat\. Radical\)](https://open.spotify.com/album/1UBUOB4HYFhcOOCbVqRL6N) | 2:25 |
 | 29 | [Libertà](https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Libertà](https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW) | 2:21 |
 | 30 | [MISTRESS](https://open.spotify.com/track/1vT1yACp1rSZCvq6QEjUwd) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [MISTRESS](https://open.spotify.com/album/3zUKwXcMpAuxPCTRwSZQao) | 2:36 |
-| 31 | [Papavero](https://open.spotify.com/track/2J2NxH7j3Wy1tpoCNXkeHx) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw) | [Papavero](https://open.spotify.com/album/7DMsu93EGO0wQNfTUy2heK) | 2:03 |
+| 31 | [Papavero](https://open.spotify.com/track/2J2NxH7j3Wy1tpoCNXkeHx) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56) | [Papavero](https://open.spotify.com/album/7DMsu93EGO0wQNfTUy2heK) | 2:03 |
 | 32 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 |
 | 33 | [Spoiler](https://open.spotify.com/track/34YLExaZOqmhFphwmYRg1t) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Spoiler](https://open.spotify.com/album/2YcSX52kZUgPPOcTuFx8OZ) | 2:36 |
 | 34 | [Vada come vada](https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O) | [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Vada come vada](https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S) | 2:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [CASPER](https://open.spotify.com/track/2LE6wtqBInDciga2cYRBNx) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [CASPER](https://open.spotify.com/album/7cB2F64LFKDZdwyMVzyvpj) | 2:30 |
 | 55 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 
-Snapshot ID: `MCxiZjkwYmQzY2JhNTAwOThiNjJiNmUyODhhNGZkOWQ3NjAyNjQzZDBh`
+Snapshot ID: `MCwyNzYzZjgzZWQ3NTZhNzcxOTNhOGQzYmI4YmFhOTI4YmU4MGFlNzEw`

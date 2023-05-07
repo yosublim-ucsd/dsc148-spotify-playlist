@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,990 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,993 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 49 | [Paso del Norte](https://open.spotify.com/track/2HYz3vIPX8aoRYxDZTdBEW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:22 |
 | 50 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkNTMxMDA5NmFmNTIxZmI5NjI5ZGI3ZmZkMmRlNjNhMg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBhN2I5MGE1ZGY5OTE0MTQ3MjZjYjM2ZTg0MWJmNzY1YQ==`

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "alive & well (gratitude mantra)",
+        "url": "https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634500,
+      "name": "alive & well (gratitude mantra)",
+      "url": "https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe"
+    },
+    {
+      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },

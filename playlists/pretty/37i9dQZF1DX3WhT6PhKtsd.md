@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,842 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,071 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 49 | [Doritos & Fritos](https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Doritos & Fritos](https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC) | 3:16 |
 | 50 | [Cbat](https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/7uKK7YRySFa1cXI5ICijFW) | 2:51 |
 
-Snapshot ID: `MCxhOTY5Y2ZiNWEyZTMzZmUxNWM1ZThlMzI5NjhjOGQ1OWNhMTUwZjMy`
+Snapshot ID: `MCxkNzk0NTIyYTNmZGRmYjlkY2U0YzBhODgwMmQ5MTE5MTcxZDhkNmUw`

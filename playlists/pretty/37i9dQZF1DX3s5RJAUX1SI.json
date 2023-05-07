@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 47490,
+  "num_followers": 47531,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWVlZTY5ZTk1NTJkN2E3YjFmZTgyOWM3NWVjYThhMGFlOGIxNjVk",
+  "snapshot_id": "MCwwM2RhYmM1OGQ4OTY5ZGI2OTE4MzliYTVjMTExMGZhNTkwZDhmODNk",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Lo Que Construimos",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 230213,
       "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Lo Que Construimos",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 279961,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Hasta Que Regreses",
         "url": "https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 185834,
       "name": "Hasta Que Regreses",
       "url": "https://open.spotify.com/track/113DePdXtrX328UFntdtyP"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 279961,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Amor Tumbado",
         "url": "https://open.spotify.com/album/58tA3m3PhvKneOP6lZGg4n"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 148750,
       "name": "Amor Tumbado",
       "url": "https://open.spotify.com/track/20LD0AeIa1d1PHipSyK6nC"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Ida y Vuelta (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7C7Gg5OxaRdiSRo4AwofvR"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/7kz0MP7yFGbDOalOVvcJrd"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "El Triste",
-        "url": "https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM"
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Mau Soles",
+          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
         }
       ],
-      "duration_ms": 252093,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2"
+      "duration_ms": 216064,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM"
       },
       "artists": [
         {
-          "name": "Mau Soles",
-          "url": "https://open.spotify.com/artist/4KF3nw66xEXVhv1IkIAE77"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 216064,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
+      "duration_ms": 252093,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Si Te Pudiera Mentir",
-        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
-      },
-      "artists": [
-        {
-          "name": "Jenny Thorn",
-          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
-        }
-      ],
-      "duration_ms": 289565,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Yo Ya No Vuelvo Contigo",
         "url": "https://open.spotify.com/album/5n6chJVmqXhiF4klgDsYA7"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 232727,
       "name": "Yo Ya No Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5dr22Hx7V73QhvT3p5azpf"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Si Te Pudiera Mentir",
+        "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
+      },
+      "artists": [
+        {
+          "name": "Jenny Thorn",
+          "url": "https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9"
+        }
+      ],
+      "duration_ms": 289565,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
     },
     {
       "added_at": "2022-08-03 16:09:42",

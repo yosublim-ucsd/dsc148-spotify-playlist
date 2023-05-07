@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,800 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,879 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 25 | [Hold Me, Thrill Me, Kiss Me](https://open.spotify.com/track/5XPwkZ7vNxeidpNLAkwtFp) | [Mel Carter](https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9) | [The Best Of Mel Carter](https://open.spotify.com/album/2Bw48A6OMSip5lbQW5CaUg) | 2:29 |
 | 26 | [Sideshow](https://open.spotify.com/track/0fopVbPW7N5BK0sOybQCq2) | [Blue Magic](https://open.spotify.com/artist/7tLLSEaHMMJPbsYAz8MkEw) | [Blue Magic](https://open.spotify.com/album/3DU0VQcgElO1cBHWk669BE) | 4:11 |
 | 27 | [Cupid](https://open.spotify.com/track/6VqVieqjDEwS3mByMq4OzB) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:38 |
-| 28 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
-| 29 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
+| 28 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
+| 29 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
 | 30 | [This Magic Moment](https://open.spotify.com/track/7pOWWGpUc3T05IXfymgIP3) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:26 |
 | 31 | [The Dark End of the Street](https://open.spotify.com/track/5vWMCGVeGxp3PEdvpDN3a0) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [You Got My Mind Messed Up](https://open.spotify.com/album/1akOJm6k5Y4Kp0NdoBNa8j) | 2:33 |
 | 32 | [Hey There Lonely Girl](https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB) | [Eddie Holman](https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32) | [I Love You](https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r) | 3:36 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 38 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
 | 39 | [In the Still of the Night](https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Presenting The 5 Satins](https://open.spotify.com/album/6cCH55Vq1UpCfHOFaVKegT) | 3:02 |
 | 40 | [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Hot On The Tracks](https://open.spotify.com/album/1WDTvBAEVrdz5oxfRahzEi) | 6:21 |
-| 41 | [Be My Girl](https://open.spotify.com/track/34nT7RkrF1bimYlQUFEpkq) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Joy Ride](https://open.spotify.com/album/2wJt6u240XneVkyLc0ixla) | 4:31 |
-| 42 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
+| 41 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
+| 42 | [Be My Girl](https://open.spotify.com/track/34nT7RkrF1bimYlQUFEpkq) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Joy Ride](https://open.spotify.com/album/2wJt6u240XneVkyLc0ixla) | 4:31 |
 | 43 | [Stay In My Corner](https://open.spotify.com/track/6oavqtFYgu0Zdpgesza6f4) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [There Is](https://open.spotify.com/album/4OeKMYbIv4ATPruMTMWF5N) | 6:13 |
 | 44 | [A Song for You](https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 5:25 |
 | 45 | [Pledging My Love](https://open.spotify.com/track/1UA7hoj7yPwW8V9NxXG8yT) | [Johnny Ace](https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah), [Johnny Otis & His Orchestra](https://open.spotify.com/artist/61uK6fz9cwzgSdEAdXGGI1) | [Memorial Album](https://open.spotify.com/album/5y03J1x7hj6yIm3SazQOcQ) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 49 | [Betcha By Golly, Wow](https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics and More 30th Anniversary Edition](https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW) | 3:18 |
 | 50 | [Crying in the Chapel](https://open.spotify.com/track/1MdtXzJLuRoC1qZe1OxyPq) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [Presenting the Orioles](https://open.spotify.com/album/3ilxDZ0GVsoDyHcHgYTBJv) | 3:08 |
 
-Snapshot ID: `MCw0MmNmODY5NTM2MDI5ODg5OGZjNTMyOTVkMGI4MTAwNWRkM2E1OWZk`
+Snapshot ID: `MCxkNWM0OTAxM2RlODJhZjIwNjFjYmIyN2UxZmMzYWE1MGY0ODNkYzkw`

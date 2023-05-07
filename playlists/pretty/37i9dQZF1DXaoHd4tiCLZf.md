@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Music from and inspired by Emily in Paris, new episodes now streaming!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,206 likes - 216 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,362 likes - 216 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,4 +225,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 215 | [De Profundis \- Ni fleurs, ni couronnes](https://open.spotify.com/track/7bq5NjSUunGM6cBp94V7ba) | [Delphine Volange](https://open.spotify.com/artist/703CwQT63v0gseZQtuWg6l) | [Monceau](https://open.spotify.com/album/2GBQ1OsbFD5tagJeaySQHj) | 4:07 |
 | 216 | [Non, je ne regrette rien](https://open.spotify.com/track/0D4gIeyrMtxOAvCWsTHN9x) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 2:22 |
 
-Snapshot ID: `MCw0MDQ0YTFlM2JiMGY2YTBiNDI2ZDQ3NjY2YjQ3ODNmNTBjNTA3MWVh`
+Snapshot ID: `MCxjMTljODYyODYxNmVlNDYzMjM1NTNhOThkZTA0MWMyNjAzOTEwMDlh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 
 > A little alt, folk, and indie rock sprinkled into this delicious melting pot\. Cover: The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,451 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,485 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 30 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 31 | [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 |
 | 32 | [Growing/Dying](https://open.spotify.com/track/5zMxLq47V3Gr0LlFvxiFXS) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 3:32 |
-| 33 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
-| 34 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 |
+| 33 | [My Honest Face](https://open.spotify.com/track/3xKsGYkJKy0bbQuUHRYrei) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:32 |
+| 34 | [Out of My Head](https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Palomino](https://open.spotify.com/album/7oiUfuyk01h71NTmBUSk6D) | 3:33 |
 | 35 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 |
 | 36 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 |
 | 37 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 76 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 |
 | 77 | [Shotgun](https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Shotgun](https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv) | 4:10 |
 | 78 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
-| 79 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
-| 80 | [What’s It Take To Be Happy?](https://open.spotify.com/track/6alaXw9ipZ6ajVjXpQ3kDy) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:20 |
+| 79 | [What’s It Take To Be Happy?](https://open.spotify.com/track/6alaXw9ipZ6ajVjXpQ3kDy) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P) | 3:20 |
+| 80 | [Sea Star](https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sea Star](https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs) | 3:27 |
 | 81 | [Hurricane Coming](https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Hurricane Coming](https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC) | 3:32 |
 | 82 | [Deep Stays Down](https://open.spotify.com/track/4ludCkJK1UF7PbxsbQMHDg) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:19 |
 | 83 | [Hanging by a Thread](https://open.spotify.com/track/1WF8P42fDZKPdsbG6eb6cl) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [A Real Good Person In A Real Bad Place](https://open.spotify.com/album/5mDuvmrgSQYH5m54GoM5GC) | 3:18 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2aneNMeYHQ8.md) - [plain]
 | 97 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 |
 | 98 | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/track/0YqAFGltGRELm4l5fvEv9y) | [Tropidelic](https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl), [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Falling Down \(with Nick Hexum of 311\)](https://open.spotify.com/album/1tkBqlzsmYQKgGh8ERPFKa) | 3:19 |
 | 99 | [Nowhere To Go](https://open.spotify.com/track/0jvNCLA1OcJzhBzNyFzyhr) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/3Zlv9M4aSDQ3H3iCG9jGEe) | 3:41 |
-| 100 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 |
+| 100 | [Just Around The Corner](https://open.spotify.com/track/3YA98Jkasip4SS2vpOT3Iv) | [JD McPherson](https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9) | [Just Around The Corner](https://open.spotify.com/album/5xX6g87kTLuwtkwGh7ehHG) | 2:55 |
 
-Snapshot ID: `MCxlYjM1NzhjMTkwYWNiMWQxZWM4ZTg2ZWZkMzM5MzI5NTRlYzZjNzJk`
+Snapshot ID: `MCwwMWIyMTQ1NTEzMGZmNTYxZTQ4ZGMyMTI4MjI3NmYxYWY2Njc5ZTli`

@@ -4,7 +4,7 @@
 
 > Moody electronica for the night time hours
 
-137 songs - 10 hr 57 min
+138 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Dreaming Of High Fidelity](https://open.spotify.com/track/2HRbd2lJKkWWBGT2IRVr4j) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Transit](https://open.spotify.com/album/0MGV2N8Dr2Vy71qTDN7LXL) | 5:59 | 2023-04-20 | 2023-05-06 |
 | [Earth To](https://open.spotify.com/track/11PuMG1Ej3GZcXnngdm72P) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Earth To](https://open.spotify.com/album/5NfVhc8VJhggndUzEcnS2Y) | 6:38 | 2023-03-23 | 2023-04-17 |
 | [ENCLOSURE](https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3) | [2XM](https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32) | [ENCLOSURE](https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0) | 4:19 | 2023-03-16 |  |
+| [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 | 2023-05-05 |  |
 | [Equals](https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman) | [Equals](https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB) | 4:46 | 2022-12-01 |  |
 | [Eyes On Me](https://open.spotify.com/track/4gLkkwTR9miywuIVA9Kxup) | [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Can Do This](https://open.spotify.com/album/5w3STvdHA4A5p1mgLPSITW) | 3:48 | 2022-12-01 | 2023-03-31 |
 | [fall back](https://open.spotify.com/track/0Li5j7ruBzzWoJJcdmPtGk) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw) | [fall back](https://open.spotify.com/album/4gu4F5gAFTXjhpB87qMiaj) | 4:12 | 2022-12-01 | 2023-03-25 |
@@ -144,6 +145,6 @@
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-12-01 |  |
 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 | 2022-12-01 |  |
 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 | 2023-01-26 |  |
-| [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 | 2023-05-05 |  |
+| [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 | 2023-05-05 | 2023-05-07 |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

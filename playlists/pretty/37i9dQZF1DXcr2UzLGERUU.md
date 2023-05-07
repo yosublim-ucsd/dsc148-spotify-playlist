@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,236 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,423 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 49 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
 | 50 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
 
-Snapshot ID: `MCxiZDIwMGM3ZjViNjEwMzFiMTZhMmU0Yjk3ZTk2YjA1OWJmMTFlYTgz`
+Snapshot ID: `MCxiZDQwMzEyMjJiMGIxNzE5M2Q5NzQ0NDU5YjU3ZTI3MTdmN2M3OGZl`

@@ -802,6 +802,24 @@
     {
       "album": {
         "name": "Love Spin",
+        "url": "https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4"
+      },
+      "artists": [
+        {
+          "name": "Debbie Davies",
+          "url": "https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231080,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5"
+    },
+    {
+      "album": {
+        "name": "Love Spin",
         "url": "https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp"
       },
       "artists": [
@@ -1544,7 +1562,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 213888,
       "name": "They Never Pay Me",
       "url": "https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2"

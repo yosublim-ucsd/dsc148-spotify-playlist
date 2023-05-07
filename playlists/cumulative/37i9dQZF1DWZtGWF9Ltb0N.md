@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-462 songs - 1 day 10 hr 27 min
+463 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Deflect](https://open.spotify.com/track/1NblMdKjFT2XBlmZgqVdKa) | [NIK P](https://open.spotify.com/artist/2o874yOIwfz6MuDQMYYCCS) | [Deflect](https://open.spotify.com/album/6YcyzjNes1CFAodrCIgw7K) | 4:16 | 2022-04-29 | 2022-07-29 |
 | [Dem Tuff](https://open.spotify.com/track/3eIX6FvKnHXO9iy0i1fHTz) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD), [Mr\. K](https://open.spotify.com/artist/1g6naH1LUQbliNJGswFSpC) | [DOR007](https://open.spotify.com/album/68SJQK1l7kWi1bAlwkHWFZ) | 4:43 | 2022-02-17 | 2022-08-30 |
 | [Deposition](https://open.spotify.com/track/4RE5lIMbBsS7FhhMX2nFSo) | [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [Loud](https://open.spotify.com/album/4SQ5ZlYYGUFuEWWl5zkr5j) | 4:44 | 2022-02-17 | 2022-07-28 |
+| [Diamonds](https://open.spotify.com/track/4eCKotoixCMh0U6Gfp7XI9) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Diamonds](https://open.spotify.com/album/1jJKIyew4UcjGVZ33wZrpL) | 3:42 | 2023-05-05 |  |
 | [Disarray](https://open.spotify.com/track/0g8mhmcojAvyBZVAzfcjVO) | [Kercha](https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW) | [Witness EP](https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1) | 4:51 | 2022-09-30 |  |
 | [Discovery](https://open.spotify.com/track/1hL68mCCsLmtSJNr1W8HmR) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Discovery](https://open.spotify.com/album/4zPaHY0Q3lKzH151iHPL9A) | 4:20 | 2022-09-23 |  |
 | [Dissonance](https://open.spotify.com/track/24r2tiw6Ywi28T07oSbk0S) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [Dissonance](https://open.spotify.com/album/2wdEqqIVyVyiVVByRKduOr) | 5:32 | 2022-02-17 | 2022-07-29 |
@@ -247,7 +248,7 @@
 | [Melki Tsedeq](https://open.spotify.com/track/005rn3AmWCSp2MIGanGHsc) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Melki Tsedeq / Trip To Atlantis](https://open.spotify.com/album/0rVYRk75YzkWXa6Y3ZT8Nk) | 4:54 | 2022-07-08 | 2023-01-14 |
 | [Melki Tsedeq \- Original Mix](https://open.spotify.com/track/6HywrWzDmJgNhWwoLZ5xtE) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Melki Tsedeq / Trip To Atlantis](https://open.spotify.com/album/7E0hTcncoGuQrSh9VGMlAI) | 4:54 | 2022-02-17 | 2022-07-29 |
 | [Mental Ballast](https://open.spotify.com/track/7hXAwbEWwSPn4GG8BZk5JW) | [Kercha](https://open.spotify.com/artist/3wCMW7RUGv6X3ZduZxiFYW) | [Mental Ballast EP](https://open.spotify.com/album/7oTco7gUh9cOnYFIGrc8p8) | 4:09 | 2022-02-17 | 2022-07-08 |
-| [Midas Touch](https://open.spotify.com/track/0jCIq3ECUSXxM6OvPESuXh) | [Akriza](https://open.spotify.com/artist/1ZRAtYEchsCHhCQVFt6qQ2) | [Midas Touch](https://open.spotify.com/album/5HpC97fRj9wLn64Rf6p4lT) | 3:26 | 2022-07-01 |  |
+| [Midas Touch](https://open.spotify.com/track/0jCIq3ECUSXxM6OvPESuXh) | [Akriza](https://open.spotify.com/artist/1ZRAtYEchsCHhCQVFt6qQ2) | [Midas Touch](https://open.spotify.com/album/5HpC97fRj9wLn64Rf6p4lT) | 3:26 | 2022-07-01 | 2023-05-07 |
 | [Midnight Request Line](https://open.spotify.com/track/7cE37Rp8XcJYluBknJfXBc) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skream!](https://open.spotify.com/album/30wE14PzLtxymNqRj4F7nT) | 3:56 | 2022-02-17 | 2022-06-07 |
 | [Migi](https://open.spotify.com/track/1cu75Tzz7YQZBSscNGz0Xc) | [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Migi](https://open.spotify.com/album/4LaGABi1dNkNc44mh3R3uv) | 4:00 | 2022-02-17 |  |
 | [Militant Sound \- Rez Remix](https://open.spotify.com/track/3Rqoc2tWhyZnF1SUxGpQ3C) | [Truth](https://open.spotify.com/artist/0ZDCCJSvjcdJZH9hOl1uYc), [Rez](https://open.spotify.com/artist/7G5EtZ0gcloGWJMKkV5Bkj) | [Deep, Dark & Dangerous Remixes, Vol\. 2](https://open.spotify.com/album/7bidT50fa2DLgiIwqNpYgY) | 3:25 | 2022-02-17 | 2022-07-30 |

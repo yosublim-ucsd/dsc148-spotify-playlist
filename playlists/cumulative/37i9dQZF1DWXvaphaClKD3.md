@@ -4,7 +4,7 @@
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Banda MS, Ice Cube en portada.
 
-1,759 songs - 3 day 22 hr 13 min
+1,759 songs - 3 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [El Odio de Dos Hermanos](https://open.spotify.com/track/2olmXV3gmwLypUiYw9PzN5) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Odio de Dos Hermanos](https://open.spotify.com/album/6NEgXGVEyE8XJtp1l8flsJ) | 2:54 | 2022-12-02 | 2022-12-10 |
 | [El Original](https://open.spotify.com/track/4pltRxj7cCdMaIxIc6Saf0) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Original](https://open.spotify.com/album/4KgjEVleZmV78zflRLDAUF) | 3:57 | 2023-03-10 | 2023-03-18 |
 | [El Pana](https://open.spotify.com/track/3ve91a9NwVoLfFfoJBtYU8) | [Compa Steve](https://open.spotify.com/artist/0Z9FeIBNH2WlwhVUOBlfPZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Pana](https://open.spotify.com/album/68QcWivIR7iucFGhaxZRac) | 3:58 | 2022-09-30 | 2022-10-08 |
-| [El Papel Cambió \- En Vivo](https://open.spotify.com/track/2Vfdag30H4TGSerI8KE9yK) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [El Papel Cambió \(En Vivo\)](https://open.spotify.com/album/4OGEhGVjPZx5cCpsYpUyM1) | 3:10 | 2023-05-05 |  |
+| [El Papel Cambió \- En Vivo](https://open.spotify.com/track/2Vfdag30H4TGSerI8KE9yK) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [El Papel Cambió \(En Vivo\)](https://open.spotify.com/album/4OGEhGVjPZx5cCpsYpUyM1) | 3:14 | 2023-05-05 |  |
 | [El Pascual Cartel](https://open.spotify.com/track/3GNY1ydEMim08fC7LiKJ8w) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [El Pascual Cartel](https://open.spotify.com/album/6ce6idcbiR5IeW54UaYstV) | 5:14 | 2022-08-26 | 2022-09-03 |
 | [El Pasito Sierreño](https://open.spotify.com/track/1qeBdkdRqlzWSTGOyjlKFg) | [Roman De Los Reyes](https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF) | [El Pasito Sierreño](https://open.spotify.com/album/2wAnLLpr83X026gb4LKHj3) | 3:28 | 2022-07-29 | 2022-08-06 |
 | [El Pastorcito](https://open.spotify.com/track/0HI3KL6QIYOKfGQZuynytW) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [El Lobito de Sinaloa](https://open.spotify.com/artist/0fkoN4Y9Kba7rZsoVTf4g7) | [Posada Navideña](https://open.spotify.com/album/6mKSmYtURuiXfM201oKg0A) | 2:50 | 2022-12-23 | 2022-12-31 |

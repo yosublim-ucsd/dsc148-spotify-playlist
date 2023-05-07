@@ -200,10 +200,28 @@
       ],
       "date_added": "2022-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 166003,
       "name": "mememe",
       "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
+    },
+    {
+      "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "mememe",
+      "url": "https://open.spotify.com/track/39Pudjd7JS8NosYN24m7Hc"
     },
     {
       "album": {

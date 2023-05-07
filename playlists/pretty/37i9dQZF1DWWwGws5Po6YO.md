@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,774 likes - 59 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,790 likes - 59 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,23 +49,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 39 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
 | 40 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
 | 41 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
-| 42 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
-| 43 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
-| 44 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
-| 45 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 42 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
+| 43 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
+| 44 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
+| 45 | [At Dawn](https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR), [Echo Collective](https://open.spotify.com/artist/0vA5v6tBmGdzhupEeUDK9S) | [No\. 4](https://open.spotify.com/album/34zrvcPKCD23KFMo8v0FEe) | 2:50 |
 | 46 | [Falling Water Lullaby](https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj) | [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 6:40 |
 | 47 | [Zhao Hua](https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE) | [HVAD](https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J), [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 6:46 |
 | 48 | [a path between the clouds](https://open.spotify.com/track/1ukeSAShVyw5oxJY2dFkUE) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Frozen Passages](https://open.spotify.com/album/7wH4jU2nSunU1Ek9BCJi5R) | 5:42 |
 | 49 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 50 | [Becoming Ferromagnetic](https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Becoming Ferromagnetic](https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ) | 5:28 |
 | 51 | [Lear](https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi), [Stuart Dempster](https://open.spotify.com/artist/174yhQdHRtoWDlvtZ15NuK), [Panaiotis](https://open.spotify.com/artist/3nNs3fKoNiAHgx4B6p5fYA) | [Deep Listening](https://open.spotify.com/album/1h4VM1Nsgav7liCdWBoGlC) | 24:56 |
-| 52 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
-| 53 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
-| 54 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
+| 52 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
+| 53 | [Moon View](https://open.spotify.com/track/2SmHi3TIZKxgeadZBR47S8) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:47 |
+| 54 | [Kali](https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [Kali](https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt) | 6:40 |
 | 55 | [Satnam Waheguru](https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Meditations Mixtape Vol.1](https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4) | 4:59 |
 | 56 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 57 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
 | 58 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
 | 59 | [Moderato Cantabile](https://open.spotify.com/track/5js7CxlUAAIVS5KGklskr7) | [Felicia Atkinson](https://open.spotify.com/artist/5YQURNvswNpWWUWyeNT7we) | [The Flower And The Vessel](https://open.spotify.com/album/6q2zdnjrihfiV0NZJQvEOy) | 7:58 |
 
-Snapshot ID: `MCwzMzVlMDc2NDk2NmViNzJkMzdiOWQ2MmU5MzA4NTU5YjI1NTk0Njgz`
+Snapshot ID: `MCxiMDZhMTUxY2QzMzNiNDJlZmFmMDgzYzVmZmU2NTVhZjI5YjZhYzQ4`

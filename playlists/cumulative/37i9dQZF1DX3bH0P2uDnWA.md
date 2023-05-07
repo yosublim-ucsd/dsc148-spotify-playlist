@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-278 songs - 16 hr 18 min
+279 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,8 @@
 | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu) | [Player2](https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy), [A\_A\_RonHD](https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS) | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g) | 3:53 | 2022-09-02 |  |
 | [Trick or Treat](https://open.spotify.com/track/04T5Bc9852IO2LA0cla7Xg) | [Madam Misfit](https://open.spotify.com/artist/42rQYQExEIwKEsPwkREvIM), [Victor and the Bully](https://open.spotify.com/artist/5ajT35SkbTc7KuPydYYiDq) | [Trick or Treat](https://open.spotify.com/album/5S7lVI05P5Vkr6SM6CnXBB) | 3:40 | 2022-10-12 | 2022-11-08 |
 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 | 2020-10-30 |  |
-| [Twenties](https://open.spotify.com/track/7FQyzz3MRRyIHB2xuPjQhL) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/7413jwxa7Q2UbGbegbuMBj) | 3:10 | 2020-10-30 |  |
+| [Twenties](https://open.spotify.com/track/01LK7AQCrzzdLIU4EYmCr9) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/3SQZ3rgz8N2LOKq4pIyWY8) | 3:10 | 2022-11-07 |  |
+| [Twenties](https://open.spotify.com/track/7FQyzz3MRRyIHB2xuPjQhL) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/7413jwxa7Q2UbGbegbuMBj) | 3:10 | 2020-10-30 | 2023-05-07 |
 | [Twilight Tone / Twilight Zone \(Wolfgang Lohr Radio Remix\)](https://open.spotify.com/track/3Da7xxefIAVHITIN3q5X4f) | [The Manhattan Transfer](https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Bart&Baker Music Presents Twilight Tone / Twilight Zone \(New Remixes\)](https://open.spotify.com/album/0HPlYRauLtjEFJDM8M4cnK) | 3:08 | 2022-10-12 | 2022-11-08 |
 | [Twitch \- Original Mix](https://open.spotify.com/track/5ITcJAeOZZusqXHBeKuLcm) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Rosie Rascal](https://open.spotify.com/artist/0Akm5rhDpUGYemttj18Pq3) | [Grandiose](https://open.spotify.com/album/6v6qs1gSFdK1hsUGgD624U) | 4:02 | 2022-10-12 | 2022-11-08 |
 | [Upside Down](https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Do You Want the Truth or Something Beautiful?](https://open.spotify.com/album/7zzHLsTPVTgBLXHbZFve33) | 3:09 | 2020-10-30 |  |

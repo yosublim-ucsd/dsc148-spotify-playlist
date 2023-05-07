@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 
 > أفضل الاغاني العراقية\. الغلاف:ايفان ناجي
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,144 likes - 48 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,215 likes - 48 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX657Vh1lw2BF.md) - [plain]
 | 47 | [Kathurat Aalayh Alhumum](https://open.spotify.com/track/1x5TmYqbHRD4gIduC2gjyZ) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Kathurat Aalayh Alhumum](https://open.spotify.com/album/0u6SaVqxjfZ0ylwLDOP1jj) | 3:18 |
 | 48 | [Ala Tary Al Awatef](https://open.spotify.com/track/0QzIZuiK93NdsMzR1L1mrj) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Ala Tary Al Awatef](https://open.spotify.com/album/5gzN1IZvfYtbtJ1Pk7BGOF) | 3:27 |
 
-Snapshot ID: `MCwyZWUyYTI2ZDUwYmE1MDIzMWQyMTZjZjhiOTlkN2QxM2M4MjkzZjNj`
+Snapshot ID: `MCw1N2RjNTJmYWZmZWIwOTdiMjRjMWFmNWIwYjMyNGQxNGFlMTJlNmM2`

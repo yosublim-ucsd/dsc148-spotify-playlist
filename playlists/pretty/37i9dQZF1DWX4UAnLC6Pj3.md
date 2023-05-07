@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda El Recodo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,375 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,718 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,18 +90,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 80 | [Lo Que No Es Pa' Uno](https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Lo Que No Es Pa' Uno](https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz) | 2:54 |
 | 81 | [La Patrona](https://open.spotify.com/track/77tPPVeMhhzGwoMih9bs1T) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [La Patrona](https://open.spotify.com/album/6bajKxH0q2vy5SRm83RGgz) | 2:30 |
 | 82 | [Modo Crudo \- Versión Banda](https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Modo Crudo \(Versión Banda\)](https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k) | 2:08 |
-| 83 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
-| 84 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
+| 83 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
+| 84 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
 | 85 | [A Como Yo Lo Veo](https://open.spotify.com/track/2M96oj1hBrNEIz8R1FLuQC) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [A Como Yo Lo Veo](https://open.spotify.com/album/3NPPmTpVZH4yed40Ffrf6C) | 3:17 |
 | 86 | [Una Julio 70](https://open.spotify.com/track/7GcTHCoJEBP5Yrt08AjRE8) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Una Julio 70](https://open.spotify.com/album/08NwcE4UBRU3ixMdgtIpXS) | 2:55 |
 | 87 | [Fiestas, Tragos, Noche Loca](https://open.spotify.com/track/2um0106nrjNOayotnhbKMZ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:40 |
 | 88 | [Las Edades \(En Vivo\)](https://open.spotify.com/track/1nSKgYax4b9dEM67jWPVgT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Las Edades \(En Vivo\)](https://open.spotify.com/album/6B8h0NCYvt8pu1zn17rZKF) | 2:51 |
 | 89 | [Es Demasiado Tarde \(En Vivo\)](https://open.spotify.com/track/49p6wLTmjn42KHJw7axA3G) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Es Demasiado Tarde \(En Vivo\)](https://open.spotify.com/album/0GY2QiAZeLzHQgulUhlu7b) | 4:38 |
-| 90 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
-| 91 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 |
-| 92 | [Ojitos Cafés](https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh) | [Omar Robles](https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Ojitos Cafés](https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt) | 3:10 |
-| 93 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
-| 94 | [El De Los Collares](https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Los Luna Oficial](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [El De Los Collares](https://open.spotify.com/album/0uf8gfJPV37b5LZaQtoQpi) | 2:30 |
+| 90 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
+| 91 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
+| 92 | [La Bolsita](https://open.spotify.com/track/6LFdrfyA0hilRIQ3aQFfTI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Bolsita](https://open.spotify.com/album/1JOTrInz3P7CgR4S6esSFB) | 3:00 |
+| 93 | [Ojitos Cafés](https://open.spotify.com/track/2cJFOBctujdzBnCdrxZwWh) | [Omar Robles](https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Ojitos Cafés](https://open.spotify.com/album/4F3C6UQX3tnAsLD5nl2yCt) | 3:10 |
+| 94 | [Cambiaste Mis Planes](https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Cambiaste Mis Planes](https://open.spotify.com/album/4AP7kCFERVd5eKxFlbK1pF) | 3:33 |
 | 95 | [Que Me Digan Loco](https://open.spotify.com/track/7jZgXvzfo5qMXux0tRvS4S) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Homenaje A La Trayectoria De Don Salvador Lizárraga](https://open.spotify.com/album/4ijPC21z4UGNE1B6nR3BJ7) | 3:42 |
 | 96 | [Te Va A Ir Bien](https://open.spotify.com/track/7nHD3IwYISHWeX946ZBUhp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Prefiero Estar Contigo \(Deluxe\)](https://open.spotify.com/album/0RyJXHmyxfV0JlTonmmAyx) | 3:40 |
 | 97 | [El HT](https://open.spotify.com/track/6gFE6Kp7uZE0ZQQCXlcLvK) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El HT](https://open.spotify.com/album/00DHlVPNN94MEirjHEX2lz) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 99 | [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 |
 | 100 | [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 |
 
-Snapshot ID: `MCwwZjVhODg0ODllMGE2Y2ZjYTk1MjRiNDdmZTMwNzVjNGQ2NDBjMDk4`
+Snapshot ID: `MCxhNmY2ZjcyODlhNDVjNDdmZmZhNTBhZTA4OTc5NzhjMWEyZTk1OTlh`

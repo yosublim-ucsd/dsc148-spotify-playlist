@@ -1,12 +1,12 @@
 {
   "description": "Solo hit da cantare (anche fuori dalla doccia).",
-  "num_followers": 351019,
+  "num_followers": 351085,
   "original_name": "Canta Sotto La Doccia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2E5MTQ2OTY1MzM5OGNjN2NhY2M3YzY4ZDc3YzZiYzhlNzMwYTY1",
+  "snapshot_id": "MCxlMmFmMDM3NGNiMzM1NmY2MjI2ZmE4NGZlYmUwZjIyMGY1NDNjNzE3",
   "tracks": [
     {
       "added_at": "2023-04-17 13:10:39",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-17 13:10:39",
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2023-04-17 13:10:39",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 215733,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "added_at": "2023-04-17 13:10:39",
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2023-04-17 13:10:39",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-17 13:10:39",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 295893,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
-    },
-    {
-      "added_at": "2023-04-17 13:10:39",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+    },
+    {
+      "added_at": "2023-04-17 13:10:39",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 295893,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX"
     },
     {
       "added_at": "2023-04-17 13:10:39",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-17 13:10:39",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
-    },
-    {
-      "added_at": "2023-04-17 13:10:39",
-      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2023-04-17 13:10:39",
+      "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2023-04-17 13:10:39",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-04-17 13:10:39",
       "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
+    },
+    {
+      "added_at": "2023-04-17 13:10:39",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 213394,
       "name": "Freed From Desire",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
-    },
-    {
-      "added_at": "2023-04-17 13:10:39",
-      "album": {
-        "name": "SUPEREROI",
-        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "SUPEREROI",
-      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
     },
     {
       "added_at": "2023-04-17 13:10:39",
@@ -1371,34 +1371,18 @@
     {
       "added_at": "2023-04-17 13:10:39",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "SUPEREROI",
+        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
         }
       ],
-      "duration_ms": 163253,
-      "name": "Feel It Still",
-      "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
-    },
-    {
-      "added_at": "2023-04-17 13:10:39",
-      "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
+      "duration_ms": 195000,
+      "name": "SUPEREROI",
+      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
     },
     {
       "added_at": "2023-04-17 13:10:39",
@@ -1423,6 +1407,22 @@
       "duration_ms": 193000,
       "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
       "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "added_at": "2023-04-17 13:10:39",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2023-04-17 13:10:39",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2023-04-17 13:10:39",
       "album": {
-        "name": "Due Vite",
-        "url": "https://open.spotify.com/album/5rLrnpQAVeBYEw6tH6PUKj"
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
       },
       "artists": [
         {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         }
       ],
-      "duration_ms": 225652,
-      "name": "Due Vite",
-      "url": "https://open.spotify.com/track/5htUUUBlgHZ9fztWTTDEFm"
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     }
   ],
   "unique_name": "Canta Sotto La Doccia",

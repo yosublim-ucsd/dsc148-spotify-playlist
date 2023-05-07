@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,131 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,154 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Shof Galbi](https://open.spotify.com/track/1Qn3MbsA6Dae8cFx56IHCK) | [Eman AlShmety](https://open.spotify.com/artist/6m0P4htB7F19GZ2VYlpofd) | [Shof Galbi](https://open.spotify.com/album/0bL0jJFjvRneRInaGQDVkf) | 3:49 |
 | 2 | [Entebhlek](https://open.spotify.com/track/19xth9Xqzirpot7cy1nWfZ) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Entebhlek](https://open.spotify.com/album/5kxIt7TKG05RmoD5815UfQ) | 3:59 |
 | 3 | [Ana Lak](https://open.spotify.com/track/0Ko4fZhRKlgdbBrEx5tsqR) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Ana Lak](https://open.spotify.com/album/74HJ9ReJsCKeYEbc3Nl24b) | 3:35 |
-| 4 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:29 |
+| 4 | [عشق سيده](https://open.spotify.com/track/2mPhU96WHlnj19ADPxAq63) | [عبدالله مبارك](https://open.spotify.com/artist/4n96Q1BZ2AAOwob61UfgWx), [شيخة العسلاوي](https://open.spotify.com/artist/70sogpOUuPnVGPGPA9m6gY), [محمد شايع](https://open.spotify.com/artist/6DtYDF0YfObTa33SQYi7Re) | [عشق سيده](https://open.spotify.com/album/4t2lgjxCV5Ep8kwCdGPpF4) | 3:32 |
 | 5 | [Sadmat Omri](https://open.spotify.com/track/6XztCmGblAwpXwD4lJMKKi) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:02 |
 | 6 | [مجنون](https://open.spotify.com/track/74poQorNZ3f9iXMolw7gQx) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [مجنون](https://open.spotify.com/album/1ivQ3SBQ6eWl7NqG3QMyYT) | 3:33 |
 | 7 | [مكانك](https://open.spotify.com/track/3QLwspqylF5pypDsi63F8r) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [مكانك](https://open.spotify.com/album/6shrlkAp819uLJ9WNXT2DN) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Takol Galbi](https://open.spotify.com/track/6ZeXXsj7opwkg3eNBTdZwJ) | [Abdulrahman Alazzawi](https://open.spotify.com/artist/2QxSb4y90CGYdmyFsh4XSg) | [Takol Galbi](https://open.spotify.com/album/3nP4mMLP0HJEFYoAWIghdx) | 3:25 |
 | 50 | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/track/4ElrjJKCDraFudqQMqG5Jj) | [Lamya Almalki \| لمياء المالكي](https://open.spotify.com/artist/78muID98ZZ9qLgjJph0jnf) | [في حفظ الله \| لمياء المالكي](https://open.spotify.com/album/5lA5PY1w6TGLqYZySPiZaA) | 3:57 |
 
-Snapshot ID: `MCwzMDM2MzI3NTIxZGRhMmM1M2UxYmQwM2ExZjRkODgyMDY3NWJhNzk4`
+Snapshot ID: `MCw5OGFmMGVkMjIxMTY4M2YyNTA4YzBhNzNhZDU0MDViMGZjNWE0YTBk`

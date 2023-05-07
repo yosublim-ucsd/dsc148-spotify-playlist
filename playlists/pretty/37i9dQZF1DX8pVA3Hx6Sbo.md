@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 
 > Mientras la gente no deje de aplaudir, Chente no deja de cantar\. Por siempre, Vicente Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,985 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 894,546 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 | 21 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 2:46 |
 | 22 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 |
 | 23 | [Las Llaves de Mi Alma](https://open.spotify.com/track/5M8JfFdmUtewLKcy0sZLtR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:56 |
-| 24 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:02 |
-| 25 | [Ella](https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:34 |
+| 24 | [Ella](https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:34 |
+| 25 | [Cuando Yo Quería Ser Grande](https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:02 |
 | 26 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 |
 | 27 | [A Pesar de Todo](https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:06 |
 | 28 | [Cruz de Olvido](https://open.spotify.com/track/2vJyNEy7aNXMZomvzn5bJo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [La Muerte De Un Gallero](https://open.spotify.com/album/63Z87jsEERYnhzD0oqAf0w) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 | 49 | [Hasta la Tumba](https://open.spotify.com/track/0dAGcv2yzTzLG06CLcnXiy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:32 |
 | 50 | [Cuando Me Digas](https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:00 |
 
-Snapshot ID: `MCxkMzE2YjVkMDIxMmM4NTU3NTc4OTE2ZmNhMjViODQ3NDFjMDY5NDA2`
+Snapshot ID: `MCw3ZGNjMzQzNTM2YWNhOGU4ZjFkM2E2NzQwOWE1NzZiNmQ2NzkwNTgy`

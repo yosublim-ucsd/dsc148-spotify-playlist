@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > have fun with it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,393 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,498 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,24 +34,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 24 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
 | 25 | [Loser](https://open.spotify.com/track/4LPvSKqEmFidSIgdLbHDcn) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/11HM6Bh33f02veTCxKm42q) | 3:05 |
 | 26 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 |
-| 27 | [Happy Face](https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi) | 2:49 |
-| 28 | [Just A Little While](https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:42 |
+| 27 | [Just A Little While](https://open.spotify.com/track/4ofr8ORQ9w1QuxGLBwRiQk) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Could It Get Better Than This](https://open.spotify.com/album/3epIoUnC4FeVi8g59Hxd9F) | 2:42 |
+| 28 | [Happy Face](https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Happy Face](https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi) | 2:49 |
 | 29 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 |
 | 30 | [Surefire](https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 4:01 |
 | 31 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 |
 | 32 | [Turn](https://open.spotify.com/track/2PL9IBLQvJjE7hqCQyJl2g) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi) | 3:27 |
 | 33 | [I Just Wanna Shine](https://open.spotify.com/track/4GZ3YCkuH0VvTluVLwUp4g) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [All the Feels](https://open.spotify.com/album/73hQB56aBFJTHE9vshSCLg) | 3:27 |
-| 34 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 |
-| 35 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 |
+| 34 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 |
+| 35 | [Hello](https://open.spotify.com/track/3DcJhILpOqM0tNWTKGf6uq) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Hello, All!](https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4) | 3:23 |
 | 36 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 |
 | 37 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
 | 38 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 |
 | 39 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
 | 40 | [cold weather](https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B) | [glass beach](https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH) | [the first glass beach album](https://open.spotify.com/album/5GOoswCqZQiq9gbjSHkzMq) | 2:18 |
 | 41 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 |
-| 42 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
-| 43 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
-| 44 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 |
+| 42 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 |
+| 43 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 |
+| 44 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
 | 45 | [Silhouettes](https://open.spotify.com/track/5zYduVIUSgSWmv56IwBmRl) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [When I Was Younger](https://open.spotify.com/album/4A9oVHInBqtXG9ogUXQiKN) | 2:57 |
 | 46 | [adios](https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [adios](https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK) | 3:23 |
 | 47 | [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 69 | [She Said](https://open.spotify.com/track/3ZJZjjKFxTqVGJ8QIYKMjp) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Youth is Only Ever Fun in Retrospect](https://open.spotify.com/album/3Hua29YXoJu25qVEhmssFb) | 3:45 |
 | 70 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 71 | [Daphne Blue](https://open.spotify.com/track/2FhJvFKyZng57iVQmFayVw) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [tryhard](https://open.spotify.com/album/6rbqqMTScIBxRBlM7DayP1) | 3:02 |
-| 72 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
-| 73 | [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 |
+| 72 | [Ride or Die](https://open.spotify.com/track/7c0se2w4QXZ9V4MoHWhshC) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 3:30 |
+| 73 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 74 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
 | 75 | [Go Easy](https://open.spotify.com/track/4yoMMiRT5sXtIbSHKQfRqi) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:47 |
 | 76 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 |
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 82 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 |
 | 83 | [Deleter](https://open.spotify.com/track/2yH16s2lLbYtLziVwqw7Pf) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:54 |
 | 84 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
-| 85 | [Settling](https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Bright Blues](https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG) | 3:08 |
-| 86 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 |
-| 87 | [Adderall](https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Adderall](https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4) | 3:38 |
+| 85 | [Adderall](https://open.spotify.com/track/4Xx0J00u90QvnG3rwz4Itp) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Adderall](https://open.spotify.com/album/3cwCFf0JcO8RpfWi2OAcz4) | 3:38 |
+| 86 | [Settling](https://open.spotify.com/track/0ibvUpSyUdMXrmuPIcg1T3) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Bright Blues](https://open.spotify.com/album/0rsE8hO2srq8GzMGiRl6gG) | 3:08 |
+| 87 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 |
 | 88 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
 | 89 | [Dead Horse](https://open.spotify.com/track/5RdkyZw1KQ1v0EbquUAsx2) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 3:19 |
 | 90 | [Did I Make You Up?](https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Did I Make You Up?](https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 99 | [Blutooth](https://open.spotify.com/track/4mhHWZBaSyLeTeXrLp1xuK) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Blutooth / enough 4 u](https://open.spotify.com/album/5fehd9MptgZcNgSLxAPBNN) | 2:58 |
 | 100 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
 
-Snapshot ID: `MCwxMjc1ZjkwMTMxMTVmY2I1OWFhMGM0OTI2NmY4ZWNkYWUzMTZmNTUz`
+Snapshot ID: `MCxjZDJmN2Q0NzA3YTkyYzNiZDI3ODgyNTYxYmY2YTE3OTMyYTM2NTA3`

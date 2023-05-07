@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,677 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,701 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 6 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 7 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 8 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
-| 9 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
+| 9 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 10 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
-| 11 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
+| 11 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 12 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 | 13 | [Ace of Aces](https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:04 |
 | 14 | [More Bounce to the Ounce](https://open.spotify.com/track/1LiwqqaafXkNQuWGW3HeId) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [Zapp](https://open.spotify.com/album/1y7wSbPgFFeLxbpf5v5CIY) | 5:11 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 95 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 | 96 | [Wild](https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh) | [Garth.](https://open.spotify.com/artist/7aEP0AzwgG0Bs0Bw7I2sqI), [Mammal Dap](https://open.spotify.com/artist/7nel0SBlJRHLKGr5VZMleq) | [Wild](https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK) | 3:32 |
 | 97 | [Pocket \(Radio Edit\)](https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed) | [The Lionyls](https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU) | [Pocket \(Radio Edit\)](https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q) | 3:47 |
-| 98 | [Jurassic Funk](https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:19 |
-| 99 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
-| 100 | [Back to the Funkture](https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O) | [Alissia](https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO) | [Back to the Funkture](https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz) | 4:01 |
+| 98 | [Word Is Out](https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva) | [Chelsea Wilson](https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk) | [Chasing Gold](https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ) | 4:34 |
+| 99 | [Jurassic Funk](https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:19 |
+| 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwxZjNjZTNhMjE3NDZmYzNmZTRiZWVhOGVkZTk0OWU1NTU4ODUxNzQw`
+Snapshot ID: `MCwzOGFiYjhlN2MwMjM5OThhNzM4ZjllN2MxMGUxOWMxNmRhZmNkMTUz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,316 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,331 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/track/09t4NyhBbbt8sFixr8RqVW) | [Fellowship Creative](https://open.spotify.com/artist/1HFukfooHlG0Z5nvBCpLNL), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [No Me Fallarás \(Aún Así\)](https://open.spotify.com/album/2TgO0hQbveZ4r4hMAhbwBH) | 5:43 |
 | 50 | [Ábrenos Los Cielos](https://open.spotify.com/track/5bYuSdpWXXcngti6OPFmZG) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 4:05 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlMjAzNWUwZjRiZWFhZTAxNjcyZWYyMzkyNjczNzhmZg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwMGE5ZWU4OTRkOTA0NjI5YTc0MTVkZWVhZWU5YzliNA==`

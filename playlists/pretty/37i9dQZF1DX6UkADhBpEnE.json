@@ -1,12 +1,12 @@
 {
   "description": "\u4eca\u65e51\u65e5\u3092\u3001\u5143\u6c17\u306b\u8fce\u3048\u308b\u305f\u3081\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01",
-  "num_followers": 128572,
+  "num_followers": 128607,
   "original_name": "\u5143\u6c17Booster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDM3N2U5NDViMDFjOTY3NmZkNmU3ZjliODZiZDJkZTQ1YTg2ZmU3",
+  "snapshot_id": "MCxiZjBhZmEyMzQzNGY1NTQ5NzY4ZGZiYTljNTg3ODQyZTFjMWNiZDAw",
   "tracks": [
     {
       "added_at": "2023-04-27 16:02:45",
@@ -819,22 +819,26 @@
     {
       "added_at": "2023-04-27 16:02:45",
       "album": {
-        "name": "Sunroof",
-        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "dazy",
-          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 163025,
-      "name": "Sunroof",
-      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2023-04-27 16:02:45",
@@ -871,6 +875,26 @@
     {
       "added_at": "2023-04-27 16:02:45",
       "album": {
+        "name": "Sunroof",
+        "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        {
+          "name": "dazy",
+          "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        }
+      ],
+      "duration_ms": 163025,
+      "name": "Sunroof",
+      "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2023-04-27 16:02:45",
+      "album": {
         "name": "If We Ever Broke Up",
         "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
       },
@@ -883,46 +907,6 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
-    },
-    {
-      "added_at": "2023-04-27 16:02:45",
-      "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
-    },
-    {
-      "added_at": "2023-04-27 16:02:45",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2023-04-27 16:02:45",
@@ -943,6 +927,22 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2023-04-27 16:02:45",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2023-04-27 16:02:45",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-04-27 16:02:45",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2023-04-27 16:02:45",
-      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 209026,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2023-04-27 16:02:45",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": "2023-04-27 16:02:45",

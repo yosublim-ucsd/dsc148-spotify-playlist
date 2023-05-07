@@ -4,7 +4,7 @@
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-122 songs - 8 hr 42 min
+123 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Angeles](https://open.spotify.com/track/5cW9OyV8C701YkRENJH5nI) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/1Od4S26RB37khls09dsUxL) | 2:56 | 2020-11-18 | 2022-07-09 |
 | [Annabelle](https://open.spotify.com/track/3ZtC9ZDhPJj0E043tmlOgx) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 4:03 | 2020-11-18 | 2022-07-07 |
 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 | 2020-11-18 |  |
+| [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 | 2020-11-18 |  |
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2020-11-18 | 2023-04-29 |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2020-11-18 |  |
 | [Bitter Sweet Symphony](https://open.spotify.com/track/5yEPxDjbbzUzyauGtnmVEC) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 5:58 | 2020-11-18 | 2022-07-29 |
@@ -85,7 +86,7 @@
 | [Nutshell](https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Jar Of Flies](https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc) | 4:19 | 2020-11-18 |  |
 | [Oceans](https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 2:41 | 2020-11-18 |  |
 | [Ophelia](https://open.spotify.com/track/54JfZxCEjNCwqicxTYsps1) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 5:10 | 2020-11-18 | 2022-11-13 |
-| [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 | 2020-11-18 |  |
+| [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 | 2020-11-18 | 2023-05-07 |
 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 | 2020-11-18 |  |
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2020-11-18 |  |
 | [Satisfied Mind \- Live at WFMU, East Orange, NJ \- Oct 1992](https://open.spotify.com/track/59J9tAbY39foKp478aUsWX) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk](https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL) | 5:57 | 2020-11-18 | 2022-07-29 |

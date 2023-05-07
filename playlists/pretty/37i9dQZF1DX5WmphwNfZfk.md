@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: K\. Forest
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,283 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,281 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [could've been](https://open.spotify.com/track/4ark9QtHieU5f50vDeQCFb) | [Tino Sutra](https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [could've been](https://open.spotify.com/album/5jbWku8SrgJi4mmPlIQkUO) | 3:23 |
 | 50 | [Good Person](https://open.spotify.com/track/0zokdflnTrx40zV8DqDtM8) | [DEAR\-GOD](https://open.spotify.com/artist/6Fnr4z4XxrLyioZquy1WhO) | [The Punchline](https://open.spotify.com/album/7Ac7Kxa6wHOAu0A67w9NCB) | 3:01 |
 
-Snapshot ID: `MCxkOTQ0MGVkYmI1Mjk2NjEyZWQ0MzljN2U5ODJhMGExMzBjOWY3YjNh`
+Snapshot ID: `MCwzMjY4YzFiMmYxYmYzNjAzYjJhY2Y5NmI4YjM0ODYxNGRlNDgyZjI5`

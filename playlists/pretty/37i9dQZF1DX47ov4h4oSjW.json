@@ -1,12 +1,12 @@
 {
   "description": "Music to help you concentrate during your homework.",
-  "num_followers": 104158,
+  "num_followers": 104154,
   "original_name": "Piano Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Nzc5NTdhODY5Zjg3NTFmYzBkNDcxOThiYjU0NjUzN2ZiYjBiMjUz",
+  "snapshot_id": "MCw0MmZlMjQzY2Q3N2EwMDdiMzQ1YzE4Yzc4NTRmYmU1YmZjMDA0NWVk",
   "tracks": [
     {
       "added_at": "2023-03-12 10:18:38",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Bienveillant",
-        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
-      },
-      "artists": [
-        {
-          "name": "Edie Chastain",
-          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
-        }
-      ],
-      "duration_ms": 117472,
-      "name": "Bienveillant",
-      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Ambrosia (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Om \u00e4n bara f\u00f6r en stund",
-        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
+        "name": "Bienveillant",
+        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
       "artists": [
         {
-          "name": "Maya \u00c5str\u00f6m",
-          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+          "name": "Edie Chastain",
+          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
         }
       ],
-      "duration_ms": 158591,
-      "name": "Om \u00e4n bara f\u00f6r en stund",
-      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
+      "duration_ms": 117472,
+      "name": "Bienveillant",
+      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -571,6 +555,22 @@
       "duration_ms": 227184,
       "name": "Ambre",
       "url": "https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Om \u00e4n bara f\u00f6r en stund",
+        "url": "https://open.spotify.com/album/0y3IpKT6DxokAORdIZEExH"
+      },
+      "artists": [
+        {
+          "name": "Maya \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+        }
+      ],
+      "duration_ms": 158591,
+      "name": "Om \u00e4n bara f\u00f6r en stund",
+      "url": "https://open.spotify.com/track/37aia1wG2Ncz8AWjM4tPlY"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Feels like home",
-        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
-      },
-      "artists": [
-        {
-          "name": "Temperance Lloyd",
-          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
-        }
-      ],
-      "duration_ms": 153902,
-      "name": "Feels like home",
-      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Fallboard",
         "url": "https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Feels like home",
+        "url": "https://open.spotify.com/album/5dzG0zwWuSsExLMB8DAnXz"
+      },
+      "artists": [
+        {
+          "name": "Temperance Lloyd",
+          "url": "https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq"
+        }
+      ],
+      "duration_ms": 153902,
+      "name": "Feels like home",
+      "url": "https://open.spotify.com/track/4KM5cQbSeD8xIqohdLkfgP"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Snow Kiss",
-        "url": "https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL"
       },
       "artists": [
         {
-          "name": "Freya R\u00e4\u00e4f",
-          "url": "https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj"
+          "name": "Errol Hayward",
+          "url": "https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx"
         }
       ],
-      "duration_ms": 116750,
-      "name": "Snow Kiss",
-      "url": "https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW"
+      "duration_ms": 137000,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL"
+        "name": "Snow Kiss",
+        "url": "https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T"
       },
       "artists": [
         {
-          "name": "Errol Hayward",
-          "url": "https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx"
+          "name": "Freya R\u00e4\u00e4f",
+          "url": "https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Heartbeat",
-      "url": "https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW"
+      "duration_ms": 116750,
+      "name": "Snow Kiss",
+      "url": "https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "/05",
-        "url": "https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 309066,
-      "name": "Amore",
-      "url": "https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Visionaire",
         "url": "https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 103000,
       "name": "Visionaire",
       "url": "https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "/05",
+        "url": "https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 309066,
+      "name": "Amore",
+      "url": "https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Mosel Reflections (Solo Piano Version)",
-        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
-      },
-      "artists": [
-        {
-          "name": "Nikolas Belalis",
-          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
-        }
-      ],
-      "duration_ms": 98993,
-      "name": "Mosel Reflections (Solo Piano Version)",
-      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Mosel Reflections (Solo Piano Version)",
+        "url": "https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi"
+      },
+      "artists": [
+        {
+          "name": "Nikolas Belalis",
+          "url": "https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M"
+        }
+      ],
+      "duration_ms": 98993,
+      "name": "Mosel Reflections (Solo Piano Version)",
+      "url": "https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Paragon",
-        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
-      },
-      "artists": [
-        {
-          "name": "Anton Lebedev",
-          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Paragon",
-      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
         "name": "Upraise",
         "url": "https://open.spotify.com/album/7CtSyctCEaXNdTv4ZxTGnz"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 147288,
       "name": "Upraise",
       "url": "https://open.spotify.com/track/0TbUBfDnRESf3Z41MajK2D"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Paragon",
+        "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
+      },
+      "artists": [
+        {
+          "name": "Anton Lebedev",
+          "url": "https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Paragon",
+      "url": "https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1467,6 +1467,22 @@
       "duration_ms": 147874,
       "name": "Eden",
       "url": "https://open.spotify.com/track/4jG0jO5ggIh1KLT1GKJeYo"
+    },
+    {
+      "added_at": "2023-03-12 10:18:38",
+      "album": {
+        "name": "Petals",
+        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+      },
+      "artists": [
+        {
+          "name": "Floriscope",
+          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+        }
+      ],
+      "duration_ms": 157979,
+      "name": "Petals",
+      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1519,18 +1535,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Petals",
-        "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
+        "name": "Airbourne",
+        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
       },
       "artists": [
         {
-          "name": "Floriscope",
-          "url": "https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw"
+          "name": "Eric Badanti",
+          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
         }
       ],
-      "duration_ms": 157979,
-      "name": "Petals",
-      "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+      "duration_ms": 238588,
+      "name": "Airbourne",
+      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1547,22 +1563,6 @@
       "duration_ms": 107500,
       "name": "Isonzo",
       "url": "https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn"
-    },
-    {
-      "added_at": "2023-03-12 10:18:38",
-      "album": {
-        "name": "Airbourne",
-        "url": "https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M"
-      },
-      "artists": [
-        {
-          "name": "Eric Badanti",
-          "url": "https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7"
-        }
-      ],
-      "duration_ms": 238588,
-      "name": "Airbourne",
-      "url": "https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Azure (Piano Version)",
-        "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
-        },
-        {
-          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
-          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
+          "name": "Geir Gudmundson",
+          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
         }
       ],
-      "duration_ms": 222129,
-      "name": "Azure - Piano Version",
-      "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
+      "duration_ms": 254500,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
     },
     {
       "added_at": "2023-03-12 10:18:38",
@@ -1635,18 +1631,22 @@
     {
       "added_at": "2023-03-12 10:18:38",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45"
+        "name": "Azure (Piano Version)",
+        "url": "https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5"
       },
       "artists": [
         {
-          "name": "Geir Gudmundson",
-          "url": "https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5"
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        },
+        {
+          "name": "B\u00fc\u015fra Kay\u0131k\u00e7\u0131",
+          "url": "https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E"
         }
       ],
-      "duration_ms": 254500,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B"
+      "duration_ms": 222129,
+      "name": "Azure - Piano Version",
+      "url": "https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA"
     }
   ],
   "unique_name": "Piano Study",

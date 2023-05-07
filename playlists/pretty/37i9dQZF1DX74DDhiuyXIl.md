@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,567 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,594 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 24 | [NUNA](https://open.spotify.com/track/6L5ImrjJJKVYJQzjpARPXj) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [NUNA](https://open.spotify.com/album/3q988MNRDhIto8xDT7ireC) | 3:42 |
 | 25 | [不知所措](https://open.spotify.com/track/4ERSDI1qhHh32UgT9Ycs4E) | [王靖雯](https://open.spotify.com/artist/4lQ2LwNj8DlXSM3UntsbGc) | [不知所措](https://open.spotify.com/album/479WNH0n8X37fl0332sDPk) | 4:08 |
 | 26 | [丢了你](https://open.spotify.com/track/1gIAq5bVQhn71cYmX9r22f) | [井胧](https://open.spotify.com/artist/7vUl41Mg2BGkAWQcK6ptJ2) | [丢了你](https://open.spotify.com/album/1bjAIaCl5ZubV2nErI6zLb) | 4:37 |
-| 27 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 |
+| 27 | [时光洪流](https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [时光洪流](https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz) | 4:11 |
 | 28 | [說了再見](https://open.spotify.com/track/2jlT98PnJTq5uwo8AdTpa7) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [跨時代](https://open.spotify.com/album/4cj9Li1HSSvRGEXsDU46dS) | 4:40 |
-| 29 | [时光洪流](https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [时光洪流](https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz) | 4:11 |
+| 29 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 |
 | 30 | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 |
 | 31 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
 | 32 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74DDhiuyXIl.md) - [plain]
 | 66 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 |
 | 67 | [最後一次](https://open.spotify.com/track/11W5Rb3oJgdsjVjbSIRYA9) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [最後一次](https://open.spotify.com/album/1Kk3DZ5m4U8hyswoyvnaJo) | 4:19 |
 | 68 | [一定會](https://open.spotify.com/track/2wl5Jlf09WAV7LIVUNK594) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [一定會](https://open.spotify.com/album/4SkvbVaPeZmASoDDvFnsrO) | 3:27 |
-| 69 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 |
+| 69 | [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 |
 | 70 | [諷刺的情書](https://open.spotify.com/track/77OJPbm053M9LA5Pqs2yOZ) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:18 |
-| 71 | [hard to let you go](https://open.spotify.com/track/3QzvC0v07VV76tZ8SoIUce) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [hard to let you go](https://open.spotify.com/album/7jvNKoYPvnHVF1dVM7l7m2) | 4:40 |
-| 72 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 |
-| 73 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
-| 74 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 |
-| 75 | [Hold Me Tight](https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [Dena](https://open.spotify.com/artist/7oBIFoqEP2zwnJa2HL6h0l) | [Hold Me Tight](https://open.spotify.com/album/72vVTzqoBOdbJDkZZmVmgd) | 4:06 |
+| 71 | [不搖滾](https://open.spotify.com/track/1ZgxIcqFpdHYIF7pjHe1Yc) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [\[ 人生就是用來XX的 \] 2021 線上生日趴 \(Live Session\)](https://open.spotify.com/album/2wsteom79gJHf9C6EAZ7df) | 4:51 |
+| 72 | [別再想見我](https://open.spotify.com/track/7xv1df9mhiy8JyPvaUW61f) | [許光漢](https://open.spotify.com/artist/3hhUgkTf3fFYGogFMbV5Wv) | [別再想見我](https://open.spotify.com/album/0wH1j5vCOautchAN4S6DbX) | 4:30 |
+| 73 | [鲸落海底](https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p) | [Xian Zi](https://open.spotify.com/artist/2CBuGdj5Nmgx1VfrgLnGoJ) | [鲸落海底](https://open.spotify.com/album/7dHNvUWY9c3nix7Stp8zMy) | 4:43 |
+| 74 | [最初的愛\(《天賜的聲音第四季》綜藝主題曲\)](https://open.spotify.com/track/1WKLkc1V1GFq03COtx6UYQ) | [Jane Zhang](https://open.spotify.com/artist/7qJmFr579WC8MMGj4PiWdu) | [最初的愛](https://open.spotify.com/album/7vLDbcdGFaf9epzLD5EtKY) | 4:11 |
+| 75 | [心愿](https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [心愿](https://open.spotify.com/album/5FPSPR3NOTVkZFsT0frnaZ) | 4:20 |
 
-Snapshot ID: `MCw5NjFiYmNjMWIwZTU5YzkxOTNiNTBmM2JhOWQzYTcyNzJmNmE4OGU0`
+Snapshot ID: `MCw4ZWZjNmU3NGU3MzNmZGM5YzhmZTY2ZWFjMjdhN2JkZmVhMDMxODFk`

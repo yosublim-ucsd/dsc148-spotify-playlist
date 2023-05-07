@@ -4,7 +4,7 @@
 
 > Unwind to these easy classics from the 2010s...
 
-179 songs - 11 hr 18 min
+180 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Beneath Your Beautiful](https://open.spotify.com/track/3yQDBWaritvVf0Ir67xBhY) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 4:33 | 2020-07-08 | 2022-07-29 |
 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 4:31 | 2020-07-08 | 2022-11-13 |
 | [Best Thing I Never Had](https://open.spotify.com/track/3lBRNqXjPp2j3JMTCXDTNO) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:13 | 2020-07-08 | 2022-11-13 |
-| [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 | 2020-07-08 | 2023-04-25 |
+| [Billionaire \(feat\. Bruno Mars\)](https://open.spotify.com/track/2qPUnoasNe4Ep43emVXEig) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Lazarus](https://open.spotify.com/album/7kOivwbxDlUcVa4dCBCsWg) | 3:31 | 2020-07-08 |  |
 | [Black Heart](https://open.spotify.com/track/65zHbOqYlbJqbmHmCe5SXd) | [Stooshe](https://open.spotify.com/artist/6RDAHUqUqJab8TZmyRHFss) | [London With The Lights On](https://open.spotify.com/album/4ixIeLdjKVnbEJa164XHgs) | 3:27 | 2020-07-08 | 2022-07-29 |
 | [Bonfire Heart](https://open.spotify.com/track/13ETkZ90sElK5xJuB4cUEt) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing \(Deluxe Edition\)](https://open.spotify.com/album/7jhq3af9OdntUnKuNxbVfG) | 3:58 | 2020-07-08 | 2022-07-28 |
 | [Brother](https://open.spotify.com/track/65gLJGey4u4KFFqoC5fzFJ) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Politics of Living](https://open.spotify.com/album/1ITjhViDumL9llxAJYdKiC) | 3:23 | 2020-07-08 |  |
@@ -38,7 +38,8 @@
 | [Cannonball](https://open.spotify.com/track/07ojMjg6XfBNSUdzkOAn7Z) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Cannonball](https://open.spotify.com/album/0vygfBF6hrOjX1lQYUiCMh) | 3:25 | 2020-07-08 | 2022-07-29 |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2020-07-08 | 2022-11-13 |
 | [Clown](https://open.spotify.com/track/0tRbE57ldKxtHep2R9KQZF) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 3:41 | 2020-07-08 | 2022-07-29 |
-| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2020-07-08 |  |
+| [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2020-07-08 |  |
+| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2020-07-08 | 2023-05-07 |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2020-07-08 |  |
 | [Dear Darlin'](https://open.spotify.com/track/5g0SOitu6ahtBTMZyRF8kY) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [Right Place Right Time \(Deluxe Edition\)](https://open.spotify.com/album/5YuKH357hs4ZnnzjGf2zcr) | 3:26 | 2020-07-08 | 2022-07-25 |
 | [Dog Days Are Over](https://open.spotify.com/track/6dux5viG3Ku3IefPx3gFNT) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Between Two Lungs](https://open.spotify.com/album/1iA9sq6Ldnw1HP1YXpa8jh) | 4:12 | 2020-07-08 | 2022-07-27 |
@@ -103,7 +104,7 @@
 | [Mercy](https://open.spotify.com/track/4lYTkvMkcNRj9uoSr8Zpws) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy](https://open.spotify.com/album/5k3xD5FmMQjKuqJgK4Qk4k) | 3:28 | 2020-07-08 | 2022-07-24 |
 | [Need You Now](https://open.spotify.com/track/7h70RTLbnhDyPGXjl3iEhh) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/4oT0DxRmc0jr7DCKultQqh) | 3:56 | 2020-07-08 | 2022-07-29 |
 | [Next To Me](https://open.spotify.com/track/2C5l2dK6ep2JRgQ9UenCBs) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Our Version Of Events \(Special Edition\)](https://open.spotify.com/album/2Z58ts5QbxC3UZxukFC0Fe) | 3:16 | 2020-07-08 | 2022-07-29 |
-| [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 | 2020-07-08 |  |
+| [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 | 2020-07-08 | 2023-05-07 |
 | [One Dance](https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 2:53 | 2020-07-08 |  |
 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 | 2020-07-08 | 2022-05-20 |
 | [Paradise](https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:38 | 2020-07-08 |  |

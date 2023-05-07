@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Bring Me The Horizon along with today's Rock songs you need to hear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,783,553 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,784,132 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 12 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 |
 | 13 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 14 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 |
-| 15 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 15 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 16 | [Half My Heart](https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:44 |
 | 17 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
 | 18 | [Crying In The Shower](https://open.spotify.com/track/30TqgnUsww4JzR2V8Ert9b) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Crying In The Shower](https://open.spotify.com/album/2gQEgoc2pUE6UwsUmWvQUk) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 |
 | 50 | [Six Feet Under](https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Six Feet Under](https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F) | 3:11 |
 
-Snapshot ID: `MCw2YTNmOTZkOTBlYzI3ZWVkMTdhMTAzMTRhMmVlMzgzYTEyMGZhMDJk`
+Snapshot ID: `MCw0YTcyZTJkNGI1OTM2MWFiNWZhMzYxMDAzMTU0ZWEzN2MzMTZmOWM0`

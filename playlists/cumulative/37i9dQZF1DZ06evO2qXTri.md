@@ -4,12 +4,13 @@
 
 > This is Kirk Franklin\. The essential tracks, all in one playlist.
 
-72 songs - 6 hr 4 min
+73 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 | 2022-09-14 |  |
 | [A God Like You](https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 6:18 | 2022-09-14 |  |
+| [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-05-06 |  |
 | [Always](https://open.spotify.com/track/0lJrL2qMu7MJqzwxtn0RGi) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 6:44 | 2022-09-14 | 2022-10-11 |
 | [Before I Die](https://open.spotify.com/track/7m2iK1UP3anMfXwP3Oc5gF) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 4:23 | 2022-09-15 | 2022-10-13 |
 | [Better](https://open.spotify.com/track/5w1XUDAVEeWIP669p3e48X) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Hero](https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m) | 4:00 | 2022-09-14 | 2022-10-13 |

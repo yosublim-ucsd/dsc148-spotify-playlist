@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 
 > This is Charlie Monttana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,302 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,303 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3HRG4F.md) - [plain]
 | 49 | [Empanízame la Mojarra](https://open.spotify.com/track/0Si0jP8VqfXivdvhnQG6A2) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Pares y Duetos: Disco 1](https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV) | 3:25 |
 | 50 | [Protégeme](https://open.spotify.com/track/6bD1GkpSae9gcBmCIsWZ8F) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Decreto por el Regreso de los Buenos Tiempos](https://open.spotify.com/album/1Zz2lh2JImZz2X82aQ3iMV) | 5:09 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA1MjJiNjk4ZjkzNDA2NDc4MjMwN2I3MWYyMmZjZTQ1Mg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAxN2Y1MGIzNmNkZjk4MThmZDMwYTUyNzExYTk1MzZkNw==`

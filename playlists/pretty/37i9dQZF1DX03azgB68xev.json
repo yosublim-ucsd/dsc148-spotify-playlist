@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: Blessing Offor",
-  "num_followers": 197976,
+  "num_followers": 198029,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzI1ZmU1YWI5NDc1ZWYxYTQ5YjY0OTY0ZDEyMDU1M2Y4OWRkMjU4",
+  "snapshot_id": "MCxjMGMxMjBmNjc2MmRiZTU1YjdkNTIwMzBlYTM5MTZmYmI4NTI1NmU1",
   "tracks": [
     {
       "added_at": "2023-01-13 21:46:56",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Hills & Horizons",
-        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 212186,
-      "name": "Hills & Horizons",
-      "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Good Feeling (Radio Version)",
         "url": "https://open.spotify.com/album/3kT4i3tkyT8FmcuAYUPJjJ"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 161583,
       "name": "Good Feeling - Radio Version",
       "url": "https://open.spotify.com/track/7L3dULJxns4VDBBgItRVR6"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Hills & Horizons",
+        "url": "https://open.spotify.com/album/6kxY4y9rGrWpnhofahze9h"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "duration_ms": 212186,
+      "name": "Hills & Horizons",
+      "url": "https://open.spotify.com/track/2V4l1eFzP7imN2HrWmDHxy"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
         }
       ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 193007,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "God Help Me",
-        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Where To Find Me",
-        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
-      },
-      "artists": [
-        {
-          "name": "Jet Trouble",
-          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
-        }
-      ],
-      "duration_ms": 138846,
-      "name": "Where To Find Me",
-      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "God Help Me",
         "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 157617,
       "name": "Love Is Everything We Need",
       "url": "https://open.spotify.com/track/5SCLsSvlwGeZuZTqma0SdQ"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Where To Find Me",
+        "url": "https://open.spotify.com/album/5QVDdRmn9AEfo8z1ZD8vrb"
+      },
+      "artists": [
+        {
+          "name": "Jet Trouble",
+          "url": "https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9"
+        }
+      ],
+      "duration_ms": 138846,
+      "name": "Where To Find Me",
+      "url": "https://open.spotify.com/track/5CxUClSpwnM0bu7CnBky2k"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
-        "name": "Searching For",
-        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
-      },
-      "artists": [
-        {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
-        }
-      ],
-      "duration_ms": 255118,
-      "name": "Searching For",
-      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
         "name": "Say It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 196161,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
+        "name": "Searching For",
+        "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
+      },
+      "artists": [
+        {
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+        }
+      ],
+      "duration_ms": 255118,
+      "name": "Searching For",
+      "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Kyrie Eleison (It's Mercy We Need)",
         "url": "https://open.spotify.com/album/2mB4e81cL77ixkv9EJqFMF"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 261239,
       "name": "Kyrie Eleison (It's Mercy We Need)",
       "url": "https://open.spotify.com/track/39Zb3y5PrBJuVRwRw6zNIl"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
-      },
-      "artists": [
-        {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
     },
     {
       "added_at": "2023-01-13 21:46:56",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-01-13 21:46:56",
       "album": {
+        "name": "I Will Follow You (Live)",
+        "url": "https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 231123,
+      "name": "I Will Follow You - Live",
+      "url": "https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66"
+    },
+    {
+      "added_at": "2023-01-13 21:46:56",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/6R7tN4CtRnRVZmuuZy7Hug"
       },
@@ -1391,30 +1407,6 @@
       "duration_ms": 209429,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2XjWDTKZre8BFPDcCVKtk2"
-    },
-    {
-      "added_at": "2023-01-13 21:46:56",
-      "album": {
-        "name": "Fake It",
-        "url": "https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        }
-      ],
-      "duration_ms": 137990,
-      "name": "Fake It - Warehouse Mix",
-      "url": "https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS"
     }
   ],
   "unique_name": "Pop for Life",

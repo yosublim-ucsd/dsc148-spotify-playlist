@@ -5536,10 +5536,28 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 188737,
       "name": "Reset",
       "url": "https://open.spotify.com/track/0Q6jkBbLRzXz4KbsV5UNR3"
+    },
+    {
+      "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/1TTBkJTbLUBKE8JgKf1Weh"
+      },
+      "artists": [
+        {
+          "name": "Jay Moore",
+          "url": "https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/1jTwBWxpS7qBJCRLjBbzQb"
     },
     {
       "album": {

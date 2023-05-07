@@ -1,12 +1,12 @@
 {
   "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
-  "num_followers": 5424,
+  "num_followers": 5444,
   "original_name": "White Waves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjAyNTIzZGIxYTgzNDVkMTljNzgwNTk0NDhjNDI4OGUyZGQ4MTM2",
+  "snapshot_id": "MCw2ZTlhNWE4NjVkZjljNzZiYzhkYzg4NTFmNzhhNWFkZDFmYWFiZjEw",
   "tracks": [
     {
       "added_at": "2023-02-15 09:06:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Relaxation Makers",
-        "url": "https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl"
-      },
-      "artists": [
-        {
-          "name": "Relaxation Makers",
-          "url": "https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF"
-        }
-      ],
-      "duration_ms": 237591,
-      "name": "Sea Waves",
-      "url": "https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ"
-    },
-    {
-      "added_at": "2023-02-15 09:06:08",
-      "album": {
         "name": "More waves From Scandinavia",
         "url": "https://open.spotify.com/album/6VSjNdgSi4EPpJF4aHIdGB"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 173808,
       "name": "Waves Loopable",
       "url": "https://open.spotify.com/track/1MEZXgooG2c5g84uaRbIn6"
+    },
+    {
+      "added_at": "2023-02-15 09:06:08",
+      "album": {
+        "name": "Relaxation Makers",
+        "url": "https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Makers",
+          "url": "https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF"
+        }
+      ],
+      "duration_ms": 237591,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Calm Waves",
-        "url": "https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM"
+        "name": "Moments Of Waves",
+        "url": "https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d"
       },
       "artists": [
         {
-          "name": "Outside HD Samples",
-          "url": "https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ"
+          "name": "KPR Sounds",
+          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
         }
       ],
-      "duration_ms": 138762,
-      "name": "Calm Waves pt. 3",
-      "url": "https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh"
+      "duration_ms": 171959,
+      "name": "Still Thoughts And Wave Sounds",
+      "url": "https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "Moments Of Waves",
-        "url": "https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d"
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM"
       },
       "artists": [
         {
-          "name": "KPR Sounds",
-          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
+          "name": "Outside HD Samples",
+          "url": "https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ"
         }
       ],
-      "duration_ms": 171959,
-      "name": "Still Thoughts And Wave Sounds",
-      "url": "https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL"
+      "duration_ms": 138762,
+      "name": "Calm Waves pt. 3",
+      "url": "https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh"
     },
     {
       "added_at": "2023-02-15 09:06:08",
@@ -939,8 +939,8 @@
     {
       "added_at": "2023-02-15 09:06:08",
       "album": {
-        "name": "The Vast Sea",
-        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+        "name": "Oceanside Waves & Outer Channel Waves",
+        "url": "https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Sleepy Rolling Depths (Ocean)",
-      "url": "https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh"
+      "duration_ms": 244000,
+      "name": "Oceanside Waves",
+      "url": "https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch"
     },
     {
       "added_at": "2023-02-15 09:06:08",

@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-243 songs - 14 hr 41 min
+244 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bend The Rules \- Full Crate Remix](https://open.spotify.com/track/2ypbQkN9QmWNMRZ0ioNQpu) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Bend The Rules \(Full Crate Remix\)](https://open.spotify.com/album/6cqm4baMze3aMs3skx9u6r) | 2:56 | 2022-09-09 |  |
 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 | 2022-09-09 |  |
 | [Body & Soul \(feat\. Biig Piig\)](https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:30 | 2022-09-09 | 2022-10-15 |
-| [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-09-09 |  |
+| [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-09-09 | 2023-05-07 |
+| [Bounce](https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:52 | 2023-04-20 |  |
 | [Brave](https://open.spotify.com/track/6AQygTQqLS5uKpXqiM6dRG) | [Anushka](https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody) | [Yemaya](https://open.spotify.com/album/3Ezpz7KzzZVcTeapT5oSww) | 2:36 | 2022-09-09 | 2022-09-16 |
 | [Breeze \- Remix](https://open.spotify.com/track/2orDjs0U3dgK0anh6M7QAd) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8), [Bora](https://open.spotify.com/artist/5jedSTtBRn1JoOsIop4A6t) | [Breeze \(Remix\)](https://open.spotify.com/album/7K9N5hcPwPmEjhYZHhqA45) | 2:43 | 2022-09-09 |  |
 | [But, I'm Tied](https://open.spotify.com/track/416qwFAr8F4MJ7PzEJB1xy) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [But, I'm Tied](https://open.spotify.com/album/5OJiEIOVS1vJiLDW7oRpvo) | 2:30 | 2022-09-09 |  |

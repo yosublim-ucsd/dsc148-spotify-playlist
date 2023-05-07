@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 > This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,343 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,375 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Juan Marta](https://open.spotify.com/track/6JljTeuO2CI8J8Ou0QaUx9) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [La Golosa](https://open.spotify.com/album/3TjccwMpSvm064wsjxbTzT) | 3:31 |
 | 50 | [La Loba del Mal](https://open.spotify.com/track/6y8xUOHC3g0C8ZWYeJKPOV) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [En Tus Manos](https://open.spotify.com/album/4kN3maXuYFvA8aQKIS4GyD) | 3:38 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA0OTM5MjQxMjI3ZjI5NzQ5YTY2MzVhODYyZTgwZTdlNg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBiNTRiYjg1ZGIwNzNiMDZmMDczMjRjZjViZThkYTBlMQ==`

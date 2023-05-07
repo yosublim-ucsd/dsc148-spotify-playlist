@@ -4,7 +4,7 @@
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-207 songs - 13 hr 25 min
+208 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 | 2022-08-18 |  |
 | [Back to Autumn](https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:19 | 2022-08-18 |  |
 | [Bees](https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 3:10 | 2022-08-18 |  |
+| [Between the Bars](https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy) | 2:21 | 2023-05-05 |  |
 | [Between the Bars](https://open.spotify.com/track/3mtIUX9LrCpIUiAAv9SD4a) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:21 | 2022-08-18 | 2023-04-29 |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2022-08-18 |  |
 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 | 2022-08-18 | 2022-11-13 |
@@ -66,7 +67,7 @@
 | [Fortune \- Acoustic](https://open.spotify.com/track/2M1bgJpUPjfKhHLIIfzGtX) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/7ISQ9CXK8dZBLzZgfQp8si) | 3:48 | 2022-08-18 |  |
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2022-08-18 |  |
 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 | 2022-08-18 |  |
-| [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 | 2022-08-18 |  |
+| [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 | 2022-08-18 | 2023-05-07 |
 | [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 | 2022-10-27 |  |
 | [Grapevine](https://open.spotify.com/track/6soZDxnM2sZ2FiBwGNRIfw) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Grapevine](https://open.spotify.com/album/43MlFOqkx9uwvXTppU2t1v) | 5:25 | 2022-10-28 | 2022-11-23 |
 | [Hard Sun](https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 5:22 | 2022-08-18 |  |

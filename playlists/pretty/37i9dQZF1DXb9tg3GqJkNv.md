@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,920 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,052 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 35 | [Canada Goose](https://open.spotify.com/track/0c473vwMZxxXcdhHay62PN) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Canada Goose](https://open.spotify.com/album/4x2T0CZ0uxbA3Z6hL1Vq14) | 3:55 |
 | 36 | [Bionic Man](https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS) | [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Bionic Man](https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd) | 3:12 |
 | 37 | [MUST BE](https://open.spotify.com/track/0lO5zEKJ60lvz8X192p3WK) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:25 |
-| 38 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
-| 39 | [Come Outside](https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby) | 3:18 |
+| 38 | [Come Outside](https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf) | [K Money](https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6) | [Come Outside](https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby) | 3:18 |
+| 39 | [Griselda Blanco](https://open.spotify.com/track/5TuREdxaWbjceZbX1945f8) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [TwoTwo](https://open.spotify.com/artist/3H6Mld9y4gFvW3LDEJUUoQ) | [Griselda Blanco](https://open.spotify.com/album/17LK6OSJ1oVihjzSHYIiMj) | 3:27 |
 | 40 | [Late Nights](https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:48 |
 | 41 | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/track/5RmUd1skWw9kMFlxPgfcYW) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Window Shopping \(feat\. Lil Baby\)](https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J) | 2:40 |
 | 42 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 70 | [JUNGLE](https://open.spotify.com/track/2XHUkLHYKnkBzV4xppzeOx) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:34 |
 | 71 | [Don't Dance](https://open.spotify.com/track/5pPjRodJAYNwVXSRekq40W) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc) | [Don't Dance](https://open.spotify.com/album/20cF35OrxFwHvEnnJqvWCX) | 3:17 |
 | 72 | [No Favours](https://open.spotify.com/track/2eTCpNzqUkZB6hsHE2hdki) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:41 |
-| 73 | [Frontin' Like Pharrell](https://open.spotify.com/track/2evdaJj8y2xdWuCTBroDqw) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [2020 the Album](https://open.spotify.com/album/4DvUwAekSAB7Uo1ue07Kmp) | 2:54 |
+| 73 | [One of Mines](https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 4:27 |
 | 74 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
-| 75 | [One of Mines](https://open.spotify.com/track/3qjhYfvWfNC6SgvDfAm9oO) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 4:27 |
+| 75 | [Frontin' Like Pharrell](https://open.spotify.com/track/2evdaJj8y2xdWuCTBroDqw) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [2020 the Album](https://open.spotify.com/album/4DvUwAekSAB7Uo1ue07Kmp) | 2:54 |
 
-Snapshot ID: `MCxlYmQ3M2U1NmIxNjNiMzg1MzcxMTIyMzg0MDk3MGU1MmQ2YjAyN2Jk`
+Snapshot ID: `MCwyNDQ4ODUxOGVjOTllZTgwN2ViOGQzN2ViZmUzYTc2ZGIxYTBhODU4`

@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 303155,
+  "num_followers": 303294,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDQ1NDcxYzlhMmZlZmYyZjRiYWRjOWNmZTJmNGRjYWY2NzYyNDdk",
+  "snapshot_id": "MCw2ZDkzOGI3NTlkNGMyZjliNmM3NTMxNjk2ZjM2MGRhNzEwNmMwNGY5",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -847,6 +847,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Rendezvous (with Miraa May)",
+        "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
+      },
+      "artists": [
+        {
+          "name": "Col3trane",
+          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "duration_ms": 150783,
+      "name": "Rendezvous (with Miraa May)",
+      "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Rendezvous (with Miraa May)",
-        "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
-      },
-      "artists": [
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        },
-        {
-          "name": "Miraa May",
-          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
-        }
-      ],
-      "duration_ms": 150783,
-      "name": "Rendezvous (with Miraa May)",
-      "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Small Moments",
-        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
-      },
-      "artists": [
-        {
-          "name": "Dan Kye",
-          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
-        }
-      ],
-      "duration_ms": 315608,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 250920,
       "name": "Even If It Hurts (feat. Blood Orange)",
       "url": "https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 315608,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Pleasure (Now & Forever)",
-        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
-      },
-      "artists": [
-        {
-          "name": "Buddy Love",
-          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Boy Blue",
-      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Hot In Herre",
         "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Pleasure (Now & Forever)",
+        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
+      },
+      "artists": [
+        {
+          "name": "Buddy Love",
+          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Boy Blue",
+      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Fourth Wall",
-        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
-      },
-      "artists": [
-        {
-          "name": "Harvey Causon",
-          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
-        }
-      ],
-      "duration_ms": 245123,
-      "name": "Half Hour Verve",
-      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Summer Lovin'",
         "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Fourth Wall",
+        "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
+      },
+      "artists": [
+        {
+          "name": "Harvey Causon",
+          "url": "https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d"
+        }
+      ],
+      "duration_ms": 245123,
+      "name": "Half Hour Verve",
+      "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
     },
     {
       "added_at": "2022-06-20 14:19:42",

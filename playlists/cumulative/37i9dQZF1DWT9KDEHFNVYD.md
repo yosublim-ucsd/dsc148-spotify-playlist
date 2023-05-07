@@ -4,7 +4,7 @@
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.
 
-331 songs - 1 day 6 hr 40 min
+332 songs - 1 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Hero](https://open.spotify.com/track/3MBImoJoOnqCyzW3L4WKfK) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! 75](https://open.spotify.com/album/5WvkGu24ipDKjOFzlXsDIy) | 7:11 | 2021-07-30 | 2023-02-03 |
 | [Hero](https://open.spotify.com/track/6tQvfblsmRCrZXx7xhDCqT) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [Neu! Digital Box](https://open.spotify.com/album/7HRlqkxth9vE0F35S6JGvM) | 7:11 | 2021-07-30 | 2022-07-29 |
 | [Hero](https://open.spotify.com/track/4I6yqyOzRr3gI0yjVfYVBq) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/7B9AA0Yw2rGbOVZ2ExZjE2) | 7:11 | 2021-07-30 | 2023-04-29 |
+| [Hero](https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc) | [NEU!](https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf) | [NEU! 75](https://open.spotify.com/album/5IfMU7lyImyEwhNEsGSV9l) | 7:11 | 2021-07-30 |  |
 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 | 2021-07-30 | 2023-01-26 |
 | [Hogar sin sueño](https://open.spotify.com/track/7cHDpA7nNmD0wrk3KG51pE) | [Escuela de Aviación](https://open.spotify.com/artist/2aLFaSGBmtMdrNmbeYmyXN) | [\#1](https://open.spotify.com/album/7HDJJWfuhMj1f21CjvbIs7) | 3:46 | 2022-04-12 | 2023-01-26 |
 | [Hold My Plasticine Hands Tight!](https://open.spotify.com/track/06hN3pKc5hfsaOWed8HEJg) | [Estrada Orchestra](https://open.spotify.com/artist/6aDM7GAJ6nCLmFg5hyLo6T) | [Zucker Tanzclub](https://open.spotify.com/album/3YZNYB5gGZQeTHcvr4mG3h) | 5:16 | 2021-07-30 | 2023-01-26 |
@@ -329,7 +330,7 @@
 | [When \[Original by Vincent Gallo\]](https://open.spotify.com/track/34pHPFko6ozvZc9pTmhxk8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Warp20 \(Recreated\)](https://open.spotify.com/album/7qL8Nysleo7WsXsSaTh1Pf) | 3:33 | 2021-07-30 | 2023-01-26 |
 | [Wow And Flutter](https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet](https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4) | 3:08 | 2021-07-30 |  |
 | [Wow And Flutter](https://open.spotify.com/track/2IGX5DCaaPbfJ4ZsIJbsNU) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Mars Audiac Quintet \(Expanded Edition\)](https://open.spotify.com/album/4jqRIRi6aTObueLwb2DaVp) | 3:10 | 2021-07-30 | 2023-02-12 |
-| [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 | 2021-07-30 |  |
+| [Yatton](https://open.spotify.com/track/36yxfd27ta5REBlKPdkXPh) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/3IqkjByYoQX04iFT1Z2Jn7) | 5:19 | 2021-07-30 | 2023-05-07 |
 | [Yatton](https://open.spotify.com/track/4hJ2xsk7ZxwzXnE6xG7HNc) | [Beak>](https://open.spotify.com/artist/5MGxwE9JG5IA6uqswrgNL6) | [>>](https://open.spotify.com/album/19YlMqnryuKS17RYZ23jvm) | 5:19 | 2021-07-30 | 2022-07-29 |
 | [Yaya](https://open.spotify.com/track/6cy5LOfwc1QpePCqc57hd0) | [Sam Wave](https://open.spotify.com/artist/3k1f8dYJ88kt4aTPMb2hLj) | [Yaya](https://open.spotify.com/album/17M7xCoG5snzUFfZwltiXH) | 4:11 | 2021-07-30 | 2023-01-26 |
 | [You Look Certain \(I’m Not So Sure\)](https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Andrea Balency](https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 3:22 | 2021-07-30 |  |

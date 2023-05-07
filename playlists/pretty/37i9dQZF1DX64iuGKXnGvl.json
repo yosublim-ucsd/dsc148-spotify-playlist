@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 80. ",
-  "num_followers": 70945,
+  "num_followers": 71143,
   "original_name": "Pop Latino: Los 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTdmMmE1ZWM4OTQwZDkwNWVmNWIzZGI5NTBiNzNiOWQxNmZkNGVm",
+  "snapshot_id": "MCw1OTAxN2UzYzA0NDQ1ZDdkYjZmMWZiZWU1YWFmOWNiMDljY2JlMzI4",
   "tracks": [
     {
       "added_at": "2022-03-29 19:14:26",
@@ -139,18 +139,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+        "name": "El Sonido Vol. 1",
+        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Amanda Miguel",
+          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
         }
       ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+      "duration_ms": 221626,
+      "name": "\u00c9l Me Minti\u00f3",
+      "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "El Sonido Vol. 1",
-        "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
       "artists": [
         {
-          "name": "Amanda Miguel",
-          "url": "https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 221626,
-      "name": "\u00c9l Me Minti\u00f3",
-      "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2022-03-29 19:14:26",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-29 19:14:26",
       "album": {
-        "name": "Sasha",
-        "url": "https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh"
-      },
-      "artists": [
-        {
-          "name": "Sasha",
-          "url": "https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Rueda Mi Mente",
-      "url": "https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG"
-    },
-    {
-      "added_at": "2022-03-29 19:14:26",
-      "album": {
         "name": "Serie 3X4 (Yuri, Pandora, Daniela Roma)",
         "url": "https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 183946,
       "name": "Qu\u00e9 Te Pasa",
       "url": "https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB"
+    },
+    {
+      "added_at": "2022-03-29 19:14:26",
+      "album": {
+        "name": "Sasha",
+        "url": "https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Rueda Mi Mente",
+      "url": "https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG"
     },
     {
       "added_at": "2022-03-29 19:14:26",

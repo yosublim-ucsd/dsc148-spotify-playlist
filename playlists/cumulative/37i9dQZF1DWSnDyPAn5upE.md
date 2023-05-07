@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-149 songs - 11 hr 33 min
+150 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 | 2022-07-01 | 2023-04-30 |
 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 | 2022-05-18 |  |
 | [ahead](https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [ahead](https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ) | 2:04 | 2022-11-11 |  |
+| [alive & well \(gratitude mantra\)](https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [alive & well \(gratitude mantra\)](https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI) | 10:34 | 2023-05-05 |  |
 | [All Things Devour \- Botany Remix](https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO), [Botany](https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81) | [All Things Devour \(Botany Remix\)](https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70) | 5:26 | 2022-05-18 |  |
 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 | 2022-05-18 |  |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-09-07 |  |
@@ -105,7 +106,7 @@
 | [nine\-sum sorcery A](https://open.spotify.com/track/6yn5KVRcL1miUzXnysQJc2) | [LABOUR](https://open.spotify.com/artist/7JKGENPLlNWqBwV1pKQA8v), [Hani Mojtahedy](https://open.spotify.com/artist/4u6WezeJnoWI28umFSAU1M) | [nine\-sum sorcery](https://open.spotify.com/album/34qMEi2AKlTcYHIDLX5KQ4) | 14:21 | 2022-05-18 | 2023-03-04 |
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-10-10 |  |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-05 | 2022-10-21 |
-| [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 |  |
+| [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 | 2022-12-02 | 2023-05-07 |
 | [O Ignee Spriritus](https://open.spotify.com/track/4tM3MKcPRKp6lzni47Td61) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:26 | 2022-05-18 | 2023-04-14 |
 | [Ocean](https://open.spotify.com/track/6ZacLLHoOCwFun1fTXrQFG) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/3H7S86kkmy5zKqw7DTmULR) | 4:28 | 2022-12-02 | 2023-01-29 |
 | [Ode to the blue](https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Ode to the blue](https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO) | 2:53 | 2022-05-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,663 likes - 109 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,665 likes - 109 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 108 | [你是我的歌 \- 《不二兄弟》電影主題曲](https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [你是我的歌 \(《不二兄弟》電影主題曲\)](https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW) | 3:37 |
 | 109 | [最美的地方](https://open.spotify.com/track/4NFWjLRDqcCdOGmMRg4hmL) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [最美的地方](https://open.spotify.com/album/6KWYn8amTApFMCwpuABBF5) | 3:58 |
 
-Snapshot ID: `MCxmYjc0OGI5ODczMWY3Mzg5YmNiZmFiNjIyYTQ5MTg1NjI4NzIxYjM2`
+Snapshot ID: `MCxiMWYyN2ZlZjI5NTExMWY4YTgyMDMwNDZlOGE0ODJhYzI4ZDhiNjlm`

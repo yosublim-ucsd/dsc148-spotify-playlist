@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > Écoute en boucle les hits tunisiens du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,138 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,227 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Galbi](https://open.spotify.com/track/0pD4zoFSCXvBkqka5j4qew) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Galbi](https://open.spotify.com/album/3LLJ8bmI6YrK73g6RhHEPK) | 5:22 |
-| 2 | [EL Barra \- البرّا](https://open.spotify.com/track/6IYi94UJsMphrh9dm88LA3) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [EL Barra \(البرّا\)](https://open.spotify.com/album/0yFDbPZaNQGaxrklitEBdo) | 3:24 |
-| 3 | [Khallini](https://open.spotify.com/track/0gJcpURgVWr1p0dCk5Si5i) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/11s7SEvvNazLRiehoHaI3p) | 3:03 |
-| 4 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 |
-| 5 | [One Love](https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [One Love](https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY) | 3:10 |
+| 2 | [Khallini](https://open.spotify.com/track/0gJcpURgVWr1p0dCk5Si5i) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/11s7SEvvNazLRiehoHaI3p) | 3:03 |
+| 3 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 |
+| 4 | [One Love](https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [One Love](https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY) | 3:10 |
+| 5 | [EL Barra \- البرّا](https://open.spotify.com/track/6IYi94UJsMphrh9dm88LA3) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI) | [EL Barra \(البرّا\)](https://open.spotify.com/album/0yFDbPZaNQGaxrklitEBdo) | 3:24 |
 | 6 | [سدو عليا الباب](https://open.spotify.com/track/1ySaBFF1Tyv5K25IzgBh3K) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Mohamed Al Saqri](https://open.spotify.com/artist/3N4YESjs80Q7QyZqI1sTvT) | [سدو عليا الباب](https://open.spotify.com/album/5kvYzjQ1CFUppMgRisQ1bm) | 3:23 |
-| 7 | [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 |
-| 8 | [Binetna Layem](https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4) | [D\-Boy](https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0) | [Binetna Layem](https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs) | 3:22 |
-| 9 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 |
-| 10 | [Warda \- وردة](https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Warda \(وردة\)](https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl) | 4:29 |
-| 11 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 |
+| 7 | [Binetna Layem](https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4) | [D\-Boy](https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0) | [Binetna Layem](https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs) | 3:22 |
+| 8 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 |
+| 9 | [Warda \- وردة](https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Warda \(وردة\)](https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl) | 4:29 |
+| 10 | [9ased Rabbi \- قاصد ربي](https://open.spotify.com/track/4OiyOUXW7IzOT8rHrSIzUh) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [9ased Rabbi \(قاصد ربي\)](https://open.spotify.com/album/6NU1cd9ixX7q50aeM0AhWl) | 3:44 |
+| 11 | [Lekbida Tmerjet](https://open.spotify.com/track/6qumsDpLKX99one4xNrZkc) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Dhaf](https://open.spotify.com/artist/5nl9XGwpeR6xL7UCNuUgk4) | [Lekbida Tmerjet](https://open.spotify.com/album/5HIsHvcHz1C2z54ukhjMQ6) | 3:49 |
 | 12 | [Stava Bene](https://open.spotify.com/track/19IVlD9YCOcPNaonf2YNNT) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 3:44 |
 | 13 | [Hbibty Wini \- حبيبتي ويني](https://open.spotify.com/track/2Gru4OBnrGbfM7mIpts6Fk) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Hbibty Wini \(حبيبتي ويني\)](https://open.spotify.com/album/7jwGkqkRlEcpFIy0kcYH20) | 2:41 |
 | 14 | [Sous tension](https://open.spotify.com/track/6h0sdTa2cXLsHuxjd29clN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Sous tension](https://open.spotify.com/album/4q73ju7gYbEFuZCr8Ex5kq) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 49 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 |
 | 50 | [BLA BLA](https://open.spotify.com/track/4XDaWzm0Y6gZoRuo2engXC) | [Youssef Mounes](https://open.spotify.com/artist/6sMjcbHchN0wUoMmYhKSD2) | [BLA BLA](https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj) | 2:48 |
 
-Snapshot ID: `MCwwYjdhYzZjZDdhOWFlZjI5ZTM3MjQyMDNjOTdjMjJkZDdiYjQ2NzBi`
+Snapshot ID: `MCxiMDZmOGQ0MzRlNmZkMjIwNGNhNzU1ZjU4OWJlNDIwYTAzNDI1MGJl`

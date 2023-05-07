@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 62992,
+  "num_followers": 63084,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNGMwYzFmMjJiOWEyNDlkNjNkNGEyYmU5ODU0MWI5ZWU3NjVhY2I4",
+  "snapshot_id": "MCxiNjIzMGRiZDhjZDViYjIxOGNmMjUyMjZlZTMyYWE2OGIwZWU3NTZj",
   "tracks": [
     {
       "added_at": "2023-05-04 08:16:38",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 659520,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Blues Walk",
         "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 294666,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 659520,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 327773,
+      "name": "You'd Be So Nice to Come Home To",
+      "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
         "name": "Coleman Hawkins Encounters Ben Webster (Expanded Edition)",
         "url": "https://open.spotify.com/album/5AmT3edRjRxnDR2ZVW3QJZ"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 310666,
       "name": "Where Are You - Remastered",
       "url": "https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 327773,
-      "name": "You'd Be So Nice to Come Home To",
-      "url": "https://open.spotify.com/track/71KwWlZvuikRRORNH3xvCq"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
+        "name": "The Magnificent Charlie Parker",
+        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 162805,
+      "name": "Au Privave - Take 3 Master",
+      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
         "name": "Blowing In From Chicago",
         "url": "https://open.spotify.com/album/3vkVhAKhudQjsjLchc8RU6"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 356746,
       "name": "Bo-Fill - Rudy Van Gelder 24Bit Mastering",
       "url": "https://open.spotify.com/track/1VXvuU6StB2FGbiqixiwN5"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
-        "name": "The Magnificent Charlie Parker",
-        "url": "https://open.spotify.com/album/3fA0ldo788no64soavIbL3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 162805,
-      "name": "Au Privave - Take 3 Master",
-      "url": "https://open.spotify.com/track/6bwRCPiP5Y4Y9RhdTOzTGD"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Wrapped Tight",
-        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Wrapped Tight",
-      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Further Definitions",
         "url": "https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k"
       },
@@ -867,18 +851,18 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Page One",
-        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+        "name": "Wrapped Tight",
+        "url": "https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 361773,
-      "name": "Recorda Me",
-      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
+      "duration_ms": 208906,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -895,6 +879,22 @@
       "duration_ms": 310520,
       "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Page One",
+        "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 361773,
+      "name": "Recorda Me",
+      "url": "https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Cliff Craft",
-        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
-      },
-      "artists": [
-        {
-          "name": "Cliff Jordan",
-          "url": "https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij"
-        }
-      ],
-      "duration_ms": 406066,
-      "name": "Sophisticated Lady",
-      "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 400560,
       "name": "Funkallero",
       "url": "https://open.spotify.com/track/265nuzhZ75CqbXvuQcDEvv"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Cliff Craft",
+        "url": "https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a"
+      },
+      "artists": [
+        {
+          "name": "Cliff Jordan",
+          "url": "https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij"
+        }
+      ],
+      "duration_ms": 406066,
+      "name": "Sophisticated Lady",
+      "url": "https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 210533,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Somethin' Else (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 494026,
-      "name": "Somethin' Else - Remastered",
-      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 355546,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 494026,
+      "name": "Somethin' Else - Remastered",
+      "url": "https://open.spotify.com/track/1iXpq6uyves7dVGJ4MwGYr"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Warm Woods",
-        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods Quartet",
-          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
-        }
-      ],
-      "duration_ms": 485226,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "The Shape Of Jazz To Come",
         "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 544826,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Warm Woods",
+        "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
+      },
+      "artists": [
+        {
+          "name": "Phil Woods Quartet",
+          "url": "https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C"
+        }
+      ],
+      "duration_ms": 485226,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 309253,
-      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Our Man In Paris (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 417306,
       "name": "Stairway To The Stars - Rudy Van Gelder Edition / 2003 Remaster",
       "url": "https://open.spotify.com/track/3sO8hBPBMIpfWu7skmEKRD"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 309253,
+      "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
     },
     {
       "added_at": "2023-05-04 08:16:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-05-04 08:16:38",
       "album": {
-        "name": "Very Cool",
-        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 443613,
-      "name": "Crazy She Calls Me",
-      "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
-    },
-    {
-      "added_at": "2023-05-04 08:16:38",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 548960,
       "name": "La Mesha",
       "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
+    },
+    {
+      "added_at": "2023-05-04 08:16:38",
+      "album": {
+        "name": "Very Cool",
+        "url": "https://open.spotify.com/album/4Znupug2SmOqzImnUJ9aS6"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 443613,
+      "name": "Crazy She Calls Me",
+      "url": "https://open.spotify.com/track/44Iy3NmrG5kLWfCeieKIiD"
     },
     {
       "added_at": "2023-05-04 08:16:38",

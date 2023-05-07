@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 
 > Timeless melodies from your favourite artists, both old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 875,875 likes - 82 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,081 likes - 82 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXBu5naYCM9.md) - [plain]
 | 81 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 |
 | 82 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 
-Snapshot ID: `MCw0YmU1NGExZWU0ZWE2MDAxZTAwZDU3NDU5Y2E3MzUyYjRjZjBkNjU2`
+Snapshot ID: `MCw3ZDU4Y2I3ZDc2M2M4MWQ1NmM5MzRkNGRjNjNhZjNjNDU2ZGU1Yjc3`

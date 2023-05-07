@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,593 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,796 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 46 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 47 | [Hold on to Memories](https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 5:03 |
 | 48 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
-| 49 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
-| 50 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 |
+| 49 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 |
+| 50 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
 | 51 | [Liberation](https://open.spotify.com/track/3I0PsB3pr6PPyesjPIXjA9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:06 |
 | 52 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 |
 | 53 | [Fade In / Fade Out](https://open.spotify.com/track/2FlbiceZnWgzPoUGCviLHT) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 6:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 74 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 75 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
 
-Snapshot ID: `MCxiNjQ3NjZlOTE4MGRhODIxM2MzNTg3MzVlNmFlMTRkY2Y5MjAxOWU0`
+Snapshot ID: `MCxmMzNhYjI5ZmE3NzliM2JmZDI0Mjc5ODg1ZjA2ZWEzZjUxN2NkMjZj`

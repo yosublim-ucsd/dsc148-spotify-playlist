@@ -1,12 +1,12 @@
 {
   "description": "The home for heavy rockers. Cover: Metallica",
-  "num_followers": 28027,
+  "num_followers": 28038,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWQyZTY0NzRkNDEyNmFhMTRiNTNkOThiNDNhMjdkNDZiZmM5MzQz",
+  "snapshot_id": "MCxhYWMwMTlmMGE3ZWEyMjMwZjE1ODFiNDYzZWE2YTdiN2NiYTQ2MmM2",
   "tracks": [
     {
       "added_at": "2023-03-23 20:43:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "The Sick, The Dying\u2026 And The Dead!",
-        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "We\u2019ll Be Back",
-      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "The Sick, The Dying\u2026 And The Dead!",
+        "url": "https://open.spotify.com/album/1ziUtOuRT545OI4cnHEMhC"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -967,38 +967,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 149194,
-      "name": "REAL SUPER DARK",
-      "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
-        "name": "Hard Skool",
-        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 221892,
-      "name": "Hard Skool",
-      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Dominion: Day of Destiny",
         "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
       },
@@ -1019,6 +987,22 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 149194,
+      "name": "REAL SUPER DARK",
+      "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Hard Skool",
+        "url": "https://open.spotify.com/album/2UWJ1UJybSEmQZ87lQHmp0"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 221892,
+      "name": "Hard Skool",
+      "url": "https://open.spotify.com/track/1Pvmzboyxwp1rOVYqwKIgU"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Won\u2019t Stand Down",
-        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 209061,
-      "name": "Won\u2019t Stand Down",
-      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Eternal Blue",
         "url": "https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 198067,
       "name": "Yellowjacket (feat. Sam Carter)",
       "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 230499,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1272,9 +1272,9 @@
           "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
         }
       ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/0q8m59MpSbdLh8JQ5HqrrT"
+      "duration_ms": 230499,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
     },
     {
       "added_at": "2023-03-23 20:43:55",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-03-23 20:43:55",
       "album": {
-        "name": "Beguiled",
-        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
-    },
-    {
-      "added_at": "2023-03-23 20:43:55",
-      "album": {
         "name": "Dead Inside",
         "url": "https://open.spotify.com/album/72oUFiAsXttWcMqcg7hslo"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 240689,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/3nFrKCdaILOHeBs8c8culM"
+    },
+    {
+      "added_at": "2023-03-23 20:43:55",
+      "album": {
+        "name": "Beguiled",
+        "url": "https://open.spotify.com/album/582taizXGzfl1ALsX6Busl"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG"
     },
     {
       "added_at": "2023-03-23 20:43:55",

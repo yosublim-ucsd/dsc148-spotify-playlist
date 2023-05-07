@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 
 > Dance the night away with your favorite tropical tunes, featuring Marshmello & Manuel Turizo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,830 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,904 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,25 +82,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 | 72 | [Que Bueno Baila Usted](https://open.spotify.com/track/1R8upiSmv7U1rRv0qqvIbS) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Llego La Salsa](https://open.spotify.com/album/45Aa2zCt6Y20hqGxVjI0tI) | 3:36 |
 | 73 | [Dividimos \(Bachata Version\)](https://open.spotify.com/track/1RYuxP3H45CoeYZAYWDtBf) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [Dividimos](https://open.spotify.com/album/324fcgIxRLq3CpqA7WmLWX) | 4:40 |
 | 74 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
-| 75 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
+| 75 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
 | 76 | [Tatuaje](https://open.spotify.com/track/7qvnwfrklCpXozI4ZDU3qc) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL) | [Tatuaje](https://open.spotify.com/album/1PG3xm0A5CkuLONdSC0VyO) | 3:50 |
 | 77 | [Todo Tiene Su Final](https://open.spotify.com/track/7r0ckjpJUZwOASD1VLJgS7) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:03 |
-| 78 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
+| 78 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
 | 79 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 80 | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/track/4Xqpt53kWML7eTObGxQ43i) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Adicto \(feat\. Marc Anthony\)](https://open.spotify.com/album/3WkWeNvKY4CMeLwKIeOugQ) | 3:29 |
 | 81 | [Vivir Lo Nuestro](https://open.spotify.com/track/4qAknKWl2aMvWn4r1nzWAa) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 6:07 |
 | 82 | [La Negra Tiene Tumbao](https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Negra Tiene Tumbao](https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9) | 4:13 |
 | 83 | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Mala y Peligrosa \(feat\. Bad Bunny\)](https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d) | 4:24 |
 | 84 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
-| 85 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
+| 85 | [Tú No Le Amas Le Temes](https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:26 |
 | 86 | [Lotería](https://open.spotify.com/track/17Ey9p2LVX9BWaq51t56xU) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:36 |
 | 87 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
-| 88 | [Tú No Le Amas Le Temes](https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:26 |
+| 88 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 | 89 | [Te Quiero](https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:49 |
 | 90 | [Guallando](https://open.spotify.com/track/0hq1gkWRT0yhcm8K5vw8wm) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 91 | [Casi un Hechizo](https://open.spotify.com/track/2VyxUBO64ggj5uFJJN5KyF) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 3:43 |
-| 92 | [Rie y Llora](https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:10 |
-| 93 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
+| 92 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
+| 93 | [Rie y Llora](https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:10 |
 | 94 | [Ay Amor \- Reggaeton](https://open.spotify.com/track/4E1z3hsYE4bM1PNBvtAoZP) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Despecho Reggaetón](https://open.spotify.com/album/1clxM59p55Br14SInm4uSI) | 3:53 |
 | 95 | [El Baile del Beeper \- Version Mexico](https://open.spotify.com/track/3LPRCFmqXUilyKIOT0EYDN) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Best Of The Best](https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo) | 4:49 |
 | 96 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgM16hVIBq6.md) - [plain]
 | 99 | [Dile A Ella](https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:05 |
 | 100 | [La Tanga](https://open.spotify.com/track/0c27iEtApUClcQ44aZ4BIP) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [Internacional](https://open.spotify.com/album/5jr3mCoNe2N4vTRrUlwxT3) | 4:27 |
 
-Snapshot ID: `MCxiYWY3NTAxZDY4Nzg3ZmZmYTdlYWM0YzI1ZTY0M2UzOTgxYzUwYzFm`
+Snapshot ID: `MCw3M2U5MTU2NmNlZjEzNThmNTYzZTQ4Y2RiNmIxNjI1ZDkxMDk1ZWUz`

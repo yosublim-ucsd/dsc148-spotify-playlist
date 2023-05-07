@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 
 > Discover indie covers\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,255 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,302 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 32 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 33 | [Dancing On My Own \- triple j Like A Version](https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dancing On My Own \(triple j Like A Version\)](https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf) | 3:50 |
 | 34 | [Riptide](https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Riptide](https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S) | 3:13 |
-| 35 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
-| 36 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 |
+| 35 | [Caves](https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Caves](https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc) | 2:59 |
+| 36 | [Cooking](https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Cooking](https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7) | 2:51 |
 | 37 | [Creep](https://open.spotify.com/track/0SCox9Tmm4AxcnhDXZglYB) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Creep](https://open.spotify.com/album/0Tp4s71VQ0MZbtJo1cNHYF) | 4:37 |
 | 38 | [Waterfalls](https://open.spotify.com/track/6p8ZhmQS4fia0j93S2M3Fj) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [The Georgia EP](https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN) | 4:24 |
 | 39 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
@@ -64,16 +64,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 54 | [Build Me Up Buttercup](https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ) | [Lara Anderson](https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4) | [Build Me Up Buttercup](https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5) | 2:55 |
 | 55 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 |
 | 56 | [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 |
-| 57 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
-| 58 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
+| 57 | [This Will Be Our Year](https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Singing Other People's Love Songs](https://open.spotify.com/album/3608IcniealifcqI8WbKte) | 2:16 |
+| 58 | [Come Give Me Love](https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Come Give Me Love](https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK) | 3:59 |
 | 59 | [Everytime \- Spotify Singles](https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Everytime \- Spotify Singles](https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6) | 3:54 |
 | 60 | [Alaska](https://open.spotify.com/track/0QfnsSPIJ1BOHFjZyC2lyk) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Alaska](https://open.spotify.com/album/052acR0QzZbbPNkwnbakxe) | 3:00 |
 | 61 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
 | 62 | [Sweater Weather \(Acoustic\)](https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf), [Kyson Facer](https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30) | [Sweater Weather \(Acoustic\)](https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG) | 2:30 |
 | 63 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 64 | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [Dancing in the Moonlight \(Beach\)](https://open.spotify.com/album/2X9C6daog3060N1C99C49C) | 3:03 |
-| 65 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 66 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
+| 65 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
+| 66 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
 | 67 | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Go Easy, Kid \(with James Blake\)](https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK) | 4:27 |
 | 68 | [Alaska](https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [Alaska](https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq) | 3:11 |
 | 69 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb67OkZ6150Z.md) - [plain]
 | 74 | [Strange Overtones](https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 3:26 |
 | 75 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 |
 
-Snapshot ID: `MCw1ODlmYjZhMDQ5ZjM1MzEzYWE2ZjZiNzYyNzBjNjA5ZjhiMzAxMmNi`
+Snapshot ID: `MCxiMTk3NTM4ZDQ3N2FkYjhhYmMwNTlhZjFhMzg2OWE5NDIxMDUwZjQ4`

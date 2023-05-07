@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,462 likes - 77 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,599 likes - 77 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 76 | [Shaka Zulu \(feat\. Young Stunna\)](https://open.spotify.com/track/77pVhq7KrUYE3ZRd3XUi9F) | [J&S Projects](https://open.spotify.com/artist/66cOfMJH2FvpXFhJzGvvZP), [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Young Stunna](https://open.spotify.com/artist/5G3BcC5c3OhfYsFMFUNUbS) | [XpensiveClections, Vol\. 41](https://open.spotify.com/album/3d2jVmROpZoUKqDAAnmG94) | 5:52 |
 | 77 | [Washaaa](https://open.spotify.com/track/1PN9qUEsfYzf8r9Av4uafK) | [Sfarzo Rtee](https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY) | [Washaaa](https://open.spotify.com/album/6RJhFR9kHnb8iDHec21Uop) | 6:56 |
 
-Snapshot ID: `MCxkMDdkNDQ0MGIxNTYwNTU2N2FmZDZlOTUzZTU1NzExMWVlNTllYzMy`
+Snapshot ID: `MCxiZTMwN2MxYzM3OGJhNzIxM2EyMzIxMGM1ZTIxZmM3OGRiMGIxZWNm`

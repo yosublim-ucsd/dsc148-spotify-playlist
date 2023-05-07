@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "608",
+        "url": "https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "608",
+      "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+    },
+    {
+      "album": {
         "name": "Bcos U Will Never B Free",
         "url": "https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2"
       },
@@ -1602,7 +1620,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 222545,
       "name": "crow's nest (feat. Ollie)",
       "url": "https://open.spotify.com/track/4Fx7GtXOK8k3rxVgKzi6ko"
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 176775,
       "name": "keep our love alive",
       "url": "https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu"
@@ -8222,6 +8240,24 @@
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
+    },
+    {
+      "album": {
+        "name": "shame",
+        "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
+      },
+      "artists": [
+        {
+          "name": "guccihighwaters",
+          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172243,
+      "name": "shame",
+      "url": "https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k"
     },
     {
       "album": {

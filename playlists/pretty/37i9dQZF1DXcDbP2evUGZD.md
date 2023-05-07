@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 
 > The K\-artists that you need to pay attention to right now will all be at <a href="http://mucon.kr/index.html">MU:CON 2022</a>! Meet them first at the MU:CON 2022 official playlist\. \(뮤콘 2022 쇼케이스에 선정된 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,720 likes - 114 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,721 likes - 114 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,9 +113,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 103 | [Mr.Love](https://open.spotify.com/track/2cNDYm1m7yfZUcZnc5mWmj) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [Blast From The Past](https://open.spotify.com/album/7rHZCf6NdEpBseFNpiZMGH) | 3:26 |
 | 104 | [Don't Care About Me](https://open.spotify.com/track/5Rfo9DsoKWTJTbq77VNStM) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [Blast From The Past](https://open.spotify.com/album/7rHZCf6NdEpBseFNpiZMGH) | 3:29 |
 | 105 | [Cosmos](https://open.spotify.com/track/6zPeYgilv2VJ59RxvgK5h1) | [The Bowls](https://open.spotify.com/artist/1LHlLSJVC5PHdkvypiJDXH) | [If We Live Without Romance](https://open.spotify.com/album/7fesRqtaaba08iyXUvBXew) | 5:00 |
-| 106 | [Zoom in](https://open.spotify.com/track/2KqDiLmDIG3Q7DoxS07tCr) | [JKC](https://open.spotify.com/artist/6VRDh7vlqzq2lDY9pqAF7X) | [Dress code](https://open.spotify.com/album/7dG75t5CvFXocpg2OnrSFd) | 3:30 |
-| 107 | [Diamond](https://open.spotify.com/track/3rLzrVi4yBQ0ohgklv9R82) | [JKC](https://open.spotify.com/artist/6VRDh7vlqzq2lDY9pqAF7X) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:09 |
-| 108 | [COWBOY](https://open.spotify.com/track/2NeC4CBvfFELWNzxCehQYw) | [JKC](https://open.spotify.com/artist/6VRDh7vlqzq2lDY9pqAF7X) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:50 |
+| 106 | [Zoom in](https://open.spotify.com/track/2KqDiLmDIG3Q7DoxS07tCr) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Dress code](https://open.spotify.com/album/7dG75t5CvFXocpg2OnrSFd) | 3:30 |
+| 107 | [Diamond](https://open.spotify.com/track/3rLzrVi4yBQ0ohgklv9R82) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:09 |
+| 108 | [COWBOY](https://open.spotify.com/track/2NeC4CBvfFELWNzxCehQYw) | [JKC](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:50 |
 | 109 | [Crazy Driver](https://open.spotify.com/track/2bT3rm02O6EwyeXPVkDCGx) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [Crazy Driver](https://open.spotify.com/album/02usvaengQGAO3S8BQGOZZ) | 3:38 |
 | 110 | [All Night Long](https://open.spotify.com/track/1YBmtuDdD5of0Ok6rSrMzf) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [All Night Long](https://open.spotify.com/album/1ynvJyDJzoxQLD2S1quViA) | 3:36 |
 | 111 | [Like a Butterfly](https://open.spotify.com/track/21eq5IlsfbAh0eb44e0dqQ) | [PRSNT](https://open.spotify.com/artist/4Aj920LL1N15pxyHm4heD1) | [Crazy Driver](https://open.spotify.com/album/02usvaengQGAO3S8BQGOZZ) | 3:34 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDbP2evUGZD.md) - [plain]
 | 113 | [Lip balm](https://open.spotify.com/track/4wii40hlqbVqbSeXuDtySq) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[DELICIOUS\]](https://open.spotify.com/album/03b7sXntDsxzF3nG9KmJ8G) | 3:16 |
 | 114 | [Happy Birthday](https://open.spotify.com/track/5WBC8Ymk4UsMecQgLpwfqQ) | [WOO JIN YOUNG](https://open.spotify.com/artist/1vpeQFhw90qhSRmzBd1ivl) | [\[3\-2=A\]](https://open.spotify.com/album/12f7MPJxreN85KhapL4Ayz) | 3:05 |
 
-Snapshot ID: `MCw5NmIwNjJhOTkxN2Y4ZTJiNTQ5NDkzNTkxMjdkZjA0OTBkNTE0ZDk0`
+Snapshot ID: `MCw1OWRiMzUwYWQ1Y2I2N2NiMDAxNTEwZThhZGQzYzk5OGI2YTk2YTFk`

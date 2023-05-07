@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 
 > Con todo el sabor de la vitamina G.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,307 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,475 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aH17k60Q9v.md) - [plain]
 | 99 | [Un Poquito Tuyo](https://open.spotify.com/track/4Xite6iT0HSbmG6h2cnia2) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Un Poquito Tuyo](https://open.spotify.com/album/36zNWFQ7R29rlWz68ymO6a) | 2:55 |
 | 100 | [Ya Sólo Eres Mi Ex \- En Vivo](https://open.spotify.com/track/17v5C11MSgqhFtyfQgYPtD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Ya Sólo Eres Mi Ex \(En Vivo\)](https://open.spotify.com/album/70dlGvgMGvumTPSEzgkH4s) | 3:46 |
 
-Snapshot ID: `MCxlNGZmZTFlZDYxODA1ZDU3ZjkyMmRiOGM1MTMxYmRmMjNjZmU3NTU2`
+Snapshot ID: `MCxkNjUyYWM4NTNmMjI1MDg0YTAzY2YyZTUzYzc2NDEzZDk4YjQ1MWEx`

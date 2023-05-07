@@ -1,12 +1,12 @@
 {
   "description": "Throwbacks for that emo kid in all of us. Cover: Paramore ",
-  "num_followers": 155237,
+  "num_followers": 155384,
   "original_name": "Emo Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzJkNTUwNTA5MzczZDRiZWEwNjJhYWFiODNkMDhjMThhNjIzY2I1",
+  "snapshot_id": "MCwyNmM2MjY0ZmNlYmU2OGQyOGEzMzNlMDJlOWQ1ZTlkZTAyN2ZkMTVi",
   "tracks": [
     {
       "added_at": "2022-09-12 15:41:09",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-09-12 15:41:09",
       "album": {
-        "name": "A Lesson In Romantics",
-        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Jamie All Over",
-      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
-    },
-    {
-      "added_at": "2022-09-12 15:41:09",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 208693,
       "name": "The Taste of Ink",
       "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
+    },
+    {
+      "added_at": "2022-09-12 15:41:09",
+      "album": {
+        "name": "A Lesson In Romantics",
+        "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Jamie All Over",
+      "url": "https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R"
     },
     {
       "added_at": "2022-09-12 15:41:09",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-09-12 15:41:09",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
-    },
-    {
-      "added_at": "2022-09-12 15:41:09",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2022-09-12 15:41:09",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
     },
     {
       "added_at": "2022-09-12 15:41:09",

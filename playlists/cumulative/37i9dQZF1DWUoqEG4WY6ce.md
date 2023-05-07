@@ -4,7 +4,7 @@
 
 > Hop in.
 
-314 songs - 20 hr 13 min
+315 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Emotions and Math](https://open.spotify.com/track/1uVD7mxRrnwnLqh6uBOuSt) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Emotions and Math](https://open.spotify.com/album/2Bq3X3NF39gvmAihzX1DdK) | 3:17 | 2020-10-29\* | 2022-07-16 |
 | [Empress](https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [A Little Lift](https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2) | 3:19 | 2022-07-03 |  |
 | [Empress](https://open.spotify.com/track/5YVYVuNA44FT2yVxEXOw3r) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Empress](https://open.spotify.com/album/07S5Om7EgjLq3I6QNuDSb8) | 3:19 | 2021-01-17 | 2022-05-10 |
+| [Ends of the Earth](https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:44 | 2022-11-29 |  |
 | [Ends of the Earth](https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams](https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl) | 4:44 | 2021-01-15 | 2023-01-05 |
 | [Ends of the Earth](https://open.spotify.com/track/7KMP2x6rXAIbYYSu8Al7gv) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/3VZNBoxVDEvO8NJa65zmMd) | 4:44 | 2022-11-29 | 2023-05-01 |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2021-06-28 | 2023-02-03 |
@@ -131,7 +132,7 @@
 | [Here It Goes Again](https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [Oh No](https://open.spotify.com/album/1qN6qh1gwgrYTCdSq21gov) | 2:59 | 2022-07-03 |  |
 | [Hero](https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF) | [Family of the Year](https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq) | [Loma Vista](https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg) | 3:10 | 2022-07-03 |  |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2022-09-02 | 2022-11-13 |
-| [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2022-07-03 |  |
+| [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2022-07-03 | 2023-05-07 |
 | [Holocene](https://open.spotify.com/track/5bGd0OxvxZSATIf2eEkmTD) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/0ZMzEAuUIylHgetdWqzcHU) | 5:36 | 2021-01-15 | 2022-05-31 |
 | [House Of Cards](https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:28 | 2021-06-28 | 2022-07-28 |
 | [House Of Cards](https://open.spotify.com/track/48X4D1FYOShPz2VF3YdfCF) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:28 | 2022-07-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 70424,
+  "num_followers": 70519,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2VlYTJlNzkyNDg5ZDEyYzZiN2FmYWMwYTdmOWRiOTM5ODI1NzVl",
+  "snapshot_id": "MCxmMjlhMjlhOTJjNzQxYTFlYWQ4ZjU2NDFhMDA1ODM1YTA0YzUzZDMx",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Don't Let The Bossman Get You Down!",
-        "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 176933,
-      "name": "Devil's Slide",
-      "url": "https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
         "name": "Prime Chops",
         "url": "https://open.spotify.com/album/17tOE8mbZcUnCYEo31VXQy"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 275066,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/1MI3E3tZOgz4Oe47twVtTd"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
+        "name": "Don't Let The Bossman Get You Down!",
+        "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 176933,
+      "name": "Devil's Slide",
+      "url": "https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr"
     },
     {
       "added_at": "2023-01-16 21:05:55",

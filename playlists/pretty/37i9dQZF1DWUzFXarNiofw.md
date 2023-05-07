@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Brent Faiyaz & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,891 likes - 151 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,071 likes - 151 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 2 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 |
 | 3 | [Girls](https://open.spotify.com/track/6AdMaUJ0c0Q4zPhYwwGkBe) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Full Circle : Sonic Book 1](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 3:21 |
 | 4 | [Casamigos](https://open.spotify.com/track/5zpsRcW4tF8kUgJY7NvbcX) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Casamigos](https://open.spotify.com/album/0fhG0rYGnIX8l9lzn9WRed) | 2:22 |
-| 5 | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
+| 5 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
 | 6 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
 | 7 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 |
 | 8 | [MAYBE SWANKAFORNiA](https://open.spotify.com/track/0mRa1oLuYvOOhRydLk0Bqp) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 2:51 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 150 | [Show & Prove](https://open.spotify.com/track/449FBzMELJSNmcZOhobcyq) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Show & Prove](https://open.spotify.com/album/1OeiauwrDJM0ZhHsqwsQd9) | 2:29 |
 | 151 | [World In My Hands](https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW) | [LAVI$H](https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32) | [World In My Hands](https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT) | 3:14 |
 
-Snapshot ID: `MCw5YTBhM2YyNzM2ZGFjNjQ1YTQ2YzBhMjQ0ZGYzMDdkOWYxNDBkMmI3`
+Snapshot ID: `MCw4YjdiNDRmODA4ZTNiNWRkZjRlYjhhOTA3NzkyYjZiNTJjNzAwMTc4`

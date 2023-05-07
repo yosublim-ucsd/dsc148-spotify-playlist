@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,919 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,925 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1trEdl.md) - [plain]
 | 49 | [The Grass \(Will Sing for You\) \[Mono Version\]](https://open.spotify.com/track/5aBfIwwa1Vu2j625w4hYZ2) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:22 |
 | 50 | [Another Heartache](https://open.spotify.com/track/5EBOybVHa8xRsFYqZtOfQU) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 4:11 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBmY2IwMTZiOGI2YmZkM2ZkNzc3MDY5YjkwN2NlMmU0MQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5OGQxYThjYjA4YzIwYzM2YWFmOTBlN2RmOTJlNDIwZA==`

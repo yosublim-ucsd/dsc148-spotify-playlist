@@ -1,12 +1,12 @@
 {
   "description": "H\u00e4r h\u00f6r du de b\u00e4sta svenska l\u00e5tarna just nu.",
-  "num_followers": 194281,
+  "num_followers": 194293,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OThlNzRhYWJlY2ZjNTFkOTM0Y2U3MzMwNzEzOTU4N2RkOTliMzg3",
+  "snapshot_id": "MCxmYTkzYTIwZTc3YjRkMGJlZDJjZjc4ODliZTIxNjNjNzc5MThmOWM0",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
-        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 256449,
-      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
-      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Tappat - Spotify Singles",
         "url": "https://open.spotify.com/album/5ddfOPbWay0ySvKXt3niGW"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 150543,
       "name": "Tappat - Spotify Singles",
       "url": "https://open.spotify.com/track/1fzi4hh7nlMpKbT2EZl3a0"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+        "url": "https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 256449,
+      "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
+      "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -591,22 +591,6 @@
       "duration_ms": 175714,
       "name": "V\u00e4lkommen \u00c5ter",
       "url": "https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Du",
-        "url": "https://open.spotify.com/album/64xGRV93vELnR9Cu63fvAd"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 262866,
-      "name": "Du",
-      "url": "https://open.spotify.com/track/5jXpg2H0a1isxNpcQkPVu8"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -707,18 +691,38 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+        "name": "White Ferrari",
+        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
       },
       "artists": [
         {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        },
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
         }
       ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+      "duration_ms": 229426,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/64xGRV93vELnR9Cu63fvAd"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/5jXpg2H0a1isxNpcQkPVu8"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -739,22 +743,38 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "White Ferrari",
-        "url": "https://open.spotify.com/album/6u14NDjiINlSvrSqcKNpRv"
+        "name": "Vi \u00c4r P\u00e5 Riktigt",
+        "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
       },
       "artists": [
         {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
         },
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 229426,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/7tB57c2Hx6dDZ2n198Bb27"
+      "duration_ms": 187664,
+      "name": "Vi \u00c4r P\u00e5 Riktigt",
+      "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -795,22 +815,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Vi \u00c4r P\u00e5 Riktigt",
-        "url": "https://open.spotify.com/album/0Hnf8kDD21NgAUhqOwAXnK"
+        "name": "Neon Lights",
+        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
       },
       "artists": [
         {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        },
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 187664,
-      "name": "Vi \u00c4r P\u00e5 Riktigt",
-      "url": "https://open.spotify.com/track/6ts0bxk9N8qiVA7UhhFOJY"
+      "duration_ms": 209200,
+      "name": "Neon Lights",
+      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -831,22 +847,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Neon Lights",
-        "url": "https://open.spotify.com/album/5ChvqR6pa683F4PFICJqWE"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Neon Lights",
-      "url": "https://open.spotify.com/track/7yDgeEC1EKU5klYxQPLCMb"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Bad One",
         "url": "https://open.spotify.com/album/29rnoj33seM0P8qgSQjVHW"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 161906,
       "name": "Bad One",
       "url": "https://open.spotify.com/track/2ZVnrtfMCCH6o7Y3I3NERb"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "I Raised Your Boyfriend",
-        "url": "https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9"
-      },
-      "artists": [
-        {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
-        }
-      ],
-      "duration_ms": 162368,
-      "name": "I Raised Your Boyfriend",
-      "url": "https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -899,22 +883,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Lobato",
-          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
-        }
-      ],
-      "duration_ms": 189529,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Effort",
         "url": "https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl"
       },
@@ -927,6 +895,42 @@
       "duration_ms": 151947,
       "name": "Effort",
       "url": "https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "I Raised Your Boyfriend",
+        "url": "https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 162368,
+      "name": "I Raised Your Boyfriend",
+      "url": "https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Oslo",
+        "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        },
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Oslo",
+      "url": "https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -951,22 +955,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Oslo",
-        "url": "https://open.spotify.com/album/6LO3Qd8810GskbohCmgDgQ"
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/0JRRrUZE1e1CIPIyePoJJg"
       },
       "artists": [
         {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        },
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+          "name": "Olivia Lobato",
+          "url": "https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Oslo",
-      "url": "https://open.spotify.com/track/22BP0cSbZSC92WIKP44EJu"
+      "duration_ms": 189529,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/4x92YZy4mfx7cDmEok90kx"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Don't Run",
-        "url": "https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl"
-      },
-      "artists": [
-        {
-          "name": "Josefine",
-          "url": "https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Don't Run",
-      "url": "https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "THRILLER (with Clara Mae)",
         "url": "https://open.spotify.com/album/6fYCA4iunXPtY9JnLhNeZE"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 161124,
       "name": "THRILLER (with Clara Mae)",
       "url": "https://open.spotify.com/track/0rFAE6PNRKkw4b6nxCK7b1"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Poetiska f\u00f6rs\u00f6k",
+        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "duration_ms": 344013,
+      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
+      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Don't Run",
+        "url": "https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl"
+      },
+      "artists": [
+        {
+          "name": "Josefine",
+          "url": "https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Salt och socker",
         "url": "https://open.spotify.com/album/4LVLEpfiwqT3fULAWfH5P4"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 171995,
       "name": "Salt och socker",
       "url": "https://open.spotify.com/track/77vpTfCL4qiaPUNvCy6ozQ"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Poetiska f\u00f6rs\u00f6k",
-        "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kan Hellstr\u00f6m",
-          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
-        }
-      ],
-      "duration_ms": 344013,
-      "name": "Sm\u00e5 b\u00e4ckar, stora floder",
-      "url": "https://open.spotify.com/track/1PHLVlH4ehdonWo8Xwupro"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "wish I didn't know you",
-        "url": "https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 173203,
-      "name": "wish I didn't know you",
-      "url": "https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Du f\u00f6rtj\u00e4nar det",
         "url": "https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "V\u00e4ntar p\u00e5 en solig dag",
-        "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
+        "name": "wish I didn't know you",
+        "url": "https://open.spotify.com/album/1vjdyS508kWh3k8KbUK4nU"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
         }
       ],
-      "duration_ms": 323186,
-      "name": "V\u00e4ntar p\u00e5 en solig dag",
-      "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
+      "duration_ms": 173203,
+      "name": "wish I didn't know you",
+      "url": "https://open.spotify.com/track/5eqawn12Jr65SvCFHvL3Jh"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 250635,
       "name": "Till slutet av augusti - Live fr\u00e5n Benjamin's",
       "url": "https://open.spotify.com/track/4DADoG4Te1jpbBBCbj7hiH"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "V\u00e4ntar p\u00e5 en solig dag",
+        "url": "https://open.spotify.com/album/0ZIEy5kwu7qDDDbPR0P4Jk"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 323186,
+      "name": "V\u00e4ntar p\u00e5 en solig dag",
+      "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Regnar",
-        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
-      },
-      "artists": [
-        {
-          "name": "Ellen Bergelin",
-          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
-        }
-      ],
-      "duration_ms": 132352,
-      "name": "Regnar",
-      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Belly Shots",
         "url": "https://open.spotify.com/album/5Js3djpsjpb4D5YtIW7QCU"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 155520,
       "name": "Belly Shots",
       "url": "https://open.spotify.com/track/0ZePK6ccUMawI45T8RoFbK"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Regnar",
+        "url": "https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo"
+      },
+      "artists": [
+        {
+          "name": "Ellen Bergelin",
+          "url": "https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ"
+        }
+      ],
+      "duration_ms": 132352,
+      "name": "Regnar",
+      "url": "https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Okomplicerat",
+        "url": "https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk"
+      },
+      "artists": [
+        {
+          "name": "Dom F\u00f6rsta",
+          "url": "https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70"
+        }
+      ],
+      "duration_ms": 159609,
+      "name": "Okomplicerat",
+      "url": "https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Android",
         "url": "https://open.spotify.com/album/4innCzukRuQ8dcH5WCUDYi"
       },
@@ -1603,58 +1619,6 @@
       "duration_ms": 100500,
       "name": "Android",
       "url": "https://open.spotify.com/track/1z1dLKCC2BOANrXAkSZnEJ"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
-      },
-      "artists": [
-        {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Tombola 94",
-      "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Learning Experience",
-        "url": "https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        },
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "duration_ms": 192836,
-      "name": "Miss The Party",
-      "url": "https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Gold Rush",
-        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
-      },
-      "artists": [
-        {
-          "name": "Stella Explorer",
-          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
-        }
-      ],
-      "duration_ms": 284970,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1683,6 +1647,58 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Dina \u00d6gon",
+        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+      },
+      "artists": [
+        {
+          "name": "Dina \u00d6gon",
+          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Tombola 94",
+      "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Gold Rush",
+        "url": "https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0"
+      },
+      "artists": [
+        {
+          "name": "Stella Explorer",
+          "url": "https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD"
+        }
+      ],
+      "duration_ms": 284970,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Learning Experience",
+        "url": "https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        },
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "duration_ms": 192836,
+      "name": "Miss The Party",
+      "url": "https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Champagne",
         "url": "https://open.spotify.com/album/0ph8WJ9gZSGnimj8QVkf6k"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 210264,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/2lIwPTpd2fhRq31jtFNBq1"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Brinner",
-        "url": "https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 221120,
-      "name": "Brinner",
-      "url": "https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK"
     }
   ],
   "unique_name": "Made in Sweden",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Joey Bada$$
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252,622 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,252,616 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 6 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
 | 7 | [Swerve](https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [Swerve](https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u) | 3:19 |
 | 8 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
-| 9 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
+| 9 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
 | 10 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 |
 | 11 | [MikeJackJordan](https://open.spotify.com/track/6NvPTbkjOV9dEU85bOpF3T) | [Neaux ID](https://open.spotify.com/artist/64aTMBA0pmsYbDNUssh4sO), [NinoSoSupremey](https://open.spotify.com/artist/3MhMLMMmvQUrt3rMolKJ4h), [free blck.](https://open.spotify.com/artist/48noC0qRP29UrsfFO8IIDm) | [MikeJackJordan](https://open.spotify.com/album/1PUZNbNbnktKeOzvUyrR1V) | 4:27 |
 | 12 | [PLAIN JANE](https://open.spotify.com/track/0ibfcFmGtwTPScXJY7USAE) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [PLAIN JANE](https://open.spotify.com/album/1gU8EZFGp7aIaIz8PCPldL) | 2:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Cold Shoulder](https://open.spotify.com/track/5OD8PgrPPJmkOq79sMeNfm) | [Playyard](https://open.spotify.com/artist/63I47oemHnVtpZGCu6rrOM), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Cold Shoulder](https://open.spotify.com/album/5Nel4yiVgH8tGqhgy20hUf) | 2:25 |
 | 100 | [Dark Hearted](https://open.spotify.com/track/2vcdlFDuB7tjdYTCf0u6AL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Dark Hearted](https://open.spotify.com/album/3uSh69KCgMerblCUeYohUl) | 3:25 |
 
-Snapshot ID: `MCw0NTFmNjBkOTllY2UxYTIzZjU3YmFiYTlmYjYwNzQzZDQxZjNlN2M0`
+Snapshot ID: `MCwyYTMyZjE3NWU2YmY0ZDkxOTZjOTlmN2U1N2U3MWI2N2NmNDQ2ZDZi`

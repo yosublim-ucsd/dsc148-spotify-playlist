@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,197 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,199 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 3 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
 | 4 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 5 | [Dumpling \- Remix](https://open.spotify.com/track/4AaXmQvHMWNwZSoqi4kcsK) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Dumpling \(Remix\)](https://open.spotify.com/album/6Cjp5NnE0J5WD4XkrVt9ds) | 3:17 |
-| 6 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
-| 7 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
+| 6 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
+| 7 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 |
 | 8 | [Mind My Business](https://open.spotify.com/track/2VhvSJkmqGQZgJOlMEGHEz) | [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd), [Dan Evens](https://open.spotify.com/artist/5ZbHn0BqI2WtNqto3qUpzK), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [Mind My Business](https://open.spotify.com/album/0EtmN8riYVOR5fBI1bplj1) | 1:59 |
 | 9 | [Famalay](https://open.spotify.com/track/2XRkyBiKyHPyJ0krDmK4MA) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Famalay](https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q) | 3:19 |
 | 10 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 25 | [Heaven Passport](https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR) | [Heaven Passport](https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ) | 3:07 |
 | 26 | [Issa Snack](https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre) | [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Travis World](https://open.spotify.com/artist/5AVAzwpIu9f3H1oegupPCd) | [The Art of Flex](https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL) | 3:03 |
 | 27 | [Rate Who Rate You](https://open.spotify.com/track/3Wm3PjsO4rvZgtiGAwQnt8) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Rate Who Rate You](https://open.spotify.com/album/0jLzrXLefmAQVJWV1hsPyU) | 3:36 |
-| 28 | [Bottle over Head](https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w), [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Bottle over Head](https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK) | 3:28 |
+| 28 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
 | 29 | [Play Harder](https://open.spotify.com/track/7w8en1vIDSFoWZUJvc8XdG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:39 |
-| 30 | [Run Wid It](https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq) | [Run Wid It](https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG) | 3:11 |
+| 30 | [Bottle over Head](https://open.spotify.com/track/4lZHw1UhWkYKqLlK7aZAf6) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w), [Wetty Beatz](https://open.spotify.com/artist/3cb9sULs9n1DMoBDQ7YaEC) | [Bottle over Head](https://open.spotify.com/album/3FV3hpxusGhkEz6wQujnrK) | 3:28 |
 | 31 | [Fattt](https://open.spotify.com/track/5Jbo9fmh94CoGmdvje1HN7) | [Nadia Batson](https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:13 |
 | 32 | [Stage Gone Bad](https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Iwer George](https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw) | [Stage Gone Bad](https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe) | 3:13 |
 | 33 | [Tick Pon Cock](https://open.spotify.com/track/0hi53rAi8089F1DnwsRroK) | [SUPA NYTRO](https://open.spotify.com/artist/63UiEB8udvGCvXX1D7VSLF), [Natz B](https://open.spotify.com/artist/6g19CjWx79OK8qiL8aceQn) | [Tick Pon Cock](https://open.spotify.com/album/3uh9i9joEPOB15yQJWNZRf) | 3:12 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MCxlODU5Mjc5YzM5OGI3ZTkyNjRjYzA4YTg4NDViMzA5Mzc2ZTI0NjAy`
+Snapshot ID: `MCw2MGZjMTgzYjVhMTQxNmMwN2I2YjA5NjQ2NjMyMjc5ZWQyYzgxZDU4`

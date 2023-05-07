@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Adonis.
 
-145 songs - 9 hr 2 min
+146 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Khayal](https://open.spotify.com/track/6oItsPDKVtqJFtbIn8V4AW) | [DaMoJaNad](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Khayal](https://open.spotify.com/album/7seFxa9r1rPYcgdCka6hcN) | 3:45 | 2021-12-23 | 2022-02-26 |
 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 | 2021-12-23 | 2022-04-08 |
 | [Kol Shi](https://open.spotify.com/track/5mMdUcYJpQHEFiqdV2ECOU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8), [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [Kol Shi](https://open.spotify.com/album/4VoxoPiFIsYOQyBN93Vin2) | 3:49 | 2023-04-23 |  |
+| [Koulou Banat](https://open.spotify.com/track/0ht0NTzJCbrS6yO1MU3Jgi) | [Gharam Electric](https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7) | [Koulou Banat](https://open.spotify.com/album/0GVHXr4UrQtrvexyuMGZsv) | 5:14 | 2023-05-06 |  |
 | [La Tlou' El Daw](https://open.spotify.com/track/0pHL3idFQ7AT944IFJQVH6) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [La Tlou' El Daw](https://open.spotify.com/album/3iyIcDBdCVnRHsN0zb6Q5h) | 3:50 | 2021-12-23 | 2023-04-24 |
 | [Lahali](https://open.spotify.com/track/5QHKRsNsL8c6sXCSNnIhAc) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lahali](https://open.spotify.com/album/4pRNXnc15ezxYlvUDoeMW9) | 3:32 | 2022-02-15 | 2023-04-01 |
 | [Lahali](https://open.spotify.com/track/6GDzePGixhJPzQzIkFOeZx) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lahali](https://open.spotify.com/album/095MAhIauuggkJGXuHhb2p) | 3:32 | 2023-04-01 |  |

@@ -4,7 +4,7 @@
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-139 songs - 8 hr 0 min
+140 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Beer For My Horses](https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:24 | 2022-07-24 |  |
 | [Beer Me Up](https://open.spotify.com/track/5S43ssynwmOntzVvXSluh5) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Beer Me Up](https://open.spotify.com/album/4aQoWE9uSB7ZP13VWo4D2n) | 2:57 | 2021-10-08 | 2022-07-25 |
 | [Beer Never Broke My Heart](https://open.spotify.com/track/7aEtlGHoiPAfRB084NiDmx) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:06 | 2021-02-03 |  |
-| [Beer Thirty](https://open.spotify.com/track/1F3s1BbWYoCBa8I84GhzZB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Tight Rope](https://open.spotify.com/album/5B9PdR9B1YsmpOxnS4pHWL) | 2:36 | 2021-02-03 |  |
+| [Beer Thirty](https://open.spotify.com/track/1F3s1BbWYoCBa8I84GhzZB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Tight Rope](https://open.spotify.com/album/5B9PdR9B1YsmpOxnS4pHWL) | 2:36 | 2021-02-03 | 2023-05-07 |
 | [Billy's Got His Beer Goggles On](https://open.spotify.com/track/18J8Yx5SSjRF8QYkT9bRVx) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [That's Life](https://open.spotify.com/album/6lo6cK2DfcdLhsE3Ra58Fs) | 3:38 | 2021-02-03 | 2022-07-29 |
 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 | 2021-02-03 |  |
 | [Bottoms Up](https://open.spotify.com/track/477pWnF7WFWb9Qs6g8rs4J) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:40 | 2021-02-03 |  |
@@ -108,9 +108,10 @@
 | [Red Solo Cup](https://open.spotify.com/track/47nm8czanMUzIqHsnr5x61) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern \(Deluxe Edition\)](https://open.spotify.com/album/6fDc100UHbUvS6IuxBrKRn) | 3:43 | 2021-02-03 | 2022-07-29 |
 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 | 2022-07-24 |  |
 | [Rosé](https://open.spotify.com/track/4kZpsP1KaQG5XbJaRbepro) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bridges](https://open.spotify.com/album/0R6Q7uTHABCsPag3LMRILX) | 2:59 | 2021-04-22 | 2022-08-26 |
-| [Round Here](https://open.spotify.com/track/1XPMs9Qm63aOGZ7l0vYgy5) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:34 | 2021-02-03 |  |
+| [Round Here](https://open.spotify.com/track/1XPMs9Qm63aOGZ7l0vYgy5) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Here's To The Good Times...This Is How We Roll](https://open.spotify.com/album/0uqAyKT7oMZDFMyteJOJWI) | 3:34 | 2021-02-03 | 2023-05-07 |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/630WEiYZ1baGeXgXSpuRCl) | 2:55 | 2021-06-18 | 2022-07-29 |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN) | 2:55 | 2022-07-24 | 2022-08-18 |
+| [Salt, Lime & Tequila](https://open.spotify.com/track/5L4EbTgIdPsuEO6GqpurP8) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/1c8S8L1b49DhYZSYP7pK55) | 2:55 | 2023-04-07 |  |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg) | 2:55 | 2022-08-05 | 2023-04-30 |
 | [Same Beer Different Problem](https://open.spotify.com/track/2bLa8N2vtooX5Sc0r1NmzO) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Same Beer Different Problem](https://open.spotify.com/album/699sP9cMgoC77MayudRDkk) | 3:00 | 2022-09-02 |  |
 | [Save Water, Drink Beer](https://open.spotify.com/track/1mvl4McrgpDUwusRRrn7UU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Neon](https://open.spotify.com/album/4yYep1aU3lXRaONTWu2X23) | 2:45 | 2021-02-03 | 2022-11-13 |
@@ -136,7 +137,7 @@
 | [Vacation](https://open.spotify.com/track/4DdF1l0DzBQy8YL2UVhPrU) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:43 | 2021-02-03 |  |
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2022-07-24 |  |
 | [Wagon Wheel](https://open.spotify.com/track/2FkMd8wLMIZytpKn4u6kMw) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/4ZrQmZtU4P6HVR1Duw3nVR) | 4:58 | 2021-02-03 | 2022-07-29 |
-| [Waitin' on 5](https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:54 | 2021-07-01 | 2023-05-05 |
+| [Waitin' on 5](https://open.spotify.com/track/0d2g4x2iOE7dcGfyUuso9l) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:54 | 2021-07-01 |  |
 | [Waste of Lime](https://open.spotify.com/track/59Y2VUXjLa5j6rQbV0ROWW) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:08 | 2021-04-22 | 2022-11-29 |
 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 | 2022-07-24 |  |
 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 | 2021-02-03 |  |

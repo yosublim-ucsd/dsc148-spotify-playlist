@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,905 likes - 77 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,949 likes - 77 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 12 | [With You \(feat\. SGNLS\)](https://open.spotify.com/track/3MJDrLcr2KeEFyBY5AFyp0) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [With You \(feat\. SGNLS\)](https://open.spotify.com/album/1eoyrSCfirxMDE9tRHgMHY) | 2:39 |
 | 13 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
 | 14 | [Deja Vu](https://open.spotify.com/track/3Pmtj9zlqxesYszjHmQpKu) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Deja Vu](https://open.spotify.com/album/5tinrUufdUwPi1eMf6vkRj) | 3:07 |
-| 15 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 |
+| 15 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 16 | [Satellites \- Sped Up](https://open.spotify.com/track/74w4qDqHByAWK4mLW5kRQY) | [Nawrras Music](https://open.spotify.com/artist/3OViSm0E5Rt3wugziSjW2y), [Speed Up Unlimited](https://open.spotify.com/artist/18XJJZo4JaA9Yz8TPQmy95) | [Satellites \(Sped Up\)](https://open.spotify.com/album/0t4XCgIXNej4pgxOWcq6ke) | 2:32 |
 | 17 | [Sad in the Summer \(feat\. Lily Rose\)](https://open.spotify.com/track/29Zod043iIX27WBv0duEDn) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg) | 3:21 |
 | 18 | [Finally \- Endless Summer & Wave Wave Remix](https://open.spotify.com/track/05QQGz1FdxSUxVme8Z7Lca) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Finally \(Endless Summer & Wave Wave Remix\)](https://open.spotify.com/album/2HOkYV7MQeZaF91LSCV7vp) | 3:56 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [Recall](https://open.spotify.com/track/2uJOUSKm3ldZmKJWHoWT3L) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Recall](https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX) | 2:52 |
 | 77 | [Dancing](https://open.spotify.com/track/5CZsM040tBpIv3nlJJEHnu) | [KiLLTEQ](https://open.spotify.com/artist/1ShDbHyjuFZA9xA1lP8GYi), [D.Hash](https://open.spotify.com/artist/01F66fhZtaW1DppwBADfTK), [DIMESTRIX](https://open.spotify.com/artist/16dhp16kLV09cD99YsJc8k) | [Dancing](https://open.spotify.com/album/3KyXo0R5i3hszmsK9LWnEI) | 3:05 |
 
-Snapshot ID: `MCwyODMzZjBhYjg3NmQ3NGQ4Yzk4MjFiZTNmZmFhZWVlNjE2MDA3OTIx`
+Snapshot ID: `MCw3ZmQ5YjQzZDIxOGM3NjUxZjk2OWYxM2UxYjc2ZWNmZjkwNzUyYWUy`

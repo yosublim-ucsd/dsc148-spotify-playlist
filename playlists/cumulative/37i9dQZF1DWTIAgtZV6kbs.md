@@ -4,7 +4,7 @@
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-156 songs - 9 hr 20 min
+157 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [In My Spirit](https://open.spotify.com/track/3JSX9vCJ6qHrfaKhkiLbhD) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "EVANGELION 2.0" YOU CAN \(NOT\) ADVANCE.](https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc) | 3:14 | 2021-08-31 |  |
 | [karma](https://open.spotify.com/track/2qQHd24vGtbzFWWeXlrI6K) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION" EVANGELION: 3.0+1.0.](https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok) | 3:03 | 2021-08-31 |  |
 | [karma](https://open.spotify.com/track/6WzZbCDWhTlEkQmTi6gY00) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 3:03 | 2021-08-31 | 2022-07-29 |
+| [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/1fcR9f13hKGpC2u9r0iHQT) | [Arianne](https://open.spotify.com/artist/67E0wqAIfyT2erdSnMLzRI) | [THE END OF EVANGELION \(Original Soundtrack\)](https://open.spotify.com/album/12Zlf7jQUcYOsPl2qbuXgz) | 7:46 | 2021-08-31 |  |
 | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/0DI3WNmIyfi2GZLQwhYDQC) | [Arianne](https://open.spotify.com/artist/1R2VgINk9y10c3EE6iq9ue) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 7:46 | 2021-08-31 | 2022-08-15 |
-| [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/3gy29plS7bgjmYfgfGGwgE) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/album/3hZAOa09G6paCElkWgyuSe) | 7:46 | 2021-08-31 |  |
+| [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/3gy29plS7bgjmYfgfGGwgE) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/album/3hZAOa09G6paCElkWgyuSe) | 7:46 | 2021-08-31 | 2023-05-07 |
 | [Komm,susser Tod \(Mー10 Director's Edit.Version\)](https://open.spotify.com/track/05wOtTxLl9qeNWrOzJOsvd) | [ARIANNE](https://open.spotify.com/artist/2u9IFe5TWL93NHo3BKjn0w) | [EVANGELION FINALLY](https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj) | 7:46 | 2021-08-31 | 2022-07-29 |
 | [KYOU NO HI WA SAYOUNARA](https://open.spotify.com/track/4lmWXO1Zznr8HVok0vZWLp) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [Evangelion Finally](https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho) | 2:43 | 2021-08-31 | 2022-11-14 |
 | [L' Attaque des Anges](https://open.spotify.com/track/4VsGEmihdCExqdOzUkw9Tf) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 2:33 | 2021-08-31 |  |

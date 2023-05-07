@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-205 songs - 12 hr 34 min
+206 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 | 2023-01-23 |
 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 | 2022-07-04 |  |
 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 | 2022-06-20 |  |
+| [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 |  |
 | [dream drive \(feat\. hansohyun\)](https://open.spotify.com/track/6bAPp4QeJVZsNV25qeNpnQ) | [Ju Yoon Ha](https://open.spotify.com/artist/2G6zefY3cizYXTcpWNtNMP), [Han So Hyun](https://open.spotify.com/artist/1rPMbGyEuqszrddihRZ7Iq) | [dream drive \(feat\. hansohyun\)](https://open.spotify.com/album/4u6oiRKDWp20C75Y13EjGt) | 4:02 | 2022-07-08 | 2022-07-29 |
 | [Egg Flower](https://open.spotify.com/track/1EcjPaf8Hwoc4XIF7bn5za) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [youth](https://open.spotify.com/album/2qyRTNUHodWjs2FrP7tAYv) | 3:16 | 2022-06-20 | 2022-07-29 |
 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 | 2022-06-20 |  |
@@ -115,7 +116,7 @@
 | [Night Poem](https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Night Poem](https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU) | 3:05 | 2022-07-22 |  |
 | [No More Love](https://open.spotify.com/track/0FgzBnTAwEFcuO6bNYweaM) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:20 | 2022-06-20 | 2022-07-23 |
 | [Nobody's Fault](https://open.spotify.com/track/0Eqj077XY6OCq1NQReUviZ) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:24 | 2022-06-20 | 2022-07-14 |
-| [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 | 2023-03-11 |  |
+| [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [Yearbook 2022](https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4) | 3:15 | 2023-03-11 | 2023-05-07 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs) | 3:15 | 2022-07-22 | 2023-03-03 |
 | [Not Bad \(feat\. Dawon\)](https://open.spotify.com/track/5Qjsh4Xp6YQJIFSPWTdyAC) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 41](https://open.spotify.com/album/1XI748LrBjy0ui2wEPqpEM) | 3:15 | 2022-06-20 | 2022-07-29 |
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2022-06-20 | 2022-12-20 |

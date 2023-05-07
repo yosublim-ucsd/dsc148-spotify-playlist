@@ -4,7 +4,7 @@
 
 > As novidades do pop que estão explodindo no Spotify\. ✨ Foto: Ed Sheeran
 
-584 songs - 1 day 6 hr 5 min
+585 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,8 @@
 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 | 2023-04-14 |  |
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-24 | 2023-03-25 |
 | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \- Remix](https://open.spotify.com/track/5QQKWOwPjG9vcDBTQ5Hv5Q) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DANÇARINA \(feat\. Nicky Jam, MC Pedrinho\) \[Remix\]](https://open.spotify.com/album/47F5OvdnBKsti5MNRGJ2On) | 3:32 | 2022-06-10 | 2022-10-01 |
-| [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 |  |
+| [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 | 2023-05-07 |
+| [DEATH](https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 5:06 | 2023-05-05 |  |
 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 | 2022-06-17 | 2023-01-28 |
 | [Dengo](https://open.spotify.com/track/5Im4iahdAFX4pDpaEX7nVN) | [Kamatos](https://open.spotify.com/artist/3aANIxbg5GNj2aGxxpg4Mr), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Dengo](https://open.spotify.com/album/1XslYOpo2pgwh4KRlTb7k2) | 2:26 | 2022-05-23 | 2022-05-28 |
 | [Depois do Bailão](https://open.spotify.com/track/7Ap3UiKQYmTXJ6B08OqZQm) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Depois do Bailão](https://open.spotify.com/album/7526txUMrXPjDhklEBbo53) | 2:43 | 2022-11-25 | 2022-12-10 |

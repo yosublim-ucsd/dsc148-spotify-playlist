@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-616 songs - 1 day 8 hr 50 min
+617 songs - 1 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-04 |  |
 | [Bang!](https://open.spotify.com/track/53BHUFdQphHiZUUG3nx9zn) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Bang!](https://open.spotify.com/album/7B36GsLpC6IogfPjjkRlj3) | 2:50 | 2021-06-07 | 2022-04-18 |
 | [Bang!](https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI) | 2:50 | 2021-06-07 | 2023-01-28 |
-| [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-06 |  |
+| [barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 | 2022-05-06 | 2023-05-07 |
 | [Be Alright](https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Be Alright](https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD) | 3:16 | 2021-06-07 |  |
 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 | 2021-06-07 | 2023-01-28 |
 | [Be Like That \- feat\. Swae Lee & Khalid](https://open.spotify.com/track/5f1joOtoMeyppIcJGZQvqJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Be Like That \(feat\. Swae Lee & Khalid\)](https://open.spotify.com/album/7MKfE4IRGdrH5bMkqaZ2Tp) | 3:11 | 2021-06-07 | 2023-01-28 |
@@ -98,6 +98,7 @@
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-06-07 | 2023-01-28 |
 | [Borrow Your Time](https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Borrow Your Time](https://open.spotify.com/album/7b9O11SYtiGD26f8sXIcAJ) | 3:29 | 2021-09-03 | 2022-07-29 |
 | [Bounce](https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Bounce](https://open.spotify.com/album/0oZsVFFbw4qvK1m8KBlUel) | 2:52 | 2022-07-08 | 2023-02-07 |
+| [Bounce](https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:52 | 2023-04-14 |  |
 | [Bowie](https://open.spotify.com/track/5tm0PjvJrLgWlePHirgmo2) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Bowie](https://open.spotify.com/album/3WZEjiV5Zl6lYT2CIlYS80) | 4:41 | 2021-09-17 | 2022-04-21 |
 | [Brave](https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Brave](https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql) | 3:21 | 2022-01-07 |  |
 | [Break My Heart](https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:41 | 2021-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,084 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,094 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 74 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 |
 | 75 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 |
 
-Snapshot ID: `MCw0YTlkYTlkODZjMTY5Yzg2NDg0NTFjM2YyMTJkMDMxNWI3OTZmOTVj`
+Snapshot ID: `MCw1ZWFmOTYxOGM5MjgyMDk1ZjhlMDFlNjhjZTUzNDBhZGRhYTg0NTM0`

@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 867367,
+  "num_followers": 867433,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmIxMmE0NzI0NDU3MGYxZWFhMWE5YTM1YWQwNGE1ZWQ3ZmRiNGEx",
+  "snapshot_id": "MCw1MmY1MjVlYzE2NTE4Nzk2OTQ5ZmExMDJmNTVlNTcyZTdiMDdlNGQx",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 239805,
       "name": "Officer of Love",
       "url": "https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Lied",
-        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 234383,
-      "name": "I Lied (with Allison Ponthier)",
-      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 279186,
       "name": "Face Down In The Moment",
       "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "I Lied",
+        "url": "https://open.spotify.com/album/4qvrodQTZ7AfgQzOjfSAyq"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 234383,
+      "name": "I Lied (with Allison Ponthier)",
+      "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
       "artists": [
         {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Julia Stone",
+          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
         }
       ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
+      "duration_ms": 210725,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -891,22 +895,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
       },
       "artists": [
         {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        },
-        {
-          "name": "Julia Stone",
-          "url": "https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 210725,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Deadeye",
+        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Anybody Else",
+      "url": "https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Deadeye",
-        "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Anybody Else",
-      "url": "https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Song For The Thankful",
         "url": "https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 234799,
       "name": "Song For The Thankful",
       "url": "https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -1499,18 +1515,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+        "name": "Tiny Things",
+        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/23CYKO5L1wUGng3TL37fq0"
+      "duration_ms": 217687,
+      "name": "delay",
+      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1531,22 +1547,6 @@
       "duration_ms": 265387,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/3HqAL42mdJwmdjjUBh78ht"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Tiny Things",
-        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 217687,
-      "name": "delay",
-      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
         }
       ],
-      "duration_ms": 226258,
-      "name": "The Solitude",
-      "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+      "duration_ms": 290775,
+      "name": "Little Lover",
+      "url": "https://open.spotify.com/track/4wx3CZ1ykwZj7KY8S2dkC9"
     }
   ],
   "unique_name": "Chill Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,476 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,572 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 33 | [I Will Wait for You](https://open.spotify.com/track/152loRQOTUDsdMTQ7R7M4v) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [I Will Wait for You](https://open.spotify.com/album/6jnkamK8KNpSP94LLKDjxv) | 3:47 |
 | 34 | [Sunrise](https://open.spotify.com/track/60EiB2sz5mqvRiDvDb0ucZ) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Sunrise](https://open.spotify.com/album/3xbjnXESasgtICbl418mje) | 3:40 |
 | 35 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
-| 36 | [Nature Boy](https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [Nature Boy](https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555) | 4:35 |
+| 36 | [Nature Boy](https://open.spotify.com/track/6FlvwL0btl7luPQ3BwvTRE) | [Lennart Ricard](https://open.spotify.com/artist/477Kac69blOYChn7cvOb87), [Josephine Philip](https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM) | [North by Northwest](https://open.spotify.com/album/6nlpUuHSYiqaarQ9ueC6qa) | 4:35 |
 | 37 | [As Time Goes By](https://open.spotify.com/track/52VpkOqWWNzWNGgxJhsyYT) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [As Time Goes By](https://open.spotify.com/album/0Oxzmmp66dQWm1NH2A3OCc) | 4:56 |
 | 38 | [They Say It's Spring](https://open.spotify.com/track/6i5utOAbdSFJL88NeaKTmD) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [They Say It's Spring](https://open.spotify.com/album/6kshTowa1Ikhg1rLcHDhPX) | 4:48 |
 | 39 | [Petite musique terrienne](https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Mélusine](https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [That's All](https://open.spotify.com/album/2ytd2pxd1DDjiDNbqqJPaY) | 2:13 |
 | 100 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
 
-Snapshot ID: `MCw4MDcxNjVhNzYzODAxYWFkNmEwNWE5NDhlNmFlMWZmYWQ0YmI5YWFj`
+Snapshot ID: `MCw4OWNhOWNhMWYwNzg5MDU5ZDQ4ZTUyNDI2Y2JkZDQ2NmQ1NTQ0NGQ5`

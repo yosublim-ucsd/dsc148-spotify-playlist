@@ -2341,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -13146,7 +13168,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"

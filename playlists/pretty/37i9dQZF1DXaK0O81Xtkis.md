@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: The Aces
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,393 likes - 64 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,429 likes - 64 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 63 | [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 |
 | 64 | [Naive](https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:15 |
 
-Snapshot ID: `MCwyMDMzY2QwOTRkNmVkMTQ2MjU5YTQ0Zjg1ODE3OTBkYzIwMTYzZjAy`
+Snapshot ID: `MCxlYzA1OTUyOGQ0ZmUzOTE2MDQ2M2JlOTVhZDAzYjY0MGJjM2NlMjll`

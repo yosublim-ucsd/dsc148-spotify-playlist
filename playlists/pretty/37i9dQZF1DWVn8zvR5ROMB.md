@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Justin Moore, Luke Bryan, Megan Moroney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,985 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,234 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 4 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 |
 | 5 | [21 Forever](https://open.spotify.com/track/7aYzn6SP2JYi7Wx4Yk3TIN) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [21 Forever](https://open.spotify.com/album/015R3QaOLULmgl68tTxUXZ) | 5:19 |
 | 6 | [If I Die Young Pt\. 2](https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [If I Die Young Pt\. 2](https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV) | 3:23 |
-| 7 | [To Be Continued...\(feat\. Shaylen\)](https://open.spotify.com/track/5uDdDHlKGLpnDwi6eqrzjr) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Be Continued...\(feat\. Shaylen\)](https://open.spotify.com/album/5SUf4g6rZ80k4KDtMqn69W) | 3:14 |
+| 7 | [To Be Continued...](https://open.spotify.com/track/5uDdDHlKGLpnDwi6eqrzjr) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Be Continued...](https://open.spotify.com/album/5SUf4g6rZ80k4KDtMqn69W) | 3:14 |
 | 8 | [Wrong Side of a Sunrise](https://open.spotify.com/track/2iEhrJwK2glWAvqtyuulgq) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Wrong Side of a Sunrise](https://open.spotify.com/album/12It5FS5HApJv54o6hfawf) | 3:15 |
 | 9 | [I Wouldn't Be Here](https://open.spotify.com/track/38WqfgTFqCoWBiYQxXd4HK) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [I Wouldn't Be Here](https://open.spotify.com/album/0G59cqGnT1vweYoTlD5hlR) | 3:15 |
 | 10 | [Up Yours](https://open.spotify.com/track/32cOhoqi47gRehXNGO301L) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Up Yours](https://open.spotify.com/album/5127CHujKnwbDDn6ddYWR3) | 3:09 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 63 | [This Thing](https://open.spotify.com/track/3Kl5dXgeuCguNX8RuaRjgm) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [This Thing](https://open.spotify.com/album/2uTZj9fVnHWWCphtDez7Ys) | 2:50 |
 | 64 | [Burning Down The Barn](https://open.spotify.com/track/4Lg3t8gukZ6eJLEuMYl8oa) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Burning Down The Barn](https://open.spotify.com/album/0OwTegg1P8waNEvZT0GmGF) | 2:48 |
 
-Snapshot ID: `MCwzMjIwYTYzM2NkZTdjMjNiNzZlZjRhZjIyNjA3ODZlOGI0YTA4ZTA4`
+Snapshot ID: `MCw2MjhiODNjOGY2YjBiYTg3MGE5YTdlY2VkYTZlNGZkMjcwNWE5ZDJi`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 ### [Post\-Grunge Society](https://open.spotify.com/playlist/37i9dQZF1DWVwr24yj95lH)
 
-> The best Grunge heirs' songs\. Cover: Staind
+> The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,652 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,998 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 35 | [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 |
 | 36 | [Fine Again](https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:03 |
 | 37 | [45](https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Leave a Whisper \(Deluxe Edition\)](https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l) | 4:10 |
-| 38 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
-| 39 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
+| 38 | [Awake](https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Awake](https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4) | 5:04 |
+| 39 | [If You Could Only See](https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6) | [Tonic](https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU) | [Lemon Parade](https://open.spotify.com/album/6IQxEwIABLLej0bEYdrB0V) | 4:21 |
 | 40 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |
 | 41 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
 | 42 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 66 | [Bottom of a Bottle](https://open.spotify.com/track/3EmNjy3zFszmAOCikiKxCd) | [Smile Empty Soul](https://open.spotify.com/artist/1KEUVZo7CMTSJoM8doulOT) | [Shapeshifter](https://open.spotify.com/album/4t8bZNqNroLlMNj8p908VL) | 3:41 |
 | 67 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 | 68 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
-| 69 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
-| 70 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
+| 69 | [You](https://open.spotify.com/track/5J19HPdmJHOEu32iyZEt5k) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:57 |
+| 70 | [Anthem For The Underdog](https://open.spotify.com/track/6FFwt1ea9hJ4MfMQLywahm) | [12 Stones](https://open.spotify.com/artist/0DrXhci3WAyo0WJv1RBOG6) | [Anthem For The Underdog \(Bonus Track Version\)](https://open.spotify.com/album/2Qp0yu0Uaw3C83YNYqfgdv) | 3:04 |
 | 71 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
 | 72 | [So Cold](https://open.spotify.com/track/3xXKwkmkrpZmGpIof83xbE) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Shallow Bay: The Best Of Breaking Benjamin \(Explicit\)](https://open.spotify.com/album/68pVw4aHEP73HmIufK0gvP) | 4:33 |
 | 73 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 99 | [Cumbersome](https://open.spotify.com/track/6XmpvInnm4EgCUgXMTqIRR) | [Seven Mary Three](https://open.spotify.com/artist/2zsLaQhHFdQPdFXqG1nRmM) | [Churn](https://open.spotify.com/album/6vnsykSsmiy1etv3krbC5T) | 6:02 |
 | 100 | [Bulletproof Skin](https://open.spotify.com/track/1E5ftzZvJLOICYQ0oYDHID) | [Institute](https://open.spotify.com/artist/5dw20y4c03uTJPC7rKoDtS) | [Distort Yourself](https://open.spotify.com/album/5oKTgRe1bSLIkZ39pwHqrj) | 4:25 |
 
-Snapshot ID: `MCw0NmJmNzJmZTNlYTg2Y2FmZmQ0YzRjODczY2E0MTcxZWY0NmI2ODc1`
+Snapshot ID: `MCxhY2IwZWZlZjliYWJhZDZmN2VjNDRhOTY4MTE2ZjUzZTEzZmFkYzUy`

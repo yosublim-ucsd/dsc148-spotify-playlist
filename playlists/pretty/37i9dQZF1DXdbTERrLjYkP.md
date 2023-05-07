@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,192 likes - 65 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,224 likes - 65 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [Daydream](https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Daydream](https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf) | 3:09 |
 | 65 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 |
 
-Snapshot ID: `MCwxMGIxMzdjYThhYTdmYzc3NTNmMWE0NDA1MTc3OGYzN2E1YmE4ZGE4`
+Snapshot ID: `MCwwMDdlZTI0YzIwZGUyZjI4MWIwN2U1ZjYwMjY4MDkzMDg1ZmVkNDll`

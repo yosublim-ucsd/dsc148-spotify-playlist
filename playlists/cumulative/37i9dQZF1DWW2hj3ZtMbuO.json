@@ -3384,6 +3384,24 @@
     {
       "album": {
         "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
+    },
+    {
+      "album": {
+        "name": "Trick",
         "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
       },
       "artists": [
@@ -5166,7 +5184,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 207720,
       "name": "Talia",
       "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"

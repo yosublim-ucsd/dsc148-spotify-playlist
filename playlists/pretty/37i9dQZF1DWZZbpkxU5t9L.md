@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲をまとめてチェック。ゴールデンウィーク特別版！Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,840 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,973 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 45 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 46 | [金剛力士像](https://open.spotify.com/track/3y9ImuUtxOU6ZlAkbB5SRc) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [RABBIT STAR ★](https://open.spotify.com/album/0eK9iO9xQ5lcTGcXAggJzT) | 3:28 |
 | 47 | [チョット \(2019 Remastered\)](https://open.spotify.com/track/6OjoF2jP1asoqgABbAUIJF) | [Maki Ohguro](https://open.spotify.com/artist/2iTndWRSbuvR1tQkXzT59b) | [DA DA DA \(2019 Remastered\)](https://open.spotify.com/album/0UNfTswuHv7Kv5j2dSGwBm) | 3:37 |
-| 48 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 |
+| 48 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 49 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
 | 50 | [Symphony](https://open.spotify.com/track/4TI7dRixtHok7njiL4CCaI) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Symphony](https://open.spotify.com/album/5gXLrip7tdaXELfwcjDeeu) | 4:22 |
 | 51 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 99 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 |
 | 100 | [有頂天猫](https://open.spotify.com/track/3HgnyK2LWyhLtVnNFsCyQx) | [キヨ](https://open.spotify.com/artist/3AV2Gkfk7UMNVXeZFIlKBh) | [有頂天猫](https://open.spotify.com/album/1RSOLGYn6VhabvrG2tBuaH) | 3:40 |
 
-Snapshot ID: `MCw3ZTkwNjg0ZWEwMGMxMmQ0MzE0YTY1ZGY5MTY1MDdmNzI0N2I5Zjgx`
+Snapshot ID: `MCwzNWFjZWMyNDM0OGM1YzVkNGVjNGMzNmNiYTEzY2Q5YWI2M2NiNTRi`

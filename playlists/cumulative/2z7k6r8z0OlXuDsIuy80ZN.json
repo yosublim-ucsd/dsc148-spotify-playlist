@@ -2037,6 +2037,28 @@
     },
     {
       "album": {
+        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
+        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186045,
+      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
+      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
+    },
+    {
+      "album": {
         "name": "No, No Vuelve",
         "url": "https://open.spotify.com/album/6koZt4CD76dwvrx3miwSac"
       },
@@ -2408,7 +2430,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 163768,
       "name": "Qu\u00e9 bonita",
       "url": "https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU"

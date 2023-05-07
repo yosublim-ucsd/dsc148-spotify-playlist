@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-249 songs - 18 hr 9 min
+250 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Fuego de Cumbia / Dub de Sangre Pura \- Dub Mix](https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6) | [Los Gaiteros de San Jacinto](https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO) | [Dub de Gaita](https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk) | 5:46 | 2021-11-26 | 2023-05-05 |
 | [Fuego Que Te Llama](https://open.spotify.com/track/6d3iveqfwdbzSKPSEqEe2k) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [Supernatural Love](https://open.spotify.com/album/6l6TX9RcpFLmY2H3PgSiqn) | 4:44 | 2021-11-26 | 2022-07-27 |
 | [Ghost Dance](https://open.spotify.com/track/2K8z5hrIFrCTcYRab2EEbm) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/7Jem6NliPn5sp6LVkMDlHq) | 3:38 | 2021-11-26 | 2022-07-25 |
+| [Ghost Dance](https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y) | 3:38 | 2023-02-13 |  |
 | [Ghost Dance](https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [NO VISA](https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA) | 3:38 | 2022-04-15 | 2023-04-29 |
 | [Hiperbórea \- Quixosis Remix](https://open.spotify.com/track/18ouVxNiqAgqUSe4yFFweO) | [DNGDNGDNG](https://open.spotify.com/artist/4qw8wHJ1ZGNFQVZ1zM4NOq), [Quixosis](https://open.spotify.com/artist/1kBj1OQBW8iSmYbxIIQgcA) | [Door to the Cosmos](https://open.spotify.com/album/5OXv7liojuuI7rTt5JSZY8) | 4:15 | 2021-11-26 | 2022-05-11 |
 | [Hipnótico](https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [6](https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj) | 3:39 | 2021-11-26 |  |
@@ -245,7 +246,7 @@
 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 | 2023-02-13 |  |
 | [Ultravioleta \- DJ Raff Remix](https://open.spotify.com/track/5yoxKVZ1cqiB0ocI03iFeq) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Dat García](https://open.spotify.com/artist/0w34olI1oW0zc9bl7m8MpW), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ultravioleta Remixes](https://open.spotify.com/album/7ouXMhGcqxCHJzptPUZXhM) | 4:47 | 2021-11-26 | 2022-07-28 |
 | [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/17D02dGk9OaLePiabFtJFf) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/2iRT0PbeJWu7qgmeeO2wei) | 2:30 | 2022-04-15 | 2022-04-20 |
-| [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 | 2022-04-15 |  |
+| [Underwater Temples of Mahabalipuram](https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [Underwater Temples of Mahabalipuram](https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN) | 2:30 | 2022-04-15 | 2023-05-07 |
 | [Vamo a Dale Duro](https://open.spotify.com/track/0wSrYFuJBd6u8shdlBf4yj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Ghetto Kumbé](https://open.spotify.com/album/0eqlUfZMwPxebIrelMJZVe) | 3:48 | 2023-02-13 | 2023-05-05 |
 | [Vamo a Dale Duro](https://open.spotify.com/track/1wwgINDRmCrx2P7fYOScIj) | [Ghetto Kumbé](https://open.spotify.com/artist/2e74MUhJZSeg2Goe2UUAj3) | [Vamo a Dale Duro](https://open.spotify.com/album/4OSvkwaHIdJSuAdlQFIWtl) | 3:48 | 2021-11-26 | 2022-07-15 |
 | [Vayayó](https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Vayayó](https://open.spotify.com/album/7t4Ae9HXJBY9SbPj65E1Hf) | 2:09 | 2021-11-26 | 2023-05-04 |

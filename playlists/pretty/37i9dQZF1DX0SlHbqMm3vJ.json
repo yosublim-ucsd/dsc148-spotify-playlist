@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Balloranking",
-  "num_followers": 196989,
+  "num_followers": 197112,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDY2NTM3OWFhOTJkZjc2YjcxZTNjNGNiZDlhNmNiMjI2Mzc5ZGRj",
+  "snapshot_id": "MCwzMDdlOTE2ZjE3MTNjMTU5MDIxZDUyZmRmNjA1NTk4MzBhNThkN2Ey",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 211265,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Pheelz Good EP",
         "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 139000,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 211265,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -911,6 +911,26 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Line Of Fire",
+        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Line Of Fire",
+      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -979,26 +999,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Different (With Majid Jordan)",
         "url": "https://open.spotify.com/album/0XRJnjejsA9YXjYGdek23k"
       },
@@ -1015,22 +1015,6 @@
       "duration_ms": 146400,
       "name": "Different (With Majid Jordan)",
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Ouu Ahh",
-        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
-      },
-      "artists": [
-        {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
-        }
-      ],
-      "duration_ms": 165274,
-      "name": "Ouu Ahh",
-      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 164210,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Ouu Ahh",
+        "url": "https://open.spotify.com/album/19QvRjusHmaXHs52bSbR4C"
+      },
+      "artists": [
+        {
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+        }
+      ],
+      "duration_ms": 165274,
+      "name": "Ouu Ahh",
+      "url": "https://open.spotify.com/track/5ThHwyTTfpVADZ3lf8ul8j"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "In The Rough",
+        "url": "https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Seed - EP",
         "url": "https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "In The Rough",
-        "url": "https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Foreigner",
-        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 234384,
-      "name": "Foreigner",
-      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Let Them Know",
         "url": "https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 204382,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Foreigner",
+        "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 234384,
+      "name": "Foreigner",
+      "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "2 Bad",
-        "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "2 Bad",
-      "url": "https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -1435,6 +1419,26 @@
       "duration_ms": 230130,
       "name": "Wine",
       "url": "https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Spend Some Time",
+        "url": "https://open.spotify.com/album/6vLqNvKJdKPqIvDcwwuvEg"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Spend Some Time",
+      "url": "https://open.spotify.com/track/0NMfKNtRnvyF9QjlRvnv0I"
     }
   ],
   "unique_name": "Ginger Me",

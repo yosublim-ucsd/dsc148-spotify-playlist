@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Nicole Horts en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,262 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,329 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 42 | [Gotas](https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Gotas](https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB) | 3:35 |
 | 43 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 |
 | 44 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 |
-| 45 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 |
-| 46 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
-| 47 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
+| 45 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
+| 46 | [Mi Piscis](https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ahora A.K.A NAO](https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD) | 3:22 |
+| 47 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 |
 | 48 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 |
 | 49 | [9:15](https://open.spotify.com/track/505e4QYrsvZHOuojWxpOLK) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [9:15](https://open.spotify.com/album/0aHNuxs4GlcjYkoENqm6en) | 2:04 |
 | 50 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 
-Snapshot ID: `MCwyN2RmY2NjNzVlZjEyYTAyOWQzOTExOGE3YjBlNzk1OWU0OWY2Nzhm`
+Snapshot ID: `MCw0YTcxOGMzZDYzMDU1YTIyZmY5MTEyYmM4NzI4MWY1NDFhMTY0ZThl`

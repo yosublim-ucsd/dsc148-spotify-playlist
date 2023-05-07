@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 
 > ¡Buen provecho!
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,647 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,672 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 56 | [Tocarte](https://open.spotify.com/track/2Qkk5xpMVrOrXj1K1Wv40P) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [Tocarte](https://open.spotify.com/album/3ruktrqPw50q5kUXnWOiq0) | 2:31 |
 | 57 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
 | 58 | [chiquita suelta](https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [chiquita suelta](https://open.spotify.com/album/5Hc9NaLoW5cXLRwxqxgxxL) | 2:40 |
-| 59 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
-| 60 | [Quiero Que Vuelvas](https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quiero Que Vuelvas](https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX) | 2:36 |
-| 61 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
-| 62 | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Mabel](https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ) | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/album/6HR4ZwP1SpSH3IafP2VPSq) | 4:16 |
+| 59 | [Quiero Que Vuelvas](https://open.spotify.com/track/4HZg5K3kyDlJoscAL5888V) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Quiero Que Vuelvas](https://open.spotify.com/album/2lILQGv9BgTamuECgiljJX) | 2:36 |
+| 60 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
+| 61 | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/track/2FpvK90F0hDiZ5cNqFQhyd) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Mabel](https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ) | [El Reloj Cucú \(feat\. Mabel\)](https://open.spotify.com/album/6HR4ZwP1SpSH3IafP2VPSq) | 4:16 |
+| 62 | [Pronto](https://open.spotify.com/track/76v3J11Zq0HwkJqQLyw7sJ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Pronto](https://open.spotify.com/album/3BYgxxZDSXIfoa6Z7pz2NZ) | 3:48 |
 | 63 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
 | 64 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
 | 65 | [Ay, Ay](https://open.spotify.com/track/4MPPzIxQXworEyDIy0ffdd) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa0xldXwsLda.md) - [plain]
 | 99 | [Si Ella Se Va](https://open.spotify.com/track/2GvFANHYc9Nckxu4OQHDOf) | [Jafú](https://open.spotify.com/artist/30xVFd5hiy33d6mrczbNzZ) | [Si Ella Se Va](https://open.spotify.com/album/6xKegFA0uFcks5W2dTWgrE) | 2:52 |
 | 100 | [Juego de Amor](https://open.spotify.com/track/6xZ8P2C0gYWEy3EgkXVGuL) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Juego de Amor](https://open.spotify.com/album/34i7W2TuiUVTJoIsroG0Q9) | 3:58 |
 
-Snapshot ID: `MCwzODVjOGVkMmFhMGNjNmU2ZGY0N2NjMjVkNDc1OWNjMTU0Y2ZhZDgw`
+Snapshot ID: `MCwyOGU0ODdkZjNjM2I2ZmE4OTBiMmViNGNiNTgzYTA4MTU1MDE0Y2I4`

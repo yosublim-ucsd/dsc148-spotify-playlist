@@ -347,6 +347,28 @@
     },
     {
       "album": {
+        "name": "Golden Years (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181636,
+      "name": "Golden Years - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
+    },
+    {
+      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 148708,
+  "num_followers": 148763,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjE0MzdkY2ZlNWVmZjM1ODUwZTRlMjZjZTJiN2E2MGRjYTM0ZTlh",
+  "snapshot_id": "MCxmMWYyMGNjN2RlODM4MjcyNmE4MjgwNDNhNjRjM2JhYjlhMWY3ODkz",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 158506,
-      "name": "I Almost Lost My Mind",
-      "url": "https://open.spotify.com/track/7bJpjO7r5gMsHx1oepanuS"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "16 Most Requested Songs",
         "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 124640,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version",
       "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 158506,
+      "name": "I Almost Lost My Mind",
+      "url": "https://open.spotify.com/track/7bJpjO7r5gMsHx1oepanuS"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+        "name": "Mr. Broadway",
+        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
       "artists": [
         {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
         }
       ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
+      "duration_ms": 187586,
+      "name": "Stranger in Paradise",
+      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1183,22 +1183,6 @@
       "duration_ms": 189813,
       "name": "No One but You",
       "url": "https://open.spotify.com/track/1EryH4ZJhQxhq2OZFv1MwQ"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
-        "name": "Mr. Broadway",
-        "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Stranger in Paradise",
-      "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1231,6 +1215,22 @@
       "duration_ms": 147706,
       "name": "I'm Sorry I Made You Cry",
       "url": "https://open.spotify.com/track/7Fcm36e5Ov907Zf7C1DCZr"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2020-07-08 17:36:08",

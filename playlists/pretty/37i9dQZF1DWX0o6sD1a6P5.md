@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,894 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,495 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 |
 | 50 | [Ayele](https://open.spotify.com/track/0x9boesXCFnB1EJflJObae) | [Mr Leo](https://open.spotify.com/artist/0sfURdhcmXyrcFEWaJ2IJI) | [Ayele](https://open.spotify.com/album/1cXxGJjjYJUgyoAxLFA0IJ) | 3:31 |
 
-Snapshot ID: `MCw3OGVjZjUzNWQ5MDc3ZTAzMmFjOTMzNGY4YjdjOGE5YmU1NDJiMzBl`
+Snapshot ID: `MCw2ZDg0MDc0NzE3NTcxNDk4YTc0NWU1MjhmY2MyZjg3MjBjMDY5ZGQz`

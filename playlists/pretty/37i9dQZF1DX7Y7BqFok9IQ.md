@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,898 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,111 likes - 150 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 87 | [Muddy Water](https://open.spotify.com/track/7u4iSaTwibK4RlptP5mdnY) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA) | [Muddy Water](https://open.spotify.com/album/2tEQrIm7Kd6T2PDPF0KDun) | 4:48 |
 | 88 | [The Mould](https://open.spotify.com/track/5DWagsDtyFGdUSD2EM0dBQ) | [El Perro](https://open.spotify.com/artist/3Y9wKuwj8yuwt1EhIUxGDG) | [Hair Of](https://open.spotify.com/album/0F2pZYTsXZ5nWdSuFtTu1Y) | 3:59 |
 | 89 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
-| 90 | [Louder](https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Louder](https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd) | 3:39 |
+| 90 | [Louder](https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM) | [Chris Leamy](https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx) | [Fortress](https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9) | 2:45 |
 | 91 | [Innocence Of Youth \- Live](https://open.spotify.com/track/3wv8SOIuHKruVasUr4OuRP) | [When Rivers Meet](https://open.spotify.com/artist/3r4hYfzQA1yuQFEKMDJzJi) | [Innocence Of Youth](https://open.spotify.com/album/1c69MRP9d9rPor6AJ2cgfg) | 5:00 |
 | 92 | [You Give Me Something](https://open.spotify.com/track/5bSHyDR9VHcFUVUdh3cITx) | [Hamish Anderson](https://open.spotify.com/artist/3POH5YUeAlpiT9URlf9g0P) | [Out of My Head](https://open.spotify.com/album/539FA4h32bDJBDO88ruwXV) | 3:52 |
 | 93 | [Twisted Angel](https://open.spotify.com/track/1x5dPO4NtMBt8BsVx8cMzs) | [Ziggy Sullivin](https://open.spotify.com/artist/1GGvXGUggylx8NMKA0AITq) | [About to Xplode](https://open.spotify.com/album/7H1RSCEdKGrFF9aSQdANnJ) | 2:48 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Back to the Good](https://open.spotify.com/track/5lJeApjTsFOmSb0Q3iCmQs) | [Chris Antonik](https://open.spotify.com/artist/55m5gPmPkNV7Ztg6vBDcvD) | [Morningstar](https://open.spotify.com/album/5ON1Hg65ctPjcsaoFfm52F) | 4:13 |
 | 150 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 |
 
-Snapshot ID: `MCxlMTk0MjI4NTJhZDVjMjY5ZDdlMGE4YTc3YjJjZWI4ODYyOWQ4MTc1`
+Snapshot ID: `MCwwNDdhOTgzNmYxMTMxZTdhNjI0MjZkM2Y2MWExNTQ0NDc1YTU4ZDQw`

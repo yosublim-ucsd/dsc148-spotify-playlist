@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,269 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,276 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 49 | [Victory \- Live](https://open.spotify.com/track/4QZRa08aiH7wgQXAfjOwoL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 6:25 |
 | 50 | [Hear This](https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 4:49 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyNmMyNTMyNWZkYjIzZmU2NDBlNWM2MzZiYjRjOTcyOQ==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBkNDA0YjAyZmJmY2IyYTNhYjIxMDZmMTFkOWE5N2FkNA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,357 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,370 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [I Am Not the One](https://open.spotify.com/track/5PRBy8y79B3xM2Kx3tJbmb) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Today We Rebel](https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH) | 4:29 |
 | 50 | [Tempo](https://open.spotify.com/track/2qFykEZQhO43nt6Kbg0IFk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tempo](https://open.spotify.com/album/7CHHpR5lbHnnNdY2blhDhi) | 4:00 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA2NzZiYmRhNWQwNzdkMGZmOTgzOTliYTQyMTg3ZGNlZg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBkNTU5ZDE0NjI3YWU4NmI5MTVkNzQyNDk0YmFlNmE4Ng==`

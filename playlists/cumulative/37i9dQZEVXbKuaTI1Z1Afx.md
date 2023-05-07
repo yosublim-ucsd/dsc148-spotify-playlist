@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,487 songs - 3 day 7 hr 55 min
+1,488 songs - 3 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,6 +807,7 @@
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-12 | 2022-04-27 |
 | [Mar y Tierra](https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Mar y Tierra](https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w) | 3:05 | 2022-04-28 | 2022-05-03 |
 | [Marianela \(Que Pasa\)](https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Marianela \(Que Pasa\)](https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0) | 2:25 | 2023-01-31 | 2023-02-15 |
+| [Mario Brothers Rap](https://open.spotify.com/track/5WWMIzuU1YQ5F8DVF9sogd) | [Ali Dee](https://open.spotify.com/artist/11Z6vwNiOdfaki04eL60tj) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 0:58 | 2023-05-06 |  |
 | [Marisola](https://open.spotify.com/track/2pR6bipXfJySBhje19SW02) | [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz) | [Marisola](https://open.spotify.com/album/6pEq0eQ4Jk0C7plPyyyXDp) | 3:04 | 2022-08-22 | 2022-08-24 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-07-25 | 2022-09-15 |
 | [Mary On A Cross](https://open.spotify.com/track/7wdwIaXUuzlu1grzWMFRJm) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [\[MESSAGE FROM THE CLERGY\]](https://open.spotify.com/album/1BbfbJZan9d1srv8aHavom) | 4:04 | 2022-09-14 | 2022-10-12 |
@@ -861,7 +862,7 @@
 | [Monëy so big](https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:40 | 2022-01-23 | 2022-03-30 |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2023-03-21 | 2023-05-05 |
 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/38DlSDrx9tgc5Gfq6y3aBa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MOONLIGHT SUNRISE](https://open.spotify.com/album/5RB4SBhMgWr2S48npenObP) | 3:00 | 2023-02-14 | 2023-02-22 |
-| [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV) | 9:58 | 2023-05-04 |  |
+| [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [More Than Able \(feat\. Chandler Moore & Tiffany Hudson\)](https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV) | 9:58 | 2023-05-04 | 2023-05-07 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-31 | 2022-06-05 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-26 | 2022-03-16 |
 | [Mountain Dew \(with Tommy Makem\)](https://open.spotify.com/track/1t2NRCaPgdCScicuzq8tjG) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz), [Tommy Makem](https://open.spotify.com/artist/3oehGAh6rLM6LFdzM7E7zM) | [Irish Drinking Songs](https://open.spotify.com/album/22g2ochq0A8wojUx2SPm13) | 2:11 | 2022-03-20 | 2023-03-26 |

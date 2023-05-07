@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Debussy: Children's Corner, CD 119: VI. Cakewalk",
+        "url": "https://open.spotify.com/album/7ovIbuxHK1jRdrwpLOgjun"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Isata Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Children's Corner, CD 119: VI. Cakewalk",
+      "url": "https://open.spotify.com/track/1sSkBaP2bKPT7WmYBVBtzI"
+    },
+    {
+      "album": {
         "name": "Debussy: Pr\u00e9ludes Book 1; Children's Corner",
         "url": "https://open.spotify.com/album/2Oi2aHZGEYJdDMcaiaxIfe"
       },
@@ -440,28 +462,6 @@
       "duration_ms": 229786,
       "name": "Debussy: Cello Sonata in D Minor, L. 135: I. Prologue",
       "url": "https://open.spotify.com/track/4lbFG9bdGJO8z3ERHwxMyl"
-    },
-    {
-      "album": {
-        "name": "Debussy: Children's Corner, CD 119: VI. Cakewalk",
-        "url": "https://open.spotify.com/album/7ovIbuxHK1jRdrwpLOgjun"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Isata Kanneh-Mason",
-          "url": "https://open.spotify.com/artist/7FEzSfCBSOo0wAmdk9pQ6M"
-        }
-      ],
-      "date_added": "2023-04-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182733,
-      "name": "Debussy: Children's Corner, CD 119 - VI. Cakewalk",
-      "url": "https://open.spotify.com/track/1sSkBaP2bKPT7WmYBVBtzI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,434 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,490 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 58 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
 | 59 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 |
 | 60 | [Listen Up](https://open.spotify.com/track/1vtkAVGkmMckxrlbLEHhTx) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 3:10 |
-| 61 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
-| 62 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
+| 61 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
+| 62 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
 | 63 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 |
 | 64 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
 | 65 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 70 | [God, Help Me](https://open.spotify.com/track/0MHl3Mr31DYK8p1lsUEVqP) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [God, Help Me](https://open.spotify.com/album/39zshfgyTuvgEfx4YOXAMT) | 2:57 |
 
-Snapshot ID: `MCw2NjU5ZmYyYTYxN2I1NmY1MDEyYzEzNjdhMDYxMjgxNGVhNTI2ODBi`
+Snapshot ID: `MCw2ZGMwNTcwYzYwOTc0NmI2M2M1OWQ3M2UyYWFmYzA0NDMyZGZhNzRk`

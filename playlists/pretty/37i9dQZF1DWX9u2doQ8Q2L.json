@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 367171,
+  "num_followers": 367505,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGRiNjQ2MjdkM2MwOTZmNWI5MDA2YzhlYTJiNWU4ZTBiNjMyZDQz",
+  "snapshot_id": "MCxkODMwNTU5OWEyMDczY2MzZDg5N2MxOWNjM2MxYTlhYzQ1ODkxNzg2",
   "tracks": [
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Departure : My New Me",
-        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
-      },
-      "artists": [
-        {
-          "name": "FIVE NEW OLD",
-          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Trickster",
-      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
+        "name": "Departure : My New Me",
+        "url": "https://open.spotify.com/album/6NFXKfWoqQFS1O22Pkvop0"
+      },
+      "artists": [
+        {
+          "name": "FIVE NEW OLD",
+          "url": "https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Trickster",
+      "url": "https://open.spotify.com/track/4080qNZP4kWloqGH3ujVkp"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1559,6 +1559,26 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
+        "name": "BE THE GROOVE",
+        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
+      },
+      "artists": [
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Mori Zentaro",
+          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "BE THE GROOVE",
+      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -1587,22 +1607,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "BE THE GROOVE",
-        "url": "https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb"
+        "name": "BEGINNING - EP",
+        "url": "https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        },
-        {
-          "name": "Mori Zentaro",
-          "url": "https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD"
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
         }
       ],
-      "duration_ms": 164800,
-      "name": "BE THE GROOVE",
-      "url": "https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3"
+      "duration_ms": 226281,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 281179,
       "name": "\u751f\u304d\u308b\u8005",
       "url": "https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "BEGINNING - EP",
-        "url": "https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 226281,
-      "name": "YOUTH",
-      "url": "https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
+        "name": "orange",
+        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
+      },
+      "artists": [
+        {
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "orange",
+      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
         "name": "Inner Ocean",
         "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
       },
@@ -1727,38 +1743,6 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "orange",
-        "url": "https://open.spotify.com/album/4l0svnFTrWNYbN02FNxmGk"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "orange",
-      "url": "https://open.spotify.com/track/1OzZI9XdRIkAkYqAsUlJnL"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
-      },
-      "artists": [
-        {
-          "name": "BBHF",
-          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
-      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
         "name": "Who are you ?",
         "url": "https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX"
       },
@@ -1779,18 +1763,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "2016",
-        "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
+        "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+        "url": "https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1"
       },
       "artists": [
         {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+          "name": "BBHF",
+          "url": "https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY"
         }
       ],
-      "duration_ms": 240833,
-      "name": "2016",
-      "url": "https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q"
+      "duration_ms": 158500,
+      "name": "\u30e1\u30ac\u30d5\u30a9\u30f3",
+      "url": "https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1819,6 +1803,22 @@
       "duration_ms": 171000,
       "name": "HONEY DARLIN (feat. Aile The Shota)",
       "url": "https://open.spotify.com/track/3MvyeAc8ueBaRSrmZWHFco"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/7qeQudNVKihiHBykhZa5IY"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 240833,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/7nQdpfYzWAZ48Q2IcmrC3Q"
     },
     {
       "added_at": "2023-05-04 15:00:00",

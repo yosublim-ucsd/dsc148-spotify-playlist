@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 364354,
+  "num_followers": 364447,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjI0N2ViZjY1OWNlODI1Zjk2ZGY4NzBkNzEzYjU3ZjA5MWQ4ODIy",
+  "snapshot_id": "MCw3NDYxYmU5NzgxMWIyMjg1YThlMmZiMWIwYmRmYjFkOGExYjU5NzE0",
   "tracks": [
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
         "name": "Following El Sol",
         "url": "https://open.spotify.com/album/79lI3oyjEOuwyIEMqbKRuj"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Marvin The Album - 21st Anniversary Edition",
+        "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
+      },
+      "artists": [
+        {
+          "name": "Frente!",
+          "url": "https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U"
+        }
+      ],
+      "duration_ms": 119813,
+      "name": "Bizarre Love Triangle - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
-        "name": "Marvin The Album - 21st Anniversary Edition",
-        "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
       "artists": [
         {
-          "name": "Frente!",
-          "url": "https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U"
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
         }
       ],
-      "duration_ms": 119813,
-      "name": "Bizarre Love Triangle - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-04-20 22:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-04-20 22:00:00",
       "album": {
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 236819,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
+    },
+    {
+      "added_at": "2023-04-20 22:00:00",
+      "album": {
         "name": "No One's Gonna Love You (Stockholm Version)",
         "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 343249,
       "name": "reverie",
       "url": "https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH"
-    },
-    {
-      "added_at": "2023-04-20 22:00:00",
-      "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 236819,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ"
     },
     {
       "added_at": "2023-04-20 22:00:00",

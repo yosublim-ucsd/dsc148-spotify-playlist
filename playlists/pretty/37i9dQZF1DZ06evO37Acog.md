@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,352 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,419 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
 | 50 | [Copa Tras Copa](https://open.spotify.com/track/27Rg03fybbYtpqddr7RhAx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Como el Topo](https://open.spotify.com/album/76MCJSsUiEBdqkPUHSTas6) | 3:28 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA5ZTRhYTBkNTMwZTJlMjFlYWU3YTBhYzZkODkzZjUyYQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwZTc5YWE2NDIwN2YwZDM2YWQ2ODE1YjEzODQ0ZDMwNA==`

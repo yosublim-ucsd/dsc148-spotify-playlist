@@ -1,12 +1,12 @@
 {
   "description": "Buenas vibras para limpiar la casa! The best vibes to keep the house clean!",
-  "num_followers": 197109,
+  "num_followers": 197255,
   "original_name": "Cleaning Kit en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWUzMjkyYjIzNDU5NDQ3NzI3ZDRiODE4YjU1ZjM1N2Q5ZDUxNWQw",
+  "snapshot_id": "MCwyNjQwNGNhZDYxZDM1ZDdmN2QxZDhkZDhjYzE5YmNkNzk2NzgwNjA3",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "MOTEL CALIFORNIA",
-        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
+        "name": "Hoja en Blanco",
+        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
       },
       "artists": [
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 213033,
-      "name": "MOTEL CALIFORNIA",
-      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
+      "duration_ms": 307200,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -875,18 +871,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hoja en Blanco",
-        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
+        "name": "MOTEL CALIFORNIA",
+        "url": "https://open.spotify.com/album/2UASGQROe47zGr0SJRukjO"
       },
       "artists": [
         {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 307200,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
+      "duration_ms": 213033,
+      "name": "MOTEL CALIFORNIA",
+      "url": "https://open.spotify.com/track/2YaAk5IAyTMk40RMqCPP87"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 179320,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "La Leyenda (Version Super Deluxe)",
         "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 187524,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1431,22 +1415,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Yo No Soy Esa Mujer",
-      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1479,6 +1447,38 @@
       "duration_ms": 240973,
       "name": "Oye Mi Canto",
       "url": "https://open.spotify.com/track/3J6vrRMz6EfwH2sgYiyNhc"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Yo No Soy Esa Mujer",
+      "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 309586,
-      "name": "Ahora Quien - Salsa Version",
-      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "El Sapo",
         "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 123960,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 309586,
+      "name": "Ahora Quien - Salsa Version",
+      "url": "https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "El Amor De Mi Tierra",
         "url": "https://open.spotify.com/album/6KOqhvDPcG9HKntCfiWesH"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 233093,
       "name": "Fruta Fresca",
       "url": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2023-04-28 04:00:00",

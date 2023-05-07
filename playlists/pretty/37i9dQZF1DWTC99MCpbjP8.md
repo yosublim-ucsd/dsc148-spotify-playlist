@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,261 likes - 305 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,309 likes - 305 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 76 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 |
 | 77 | [unkai](https://open.spotify.com/track/26Sfu4rZ10IU9R5u3erN00) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [unkai](https://open.spotify.com/album/7ujkaYYK3zTOSpovl6piTa) | 2:21 |
 | 78 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 |
-| 79 | [Gjeilo: Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 |
+| 79 | [Winter \- Ambient Mix](https://open.spotify.com/track/59xDPiJXRjFptEUIKmagDn) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Winter \(Ambient Mix\)](https://open.spotify.com/album/2kmzeCtSXl8N7ODN94r3RM) | 4:12 |
 | 80 | [Sonnen Sterne](https://open.spotify.com/track/1uKZ6TyMFXuvu9sZWpN202) | [Che Lan](https://open.spotify.com/artist/7spHGT6sHhYOiJN52obbbM) | [Tal Weg](https://open.spotify.com/album/4nZmqnXwBWbaPUvr44VG3u) | 2:59 |
 | 81 | [Infinite](https://open.spotify.com/track/6FPMx8iE0KmRFecOqkk3td) | [Leo Mano](https://open.spotify.com/artist/1x9ObNWFFnva8uRVSFdvTM) | [Infinite](https://open.spotify.com/album/2fpijf8Ci9JIaznRWSifT0) | 2:26 |
 | 82 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 |
@@ -314,4 +314,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 304 | [In The Stars](https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8) | [Rebecca Woods](https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz) | [In The Stars](https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV) | 2:43 |
 | 305 | [Night Solace](https://open.spotify.com/track/4Z94Nth1RThACL5ohW5xpy) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Night Solace](https://open.spotify.com/album/3XBvc453nHdxoK0PYyOouF) | 2:41 |
 
-Snapshot ID: `MCxhYTAzM2ExNmVjZDg4NjZlZTYyZmJhOTY3NTQyYTI0ZGZjZDA2NWVh`
+Snapshot ID: `MCxhZWU2MDljNGE0ZTkxMGEyYmUyZjVlMmJlNDcxODU3NGM0MGNlOWVh`

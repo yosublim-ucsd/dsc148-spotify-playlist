@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,764 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,791 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 42 | [Moston Vale \- Freestyle](https://open.spotify.com/track/20xAxcLJtYfTgedHH58NP1) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28) | [Moston Vale \(Freestyle\)](https://open.spotify.com/album/57EhN6tJNY3G8soKrijQYb) | 1:40 |
 | 43 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
 | 44 | [Paro\(noia\)](https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [In The Loop](https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS) | 3:15 |
-| 45 | [One Pop](https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92) | [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [One Pop](https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP) | 3:04 |
-| 46 | [Can’t Feel My Face](https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can’t Feel My Face](https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9) | 2:42 |
+| 45 | [Can’t Feel My Face](https://open.spotify.com/track/58soKhQRucM4TZa4fpKfxY) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Can’t Feel My Face](https://open.spotify.com/album/1GtsUPgOszu46D4XeSfnr9) | 2:42 |
+| 46 | [One Pop](https://open.spotify.com/track/7Eb5AWWwaTIJnxhjsAGN92) | [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [One Pop](https://open.spotify.com/album/4T9g1LO1TxjclRuejUVawP) | 3:04 |
 | 47 | [18+](https://open.spotify.com/track/5KO7ewKFToXht9LbQDLPW5) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL) | [Love Letters](https://open.spotify.com/album/4XeVz88NHvjEJHq65gYsnb) | 2:08 |
 | 48 | [Trust Issues](https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd), [BlixzBeatz](https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT) | [Trust Issues](https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M) | 2:00 |
 | 49 | [If I knew how to save us](https://open.spotify.com/track/0qjykBuIzZe0p50OxRnWEj) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [If I knew how to save us](https://open.spotify.com/album/4eXgOd7RqpRwBcW7ZgqKg1) | 2:37 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 55 | [Be Forreal](https://open.spotify.com/track/3y6cH5sy37Mb7gK6slyIlB) | [Tevin Terrell](https://open.spotify.com/artist/0fhCAbWfW3DL0DrJAZpZ2S) | [In Due Time](https://open.spotify.com/album/7nTX2UAegtxAFreniQhSaI) | 2:57 |
 | 56 | [Deeper Than Drill](https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n) | [Ronzo](https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd) | [Deeper Than Drill](https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF) | 2:54 |
 | 57 | [Day and Night](https://open.spotify.com/track/4foQk41zscf2ya3sDW7sDx) | [Otis Lloyid](https://open.spotify.com/artist/0us4QqkjwND1o2fDahODKk) | [Day and Night](https://open.spotify.com/album/6f0CmOgIRoUFipHtcT3oP5) | 3:11 |
-| 58 | [My Girl \(Gemini\)](https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN) | 2:33 |
-| 59 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
+| 58 | [9AM](https://open.spotify.com/track/1dp6T547hI6B7ASSh2aDKl) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/0uG0IQx1hfrr4vVnRAQKip) | 2:52 |
+| 59 | [My Girl \(Gemini\)](https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb) | [Stan](https://open.spotify.com/artist/6EQXzOyzX6qAviHQ4npk6v) | [My Girl \(Gemini\)](https://open.spotify.com/album/0kDX44qFjCF9l2bBnNflKN) | 2:33 |
 | 60 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
 | 61 | [5 AM](https://open.spotify.com/track/3zBKOSfhbTQf25e5gyonsr) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [5 AM](https://open.spotify.com/album/0xySLyC4aVMfDdrbp8hpiy) | 1:36 |
 | 62 | [Derby To Moston](https://open.spotify.com/track/5nQeK00UfK34X2KDK7kXv9) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Derby To Moston](https://open.spotify.com/album/3w5vmyXBYTKFDq2skSk7SO) | 3:02 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 76 | [High On Love](https://open.spotify.com/track/4PIwRMHN8lPN6rfpzHxY2O) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:01 |
 | 77 | [Just You](https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:49 |
 | 78 | [Scorpio Trait](https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t) | [Fabio G](https://open.spotify.com/artist/6IrmquAwUh8qHOrXtbrS6R) | [Scorpio Trait](https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7) | 4:09 |
-| 79 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
-| 80 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
-| 81 | [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 |
+| 79 | [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 |
+| 80 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
+| 81 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
 | 82 | [Because I Love You](https://open.spotify.com/track/5cKpTKVbBexwPIDGfx2nej) | [Mic Righteous](https://open.spotify.com/artist/1WWT4mBMw1S2OTXF1HfKoe) | [Suicycle](https://open.spotify.com/album/48nLxoyzjbGKkpYreT7isy) | 6:32 |
 | 83 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
 | 84 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [I Wanna Start My Life Again](https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk) | 2:30 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCwxMDc1ODhiNWI2ZGM4MGViNzg3MjQwZThlNDcwZWRjN2Y2YzJmNGQx`
+Snapshot ID: `MCxiYjkyNjg0MjkwMGMxMTNmZmNjNzA5MzQ5MGYyYjRjYjA5YTExYjE4`

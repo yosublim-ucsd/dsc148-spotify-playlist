@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: aespa\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,984 likes - 64 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 900,687 likes - 64 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 57 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 |
 | 58 | [ILLELLA](https://open.spotify.com/track/0oeVHAgY8Q7Mdce5Quj2G4) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [MIC ON](https://open.spotify.com/album/6TOnqVuglIk6Db2TdUwTcZ) | 2:46 |
 | 59 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
-| 60 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 |
+| 60 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
 | 61 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 |
-| 62 | [NUNU NANA](https://open.spotify.com/track/2cUzIBGMvx2BZ2Q1fzjdl1) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [NUNA](https://open.spotify.com/album/6XBIkDFhDgc3PQOUEcO2fd) | 3:15 |
+| 62 | [BEAUTIFUL MONSTER](https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [WE NEED LOVE](https://open.spotify.com/album/04EniWu488MF6louRYafKJ) | 3:00 |
 | 63 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 64 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 |
 
-Snapshot ID: `MCwxMjZjMTU1MjVhNGYzNmJmZGI5ZWIwYWJmODllZjc2NTg0MTBjZDIz`
+Snapshot ID: `MCxkZDg1MmQxNThiYWYxYTU4NzA4OWI1OGY3YTUyMmQyNjQ0NjlhODFl`

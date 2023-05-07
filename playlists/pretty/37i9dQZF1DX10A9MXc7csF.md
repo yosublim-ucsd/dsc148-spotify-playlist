@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,740 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,754 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 15 | [Duplicar](https://open.spotify.com/track/0lm26HV7CMEKmzYf8CvRGo) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B) | [Duplicar](https://open.spotify.com/album/1Uz3IYaVHXJQVKpKqOQSmq) | 2:25 |
 | 16 | [Colores](https://open.spotify.com/track/1TqwsV3qZ14W6W453pnlAh) | [Juan De Ron](https://open.spotify.com/artist/3yrMnFLhmMGBW37Nse1VQl), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Colores](https://open.spotify.com/album/01x5IAT1NFDm8rcTfNxe8E) | 2:41 |
 | 17 | [Rosa Pastel](https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Rosa Pastel](https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v) | 3:24 |
-| 18 | [Corazon Romantico](https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Corazon Romantico](https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd) | 3:14 |
+| 18 | [Corazón Romantico](https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Corazón Romantico](https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd) | 3:14 |
 | 19 | [Se Vale Llorar](https://open.spotify.com/track/2IPKMa4b7u0eFTEIPDpMaT) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [Se Vale Llorar](https://open.spotify.com/album/1nbiWbPeklVTR4ZS38FFk8) | 2:56 |
 | 20 | [Asi Enamorado](https://open.spotify.com/track/1uYSYQ6O9QJY1iUCcRBSiP) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Asi Enamorado](https://open.spotify.com/album/1mOli3HIAzLX6oNra6KnGD) | 3:43 |
 | 21 | [Volverte A Amar](https://open.spotify.com/track/7AWcB8E2rckklyezjvUqSj) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Una Copa Por Cada Reina \(Deluxe\)](https://open.spotify.com/album/1G9FPee5jWwNpWS7iefMq5) | 3:18 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 39 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 |
 | 40 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 41 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
-| 42 | [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 |
-| 43 | [Loco Enamorado](https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Perdido en el Tiempo](https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua) | 1:56 |
+| 42 | [Loco Enamorado](https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Perdido en el Tiempo](https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua) | 1:56 |
+| 43 | [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 |
 | 44 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 |
 | 45 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 46 | [En El Refuego \- En Vivo](https://open.spotify.com/track/1fJQRPzVVLNQZBYWelnL94) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Paso A Paso \(En Vivo\)](https://open.spotify.com/album/14BlR5eufuicsQW8uDZD4n) | 1:57 |
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 51 | [Tu](https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl) | [Panchito Vega](https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg) | [Tu](https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE) | 4:15 |
 | 52 | [Payonazo Exoticos](https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Payonazo Exoticos](https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR) | 3:53 |
 | 53 | [Tiempos de Guerra 2](https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Tiempos de Guerra 2](https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa) | 2:51 |
-| 54 | [El Mago](https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Mago](https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U) | 3:48 |
+| 54 | [Lágrimas De Dolor](https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Lágrimas De Dolor](https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY) | 3:49 |
 | 55 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
-| 56 | [Lágrimas De Dolor](https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Lágrimas De Dolor](https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY) | 3:49 |
+| 56 | [El Mago](https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Mago](https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U) | 3:48 |
 | 57 | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [Golpe de Suerte \(En Vivo\)](https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S) | 3:10 |
 | 58 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
 | 59 | [Ahora](https://open.spotify.com/track/2h3zkX27P38Y8iX4LsWbU9) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe), [Abelardo Quintanilla](https://open.spotify.com/artist/4jxLeijuzA7Ik1MWMULuob) | [Malandro Enamorado 2](https://open.spotify.com/album/2FF7rAoQlASr5oL8dysdsz) | 3:54 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 73 | [Mi Corazón](https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz) | [Porto Fino](https://open.spotify.com/artist/1KBAMss5TbuIZUDf9STspe) | [Mi Corazón](https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21) | 3:37 |
 | 74 | [Vivo el Peligro](https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C) | [Vivo el Peligro](https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr) | 2:40 |
 | 75 | [Envidiada](https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Envidiada](https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE) | 2:45 |
-| 76 | [El Jamaico](https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [El Jamaico](https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33) | 2:24 |
-| 77 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
+| 76 | [El Raulito](https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx) | [Pitt Blanco](https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o) | [El Raulito](https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD) | 3:10 |
+| 77 | [El Jamaico](https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [El Jamaico](https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33) | 2:24 |
 | 78 | [Muriendo Lento](https://open.spotify.com/track/2NkSZA9C8xRCZrrOQLqjfU) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Muriendo Lento](https://open.spotify.com/album/4xA8QCP8FhTfiVxfnDgotb) | 3:32 |
 | 79 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
 | 80 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 
-Snapshot ID: `MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw`
+Snapshot ID: `MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh`

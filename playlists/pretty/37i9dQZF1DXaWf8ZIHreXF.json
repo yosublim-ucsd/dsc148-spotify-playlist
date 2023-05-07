@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2010s. ",
-  "num_followers": 139658,
+  "num_followers": 139815,
   "original_name": "Dance Hits 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDZjMDJlMTRhNzQ5OTAzMzliMzQ4NmIwNTM4MTQxY2M3MzE2N2Uz",
+  "snapshot_id": "MCxmYzcxNWI4NmEzNzE4YzgzOWM5NDYzOWM4OWU5NTQzMWNiMTVlNzZi",
   "tracks": [
     {
       "added_at": "2022-11-14 09:15:10",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2022-11-14 09:15:10",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
-      },
-      "artists": [
-        {
-          "name": "Karen Harding",
-          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
-        },
-        {
-          "name": "Zac Samuel",
-          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
-        }
-      ],
-      "duration_ms": 213135,
-      "name": "Say Something - Zac Samuel Remix",
-      "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
-    },
-    {
-      "added_at": "2022-11-14 09:15:10",
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 240000,
       "name": "I Want You To Know",
       "url": "https://open.spotify.com/track/1JDIArrcepzWDTAWXdGYmP"
+    },
+    {
+      "added_at": "2022-11-14 09:15:10",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/6OY5SQlmfr67Pfi2vrqMcH"
+      },
+      "artists": [
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        },
+        {
+          "name": "Zac Samuel",
+          "url": "https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0"
+        }
+      ],
+      "duration_ms": 213135,
+      "name": "Say Something - Zac Samuel Remix",
+      "url": "https://open.spotify.com/track/5QifrqmnjHzdOuBAheeeNU"
     },
     {
       "added_at": "2022-11-14 09:15:10",

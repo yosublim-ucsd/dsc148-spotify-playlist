@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 
 > Soft, relaxing music for workout recovery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,117 likes - 112 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,120 likes - 112 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI1rlvkdQnb.md) - [plain]
 | 111 | [Moonstone](https://open.spotify.com/track/5VvSeHFi0obsd0Dx1dbsYi) | [Pim Miles](https://open.spotify.com/artist/3z6OaFpSGrLQmmDtvL0Zyr) | [Moonstone](https://open.spotify.com/album/2O8POj7EMwBTPpnMtuL3MM) | 3:26 |
 | 112 | [Parc Güell](https://open.spotify.com/track/1hOEj6667PNM1Y7a1xXfek) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/0AoLN81p8pWTCGh4UEX1TS) | 3:28 |
 
-Snapshot ID: `MCxmMGNkZjY1ZDliMTkxOGM5NjJkYjBjY2U5Y2M4ZmMxOGFhZGQ2YjBh`
+Snapshot ID: `MCwzZjhmZjllNmZjOTBkZGEzZDc2YWE1ZGQ2NTM1MTIyMDBhMTZiMzNm`

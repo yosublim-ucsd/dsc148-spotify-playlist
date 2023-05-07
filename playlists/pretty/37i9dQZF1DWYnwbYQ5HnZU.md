@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 
 > Spotify country fan favorites\. Artist: Lady A
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,161,850 likes - 95 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,161,828 likes - 95 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 72 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 |
 | 73 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 |
 | 74 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
-| 75 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
-| 76 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF) | 3:04 |
+| 75 | [Are You Gonna Kiss Me Or Not](https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Thompson Square](https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF) | 3:04 |
+| 76 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 77 | [She Thinks My Tractor's Sexy](https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 4:08 |
 | 78 | [Do I Make You Wanna](https://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Summer Forever](https://open.spotify.com/album/3OkqAak6KhIQExElXif7UW) | 3:54 |
 | 79 | [I'm Not For Everyone](https://open.spotify.com/track/143YESFOZqxVGrKEWisbid) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Skeletons](https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR) | 2:52 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnwbYQ5HnZU.md) - [plain]
 | 94 | [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 |
 | 95 | [Kiss Somebody](https://open.spotify.com/track/4f3fb3alVLFc8Ga4ncpg7x) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:33 |
 
-Snapshot ID: `MCwzOGU5ZmVlNmY5MDY2Y2VjYzU2N2I0ODE3YjBmNjIyMjcwZjA3Mzc3`
+Snapshot ID: `MCxjNGIwZTQ5ODFhZTA5MjMzNWZmMGZmNTEyYjcxMDA1ZDQwY2RjMTgz`

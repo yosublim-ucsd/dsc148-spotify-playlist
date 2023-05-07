@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,489 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,589 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 28 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 |
 | 29 | [Te Sorprenderas](https://open.spotify.com/track/3PmZbVgKrXe2v7H5y5d8uk) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:48 |
 | 30 | [Infiel](https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA) | [Alto Voltaje](https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX) | 4:06 |
-| 31 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
+| 31 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
 | 32 | [Como Te Olvido](https://open.spotify.com/track/7IbDpOVisfNkYWR07l1Y5U) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:50 |
 | 33 | [Cuando Casi Te Olvidaba](https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO) | 4:42 |
-| 34 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 |
+| 34 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
 | 35 | [A Blanco y Negro](https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Más Unidos Que Nunca](https://open.spotify.com/album/20WkxKAK5cgqE6B3Llet7k) | 4:40 |
 | 36 | [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 |
 | 37 | [Perdoname La Vida](https://open.spotify.com/track/2wke02gJ784npzihaoJ0em) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:52 |
-| 38 | [Dime Que Me Quieres](https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw) | [Grupo Vallenato](https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE) | [Vallenato Fest](https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06) | 5:16 |
+| 38 | [El Santo Cachon](https://open.spotify.com/track/3zR4QhbiQ7zZ6eR58jT43d) | [Los Embajadores Vallenato](https://open.spotify.com/artist/2J95wKK8c7dnly0hkJ2b6X) | [Grandes Exitos](https://open.spotify.com/album/3RsbxYK9uTkSMZTDqNaJnM) | 4:29 |
 | 39 | [Pregúntele a Su Hija](https://open.spotify.com/track/4tU8cB6Sjtj7vJfD06KoZn) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Emilio Oviedo](https://open.spotify.com/artist/0gp7YgvBbdKBOd6dJIYY8z) | [Sólo Clasicos](https://open.spotify.com/album/5x7mrRtR1jPqBH6N2BuXou) | 4:40 |
 | 40 | [No Comprendi Tu Amor](https://open.spotify.com/track/1geLwtTJ0LTCwNA2cX8k9z) | [Jorge Oñate](https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG), [Álvaro López](https://open.spotify.com/artist/6TzsQhITSRn9p0E3WVXloO) | [Coleccion Top 50](https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY) | 4:42 |
 | 41 | [Busca Un Confidente](https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Lenguaje Universal](https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k) | 4:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 59 | [muero por verla luis mateus vallenato](https://open.spotify.com/track/0TONniNVBHXA4QvTw93P91) | [14 vallenatos sabroso corta venas vol.1 exitos](https://open.spotify.com/artist/06KHPOCzkYqiehC5da8hrl) | [14 vallenatos sabroso](https://open.spotify.com/album/0gXmF1WjNrMS7lr2IGvZlc) | 4:43 |
 | 60 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 
-Snapshot ID: `MCxkM2U3MTIxYjAxMDEwY2ZiOTNhMDQ2MjJmMDMxODk1MGFmNzUzYmY5`
+Snapshot ID: `MCw1MWIwYmQ3ODJlNWQ4NzAzOGEzMGMyYWUxZmIxNWYyODA5ZjBkODRi`

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-526 songs - 1 day 8 hr 12 min
+527 songs - 1 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Once In A Lifetime](https://open.spotify.com/track/0IQ6jc6zO9ffRqcNoiL1Di) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 4:12 | 2023-02-02 |  |
 | [Once In A While](https://open.spotify.com/track/12SBeS47Z8b1N6FqbfXhL7) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Once In A While](https://open.spotify.com/album/1cx3QPnfkgDUdr7SLyx4yg) | 3:53 | 2023-01-26 |  |
 | [Once Knowing](https://open.spotify.com/track/05yDpj1357DbqJsH2V4DL9) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 3:14 | 2023-03-02 |  |
+| [Only Way To Play Is All In](https://open.spotify.com/track/5nEXgS8wX0y4dVqe3GUPHI) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Only Way To Play Is All In](https://open.spotify.com/album/4PzO4qn8WkZtHL6Fx6z65h) | 3:18 | 2023-05-04 |  |
 | [Open Mind](https://open.spotify.com/track/3ODKzLgzGnXzng8SCTadRc) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [Open Mind](https://open.spotify.com/album/34q2kBjzKnowLJPn1XePIZ) | 3:43 | 2022-06-28 | 2022-10-18 |
 | [Our Best Year Yet](https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa) | [Andi Weiss Trio](https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp) | [Our Best Year Yet](https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL) | 4:38 | 2022-06-28 | 2023-01-20 |
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-20 |  |
@@ -464,7 +465,7 @@
 | [The Masquerade Is Over](https://open.spotify.com/track/6ifkMfpjxGakTjtOWngjYw) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:59 | 2022-06-28 | 2022-10-02 |
 | [The Meadows](https://open.spotify.com/track/120GHgxD1qLdNpnz2NT7Je) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [The Meadows](https://open.spotify.com/album/6PosHibdf6McSbAZLgZAg6) | 3:15 | 2023-03-02 |  |
 | [The Molly Pitchers](https://open.spotify.com/track/1Ay5Hj5kXH5TUWzAJF1epY) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [The Molly Pitchers](https://open.spotify.com/album/6Ey92khwHvKwIyzRC87n38) | 2:36 | 2023-03-09 |  |
-| [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-06-28 |  |
+| [The More I See You](https://open.spotify.com/track/4dvn4VXmnKlVHByYTK2WFP) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [The More I See You](https://open.spotify.com/album/3HqHBF5BE5cxCAFtbjrjbA) | 3:49 | 2022-06-28 | 2023-05-07 |
 | [The Nearness Of You](https://open.spotify.com/track/1SKlVBEmde9eokyAvzI9lf) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [The Nearness Of You](https://open.spotify.com/album/16pqEckMdJpXjwpWRxZYyW) | 3:58 | 2022-06-28 | 2023-02-16 |
 | [The next day](https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK) | [South North](https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b) | [The next day](https://open.spotify.com/album/0BIs50usgDMHmPBj63mtk6) | 2:13 | 2023-01-12 |  |
 | [The Party's Over](https://open.spotify.com/track/3bCDBqVpu1lDbRGEV0El1J) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [The Party's Over](https://open.spotify.com/album/49UPJkZBspIbnn0WuoQlMv) | 3:09 | 2022-06-28 | 2022-11-22 |

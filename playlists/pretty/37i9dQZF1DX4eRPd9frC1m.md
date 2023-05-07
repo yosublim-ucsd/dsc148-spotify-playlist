@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,547,836 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,539,093 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 64 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 |
 | 65 | [Grenade](https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Grenade](https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL) | 4:08 |
 | 66 | [Work That Body](https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2) | [Work That Body](https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h) | 2:45 |
-| 67 | [Hitta \(feat\. Juicy J\)](https://open.spotify.com/track/4trrKVzHcXRV5Gv8YAf32P) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:50 |
-| 68 | [Wall Of Death](https://open.spotify.com/track/0adOv7C57abcznr40leSHx) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [Wall Of Death](https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ) | 2:48 |
+| 67 | [Wall Of Death](https://open.spotify.com/track/0adOv7C57abcznr40leSHx) | [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4) | [Wall Of Death](https://open.spotify.com/album/6qiabMcuYx4PI3JRqscOhZ) | 2:48 |
+| 68 | [Hitta \(feat\. Juicy J\)](https://open.spotify.com/track/4trrKVzHcXRV5Gv8YAf32P) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Eptic](https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Shockwave](https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu) | 2:50 |
 | 69 | [Moshpit](https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7), [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Moshpit / Comin For Ya Neck](https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6) | 2:57 |
 | 70 | [Sin](https://open.spotify.com/track/3Qh65CXtBe3vKmWe5fYbuY) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Sin](https://open.spotify.com/album/3qPnoE53RdzkdAGTLT7XJ1) | 2:11 |
-| 71 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 |
-| 72 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 |
+| 71 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 |
+| 72 | [Loving You Kills Me](https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Loving You Kills Me](https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60) | 2:54 |
 | 73 | [No Limit](https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Dirty Audio](https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8), [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V) | [No Limit](https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0) | 3:00 |
 | 74 | [Anthem](https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Anthem](https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY) | 2:15 |
 | 75 | [TILL I DIE](https://open.spotify.com/track/2RI6gyxYWRQgvsBqxNgiJB) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [TILL I DIE](https://open.spotify.com/album/2wWiYLW1cWHnS0gi8ftyHo) | 2:51 |
 
-Snapshot ID: `MCwwMGY2MDQyNzg0Y2Y0MTBiM2VlYzNhZmQ5NTkyNTM4ZGZhZWRkYTk2`
+Snapshot ID: `MCxlZTkxZjgwMGMzZDBmZDI3ZWM2Zjc5NDg0ZjQyZDRkZWYzOTAwMWRm`

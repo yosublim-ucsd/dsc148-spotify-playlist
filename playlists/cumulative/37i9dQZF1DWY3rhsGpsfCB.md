@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-290 songs - 15 hr 25 min
+291 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Contour](https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Contour](https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri) | 3:09 | 2022-08-18 | 2023-02-17 |
 | [Cracks of You](https://open.spotify.com/track/2ERqWwFLCzEGV1YPtKfxB6) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Cracks of You](https://open.spotify.com/album/6yEXMFSLXCMnATdGEG95Hm) | 2:56 | 2022-12-02 | 2022-12-09 |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2023-03-19 |
+| [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-04 |  |
 | [D O D O \- Adekunle Gold Version](https://open.spotify.com/track/5F9F0SxcAM9bCVyi00tL0W) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [D O D O \(Adekunle Gold Version\)](https://open.spotify.com/album/49s1JEe2mCLJMAVtMplzJo) | 2:59 | 2022-06-24 | 2022-11-12 |
 | [Dangerous](https://open.spotify.com/track/3EduKNInzbDCPYjIDw5SG4) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Dangerous](https://open.spotify.com/album/29rDZXLQeZNoSpBqOY6ibI) | 3:01 | 2022-08-18 | 2023-04-29 |
 | [Dangerous Hearts](https://open.spotify.com/track/2FmOfwMOIL2WFEOcV08AKd) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Mr Hudson](https://open.spotify.com/artist/1zV9UjTUevjp5VUddqIUUn) | [Signs](https://open.spotify.com/album/6BK6S6VtshawDNE1MGT3eK) | 3:30 | 2022-12-18 | 2023-02-04 |
@@ -104,7 +105,7 @@
 | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Handle Me \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4) | 2:47 | 2022-09-09 |  |
 | [Handle Me Gently](https://open.spotify.com/track/5tjST4iUvp86eyMeSIgy5l) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Self Explanatory](https://open.spotify.com/album/01Uup2bu0jcnyaNmHjgTF4) | 3:01 | 2022-07-14 | 2023-02-11 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2022-06-24 | 2022-10-01 |
-| [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 | 2023-02-24 |  |
+| [Healing](https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Healing](https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG) | 2:59 | 2023-02-24 | 2023-05-07 |
 | [Her Old Friends](https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Old Friends](https://open.spotify.com/album/6vtoMOAff1G2b5om38HMM5) | 4:16 | 2023-01-12 | 2023-02-11 |
 | [Honest](https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X), [TSB](https://open.spotify.com/artist/5TcyvDMRRaMjCBoXIUWofZ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:02 | 2023-02-16 | 2023-05-05 |
 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 | 2022-08-12 | 2023-04-21 |

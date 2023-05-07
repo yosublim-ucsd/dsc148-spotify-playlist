@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 116310,
+  "num_followers": 116352,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjMxNjU5YWI4ODU2NDYxNTMzY2ZiYzA3ZmE4Y2Q0ZTYzNDcyZjBm",
+  "snapshot_id": "MCw1NmY5NTVjYzIzMWJmYmQwMDUzZWI3OTNmYjQyYTkyNDE5MjIzNjEx",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Revival (Live)",
         "url": "https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 200360,
       "name": "Way Truth Life - Live",
       "url": "https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -863,22 +863,6 @@
       "duration_ms": 222551,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -967,6 +951,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "I've Got A Fire",
         "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 223000,
       "name": "I Feel Good About It",
       "url": "https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Listen More",
         "url": "https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
-      },
-      "artists": [
-        {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
-        }
-      ],
-      "duration_ms": 230220,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
         "name": "Through People Like Me",
         "url": "https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 194493,
       "name": "To Get To Me",
       "url": "https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 230220,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb"
     },
     {
       "added_at": "2023-02-18 04:35:24",

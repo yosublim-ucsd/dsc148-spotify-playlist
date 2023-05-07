@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 108413,
+  "num_followers": 108462,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTQwNDJlM2MwMmFhNmY2YTg5MGU4MjZhOGE5MWQ2YTIzNTQzNGQw",
+  "snapshot_id": "MCw3NjUwNGU1ZDcwYTM4MzI1ZWNlY2Y0NjA1MjJkZmRmYjkzZjRhNzEy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -439,54 +439,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Tu ne mourras pas",
-        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 201557,
-      "name": "Tu trembleras encore",
-      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "consolation",
-        "url": "https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 265813,
-      "name": "la rivi\u00e8re",
-      "url": "https://open.spotify.com/track/4x0krxg1vdzPGTzBKPQBNt"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Sprint!",
-        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
-      },
-      "artists": [
-        {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
-        }
-      ],
-      "duration_ms": 204400,
-      "name": "Frisbee & marmelade",
-      "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -507,6 +459,38 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "consolation",
+        "url": "https://open.spotify.com/album/6wdpXFepbCvXuDmw45f9FR"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 265813,
+      "name": "la rivi\u00e8re",
+      "url": "https://open.spotify.com/track/4x0krxg1vdzPGTzBKPQBNt"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Tu ne mourras pas",
+        "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 201557,
+      "name": "Tu trembleras encore",
+      "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "C'est tout, c'est rien",
         "url": "https://open.spotify.com/album/6OP8Gsos17WsdQwNMZJXi7"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 173515,
       "name": "C'est tout, c'est rien",
       "url": "https://open.spotify.com/track/5zYZD2nQRCDEMleFB5pkzq"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Sprint!",
+        "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "duration_ms": 204400,
+      "name": "Frisbee & marmelade",
+      "url": "https://open.spotify.com/track/5TnZyC8Nf9JHCG1xhTijol"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Parmi les autres",
-        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
-      },
-      "artists": [
-        {
-          "name": "Elliot Maginot",
-          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Parmi les autres",
-      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Cantalou",
-        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
+        "name": "Parmi les autres",
+        "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
       "artists": [
         {
-          "name": "Thierry Larose",
-          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+          "name": "Elliot Maginot",
+          "url": "https://open.spotify.com/artist/0dX5TveSmyFKxWlYtnWS2X"
         }
       ],
-      "duration_ms": 215560,
-      "name": "L'\u00eele \u00e0 vingt-cinq sous",
-      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
+      "duration_ms": 219000,
+      "name": "Parmi les autres",
+      "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Pers\u00e9ides",
-        "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
+        "name": "Cantalou",
+        "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
       "artists": [
         {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
         }
       ],
-      "duration_ms": 175746,
-      "name": "Lost River",
-      "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
+      "duration_ms": 215560,
+      "name": "L'\u00eele \u00e0 vingt-cinq sous",
+      "url": "https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Pers\u00e9ides",
+        "url": "https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "duration_ms": 175746,
+      "name": "Lost River",
+      "url": "https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Heavy Stone",
         "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Antigone",
-      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Dans tes bras",
         "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 207133,
       "name": "Dans tes bras",
       "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
+      },
+      "artists": [
+        {
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Antigone",
+      "url": "https://open.spotify.com/track/265EBHZJ581J0mMkMcaqbC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -839,38 +839,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 263720,
-      "name": "As My Old Man Always Said",
-      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Fables (The Garden Version)",
-        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 176536,
-      "name": "Fables - The Garden Version",
-      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Je vais te faire danser",
         "url": "https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd"
       },
@@ -887,6 +855,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 263720,
+      "name": "As My Old Man Always Said",
+      "url": "https://open.spotify.com/track/6y0zKZPrKL1gbXqXEHIwm8"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "There Will Be Stars",
         "url": "https://open.spotify.com/album/4Gbv3ZJ8Pn0vFiwvIxO9w9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 318880,
       "name": "Moi, Elsie",
       "url": "https://open.spotify.com/track/4GQbRIeWqmiJaosRyQ2WsF"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Fables (The Garden Version)",
+        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 176536,
+      "name": "Fables - The Garden Version",
+      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Life As It Comes",
-        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
         }
       ],
-      "duration_ms": 259385,
-      "name": "Life As It Comes",
-      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+        "name": "Sailors",
+        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        },
+        {
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+      "duration_ms": 241462,
+      "name": "Sailors",
+      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1115,38 +1119,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Sailors",
-        "url": "https://open.spotify.com/album/2ZkWGXSW6wuOp8maQ5vbp7"
+        "name": "Life As It Comes",
+        "url": "https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I"
       },
       "artists": [
         {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        },
-        {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 241462,
-      "name": "Sailors",
-      "url": "https://open.spotify.com/track/2zo2zOxH0wpLWX80jYsaWF"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "AVALANCHE (n.f.)",
-        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
-      },
-      "artists": [
-        {
-          "name": "Ariane Roy",
-          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
-        }
-      ],
-      "duration_ms": 188516,
-      "name": "Tu pars",
-      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
+      "duration_ms": 259385,
+      "name": "Life As It Comes",
+      "url": "https://open.spotify.com/track/4t8LId4jMs76b41wETklvD"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "AVALANCHE (n.f.)",
+        "url": "https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "duration_ms": 188516,
+      "name": "Tu pars",
+      "url": "https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
+        "name": "M\u00e8res",
+        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 224520,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
+      "duration_ms": 273933,
+      "name": "M\u00e8res",
+      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "M\u00e8res",
-        "url": "https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY"
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 273933,
-      "name": "M\u00e8res",
-      "url": "https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e"
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Interlude",
-        "url": "https://open.spotify.com/album/2ZqA1oNYPM798rTmx0radP"
+        "name": "L\u00e9g\u00e8rement",
+        "url": "https://open.spotify.com/album/3qevMOyAq8iKlElxTrX6tc"
       },
       "artists": [
         {
-          "name": "Clerel",
-          "url": "https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8"
+          "name": "Rosier",
+          "url": "https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1"
         }
       ],
-      "duration_ms": 299560,
-      "name": "Qtv",
-      "url": "https://open.spotify.com/track/0j8nyLW1JwaDtvO6sOobbO"
+      "duration_ms": 207338,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6HQY0FUesf8elD9rUXtZb8"
     }
   ],
   "unique_name": "Caf\u00e9 montr\u00e9alais",

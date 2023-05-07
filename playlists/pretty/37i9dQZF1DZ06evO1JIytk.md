@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,745 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,759 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JIytk.md) - [plain]
 | 49 | [You'd Do the Same](https://open.spotify.com/track/6XmmqYxSC4faXhsrsXqUKs) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 2:21 |
 | 50 | [The Ranks of the Masses Rising](https://open.spotify.com/track/12wXddtGA99uF2pF70znch) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 2:28 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAzMWI2YjdhMWUzNWRkMTg5MDdhYWM4ZTczN2IxYThjOA==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAzNzE1OTRiYWZkNDVkYTM4M2JkNGE0NDNiMDMxZmIyYg==`

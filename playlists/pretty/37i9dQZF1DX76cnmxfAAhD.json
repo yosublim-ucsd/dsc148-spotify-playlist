@@ -1,12 +1,12 @@
 {
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
-  "num_followers": 493242,
+  "num_followers": 494221,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTEyNTRiNmY1YmJjNDkxNjk1MzAzZGNmZjY5YmU3NzBkMzBlMzRj",
+  "snapshot_id": "MCxkNTU4ZGE3YTViYWJjN2YxNDFmODA0NzQ1MGNiNzRjZThiN2QwYjQz",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 243493,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 212066,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0nnwn7LWHCAu09jfuH1xTA"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Grave Dancers Union (2022 Remaster)",
-        "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
-      },
-      "artists": [
-        {
-          "name": "Soul Asylum",
-          "url": "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Runaway Train (2022 Remaster)",
-      "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Blurring The Edges",
         "url": "https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 252760,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Grave Dancers Union (2022 Remaster)",
+        "url": "https://open.spotify.com/album/3EFhsxrJoH3yE3r8bHheE6"
+      },
+      "artists": [
+        {
+          "name": "Soul Asylum",
+          "url": "https://open.spotify.com/artist/02da1vDJ2hWqfK7aJL6SJm"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Runaway Train (2022 Remaster)",
+      "url": "https://open.spotify.com/track/3TW48DvQ7ChwY1Yy1tkMaP"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Marcy Playground",
         "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 173493,
       "name": "Sex & Candy",
       "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Disney Summer Songs",
-        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Indian Summer",
         "url": "https://open.spotify.com/album/622XQ6bN45EZWtogSS84P0"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 241760,
       "name": "The King of Wishful Thinking",
       "url": "https://open.spotify.com/track/0gXTCSzaCOzNoRb9FeE62N"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Disney Summer Songs",
+        "url": "https://open.spotify.com/album/6qykGE5x584duyLVYcnojE"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "Strangers Like Me - From \"Tarzan\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/5Zb6JxSEcjsUNrINcAyAYJ"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1839,34 +1839,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
         }
       ],
-      "duration_ms": 273573,
-      "name": "Disco 2000",
-      "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
-      },
-      "artists": [
-        {
-          "name": "Ten Sharp",
-          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
-        }
-      ],
-      "duration_ms": 272983,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1887,18 +1871,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
       "artists": [
         {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 324666,
-      "name": "Fastlove, Pt. 1",
-      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+      "duration_ms": 273573,
+      "name": "Disco 2000",
+      "url": "https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1919,18 +1903,34 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+        "name": "You",
+        "url": "https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW"
       },
       "artists": [
         {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+          "name": "Ten Sharp",
+          "url": "https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF"
         }
       ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+      "duration_ms": 272983,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Violator (2006 Remaster)",
-        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 372813,
-      "name": "Enjoy the Silence - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -2159,18 +2143,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Buddy's Song",
-        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
+        "name": "Violator (2006 Remaster)",
+        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
       },
       "artists": [
         {
-          "name": "Chesney Hawkes",
-          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 223666,
-      "name": "The One and Only",
-      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
+      "duration_ms": 372813,
+      "name": "Enjoy the Silence - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2191,18 +2175,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+        "name": "Buddy's Song",
+        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
       },
       "artists": [
         {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+          "name": "Chesney Hawkes",
+          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
         }
       ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+      "duration_ms": 223666,
+      "name": "The One and Only",
+      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2223,6 +2207,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -2235,22 +2235,6 @@
       "duration_ms": 239640,
       "name": "You Learn - 2015 Remaster",
       "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "The Great Escape (Special Edition)",
-        "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Country House - 2012 Remaster",
-      "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2271,18 +2255,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "The Best Of Joan Osborne 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc"
+        "name": "The Great Escape (Special Edition)",
+        "url": "https://open.spotify.com/album/7BiMMjtvTX0OiB8Yi7CFB1"
       },
       "artists": [
         {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
         }
       ],
-      "duration_ms": 302786,
-      "name": "One Of Us - Short Version",
-      "url": "https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1"
+      "duration_ms": 236960,
+      "name": "Country House - 2012 Remaster",
+      "url": "https://open.spotify.com/track/6L4fEE9awoUnSEy1bmQebb"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2303,6 +2287,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "The Best Of Joan Osborne 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/2QXG7PMDNdAOangkVnV4Kc"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "duration_ms": 302786,
+      "name": "One Of Us - Short Version",
+      "url": "https://open.spotify.com/track/39aRmixB9qNtCU2t8BmsC1"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -2315,6 +2315,22 @@
       "duration_ms": 299826,
       "name": "Honey",
       "url": "https://open.spotify.com/track/5NaOWLOmVjcA3M5spRATN9"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Come On Over (Internationl Version / Special Edition)",
+        "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238641,
+      "name": "That Don't Impress Me Much - International Mix",
+      "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2363,22 +2379,6 @@
       "duration_ms": 334386,
       "name": "Creep - 2017 Remaster",
       "url": "https://open.spotify.com/track/6dmueYtoihUhlQZlImBCmm"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Come On Over (Internationl Version / Special Edition)",
-        "url": "https://open.spotify.com/album/2eiMbazzkhkBAD2qRujLop"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238641,
-      "name": "That Don't Impress Me Much - International Mix",
-      "url": "https://open.spotify.com/track/54m5HrUjtbaeLQ7RX5Ilk1"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Affirmation",
-      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 233066,
       "name": "Always On The Run",
       "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 295800,
+      "name": "Affirmation",
+      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Big Ones",
         "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 381400,
       "name": "Livin' On The Edge",
       "url": "https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3003,6 +3003,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
+        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+      },
+      "artists": [
+        {
+          "name": "Arrested Development",
+          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Mr. Wendal",
+      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
@@ -3027,18 +3043,18 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "3 Years, 5 Months And 2 Days In The Life Of...",
-        "url": "https://open.spotify.com/album/4QrhfVaznhrAPlM5xCKBPh"
+        "name": "We Can't Dance",
+        "url": "https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO"
       },
       "artists": [
         {
-          "name": "Arrested Development",
-          "url": "https://open.spotify.com/artist/5Va9LuEmaZxnbk1gMnjMD7"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Mr. Wendal",
-      "url": "https://open.spotify.com/track/5DOYik1z3Of1wAFfY3dYbC"
+      "duration_ms": 239613,
+      "name": "I Can't Dance - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0No5Hr1LxZjJHGsQSTy2bm"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -3059,22 +3075,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "We Can't Dance",
-        "url": "https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "I Can't Dance - 2007 Remaster",
-      "url": "https://open.spotify.com/track/0No5Hr1LxZjJHGsQSTy2bm"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "fear",
         "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
       },
@@ -3091,22 +3091,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "The Animal Song",
-      "url": "https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Seal",
         "url": "https://open.spotify.com/album/19HYZxcJ0K0CinYb3Mmjap"
       },
@@ -3119,6 +3103,22 @@
       "duration_ms": 268040,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/10tdqQKFhddpkjzxllTVRj"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "The Animal Song",
+      "url": "https://open.spotify.com/track/5TuzQ44lPWTCKbfXbNIEXg"
     },
     {
       "added_at": "2023-01-03 14:44:23",

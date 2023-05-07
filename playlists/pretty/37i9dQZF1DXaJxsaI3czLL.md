@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,561 likes - 70 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,579 likes - 70 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,16 +58,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 48 | [The Island Floating in the Light](https://open.spotify.com/track/3ZYapYQibgnlPZa4H7l0Xu) | [Yuichi Ohata](https://open.spotify.com/artist/50IocbI1ks9pFw7lsCSeLN) | ["The Island Floating in the Light" Original Soundtrack](https://open.spotify.com/album/5vVyIxZDI3IV65GhelvatU) | 5:00 |
 | 49 | [Midnight Song](https://open.spotify.com/track/6BLHESk37BHiDksGxTCySj) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Acoustic Versions](https://open.spotify.com/album/5rH2O3z3h6ExXDe5H2ftKp) | 2:12 |
 | 50 | [Utero](https://open.spotify.com/track/6Ni01Ptke62rV8WkAYiBMM) | [jan and naomi](https://open.spotify.com/artist/4V7c0eZEtXXBFJLY6WpSmT) | [Leeloo and Alexandra](https://open.spotify.com/album/1Qi0J8woiPDk8J8WltPdzb) | 4:44 |
-| 51 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
-| 52 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
+| 51 | [last wave](https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [last wave](https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh) | 2:33 |
+| 52 | [虹とカイト](https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio best Too](https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM) | 5:37 |
 | 53 | [Karakai](https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Karakai](https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w) | 4:02 |
 | 54 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム\~beautiful sleep\~](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 |
 | 55 | [Night Time](https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Days With Uncertainty](https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM) | 3:59 |
 | 56 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 |
 | 57 | [ねむるのまち\~Tidur Tidur\~](https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [帰ってから、歌いたくなってもいいようにと思ったのだ。](https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG) | 5:10 |
 | 58 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 |
-| 59 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
-| 60 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 |
+| 59 | [Stay in the light \- reprise](https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [RAKEL](https://open.spotify.com/artist/5TTXO1acO5ZuuUCsZ0MXJl) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 4:24 |
+| 60 | [青月浮く海](https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [This is music too](https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z) | 4:24 |
 | 61 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA\(ハルシュラ\)](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
 | 62 | [苺](https://open.spotify.com/track/3Abgz2yPNmRG105Fj7BLyH) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [Prescribing The...](https://open.spotify.com/album/0kbiI34d3E8pEtxP3nAcat) | 4:47 |
 | 63 | [Sleeping in Waking](https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Sleeping in Waking](https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2) | 3:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJxsaI3czLL.md) - [plain]
 | 69 | [Apartment](https://open.spotify.com/track/2DDbWYOE6SlGJroPwgmc3N) | [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [Apartment](https://open.spotify.com/album/1uZL2Sg4Saeep7GGTMpIRT) | 4:03 |
 | 70 | [Good Night Station](https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUEHARLEM](https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ) | 5:27 |
 
-Snapshot ID: `MCxiMjIzMmE0NmJhYWRiZTM1OTgwYzdkMjg5NzFlODYxYmZiNmQ5ZDQ5`
+Snapshot ID: `MCwyMDUwNmI0NWNkNWI1YmU5YWEwZjNhZDg4MzQ3OWY2MDlmODE2NDMz`

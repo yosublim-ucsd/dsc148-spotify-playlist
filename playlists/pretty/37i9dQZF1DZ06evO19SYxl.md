@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,659 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,667 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [Pienso en Ti \- 2022 Remasterizado](https://open.spotify.com/track/2R6U2IsnJOKoPL7k0FotuA) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Pienso en Ti \(2022 Remasterizado\)](https://open.spotify.com/album/2aYTPJH1knXa3TLh7LIXNz) | 3:28 |
 | 50 | [El Bailable](https://open.spotify.com/track/1w8DzpklmbRnIhWEiRbLOI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 0:58 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAxNjFmNmYwYTNhYmJiOTYxYWUzMTY2ODcyNjZkNjViOQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwMThlYjViNzY4YjQwNmFhYTMyMzRhNWE3ZjM1NjYyMA==`

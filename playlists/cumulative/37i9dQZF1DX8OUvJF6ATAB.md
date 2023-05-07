@@ -4,13 +4,14 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-302 songs - 1 day 2 hr 13 min
+303 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 | 2023-02-10 |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 | 2023-04-16 |
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-09-21 | 2023-01-15 |
+| [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 | 2023-04-21 |  |
 | [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2021-10-06 | 2023-04-29 |
 | [92982.3](https://open.spotify.com/track/5iTMWX6wdY27SoiEK0mylf) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/48tMas4MWlpELCY8kVILSq) | 7:07 | 2021-10-06 | 2022-07-20 |
 | [A Biochemical Cascade](https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm) | [Yann Novak](https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w) | [A Biochemical Cascade](https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt) | 8:34 | 2021-10-06 | 2022-07-29 |
@@ -136,7 +137,7 @@
 | [Labyrinth \(Exit\)](https://open.spotify.com/track/1uWdXliELcLPxbgLAXiTQL) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Reflections](https://open.spotify.com/album/7gv0Nr7L0yZ8s0GM0gfDbO) | 6:26 | 2021-10-06 |  |
 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 | 2022-01-14 | 2023-05-03 |
 | [Lament To The Open Air](https://open.spotify.com/track/4aqbV22jLGsZRle9QFGr4a) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/3mRYK8bya5UUM4JA695PJv) | 3:31 | 2021-10-06 | 2022-11-09 |
-| [Lament To The Open Air](https://open.spotify.com/track/7goDb5y8pMRhegRvPsa249) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/2hZ9RhdWKzLQozs3AMIbMf) | 3:31 | 2023-04-21 |  |
+| [Lament To The Open Air](https://open.spotify.com/track/7goDb5y8pMRhegRvPsa249) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Irrational Overcast](https://open.spotify.com/album/2hZ9RhdWKzLQozs3AMIbMf) | 3:31 | 2023-04-21 | 2023-05-07 |
 | [Land III \- Vocal Mix](https://open.spotify.com/track/6UzWlTYOrLyRrBWjpwrehP) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4), [Carmen Ruiz](https://open.spotify.com/artist/6lT6X7ff95ucDbUfPkyZWB) | [Land III](https://open.spotify.com/album/5HzaGyiK0jjF0zGILrZhmG) | 4:44 | 2021-10-06 | 2022-08-03 |
 | [Landlocked](https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1) | [Capitol K](https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj) | [Goatherder](https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI) | 3:59 | 2021-10-06 |  |
 | [Licidana](https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:15 | 2021-10-06 | 2022-07-28 |

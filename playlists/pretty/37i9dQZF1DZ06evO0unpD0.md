@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,732 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,738 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 49 | [Emma \(feat\. Salif Keita\)](https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:54 |
 | 50 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlM2U0MjhkNzI5YzVkMWRhZjEwYjM4ZTkyYWJjN2JiOQ==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBkN2ViYmZhNGYwODMwZDYxYzA3MDM2ZjA1NzY4NDJjMQ==`

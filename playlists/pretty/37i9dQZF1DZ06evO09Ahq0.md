@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,939 likes - 47 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,126 likes - 47 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 46 | [Girl I Know](https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:24 |
 | 47 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBmZGFiNzNkNDRiOGQ3MzEzN2MxMDc3NjY1ZGQ0ODM4OQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBiNTA1MDJiM2U4NGQ5NjQyOGEzNzNhODliOTBmMDc5OA==`

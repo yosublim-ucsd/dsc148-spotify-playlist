@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Christian Löffler, Mogli
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,984 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,039 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 |
 | 75 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 |
 
-Snapshot ID: `MCw1NDQ5NmQ5NTU3NDNkYjkxOTg2NmMyZjI5OTdkYjZmNzcxNTY3OWQy`
+Snapshot ID: `MCw1MzhmZWE4YTg4NGUzM2Y1MGIyMzA5ZjkxYTUxNDBlODQzMTkzZTQ3`

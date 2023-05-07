@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,754 likes - 70 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,786 likes - 70 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 20 | [解決ミステリー](https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [解決ミステリー](https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq) | 3:32 |
 | 21 | [IMPERIAL CHAIN](https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [IMPERIAL CHAIN](https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7) | 4:12 |
 | 22 | [フォトフレーム](https://open.spotify.com/track/39c2UO7sELrK6HYcp0L9u2) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 5:10 |
-| 23 | [幸せでいて](https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 5:00 |
+| 23 | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr) | 3:50 |
 | 24 | [太陽のEsperanza](https://open.spotify.com/track/328HshC1dgRylZWfoBYLqC) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:52 |
 | 25 | [願いはShine On The Sea](https://open.spotify.com/track/6Dt15H6eoMahUSC6UZcRmc) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 3:38 |
-| 26 | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr) | 3:50 |
+| 26 | [幸せでいて](https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 5:00 |
 | 27 | [Utopia](https://open.spotify.com/track/2uUcR5JVyFsCttGtZVsbvo) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:18 |
 | 28 | [Maybe](https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [Maybe](https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM) | 4:18 |
 | 29 | [RESTART POiNTER](https://open.spotify.com/track/0nLjgD4UBJyw9kg1K5hPYl) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [i7](https://open.spotify.com/album/2oQz7bh0sPXcx92C1TKV05) | 4:22 |
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 32 | [SUISAI](https://open.spotify.com/track/7n8DHAHozfOs0BVTuLz6yf) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SUISAI](https://open.spotify.com/album/2UyYOPqetfV1dB9MfImIol) | 4:59 |
 | 33 | [雨](https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [雨](https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k) | 5:23 |
 | 34 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
-| 35 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
+| 35 | [フレフレ!青春賛歌](https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [フレフレ!青春賛歌](https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal) | 4:29 |
 | 36 | [ササゲロ \-You Are Mine\-](https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:26 |
-| 37 | [フレフレ!青春賛歌](https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [フレフレ!青春賛歌](https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal) | 4:29 |
+| 37 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
 | 38 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 39 | [恋のかけら](https://open.spotify.com/track/7jA6MKXhfBa6bwe9kJrBNT) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [恋のかけら](https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0) | 4:39 |
 | 40 | [U COMPLETE ME](https://open.spotify.com/track/7cDIqOnlDvvsyETwyKjtIO) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:19 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 65 | [Dis one.](https://open.spotify.com/track/35C0bBZenqx3wrVawrwwjh) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:59 |
 | 66 | [Leopard Eyes](https://open.spotify.com/track/1pBQJ0hZyFIwKCayM9nISj) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:32 |
 | 67 | [In the meantime](https://open.spotify.com/track/6n1zhNf9zUqffLObNEDRUH) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 4:03 |
-| 68 | [Sakura Message](https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Sakura Message](https://open.spotify.com/album/12Evu6rQOsj7Au5qNRXafw) | 5:28 |
-| 69 | [Period Color](https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Period Color](https://open.spotify.com/album/1vtGct3cZAyGwJm38x3P5J) | 4:35 |
+| 68 | [Period Color](https://open.spotify.com/track/69kQyNzKCexiq4PuAwkgFY) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Period Color](https://open.spotify.com/album/1vtGct3cZAyGwJm38x3P5J) | 4:35 |
+| 69 | [Sakura Message](https://open.spotify.com/track/3f10Sd0IpJbO2kxhbXH5yV) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [Sakura Message](https://open.spotify.com/album/12Evu6rQOsj7Au5qNRXafw) | 5:28 |
 | 70 | [DiSCOVER THE FUTURE](https://open.spotify.com/track/1996GO8XdzaIzstVxlQ6VT) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [DiSCOVER THE FUTURE](https://open.spotify.com/album/3T3IUShTLoWT6DCxs9U0dF) | 3:41 |
 
-Snapshot ID: `MCw3YTVmMjRjZDAzNjZkOThmZDA2YjkyMjYyYTU2YzY3YTEzY2EwMzNi`
+Snapshot ID: `MCwxMzRkNWVlOWM0ZjJhZWU1NGE1M2QwOTQ3MGE4MTY5ZDc1ZDYyY2E2`

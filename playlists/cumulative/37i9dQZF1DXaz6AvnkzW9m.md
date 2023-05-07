@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Luis R Conriquez & Farruko en portada.
 
-166 songs - 8 hr 34 min
+167 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Ojos Tumbados](https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ojos Tumbados](https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU) | 3:38 | 2023-01-13 |  |
 | [Pa Que Aprendan](https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo Hacendado](https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M) | [Pa Que Aprendan](https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku) | 3:06 | 2022-06-24 | 2022-10-01 |
 | [Pacas De 100](https://open.spotify.com/track/5ND7JPkwkpn88O4miLKfSp) | [Potencia Lirical](https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb), [Jay santana prod](https://open.spotify.com/artist/1SSTq9e8PhjyYzv6QOsAkb) | [Pacas De 100](https://open.spotify.com/album/68r72C1IfSUksQKvRyU6rD) | 2:24 | 2023-04-21 | 2023-05-06 |
+| [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 | 2023-05-05 |  |
 | [PE$OS](https://open.spotify.com/track/1Sa3MemoARhrFmIttLd6N8) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/6nq2dKQDxHmjzD9sNWFsST) | 3:05 | 2022-09-07 | 2022-11-08 |
 | [PE$OS](https://open.spotify.com/track/1I1MPPmQ7dPCTZsIm7LMTf) | [Carlos Carrera](https://open.spotify.com/artist/0KBMnuWWdRmE0piCUybFxX), [Pek](https://open.spotify.com/artist/244uAg79BYa6lv9vSSCNKW), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [PE$OS](https://open.spotify.com/album/2PeNZmpQfBo02JoH80d8ZG) | 3:05 | 2022-09-07 | 2022-10-22 |
 | [Pedacito de Tierra](https://open.spotify.com/track/1NF9ieouGK5eoRcmDQArlq) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Pedacito de Tierra](https://open.spotify.com/album/68GIhg1AYzoarOghUnGfDq) | 4:08 | 2022-04-29 | 2022-10-01 |
@@ -172,7 +173,7 @@
 | [Vida Peligrosa \(feat\. Arsenal Efectivo & Omar Ruiz\)](https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:52 | 2021-12-17 |  |
 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 | 2022-12-30 |  |
 | [Y Me la Paso](https://open.spotify.com/track/1SWXRT3dcHSAWN35YucH8Y) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6), [Adrian Gallardo](https://open.spotify.com/artist/5jRgihy7wz3PwjfdjGCJgm) | [Y Me la Paso](https://open.spotify.com/album/5faQ729txoJrLt2mcjyoZQ) | 2:56 | 2022-11-08 | 2023-01-14 |
-| [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-11-08 |  |
+| [Y Si Me Miran](https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Y Si Me Miran](https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R) | 3:33 | 2022-11-08 | 2023-05-07 |
 | [Zumbando Terrenos](https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:23 | 2021-12-17 | 2022-10-06 |
 
 \*This playlist was first scraped on 2022-07-24. Prior content cannot be recovered.

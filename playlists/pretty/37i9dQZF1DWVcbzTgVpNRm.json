@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin anthems to get the party started!\nCover: Daddy Yankee, Marc Anthony",
-  "num_followers": 2072065,
+  "num_followers": 2072350,
   "original_name": "Latin Party Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWIxODgwNzU0NTc1ODFlNDRmZjJmYzBjYjNmNGM4OTkzNWI4OTkw",
+  "snapshot_id": "MCxiYzA2ODBkZDI2OTBlNzZiMjVmZGZjZGEwYTFmM2QzNTdkZjMwYzc1",
   "tracks": [
     {
       "added_at": "2023-01-09 06:30:06",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "The Last Don",
-        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
+        "name": "The Last Don",
+        "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 222346,
       "name": "QUE PRETENDES",
       "url": "https://open.spotify.com/track/25ZAibhr3bdlMCLmubZDVt"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -839,8 +839,8 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
@@ -848,13 +848,13 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 205906,
-      "name": "El Perd\u00f3n (with Enrique Iglesias)",
-      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
         "name": "Vente Pa' Ca (feat. Maluma)",
         "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 259195,
       "name": "Vente Pa' Ca (feat. Maluma)",
       "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Hasta el Amanecer",
-      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Energ\u00eda",
-        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Ginza",
-      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200480,
       "name": "Dura",
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
+        "name": "Energ\u00eda",
+        "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Ginza",
+      "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Ya No Tiene Novio",
-        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Ya No Tiene Novio",
-      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -1639,22 +1619,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Tattoo (Remix with Camilo)",
-        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+        "name": "Ya No Tiene Novio",
+        "url": "https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 222680,
-      "name": "Tattoo - Remix with Camilo",
-      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
+      "duration_ms": 198933,
+      "name": "Ya No Tiene Novio",
+      "url": "https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1679,6 +1659,26 @@
       "duration_ms": 207680,
       "name": "SUBEME LA RADIO",
       "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
+        "name": "Tattoo (Remix with Camilo)",
+        "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Tattoo - Remix with Camilo",
+      "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
-    },
-    {
-      "added_at": "2023-01-09 06:30:06",
-      "album": {
         "name": "A Quien Quiera Escuchar (Deluxe Edition)",
         "url": "https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 211680,
       "name": "La Mordidita (feat. Yotuel)",
       "url": "https://open.spotify.com/track/00i0O74dXdaKKdCrqHnfXm"
+    },
+    {
+      "added_at": "2023-01-09 06:30:06",
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
     },
     {
       "added_at": "2023-01-09 06:30:06",
@@ -1943,18 +1943,22 @@
     {
       "added_at": "2023-01-09 06:30:06",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
       },
       "artists": [
         {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 302320,
-      "name": "La Quiero A Morir",
-      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
+      "duration_ms": 194892,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
     },
     {
       "added_at": "2023-01-09 06:30:06",

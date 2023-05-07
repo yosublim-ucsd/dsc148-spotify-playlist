@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54127,
+  "num_followers": 54121,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDg1MWM2NGRkNzhiOTViNzRjODM2YWFjNzkwMTA5ZWJkYTY2MWJk",
+  "snapshot_id": "MCw3NTFlOWIwMWU3NTZlYjI5ODA4ODE5YjNlZTYyYWIwZGUwN2MzZmI2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Easter (feat. Todd Dulaney)",
-        "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
-      },
-      "artists": [
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 427640,
-      "name": "Easter (feat. Todd Dulaney)",
-      "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Shirley Caesar and Friends",
         "url": "https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 302120,
       "name": "I Know It Was the Blood",
       "url": "https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Easter (feat. Todd Dulaney)",
+        "url": "https://open.spotify.com/album/10mfB8u8N71xXGatlhkDdG"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 427640,
+      "name": "Easter (feat. Todd Dulaney)",
+      "url": "https://open.spotify.com/track/5yUJMkUWsJmOfsP964tNtg"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Introducing Perfected Praise",
         "url": "https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 371493,
       "name": "Worthy Is The Lamb Slain",
       "url": "https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live In Detroit (Live)",
-        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
-      },
-      "artists": [
-        {
-          "name": "Rev. James Moore",
-          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
-        }
-      ],
-      "duration_ms": 496133,
-      "name": "The Old Rugged Cross",
-      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Classic Gold: Live In London: Andrae Crouch & The Disciples",
         "url": "https://open.spotify.com/album/47TmueNAVNBE7MLC56wGzt"
       },
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "He Carried The Cross For Me",
-        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
+        "name": "Live In Detroit (Live)",
+        "url": "https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Rev. James Moore",
+          "url": "https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN"
         }
       ],
-      "duration_ms": 230659,
-      "name": "He Carried The Cross For Me",
-      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
+      "duration_ms": 496133,
+      "name": "The Old Rugged Cross",
+      "url": "https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1775,6 +1759,22 @@
       "duration_ms": 290026,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "He Carried The Cross For Me",
+        "url": "https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "duration_ms": 230659,
+      "name": "He Carried The Cross For Me",
+      "url": "https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr"
     },
     {
       "added_at": "2023-04-09 08:49:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,820 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,875 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Park Well](https://open.spotify.com/track/7wUUWsweDvSkhjv0N7QQBd) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Celia](https://open.spotify.com/album/0v0pKqegGprcnGYUGitYvO) | 2:58 |
 | 51 | [Betty Butter](https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Betty Butter](https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd) | 2:09 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkMGIxMDM1NjU4NzU2MmNkN2FkNTc5ODc0NzNlYTQxMg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAxY2U1ZDFmYWIzNWNkZTVlNDk0YTk4ODQxMzFiYmEyZQ==`

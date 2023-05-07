@@ -4,7 +4,7 @@
 
 > ¡Los 40 principales éxitos de la radio musical! Se actualiza cada semana con la nueva lista de LOS40 ¡Busca más playlists en nuestro perfil y en la <a href="http://onelink.to/los40app">app LOS40</a>!
 
-154 songs - 8 hr 10 min
+155 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 | 2022-05-28 | 2022-09-18 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-01-15 | 2022-04-17 |
 | [Música Ligera](https://open.spotify.com/track/1lMuQJHBznRfq7GdQrIQN4) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Música Ligera](https://open.spotify.com/album/77APd2Q91Ju6844akH2Xbj) | 3:55 | 2022-01-15 | 2022-07-24 |
+| [No siempre quedará París \- Remix](https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [No siempre quedará París \(Remix\)](https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q) | 3:06 | 2023-05-06 |  |
 | [No, No Vuelve](https://open.spotify.com/track/4eTgIBf9ktps6iXWS4mvh7) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [No, No Vuelve](https://open.spotify.com/album/6koZt4CD76dwvrx3miwSac) | 3:48 | 2022-01-15 | 2022-04-17 |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-02-18 |  |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-02-12 | 2022-06-19 |
@@ -128,7 +129,7 @@
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-06-25 |  |
 | [Quiero Que Vuelvas](https://open.spotify.com/track/0gPQ9RsoRQnnPOtvMDIvH4) | [Polo Nandez](https://open.spotify.com/artist/57YqxYzBuraaQNq8POH0pM) | [Quiero Que Vuelvas](https://open.spotify.com/album/28Gd9GntZkln08Of89dgzk) | 3:01 | 2023-04-29 |  |
 | [Quién Diría](https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Quién Diría](https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM) | 3:03 | 2022-04-30 | 2022-11-27 |
-| [Qué bonita](https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Qué bonita](https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX) | 2:43 | 2022-12-03 |  |
+| [Qué bonita](https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Qué bonita](https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX) | 2:43 | 2022-12-03 | 2023-05-07 |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2022-01-15 | 2022-03-06 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-02-12 | 2022-06-26 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,092,031 likes - 270 songs - 13 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,092,120 likes - 270 songs - 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 269 | [Snowdonia](https://open.spotify.com/track/6JMuZsTQprhBrbywStSwer) | [Leah Day](https://open.spotify.com/artist/117FwIxp2OWDSWYr9X4j7o) | [Snowdonia](https://open.spotify.com/album/6OyZMyAiAtD2MJjAI91Irc) | 2:58 |
 | 270 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 |
 
-Snapshot ID: `MCw0MTNmZDc1Nzk1ZjRjNDExOGJlM2Y0ZGFmYzk5NjBjYjdlMDM0YjBm`
+Snapshot ID: `MCwxZGY2Yjk2YzY3YTYyMWY5OWRiMTYxNzFlNTljMzlmYmFjNGZiMDFj`

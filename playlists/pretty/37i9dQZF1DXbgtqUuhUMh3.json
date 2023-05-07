@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Carmen Soliman\n\n",
-  "num_followers": 6873,
+  "num_followers": 6921,
   "original_name": "EQUAL Arabia ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWRkZjY2N2MxNTNmMjM3ODFjNmQ5OWI5MDE4M2VhZjMxYjAwOWM2",
+  "snapshot_id": "MCw2ZjI1YjkyZGZjYWZhM2EwZTY1ODhkZDIzYWZjYTQ4NDAyMzFiNTcx",
   "tracks": [
     {
       "added_at": "2023-05-04 20:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
+        "name": "Milyar",
+        "url": "https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC"
+      },
+      "artists": [
+        {
+          "name": "Zina Daoudia",
+          "url": "https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Milyar",
+      "url": "https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
         "name": "Helw Dah",
         "url": "https://open.spotify.com/album/3dxxw8jACcV0ZYpa4TnLLP"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "Milyar",
-        "url": "https://open.spotify.com/album/52zA6GXEOJYBQKc5oQk6PC"
-      },
-      "artists": [
-        {
-          "name": "Zina Daoudia",
-          "url": "https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Milyar",
-      "url": "https://open.spotify.com/track/4xJ5nB1f7G1wxCp6SYayHE"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Fawda",
         "url": "https://open.spotify.com/album/5Fob6Veclpqwcp28gUXneD"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "Badal Madi",
-        "url": "https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv"
-      },
-      "artists": [
-        {
-          "name": "Rahma Riad",
-          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
-        }
-      ],
-      "duration_ms": 168680,
-      "name": "Badal Madi",
-      "url": "https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Rezq El Wared",
         "url": "https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 240885,
       "name": "Wayak Wayak",
       "url": "https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "Badal Madi",
+        "url": "https://open.spotify.com/album/5htTIypAWNOYGcDkSWrsgv"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "duration_ms": 168680,
+      "name": "Badal Madi",
+      "url": "https://open.spotify.com/track/1yv1J9jpn2HrSgA5m7Rb02"
     },
     {
       "added_at": "2023-05-04 20:00:00",
@@ -771,38 +771,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "Ani Alaqwa",
-        "url": "https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc"
-      },
-      "artists": [
-        {
-          "name": "Rahma Riad",
-          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
-        }
-      ],
-      "duration_ms": 177958,
-      "name": "Ani Alaqwa",
-      "url": "https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
-        "name": "Ensanein",
-        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
-      },
-      "artists": [
-        {
-          "name": "Dana Hourani",
-          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
-        }
-      ],
-      "duration_ms": 227280,
-      "name": "Erjaa Shoufak",
-      "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Ala El Hady",
         "url": "https://open.spotify.com/album/6riYimL3CYEpHcq8k8Agla"
       },
@@ -819,6 +787,22 @@
       "duration_ms": 184780,
       "name": "Ala El Hady",
       "url": "https://open.spotify.com/track/2wdjKsBwJikP1TPNhKuyyo"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "Ensanein",
+        "url": "https://open.spotify.com/album/38MJVqssjkHcmUZKM9ERUt"
+      },
+      "artists": [
+        {
+          "name": "Dana Hourani",
+          "url": "https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "Erjaa Shoufak",
+      "url": "https://open.spotify.com/track/1b7XaGjQ8dGQMP4sVuOgHO"
     },
     {
       "added_at": "2023-05-04 20:00:00",
@@ -855,22 +839,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
-        "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
-      },
-      "artists": [
-        {
-          "name": "Carole Samaha",
-          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
-        }
-      ],
-      "duration_ms": 191927,
-      "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
-      "url": "https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Eiish Ahla Snin",
         "url": "https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 193066,
       "name": "Eiish Ahla Snin",
       "url": "https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "Ani Alaqwa",
+        "url": "https://open.spotify.com/album/5LNT6XOT8DoNIbEqqSGGgc"
+      },
+      "artists": [
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "duration_ms": 177958,
+      "name": "Ani Alaqwa",
+      "url": "https://open.spotify.com/track/3Cj7v2kZNOoqIEcOTcUT6c"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
+        "url": "https://open.spotify.com/album/4HQ1AeGjuScD19ns8f67uM"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "\u0645\u063a\u0631\u0648\u0645\u0629 \u0628\u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/3fLW5dX5FfnZ2g3Rmp4Cpr"
     },
     {
       "added_at": "2023-05-04 20:00:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "Mosafer Anta",
-        "url": "https://open.spotify.com/album/0Zj3QSrDMeGxumSuxPQt7O"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        },
-        {
-          "name": "Lena Chamamyan",
-          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
-        }
-      ],
-      "duration_ms": 267241,
-      "name": "Mosafer Anta",
-      "url": "https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Qadduka Al Mayyas",
         "url": "https://open.spotify.com/album/3C8Pdn0Ojq4T9CzkffQnIp"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 282473,
       "name": "Qadduka Al Mayyas",
       "url": "https://open.spotify.com/track/2l5norERJd8AKTAw0wF91c"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "Mosafer Anta",
+        "url": "https://open.spotify.com/album/0Zj3QSrDMeGxumSuxPQt7O"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        },
+        {
+          "name": "Lena Chamamyan",
+          "url": "https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc"
+        }
+      ],
+      "duration_ms": 267241,
+      "name": "Mosafer Anta",
+      "url": "https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC"
     },
     {
       "added_at": "2023-05-04 20:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "ISMAK",
-        "url": "https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL"
-      },
-      "artists": [
-        {
-          "name": "Tamtam",
-          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
-        }
-      ],
-      "duration_ms": 190830,
-      "name": "ISMAK",
-      "url": "https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Korbag",
         "url": "https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 200275,
       "name": "Ekhtary",
       "url": "https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "ISMAK",
+        "url": "https://open.spotify.com/album/6RHUwel7CdqLpPtpRRRrnL"
+      },
+      "artists": [
+        {
+          "name": "Tamtam",
+          "url": "https://open.spotify.com/artist/0L8dLj3QGxHctqkzapPfio"
+        }
+      ],
+      "duration_ms": 190830,
+      "name": "ISMAK",
+      "url": "https://open.spotify.com/track/04gRvCyz2JZZnvfEnW8pAQ"
     },
     {
       "added_at": "2023-05-04 20:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-04 20:00:00",
       "album": {
-        "name": "Satantahi Al Harbu",
-        "url": "https://open.spotify.com/album/5I81x0FiYIibjurMtysKRC"
-      },
-      "artists": [
-        {
-          "name": "Carole Samaha",
-          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
-        }
-      ],
-      "duration_ms": 220704,
-      "name": "Satantahi Al Harbu",
-      "url": "https://open.spotify.com/track/7CEatH4LJGZhDWCP7ijvJj"
-    },
-    {
-      "added_at": "2023-05-04 20:00:00",
-      "album": {
         "name": "Endi Rooh",
         "url": "https://open.spotify.com/album/7HiwjvsxLEWs1IEZ6VK2J9"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 221492,
       "name": "Endi Rooh",
       "url": "https://open.spotify.com/track/1D01O8Tk05AZtAPqMQQT7C"
+    },
+    {
+      "added_at": "2023-05-04 20:00:00",
+      "album": {
+        "name": "Satantahi Al Harbu",
+        "url": "https://open.spotify.com/album/5I81x0FiYIibjurMtysKRC"
+      },
+      "artists": [
+        {
+          "name": "Carole Samaha",
+          "url": "https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3"
+        }
+      ],
+      "duration_ms": 220704,
+      "name": "Satantahi Al Harbu",
+      "url": "https://open.spotify.com/track/7CEatH4LJGZhDWCP7ijvJj"
     },
     {
       "added_at": "2023-05-04 20:00:00",

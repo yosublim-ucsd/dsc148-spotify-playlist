@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 335497,
+  "num_followers": 335624,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTg0NDg1ZjE2NjE0MjM3MGNmNmVlNzhmMjRiZTViMGUyODM1ZjIw",
+  "snapshot_id": "MCwwYTZiZmE4ZjM4M2M0MzEzZTU2YzQyYWQ5MGE2ZDIwOTMzOWY4Nzgx",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 287645,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Long in the Tooth",
@@ -447,6 +431,22 @@
       "duration_ms": 179546,
       "name": "The Wrangler",
       "url": "https://open.spotify.com/track/2BXKQbIgsKd1ojy5JTfPz3"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/45yGFEPm310zjAc1psZzEv"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 287645,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/1MrzCY8KeTcU2UGDITsAoz"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Tej b/w Short Shrift",
         "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 328433,
       "name": "Tej",
       "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Fun Ones",
-        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 281805,
-      "name": "Indoor S'mores",
-      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fun Ones",
+        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 281805,
+      "name": "Indoor S'mores",
+      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "We Are All Shining Stars",
@@ -1151,6 +1135,22 @@
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+    },
+    {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Just Funkin' Around",
-      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "False Prophets",
         "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 352374,
       "name": "False Prophets",
       "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Just Funkin' Around",
+      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Undercover Mixtape",
-        "url": "https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 153654,
-      "name": "Look-A Py Py",
-      "url": "https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Summer Madness",
         "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 213085,
       "name": "Soul Shower",
       "url": "https://open.spotify.com/track/7yFIDeG04tRKHMDNrQXe5J"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Undercover Mixtape",
+        "url": "https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 153654,
+      "name": "Look-A Py Py",
+      "url": "https://open.spotify.com/track/18Z1Tro6FApXmBeP4EICsn"
     },
     {
       "added_at": "2021-10-22 04:02:00",

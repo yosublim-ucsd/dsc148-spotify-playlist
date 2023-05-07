@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: Samantha Fish
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,984 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,034 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 32 | [WHITE PONY \- REVIVAL EDITION](https://open.spotify.com/track/5qdGrDgHYU56ujGsD6G0KN) | [N3ptune](https://open.spotify.com/artist/0Kt3k5975Iq6wW9cuutIZn), [Rusty Steve](https://open.spotify.com/artist/42P6ecU6XM2iC1hS8tuY2L) | [BLACK HORSE \(THE REVIVAL\)](https://open.spotify.com/album/4l4YPkRz6C7aZyqDgk9D9K) | 3:39 |
 | 33 | [The Anima](https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE) | [Cullah](https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz) | [The Anima](https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD) | 3:03 |
 | 34 | [Say My Name](https://open.spotify.com/track/67k7KL7HTCrVUdMnBVbO7L) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Say My Name](https://open.spotify.com/album/5cjzePZsDwF5W6LxCgyDXl) | 3:52 |
-| 35 | [The Lows](https://open.spotify.com/track/33bBjkRiZIkHdoAZlBb9KR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [The Lows](https://open.spotify.com/album/1Ifw6B8pNgYmYgB67wx93t) | 2:55 |
+| 35 | [The Lows](https://open.spotify.com/track/7h0bST38vPZD0kC2Tw8byH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 2:55 |
 | 36 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
 | 37 | [NEVER LEAVE GOD BEHIND](https://open.spotify.com/track/0Th39OTENTSQL9MMzi066T) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [NEVER LEAVE GOD BEHIND](https://open.spotify.com/album/6VeSN4dhFnpBKyn5I2ddIc) | 3:21 |
 | 38 | [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/09eneEPZDcWiWd2x8Mkhyw) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCxjZjQ4MGVjZjc4NmQzNmMyMGUxYjNmOWQ4MmM3YTQxMmIwZGU0YWY1`
+Snapshot ID: `MCw4YzIwNmM2YzlhOWI1OGZlNGU0Y2IxYmJkMjRhMWUxZWMxNzI1ZTk3`

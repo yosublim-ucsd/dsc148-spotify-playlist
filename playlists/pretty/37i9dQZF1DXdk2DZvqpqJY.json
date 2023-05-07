@@ -1,12 +1,12 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 45096,
+  "num_followers": 45180,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODZkZGUwOGNjNDYxNzJmYzI5YTY4MzdjNTAxYjkzN2I4M2QwYmM0",
+  "snapshot_id": "MCw3NDNhYmMxNDY0ZDM0YWY5N2YxNWFjYWZiOGEwMTUyMmRhNzk5Mjhi",
   "tracks": [
     {
       "added_at": "2023-05-05 10:22:42",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
+        "name": "Love on a Lonely Street",
+        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "duration_ms": 183688,
+      "name": "Love on a Lonely Street",
+      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
         "name": "Things To Look Forward To",
         "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 231603,
       "name": "I'll never stop loving you",
       "url": "https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
-        "name": "Love on a Lonely Street",
-        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
-      },
-      "artists": [
-        {
-          "name": "The Ebbing Tides",
-          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
-        }
-      ],
-      "duration_ms": 183688,
-      "name": "Love on a Lonely Street",
-      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "Fleet Street",
-        "url": "https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD"
-      },
-      "artists": [
-        {
-          "name": "Marc Henley Trio",
-          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Fleet Street",
-      "url": "https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
         "name": "Silky Smooth",
         "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 164440,
       "name": "Silky Smooth",
       "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
+        "name": "Fleet Street",
+        "url": "https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "duration_ms": 164093,
+      "name": "Fleet Street",
+      "url": "https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "Solitaire",
-        "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
-      },
-      "artists": [
-        {
-          "name": "Leeluck & Co",
-          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "Solitaire",
-      "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
         "name": "Blame It On My Youth",
         "url": "https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE"
       },
@@ -599,22 +583,6 @@
       "duration_ms": 193188,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
-        "name": "February Brings The Rain",
-        "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
-      },
-      "artists": [
-        {
-          "name": "Fulton Street Players",
-          "url": "https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0"
-        }
-      ],
-      "duration_ms": 221909,
-      "name": "February Brings The Rain",
-      "url": "https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -635,6 +603,22 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
+        "name": "Solitaire",
+        "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
+      },
+      "artists": [
+        {
+          "name": "Leeluck & Co",
+          "url": "https://open.spotify.com/artist/5IZZX2p6pyi2VqFUBKEDHL"
+        }
+      ],
+      "duration_ms": 211053,
+      "name": "Solitaire",
+      "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
         "name": "Journeying",
         "url": "https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 231130,
       "name": "Journeying",
       "url": "https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
+        "name": "February Brings The Rain",
+        "url": "https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv"
+      },
+      "artists": [
+        {
+          "name": "Fulton Street Players",
+          "url": "https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0"
+        }
+      ],
+      "duration_ms": 221909,
+      "name": "February Brings The Rain",
+      "url": "https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "Views Of Dawn",
-        "url": "https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM"
-      },
-      "artists": [
-        {
-          "name": "Mandevilla",
-          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
-        }
-      ],
-      "duration_ms": 293750,
-      "name": "Views Of Dawn",
-      "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
         "name": "Love In Your Arms",
         "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 255143,
       "name": "You're A Rainbow",
       "url": "https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
+        "name": "Views Of Dawn",
+        "url": "https://open.spotify.com/album/6ffUhpiJexNGF2eL5DVJxM"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "duration_ms": 293750,
+      "name": "Views Of Dawn",
+      "url": "https://open.spotify.com/track/3XCyhZ9xWZyF1Rn9lZJqCZ"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "On 14th Street",
-        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 176896,
-      "name": "On 14th Street",
-      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
         "name": "Chances Are",
         "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 282391,
       "name": "Chances Are",
       "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
+        "name": "On 14th Street",
+        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 176896,
+      "name": "On 14th Street",
+      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "Now that we are here",
-        "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
-      },
-      "artists": [
-        {
-          "name": "Soft Brush Touches",
-          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
-        }
-      ],
-      "duration_ms": 162569,
-      "name": "Now that we are here",
-      "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
         "name": "The Flow of Your Way",
         "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 206784,
       "name": "The Flow of Your Way",
       "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
+        "name": "Now that we are here",
+        "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
+      },
+      "artists": [
+        {
+          "name": "Soft Brush Touches",
+          "url": "https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ"
+        }
+      ],
+      "duration_ms": 162569,
+      "name": "Now that we are here",
+      "url": "https://open.spotify.com/track/0rQngOdT0wJxPT6jxt9B0n"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL"
-      },
-      "artists": [
-        {
-          "name": "Tribute Trio",
-          "url": "https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C"
-        }
-      ],
-      "duration_ms": 179064,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
         "name": "In Another Universe",
         "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
       },
@@ -1131,18 +1115,34 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "A Sunday Kind Of Love",
-        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1HhnW65X0yXfoXZSWSFROL"
       },
       "artists": [
         {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+          "name": "Tribute Trio",
+          "url": "https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C"
         }
       ],
-      "duration_ms": 174867,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+      "duration_ms": 179064,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3aEzo1qHVQU5S3nsjFfx0V"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
+        "name": "From My Perspective",
+        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "duration_ms": 242833,
+      "name": "From My Perspective",
+      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "From My Perspective",
-        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
+        "name": "A Sunday Kind Of Love",
+        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
       },
       "artists": [
         {
-          "name": "Eduard Landings",
-          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
         }
       ],
-      "duration_ms": 242833,
-      "name": "From My Perspective",
-      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
+      "duration_ms": 174867,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "For Ellen",
-        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
+        "name": "Blue Midnight",
+        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
       },
       "artists": [
         {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+          "name": "James Leeluck",
+          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
         }
       ],
-      "duration_ms": 198750,
-      "name": "For Ellen",
-      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
+      "duration_ms": 189134,
+      "name": "Blue Midnight",
+      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
+        "name": "For Ellen",
+        "url": "https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "For Ellen",
+      "url": "https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ"
+    },
+    {
+      "added_at": "2023-05-05 10:22:42",
+      "album": {
         "name": "Your Lonely Heart",
         "url": "https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 222538,
       "name": "Your Lonely Heart",
       "url": "https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx"
-    },
-    {
-      "added_at": "2023-05-05 10:22:42",
-      "album": {
-        "name": "Blue Midnight",
-        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
-      },
-      "artists": [
-        {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
-        }
-      ],
-      "duration_ms": 189134,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "added_at": "2023-05-05 10:22:42",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2023-05-05 10:22:42",
       "album": {
-        "name": "Sunset over Paris",
-        "url": "https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF"
+        "name": "Forever and Always",
+        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
       },
       "artists": [
         {
-          "name": "The Groove Trio",
-          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
         }
       ],
-      "duration_ms": 356263,
-      "name": "Love is the answer",
-      "url": "https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7"
+      "duration_ms": 238970,
+      "name": "Forever and Always",
+      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
     },
     {
       "added_at": "2023-05-05 10:22:42",

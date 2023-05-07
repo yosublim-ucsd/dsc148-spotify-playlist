@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,652 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,678 likes - 51 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 50 | [Messy](https://open.spotify.com/track/2K1hsMf2MZ5lRN2dEDalAv) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Messy](https://open.spotify.com/album/31U14pPaowEmeGUVZAwYHP) | 2:24 |
 | 51 | [Balance My Lows \(feat\. Coi Leray\)](https://open.spotify.com/track/0MxDjHjeFZYfNZ6AL1ClCu) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:07 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBjZjE0OTQ0ODllN2RjNzExMDM0NTRmNzNhOTQwMTI4OQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBiOTA4NDdhNWFkZjQ0M2UxMTdkYzllYTZkNTQwODg2Yw==`

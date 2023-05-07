@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 
 > It's a good day to be a My Day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,718 likes - 68 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,744 likes - 68 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ucx6LaTP5S.md) - [plain]
 | 67 | [WARNING!](https://open.spotify.com/track/6P3opmvaRieLo5vLKRPbjy) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Shoot Me : Youth Part 1](https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf) | 3:25 |
 | 68 | [OUCH](https://open.spotify.com/track/3YftGIMRfazVINtT3mcM3k) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:17 |
 
-Snapshot ID: `MCxhMzk5NmE1NzEyMjIxZGIyYTNjNmViYjZhMDc4YWFlOGU5ZDRiY2Y4`
+Snapshot ID: `MCwwNTJmNTExMWM2NjY4NzU4ZGVmMjJlMjJmYzg1NjE0ODI1NDY4NGE1`

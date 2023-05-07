@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Y La Bamba",
-  "num_followers": 10731,
+  "num_followers": 10778,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTk5MTBkZTk3NjY1YWZiODIyZjRmOTNlNThmYzdmMWQ1YjIwNjNk",
+  "snapshot_id": "MCxkZGE5MDg2YmJiYzk2YTViOWIwYzkzZDY0ZWJiOTUyZTUwYzg4NDU2",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Aroma A Nostalgia",
         "url": "https://open.spotify.com/album/6cneFPJP1wgyZ26tjiOeJL"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 351413,
       "name": "Otros Colores",
       "url": "https://open.spotify.com/track/2ZJcPJHV298BPY4XsdBLD8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Sagitario",
-        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 201861,
-      "name": "Sagitario",
-      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
     },
     {
       "added_at": "2023-05-05 04:00:00",

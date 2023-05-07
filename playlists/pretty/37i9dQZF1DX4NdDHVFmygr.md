@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,997 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,400 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 11 | [Talet Lghiba](https://open.spotify.com/track/6vEtT2Vu5MprdI69pATbLm) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Talet Lghiba](https://open.spotify.com/album/27Kol8rD0EJsQsrkE7A0mJ) | 3:31 |
 | 12 | [Heeya](https://open.spotify.com/track/7tG8Kl89b8gVuDGnlyCXQA) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Heeya](https://open.spotify.com/album/2CFvYOAGceKa9RNyfG1rfX) | 3:33 |
 | 13 | [بالهدى](https://open.spotify.com/track/0aDZlrKCeRuZSSg6SXDXMF) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [بالهدى](https://open.spotify.com/album/5k3Z3I40E3EXZSoVJgRZpc) | 3:57 |
-| 14 | [Nar](https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:23 |
-| 15 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 |
-| 16 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
+| 14 | [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 |
+| 15 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 |
+| 16 | [Galbi Mazal](https://open.spotify.com/track/67PdC9pbSDsuZ2YpTCITw0) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [Galbi Mazal](https://open.spotify.com/album/73UXBEpmeRvzFUrbAPielh) | 2:44 |
 | 17 | [WILI](https://open.spotify.com/track/7AM2uga26rlhKu1a27MyFS) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [WILI](https://open.spotify.com/album/1P0sKxBEPJqOiXTAUbu9f1) | 3:10 |
 | 18 | [Arahmini](https://open.spotify.com/track/4TCs0LTzW2xaW7SFeFDY7K) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:48 |
 | 19 | [Nsiti](https://open.spotify.com/track/0qvOa81HDkZs2c07K6XtCE) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Nsiti](https://open.spotify.com/album/2d3GvYdZTh6DnvdOnO1ObG) | 2:52 |
 | 20 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 |
 | 21 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 |
-| 22 | [Ach Dani Lik](https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ach Dani Lik](https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy) | 2:57 |
-| 23 | [Maliach](https://open.spotify.com/track/1pUhEW4SsZjUZ6qs669zPs) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Maliach](https://open.spotify.com/album/3mXeI0v55leircJtBVNAyT) | 2:53 |
-| 24 | [Skati](https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Skati](https://open.spotify.com/album/5KDd8Sv0z9yKzEvfNSh8am) | 4:12 |
+| 22 | [Maliach](https://open.spotify.com/track/1pUhEW4SsZjUZ6qs669zPs) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Maliach](https://open.spotify.com/album/3mXeI0v55leircJtBVNAyT) | 2:53 |
+| 23 | [Skati](https://open.spotify.com/track/7ungXHBRDqUW3s5iy5aEcI) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Skati](https://open.spotify.com/album/5KDd8Sv0z9yKzEvfNSh8am) | 4:12 |
+| 24 | [Nar](https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:23 |
 | 25 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
 | 26 | [Mouja](https://open.spotify.com/track/1OSxhMqU071Ez0lQjBnA1W) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Mouja](https://open.spotify.com/album/40rCoqtbzgquAaQ40Z7NZw) | 3:15 |
 | 27 | [Ya Lalali](https://open.spotify.com/track/5dpZaOEAyPUlVsXR5h7eGv) | [Roffo](https://open.spotify.com/artist/68z4NYiZ3obqSk6EZClHeE) | [Ya Lalali](https://open.spotify.com/album/1eoLUTU3QAbrc9rjHNVbmX) | 4:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Ya Bent Nass](https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX), [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Ya Bent Nass](https://open.spotify.com/album/7etlW0csrc4pTaLA55M1cH) | 3:02 |
 | 50 | [Magnifique](https://open.spotify.com/track/0CBFjd1RU3ao8BqWMEiUy5) | [Klass\-A](https://open.spotify.com/artist/5pTmYowPAPHM6C133AaOfJ), [Comoriano](https://open.spotify.com/artist/4lAuN82ZeMgrNRReNybKOT), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ljasos](https://open.spotify.com/artist/18Zp1qI0chLfqQPq6i3yTJ) | [Magnifique](https://open.spotify.com/album/59iV1eX9oRXELm1zEO8nKB) | 4:01 |
 
-Snapshot ID: `MCxmM2QxZGZhNjllZDc3MzJmZTFjMDNlNTkwY2U3MjRjMTA0YjdiMjJh`
+Snapshot ID: `MCw2NWJmZDQwOWM3ZWJmOTk4YzE1NzhlMTM0YmJlZWMxNzA1ZTMzYmMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran \(pictured\), Bring Me The Horizon, Lava La Rue and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,476 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,510 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 8 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 |
 | 9 | [Date Your Dad](https://open.spotify.com/track/0ZkkZYLcjdPv2XnJtfGRzL) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Date Your Dad](https://open.spotify.com/album/4zuYtVKxNBcifjGC1z7pEZ) | 2:16 |
 | 10 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
-| 11 | [NO INTENTION](https://open.spotify.com/track/4h8t83GOfsslUI7ADtf31j) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:07 |
+| 11 | [NO INTENTION](https://open.spotify.com/track/4h8t83GOfsslUI7ADtf31j) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:07 |
 | 12 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 |
 | 13 | [Money](https://open.spotify.com/track/7rewueb4Gi7XJ7SFyz4Lyk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Money](https://open.spotify.com/album/2pe0owZ6XB7MnLTzi6Qf8M) | 2:40 |
 | 14 | [Crash and Burn](https://open.spotify.com/track/71yDRBo3i9b5kQZClMO2t4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Crash and Burn / Said Nothing](https://open.spotify.com/album/4XWv8Kw5seA17Ki0uMwnBf) | 3:29 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 17 | [Back 2 Back \(feat\. Potter Payper\)](https://open.spotify.com/track/3qADzUJtHJMy6rxbSLusJ5) | [Tunde](https://open.spotify.com/artist/0sOjyMhtDzH1DSvcPjVXsi), [Potter Payper](https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z) | [First Lap](https://open.spotify.com/album/0Ukfuv1AjZhBQg7c2QpDaK) | 2:31 |
 | 18 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
 | 19 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 |
-| 20 | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
+| 20 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
 | 21 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
 | 22 | [Rebel Time](https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Rebel Time](https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7) | 4:01 |
 | 23 | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [Floating Up](https://open.spotify.com/track/3Af5zhW5h50D6cXP1sMHWe) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Floating Up](https://open.spotify.com/album/0d7hn4pMkkWbXK9Cu79Hk3) | 3:42 |
 | 127 | [Greatest Day \(feat\. Calum Scott\) \- Robin Schulz Rework](https://open.spotify.com/track/1Oae67sHC45sBQMrYhMiWF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Greatest Day \(feat\. Calum Scott\) \[Robin Schulz Rework\]](https://open.spotify.com/album/66L6pO8awweuEwUBn0cLdS) | 2:44 |
 
-Snapshot ID: `MCwyN2Q1ZmIyZTg0OTlhNGZmNjcyNmYwODBlZTFlN2RmZGEyZDY1Yzk4`
+Snapshot ID: `MCw0YmFmOThhZTgyNjVhYjkxZmFjZmQxMGExNjI4OWY1YjY4ZmYxYTQ1`

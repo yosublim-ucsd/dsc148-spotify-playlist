@@ -4,7 +4,7 @@
 
 > Easy listening for a pleasant drive.
 
-370 songs - 23 hr 41 min
+371 songs - 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,8 +70,9 @@
 | [Come Away With Me](https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me](https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq) | 3:18 | 2019-06-21 | 2022-07-29 |
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2019-06-21 |  |
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2019-06-21 |  |
+| [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2019-06-21 |  |
 | [Counting Stars](https://open.spotify.com/track/1fh2TfUOtOoXEE8qQynYEC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native \(Deluxe\)](https://open.spotify.com/album/0G0vIGvVlJ3MtXunjqrbMY) | 4:17 | 2019-06-21 | 2022-02-17 |
-| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2019-06-21 |  |
+| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2019-06-21 | 2023-05-07 |
 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 | 2019-06-21 |  |
 | [Cups \(Pitch Perfect’s “When I’m Gone”\) \- Pop Version](https://open.spotify.com/track/2sCl0FFOzZSmYZs90zOpd1) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Cups \(Pitch Perfect’s “When I’m Gone”\)](https://open.spotify.com/album/0ADeebtY9ygMEZkuEuTAUu) | 2:06 | 2019-06-21 | 2022-07-29 |
 | [Cups \(Pitch Perfect’s “When I’m Gone”\) \- Pop Version](https://open.spotify.com/track/6mH3qVIeOsnQIAho5eWwhH) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 2:08 | 2019-06-21 |  |

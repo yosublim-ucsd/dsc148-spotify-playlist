@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 251607,
+  "num_followers": 251657,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWUxZTE4NTU0MGQ3N2U5NzNkYThhM2U0ZDcyZjFiMWRlM2JmMWU1",
+  "snapshot_id": "MCxjMTY2NzcwMTg5NDM5ZmE0YWQzMjlmNzdhY2Q0OWI3NmI5OTY4MDk2",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -415,22 +415,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Someone\u2019s EP I",
-        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 87037,
-      "name": "INT.",
-      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "When U Go",
         "url": "https://open.spotify.com/album/2MWgIRGRWp2c0i1ak5bWVI"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212724,
       "name": "When U Go - Edit",
       "url": "https://open.spotify.com/track/2F3BynnuqegS6LOqnKYkn4"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Someone\u2019s EP I",
+        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 87037,
+      "name": "INT.",
+      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -615,22 +615,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Fleur",
-        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
       },
       "artists": [
         {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
         },
         {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
         }
       ],
-      "duration_ms": 259427,
-      "name": "Fleur",
-      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
+      "duration_ms": 130271,
+      "name": "(Interlude)",
+      "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -651,22 +651,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/7hHuLeoyQ5Uem1BBmf5pcl"
+        "name": "Fleur",
+        "url": "https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82"
       },
       "artists": [
         {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
         },
         {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
         }
       ],
-      "duration_ms": 130271,
-      "name": "(Interlude)",
-      "url": "https://open.spotify.com/track/0ZfI5ROJZ69K0RPysSgkJW"
+      "duration_ms": 259427,
+      "name": "Fleur",
+      "url": "https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/77DvRscXwJ3N1xDyDch9KS"
     },
     {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
-    },
-    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -803,6 +787,22 @@
       "duration_ms": 153700,
       "name": "After the Tone with Lossapardo",
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
+    },
+    {
+      "added_at": "2019-06-07 08:01:00",
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Antasma",
-        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
-      },
-      "artists": [
-        {
-          "name": "Sal Dulu",
-          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Antasma",
-      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Self Edit",
         "url": "https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 189445,
       "name": "Canyon",
       "url": "https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Antasma",
+        "url": "https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl"
+      },
+      "artists": [
+        {
+          "name": "Sal Dulu",
+          "url": "https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Antasma",
+      "url": "https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -963,18 +963,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
+        "name": "Wave001",
+        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
       },
       "artists": [
         {
-          "name": "Hazey Eyes",
-          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Our Story",
-      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
+      "duration_ms": 182857,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -995,18 +995,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Wave001",
-        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Hazey Eyes",
+          "url": "https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
+      "duration_ms": 145174,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1"
     },
     {
       "added_at": "2019-05-24 08:01:00",

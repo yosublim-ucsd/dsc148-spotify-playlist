@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,409 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,432 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [¿Qué Hago Conmigo?](https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:20 |
 | 50 | [Que Voy A Hacer](https://open.spotify.com/track/0HD0RNHrLyM1yKJaWkR56R) | [Elida Reyna Y Avante](https://open.spotify.com/artist/6FgcIpZBpVNOXHniQX9Oml), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Que Voy A Hacer](https://open.spotify.com/album/2ZRarP86dR9OrYDNjiflEL) | 3:21 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA4MzdmM2NhYzliNWM0N2EwOTlhYmExZGVmYWFlN2RiMw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA1Y2FhNmI3NTk1NmJkNmVjYWYyMDdkM2IyMzNjNjQwYQ==`

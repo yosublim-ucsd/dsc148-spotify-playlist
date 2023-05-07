@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Tu dosis de energ\u00eda para alegrarte el d\u00eda!",
-  "num_followers": 1641178,
+  "num_followers": 1641407,
   "original_name": "Hits Alegres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzIyNmVhYmQ3YmY5NjMwOTcyMTJiMzUwMzliOGM5ODk3YmIxYjI4",
+  "snapshot_id": "MCw4OTlmMjMzZWU0ODc3MjlhMTNmNGZiZTcwM2U2NjFhZjcyYTE0YTY3",
   "tracks": [
     {
       "added_at": "2023-04-25 09:24:32",
@@ -585,42 +585,6 @@
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
-      "added_at": "2023-04-25 09:24:32",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-04-25 09:24:32",
-      "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
-    },
-    {
       "added_at": "2023-04-25 09:25:20",
       "album": {
         "name": "Sunroof",
@@ -639,6 +603,42 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2023-04-25 09:24:32",
+      "album": {
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
+    },
+    {
+      "added_at": "2023-04-25 09:24:32",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2023-04-25 09:24:32",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-25 09:24:32",
       "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
-    },
-    {
-      "added_at": "2023-04-25 09:24:32",
-      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
+    },
+    {
+      "added_at": "2023-04-25 09:24:32",
+      "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2023-04-25 09:25:20",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2023-04-25 09:24:32",
       "album": {
-        "name": "PLAYA DEL INGL\u00c9S",
-        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 237525,
-      "name": "PLAYA DEL INGL\u00c9S",
-      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
-    },
-    {
-      "added_at": "2023-04-25 09:24:32",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 186722,
       "name": "RON COLA",
       "url": "https://open.spotify.com/track/5S8i9p2xS8M8pFqfZMbMzI"
+    },
+    {
+      "added_at": "2023-04-25 09:24:32",
+      "album": {
+        "name": "PLAYA DEL INGL\u00c9S",
+        "url": "https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 237525,
+      "name": "PLAYA DEL INGL\u00c9S",
+      "url": "https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6"
     },
     {
       "added_at": "2023-04-25 09:24:32",

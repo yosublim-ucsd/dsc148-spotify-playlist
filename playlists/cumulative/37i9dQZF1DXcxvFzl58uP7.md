@@ -2,9 +2,9 @@
 
 ### [Bedroom Pop](https://open.spotify.com/playlist/37i9dQZF1DXcxvFzl58uP7)
 
-> Dreamy jams from the best bedroom producers\. Cover: girl in red
+> Dreamy jams from the best bedroom producers\. Cover: Joji
 
-838 songs - 1 day 19 hr 36 min
+839 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,7 @@
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-03-19 | 2022-12-17 |
 | [Marketa](https://open.spotify.com/track/5FzxcTskThKSLcSUadwZ90) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Connecting Visitors to Fun](https://open.spotify.com/album/14mNMkX1Us89c1VcXzNlPq) | 3:45 | 2020-03-29 | 2021-04-13 |
 | [Material Things](https://open.spotify.com/track/1Mgv7as2OzvJrUc3kphZxn) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Material Things](https://open.spotify.com/album/29T5p7BP5ZHsPuvX1qBadv) | 2:16 | 2021-10-08 | 2022-04-21 |
-| [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 |  |
+| [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-03-04 | 2023-05-07 |
 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/0rDqIh1ugZmukdvkgYZb1X) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 2:53 | 2021-06-04 | 2022-04-21 |
 | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/track/7pD4yoAj7TIIqZLDhAwHfq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Maybe Chocolate Chips \(feat\. Ric Wilson\)](https://open.spotify.com/album/2GUjxWI2nDtp1u5Op0Um1C) | 2:53 | 2021-03-02 | 2021-07-08 |
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-06-14 | 2023-04-18 |
@@ -587,6 +587,7 @@
 | [Puppy Dog](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Puppy Dog](https://open.spotify.com/album/76gFoEHYVhnXoVIbEOCgAo) | 3:30 | 2019-12-14 |  |
 | [Purple Haze](https://open.spotify.com/track/6CD5sIa3Li1gUvlfIL8ew3) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [Purple Haze](https://open.spotify.com/album/1eQdAPkg20LXtt71zE97Pj) | 3:18 | 2020-08-11 | 2021-08-28 |
 | [Questions](https://open.spotify.com/track/2DDakV5xNzIBA1BsL40bPS) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Questions](https://open.spotify.com/album/2tt1rj0WeBQVQhv3Rplg2f) | 3:40 | 2021-07-19 | 2022-07-29 |
+| [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 | 2023-04-17 |  |
 | [Radio](https://open.spotify.com/track/3PIY13DaeOoaRpJK32NxLg) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [Radio](https://open.spotify.com/album/4uQWh3KmwaiYyj8Zkyh9bS) | 3:02 | 2021-07-19 | 2022-07-28 |
 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 | 2023-03-31 |  |
 | [Rapaz](https://open.spotify.com/track/14ATHYF1QK0nW6v1NxE9ux) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Rapaz](https://open.spotify.com/album/6k5Z3sIOEvRTzmwSOBhm2W) | 3:47 | 2021-03-10 | 2021-05-27 |

@@ -6638,7 +6638,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 148432,
       "name": "Surfaced - From \"Surface\"",
       "url": "https://open.spotify.com/track/6yidnXvq5fN4ULkgk8FOIU"
@@ -7536,6 +7536,28 @@
       "duration_ms": 117500,
       "name": "Un Dimanche Orageux",
       "url": "https://open.spotify.com/track/7xcUYm5XUQ1bULRNlWCunX"
+    },
+    {
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "album": {

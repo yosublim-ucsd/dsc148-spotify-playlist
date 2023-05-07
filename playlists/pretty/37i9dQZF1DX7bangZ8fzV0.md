@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=Q4cJpGKLTVO\_ZhJLq\_8clQ">JAN JAN JAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,402 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,566 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 | 74 | [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 |
 | 75 | [Keeza](https://open.spotify.com/track/4U6CKDrBPhG0PpPgqXLp3e) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Afrikaans is Groot Vol\. 14](https://open.spotify.com/album/3wMyH1M60asVYjnhQVJc6h) | 2:58 |
 
-Snapshot ID: `MCxjOTcwZGM1YzE0YzgzZDc2MDRjMGI4OTBhMWQ1MjAwYzJiNzdiYjk1`
+Snapshot ID: `MCwwYmRmMDcxYzA3MTgwOWM5ODgzOTJhNzEzNjc0ZTVmZTVmYTcwYTMx`

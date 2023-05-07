@@ -4,7 +4,7 @@
 
 > ¡Picositos y con mucho sabor!
 
-183 songs - 11 hr 17 min
+184 songs - 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/2ErLVOXP9j8ziacqpz5JJr) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Cumbia del Monte Fuji](https://open.spotify.com/album/75gyj3yKAFyATEEV2CtWVw) | 4:24 | 2021-10-20 | 2022-07-29 |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2022-10-28 |  |
 | [Cumbia En La Playa](https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 5:24 | 2022-10-28 | 2023-04-09 |
+| [Cumbia Espacial](https://open.spotify.com/track/73eru5GrzWOgmjjdcI8WGg) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC) | 4:05 | 2022-10-28 |  |
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2021-10-20 | 2022-07-29 |
 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 | 2021-10-20 | 2023-05-01 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-04-20 | 2022-09-12 |
@@ -136,7 +137,7 @@
 | [Otra Noche](https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Cumbia Del Corazón](https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm) | 3:19 | 2022-10-28 |  |
 | [Otro Muerde el Polvo \- Another One Bites the Dust](https://open.spotify.com/track/04rjMM4TLlevascCX3GlOM) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo \(Soundway Records\)](https://open.spotify.com/album/1KCmnDxgiX3oej6L6VdM3I) | 3:32 | 2021-10-20 | 2022-07-29 |
 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 | 2022-10-28 |  |
-| [Paloma Ajena](https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l) | [Claudio Moran Y Los Universales](https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 4:03 | 2022-10-28 |  |
+| [Paloma Ajena](https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l) | [Claudio Moran Y Los Universales](https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 4:03 | 2022-10-28 | 2023-05-07 |
 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 | 2022-10-28 | 2023-05-03 |
 | [Para Elisa](https://open.spotify.com/track/1xrx73sjF476rJh0MJaJED) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Los Destellos](https://open.spotify.com/album/1ZUp8sfXYQIz4jduTzi13t) | 2:46 | 2022-10-28 | 2023-03-11 |
 | [Para Elisa](https://open.spotify.com/track/4Sd525AYAaYuiexGHTcoFy) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [The Roots of Chicha](https://open.spotify.com/album/77iuhYUaKEvAsEjKJNh3lN) | 2:46 | 2021-10-20 | 2022-07-02 |

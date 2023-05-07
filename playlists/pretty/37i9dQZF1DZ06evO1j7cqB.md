@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,883 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,888 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 42 | [Da Vinci's Demons Main Title Theme](https://open.spotify.com/track/0rIcf3rfCGyQYW5YK8udX1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Da Vinci's Demons \(Original Television Soundtrack\)](https://open.spotify.com/album/4U25uFdBkxGiOKOVOjN95m) | 1:08 |
 | 43 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyNmU4ZjE0OGFkY2MzNTZlZDM5ZDBmNjdmNWIyNjgwYg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBmMGU1OGJhYTM0YTkxNGQxNGMyYjQ2M2I1MTczYjYwOQ==`

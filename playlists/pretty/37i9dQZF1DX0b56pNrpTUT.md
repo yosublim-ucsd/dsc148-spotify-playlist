@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,268 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,290 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 8 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
 | 9 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 |
 | 10 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
-| 11 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
-| 12 | [LEAVE ME ALONE](https://open.spotify.com/track/0kbnm3YwSygTFeWZlCGfCw) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:36 |
+| 11 | [LEAVE ME ALONE](https://open.spotify.com/track/0kbnm3YwSygTFeWZlCGfCw) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:36 |
+| 12 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 13 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
 | 14 | [Insecure](https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Insecure](https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe) | 3:38 |
 | 15 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 47 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 |
 | 48 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 
-Snapshot ID: `MCw3NjFhM2U0MDMwOWQyMjUzMzhlMjNhYzY3ZDI2ZGRkZTg3OGUzMDM0`
+Snapshot ID: `MCw1NWQ0ZmU0ZWY0NGQ2ZDk1N2ZkYmViZGYxMDk5ZDRiNGI3M2Y2YTYx`

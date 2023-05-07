@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Tom Grennan",
-  "num_followers": 543153,
+  "num_followers": 543141,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTNkYTE1NTBjOGQ3YzFjYjM1NDdlNzJiYzQ0YjFkZTFlNWE4NTc1",
+  "snapshot_id": "MCw4NzY4MTlmY2RhODdmNjhhNjE5OTFiYzdjNDY4Yjk0NmM3YzRhODI2",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -998,6 +998,10 @@
         {
           "name": "Nines",
           "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "Aisa",
+          "url": "https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ"
         }
       ],
       "duration_ms": 194709,

@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-472 songs - 1 day 1 hr 52 min
+473 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,7 @@
 | [prom dress](https://open.spotify.com/track/2xCGBWfzTe8l2kvHpgvB6M) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade](https://open.spotify.com/album/5mNk0mLiGcJHLGiT0mjHmX) | 3:17 | 2022-10-28 | 2022-11-13 |
 | [puddles](https://open.spotify.com/track/4J9j0ZO5WzTJoM5B0zTN3B) | [Gbli](https://open.spotify.com/artist/0jD9LFWGpjG6WvkrnZ6928), [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [raindrops](https://open.spotify.com/album/6wAA4XdvEJ0wRQyn8XEfhq) | 2:04 | 2022-04-14 | 2022-04-21 |
 | [Purple](https://open.spotify.com/track/4E81DtplPvQb0db3v2M7bB) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Purple](https://open.spotify.com/album/3cwyPpxZUSPi1JCMVUPB37) | 2:55 | 2022-04-14 | 2022-04-21 |
-| [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2022-06-10 |  |
+| [Put Your Records On](https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Put Your Records On](https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7) | 3:30 | 2022-06-10 | 2023-05-07 |
 | [queen st](https://open.spotify.com/track/5iPRPoJMfuwgaPbECWHrIY) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [queen st](https://open.spotify.com/album/1Zw3TjtEff6LALfHLqOKRe) | 2:10 | 2022-04-14 | 2022-04-21 |
 | [Rainy Day but Tuned](https://open.spotify.com/track/5d1597VPvFNUwipnSKGChs) | [Sloani](https://open.spotify.com/artist/19PwAhjMyP5pk3Dlra6wI5) | [can you see the cat](https://open.spotify.com/album/1wXO0d3Uj6tmGgELBmqrrX) | 2:10 | 2022-04-14 | 2022-04-21 |
 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 | 2022-04-14 |  |
@@ -414,6 +414,7 @@
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2022-08-19 | 2022-12-10 |
 | [The Chancer](https://open.spotify.com/track/7CSxUbNsL5Tuvcsry4rfHi) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Under the Surface](https://open.spotify.com/album/4WvW7Y50LuI1yE1XWxtAVk) | 3:42 | 2022-04-14 | 2022-04-21 |
 | [The Drift](https://open.spotify.com/track/1dwwmpUGD6ZSvHDUbP89gb) | [Serenade](https://open.spotify.com/artist/2E0Hl45r0SXnkoG57IzGv0) | [The Drift](https://open.spotify.com/album/6rJHIci4gPjxMbCadVFLnf) | 2:26 | 2022-04-14 | 2022-04-21 |
+| [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 |  |
 | [The Heart Wants What It Wants](https://open.spotify.com/track/6wJwkMo278iWVlWl1XQ4WA) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [The Heart Wants What It Wants](https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI) | 3:47 | 2023-03-06 |  |
 | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Joker And The Queen \(feat\. Taylor Swift\)](https://open.spotify.com/album/0vkAczpFKCazPKaoLtnBr0) | 3:05 | 2022-04-14 | 2022-05-24 |
 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 | 2022-04-14 | 2022-04-21 |

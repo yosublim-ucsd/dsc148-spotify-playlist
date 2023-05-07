@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,468 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,779 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 40 | [The Four Horsemen](https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b) | [Aphrodite's Child](https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8) | [6 6 6](https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv) | 5:53 |
 | 41 | [Over Under Sideways Down \- The Mono Album](https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Roger the Engineer](https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc) | 2:22 |
 | 42 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/6d3I7THB2bONUkxOo1DvmZ) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Experience Hendrix: The Best Of Jimi Hendrix](https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY) | 5:12 |
-| 43 | [Comin' Back to Me](https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 5:15 |
-| 44 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
+| 43 | [Her Eyes Are a Blue Million Miles](https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy) | [Captain Beefheart & His Magic Band](https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw) | [Clear Spot](https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p) | 2:57 |
+| 44 | [Comin' Back to Me](https://open.spotify.com/track/0TBntp6t4oS6UXjxikO5n7) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 5:15 |
 | 45 | [Child in Time](https://open.spotify.com/track/5TrfusgKC1BYic5LaWCoKm) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock](https://open.spotify.com/album/3llL1qaL2RvtyQAthAuRFS) | 10:20 |
 | 46 | [Flying High](https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Electric Music For The Mind And Body](https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk) | 2:41 |
 | 47 | [Shifting Sands](https://open.spotify.com/track/3jBCwLVmmfKUH8321N4bdd) | [The West Coast Pop Art Experimental Band](https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz) | [Part One](https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 | 75 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
 
-Snapshot ID: `MCw5NTk3OTJmMjgzODgwNDM5NjBiYzdiOGMwZGM0MDM0MzU2MDY4YjFk`
+Snapshot ID: `MCw0YmM2MDJmYTk5NTJiN2JjZjU0NWRhYjFmZWM3NmMyYjE3NTI1MTdi`

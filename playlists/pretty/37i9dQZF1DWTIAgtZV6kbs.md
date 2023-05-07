@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,727 likes - 96 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,853 likes - 96 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 16 | [Angel of Doom](https://open.spotify.com/track/480g4Wdq5XeLqURUaQIBzI) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Evangelion: 1.0 You Are \(Not\) Alone \(Original Soundtrack Album\)](https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq) | 3:50 |
 | 17 | [魂のルフラン](https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 5:14 |
 | 18 | [F02\_Take01\_EWS\_Amano&Kosei](https://open.spotify.com/track/4rq1ZWQ2LHu9Mx3glfbIe1) | [ヱヴァンゲリヲン新吹奏楽版](https://open.spotify.com/artist/3sVX9uIB7QPe9697OBtbXY) | [ヱヴァンゲリヲン新吹奏楽版:其の2](https://open.spotify.com/album/0SzGPBv99g5BV56tpTNNf6) | 2:14 |
-| 19 | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/3gy29plS7bgjmYfgfGGwgE) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/album/3hZAOa09G6paCElkWgyuSe) | 7:46 |
+| 19 | [KOMM, SUSSER TOD \- M\-10 Director's Edit Version](https://open.spotify.com/track/1fcR9f13hKGpC2u9r0iHQT) | [Arianne](https://open.spotify.com/artist/67E0wqAIfyT2erdSnMLzRI) | [THE END OF EVANGELION \(Original Soundtrack\)](https://open.spotify.com/album/12Zlf7jQUcYOsPl2qbuXgz) | 7:46 |
 | 20 | [Beautiful World \- PLANiTb Acoustica Mix](https://open.spotify.com/track/2X5WNn3nHqFhihs8TtulVc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Beautiful World \(PLANiTb Acoustica Mix\)](https://open.spotify.com/album/6LHMXCOJ4eWGuTPsotVQu1) | 5:09 |
 | 21 | [今日の日はさようなら](https://open.spotify.com/track/2SsjrvkdZMqkU9DNgQGqIz) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 2:43 |
 | 22 | [THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/track/1yoLVeLcgVzPUB4b4gd01R) | [LOREN&MASH](https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb) | [魂のルフラン/THANATOS \-IF I CAN'T BE YOURS\-](https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2) | 4:50 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIAgtZV6kbs.md) - [plain]
 | 95 | [世界は二人のために](https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv) | [Naomi Sagara](https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04) | [ゴールデン☆ベスト デラックス・58](https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI) | 3:49 |
 | 96 | [人生を語らず](https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8) | [Takuro Yoshida](https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7) | [今はまだ人生を語らず\-1](https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2) | 4:33 |
 
-Snapshot ID: `MCxiZWY3YjE2NzkzMTI4NDQ4ZTBiOWU4NGEzMWY0ZmQxNTU0NmQ1Yjdi`
+Snapshot ID: `MCwxODkzNDliYTVhZmUyZDkxNjA4NjRlMTgwOTdiNjVmYjNhYmRmOTNm`

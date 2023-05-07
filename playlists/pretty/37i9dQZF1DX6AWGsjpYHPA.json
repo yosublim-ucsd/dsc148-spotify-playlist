@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 103993,
+  "num_followers": 104092,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMGQ4NDdkOWJkMTJjZjRkMThjOGJkODY2ODA5ZGMxMTExOTU3YTRm",
+  "snapshot_id": "MCxiZjg3ODA3ZDZkODkxNzhlYzUwNzcyMzhlOTJjYWNiZjcwMzI3OWU4",
   "tracks": [
     {
       "added_at": "2022-09-15 22:32:37",
@@ -887,22 +887,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Action Line",
-      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Action Line",
+      "url": "https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1003,46 +1003,6 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Cyril Hahn",
-          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
-        }
-      ],
-      "duration_ms": 228897,
-      "name": "Gated Area",
-      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -1063,6 +1023,26 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
+      },
+      "artists": [
+        {
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Cyril Hahn",
+          "url": "https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2"
+        }
+      ],
+      "duration_ms": 228897,
+      "name": "Gated Area",
+      "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
         "url": "https://open.spotify.com/album/3ev38ci4cqU1Ic8vmNri3D"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 420718,
       "name": "The Chocolate Conquistadors (From Grand Theft Auto Online: The Cayo Perico Heist)",
       "url": "https://open.spotify.com/track/6HOLZtVDh5EgvPnW4z23n2"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
+        "name": "Talk Memory",
+        "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 313587,
+      "name": "Beside April",
+      "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
+    },
+    {
+      "added_at": "2022-09-15 22:32:37",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/1srFzlchwSOzxO8n99tJxP"
       },
@@ -1227,26 +1251,18 @@
     {
       "added_at": "2022-09-15 22:32:37",
       "album": {
-        "name": "Talk Memory",
-        "url": "https://open.spotify.com/album/594yqwr1MOvVX0UBnOWftY"
+        "name": "Remix",
+        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         }
       ],
-      "duration_ms": 313587,
-      "name": "Beside April",
-      "url": "https://open.spotify.com/track/4fyklTEI49emJVhsgUxl6g"
+      "duration_ms": 384986,
+      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
+      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2022-09-15 22:32:37",
@@ -1263,22 +1279,6 @@
       "duration_ms": 245573,
       "name": "Sunshower",
       "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
-    },
-    {
-      "added_at": "2022-09-15 22:32:37",
-      "album": {
-        "name": "Remix",
-        "url": "https://open.spotify.com/album/1yCWdLfE2KQAmcdS1YJQl6"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 384986,
-      "name": "Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa",
-      "url": "https://open.spotify.com/track/305CEVdhAViS0CW2NCLvdR"
     },
     {
       "added_at": "2022-09-15 22:32:37",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 264736,
+  "num_followers": 264796,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTUxMDRlOTBjYzI5N2JmYjg3MjZkYTE1OTI5MmJiMzI5OTlhM2Fk",
+  "snapshot_id": "MCxhYTkyYjBjZGIxY2ZhYjViOTA2NWRjMzhmY2FlOWU4YmU0ZDQ0YjI2",
   "tracks": [
     {
       "added_at": "2021-04-30 08:33:50",
@@ -531,22 +531,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "I Say a Little Prayer",
-      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 228000,
       "name": "Bette Davis Eyes",
       "url": "https://open.spotify.com/track/0odIT9B9BvOCnXfS0e4lB5"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "I Say a Little Prayer",
+      "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 193120,
-      "name": "Baby Can I Hold You",
-      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Crowded House",
         "url": "https://open.spotify.com/album/1dJpgn1rqvvr4yyNYLEYBG"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 236933,
       "name": "Don't Dream It's Over",
       "url": "https://open.spotify.com/track/7G7tgVYORlDuVprcYHuFJh"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 193120,
+      "name": "Baby Can I Hold You",
+      "url": "https://open.spotify.com/track/2DjWsDGgL1xNbhnr7f6t5F"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Footloose (15th Anniversary Collectors' Edition)",
-        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 226826,
-      "name": "Footloose - From \"Footloose\" Soundtrack",
-      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Footloose (15th Anniversary Collectors' Edition)",
+        "url": "https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 226826,
+      "name": "Footloose - From \"Footloose\" Soundtrack",
+      "url": "https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Chinese Wall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
-      },
-      "artists": [
-        {
-          "name": "Philip Bailey",
-          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
-        },
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 305866,
-      "name": "Easy Lover",
-      "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "1950",
         "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Chinese Wall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX"
+      },
+      "artists": [
+        {
+          "name": "Philip Bailey",
+          "url": "https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u"
+        },
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 305866,
+      "name": "Easy Lover",
+      "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "I Can See Clearly Now",
         "url": "https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 164733,
       "name": "I Can See Clearly Now - Edit",
       "url": "https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "The Good Parts",
-        "url": "https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 198001,
-      "name": "Fresh Eyes",
-      "url": "https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1687,6 +1671,22 @@
       "duration_ms": 177519,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The Good Parts",
+        "url": "https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 198001,
+      "name": "Fresh Eyes",
+      "url": "https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
-      },
-      "artists": [
-        {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
-        }
-      ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The New Look",
         "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 171026,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "To Die For",
+        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 193795,
+      "name": "To Die For",
+      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "To Die For",
-        "url": "https://open.spotify.com/album/2motAeq8jZvHkF4VpbWSHf"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 193795,
-      "name": "To Die For",
-      "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2111,6 +2111,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -2131,22 +2147,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "I Don't Feel Like Dancin'",
         "url": "https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz"
       },
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Talking Back To The Night",
-        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Rubberband Man / Now That We're Together",
         "url": "https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 213000,
       "name": "The Rubberband Man",
       "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "Talking Back To The Night",
+        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6V1bu6o1Yo5ZXnsCJU8Ovk"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
-        "name": "Around The World In A Day",
-        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 215173,
-      "name": "Raspberry Beret",
-      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
     },
     {
       "added_at": "2021-04-30 08:33:50",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2021-04-30 08:33:50",
-      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
       },
@@ -2395,18 +2379,34 @@
     {
       "added_at": "2021-04-30 08:33:50",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
       "artists": [
         {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Chain of Fools",
-      "url": "https://open.spotify.com/track/2oZmMp5M6L0Rh7G84Um2tF"
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2021-04-30 08:33:50",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "Smooth Operator - 2011 Remastered",
+      "url": "https://open.spotify.com/track/28XDE6yXI6Bp4U3nLSGqzp"
     }
   ],
   "unique_name": "Music for a Workday",

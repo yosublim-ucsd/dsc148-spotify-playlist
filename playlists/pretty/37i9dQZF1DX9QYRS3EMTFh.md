@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,950 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,010 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 4 | [Asé](https://open.spotify.com/track/3im7T2q63a1razKvpV8pao) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [Lucidity](https://open.spotify.com/album/4kGAKJMjCxOR17Q9Cd4O3h) | 3:43 |
 | 5 | [Oway](https://open.spotify.com/track/6FWCEcvsDtBbvFQOA7Fugc) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Oway](https://open.spotify.com/album/3y10FCkPqr4xnnPZijpuo6) | 3:05 |
 | 6 | [Pon Di Thing](https://open.spotify.com/track/6UOUC811Pdz4OZ05hgqUhv) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [ROYALTY](https://open.spotify.com/artist/4nXGk2wZ4NPfu7u81zzIJ7), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Pon Di Thing](https://open.spotify.com/album/2cv3jFfGM6rWnBhly7WfwX) | 2:10 |
-| 7 | [Discreet](https://open.spotify.com/track/1DvwTv5wKJHGG8kPIohLz2) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [D D Cent](https://open.spotify.com/artist/7nmV3cKx2w1NoJsEBAYshM) | [Discreet](https://open.spotify.com/album/2kz9o4Gn1OzgthGJt017kQ) | 2:18 |
+| 7 | [Discreet](https://open.spotify.com/track/1DvwTv5wKJHGG8kPIohLz2) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [DD Cent](https://open.spotify.com/artist/2FbbkI4LZw55sq45XRf9jI) | [Discreet](https://open.spotify.com/album/2kz9o4Gn1OzgthGJt017kQ) | 2:18 |
 | 8 | [No Wata](https://open.spotify.com/track/6m27Jfn6T5jqSOf00d4Flf) | [Ayewai](https://open.spotify.com/artist/2vWk6xDLXH6q0aqIfqMwM3), [DJ Kopp](https://open.spotify.com/artist/3Ql4J2G5rEhl5eXKoppY1p), [DJ DESPY](https://open.spotify.com/artist/7JzbZTPJriS46W0Zk7Wz6d) | [No Wata](https://open.spotify.com/album/4heyzzh3kAK7wrgGXdh4BK) | 3:26 |
 | 9 | [Ghetto Rèd](https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Ghetto Rèd](https://open.spotify.com/album/6XFbhUBLtF9IfRImw7Wlo4) | 2:36 |
 | 10 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [Spaceship](https://open.spotify.com/track/5PNLuATNp9KSGYIG7c1n0o) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [SMOOVE KILLA](https://open.spotify.com/album/0xbefplN6nQ5af0mMGHpXK) | 2:45 |
 | 40 | [Solo](https://open.spotify.com/track/2PQy1avcccpE3H3ZuQREz4) | [Kosla](https://open.spotify.com/artist/0WEnusOFYWy1WdoyeSPC72), [808 Delavega](https://open.spotify.com/artist/3dPuXCO7uQLHphYgFzUXCJ) | [Solo](https://open.spotify.com/album/5uCFqaijmT0xfaKt1smTqk) | 2:32 |
 
-Snapshot ID: `MCxlOTM0NTk4NDFhOThkOWU0YTc1MmVlNzBjMjc5NTBjNDQxNDZmNTU2`
+Snapshot ID: `MCxjMjRmYmQwMzk4NGJlNjhlZjFmNmI0OTE1OTcyOTVkMWQxNDJiYjc0`

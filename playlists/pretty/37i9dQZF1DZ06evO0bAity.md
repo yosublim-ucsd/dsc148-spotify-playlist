@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 44 | [Cops / Capacity](https://open.spotify.com/track/1yqmcfHazwWohYFsI7pSnP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:52 |
 | 45 | [Teenage Kickstarts](https://open.spotify.com/track/32nFZO5UrPg0VxQQvbNnUa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 2:14 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAwM2VkZjdiZmQ1ZDFlOTdmNzI3MjRhYmI1ZWE4Y2Y3Nw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA3Mjg0YmY2YWMxM2QzYjU1ODIzODRmMmE3M2E0MTU4Yg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Digital cameras, smudged eyeliner, house parties and electroclash.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,977 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,216 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 73 | [Daft Punk Is Playing at My House](https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 5:14 |
 | 74 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 |
 | 75 | [Ooh La La](https://open.spotify.com/track/6oLb4m0HlijuaxtQIbvAhp) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Supernature](https://open.spotify.com/album/1R77epa6N8qyWYFCa41S9f) | 3:24 |
-| 76 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
-| 77 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
+| 76 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
+| 77 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
 | 78 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 |
 | 79 | [Day 'N' Nite \- Crookers Remix](https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Day 'N' Nite \(Crookers Remix\)](https://open.spotify.com/album/6tisDlBrOOltEsFFq2vy6F) | 4:41 |
 | 80 | [Harlem Shake](https://open.spotify.com/track/01XFgRZfZI7oBagNf1Loml) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Harlem Shake](https://open.spotify.com/album/5H0yFEG5FT0tccZRSdNvVU) | 3:16 |
 
-Snapshot ID: `MCxhZTEwMTZkOGZlN2U4N2QzYWI1NTI3N2MxNzJjZWQ2MDYyZWU0Y2E2`
+Snapshot ID: `MCxhOWE3ZGZlYzAzNjdiZjljYjU4ZDE0MzE0ZTlhNTdkN2JmZWZjODdk`

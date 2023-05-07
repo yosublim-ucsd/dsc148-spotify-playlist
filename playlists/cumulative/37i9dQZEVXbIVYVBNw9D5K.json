@@ -3007,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "DEFOL",
+        "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173987,
+      "name": "DEFOL",
+      "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
+    },
+    {
+      "album": {
         "name": "deniyorum, ama",
         "url": "https://open.spotify.com/album/59jm1W5RpcgHVuyymSn3nL"
       },
@@ -4515,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Geri D\u00f6nemedim",
+        "url": "https://open.spotify.com/album/2EsFEiIxSLfij6dy5vd1SC"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138640,
+      "name": "Geri D\u00f6nemedim",
+      "url": "https://open.spotify.com/track/10Sa2Mpma0EHWKLuyyrBdq"
+    },
+    {
+      "album": {
         "name": "Kalite",
         "url": "https://open.spotify.com/album/3OYu2np3Hm0zpkcNBFV0V9"
       },
@@ -4808,6 +4844,28 @@
       "duration_ms": 178146,
       "name": "good 4 u",
       "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "album": {
+        "name": "Gospel",
+        "url": "https://open.spotify.com/album/12vgIrujNtdV2yZEyNm6WZ"
+      },
+      "artists": [
+        {
+          "name": "Ohash",
+          "url": "https://open.spotify.com/artist/1dGA9uX28qcaFQOvXZno42"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156387,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/4cUBqMp6n4B2L4Mmr1JcLr"
     },
     {
       "album": {
@@ -6944,7 +7002,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 179054,
       "name": "Kor",
       "url": "https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh"
@@ -8594,7 +8652,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 177565,
       "name": "NKB\u0130",
       "url": "https://open.spotify.com/track/7lkqbdBKrsyNNq3xi0LeaY"
@@ -9470,7 +9528,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 104521,
       "name": "PHONK (200mg)",
       "url": "https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra"
@@ -9662,7 +9720,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 152187,
       "name": "RANDEVU",
       "url": "https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m"
@@ -10848,6 +10906,24 @@
       "duration_ms": 171894,
       "name": "Su\u00e7lar\u0131mdan Biri",
       "url": "https://open.spotify.com/track/65tIJClJx8fHo6YW4wVDhi"
+    },
+    {
+      "album": {
+        "name": "S\u00d6YLENEYD\u0130BU?",
+        "url": "https://open.spotify.com/album/6CC3P0r7TWplXSDtFycHfU"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125973,
+      "name": "S\u00d6YLENEYD\u0130BU?",
+      "url": "https://open.spotify.com/track/3Z3R4NcwpanDzsnZccpnoc"
     },
     {
       "album": {

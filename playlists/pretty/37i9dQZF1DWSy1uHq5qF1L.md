@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 
 > Beautiful mandolin music to accompany your Italian supper\. Buon appetito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,491 likes - 53 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,708 likes - 53 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSy1uHq5qF1L.md) - [plain]
 | 46 | [E Spingule Francese](https://open.spotify.com/track/2SAzbO5y0kPu5UrZt25Ag6) | [Romano Zanotti](https://open.spotify.com/artist/77jndz0F7PziSYe6POtrAS) | [La chanson napolitaine de 1650 à 1987](https://open.spotify.com/album/1jCSvp59VIQOtsC3Gkc3Nb) | 3:36 |
 | 47 | [O Solo Mio](https://open.spotify.com/track/0c9XOgDUDeVe2GPRXgcJxM) | [Italian Café Society](https://open.spotify.com/artist/3n3IBg7QSm0UXSBKcZsCJk) | [Roman Holiday: Traditional Songs of Italy](https://open.spotify.com/album/2bKs85ooXVA6P3fqEuUBCw) | 1:58 |
 | 48 | [Italian Folk Music Serenade](https://open.spotify.com/track/6RZfx9I1eNkCHLKQZPjANN) | [Music of Italy](https://open.spotify.com/artist/5hY0L5TFb93XBbUoS0QdEF) | [Italian Favorites](https://open.spotify.com/album/75b9gVQdeeBiLx7HR3DZCk) | 1:42 |
-| 49 | [Adagio](https://open.spotify.com/track/7MZE5hpTg0LsnRonlnDPlI) | [Ameritz Sound Effects](https://open.spotify.com/artist/2lQqfjdsGdZ4cUpvHD4ul1) | [O Sole Mio \- Postcards from Italy](https://open.spotify.com/album/7pcFItUc0OIKQTAAyaKkV8) | 2:14 |
+| 49 | [Adagio](https://open.spotify.com/track/7s8ZstmS6N1MJO7pdcJ8Si) | [Don Julin](https://open.spotify.com/artist/7fqbIY3YTlJvcXw1jmWb14) | [Don Julin](https://open.spotify.com/album/48RcT7yNHDXSWfZEdhR3dK) | 2:18 |
 | 50 | [Torna a Surriento](https://open.spotify.com/track/3NEvE3tQrKyA1U6jjYd0IW) | [Mandolini Napoletani](https://open.spotify.com/artist/3rORIZA84ccfEc306Kkl8W) | [Napoli in musica](https://open.spotify.com/album/0cYSosoTzGcEcKbfgMFQdI) | 3:30 |
 | 51 | [Santa Lucia](https://open.spotify.com/track/2g0fABLi579Nky2MHMFsxl) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 1:06 |
 | 52 | [Cinque terre](https://open.spotify.com/track/5tlkjgGNPvGVOSdtlEz03i) | [Riccardo Gioggi](https://open.spotify.com/artist/6xRCOPh9hUpwCgPG4peyZL) | [Traditional music of italy](https://open.spotify.com/album/21lcrjRLEIAxkyQf9Ablgc) | 2:16 |
 | 53 | [Tutta pe' me](https://open.spotify.com/track/1Eq0N8Dobd5zbDwXp4UvRg) | [Mario Maglione](https://open.spotify.com/artist/5vGCZz8J0jZ5URIGoZkC3Y) | [Napoli...in smoking, vol\. 4](https://open.spotify.com/album/6voHe2KKZ6r55r0obEyYvi) | 4:05 |
 
-Snapshot ID: `MCxmMjNlMjlkYmM0MjlmYWI4NjgxOWQ0MTFjNDcxNDQ0MzBmYzNmMjUw`
+Snapshot ID: `MCw1ODE0YjMwOWFmYjMxZWE0MTlhODE5NDk5ZjRmMjhmYWU2OTkyZjQ1`

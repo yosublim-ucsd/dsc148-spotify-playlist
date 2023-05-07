@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 122609,
+  "num_followers": 122704,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTZhZDc4NzQwNDZlNjBjNGIxZjhmMzJhNTFmMWExZTJlMGNlOWU5",
+  "snapshot_id": "MCw1NDY5MmYwMzUxY2I1OGE1MmFhMWM0YjQyMjA0YzRiZTA2MmNjMTJh",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Streetside",
         "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 219428,
       "name": "Streetside",
       "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Party All the Time",
-        "url": "https://open.spotify.com/album/5Xj5DoUGdbYTuGSHPVZRcn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Kay",
-          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
-        }
-      ],
-      "duration_ms": 266929,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/64b0SqjZpoCb74swNsK4Ea"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Party All the Time",
+        "url": "https://open.spotify.com/album/5Xj5DoUGdbYTuGSHPVZRcn"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Kay",
+          "url": "https://open.spotify.com/artist/4pqUHuQppkm95uNa2VDpMT"
+        }
+      ],
+      "duration_ms": 266929,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/64b0SqjZpoCb74swNsK4Ea"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Problematik",
-        "url": "https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 175383,
-      "name": "SPECTACULAR",
-      "url": "https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Getting Started (Chase & Status Remix)",
         "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 190344,
       "name": "Getting Started - Chase & Status Remix",
       "url": "https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Problematik",
+        "url": "https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "duration_ms": 175383,
+      "name": "SPECTACULAR",
+      "url": "https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "We'll Be Alright EP",
-        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Daga Da",
-      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Sequence",
         "url": "https://open.spotify.com/album/16JF3pUHH5ltDPOztx5FMX"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 209549,
       "name": "Renaissance (Edit)",
       "url": "https://open.spotify.com/track/1g4C1BrGd4O1Dt5y0xue96"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "We'll Be Alright EP",
+        "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Daga Da",
+      "url": "https://open.spotify.com/track/1Bdy0uirk0pou8GjuhDciX"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Playing Games",
-        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
-      },
-      "artists": [
-        {
-          "name": "Silky",
-          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Playing Games",
-      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Feel So Free Mixtape",
         "url": "https://open.spotify.com/album/4dHbS7oUzTsbkc0SPRhTWB"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 219687,
       "name": "It's Just This Thing",
       "url": "https://open.spotify.com/track/1PzMiuvUMQRKfxxNsPAjZR"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Playing Games",
+        "url": "https://open.spotify.com/album/4S3JaFhxQHmgzN0uu7JUVL"
+      },
+      "artists": [
+        {
+          "name": "Silky",
+          "url": "https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Playing Games",
+      "url": "https://open.spotify.com/track/7E4bsEMTezUdZY2zPGGUb6"
     },
     {
       "added_at": "2023-04-13 23:00:00",

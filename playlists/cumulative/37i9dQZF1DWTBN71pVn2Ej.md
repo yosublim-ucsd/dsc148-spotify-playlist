@@ -4,7 +4,7 @@
 
 > The best alternative rock tracks right now.
 
-364 songs - 21 hr 7 min
+365 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,8 @@
 | [Heavy Is The Ocean](https://open.spotify.com/track/4ud1E56t24ktCa6r1aGvKl) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Heavy Is The Ocean](https://open.spotify.com/album/7vsbwpZnmz2q3y15J0NViN) | 5:12 | 2022-09-22 | 2023-03-03 |
 | [Hey Sis](https://open.spotify.com/track/18BngYNbP0xadmssigycDH) | [Labradors](https://open.spotify.com/artist/4kf8k9dopDL5PK5q0ufGkG) | [Retriever](https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk) | 3:18 | 2022-01-13 | 2022-02-04 |
 | [Hold On You](https://open.spotify.com/track/3ML65FJl6LE3s0e7SXevwm) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/2ALvJNxFwqPtzq22hnPp0s) | 3:24 | 2022-12-02 | 2022-12-16 |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-03 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-05-07 |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-21 | 2022-09-07 |
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-04-14 |  |
 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 | 2023-05-03 |  |

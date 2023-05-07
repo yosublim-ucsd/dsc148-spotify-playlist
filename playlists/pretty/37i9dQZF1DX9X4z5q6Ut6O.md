@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 
 > Caminando de la mano..\. eres mi razón de ser.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,389 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,462 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 32 | [Mañana Voy A Conquistarla](https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:25 |
 | 33 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 34 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
-| 35 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
-| 36 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
+| 35 | [Aliado Del Tiempo](https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR) | [Mariano Barba](https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo) | [Un Cantautor Con Alma de Triunfador](https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2) | 4:32 |
+| 36 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 37 | [El Mundo a Tus Pies](https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Mundo a Tus Pies](https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM) | 2:56 |
 | 38 | [Siempre Te Voy A Querer](https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:54 |
 | 39 | [Si Nos Dejan \- En Vivo](https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:32 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9X4z5q6Ut6O.md) - [plain]
 | 63 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
 | 64 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 |
 | 65 | [Eres](https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:12 |
-| 66 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 |
-| 67 | [Bonita](https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca) | 3:21 |
+| 66 | [Bonita](https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca) | 3:21 |
+| 67 | [Me Está Gustando](https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 3:00 |
 | 68 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
 | 69 | [Locamente Enamorado](https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux) | [Predilecto](https://open.spotify.com/artist/6EQeKDiNOnU8zwKXp7G0Zl) | [Locamente Enamorado](https://open.spotify.com/album/2pYaBSEubSIn7ZJhTJ18kf) | 3:37 |
 | 70 | [Te Volvería A Elegir](https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Volvería A Elegir](https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4) | 3:00 |
 | 71 | [Reina de mi Corazón](https://open.spotify.com/track/6pBV756dsPFIMGfLi29Obk) | [Jesus Dimas](https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g) | [Reina de mi Corazón](https://open.spotify.com/album/2eg5l4Mktmc950WhNBdybS) | 3:34 |
-| 72 | [El Lujo de Tenerte](https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Todo Va Estar Bien](https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ) | 2:56 |
-| 73 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
+| 72 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
+| 73 | [El Lujo de Tenerte](https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Todo Va Estar Bien](https://open.spotify.com/album/1WGsrfidOIf6PMG0szz2WJ) | 2:56 |
 | 74 | [Me Gusta Todo De Ti](https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Romances](https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo) | 3:04 |
 | 75 | [Mi Amor Por Ti](https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti](https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K) | 3:47 |
 
-Snapshot ID: `MCw0NzEyYjY5NTA3YzE4M2VlMDNhZGYxOWE2MGM5ZGYyYTEwMjJkY2I0`
+Snapshot ID: `MCw3ODk5ZmQ4YjA2NzZlMmUzMTViNDUyYzg2N2U1MTY3NTdhYTliZTdl`

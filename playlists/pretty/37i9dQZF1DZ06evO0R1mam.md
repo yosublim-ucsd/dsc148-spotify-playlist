@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,962 likes - 48 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,969 likes - 48 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 47 | [No Way \(The G.A\. Chant\)](https://open.spotify.com/track/796T4AcNsk8eFPrJRViYMX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Life](https://open.spotify.com/album/5L9oitZv1Rk4kGsO01dU1P) | 4:08 |
 | 48 | [Let Us Worship](https://open.spotify.com/track/135kZmHIhJhzomzKpV9IVm) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Stand out](https://open.spotify.com/album/0eamOeDsOqnsFG1nMJdsHf) | 4:17 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAxOWNhNGYzOTQxZmVjYTBhZGUwZTNlYWFjNjM0YjM3Zg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA2YWI5M2U0ODg1NmJjYzBkM2IyZDgyMTE2YmY5YjdhYQ==`

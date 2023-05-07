@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 > This is UVERworld\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,220 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,237 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [One stroke for freedom](https://open.spotify.com/track/5Ucz24aUo02729n6aLz9mV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:13 |
 | 50 | [LIMITLESS](https://open.spotify.com/track/78UCAcX9SzDUDNqwlx87fA) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 4:18 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBmNjkxZTNmYzhhZjQwNzcwZTkwZTc3MjExZGEzNTA2MA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA2ODQ1ZWViZjQ5ZWM4ZGJjMjJkOTFhNWNlNmZkZjJmNg==`

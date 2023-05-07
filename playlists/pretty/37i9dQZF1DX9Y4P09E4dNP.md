@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,719 likes - 40 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,730 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 21 | [Wafom](https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC) | [Daasebre Gyamenah](https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12) | [Ultimate Classics, Vol\. 1](https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi) | 5:44 |
 | 22 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 |
 | 23 | [Oye Ohene featuring Tinny](https://open.spotify.com/track/5jt5Tx1dIC9BdNqaZTO0Xd) | [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Nte Tee Pa](https://open.spotify.com/album/0XC9r8JfFHVz7K9FYdEu80) | 5:00 |
-| 24 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 |
-| 25 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 |
+| 24 | [Sradenam](https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC) | [Castro D’destroyer](https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e) | [Sradenam](https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj) | 6:20 |
+| 25 | [Questions](https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Questions](https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz) | 3:25 |
 | 26 | [Your Love](https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX) | [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Your Love](https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8) | 3:12 |
 | 27 | [Dondo](https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg) | [Bradez](https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Dondo](https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A) | 5:51 |
 | 28 | [Odo Fitaa](https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI) | [4x4](https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu), [Jay Q](https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi) | [Jama & Hiplife King](https://open.spotify.com/album/424YWer18KllyHifFrNYSq) | 5:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [Ngozi](https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4) | [Micheal Dwamena](https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB) | [Owo Moti](https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO) | 5:34 |
 | 40 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
 
-Snapshot ID: `MCxhMWM3NTY2OWVlMDg0ZjJlOTIyOTVjOGYxMDMwNTZjMGU4ZDNiNzVl`
+Snapshot ID: `MCxhY2I4NWQ5MjQ4MWU3ZDJjOGY5OTdkOTU1MDUwNGJlZWEyYjVkMWVi`

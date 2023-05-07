@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: The National
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,575 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,580 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 74 | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/16cssMSjVqPJeBxRLy9FrF) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:48 |
 | 75 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 |
 
-Snapshot ID: `MCxlN2ExN2ZmODg4ZjMwYTVmODFhNmMwMTcyODQzMDg1ZjM0MmQ1OWE4`
+Snapshot ID: `MCw2MjQxOWE1OTIyOTUyZTdjZWQ5NmVlMzE3ZmYyOWM1MWE1MmVmNWI1`

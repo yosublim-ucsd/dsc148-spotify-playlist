@@ -4,7 +4,7 @@
 
 > Pop acústico para tu día.
 
-172 songs - 10 hr 26 min
+173 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Downtown \- Acoustic Version](https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke) | [Mechi Pieretti](https://open.spotify.com/artist/5rnUlLid4WEcDmAz6McM33) | [Downtown \(Acoustic Version\)](https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ) | 3:24 | 2021-12-16 |  |
 | [Dulce Amargo](https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:27 | 2021-12-16 | 2022-11-13 |
 | [Dulcito e Coco \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 3:02 | 2021-12-16 |  |
-| [el bufón](https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [el bufón](https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8) | 2:57 | 2023-02-10 |  |
+| [el bufón](https://open.spotify.com/track/21BSvkIPRTD4noWUoXrjGd) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [el bufón](https://open.spotify.com/album/3dbV7ZYLqGRsTbpcte68Q8) | 2:57 | 2023-02-10 | 2023-05-07 |
 | [El Color de Tus Ojos \- Versión Acústica](https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Color de Tus Ojos \(Versión Acústica\)](https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU) | 3:50 | 2021-12-16 |  |
 | [El Embrujo](https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Josemi Carmona](https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh) | [El Embrujo](https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7) | 3:58 | 2021-12-16 |  |
 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 | 2021-12-16 |  |
@@ -87,6 +87,7 @@
 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 | 2021-12-16 |  |
 | [La Difícil](https://open.spotify.com/track/0PaNKfwdqHjmW7hVEQ0lbu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [La Difícil](https://open.spotify.com/album/6Pc3YAtxdkZba2tpmeXAXW) | 2:38 | 2021-12-16 | 2022-05-20 |
 | [La Parte Buena](https://open.spotify.com/track/7qXpn9MV3tBoEWI7kr13rQ) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Fase](https://open.spotify.com/artist/5ee1RFcMCpiLXVSVKYxDbW) | [La Parte Buena](https://open.spotify.com/album/4I2udXkfy3th0HSo0wR7xc) | 3:43 | 2021-12-16 |  |
+| [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-05 |  |
 | [Lo Que Perdimos](https://open.spotify.com/track/7CwxNqAafIALPb0F6Hcs6I) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lo Que Perdimos](https://open.spotify.com/album/6AnlGhkXysrFpv0yt8v3Yf) | 3:26 | 2021-12-16 | 2022-07-29 |
 | [Lo Que Perdimos](https://open.spotify.com/track/2azwoxY0rbAgn1ZeiYGcdK) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:27 | 2022-06-07 | 2022-11-11 |
 | [Loco \(Tu Forma de Ser\) \[Ft\. Rubén Albarrán\] \- MTV Unplugged](https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 4:09 | 2021-12-16 | 2022-05-20 |

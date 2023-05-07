@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 606298,
+  "num_followers": 606464,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDlhMjBlZjZjM2EzYzFhYjdiYzdhMGM0YjQxNzQ5MTYwMjc2YmEz",
+  "snapshot_id": "MCw2MmQ4NmE4OTAxYjY3MTJhMzUzMDkxMjU3OGIwZTE0NDU4YzYxMDBk",
   "tracks": [
     {
       "added_at": "2022-03-11 23:43:10",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 276720,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/1fXiYSWmkKJfRKMegCkI11"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 217984,
-      "name": "The Cave",
-      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "By and By",
         "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 269893,
       "name": "All the Pretty Girls",
       "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 217984,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -779,18 +779,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+        "name": "Half The City",
+        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
       },
       "artists": [
         {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Turtles All the Way Down",
-      "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
+      "duration_ms": 171266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -811,34 +811,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Half The City",
-        "url": "https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS"
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5Z0MrFDEIDB075We9w9276"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
+      "duration_ms": 188186,
+      "name": "Turtles All the Way Down",
+      "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -859,6 +843,22 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 330773,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Colder Heavens EP",
-        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "Colder Heavens EP",
+        "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/1wwKY8ICsV9wiCFMpdhPrr"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1167,18 +1183,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Ongiara",
-        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
       "artists": [
         {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 216453,
-      "name": "Your Rocky Spine",
-      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "Chlo\u00eb and the Next 20th Century",
         "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 300240,
       "name": "Goodbye Mr. Blue",
       "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/5u9NUat59IiQFVEzZ4r3Np"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 266756,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/7CtViMh5EgoE8krmPPuOhi"
     },
     {
       "added_at": "2022-03-11 23:43:10",

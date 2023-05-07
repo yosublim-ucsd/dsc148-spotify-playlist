@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,420 likes - 50 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,426 likes - 50 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 49 | [Kyoto Garden](https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Bamboo Forest](https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H) | 5:49 |
 | 50 | [Endless Horizon](https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Space](https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx) | 18:45 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyNTZlMDExZjhhYmY1MmYwOTQ4ZDRmODY1ZjgyZWU0Zg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwMWFlYTc5NjAwN2U3Y2FmMDA3NWY1MDJjYjY2YzY4NA==`

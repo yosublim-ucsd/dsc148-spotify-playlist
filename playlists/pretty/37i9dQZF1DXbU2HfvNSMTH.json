@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1980s that will make you dance all summer long!",
-  "num_followers": 180479,
+  "num_followers": 180622,
   "original_name": "Summer Hits of the 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDc1MDBiZDMwYjQxMTA4YWY0NmZkODVlMTM3OWVmM2M4Y2JjNWRl",
+  "snapshot_id": "MCw1YTIzMTA1NWM2NGEyNDAwODQzNmEwYjM2Njc5OGZiMjc5OTQ5NDQz",
   "tracks": [
     {
       "added_at": "2022-04-16 03:27:52",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Whenever You Need Somebody",
-        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
-      },
-      "artists": [
-        {
-          "name": "Rick Astley",
-          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Never Gonna Give You Up",
-      "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Whenever You Need Somebody",
+        "url": "https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw"
+      },
+      "artists": [
+        {
+          "name": "Rick Astley",
+          "url": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Never Gonna Give You Up",
+      "url": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Working Class Dog",
         "url": "https://open.spotify.com/album/4KKFWTePKtgb6mOwFDqxYa"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 194120,
       "name": "Jessie's Girl",
       "url": "https://open.spotify.com/track/5RsUlxLto4NZbhJpqJbHfN"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2022-04-16 03:27:52",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-04-16 03:27:52",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2022-04-16 03:27:52",
-      "album": {
         "name": "Lambada - Les originaux No. 1 de l'\u00e9t\u00e9 (Original 1989)",
         "url": "https://open.spotify.com/album/0Lku5Y0I5aGcRSgeo2mOJm"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 207466,
       "name": "Lambada - Original Version 1989",
       "url": "https://open.spotify.com/track/6xepovPqjvrkEw9Y5AMmTm"
+    },
+    {
+      "added_at": "2022-04-16 03:27:52",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2022-04-16 03:27:52",

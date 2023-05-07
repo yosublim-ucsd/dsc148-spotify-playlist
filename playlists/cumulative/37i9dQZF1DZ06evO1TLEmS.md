@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 56 min
+61 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 | 2022-09-16 |  |
 | [Coming Back](https://open.spotify.com/track/2B6uTBqOlMpfaa5icFCs6x) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Coming Back](https://open.spotify.com/album/5wsEdLwlrgniybkBkYZqBN) | 2:23 | 2022-09-16 |  |
 | [Common Language](https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:26 | 2022-09-16 |  |
+| [Death By Suspicion](https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer \(Deluxe Edition\)](https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1) | 4:43 | 2023-05-06 |  |
 | [Dry As Sand](https://open.spotify.com/track/3IJzE46O8hpo05HM9D7k44) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:19 | 2022-09-18 | 2022-09-21 |
 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 | 2022-09-16 |  |
 | [Giraffe](https://open.spotify.com/track/7bTL9liJExG79P5M6SAz3b) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Giraffe](https://open.spotify.com/album/528JQRLIrcelhIX7s7L2xS) | 4:12 | 2022-09-16 | 2023-05-02 |

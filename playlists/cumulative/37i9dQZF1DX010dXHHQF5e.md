@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-214 songs - 11 hr 45 min
+216 songs - 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Behind The Jalousie](https://open.spotify.com/track/39YCja6W45q9EtAtztQImq) | [Charles Blake](https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo) | [Behind The Jalousie](https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ) | 3:14 | 2023-03-23 |  |
 | [Between the Devil and the Deep Blue Sea](https://open.spotify.com/track/649ZNkGmrhFhrJHjB8iVs6) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:49 | 2023-03-23 |  |
 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/72a5Xt8LRTZUlngpYOhiTb) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bewitched, Bothered and Bewildered](https://open.spotify.com/album/3eBxwgLkJLuT4ZV8rKteFP) | 3:04 | 2023-03-23 |  |
-| [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2023-03-23 |  |
+| [Blue In Green](https://open.spotify.com/track/4CA8CnvDdf90Lrl54uYbZs) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Blue In Green](https://open.spotify.com/album/3tTWhbuhhWWeh9dd30hwPW) | 3:47 | 2023-03-23 | 2023-05-07 |
 | [Blue Moon](https://open.spotify.com/track/08iHceGlaOmsMpNJVuN8Ev) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Blue Moon](https://open.spotify.com/album/3bMoWdrQYKVgGklRZVdDXv) | 3:26 | 2023-03-23 |  |
 | [Blue Skies](https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Blue Skies](https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75) | 2:55 | 2023-03-23 |  |
 | [Bluesette](https://open.spotify.com/track/0wnOuJclpacVenVngRphVW) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Bluesette](https://open.spotify.com/album/34Zn2v3e4Yo2u1lvfsPXBw) | 2:47 | 2023-03-23 |  |
@@ -81,6 +81,7 @@
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-03-23 |  |
 | [Henry Street](https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Henry Street](https://open.spotify.com/album/2zjI2uq9viHy7dx1m9VBez) | 2:22 | 2023-03-23 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/6RSuiDuF8X8eNjXVFttxyT) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Easy Living](https://open.spotify.com/album/0IKq52PoB0XenXxkm70b16) | 3:20 | 2023-03-23 |  |
+| [He’s a good kid](https://open.spotify.com/track/2tSSroZLU5ikFBZW83EC69) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [He’s a good kid](https://open.spotify.com/album/21jLquIJrmwqfcmke7ddWc) | 2:26 | 2023-05-04 |  |
 | [How High The Moon](https://open.spotify.com/track/1COenIO3ak9ffIDzwvO1Ts) | [Christina Mondzo](https://open.spotify.com/artist/0pvhGfxbtulg7H68xiV8Re) | [How High The Moon](https://open.spotify.com/album/4M2l2FXPwA6nqPWhS3JMW8) | 2:46 | 2023-04-20 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/5N1CLBoASSxd0IP3aOXeIA) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [How Long Has This Been Going On?](https://open.spotify.com/album/4enSlE24XGXXLkrGW7lxZ1) | 2:51 | 2023-03-23 |  |
 | [I Can't Get Started](https://open.spotify.com/track/2DgLCrnfPxVAvFnMxYTuuM) | [Sive Holmes](https://open.spotify.com/artist/1k2DVXf8G1sKF5n5d6qp5v) | [I Can't Get Started](https://open.spotify.com/album/393ECl3A8bhqZpmPoKOWTs) | 2:06 | 2023-03-23 |  |
@@ -102,7 +103,7 @@
 | [Imagination](https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Imagination](https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4) | 5:03 | 2023-03-23 |  |
 | [In a sentimental mood](https://open.spotify.com/track/3gmQ3tklUt8IJixvO3jVAp) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [In a sentimental mood](https://open.spotify.com/album/0zukKIRRaLdu8NcLxY61cH) | 2:26 | 2023-03-23 |  |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2023-03-23 |  |
-| [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 |  |
+| [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 | 2023-05-07 |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 |  |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2023-03-23 |  |
@@ -206,6 +207,7 @@
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2023-03-23 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2023-03-23 |  |
 | [Wake Up In Spring](https://open.spotify.com/track/3kL5yKlAPOzcF1fS7qYyhq) | [Bill Swindon](https://open.spotify.com/artist/7C4qb62TIDk7IbyMORyqTs) | [Wake Up In Spring](https://open.spotify.com/album/4cmHB9tOt4uybZdEVuDpIS) | 2:33 | 2023-03-23 |  |
+| [We've Never Been Here](https://open.spotify.com/track/4ymZ6dNuL9uXOPKztxaGti) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [We've Never Been Here](https://open.spotify.com/album/5m8PIlJl2gw8F5iCCX8HUM) | 3:13 | 2023-05-04 |  |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2023-03-23 |  |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2023-03-23 |  |
 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 | 2023-03-23 |  |

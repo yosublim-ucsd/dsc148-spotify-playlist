@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,700 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,753 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 7 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 8 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 |
 | 9 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 |
-| 10 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 |
+| 10 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 11 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
 | 12 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 13 | [Eat The Acid](https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fine Line / Eat The Acid](https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P) | 4:02 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 |
 | 40 | [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 |
 
-Snapshot ID: `MCwzNTExMjlmZTRmYTMwMDJmNzg5NGM4NTAxZDIxMWU0N2EyODhmNTc3`
+Snapshot ID: `MCxhOTdiOTA1ZmQzYzMzMzY4MGNkMmFlOGI2YzVlMmY2Y2M0NDE5Zjcy`

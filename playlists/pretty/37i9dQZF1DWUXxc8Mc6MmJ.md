@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 620,436 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 621,039 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 16 | [For You](https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R) | 3:16 |
 | 17 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
 | 18 | [내 맘을 볼 수 있나요](https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Hotel del Luna \(Original Television Soundtrack\) Pt.5](https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5) | 3:45 |
-| 19 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 |
-| 20 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
+| 19 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
+| 20 | [I Miss You](https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Guardian \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A) | 2:49 |
 | 21 | [Future](https://open.spotify.com/track/2gvlPqqngL3BppFCwLXnVc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [START\-UP \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/06h9n6zGd1T17s1RkdXIc4) | 3:35 |
 | 22 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
 | 23 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 |
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 38 | [I Love You Boy](https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [당신이 잠든 사이에 Pt\. 4 Original Television Soundtrack](https://open.spotify.com/album/1WWEdcuZ8q1WN3Z4IM65am) | 4:24 |
 | 39 | [But it's Destiny](https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI) | 3:51 |
 | 40 | [Stardust love song](https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [Twenty\-Five Twenty\-One OST Part 6](https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3) | 4:11 |
-| 41 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
-| 42 | [긴 밤이 오면](https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [당신이 잠든 사이에 Pt\. 1 Original Television Soundtrack](https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm) | 3:46 |
-| 43 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
-| 44 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
+| 41 | [긴 밤이 오면](https://open.spotify.com/track/5LiWJsSSjZh7Y3hqml18Ki) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [당신이 잠든 사이에 Pt\. 1 Original Television Soundtrack](https://open.spotify.com/album/14cZOtcNhNEQDQUwtg6gcm) | 3:46 |
+| 42 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
+| 43 | [My Destiny](https://open.spotify.com/track/0hKA3q6BWtKg5mdet7E1fX) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [My Love From the Star 별에서 온 그대 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/6wDjjeUNPHYZAVmkYLcrG6) | 3:51 |
+| 44 | [We're Already](https://open.spotify.com/track/1kuML8BXbxGjfxQ1FkJPwI) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Nevertheless, \(Original Drama Sound Track, Pt\. 1\)](https://open.spotify.com/album/6WTV5WckTQI2FjyI5YP1PG) | 3:58 |
 | 45 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
 | 46 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 47 | [Summer Rain](https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [Someday, The Boy](https://open.spotify.com/track/1N0vwih6TUIb9kYtynvlRc) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/7jMfA0dYFKHcqGNtgi8WCJ) | 4:47 |
 | 50 | [All of My Days](https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
 
-Snapshot ID: `MCxhMDI2OTEyMjUxOGM2MzUwMmZjMWQ0Zjc5ZDBiM2JiZjNhMWQ3YmEw`
+Snapshot ID: `MCxiOGZkYWYwZjY1N2Y2YjBjMzU1YmRiODI4ZTAxZGIyZTAwMDM3MzI0`

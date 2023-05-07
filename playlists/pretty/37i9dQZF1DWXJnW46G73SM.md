@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: فريد
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,537 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,600 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 |
 | 50 | [Halo](https://open.spotify.com/track/0mQUJSauS5hrMJuoTGqmGe) | [Neveen Ragab](https://open.spotify.com/artist/2Jm92HVUNKUHiVytpozUvT) | [Halo](https://open.spotify.com/album/3GgcE4HqgTP4IDaNJ08z1j) | 3:43 |
 
-Snapshot ID: `MCw1OTYyYzE1ZGVkNzUxOWU5MzAzODRhNzliY2YyNjI2MWRjMTkxZDY3`
+Snapshot ID: `MCxlMzMyMjNmOGM5ODUwMTk1ZThlOTA0M2QzODlhODlkMjFlM2ZjMTRj`

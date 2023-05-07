@@ -1,12 +1,12 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 373329,
+  "num_followers": 373383,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDA1MjEzMjRlNmI1YmUwMTQwMGVhOTkyZDQ1YzRmMmI1ZWRjNDdh",
+  "snapshot_id": "MCw2M2EzNTE0NTQ2NzFkYTBjMmZkNjFkMWU0ZDc1Zjg4YzNlODMyZmY1",
   "tracks": [
     {
       "added_at": "2023-05-04 15:10:40",
@@ -171,18 +171,22 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -203,22 +207,18 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "About You",
-        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
-      },
-      "artists": [
-        {
-          "name": "Sonnee",
-          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
-    },
-    {
-      "added_at": "2023-05-04 15:10:40",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2023-05-04 15:10:40",
+      "album": {
+        "name": "About You",
+        "url": "https://open.spotify.com/album/7K2rSJUkftMI3ZiVOhRGta"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/5SUWn04QGEjbZp5DP1KABh"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -579,22 +579,18 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Light Of Day",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 400130,
-      "name": "Light Of Day",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
+      "duration_ms": 198813,
+      "name": "Flipside",
+      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -623,18 +619,22 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Light Of Day",
+        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Flipside",
-      "url": "https://open.spotify.com/track/0HMRes6oRnftVM821ZSOpe"
+      "duration_ms": 400130,
+      "name": "Light Of Day",
+      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
+        "name": "Amman",
+        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 208290,
+      "name": "Amman",
+      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
+    },
+    {
+      "added_at": "2023-05-04 15:10:40",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 242376,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
-    },
-    {
-      "added_at": "2023-05-04 15:10:40",
-      "album": {
-        "name": "Amman",
-        "url": "https://open.spotify.com/album/65NH7I6ZLffBlWcnDMOadJ"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 208290,
-      "name": "Amman",
-      "url": "https://open.spotify.com/track/3s4NMBRGagFwRZm4e58o4r"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/0gWuDtNiBHpeURomqk8DEc"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 225272,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/4yPqxzBhXslFCcOq6fKanw"
+    },
+    {
+      "added_at": "2023-05-04 15:10:40",
+      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 206601,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4Ir2UxDlAm01qmv3eSZYlP"
-    },
-    {
-      "added_at": "2023-05-04 15:10:40",
-      "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/0gWuDtNiBHpeURomqk8DEc"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 225272,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/4yPqxzBhXslFCcOq6fKanw"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
+        "name": "Hey Papi",
+        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 158859,
+      "name": "Hey Papi - Edit",
+      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
+    },
+    {
+      "added_at": "2023-05-04 15:10:40",
+      "album": {
         "name": "Protocol",
         "url": "https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m"
       },
@@ -1127,46 +1143,6 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Making Time",
-        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 271025,
-      "name": "Making Time",
-      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
-    },
-    {
-      "added_at": "2023-05-04 15:10:40",
-      "album": {
-        "name": "malo okoma",
-        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
-      },
-      "artists": [
-        {
-          "name": "dj poolboi",
-          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
-        },
-        {
-          "name": "Theresa Ng'ambi",
-          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
-        }
-      ],
-      "duration_ms": 245437,
-      "name": "malo okoma - Radio Edit",
-      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
-    },
-    {
-      "added_at": "2023-05-04 15:10:40",
-      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -1187,22 +1163,18 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f"
+        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
+        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
       },
       "artists": [
         {
-          "name": "Mellowdy",
-          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
-        },
-        {
-          "name": "Sahara Beck",
-          "url": "https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 148404,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4ATL5bJmPMHl2mv1X1EwsE"
+      "duration_ms": 309000,
+      "name": "Faisal (London Bridge Station)",
+      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
     },
     {
       "added_at": "2023-05-04 15:10:40",
@@ -1247,34 +1219,62 @@
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Actual Life 2 Piano EP (February 2 - October 15 2021)",
-        "url": "https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3"
+        "name": "Making Time",
+        "url": "https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 309000,
-      "name": "Faisal (London Bridge Station)",
-      "url": "https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi"
+      "duration_ms": 271025,
+      "name": "Making Time",
+      "url": "https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5"
     },
     {
       "added_at": "2023-05-04 15:10:40",
       "album": {
-        "name": "Hey Papi",
-        "url": "https://open.spotify.com/album/7vESA3Bg1fOvgHfAHUBZ8o"
+        "name": "malo okoma",
+        "url": "https://open.spotify.com/album/7LMiwsl0kMpnzRyQjzowCV"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "dj poolboi",
+          "url": "https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ"
+        },
+        {
+          "name": "Theresa Ng'ambi",
+          "url": "https://open.spotify.com/artist/1HhaUK3JlqgSpQ4noxzCHI"
         }
       ],
-      "duration_ms": 158859,
-      "name": "Hey Papi - Edit",
-      "url": "https://open.spotify.com/track/7E0yobaZYmUDnk646JD0XT"
+      "duration_ms": 245437,
+      "name": "malo okoma - Radio Edit",
+      "url": "https://open.spotify.com/track/7tdviypkABEstu9z7gSB27"
+    },
+    {
+      "added_at": "2023-05-04 15:10:40",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f"
+      },
+      "artists": [
+        {
+          "name": "Mellowdy",
+          "url": "https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc"
+        },
+        {
+          "name": "Sahara Beck",
+          "url": "https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3"
+        }
+      ],
+      "duration_ms": 148404,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4ATL5bJmPMHl2mv1X1EwsE"
     },
     {
       "added_at": "2023-05-04 15:10:40",

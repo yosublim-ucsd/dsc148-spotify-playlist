@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-869 songs - 1 day 13 hr 54 min
+870 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-05-05 | 2022-06-08 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-09-02 | 2022-05-06 |
 | [A Secret Within](https://open.spotify.com/track/0xIdhwtIiUcA9IJXJjiWYS) | [Alina Yanovna](https://open.spotify.com/artist/1bcouKXyjgMXRI4zCQXo3Y) | [A Secret Within](https://open.spotify.com/album/2ZC5VlvFDg6ePLkPkGzicH) | 2:43 | 2020-08-14\* | 2022-05-21 |
-| [A Smile](https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH) | [Myles Mackay](https://open.spotify.com/artist/3eQGI9kcs53CVhYJMzOZJE) | [A Smile](https://open.spotify.com/album/3x5FNp8Kfk5bPuFotBdL5b) | 2:13 | 2020-08-14\* |  |
+| [A Smile](https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH) | [Myles Mackay](https://open.spotify.com/artist/3eQGI9kcs53CVhYJMzOZJE) | [A Smile](https://open.spotify.com/album/3x5FNp8Kfk5bPuFotBdL5b) | 2:13 | 2020-08-14\* | 2023-05-07 |
 | [A Step Too Far](https://open.spotify.com/track/3y8fPWZI9Ds74cPq0GfhgT) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [A Step Too Far](https://open.spotify.com/album/1UN5FNrHGel88bBsWwrOxB) | 2:17 | 2022-05-20 |  |
 | [A Story of Love](https://open.spotify.com/track/6YaGAy8ZDOzXhOTzBFkc1t) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [A Story of Love](https://open.spotify.com/album/35RlP8B7KfHMQIQr1C4cSh) | 2:06 | 2020-09-30 | 2021-05-06 |
 | [A Time Of Wonder \(arr\. piano\)](https://open.spotify.com/track/1y9aWQtDogcyO8VuwZtHP9) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [A Time Of Wonder \(arr\. piano\)](https://open.spotify.com/album/36qLEuLevOoAzAS8sBbgfK) | 2:37 | 2020-08-14\* | 2020-09-30 |
@@ -623,6 +623,7 @@
 | [Sacred Secret](https://open.spotify.com/track/4sVyIUWPXRaXeu4f3PcsHL) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [Sacred Secret](https://open.spotify.com/album/6U50m93mAe1gTDENvUukNW) | 2:00 | 2022-06-07 | 2022-07-20 |
 | [Saga](https://open.spotify.com/track/4bi0GnPBgHmlqb5OtXk9oE) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Saga](https://open.spotify.com/album/3wr966vVFS29mukRY6UZUC) | 2:01 | 2021-02-06 |  |
 | [Sail](https://open.spotify.com/track/5n5E3SxEh2Wt2WSIyW20Ly) | [Roman Jensen](https://open.spotify.com/artist/4raiE8vGGRVn7J1dPb1fbG) | [Sail](https://open.spotify.com/album/1vo9aNRQiNFfUZNtu874PS) | 2:08 | 2020-08-14\* | 2022-05-21 |
+| [Sailing Away](https://open.spotify.com/track/0Kw8lbzKpIsKDwfQbXUchk) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Sailing Away](https://open.spotify.com/album/3YaN7okyKD5CrY79uPcUE7) | 2:23 | 2023-05-03 |  |
 | [Salon musique](https://open.spotify.com/track/1UpWPe0O0aNGWmouew7puk) | [Maxence Cyrin](https://open.spotify.com/artist/3NcPjvA2rp9FPj1JBAXwOS) | [Melancholy Island \- Salon musique](https://open.spotify.com/album/5SnkIhfrSNMz9GSjs7xoGq) | 2:00 | 2022-02-01 | 2022-04-21 |
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2021-05-21 |  |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-18 |  |

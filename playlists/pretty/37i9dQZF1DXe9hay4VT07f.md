@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Popcaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,823 likes - 89 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,101 likes - 89 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 24 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
 | 25 | [Verified Choppa 2](https://open.spotify.com/track/3YQ5NYk2legzeloibRyXn1) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Verified Choppa 2](https://open.spotify.com/album/0TXxumJZg93RO1JKZHDCtm) | 2:19 |
 | 26 | [Tempted To Touch](https://open.spotify.com/track/7khLgMuA7m4SA6aaDv1QSv) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [Asafa Powell: Train For Speed](https://open.spotify.com/album/7eXV1e30GKjzEOFSttyn0D) | 3:27 |
-| 27 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
-| 28 | [Narcissistic](https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Narcissistic](https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz) | 3:02 |
+| 27 | [Narcissistic](https://open.spotify.com/track/62gv0hzbDQGDD9fy8AHTtb) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Narcissistic](https://open.spotify.com/album/6usBUly1OQm06qf4jY4FEz) | 3:02 |
+| 28 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
 | 29 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 | 30 | [Wi Deh Yah](https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Wi Deh Yah](https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1) | 2:26 |
 | 31 | [Calmc](https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5) | [Kraff Gad](https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR) | [Calmc](https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X) | 2:53 |
@@ -43,16 +43,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 33 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
 | 34 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 35 | [Walking Trophy](https://open.spotify.com/track/4hGHcdD5IwjAkftalZm5an) | [Tina \(Hoodcelebrityy\)](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Walking Trophy](https://open.spotify.com/album/6ICKorSKAkAq2lQBv00NJf) | 3:35 |
-| 36 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
-| 37 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
+| 36 | [Ova Dweet](https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Ova Dweet \- Single](https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5) | 3:41 |
+| 37 | [Pull Up](https://open.spotify.com/track/7aBRoWtp9jsZFxwml1LfeG) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Pull Up](https://open.spotify.com/album/4VJW8nI0MAKqIGq4DGN1vq) | 2:51 |
 | 38 | [In The Morning \(Let Your Love Come In\) \- Original Radio Edit](https://open.spotify.com/track/2M5BecF1hOqHevr4BDRi84) | [Egypt](https://open.spotify.com/artist/3GhpUqhcaWVF5OdPb4KH86) | [In The Morning \(Let Your Love Come In\)](https://open.spotify.com/album/0MT0W3eXcBOsBxTRguRnEk) | 2:14 |
 | 39 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 40 | [So Special](https://open.spotify.com/track/3QsYrzBz48de2cqm670ym9) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Mr\. Brooks...A Better Tomorrow](https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB) | 2:58 |
-| 41 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
-| 42 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
+| 41 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 |
+| 42 | [Dickmatized](https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Dickmatized](https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ) | 2:20 |
 | 43 | [Romie](https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Maestro](https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1) | 3:51 |
-| 44 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
-| 45 | [Skeleton Cartier](https://open.spotify.com/track/7vRm8Bzniw9mtHoFtnoxB0) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 3:41 |
+| 44 | [Too Many Man](https://open.spotify.com/track/5iWkcEcUfymaq0POyWCbBQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [BBK](https://open.spotify.com/artist/24H5fZrUsczeOXjMQufShz) | [Microphone Champion](https://open.spotify.com/album/5pgSLDET4rMkAok3X4k0wP) | 3:35 |
+| 45 | [Roll It Gal](https://open.spotify.com/track/1dhrBVOBJVRAomxv0sqfmK) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 3:58 |
 | 46 | [Mimosas](https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Flavors](https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox) | 3:05 |
 | 47 | [Stay So](https://open.spotify.com/track/5Qdbkemkdk8syZXJQVabSf) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Reggae Gold 2018: 25th Anniversary](https://open.spotify.com/album/6NDBbiZSbAqqP6k6vaMFU8) | 3:40 |
 | 48 | [Romping Shop](https://open.spotify.com/track/1xn2rn7Bw8IM3RqYwB4xWz) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Romping Shop](https://open.spotify.com/album/17C2TyzNMDe64H0zpr4DBE) | 3:33 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 88 | [Infiltrate](https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Fear](https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV) | 3:27 |
 | 89 | [Hot Wuk \(Album Clean\)](https://open.spotify.com/track/2da3Y5CAzX4IZtuXnCD8DN) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Hot Wuk 12"](https://open.spotify.com/album/5ez8QCCTVOHbRIjez9uU0O) | 3:49 |
 
-Snapshot ID: `MCw3NWIyNzAyZjM2NGJlY2NmZmJkYjM0OGEyMGVhMTIzMjg5NjY1OTIw`
+Snapshot ID: `MCwzMmIxNmNiZTBkNWNiM2ExZmRkYTIxNWE1MjljN2RlYTk5MDczOGQ0`

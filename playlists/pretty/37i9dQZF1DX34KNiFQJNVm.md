@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Cabelinho com Anitta, Matuê com Rich the Kid, Tierry com Zé Neto & Cristiano, Lou Garcia e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,866,595 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867,028 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 55 | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \- Hypaton & Giuseppe Ottaviani Remix](https://open.spotify.com/track/0838zv1ZStd9x0rUGAHZ9Y) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \[Hypaton & Giuseppe Ottaviani Remix\]](https://open.spotify.com/album/0pxJtNNx443RTilEzl6sAz) | 2:58 |
 | 56 | [Encaixou](https://open.spotify.com/track/4hOCTVQPl1BlmbWn0kugHn) | [Zé Henrique & Gabriel](https://open.spotify.com/artist/5Dyg6H3QJHQV5c7ojyKWyv) | [Encaixou](https://open.spotify.com/album/0kULesj0OtlQJHoj0fLutH) | 2:45 |
 | 57 | [Oração de Mãe](https://open.spotify.com/track/1PY7HX6pxnlPtnPMbbXMe9) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [THXLIS](https://open.spotify.com/artist/2PE39uGtlGUQ1LgZnfGJFS), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY) | [Oração de Mãe](https://open.spotify.com/album/4qO6IITx8FQxr9hFokJtHT) | 3:46 |
-| 58 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 |
+| 58 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 |
 | 59 | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman\)](https://open.spotify.com/track/7JODkWwpYsZt5racs1IiOJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Won’t Back Down \(feat\. YoungBoy Never Broke Again, Dermot Kennedy & Bailey Zimmerman\) \[FAST X / Original Motion Picture Soundtrack\]](https://open.spotify.com/album/4CU2iotem1HERk9Rm3V8w6) | 2:43 |
 | 60 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 |
 | 61 | [Eucalyptus](https://open.spotify.com/track/7mUbWcWPImNVcLcNewe2Dy) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [Canta Liberdade](https://open.spotify.com/track/6sD0Wtb9zPdczrMgC0DZiW) | [MC Cassiano](https://open.spotify.com/artist/7JX0XIhzQs1qaor0QrPZxY), [Mc Robs](https://open.spotify.com/artist/5jysNZ8I6vAiNTsFbrIj1K) | [Canta Liberdade](https://open.spotify.com/album/7b708LrQDdyXSiUgCk90kL) | 3:45 |
 | 100 | [Desejo Carnal](https://open.spotify.com/track/6CemSib1lTmN1xkuOZqokD) | [Mc Leh](https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK) | [Desejo Carnal](https://open.spotify.com/album/1pApfn5sm6NEwS5NUNWgnt) | 3:25 |
 
-Snapshot ID: `MCxkNmJjMDJkMTBiM2QwNzljZDE0Y2UyMWI5MjJkODhmMWJmNTgxYjdj`
+Snapshot ID: `MCw4Y2JhN2NmZTliZjEyNWU5ODgwN2FiMzVhNDQ5MTg4YTYzYjVmNDdi`

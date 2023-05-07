@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,871 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,980 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 28 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
 | 29 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
 | 30 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
-| 31 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
-| 32 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
+| 31 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
+| 32 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
 | 33 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
 | 34 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
 | 35 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
 | 36 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
-| 37 | [Shark Ethic](https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU) | 3:40 |
-| 38 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
-| 39 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
+| 37 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
+| 38 | [Shark Ethic](https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU) | 3:40 |
+| 39 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
 | 40 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
 | 41 | [Sworn Enemy](https://open.spotify.com/track/41A2Hv0SEKnse3TWVuxADF) | [Sworn Enemy](https://open.spotify.com/artist/1I16IF1ltabPiw70Y6KG4F) | [As Real As It Gets](https://open.spotify.com/album/5jOrOQlAwdDFYZYmcdngtv) | 3:36 |
 | 42 | [Take a Stand](https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 1:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
 | 50 | [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 |
 
-Snapshot ID: `MCw1MTUwZDRlNDNhNGM3ZjU2N2Q5MmNjMjY1NTlhYWQwYTkyMmE1Zjg2`
+Snapshot ID: `MCxhMmE5Y2YwMTA0Y2NkOTFlOTIzYmI0OGY2ODAxNmZiNDU1Y2EyMTI5`

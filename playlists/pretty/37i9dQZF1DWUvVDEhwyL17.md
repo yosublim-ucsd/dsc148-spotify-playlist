@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 
 > Cozy acoustic covers to accompany all your DIY, painting and creative crafts projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,104 likes - 87 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,136 likes - 87 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvVDEhwyL17.md) - [plain]
 | 86 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/4jAzQGA8cl7MtPzgNQ5Ehx) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/album/3GINcZdettso6ktU4bTlmy) | 3:47 |
 | 87 | [Sweet Jane](https://open.spotify.com/track/3AsmFcxnAv5FtTsV9g45bj) | [Arturo Jimenes](https://open.spotify.com/artist/5YTMkCli769bhvfuUrjKbr) | [Sweet Jane](https://open.spotify.com/album/1KuTjN7XA6kuziupnXOyTG) | 3:33 |
 
-Snapshot ID: `MCw0MWY0M2Q2YWQ2MjcxOGMxOWY1ODZlZDNmMDA0ODk0ZjE3MWFmNjhm`
+Snapshot ID: `MCxiZWJjY2Q0MWM2ODNjOThjNmFkNGI1NmQzZTQxN2VhOWNhZDMyNGU5`

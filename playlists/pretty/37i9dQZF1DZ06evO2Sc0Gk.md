@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,471 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,478 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 50 | [Hollup](https://open.spotify.com/track/7qecdQmvEVTmpJQMjteuVW) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dammy Krane](https://open.spotify.com/artist/6yZI3dhleWYTqJjf11rDCc), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Hollup](https://open.spotify.com/album/4X9ME05TzIGSBuHx5rYQuj) | 4:20 |
 | 51 | [Zodi \(feat\. Mr Eazi\)](https://open.spotify.com/track/7IX8SlSUzJXXhrI3KQedJ4) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [85 to Africa](https://open.spotify.com/album/238eVufzRziHuYLuBVZh1u) | 3:20 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAzOTY3Yzc2NmE4OTNmOWMwYTVmYjk3ODRiM2Y3YmViYg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA3MTQ2OGZlNjhkOTRkMDkyNTMxYmEyYjE5NDI0NDEyZg==`

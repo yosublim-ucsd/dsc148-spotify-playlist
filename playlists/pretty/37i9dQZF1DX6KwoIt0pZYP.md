@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,294 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,545 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 63 | [Steal The Show](https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Steal The Show](https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji) | 3:00 |
 | 64 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
 | 65 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
-| 66 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 |
-| 67 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
+| 66 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 |
+| 67 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 |
 | 68 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 | 69 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
 | 70 | [someone will love you better \- Zack Tabudlo Version](https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW), [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [someone will love you better \(Zack Tabudlo Version\)](https://open.spotify.com/album/2A8Iv2GjSKkotZyH4CHZpE) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 99 | [Thinkin Bout You](https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [LOG](https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo) | 4:23 |
 | 100 | [Chilly](https://open.spotify.com/track/6H3TW6uEe3RxW8CcnXJfq2) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Chilly](https://open.spotify.com/album/5NmHTG1AIpZ9yjwzih2Kni) | 3:50 |
 
-Snapshot ID: `MCxhM2NhNTQ4ZjYyOTQ2ZTYxODRlYTMyNDViY2I4ZDhhYTFlNGQ4YTZk`
+Snapshot ID: `MCwwMzM1MzI5ZGE4NDEwZjA3ZDAxYWFjMjFhOTMyZWU2NmZjYTIwNjNj`

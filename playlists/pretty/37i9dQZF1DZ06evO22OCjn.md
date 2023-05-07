@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,711 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,871 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22OCjn.md) - [plain]
 | 49 | [Afrikan Star](https://open.spotify.com/track/1bd9EG9MpRYYR6cmbkMRhF) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Afrikan Sauce](https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F) | 3:14 |
 | 50 | [Last Last \- Burna Boy Sped Up Version](https://open.spotify.com/track/2lLTD38nzUR8Lku7dq7Jm2) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last \(Burna Boy Sped Up Version\)](https://open.spotify.com/album/0AcNAH4aRIf6jtz2w1lbHI) | 2:11 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBjYWM5NzAwOTI3ZDViMTNiYzBjZjY2ZTAzOTZmOWY5Mg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA1YmVkY2I3YWY4OTExMjczMDdjZDk5ZTZiMDJiMzA0NA==`

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:55EarwWraRQY9diMo9Oeul\u201d>Deb Never</a> ",
-  "num_followers": 38436,
+  "num_followers": 38452,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzNkZmI5OTIzMWI2NjU2OTcyZmFhMzM0MmVkZWRiZGE2MTAzNjQx",
+  "snapshot_id": "MCw2OWYzYTE3YzgyNDdmMWUzOGI2ZmJjNDE0YzA4NDgzZTQ1ZjJkODM5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "ALGARETE",
-        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 208549,
-      "name": "ALGARETE",
-      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Fantasy (with GAYLE & Em Beihold)",
         "url": "https://open.spotify.com/album/7dJfiWaQ0a1kCxGvEfXL3A"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 175090,
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "ALGARETE",
+        "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 208549,
+      "name": "ALGARETE",
+      "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Pound Town (and Tay Keith)",
-        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 129429,
-      "name": "Pound Town (and Tay Keith)",
-      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "american jesus",
         "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Raw Raw",
-        "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Raw Raw",
-      "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "New",
         "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176423,
       "name": "I've Loved You For So Long",
       "url": "https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Raw Raw",
+        "url": "https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 177933,
+      "name": "Raw Raw",
+      "url": "https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "HOW DARE YOU",
-        "url": "https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 182490,
-      "name": "HOW DARE YOU",
-      "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "My Body",
         "url": "https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "HOW DARE YOU",
+        "url": "https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 182490,
+      "name": "HOW DARE YOU",
+      "url": "https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "A New Thing",
         "url": "https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz"
       },
@@ -631,26 +631,6 @@
       "duration_ms": 217297,
       "name": "A New Thing",
       "url": "https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "TURNIN' HEADS",
-        "url": "https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50"
-      },
-      "artists": [
-        {
-          "name": "Kari Faux",
-          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
-        },
-        {
-          "name": "Big K.R.I.T.",
-          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
-        }
-      ],
-      "duration_ms": 176982,
-      "name": "TURNIN' HEADS",
-      "url": "https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -687,6 +667,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "TURNIN' HEADS",
+        "url": "https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50"
+      },
+      "artists": [
+        {
+          "name": "Kari Faux",
+          "url": "https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "duration_ms": 176982,
+      "name": "TURNIN' HEADS",
+      "url": "https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Inigo",
         "url": "https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "scales",
-        "url": "https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 181316,
-      "name": "im fine, thx 4 asking",
-      "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "I Miss You So",
         "url": "https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "scales",
+        "url": "https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 181316,
+      "name": "im fine, thx 4 asking",
+      "url": "https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV"
     },
     {
       "added_at": "2023-05-05 04:01:00",

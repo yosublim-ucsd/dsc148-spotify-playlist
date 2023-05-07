@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Chile.
 
-626 songs - 1 day 11 hr 35 min
+627 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Ley Seca](https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 4:23 | 2021-09-05 | 2022-03-27 |
 | [LEYENDAS](https://open.spotify.com/track/5vQy9fwVJTeLsaX9IOpCcp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Alberto Stylee](https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 5:52 | 2021-04-05 | 2021-07-04 |
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-09-08 | 2021-10-07 |
-| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 |  |
+| [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 | 2023-05-07 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-03-27 |
 | [Linda](https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Linda](https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09) | 2:24 | 2021-10-04 | 2021-10-16 |
 | [Llamame Bebe](https://open.spotify.com/track/66vWfpNGNT4y6nPdW5WMtj) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Llamame Bebe](https://open.spotify.com/album/1OoaNonXii9fD0tPpxBfKy) | 4:18 | 2022-12-25 | 2023-04-28 |
@@ -348,6 +348,7 @@
 | [Me Voy Contigo](https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Me Voy Contigo](https://open.spotify.com/album/3yRpvjQhjb8KBIxJB88GAh) | 3:18 | 2022-03-11 | 2022-05-04 |
 | [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2021-11-07 | 2022-05-08 |
 | [Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja](https://open.spotify.com/track/63xr0kuokCreaKuklqDsF5) | [Los Hermanos Campos](https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6) | [La Mejor Fiesta Dieciochera](https://open.spotify.com/album/6F5qMCFpPR1tfIVN6yc26H) | 7:43 | 2021-09-19 | 2022-09-21 |
+| [Mejor Que Yo](https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Mejor Que Yo](https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc) | 4:02 | 2023-05-06 |  |
 | [Mentirosa](https://open.spotify.com/track/3Iw4UVS7fo2TdD6Spmgqaj) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/7jfg9E2mgCCUgeRAHRJuIG) | 3:14 | 2023-01-02 | 2023-01-04 |
 | [Mentirosa](https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Imparables](https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm) | 3:15 | 2022-01-02 | 2022-01-04 |
 | [Mercedes Tintia](https://open.spotify.com/track/6e9Ew4AECYwY5Xgs2ZKMgp) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Mercedes Tintia](https://open.spotify.com/album/3Hp4KQN2Oib1HM5MO3Q69s) | 3:15 | 2022-08-27 | 2022-09-18 |

@@ -4,7 +4,7 @@
 
 > 100% British \- 100% R&B\. Cover: Venna
 
-84 songs - 4 hr 42 min
+85 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Fly Away](https://open.spotify.com/track/3KMXrC9uDVEch4D6iyhZCp) | [Zakhar](https://open.spotify.com/artist/6sGJ9AOz3XJH8S8WDcZUUO) | [Fly Away](https://open.spotify.com/album/0c5mfGZXxLSAtdHGrDwh9t) | 3:21 | 2022-07-17 | 2023-01-20 |
 | [Fool's Gold](https://open.spotify.com/track/2xGyP9WuKLJc3zQ395OVPo) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Fool's Gold](https://open.spotify.com/album/49fo04SNkMfOzzZ7tEtVvX) | 2:27 | 2023-03-10 |  |
 | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/track/4T4YHAdlrEzL5Jsb1XnbGA) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [SIMMY](https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd), [Kid Cruise](https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw) | [Free My People \(feat\. Simmy & Kid Cruise\)](https://open.spotify.com/album/5fE5bSpNQpqVPJ8k5RvAUP) | 3:37 | 2022-07-17 | 2023-03-10 |
-| [Galaxy Swim \(Deeper\)](https://open.spotify.com/track/2WTeqcbUUS1Ox5fH3IeOvj) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 2:27 | 2022-07-17 |  |
+| [Galaxy Swim \(Deeper\)](https://open.spotify.com/track/2WTeqcbUUS1Ox5fH3IeOvj) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 2:27 | 2022-07-17 | 2023-05-07 |
 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 | 2022-07-17 |  |
 | [Hard To Be](https://open.spotify.com/track/325NzsIToV1028QGvUXBa1) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hard To Be](https://open.spotify.com/album/66VsC4E6NmpkcMC03kraZz) | 3:24 | 2023-03-10 |  |
 | [Help Me Fight a Losing Battle](https://open.spotify.com/track/29Dpkv9ruNKicm9Xhx4mYL) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Help Me Fight a Losing Battle](https://open.spotify.com/album/6kBvVJERDoMx7Ec7L3BjOT) | 3:34 | 2023-03-10 |  |
@@ -92,5 +92,6 @@
 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 | 2022-07-17 |  |
 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 | 2022-07-17 |  |
 | [You Comfort Me](https://open.spotify.com/track/3OUWfEsfqSmlEY2oNDN6Iu) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:22 | 2022-07-17 | 2023-04-20 |
+| [You Comfort Me](https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:22 | 2023-03-10 |  |
 
 \*This playlist was first scraped on 2022-12-01. Prior content cannot be recovered.

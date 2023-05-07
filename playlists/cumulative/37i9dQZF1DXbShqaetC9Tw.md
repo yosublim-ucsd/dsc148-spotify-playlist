@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-179 songs - 10 hr 3 min
+180 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 | 2022-04-18 |  |
 | [Bittersweet](https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C) | [sewoong](https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf) | [Fisherman's knot](https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7) | 4:17 | 2022-04-18 | 2022-06-06 |
 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 | 2022-04-18 |  |
-| [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-12-05 |  |
+| [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-12-05 | 2023-05-07 |
 | [Blue Candle](https://open.spotify.com/track/1YsimHSre6MFvtrLgkIqtq) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 3:18 | 2022-04-18 | 2022-07-29 |
 | [Blue Candle](https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 3:18 | 2022-07-25 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-10-04 |  |
@@ -53,6 +53,7 @@
 | [Do Not Want To Do It](https://open.spotify.com/track/7zUG4VBAF5hF4x3bUHXDp7) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Do Not Want To Do It](https://open.spotify.com/album/2pMUYU2JxYvFIhLirHp7AK) | 3:52 | 2022-04-21 | 2022-07-29 |
 | [Don't Be Blue](https://open.spotify.com/track/4vV9ew8qqO8hPUy7CWN6j5) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Don't Be Blue](https://open.spotify.com/album/47JJ2taYZnE38et61HIQRk) | 3:03 | 2022-04-18 | 2023-03-10 |
 | [Don't cry \(Feat\. george\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/3pEGkFxAMIsz0qNadCveuX) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 3:40 | 2022-04-21 | 2022-07-14 |
+| [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 |  |
 | [downwithyou](https://open.spotify.com/track/39jC2BPXLwujVcldr5Ca6I) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:14 | 2022-04-21 | 2022-04-26 |
 | [Dream, Not mine](https://open.spotify.com/track/7bqRyhJ3HTuplXfgaZoYCW) | [My Little Hobby](https://open.spotify.com/artist/2T4GOKiptXNejSObyWmWIf) | [Dream, Not mine](https://open.spotify.com/album/5XoMu7yTG0RV8x07xuvAEB) | 2:44 | 2022-04-18 | 2022-05-20 |
 | [DRUNK TALK \(feat\. sogumm\)](https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | ["TO INFINITY."](https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy) | 4:14 | 2022-04-18 | 2022-12-13 |

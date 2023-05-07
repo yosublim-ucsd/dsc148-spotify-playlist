@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,961 likes - 115 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,951 likes - 115 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 22 | [I Need You Christmas](https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Need You Christmas](https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR) | 3:26 |
 | 23 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
 | 24 | [Fall in Love at Christmas](https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Fall in Love at Christmas](https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI) | 5:08 |
-| 25 | [All I Want For Christmas Is You](https://open.spotify.com/track/6UtRvsYTvnXFtikimRPr2L) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Want For Christmas Is You](https://open.spotify.com/album/7IV7v5ybT4Ebd0wGWNgIyJ) | 3:46 |
+| 25 | [All I Want for Christmas Is You](https://open.spotify.com/track/6UtRvsYTvnXFtikimRPr2L) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Want For Christmas Is You](https://open.spotify.com/album/7IV7v5ybT4Ebd0wGWNgIyJ) | 3:46 |
 | 26 | [White Christmas \- Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/71azyw4EJDlGru5Uw6DGzT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [White Christmas \(Spotify Singles \- Christmas, Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/album/4khvhw7hfvRpSU1EokuED4) | 3:14 |
 | 27 | [Not Just On Christmas](https://open.spotify.com/track/6JJ4W13A4Q5yeK4g6OROmg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:02 |
 | 28 | [Christmas Eve](https://open.spotify.com/track/3GcyZQrG6hAqNmQsxjggj9) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:21 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 114 | [The Dream Of Christmas](https://open.spotify.com/track/4ocBbhGJ8mvnEz6OXbVa27) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB) | [The Dream of Christmas](https://open.spotify.com/album/79AQ93mdfqoaRrCQuYYeLq) | 3:32 |
 | 115 | [Coming Home \(For Christmas\)](https://open.spotify.com/track/5m1AklniU4aEhsva2Vor6O) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Coming Home \(For Christmas\)](https://open.spotify.com/album/7Mh5wHzYM4qt0pbGjJ62iT) | 3:27 |
 
-Snapshot ID: `MCxkNTc4MjJmMDdmYWJhMGQyYTRhY2VmMGVkMmJmOTczMDJiYWRiZjY3`
+Snapshot ID: `MCxmMWJmZWY2OGYxZGVjNmNlMmZjZjAyYzJlMGRjNmU2N2I3NWRhNmIw`

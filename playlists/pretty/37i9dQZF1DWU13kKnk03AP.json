@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2098727,
+  "num_followers": 2098629,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDc4NzQ1OTMzZDgwYTZlMzI4YzIyNGZmYmVjNjY0MmVjMDIzMjM3",
+  "snapshot_id": "MCw3YzM2NWM5YjM0NGNkYzFmNGIwNzQzNjNhZTE1ZjIwMjliOTMxZmU1",
   "tracks": [
     {
       "added_at": "2023-05-05 14:33:38",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
         "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
         "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 247873,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
         "name": "Lottery (feat. LU KALA)",
         "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 247873,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
-        "name": "Meltdown",
-        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 187888,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/6VMrXUabbY8cFWLougHU5F"
       },
@@ -1223,18 +1207,34 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Lost The Breakup",
-        "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 189413,
-      "name": "Lost The Breakup",
-      "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
+      "duration_ms": 187888,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+        "name": "Lost The Breakup",
+        "url": "https://open.spotify.com/album/60trS6aUorLG5ZBi1bWcz8"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+      "duration_ms": 189413,
+      "name": "Lost The Breakup",
+      "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 180742,
-      "name": "World's Smallest Violin",
-      "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
         "name": "Empires On Fire",
         "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
       },
@@ -1375,18 +1359,38 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 169839,
-      "name": "Sugar Sweet",
-      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
+      "duration_ms": 180742,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/3jHBgKdLCf46aP3HRI0WYv"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
+        "name": "Praising You (feat. Fatboy Slim)",
+        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1403,6 +1407,22 @@
       "duration_ms": 169721,
       "name": "uh oh",
       "url": "https://open.spotify.com/track/6qmvAJSUfVGMubvI2awW7p"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
+        "name": "Sugar Sweet",
+        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 169839,
+      "name": "Sugar Sweet",
+      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1435,42 +1455,6 @@
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
-        "name": "Praising You (feat. Fatboy Slim)",
-        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1523,6 +1507,22 @@
       "duration_ms": 188562,
       "name": "By The End Of The Night",
       "url": "https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "duration_ms": 170858,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Broken Memories",
-        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "It Is What It Is",
-      "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
-    },
-    {
-      "added_at": "2023-05-05 14:33:38",
-      "album": {
         "name": "Glad U Came",
         "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 178080,
       "name": "Glad U Came",
       "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
+    },
+    {
+      "added_at": "2023-05-05 14:33:38",
+      "album": {
+        "name": "Broken Memories",
+        "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 125746,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1747,18 +1747,18 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
       "artists": [
         {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
     },
     {
       "added_at": "2023-05-05 14:33:38",
@@ -1779,26 +1779,18 @@
     {
       "added_at": "2023-05-05 14:33:38",
       "album": {
-        "name": "Chasing Stars (feat. James Bay)",
-        "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 170457,
-      "name": "Chasing Stars (feat. James Bay)",
-      "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     }
   ],
   "unique_name": "Daily Lift",

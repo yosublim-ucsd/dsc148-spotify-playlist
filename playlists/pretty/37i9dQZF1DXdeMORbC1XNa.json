@@ -1,12 +1,12 @@
 {
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Davido",
-  "num_followers": 286507,
+  "num_followers": 286588,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTgwOTQzNzMzMjdlNjhjMjZlODI0ZjQ0MGU3ODg3NzYxYWQ3MDk0",
+  "snapshot_id": "MCw0ZmYzYTUyMDUzMDhkMjU5Nzk4YWIzOWNkZDg4NWNjOThmM2I2MmMy",
   "tracks": [
     {
       "added_at": "2023-04-21 11:56:18",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-21 11:56:18",
       "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
-    },
-    {
-      "added_at": "2023-04-21 11:56:18",
-      "album": {
         "name": "For Broken Ears",
         "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 169411,
       "name": "Damages",
       "url": "https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O"
+    },
+    {
+      "added_at": "2023-04-21 11:56:18",
+      "album": {
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
     },
     {
       "added_at": "2023-04-21 11:56:18",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-21 11:56:18",
       "album": {
-        "name": "Mr. Money With The Vibe",
-        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 123716,
-      "name": "Organise",
-      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
-    },
-    {
-      "added_at": "2023-04-21 11:56:18",
-      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "added_at": "2023-04-21 11:56:18",
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 123716,
+      "name": "Organise",
+      "url": "https://open.spotify.com/track/2wgvxtggKVzPkl0smF2UzI"
     },
     {
       "added_at": "2023-04-21 11:56:18",

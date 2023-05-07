@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 23741,
+  "num_followers": 23750,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjFjYTc1MDk0MGM2YjMwZTc4NTcyODdiZDkwMGRmZDA0ZDg5Zjcw",
+  "snapshot_id": "MCwyMDUzMzFlOGYyN2EzOWRmYjE5OGU3ZjU2M2QwODFkM2Q4NzJjYjNl",
   "tracks": [
     {
       "added_at": "2023-04-26 18:32:18",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "Horsepower For The Streets (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
       },
       "artists": [
         {
-          "name": "Jonathan Jeremiah",
-          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 145294,
-      "name": "Horsepower For The Streets - Acoustic String Version",
-      "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
+      "duration_ms": 310133,
+      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
+      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/4KCe4KPxUSyKPLu5a6mDVg"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Fallin' - Unplugged Live at the Brooklyn Academy of Music, Brooklyn, NY - July 2005",
-      "url": "https://open.spotify.com/track/1fzYdlr2RdnhxsI0bZsTms"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 271666,
       "name": "You've Got a Friend - Live",
       "url": "https://open.spotify.com/track/3jwtAvbYIqd1maiNMzUTks"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
+        "name": "Horsepower For The Streets (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7b2eQ7mqxXZDq5GqF6agfP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Jeremiah",
+          "url": "https://open.spotify.com/artist/2TdWlAJcUHu32O3Yld3rsU"
+        }
+      ],
+      "duration_ms": 145294,
+      "name": "Horsepower For The Streets - Acoustic String Version",
+      "url": "https://open.spotify.com/track/5WAh7T0w79A8XDQLLl4BaA"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 330493,
+      "name": "On & On - Live",
+      "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
         "name": "Fela With Ginger Baker Live!",
         "url": "https://open.spotify.com/album/4muZmxBESyBUEW61rIF0D5"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 465280,
       "name": "Let's Start (feat. Ginger Baker) - Live",
       "url": "https://open.spotify.com/track/7nM9ZnOD6nL04E5dOjjZiw"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 330493,
-      "name": "On & On - Live",
-      "url": "https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Apple Tree",
-      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
         "name": "Black Pumas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 181200,
       "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
       "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Apple Tree",
+      "url": "https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "The Roots Come Alive",
-        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
-      },
-      "artists": [
-        {
-          "name": "The Roots",
-          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
-        },
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 530866,
-      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
-      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
+        "name": "The Roots Come Alive",
+        "url": "https://open.spotify.com/album/6OCSibUr3YdAaqBCTfhuSB"
+      },
+      "artists": [
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        }
+      ],
+      "duration_ms": 530866,
+      "name": "You Got Me (Featuring Jill Scott) - Live / 1999",
+      "url": "https://open.spotify.com/track/71he7ShvDkKna60RozMqyN"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -903,6 +903,26 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
+        "name": "Gumbo Unplugged (Live)",
+        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 310091,
+      "name": "Claustrophobic (feat. Keyon Harrold) - Live",
+      "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
         "name": "Floacism \"Live\"",
         "url": "https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 254992,
       "name": "You're On My Mind - Anniversary \u2013 Live",
       "url": "https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
-        "name": "Gumbo Unplugged (Live)",
-        "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Keyon Harrold",
-          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
-        }
-      ],
-      "duration_ms": 310091,
-      "name": "Claustrophobic (feat. Keyon Harrold) - Live",
-      "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
         "name": "Ex-Factor (BBC 1Xtra Live Lounge Recording)",
         "url": "https://open.spotify.com/album/1rBjxPuibrLyILDyfIQUiu"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 253183,
       "name": "Ex-Factor - BBC 1Xtra Live Lounge Recording",
       "url": "https://open.spotify.com/track/1Dhl63qchF6ZJ2BKIFvW3L"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "Live on Soundstage",
-        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "I Keep Forgettin' - Live",
-      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
         "name": "Grow (Live)",
         "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 182117,
       "name": "Grow - Live",
       "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
+        "name": "Live on Soundstage",
+        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "I Keep Forgettin' - Live",
+      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
     },
     {
       "added_at": "2023-04-26 18:32:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-26 18:32:18",
       "album": {
-        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
-        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 367186,
-      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
-      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
-    },
-    {
-      "added_at": "2023-04-26 18:32:18",
-      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
+    },
+    {
+      "added_at": "2023-04-26 18:32:18",
+      "album": {
+        "name": "I Wish I Knew How It Would Feel to Be Free (Live \u2013 Montreux Jazz Festival 1976)",
+        "url": "https://open.spotify.com/album/45pIDRFj2JyeAM0DPAihAm"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 367186,
+      "name": "I Wish I Knew How It Would Feel to Be Free - Live \u2013 Montreux Jazz Festival 1976",
+      "url": "https://open.spotify.com/track/0z2qqpfYy8Mgn1SSYXOF4H"
     },
     {
       "added_at": "2023-04-26 18:32:18",

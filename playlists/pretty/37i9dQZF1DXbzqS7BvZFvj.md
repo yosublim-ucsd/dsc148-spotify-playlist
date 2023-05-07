@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: SleezyWorld Go, Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,859 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,868 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 79 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 |
 | 80 | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/track/6clDsO8HwhHEgJDDp88VdL) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Two Tens \(feat\. Anderson .Paak\)](https://open.spotify.com/album/32iVvfIYkmugGRxcTlzYjr) | 2:32 |
 
-Snapshot ID: `MCxmNDJiOTUyZGJmNjMzNGY3MTczNmNmYWUxZDNiYWQ4NzI5ZDNhNWYw`
+Snapshot ID: `MCwzY2MzMjYzMzJlYjRhZjcyOWZmMzJjNmM1MDcxZmE2ZTMxNjE4ZjE3`

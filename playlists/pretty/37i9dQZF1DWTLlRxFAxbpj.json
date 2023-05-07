@@ -1,12 +1,12 @@
 {
   "description": "Get ready to soak up the sun with some carefree jams. ",
-  "num_followers": 10956,
+  "num_followers": 10954,
   "original_name": "Spring Break",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGYzZDRkZjgzN2EzZGJkN2EwZTRkOGZhMmJlZGJlNmIwNjlmZWU2",
+  "snapshot_id": "MCw3M2VjN2NjZjFlMzBkNGI4ZTE5MGI5ZGZlZWI3MWRlOTIxMWFjNDk5",
   "tracks": [
     {
       "added_at": "2023-03-14 15:41:14",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
       },
@@ -459,6 +439,26 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
         "name": "SLUT ME OUT",
         "url": "https://open.spotify.com/album/48868AJJd7JVl1IVmaBsaQ"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 123672,
       "name": "SLUT ME OUT",
       "url": "https://open.spotify.com/track/5BmB3OaQyYXCqRyN8iR2Yi"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -531,6 +515,22 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Red Ruby Da Sleeze",
-        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 214445,
-      "name": "Red Ruby Da Sleeze",
-      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
-    },
-    {
-      "added_at": "2023-03-14 15:41:14",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 222533,
       "name": "Summer",
       "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+    },
+    {
+      "added_at": "2023-03-14 15:41:14",
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
     },
     {
       "added_at": "2023-03-14 15:41:14",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-03-14 15:41:14",
       "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei"
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
       "artists": [
         {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
         }
       ],
-      "duration_ms": 115555,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp"
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     }
   ],
   "unique_name": "Spring Break",

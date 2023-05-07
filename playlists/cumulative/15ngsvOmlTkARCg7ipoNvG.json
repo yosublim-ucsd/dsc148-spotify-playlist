@@ -11715,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Rejoice Arr. For Cello",
+        "url": "https://open.spotify.com/album/3mURfbY88TZOnDiJvDMqkq"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61852,
+      "name": "Rejoice Arr. For Cello",
+      "url": "https://open.spotify.com/track/5rh43bXzl1bVvOZc7R7gSI"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/20wZ8SYKHVL6tsh64Gf6eS"
       },

@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1663606,
+  "num_followers": 1664199,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTI3OWI4MjlmOTYwMDMwMDc5MDVlMmJmZTJlMDhmOGRmMjY3NDc3",
+  "snapshot_id": "MCwwOTNhOWQ5YzU2MzVjYTc5YzRjMzY1ZDA4OTMxMjVmYTdkZmNlMDJl",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "The Wall",
-        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
       },
       "artists": [
         {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 382296,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -599,6 +583,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 382296,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Bat Out Of Hell",
-        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 508333,
-      "name": "Paradise By the Dashboard Light",
-      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Jackson Browne (Saturate Before Using)",
         "url": "https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 199906,
       "name": "Doctor My Eyes",
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Bat Out Of Hell",
+        "url": "https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 508333,
+      "name": "Paradise By the Dashboard Light",
+      "url": "https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 511400,
-      "name": "Won't Get Fooled Again - Original Album Version",
-      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 220573,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 428133,
       "name": "Blinded By The Light",
       "url": "https://open.spotify.com/track/7kNNylJ1kswWbHeRM6UDuE"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2023-01-18 21:01:33",

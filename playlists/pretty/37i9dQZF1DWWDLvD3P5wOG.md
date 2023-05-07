@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,254 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,800 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 19 | [Bruk Off Yuh Back](https://open.spotify.com/track/30mNHDOw7qD5SF8tBeuPpu) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Bruk Off Yuh Back](https://open.spotify.com/album/46SMy1MXYZq5qnIpHKAd1U) | 2:53 |
 | 20 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
 | 21 | [Nobody Has to Know](https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Rumors](https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX) | 3:42 |
-| 22 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
-| 23 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
+| 22 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
+| 23 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 24 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 25 | [Like Glue](https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:52 |
 | 26 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 73 | [Nuh Boring Gyal](https://open.spotify.com/track/09EmEP62OJa0anCob6k0pl) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Project Sweat](https://open.spotify.com/album/7b7jhNRjKkoApz1KdmyIiJ) | 2:14 |
 | 74 | [Bend Ova](https://open.spotify.com/track/6ajqSWogEt8ngg7ErtEaVa) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/0xXIL4sAD2GXXjUk1NFV2y) | 3:09 |
 | 75 | [Call Mi A Yardie](https://open.spotify.com/track/4ninC0OKV9UjFLurjw2ASR) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Ragga Ragga Ragga 2012](https://open.spotify.com/album/4Sbct6JwWOmeuItClJ3aw6) | 3:05 |
-| 76 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
+| 76 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
 | 77 | [Willie Bounce](https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Strictly The Best Vol 33](https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV) | 4:10 |
-| 78 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
+| 78 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
 | 79 | [Hot Fuk / Hot Wuk](https://open.spotify.com/track/1aoq8ZJBdrqdM1FSzciy4G) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 2:47 |
 | 80 | [One Drop](https://open.spotify.com/track/54GRkvaa7ZUA6OtrPl3VUc) | [QQ](https://open.spotify.com/artist/06SIuEAp0Cqena9c2bZfgq), [Venomus](https://open.spotify.com/artist/15ebKuZun256dB6EBr8HUB) | [Kingston 20](https://open.spotify.com/album/4kD72g4mw4e97K5BAcY494) | 2:54 |
 
-Snapshot ID: `MCxkZWU2MjI3Yzk4ZDhkNGFhOTFjMWFhOTA0MzlhYjUyNDVkOGJmZGM0`
+Snapshot ID: `MCwxZGY0ODlkYmRlZjRlNzdlYmRiZGYyNDRhM2EyMmJkZmQzY2MzYmQ1`

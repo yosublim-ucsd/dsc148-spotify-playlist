@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 
 > This is Phoebe Bridgers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,303 likes - 38 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,490 likes - 38 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0N5yhI.md) - [plain]
 | 37 | [Dylan Thomas](https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 3:36 |
 | 38 | [Demi Moore](https://open.spotify.com/track/4b9SVTfCfMlH3o8amWk3dG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 3:18 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBhOWMyNmZjMzg2M2M0ZGNhYmU3NWEyMTM5YWI4YmJhZg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBkNjRmNDA0Y2VhN2Y4OWVkMDA3ODQ3N2I2ZDVkZjgzNw==`

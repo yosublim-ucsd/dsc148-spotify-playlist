@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 291123,
+  "num_followers": 291226,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTYyN2ZjYzljOWYyM2FlM2VjZGE5YjRiYzQ3ZTUwZjA1YTc4OTU3",
+  "snapshot_id": "MCw3MjVhZDc0YWE4Yzg5ODVlOWJlMzNmMzdjNmJiMGRmNDMzYWM3OWUy",
   "tracks": [
     {
       "added_at": "2023-05-06 00:59:36",
@@ -447,18 +447,22 @@
     {
       "added_at": "2023-05-06 00:59:36",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 258298,
+      "name": "Ojitos Lindos",
+      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
       "added_at": "2023-05-06 00:59:36",
@@ -479,22 +483,18 @@
     {
       "added_at": "2023-05-06 00:59:36",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 258298,
-      "name": "Ojitos Lindos",
-      "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-05-06 00:59:36",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-05-06 00:59:36",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-05-06 00:59:36",
-      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "added_at": "2023-05-06 00:59:36",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2023-05-06 00:59:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-06 00:59:36",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 145667,
-      "name": "i'm yours",
-      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
-    },
-    {
-      "added_at": "2023-05-06 00:59:36",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
+    },
+    {
+      "added_at": "2023-05-06 00:59:36",
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 145667,
+      "name": "i'm yours",
+      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
     },
     {
       "added_at": "2023-05-06 00:59:36",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-06 00:59:36",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
-    },
-    {
-      "added_at": "2023-05-06 00:59:36",
-      "album": {
         "name": "Only Love Can Hurt Like This (Slowed Down Version)",
         "url": "https://open.spotify.com/album/1xtXcIxBOXAGZYCUIs6EUG"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 257743,
       "name": "Only Love Can Hurt Like This - Slowed Down Version",
       "url": "https://open.spotify.com/track/48CKzGWOC65n8a8kdANJV8"
+    },
+    {
+      "added_at": "2023-05-06 00:59:36",
+      "album": {
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
     },
     {
       "added_at": "2023-05-06 00:59:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Bente op de cover van dé Nederpop playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,677 likes - 92 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,698 likes - 92 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 91 | [GOAT](https://open.spotify.com/track/1TJ9GtbZEJC2Ze5J3PAVH7) | [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV) | [GOAT](https://open.spotify.com/album/0DsFrYd1H4YaginnzMkUkP) | 2:19 |
 | 92 | [Stilte](https://open.spotify.com/track/1DbUqQsA59SdJ2bJbreuLN) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Stilte](https://open.spotify.com/album/05UIOGNkytQHWK8uznXwld) | 2:54 |
 
-Snapshot ID: `MCw0OWNkNDkxYzkyNGQ0MGRiYmQ0NTMzMjE5YjIxOTI2MjhmN2EwNjRh`
+Snapshot ID: `MCw0NDIxNGE2ZmFiYTc1MjExM2JhMjgzNjcwNzA5M2M0ZDMwZDFlMDQx`

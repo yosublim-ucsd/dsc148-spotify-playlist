@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 
 > This is Lalo Mora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,836 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,877 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dhOKA.md) - [plain]
 | 49 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Ama a Su Público \(En Vivo\)](https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM) | 3:33 |
 | 50 | [Herida De Amor](https://open.spotify.com/track/1bq6FVl1BWHIDC4MkirNyg) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [El Hombre Que Más Te Amo](https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE) | 3:35 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkM2ZjMTYwMzM5NGYzZDViNWQzYmJhZmY3ODBkN2ZiMg==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBmYjRkMDI5YWNkOGU2Y2Q2NjBmY2NlNzJmY2FjMmFkZA==`

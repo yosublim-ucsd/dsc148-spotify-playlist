@@ -4,7 +4,7 @@
 
 > Tom Grennan deze week op de cover van Fresh Pop.
 
-188 songs - 9 hr 30 min
+189 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Happy](https://open.spotify.com/track/6DXI5kHhGs2yrWFPFsecm1) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Happy](https://open.spotify.com/album/09Pmkia3NOqY9TOhTgS2Un) | 2:44 | 2023-04-27 |  |
 | [HAPPY](https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [HOPE](https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY) | 4:02 | 2023-04-20 |  |
 | [Happy for Me](https://open.spotify.com/track/08fPVDgY1iJyS8yG94YCoz) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Happy for Me](https://open.spotify.com/album/0aHdnYEIzdhQ7hPm28dT24) | 3:04 | 2023-02-24 | 2023-04-15 |
-| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-24 |  |
+| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-24 | 2023-05-07 |
+| [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-04 |  |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-27 |  |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-24 | 2023-04-28 |
 | [Heartbreak In The Making](https://open.spotify.com/track/7pQDEFgqfceckGdx9v4Me2) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Heartbreak In The Making](https://open.spotify.com/album/0FX2iXci5RZKRqVQslP6fk) | 3:14 | 2023-04-27 |  |

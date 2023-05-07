@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,659 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,792 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 32 | [A Esa](https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Personalidad](https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY) | 3:08 |
 | 33 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/6UqbBLltlDQ7ozlRswVWeu) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [La Gran Fiesta Formoseña](https://open.spotify.com/album/0jKCSRoHto29EuooePa871) | 3:18 |
 | 34 | [Amigo](https://open.spotify.com/track/24Thqkee9KZgifP7G8c70N) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Línea Azul \- Vol IV \- Amigo](https://open.spotify.com/album/5rvgKyUOHvy6tTwv5hUTdJ) | 3:31 |
-| 35 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
-| 36 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
-| 37 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
+| 35 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 |
+| 36 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
+| 37 | [Debut Y Despedida](https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Serie De Oro](https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d) | 2:54 |
 | 38 | [Amor de Estudiante](https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:10 |
 | 39 | [Tengo Miedo](https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [30 Anos De Exitos](https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0) | 2:41 |
 | 40 | [Mi Amiga, Mi Esposa, Mi Amante](https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 3:03 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 45 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
 | 46 | [Mudanzas](https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Mudanzas](https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54) | 3:51 |
 | 47 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [Serie Doble: Los Brios y Los Angeles De Chile](https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6) | 3:27 |
-| 48 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 |
-| 49 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:26 |
+| 48 | [Hazme una Señal \- Gimme Little Sign](https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq) | [Roberto Jordan](https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx) | [RCA 100 Años De Musica](https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc) | 2:26 |
+| 49 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 |
 | 50 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
 | 51 | [Cuando quieras, donde quieras \(Così era e così sia\)](https://open.spotify.com/track/3akNntAza319MgjivWphIH) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Alma, Corazón Y Vida](https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP) | 3:26 |
 | 52 | [Tu Cabeza en Mi Hombro](https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:31 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MdBxEdi0gp.md) - [plain]
 | 94 | [Abrázame](https://open.spotify.com/track/1SGYSOwGX3PPkJc5ihY2zp) | [Rocio Banquells](https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz) | [Rocio Banquells](https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz) | 4:11 |
 | 95 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
 | 96 | [Dueño de Nada](https://open.spotify.com/track/1yYrWdoONx6UyXLH0A3QMW) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [La Historia del Puma](https://open.spotify.com/album/0a7n1tbZkr87slBdcFPFkY) | 5:13 |
-| 97 | [Melina \- Remasterizado](https://open.spotify.com/track/1VIE012Xl6cTjVLXnfQNUq) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Forever](https://open.spotify.com/album/3ET9XdNnhaRwfKW6WXy03K) | 2:48 |
-| 98 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Los Éxitos de Mayte Gaos](https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3) | 2:53 |
+| 97 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [Los Éxitos de Mayte Gaos](https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3) | 2:53 |
+| 98 | [Melina \- Remasterizado](https://open.spotify.com/track/1VIE012Xl6cTjVLXnfQNUq) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Forever](https://open.spotify.com/album/3ET9XdNnhaRwfKW6WXy03K) | 2:48 |
 | 99 | [Una Lágrima \(Una Lacrima\)](https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY) | [Estela Nuñez](https://open.spotify.com/artist/7gYgOsOofRcz3sZIosDGu0) | [Estela Nuñez..\. Sus Primeras E Inolvidables Grabaciones](https://open.spotify.com/album/2bPx9BRaxKsSAiYPzYaode) | 3:53 |
 | 100 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 |
 
-Snapshot ID: `MCw3ZjQ5NjQ0NTZhNGViMmJlMzVjYmMxYWE4ZDFmNTQ0MDRlZGNjN2Nl`
+Snapshot ID: `MCwwMTQxOTU5NzAyNmM1ZDA1MjcyZTM1MjQ3NjIzMWQxNzZjOWQ3YjA4`

@@ -1,12 +1,12 @@
 {
   "description": "Country rap songs, made to be cranked up. Cover: Brantley Gilbert and Jelly Roll",
-  "num_followers": 148063,
+  "num_followers": 148087,
   "original_name": "Field Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTUyMzA2NDZiOGUwNzc3OTQ5M2FjYTlkNGU4MDBkYWJmN2MyOGE3",
+  "snapshot_id": "MCw0OTA4YjhiYTNjMjkxNTY3YmQ4Y2Q1NDVjNWUxNDFhYzZhMWFmMzRh",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "STICKS",
+        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        }
+      ],
+      "duration_ms": 157070,
+      "name": "STICKS",
+      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Trucks Gone Wild",
         "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 101052,
       "name": "Trucks Gone Wild",
       "url": "https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "STICKS",
-        "url": "https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S"
-      },
-      "artists": [
-        {
-          "name": "Jamie Ray",
-          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
-        }
-      ],
-      "duration_ms": 157070,
-      "name": "STICKS",
-      "url": "https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR"
     },
     {
       "added_at": "2023-04-28 04:01:00",

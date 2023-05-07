@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 
 > Himnos de Resistencia: Somos un pueblo fuerte que no se calla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,948 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,014 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,15 +91,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 81 | [La Fuerza Policial](https://open.spotify.com/track/115aU4mUhsHVAoUlTqWnKP) | [2X](https://open.spotify.com/artist/4Og1dnAsJ7C9oj5axIFs5d) | [Pateando Craneos](https://open.spotify.com/album/2wW6wncmIYNKNpnDH1BrvF) | 2:41 |
 | 82 | [Prende la Mecha](https://open.spotify.com/track/1iMVWpvtyXZArqtWA6osQ8) | [Anarkia Tropikal](https://open.spotify.com/artist/5faoRgtvabwICan9170dvD), [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6), [la Chusma Inkonciente](https://open.spotify.com/artist/7fX6fTfOsJDHjTsnDeWjg5), [Lucho Bermúdez](https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0) | [La Venganza de los Brujos](https://open.spotify.com/album/2dujTRtUMm8HuUWfoLfpRK) | 5:08 |
 | 83 | [La vida no vale nada \(feat\. Lila Downs\)](https://open.spotify.com/track/2G93TASv7mpom8JIZnWbuv) | [Haydée Milanés](https://open.spotify.com/artist/7hipjiOrcrv8qHhmacIPwG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [AMOR Haydée Milanés a dúo con Pablo Milanés \(EDICIÓN DELUXE\)](https://open.spotify.com/album/3ytIR3b4QHTDgreNs5bDzU) | 3:46 |
-| 84 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 |
-| 85 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |
+| 84 | [Exigimos](https://open.spotify.com/track/5b2XzjVplTXsJLBLaxx0Np) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Viva el Planeta](https://open.spotify.com/album/7tC1a8XEUsIoO7YetqtmRU) | 3:19 |
+| 85 | [Matar al Presidente](https://open.spotify.com/track/6HA0cETjAdZVme1VZvA5pf) | [La Floripondio](https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL) | [Dime Qué Pasa](https://open.spotify.com/album/4DifRQy4Dyey9NSS7ywnEx) | 1:50 |
 | 86 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 87 | [El País de No Pasa Nada](https://open.spotify.com/track/1JklEfdFt8U7HMck9etQjs) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 3:35 |
 | 88 | [Paco Vampiro](https://open.spotify.com/track/1d8izQZm0HT6s49oOm235o) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Paco Vampiro](https://open.spotify.com/album/71wsgoCJ3gvOV7zh9sjbLX) | 3:21 |
 | 89 | [Luna Tucumana](https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [His Great Songs](https://open.spotify.com/album/4q6egD1rqbJXSaDyoVqVZX) | 3:08 |
 | 90 | [El Club de la Resistencia](https://open.spotify.com/track/4r1iDL65vPJBdPtKiBVOS2) | [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Souvenir](https://open.spotify.com/album/45ZghnmhUZlf7DWdlgKODE) | 3:30 |
-| 91 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
-| 92 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
+| 91 | [Octubre](https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Octubre](https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or) | 3:48 |
+| 92 | [La Memoria](https://open.spotify.com/track/3GReYwQCbq9Y7FOrSVDAxQ) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq), [D\-Mente](https://open.spotify.com/artist/5FhptIji4QaSFq9NupXBv7) | [Un León D\-Mente](https://open.spotify.com/album/7pjA0y6GECeG1Qx731TSaz) | 5:46 |
 | 93 | [La Maldición de Mi País](https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 3:03 |
 | 94 | [Se Me Ocurre](https://open.spotify.com/track/2D153hv0xak4aPbNqNBq89) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/5sna0NuWWzxZsN8L14tXSx) | 4:02 |
 | 95 | [Fuerte](https://open.spotify.com/track/1bmkkmC0umjVUUjmDIRDq6) | [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Mortal](https://open.spotify.com/album/0q44F7jzFlaGuZQzVUl8FX) | 5:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2u4EHuQcBWu.md) - [plain]
 | 99 | [Ellas](https://open.spotify.com/track/5OqS4GrqPeL1EcFNxGAJ5y) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Ellas](https://open.spotify.com/album/4VpdPretQ3aI1cwXFhlFhY) | 4:44 |
 | 100 | [Bella Ciao](https://open.spotify.com/track/6Jb5YWfJNHqadAeeSijMEU) | [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Bella Ciao](https://open.spotify.com/album/5KHRo5czZnhlAfQ2e4840e) | 2:02 |
 
-Snapshot ID: `MCxiY2M4Nzg4NTI1YWUzZGVlNmU5MTA3YjYyNDUzYzE4NjA1YTEzYzVj`
+Snapshot ID: `MCxmMzc5M2E5YmFkZGM1N2QwZTA2YThlYTcxN2E1ZjExNTkzZDUxMjk4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 
 > This is Carlos Y Jose\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,400 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,420 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1z7Tel.md) - [plain]
 | 49 | [Los Valientes De Teran](https://open.spotify.com/track/0hKxFIJAUmxWfff2aciU9Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Grandes Canciones](https://open.spotify.com/album/084lTJZiqiPOLBiPlnnGYr) | 3:29 |
 | 50 | [Flor De Las Flores](https://open.spotify.com/track/41ztdXuWnrY8B9Z5tKPzTt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Éxitos Con Carlos Y José](https://open.spotify.com/album/7yPKtlNWxPoPdB0MgI2YLh) | 2:08 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA4NWJhZTM3MWFkMDE0MmQ3NmQ4MWRmZTBlNjk4ZTdkMw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAxZjcxZGM5NTA3N2RhZTQ3YzQ4ZWI1OWViNTdhNzczZQ==`

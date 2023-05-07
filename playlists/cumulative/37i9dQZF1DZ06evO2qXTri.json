@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
+    },
+    {
+      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },

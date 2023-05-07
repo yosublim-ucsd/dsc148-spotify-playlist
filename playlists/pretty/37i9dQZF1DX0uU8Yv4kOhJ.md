@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,416 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,448 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 11 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 |
 | 12 | [Sueno en Paraguay \- El Búho Remix](https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Amansara Remixed](https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ) | 4:01 |
 | 13 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
-| 14 | [Eso Que Tu Haces](https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:33 |
-| 15 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 |
+| 14 | [Corazón de Rubí](https://open.spotify.com/track/53qroFU9Rs6gDq7pSD8rHP) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B) | 4:14 |
+| 15 | [Eso Que Tu Haces](https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:33 |
 | 16 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 17 | [Sueno en Paraguay](https://open.spotify.com/track/5VOMJBi8KMutN8DUB1ZYro) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:53 |
 | 18 | [El Canto del Cuculi](https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm) | [Los Koyas](https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC) | [Le top des Andes \(Les plus grands thèmes à la flûte des Andes\)](https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls) | 2:55 |
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 20 | [Caracol](https://open.spotify.com/track/79O6v0FVZHJS7QbQZ0XHBY) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/3G3M3Tuo24paVJxC3lGMHJ) | 4:10 |
 | 21 | [Venganza](https://open.spotify.com/track/4KoUXNSCBNWkUAOm09q4vq) | [TOURISTA](https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM) | [Fantasmas](https://open.spotify.com/album/0yEwuhTDgOxUNzzzkFsgr0) | 3:33 |
 | 22 | [Wipala](https://open.spotify.com/track/7uxmsieVovltullEN2B8QU) | [Gonzalo Vargas](https://open.spotify.com/artist/2uo6i3LKZWHgYqpy9LM7fJ), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 5:08 |
-| 23 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
-| 24 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
-| 25 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
+| 23 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
+| 24 | [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 |
+| 25 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
 | 26 | [Solo](https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Solo](https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU) | 3:44 |
 | 27 | [Religar](https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Astro](https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8) | 3:36 |
 | 28 | [Munaspaqa Suyaykuway](https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9) | [Jaime Guardia](https://open.spotify.com/artist/3AxPEg0Jy5U5GvgEHsI43X) | [Charango Peruano](https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx) | 3:02 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 44 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 |
 | 45 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
 | 46 | [Gente Mariposa](https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Aurora](https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7) | 5:17 |
-| 47 | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE) | 3:32 |
-| 48 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
+| 47 | [Vírgenes del Sol](https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn) | [Inkaquenas](https://open.spotify.com/artist/1CY0y4SPtpah9aHkA1yog3) | [Viento en los Andes](https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF) | 3:38 |
+| 48 | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/track/5gNyonYA0mMGyewJLHupu6) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Hasta Donde Mande el Cuerpo](https://open.spotify.com/album/0wxoLfkWTTIyym169xRgfE) | 3:32 |
 | 49 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
-| 50 | [Puñales](https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Puñales](https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m) | 2:50 |
+| 50 | [Sunch'u T'ikitay \- Remastered](https://open.spotify.com/track/1kuH31to6yBPXaAvVUmisu) | [Los Kjarkas](https://open.spotify.com/artist/0tkboyBYNymYytYlb9EXkN) | [Lo Mejor de los Kjarkas](https://open.spotify.com/album/4AioSjCy9kSATUkERbkzo9) | 3:36 |
 
-Snapshot ID: `MCw4ODEyNmYxMTgzY2IyOGFmNDRiMTEzOGQ2MWViZTgxMzQ1MjNlYjhk`
+Snapshot ID: `MCxkMmZhMTEzODliMzdmNzI2OTA0YjMzYWJkNzlkMzA1YWE4ODcxZWE1`

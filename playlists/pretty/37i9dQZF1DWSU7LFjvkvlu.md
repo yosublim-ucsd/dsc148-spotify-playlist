@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU7LFjvkvlu.md) - [plain]
 
 > Throwbacks for that emo kid in all of us\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,237 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,384 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU7LFjvkvlu.md) - [plain]
 | 30 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 |
 | 31 | [Dirty Little Secret](https://open.spotify.com/track/5lDriBxJd22IhOH9zTcFrV) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:13 |
 | 32 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 |
-| 33 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
-| 34 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
+| 33 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
+| 34 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 |
 | 35 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
 | 36 | [Girl All the Bad Guys Want](https://open.spotify.com/track/0KqyBk4aVT88TEqBIC8mAP) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 3:17 |
 | 37 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
 | 38 | [Flavor Of The Weak](https://open.spotify.com/track/1UkMAtLU8NxsddE7j4zXGO) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [American Hi\-Fi](https://open.spotify.com/album/3lFnWZBoKJiMZiCOG8WQdU) | 3:08 |
 | 39 | [Girl's Not Grey](https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 3:10 |
 | 40 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
-| 41 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
-| 42 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 41 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 42 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
 | 43 | [Here \(In Your Arms\)](https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Zombies! Aliens! Vampires! Dinosaurs!](https://open.spotify.com/album/6caG763FP5oUCdxklebHh6) | 4:00 |
 | 44 | [Party Hard](https://open.spotify.com/track/0E0bZtTG39K95uRjqBo1Mx) | [Andrew W.K.](https://open.spotify.com/artist/4YJR4xviDKHoelt9WKHlBa) | [I Get Wet](https://open.spotify.com/album/6BQMUDC55fjjnApdWtZYZM) | 3:04 |
 | 45 | [Heaven Is a Halfpipe \(If I Die\)](https://open.spotify.com/track/1Sm3U3B5XoidYQEZQZrh3i) | [OPM](https://open.spotify.com/artist/5X2XAU0eSvRPWUl9hUb9mV) | [Menace To Sobriety](https://open.spotify.com/album/3b7Bc4IZtiJCCE0bMlAg5a) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSU7LFjvkvlu.md) - [plain]
 | 49 | [Just a Day \- Edit](https://open.spotify.com/track/54hC2IlmwTiwbj1oyLxg69) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [The Singles](https://open.spotify.com/album/6gSpa42uz0cOvJddu1yFuO) | 3:45 |
 | 50 | [At Your Funeral](https://open.spotify.com/track/340FrzH0Ji2keVAlX2FJZ5) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Stay What You Are](https://open.spotify.com/album/39gFAYxTjxzx9FK57VpsRK) | 3:09 |
 
-Snapshot ID: `MCxmNzJkNTUwNTA5MzczZDRiZWEwNjJhYWFiODNkMDhjMThhNjIzY2I1`
+Snapshot ID: `MCwyNmM2MjY0ZmNlYmU2OGQyOGEzMzNlMDJlOWQ1ZTlkZTAyN2ZkMTVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,375 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315,980 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 67 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 |
 | 68 | [Kiss It Better](https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 4:13 |
 | 69 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
-| 70 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
-| 71 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
+| 70 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
+| 71 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 72 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 73 | [Like I Want You](https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 4:20 |
 | 74 | [Renegade](https://open.spotify.com/track/3yWF3DqFBNLvf7s4C7mKUm) | [Aaryan Shah](https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr) | [Renegade](https://open.spotify.com/album/0ml5u2WtFvgvpPqCTyCZ9d) | 3:42 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 80 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 |
 | 81 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
 | 82 | [Go Fuck Yourself](https://open.spotify.com/track/4NZrZgrRoR4GwR7flWOXRI) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [First Steps](https://open.spotify.com/album/1T2zfKOl2TFkwRuQ7arglc) | 2:09 |
-| 83 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
-| 84 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
+| 83 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
+| 84 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 85 | [N Side](https://open.spotify.com/track/12ILYlOEfWL8ei0BEgFJn0) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/4hvsfS6cytmO16IfAptVA9) | 3:44 |
 | 86 | [lost souls \(with Brent Faiyaz\)](https://open.spotify.com/track/02rdXe0KhMe8p6ZHzYtuw0) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [The Melodic Blue](https://open.spotify.com/album/7n23fjZTviIUnHyvZGQjni) | 4:29 |
 | 87 | [Happier Than Ever](https://open.spotify.com/track/7es56D0QedGMsK39wl2yFX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Happier Than Ever](https://open.spotify.com/album/6EOyWmHnLJptnyjB8xrYT5) | 1:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 99 | [She](https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 6:02 |
 | 100 | [Not Around](https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa) | [Nova](https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF) | [Not Around](https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P) | 3:03 |
 
-Snapshot ID: `MCxkYTc1ZWQ0OWVmODcwOTY1MjQ2ZTk1MmQ1MDI3NzFmNjk1ZjEyMjJh`
+Snapshot ID: `MCwxYWViNTIxMjU5MmVkZTc2MjExMGFlYzRjODMxOTc5Mzc4OWU1ZTgx`

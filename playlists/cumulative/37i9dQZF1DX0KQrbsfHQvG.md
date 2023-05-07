@@ -4,7 +4,7 @@
 
 > Get up\. Stand up\. Be the revolution.
 
-141 songs - 8 hr 2 min
+143 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [21st Century Liability](https://open.spotify.com/track/5tJd3cKHXsDlSq6vIV4Tgj) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [21st Century Liability](https://open.spotify.com/album/1p64R5tjTpC2oH24YLdQgq) | 3:09 | 2022-07-01 |  |
 | [6:00](https://open.spotify.com/track/3PTBfw2zgvY9HjpBU8VoFz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 4:26 | 2020-08-19 | 2022-07-29 |
 | [A Dying Plea Vol\. 1](https://open.spotify.com/track/0NlxbDDwdVSQm1DQz2EZUo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Marcia Richards](https://open.spotify.com/artist/1I1Psp3G5rPd9Wz4uBE3Zu), [Jálise Della Gary](https://open.spotify.com/artist/0f5kdcCaSt4HSPvBKuXvYv), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [A Dying Plea Vol\. 1](https://open.spotify.com/album/0ippbK45L6BKnSfpaAFf4V) | 3:26 | 2020-11-04 | 2022-07-29 |
+| [American Attraction](https://open.spotify.com/track/7p2xDNGlBBTQu2YEb6qLqG) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Fall](https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts) | 2:56 | 2022-11-04 |  |
 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 | 2020-08-19 | 2022-11-29 |
 | [American Dreams](https://open.spotify.com/track/2BljDCCL2GPYOXNSY0DEfU) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/3Ubxq3xl0xzgKTyetggqbm) | 3:23 | 2020-08-19 | 2022-07-29 |
 | [American Dreams](https://open.spotify.com/track/4CTgCROhytFCN0o8t4CYAO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth \(Deluxe\)](https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW) | 3:23 | 2022-07-01 |  |
@@ -27,7 +28,7 @@
 | [Blood / / Water](https://open.spotify.com/track/1rFAG22RkvaM6BlpWQoZ47) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood / / Water](https://open.spotify.com/album/3XqbSGmm923aESZ9tVzg3b) | 3:36 | 2020-08-19 | 2022-07-29 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2022-07-01 |  |
 | [Bodied](https://open.spotify.com/track/3C7fssc2tiauEx2Z82evXo) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Bodied](https://open.spotify.com/album/7ERlNRuvXzjBAHHJyKNrCE) | 2:58 | 2020-08-19 | 2022-07-24 |
-| [Bodied](https://open.spotify.com/track/5CoFI2sgWxWACu15DhE3fY) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Bodied](https://open.spotify.com/album/5KG3In8LsszpAsPSh3OOH7) | 2:58 | 2022-07-01 |  |
+| [Bodied](https://open.spotify.com/track/5CoFI2sgWxWACu15DhE3fY) | [Honors](https://open.spotify.com/artist/1DIr8qPcgJS50FFNfC3nnp) | [Bodied](https://open.spotify.com/album/5KG3In8LsszpAsPSh3OOH7) | 2:58 | 2022-07-01 | 2023-05-07 |
 | [Bullet \- Single Version](https://open.spotify.com/track/1R1B4ToHa8KZ4LAObK12Pv) | [Hyro The Hero](https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm) | [Bullet](https://open.spotify.com/album/31GP9htiyPg1uFYGXLV24h) | 2:53 | 2020-08-19 |  |
 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 | 2020-08-19 |  |
 | [BURN IT](https://open.spotify.com/track/5YVMcqVtrNuy41qRyu55ag) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [BURN IT](https://open.spotify.com/album/3xQ3UT8MXWNHi6ze8TGQ5p) | 3:51 | 2020-08-19 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [Riot!](https://open.spotify.com/track/6dtEw6NRpYgHJ5PwnU5U1k) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Fear](https://open.spotify.com/album/2fTbjcKyLjNYISmeXNMrn8) | 3:24 | 2022-07-01 |  |
 | [Rise](https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Damned](https://open.spotify.com/album/0hMPPqOR9n6XSia99Rw6t7) | 3:53 | 2020-08-19 |  |
 | [Rise Up](https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Rise Up](https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a) | 3:50 | 2020-08-19 |  |
-| [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 | 2020-10-23 |  |
+| [Save Us](https://open.spotify.com/track/2Y4lgpOT0sPU1TiTmsbpZh) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Save Us](https://open.spotify.com/album/6K7LntaUHeQnHdQZbOYWGT) | 2:21 | 2020-10-23 | 2023-05-07 |
 | [Show Me A Leader \- Radio Edit](https://open.spotify.com/track/46Li5B2A8xJ9cOYw5YEc2D) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Show Me A Leader \(Radio Edit\)](https://open.spotify.com/album/3o1f3dMUhQCTPuaWpkYKAk) | 3:48 | 2020-08-19 | 2022-07-29 |
 | [Stand Up \(Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots\)](https://open.spotify.com/track/0FdCFfb5xb7thJMaSjLFsH) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH), [Dan Reynolds](https://open.spotify.com/artist/3k3gbUT7bF0jYmFmAKBQtU), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [Stand Up \(Tom Morello, Shea Diamond, Dan Reynolds & The Bloody Beetroots\)](https://open.spotify.com/album/0aMmyg5wDhpn0DDY7sjfyE) | 3:13 | 2020-08-19 |  |
 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 | 2020-08-19 |  |
@@ -124,6 +125,7 @@
 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 | 2022-01-14 |  |
 | [The Culling](https://open.spotify.com/track/1yB4sUSgRGEeiSslaoRpYD) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [The Culling](https://open.spotify.com/album/0ivE5xssJONtVg91oLWQGO) | 3:14 | 2020-08-19 | 2022-07-28 |
 | [The Culling](https://open.spotify.com/track/5y6QzkFz2fuy3RbLxS2oCj) | [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Whitey Ford's House of Pain](https://open.spotify.com/album/79W0NJcUJHuQpvygtu6Mj7) | 3:14 | 2022-07-01 |  |
+| [The Disease](https://open.spotify.com/track/6XAwcgNG3ZC0IySBXYlqmi) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl) | 2:55 | 2022-11-04 |  |
 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 | 2020-08-19 | 2023-05-04 |
 | [The Doomed](https://open.spotify.com/track/44OUZyiPnJc4pOZw4J6pid) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Eat The Elephant](https://open.spotify.com/album/3Jr1RhAyndBxtyi8rJs3Op) | 4:41 | 2022-07-01 |  |
 | [The Doomed](https://open.spotify.com/track/54RaEDwHbCJKMdDq68EyKE) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [The Doomed](https://open.spotify.com/album/4uHOQCxpSE2W3U7uaTd6Mg) | 4:41 | 2020-08-19 | 2022-07-28 |

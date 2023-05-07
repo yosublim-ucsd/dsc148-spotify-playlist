@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,354 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,447 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 82 | [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 |
 | 83 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 | 84 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 |
-| 85 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
-| 86 | [Following El Sol](https://open.spotify.com/track/0g0i4DRRLx0tfyX8ge5PVU) | [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Following El Sol](https://open.spotify.com/album/79lI3oyjEOuwyIEMqbKRuj) | 3:28 |
+| 85 | [Following El Sol](https://open.spotify.com/track/0g0i4DRRLx0tfyX8ge5PVU) | [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Following El Sol](https://open.spotify.com/album/79lI3oyjEOuwyIEMqbKRuj) | 3:28 |
+| 86 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 |
 | 87 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 |
-| 88 | [Bizarre Love Triangle \- 2014 Remaster](https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli) | [Frente!](https://open.spotify.com/artist/2qgHV12WsnwzHZGUB9nd9U) | [Marvin The Album \- 21st Anniversary Edition](https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ) | 1:59 |
+| 88 | [in ur motion](https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Goûter +](https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n) | 3:28 |
 | 89 | [Paper Aeroplane](https://open.spotify.com/track/3XcvrvOCfSvK0mm6nOTw6d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [A Book Like This](https://open.spotify.com/album/4khfoV9Y97TfbOUzjzaiWU) | 3:43 |
 | 90 | [Barcelona](https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Barcelona](https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc) | 2:35 |
 | 91 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 |
 | 92 | [I Do](https://open.spotify.com/track/1rZFC696WndvqvpFfjr4Wu) | [Susie Suh](https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh) | [The Bakman Tapes](https://open.spotify.com/album/73RcZ3fKMpDA5HsgMNV5Gs) | 3:32 |
-| 93 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
-| 94 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
-| 95 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
+| 93 | [Time](https://open.spotify.com/track/0FjTazWaBSHBVWm2PAGghQ) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Tomb](https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj) | 3:56 |
+| 94 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
+| 95 | [reverie](https://open.spotify.com/track/56iI6wwW6Lm2DzRxl0TFqH) | [isaac gracie](https://open.spotify.com/artist/5Smb3KB29epOb92Btsxulb) | [isaac gracie \(extended edition\)](https://open.spotify.com/album/0WhOJJJZPWfefjJogtinkD) | 5:43 |
 | 96 | [Moving in Slow Motion](https://open.spotify.com/track/1JzJFYOlNFISoz28z5t20x) | [The Sweet Remains](https://open.spotify.com/artist/35HoDSeQMKnwC1f4sng0eK) | [Laurel & Sunset](https://open.spotify.com/album/6HjqPv1wOvpoPzyINKwTf4) | 3:57 |
 | 97 | [The Spark](https://open.spotify.com/track/1jkBuvWI9IGEz9thXiKOlP) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [In Deepest Blue \(Bonus Track Version\)](https://open.spotify.com/album/6xWGNnipxLJCfRPPB9e9Iy) | 3:21 |
 | 98 | [No Right To Love You \- Acoustic](https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Things I Chose To Remember](https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF) | 3:49 |
 | 99 | [No Me Merecía La Pena](https://open.spotify.com/track/0lezFXoMcfhkGgWDwYvpJn) | [Lori Meyers](https://open.spotify.com/artist/3mOsjj1MhocRVwOejIZlTi), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [No Me Merecía La Pena](https://open.spotify.com/album/4E8avZ7MNKPAhKGmgbcLaH) | 2:51 |
 | 100 | [Rayito](https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Borneo](https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc) | 2:52 |
 
-Snapshot ID: `MCxkZjI0N2ViZjY1OWNlODI1Zjk2ZGY4NzBkNzEzYjU3ZjA5MWQ4ODIy`
+Snapshot ID: `MCw3NDYxYmU5NzgxMWIyMjg1YThlMmZiMWIwYmRmYjFkOGExYjU5NzE0`

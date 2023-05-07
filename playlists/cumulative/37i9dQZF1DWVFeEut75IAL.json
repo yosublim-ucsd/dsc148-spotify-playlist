@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Danny Boy",
+        "url": "https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6"
+      },
+      "artists": [
+        {
+          "name": "Xuefei Yang",
+          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Danny Boy",
+      "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"
+    },
+    {
+      "album": {
         "name": "Howard: Dappled Light",
         "url": "https://open.spotify.com/album/7GuRclIncpIaFUj7MZJGlF"
       },
@@ -2274,24 +2292,6 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
-    },
-    {
-      "album": {
-        "name": "Danny Boy",
-        "url": "https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6"
-      },
-      "artists": [
-        {
-          "name": "Xuefei Yang",
-          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
-        }
-      ],
-      "date_added": "2022-11-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 212040,
-      "name": "Traditional: Danny Boy",
-      "url": "https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > It's all about the girls tonight.
 
-201 songs - 10 hr 43 min
+202 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Call You Mine \(feat\. Bebe Rexha\)](https://open.spotify.com/track/05CwHjIk71RXVU40boRMnR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [World War Joy](https://open.spotify.com/album/1ONuDpN0a3zhCUyKCgtuzK) | 3:37 | 2021-10-11 | 2022-07-29 |
 | [Circus](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:12 | 2022-06-30 | 2022-11-13 |
 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 | 2021-10-11 | 2022-01-03 |
-| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2022-06-30 |  |
+| [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2022-06-30 |  |
+| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2022-06-30 | 2023-05-07 |
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2021-10-11 | 2022-07-29 |
 | [DANCE](https://open.spotify.com/track/6TfeXwJihJRuBW3mFpib6J) | [CLMD](https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [DANCE](https://open.spotify.com/album/4YIOg7I2h6ISBGXijrVtLi) | 2:54 | 2021-10-11 | 2022-06-13 |
 | [Dance Monkey](https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse \(Deluxe\)](https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN) | 3:29 | 2022-06-30 | 2023-03-02 |

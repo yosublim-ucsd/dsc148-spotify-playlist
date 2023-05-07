@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-149 songs - 7 hr 24 min
+150 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Evening Calm](https://open.spotify.com/track/23gmdJgMk6hgkrwUsvNjG3) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/1lYuL6PrtYfCWlk26xn0Kj) | 2:38 | 2022-07-19 | 2023-03-10 |
 | [Evening Calm](https://open.spotify.com/track/2tqgdeWKwX8FnDmMnFzfb2) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Evening Calm](https://open.spotify.com/album/3DDO8hJXZZHaZQdTnOjTP0) | 2:38 | 2022-07-19 | 2022-07-29 |
 | [Everlasting](https://open.spotify.com/track/4F0lm6JQ9e6g59FBqAnwOE) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Everlasting](https://open.spotify.com/album/7nrcHhFkdyUPNeiKku96jJ) | 3:07 | 2022-07-19 | 2022-07-29 |
-| [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-02-17 |  |
+| [Expanded Reality](https://open.spotify.com/track/3UO6cBUGTh5uE6rxmGSC8O) | [Axial Flow](https://open.spotify.com/artist/4H4cCqLCwCRQVxbQhGrjtL) | [Expanded Reality](https://open.spotify.com/album/6t6vT0VGZRO8S8ud6wGxIN) | 2:42 | 2023-02-17 | 2023-05-07 |
 | [Floating Without Gravity](https://open.spotify.com/track/1EUeo0MgTVTCAqzaYZO4OU) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/2LXf2YrNnOa930vkRcCBVh) | 2:42 | 2022-07-19 |  |
 | [Floating Without Gravity](https://open.spotify.com/track/2CZNgun4NU3Ui9cVbL3c9h) | [Tranquil Spirits](https://open.spotify.com/artist/1WQeauToddg6owwNSO1wQp) | [Floating Without Gravity](https://open.spotify.com/album/4SsWdFTjKxD0vLwr0IS065) | 2:42 | 2022-07-05 | 2022-07-28 |
 | [Free Of Hesitation](https://open.spotify.com/track/2rqRLfEDVwbH67LanM8FCc) | [Abigail Dorsey](https://open.spotify.com/artist/5UWRATaAg1iZB8rJtTHhfR) | [Free Of Hesitation](https://open.spotify.com/album/6Qckgdp2NNvXFw6vKLRMXr) | 2:40 | 2023-01-13 |  |
@@ -145,6 +145,7 @@
 | [Tokyo Drifting](https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw) | 3:23 | 2022-07-19 | 2022-07-28 |
 | [Tokyo Drifting](https://open.spotify.com/track/7AkdsvKHvHjFsj5jLtwySM) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/21Kd19l9phAGWCYBeBEisf) | 3:23 | 2022-08-05 |  |
 | [Tomorrow](https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Tomorrow](https://open.spotify.com/album/0OL0E8PsTP5Q1EjHaLV0hu) | 2:48 | 2022-11-22 |  |
+| [Towards The Light](https://open.spotify.com/track/1zSSm8B8piirgBg9YsLW4E) | [Vincent La Rossi](https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3) | [From Above](https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ) | 3:26 | 2023-04-28 |  |
 | [Transformation](https://open.spotify.com/track/73YDqwVKSNwtzD9cLyUnKo) | [Occas](https://open.spotify.com/artist/24qhOh6WnSMUZFzeayfPXZ) | [Transformation](https://open.spotify.com/album/0EZ0y3S0PUAwz9A4HIPxZQ) | 2:32 | 2022-10-14 |  |
 | [Trust the Universe](https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Trust the Universe](https://open.spotify.com/album/7yqbDPDVpLpJAjBTHAgUme) | 2:49 | 2022-07-19 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-07-19 |  |

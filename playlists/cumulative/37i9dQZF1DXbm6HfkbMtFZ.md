@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-497 songs - 1 day 6 hr 4 min
+498 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Duck Hunting](https://open.spotify.com/track/7DPWHOe9ETqjEVl2fmYHeB) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj) | [Duck Hunting](https://open.spotify.com/album/5hbYxEi54eDB3p6JwxNy5K) | 3:37 | 2021-12-16 | 2022-07-28 |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2022-07-26 |  |
 | [Dumb Love](https://open.spotify.com/track/4fDcbHuBbX9qlNSQWnkrHw) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/63uSlSJaewoSllkYvfGsMf) | 4:42 | 2021-12-16 | 2022-07-29 |
+| [Easier Said Than Done](https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 2:54 | 2023-04-25 |  |
 | [Easier Said Than Done](https://open.spotify.com/track/7dIPEjXoxkhmNR9S7EQVJ0) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 2:54 | 2022-09-08 | 2023-04-30 |
 | [Easy](https://open.spotify.com/track/3Nu0fJTengky63bpIRXWuo) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 3:20 | 2022-07-26 | 2023-02-14 |
 | [Easy](https://open.spotify.com/track/6bPk3V91v7xEXcXBGVB2Yr) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life](https://open.spotify.com/album/5k55butHrtDJgyJjpezYsx) | 3:20 | 2022-03-30 | 2022-04-20 |
@@ -182,7 +183,7 @@
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1bTzErckylA7bBIrBfOgRI) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Hold On \(I Was Wrong\)](https://open.spotify.com/album/1sGQGH1CSRn0888zYxz8EB) | 3:43 | 2022-03-30 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/5VN2dZer45WzuaorRa242v) | [Gloria Barnes](https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L) | [Uptown \(Digitally Remastered\)](https://open.spotify.com/album/67SleiSz64OZip0649tBp6) | 2:49 | 2021-12-16 | 2022-07-29 |
 | [honey thighs](https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [honey thighs](https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC) | 4:44 | 2022-03-30 |  |
-| [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 | 2023-04-25 |  |
+| [Hospital](https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:33 | 2023-04-25 | 2023-05-07 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2021-12-16 | 2023-04-30 |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2023-04-25 |  |
 | [Hypnosis](https://open.spotify.com/track/3BnKPpfYjejXbZ3Glx0gEp) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/5c1UTJgzQTOAZ2at2cI7Aw) | 3:51 | 2021-12-16 | 2022-07-29 |

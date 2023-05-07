@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,404 likes - 80 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,489 likes - 80 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,15 +67,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 57 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
 | 58 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 |
 | 59 | [Father to Son \- 2016 Remaster](https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 3:27 |
-| 60 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 |
-| 61 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
+| 60 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 2:59 |
+| 61 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 |
 | 62 | [Renee \- 1997 Remaster](https://open.spotify.com/track/5UUk3itO5nvah4Ngd9CW5X) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 6:22 |
 | 63 | [Nightporter \- Remastered 2003](https://open.spotify.com/track/5Wj1LsuKos3wyQNnWZqJTz) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Gentlemen Take Polaroids](https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW) | 6:59 |
 | 64 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
 | 65 | [I Go to Sleep \- 2018 Remaster](https://open.spotify.com/track/6nIJU23VH8pHw8xPEqFHX7) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders II \(Deluxe Edition\)](https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB) | 2:56 |
 | 66 | [White Eagle \- 1995 Remaster](https://open.spotify.com/track/5NNSddZXHgTFSbH2cUaH3Y) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [White Eagle](https://open.spotify.com/album/2A0SJoM4mCeUrnnahHLNOw) | 4:34 |
-| 67 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
-| 68 | [Two Faces](https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 3:00 |
+| 67 | [Two Faces](https://open.spotify.com/track/0ZeQYobHf2kr2fkZOjhfWH) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Tunnel Of Love](https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq) | 3:00 |
+| 68 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
 | 69 | [Sweetest Smile \- Extended Version](https://open.spotify.com/track/5tew2YDhxcjh6RAdgxVt4Q) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 5:19 |
 | 70 | [Private Investigations](https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Love Over Gold](https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5) | 6:46 |
 | 71 | [Over the Hillside](https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 5:04 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 77 | [From a Late Night Train](https://open.spotify.com/track/0rbTIpiUPIRzqn3jJpghNr) | [The Blue Nile](https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM) | [Hats](https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv) | 3:59 |
 | 78 | [Nostalgia](https://open.spotify.com/track/6VE9G8pJgrdZQTuu9ElNgn) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Brilliant Trees \(Remastered 2003\)](https://open.spotify.com/album/5YIZcFDFKpUrcqviez8QWn) | 5:42 |
 | 79 | [Almost Blue](https://open.spotify.com/track/4xRnzruHzWObdNdjAOW4vL) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Imperial Bedroom](https://open.spotify.com/album/1pK8MLyjgvt8pNVkQCBnSg) | 2:47 |
-| 80 | [Apostle \- Single Version;2005 Remastered Version](https://open.spotify.com/track/45hID6chbEjbNkXalKSx0B) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [Kolors \(Bonus Track Edition\)](https://open.spotify.com/album/4i4FQZa3AtMk7J7KPRFLWH) | 3:52 |
+| 80 | [Contacting My Angel](https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:58 |
 
-Snapshot ID: `MCxhYjIwOGY1YTJiOGNjNzE4ZjI5OGEyYWI3Nzg0YjFiNGFjODRlNmM2`
+Snapshot ID: `MCw2NzcxNzlhMTAzNGYyMDJjNTMyNWFkODRiZjk0YjA1MjU2NjcxMmYz`

@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-219 songs - 17 hr 29 min
+220 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Requiem](https://open.spotify.com/track/1NFDuSokDMAiE4iRuac5sl) | [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Headwaters](https://open.spotify.com/album/4zw3XeZ8dDXuUDcd1flLtl) | 12:27 | 2022-11-11 | 2023-02-18 |
 | [Resolve](https://open.spotify.com/track/3uIVrCIl65nlhaFL80bt2N) | [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Resolve](https://open.spotify.com/album/3zg1VuUxrTaOtItzW5pzE9) | 3:09 | 2022-03-17 | 2022-07-28 |
 | [rest](https://open.spotify.com/track/1bu0i3ZkCVYTTQhBywwJWK) | [Hugar](https://open.spotify.com/artist/0bdJp8l3a1uJRKe2YaAcE9) | [Rift](https://open.spotify.com/album/3yUd4JMvrDdFwiFJo6Aly8) | 2:53 | 2022-03-30 | 2023-03-18 |
-| [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 |  |
+| [Returning After Leaving](https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:11 | 2023-03-16 | 2023-05-07 |
 | [Rintocco](https://open.spotify.com/track/5su2UU0bULk5kcpZtaWeE3) | [Fools](https://open.spotify.com/artist/79nlYDq7D71uO2A3NU0YAl) | [Fools' Harp, Vol\. 1](https://open.spotify.com/album/1yDu2ypRHg38PJ3yxWPklf) | 4:14 | 2022-03-17 | 2023-01-28 |
 | [Scraping Bottom](https://open.spotify.com/track/4Ogz3gT1fLa1QbJEqRQhWM) | [Erick McNerney](https://open.spotify.com/artist/6XyrTf4egAUHQaGGZCOFIF) | [Music For Runways](https://open.spotify.com/album/3HkSJaQqyYXS5FYiMG6B2t) | 10:36 | 2022-03-17 | 2022-07-26 |
 | [Sea Kaleidoscope](https://open.spotify.com/track/3ARFPSPw3Mhx0Lr0kajzBd) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [Waves Tapes](https://open.spotify.com/album/3iLe9TqutnZJAnaeT4Y2a6) | 6:47 | 2022-07-08 |  |
@@ -225,6 +225,7 @@
 | [XI](https://open.spotify.com/track/6XjpafgvNltjXJzvnPIauV) | [Hiroshi Ebina](https://open.spotify.com/artist/6oMHfG0yqLOcbPn4abPFIx), [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Circle](https://open.spotify.com/album/5KMGm1fqywv05tCAJKjWwe) | 4:27 | 2022-07-08 |  |
 | [Zero Gravity](https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX) | [Rippling](https://open.spotify.com/artist/4TqiKIyB4xErPAwK4oynTG), [CONNXCT](https://open.spotify.com/artist/0KxtmUPKJe0Rz1TWFaSb4B), [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Zero Gravity](https://open.spotify.com/album/7E8OVvnwnsAAhyiYrrRBox) | 2:39 | 2022-05-06 |  |
 | [Zkoumání duše, Pt\. 2](https://open.spotify.com/track/7fbJJEWelteCwXXACq98ZC) | [Relaxační Hudební Zóna](https://open.spotify.com/artist/7j40NtGJmeq7zorchjvy22), [Relaxační Zvuky](https://open.spotify.com/artist/3jgrS4bj9w1isq1WOAmj7z) | [Zkoumání duše](https://open.spotify.com/album/4gokAFXPBSeCmpL6aJnFz3) | 1:42 | 2022-05-25 | 2023-03-18 |
+| [恋の予感](https://open.spotify.com/track/3ysYqlfJFsqmt5ip28ZwUl) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [Wander Into](https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa) | 2:48 | 2023-04-28 |  |
 | [恋の予感](https://open.spotify.com/track/7ow2eDOKlvYeNcJ49Zjw6E) | [Ann Annie](https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG) | [wander into](https://open.spotify.com/album/7rn87vOFTsDSk64o8gbL21) | 2:48 | 2022-05-18 | 2023-05-05 |
 | [着物](https://open.spotify.com/track/3u2q61kd8RfpwonVonsPw5) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [ロストエデンへのパス](https://open.spotify.com/album/6IjPpVn9OlOmcfs9en8XRA) | 4:24 | 2023-02-17 |  |
 

@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
@@ -4254,6 +4254,24 @@
       "duration_ms": 240624,
       "name": "Counting On Me (feat. Aloe Blacc)",
       "url": "https://open.spotify.com/track/4bfsh2HD0o5ghyqhddDR9v"
+    },
+    {
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "album": {
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-14",
+      "date_removed": null,
       "duration_ms": 230413,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/1vnnXMrBeEWiRg3YCMCjQq"
@@ -4978,7 +4996,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 230680,
       "name": "DNCE",
       "url": "https://open.spotify.com/track/2qTPEvJeijDPmmTbU5O5i5"
@@ -7422,7 +7440,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 198973,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
@@ -10774,7 +10792,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 202480,
       "name": "Kissing Strangers",
       "url": "https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU"
@@ -11320,7 +11338,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 217733,
       "name": "Let's Get It Started - Spike Mix",
       "url": "https://open.spotify.com/track/4hfIVhq0F0zFUcrbecsYmo"
@@ -13364,7 +13382,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 209320,
       "name": "New Rules",
       "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
@@ -14288,7 +14306,7 @@
       ],
       "date_added": "2021-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 193400,
       "name": "Pay My Rent",
       "url": "https://open.spotify.com/track/3raTxbibtTZruSHwldoVO9"
@@ -14944,7 +14962,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/0am001WwFBVGDGLwRh3ixi"
@@ -16026,7 +16044,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 219200,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
@@ -19490,7 +19508,7 @@
       ],
       "date_added": "2020-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -20398,7 +20416,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
@@ -20622,7 +20640,7 @@
       ],
       "date_added": "2021-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"

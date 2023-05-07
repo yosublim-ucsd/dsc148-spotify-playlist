@@ -574,10 +574,28 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 337936,
       "name": "E-Motion",
       "url": "https://open.spotify.com/track/0zSqBdPMlyyY5AdBTne3uW"
+    },
+    {
+      "album": {
+        "name": "Ctrl Alt Reality",
+        "url": "https://open.spotify.com/album/5F0bBciZ5Y1AYvsByemmpS"
+      },
+      "artists": [
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337936,
+      "name": "E-Motion",
+      "url": "https://open.spotify.com/track/3hynATQ1Mrfz5G3DyIndbq"
     },
     {
       "album": {

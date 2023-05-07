@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 231354,
+  "num_followers": 231783,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODM2NWYwMzhkOWNkZTE0YTQ4OWYxY2M2OThiMWI3YmE5OWJhYWM4",
+  "snapshot_id": "MCwzNjFlZmVlZTMzODE0N2QzMDFiNzU1MzVlMTJjYmI5MTU5YTA5ZmI3",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -487,18 +487,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
+      "duration_ms": 175400,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -535,18 +535,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 175400,
-      "name": "La Farsante",
-      "url": "https://open.spotify.com/track/1o0tPc9qFFFuGK4ka2IkCp"
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -563,22 +563,6 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -615,6 +599,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Lo Mejor De Nosotros",
         "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
       },
@@ -647,18 +647,34 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
+      "duration_ms": 204533,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -675,22 +691,6 @@
       "duration_ms": 252440,
       "name": "La Gran Se\u00f1ora",
       "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Los Boleros Morunos Solis",
-        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Esclavo y Amo",
-      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -727,18 +727,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+        "name": "Los Boleros Morunos Solis",
+        "url": "https://open.spotify.com/album/5fJVD81W2XvK9a2IBHyEjq"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
+      "duration_ms": 177013,
+      "name": "Esclavo y Amo",
+      "url": "https://open.spotify.com/track/6FdA99MiSW1e18f2vEAx27"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 175106,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Besos Y Copas",
-      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -999,18 +999,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4"
+      "duration_ms": 178813,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "La Mitad Que Me Faltaba",
+      "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Javier Solis Con Acoo De Mariachi",
         "url": "https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn"
       },
@@ -1127,6 +1143,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Siempre Estoy Pensando En Ti",
+        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 159573,
+      "name": "Esta Noche Voy a Verla",
+      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
@@ -1143,22 +1175,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "La Mitad Que Me Faltaba",
-      "url": "https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
         "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 128400,
       "name": "Libro Abierto",
       "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Siempre Estoy Pensando En Ti",
-        "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 159573,
-      "name": "Esta Noche Voy a Verla",
-      "url": "https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "16 Exitos De Oro",
-        "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Asi Te Quiero - Con Mariachi",
-      "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "30 Grandes De Infante",
         "url": "https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 203573,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Asi Te Quiero - Con Mariachi",
+      "url": "https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16"
     },
     {
       "added_at": "2022-08-31 15:59:33",

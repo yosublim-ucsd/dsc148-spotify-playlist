@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,356 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,403 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 18 | [Siento por Ciento](https://open.spotify.com/track/5h3at89Zr0tv2AKaL8oXMC) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Siento por Ciento](https://open.spotify.com/album/1mqgokTnTTkTMjZQ86V0g1) | 2:54 |
 | 19 | [Lo Hice, Te Dejé](https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 3:06 |
 | 20 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
-| 21 | [Serenatas Frente al Mar](https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Serenatas Frente al Mar](https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie) | 3:17 |
-| 22 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
+| 21 | [Tan Difícil de Entender](https://open.spotify.com/track/2KkQ9qiUzA7SHwCadQtI8u) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Tan Difícil de Entender](https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd) | 2:05 |
+| 22 | [Serenatas Frente al Mar](https://open.spotify.com/track/0MSHtsPSWj05pXPrOHaayV) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Serenatas Frente al Mar](https://open.spotify.com/album/1aNtzgFUvrz4xSASabxeie) | 3:17 |
 | 23 | [Como Antes](https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Como Antes](https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V) | 3:16 |
 | 24 | [Eucalipto](https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Un Día A La Vez](https://open.spotify.com/album/4kcxAdBocSXh8pz7fSqFXJ) | 2:40 |
 | 25 | [Luna Llena](https://open.spotify.com/track/20A1JcPTZK3yaTNKXn08O9) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/3RdOl7kpv8eExyjI9YhANs) | 3:07 |
 | 26 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
-| 27 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
+| 27 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 |
 | 28 | [Volero](https://open.spotify.com/track/02QLmfHOTdKBha0QzK6Axv) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 3:11 |
 | 29 | [Ojitos de Aceituna](https://open.spotify.com/track/0Gwk4OQjtkHFHqrSzMQXYb) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:47 |
 | 30 | [Un Chingo](https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb) | [Carlos Neda](https://open.spotify.com/artist/05zc3wphPHwr407CCUbSk9) | [Un Chingo](https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT) | 2:57 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 33 | [Llevame](https://open.spotify.com/track/7r6ZLHbjUIESNz0M6M0J6V) | [Bruno Romano](https://open.spotify.com/artist/5X0LwOlzNqPulEOFm9hH1k), [Thiago Muller](https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi) | [Llevame](https://open.spotify.com/album/3s6hO91PWJOGhkM0tAPzHK) | 3:34 |
 | 34 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 35 | [Todo contigo](https://open.spotify.com/track/6syVXJ8MF5axHLZ6A1TGMn) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Todo contigo](https://open.spotify.com/album/3ao3IZ5b6UH0WnD60tW5Vt) | 3:19 |
-| 36 | [La Peninsula](https://open.spotify.com/track/5OtvhDI7MTXUNJD4bd4RhZ) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Carita Feliz](https://open.spotify.com/album/6UJu3BPFmTGvzclsV8k4bI) | 3:00 |
+| 36 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
 | 37 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 38 | [Brasil](https://open.spotify.com/track/61D9YBbXp4rkZi7vI9mIwf) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:50 |
 | 39 | [I Fall In Love Too Easily](https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1) | [Cande y Paulo](https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1) | [Cande y Paulo](https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 49 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
 | 50 | [tensión](https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw), [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [tensión](https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX) | 3:07 |
 
-Snapshot ID: `MCw3YzMwOWIzMTg5NjlmNTUwMjIyMTI1MGE3ZGU5MjNmOTBmMDE0MDUx`
+Snapshot ID: `MCxkYjVhOWQ0OWE4NGE5MjExNGY0NjQ2MTUyYjY2YzVmMTJjMDRkN2I1`

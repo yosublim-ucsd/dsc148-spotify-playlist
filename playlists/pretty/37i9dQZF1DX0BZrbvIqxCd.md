@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,003 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,081 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 42 | [Broken Bones](https://open.spotify.com/track/3F3WJuZLS5I5aOcQLCbMGK) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The General Strike](https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw) | 3:01 |
 | 43 | [Coffee Talk](https://open.spotify.com/track/7wXays9vrRN3i4wBpBYb2d) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Old Bones](https://open.spotify.com/album/56SkNHaKkz6DlQygFvbEWV) | 2:54 |
 | 44 | [I Don’t Want To Be Here Anymore](https://open.spotify.com/track/6qtg4gz3DhqOHL5BHtSQw8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Black Market](https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC) | 3:59 |
-| 45 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
-| 46 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 |
+| 45 | [All My Friends Are Nobodies](https://open.spotify.com/track/3xhvI8X8PGCKuKd49ZyFNJ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:03 |
+| 46 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 47 | [The Afterglow](https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Dead Reflection](https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB) | 3:08 |
 | 48 | [The Separation of Church and Skate](https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [War on Errorism](https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV) | 3:09 |
 | 49 | [Gasoline](https://open.spotify.com/track/1WhUguMtslKpiZqEbBpe4I) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Gasoline](https://open.spotify.com/album/1GCRpa2J7QPdwSRRWdKUNr) | 3:20 |
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 81 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
 | 82 | [Happy Judgement Day](https://open.spotify.com/track/4GHW4tzEf6OBIoyewdBnZX) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [The Peace And The Panic](https://open.spotify.com/album/76NbbdvTc4yP50p5m4u9H3) | 3:33 |
 | 83 | [Get By](https://open.spotify.com/track/1rBlsNeQ1IgT3L4xdUSNY3) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:32 |
-| 84 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
-| 85 | [Gone](https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:05 |
+| 84 | [Gone](https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:05 |
+| 85 | [Never Coming Home](https://open.spotify.com/track/0yNBLz1uAyx4FCxkdkQcqf) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Retrograde](https://open.spotify.com/album/6mJvmCxB01yqOeiccLE7QU) | 3:16 |
 | 86 | [Dead and Gone](https://open.spotify.com/track/0QapunlwO9vnL5X6h4YF18) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Living Proof](https://open.spotify.com/album/1Qb73C8hC76e3R8udyit5I) | 3:11 |
 | 87 | [Strange Love](https://open.spotify.com/track/1y9AS8gXPuF8sn3K6Awbyb) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 2:31 |
 | 88 | [So Poetic](https://open.spotify.com/track/731SSWCEANBXRq1KqDuQGE) | [Sundressed](https://open.spotify.com/artist/0KlYEaj5sigNA1iixOstiH) | [Sundressed & Nominee](https://open.spotify.com/album/1UrqgK31uHFp35o2spqTgE) | 3:07 |
 | 89 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
 | 90 | [From The Outside](https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:05 |
 | 91 | [We’re Not Alright](https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:55 |
-| 92 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 |
-| 93 | [Kids](https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV) | 3:30 |
-| 94 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
-| 95 | [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 |
-| 96 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
-| 97 | [My Town](https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sticky](https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV) | 2:44 |
+| 92 | [Want Me Around](https://open.spotify.com/track/1hWlZxzZWiXRkQy7ywSAmh) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Shapeshifter](https://open.spotify.com/album/1ljgNdyFCcnQxAbzejZrax) | 3:31 |
+| 93 | [One in a Million](https://open.spotify.com/track/4MpXaXYhkGMw4gt3ZlS7sQ) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Afterburner](https://open.spotify.com/album/7MfryRchXoNRwG5YbbDL1S) | 3:41 |
+| 94 | [Kids](https://open.spotify.com/track/6Dgix2xCbnqigfrjulm24R) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV) | 3:30 |
+| 95 | [Hotel Beds](https://open.spotify.com/track/4HvBQhvil6T5ISq1qr5u03) | [We Were Sharks](https://open.spotify.com/artist/5VJPxda81cx3ZGltjWM36I) | [Lost Touch](https://open.spotify.com/album/768qzd6dkobekdNcDtw8np) | 2:34 |
+| 96 | [My Town](https://open.spotify.com/track/5GgWSPOy9j3vbcfXmUTbA7) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc), [Joe Talbot](https://open.spotify.com/artist/1Gh0mTt3Nt7AeLwWhpJY4R) | [Sticky](https://open.spotify.com/album/6U3qLDX1lXysYs3587iVOV) | 2:44 |
+| 97 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 98 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 |
 | 99 | [Playing Fiction](https://open.spotify.com/track/2aG7MPedIAt6k66Q2BBaHT) | [ROAM](https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq) | [Great Heights & Nosedives](https://open.spotify.com/album/37i1BfSo4FQMHtR7zzQpBx) | 2:40 |
 | 100 | [Burn It Down](https://open.spotify.com/track/7vUeM6Bftbd4wBSml0KffV) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/4orRroMtRrVGnlpheJbuap) | 3:10 |
 
-Snapshot ID: `MCw0YjY4NWQ3NjVlNjg1NWRmYTdmZWUwNTNiN2YwZmI5NDNkNTNhZThl`
+Snapshot ID: `MCxjMzA3NGQ4NmY0NGZkMmE4ZjkzYThjMzZhZDE5M2I0N2M0NmZkM2E3`

@@ -4033,6 +4033,24 @@
     },
     {
       "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187693,
+      "name": "Hollywood Baby",
+      "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
+    },
+    {
+      "album": {
         "name": "Hollywood Baby",
         "url": "https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N"
       },
@@ -4044,7 +4062,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU"
@@ -4472,6 +4490,24 @@
     {
       "album": {
         "name": "I'm A Star",
+        "url": "https://open.spotify.com/album/5v9GRQGPIWdqfZr3XC9NFf"
+      },
+      "artists": [
+        {
+          "name": "Sarah Wolfe",
+          "url": "https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "I'm A Star",
+      "url": "https://open.spotify.com/track/3Vkh7zr3FM9SyHtZLCIYG1"
+    },
+    {
+      "album": {
+        "name": "I'm A Star",
         "url": "https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7"
       },
       "artists": [
@@ -4482,7 +4518,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 199666,
       "name": "I'm A Star",
       "url": "https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9"

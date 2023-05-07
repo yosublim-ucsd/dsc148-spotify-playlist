@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 2000s. Cover: Shakira. ",
-  "num_followers": 756083,
+  "num_followers": 757551,
   "original_name": "Party Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDllM2M0M2NlNjJmNzEyMjVmNjlmNDhmZDZkNWI2OTY2NWFjY2Q5",
+  "snapshot_id": "MCxlOTcwM2UwMzY2NTJmOTUzNzViZDViMWEzYjFhOWE1Mzg2NDJhODZj",
   "tracks": [
     {
       "added_at": "2022-01-10 11:24:52",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "Konvicted",
         "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 212360,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 207626,
       "name": "Gold Digger",
       "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Hotel Room Service",
-      "url": "https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/4RaAjieYFIZRF8uh6GY43r"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Hotel Room Service",
+      "url": "https://open.spotify.com/track/0OPyDgTRuIdCJ9B4bYSths"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2039,26 +2039,18 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "The Cookbook",
-        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
       "artists": [
         {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Fatman Scoop",
-          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
         }
       ],
-      "duration_ms": 226863,
-      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
-      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2079,6 +2071,30 @@
       "duration_ms": 204798,
       "name": "Love Generation - Radio Edit",
       "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2115,22 +2131,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -2143,6 +2143,22 @@
       "duration_ms": 221226,
       "name": "Love Don't Cost a Thing",
       "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Stamp!",
+        "url": "https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 197961,
+      "name": "Stamp On The Ground",
+      "url": "https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2183,22 +2199,6 @@
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Stamp!",
-        "url": "https://open.spotify.com/album/7MbWoZrF41CMAzeUZdS8In"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 197961,
-      "name": "Stamp On The Ground",
-      "url": "https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Independent Women, Pt. 1",
+      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/4cFoiStUR2uBHKKZUWtaBG"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 211893,
       "name": "Sexbomb",
       "url": "https://open.spotify.com/track/7GHKA8GIMcND6c5nN1sFnD"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Independent Women, Pt. 1",
-      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2551,30 +2551,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Tell Me Why",
         "url": "https://open.spotify.com/album/7lmGSzQRrvXvvvghZoYZkn"
       },
@@ -2595,6 +2571,30 @@
       "duration_ms": 173866,
       "name": "Tell Me Why - Radio Edit",
       "url": "https://open.spotify.com/track/4yhGkvdYU5bi4950r80FRo"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/4HSAJpNocVNJbwbQvtCMdO"
     },
     {
       "added_at": "2022-01-10 11:24:52",

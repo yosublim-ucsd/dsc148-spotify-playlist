@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 15507,
+  "num_followers": 15516,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmM5ODk3Y2M3Zjg1OTIxNmUxODJlZGM3OTY5MzBhM2ViMzEyZTRj",
+  "snapshot_id": "MCxiMjAxMWE3ZWI5ODY0NDM3OGM2Yzg2YWRkZmE1Y2MyM2FjMzE2YmZh",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tesoros De Coleccion - Libertad Lamarque",
-        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
-      },
-      "artists": [
-        {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Tango Negro",
-      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Toda Mi Vida",
         "url": "https://open.spotify.com/album/17AJEwOMBmI6xhykdOBCI7"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 248613,
       "name": "Garganta Con Arena",
       "url": "https://open.spotify.com/track/6BjIumHEDyRxgocfAfwsXL"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tesoros De Coleccion - Libertad Lamarque",
+        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "Tango Negro",
+      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
-        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+        "name": "Azsulado",
+        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Alicia Vignola",
+          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
         }
       ],
-      "duration_ms": 156155,
-      "name": "El d\u00eda que me quieras - Remastered",
-      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
+      "duration_ms": 196373,
+      "name": "Mujer ni\u00f1a y amiga",
+      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Azsulado",
-        "url": "https://open.spotify.com/album/3YZFCJZ5FkaEMD8GECpmlM"
-      },
-      "artists": [
-        {
-          "name": "Alicia Vignola",
-          "url": "https://open.spotify.com/artist/7smQzOdgz8Lzw1l8ImVC5A"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Mujer ni\u00f1a y amiga",
-      "url": "https://open.spotify.com/track/5jgUP4aEL9GXBxIF7IqNt7"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/4kZ4AWQQdI7rKNBgDizWqi"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 286093,
       "name": "Adios Nonino",
       "url": "https://open.spotify.com/track/3WMFRGhYLFyJXlgzCAe9Eo"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Tangos Inmortales de Libertad Lamarque (Remastered)",
+        "url": "https://open.spotify.com/album/5iq55ODBLnuVtHr0SX5AJR"
+      },
+      "artists": [
+        {
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+        }
+      ],
+      "duration_ms": 156155,
+      "name": "El d\u00eda que me quieras - Remastered",
+      "url": "https://open.spotify.com/track/02TbTxbu4H9heTFaXe3iVQ"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tal Vez Ser\u00e1 Su Voz",
-        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 265679,
-      "name": "Tal vez ser\u00e1 su voz",
-      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
-    },
-    {
-      "added_at": "2022-07-08 03:00:00",
-      "album": {
         "name": "Ofrenda Gaucha: Valsecito Amigo",
         "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
       },
@@ -879,6 +859,22 @@
       "duration_ms": 165637,
       "name": "Rosas de Oto\u00f1o",
       "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+    },
+    {
+      "added_at": "2022-07-08 03:00:00",
+      "album": {
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        }
+      ],
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -967,18 +963,22 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Tiempo Mariposa",
-        "url": "https://open.spotify.com/album/5nTp3qal7e64coF2pnjS7P"
+        "name": "Tal Vez Ser\u00e1 Su Voz",
+        "url": "https://open.spotify.com/album/21lhlABIcVCeYgPTGLLbnW"
       },
       "artists": [
         {
-          "name": "Elena Roger",
-          "url": "https://open.spotify.com/artist/3i3ZiJGsP5tkz69ad7Mbie"
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
         }
       ],
-      "duration_ms": 249481,
-      "name": "O Mundo",
-      "url": "https://open.spotify.com/track/5PcNboFYzIcbgOjNhSzMgX"
+      "duration_ms": 265679,
+      "name": "Tal vez ser\u00e1 su voz",
+      "url": "https://open.spotify.com/track/2n3xDZaKxi6ntTB8IdX5mZ"
     }
   ],
   "unique_name": "Mujeres del Tango",

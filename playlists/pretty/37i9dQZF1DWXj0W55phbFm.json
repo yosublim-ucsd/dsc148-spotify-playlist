@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 30593,
+  "num_followers": 30631,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYjk2NDk4NDI2MDQwMzZlYTVkZThhZjQ0NGYwMTAxMGJiNmJkNjdh",
+  "snapshot_id": "MCwzZWMxYjA5YzY3YTUyNzA0YjZlYmVkNmMyNTdkMWM3MWY0MTMyM2Nk",
   "tracks": [
     {
       "added_at": "2023-05-04 09:34:03",
@@ -231,18 +231,22 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Blue Haze",
-        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
       },
       "artists": [
         {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Earl Hines",
+          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
         }
       ],
-      "duration_ms": 233333,
-      "name": "Tune-Up",
-      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
+      "duration_ms": 164973,
+      "name": "Weather Bird",
+      "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -263,22 +267,18 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+        "name": "Blue Haze",
+        "url": "https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Earl Hines",
-          "url": "https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr"
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
         }
       ],
-      "duration_ms": 164973,
-      "name": "Weather Bird",
-      "url": "https://open.spotify.com/track/3xCM9RLOLPIze3YDbjDi17"
+      "duration_ms": 233333,
+      "name": "Tune-Up",
+      "url": "https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Here Comes Louis Smith (Remastered)",
         "url": "https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 402546,
       "name": "Ande - Remastered 2007 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0y7Kq44w77MKS0LbpTSBqK"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Buoyancy",
-        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Gilimanuk",
-      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "The Great Pretender",
         "url": "https://open.spotify.com/album/1oVcKNbKOPPJOixb4Wfl9Q"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 435066,
       "name": "Rios Negroes",
       "url": "https://open.spotify.com/track/4oBHXN2elAXMAoFPAejMt4"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Buoyancy",
+        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Gilimanuk",
+      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -967,54 +967,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
-      },
-      "artists": [
-        {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
-        }
-      ],
-      "duration_ms": 148573,
-      "name": "Sweet Sue (Just You)",
-      "url": "https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Daylight Express",
-        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Towards Language",
-        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 336138,
-      "name": "Groundswell",
-      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Gnu High",
         "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
       },
@@ -1039,6 +991,54 @@
       "duration_ms": 358760,
       "name": "Smatter",
       "url": "https://open.spotify.com/track/38ywfRlqUclNcqCjCUINJt"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Sweet Sue (Just You)",
+      "url": "https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Towards Language",
+        "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 336138,
+      "name": "Groundswell",
+      "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Daylight Express",
+        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 303522,
       "name": "Con Alma",
       "url": "https://open.spotify.com/track/3cJZT2monFlaNCgXvuDQwZ"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
+        "name": "Woody III",
+        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
+      },
+      "artists": [
+        {
+          "name": "Woody Shaw",
+          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Organ Grinder",
+      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
         "name": "Hard Talk (Live)",
         "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 363360,
       "name": "Russian Melody",
       "url": "https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Woody III",
-        "url": "https://open.spotify.com/album/24H0lq7ZAAcPcK5aYRpQq7"
-      },
-      "artists": [
-        {
-          "name": "Woody Shaw",
-          "url": "https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Organ Grinder",
-      "url": "https://open.spotify.com/track/5taZCF2wNGymtrOpx6VZsu"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "A Rift In Decorum: Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
-      },
-      "artists": [
-        {
-          "name": "Ambrose Akinmusire",
-          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
-        }
-      ],
-      "duration_ms": 337893,
-      "name": "Response - Live",
-      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 322164,
       "name": "Well You Needn't",
       "url": "https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "A Rift In Decorum: Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb"
+      },
+      "artists": [
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "duration_ms": 337893,
+      "name": "Response - Live",
+      "url": "https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Presenting Muggsy Spanier",
-        "url": "https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih"
-      },
-      "artists": [
-        {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
-        }
-      ],
-      "duration_ms": 176362,
-      "name": "Tin Roof Blues",
-      "url": "https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Payton's Place",
         "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 429666,
       "name": "Concentric Circles",
       "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Presenting Muggsy Spanier",
+        "url": "https://open.spotify.com/album/0IStfKG8KwvvniN0ZtLWih"
+      },
+      "artists": [
+        {
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+        }
+      ],
+      "duration_ms": 176362,
+      "name": "Tin Roof Blues",
+      "url": "https://open.spotify.com/track/2GqL5oG0uFfZeY9ajPYxOv"
     },
     {
       "added_at": "2023-05-04 09:34:03",

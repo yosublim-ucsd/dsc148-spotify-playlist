@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,734 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,742 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 38 | [London Rain \(Nothing Heals Me Like You Do\)](https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Songs from Dawson's Creek](https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd) | 3:50 |
 | 39 | [Wayne](https://open.spotify.com/track/5RCyu62J9pk1PqgFfCxgn8) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ) | 4:45 |
 | 40 | [apparitions](https://open.spotify.com/track/6H7bfOGDhdJB5ejjFMWUTz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/7ljqmefDOpPyqYswrk6Uc4) | 5:12 |
-| 41 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 |
-| 42 | [Remote Control](https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg) | 3:39 |
+| 41 | [Remote Control](https://open.spotify.com/track/5LXEcEwE3KL85Z9ypvfrFt) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/1deNw0nPi8acj425xdUmsg) | 3:39 |
+| 42 | [Push](https://open.spotify.com/track/2qWEbBusFleCxKGTVaKEhZ) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/5QcdaEgknPDT2CwsQ3fKMn) | 3:50 |
 | 43 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 |
 | 44 | [End Of The World](https://open.spotify.com/track/7MMfLNp2UYwj9jMWi6elal) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/5QuBHgoCMFaH1Jlp3HcTe2) | 2:45 |
 | 45 | [12 Years Old](https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly) | [Kim Stockwood](https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp) | [12 Years Old](https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 49 | [O Siem](https://open.spotify.com/track/6aaboHhmMjU9ZrwiFs5UJZ) | [Susan Aglukark](https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C) | [This Child](https://open.spotify.com/album/6mP4rzVXInlSTP45xzzEXU) | 4:27 |
 | 50 | [My Definition Of A Boombastic Jazz Style \- Radio Mix](https://open.spotify.com/track/75Cz7AVd6T3PHSnLoqWhh9) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [Black History Month: Funk + Hip\-Hop](https://open.spotify.com/album/0kBDIcvYaIeUrMq8JtkHV2) | 3:38 |
 
-Snapshot ID: `MCw0YTEzNmU0ZWMyNzdhMTg5MjIyYTMyNmJiZTVjNTg2NWU4OGEzM2Ri`
+Snapshot ID: `MCwzZTk4OThlZmU4NDBiOTkzNDIxZGZkYjM0NGMyMTEzZWRjYzcwNmFk`

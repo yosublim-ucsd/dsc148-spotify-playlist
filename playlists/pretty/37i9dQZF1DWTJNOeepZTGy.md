@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,100 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,140 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 7 | [Overjoyed](https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [In Square Circle](https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt) | 3:42 |
 | 8 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
 | 9 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 10 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
-| 11 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
+| 10 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
+| 11 | [I Love You](https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faithfully](https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy) | 4:27 |
 | 12 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
 | 13 | [For You](https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Kenny Lattimore](https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE) | 3:57 |
 | 14 | [Knocks Me Off My Feet](https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 45 | [I'd Give My Life For You \- Alternate Mix](https://open.spotify.com/track/1emvYBqAWFPpFUQyhBG9He) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Deluxe Edition\)](https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC) | 3:29 |
 | 46 | [Between the Sheets](https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:38 |
 | 47 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
-| 48 | [Back Together \(feat\. Rick James\)](https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Back Together \(feat\. Rick James\)](https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL) | 3:58 |
-| 49 | [No Limit](https://open.spotify.com/track/22Ixvd6v1ofmishJchJfvN) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Arrival](https://open.spotify.com/album/1Woxlek5HEVQeWQaXcJDA2) | 3:36 |
+| 48 | [No Limit](https://open.spotify.com/track/22Ixvd6v1ofmishJchJfvN) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [The Arrival](https://open.spotify.com/album/1Woxlek5HEVQeWQaXcJDA2) | 3:36 |
+| 49 | [Back Together \(feat\. Rick James\)](https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Back Together \(feat\. Rick James\)](https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL) | 3:58 |
 | 50 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 |
 
-Snapshot ID: `MCxhZjA2NTRkODExNGE0MzE3MjdjNWU4MzA0MDkzMGM0M2RiN2FjMzAw`
+Snapshot ID: `MCw5NWY1MTA4Yzc5MjdjZjhkMmU5NmRhYzg5YmE3MjY0YTYxMGY5MjBk`

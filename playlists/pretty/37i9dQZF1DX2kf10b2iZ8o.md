@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,309 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,322 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 71 | [Your Nobility](https://open.spotify.com/track/61B27d2YE1tLeSgr6VBUai) | [Kaoru Sakuraba \(CV: Yuma Uchida\)](https://open.spotify.com/artist/4gi15MhB1b1G387qfQ53uM), [Genbu Kurono \(CV: Toshinari Fukamachi\)](https://open.spotify.com/artist/5IWvN4rKghEIbXWvjzp2aS), [Kazuki Tsukumo \(CV: Tatsuya Tokutake\)](https://open.spotify.com/artist/3c4wvFNvtX55OAP2E8ssYx) | [THE IDOLM@STER SideM WORLD TRE@SURE 12](https://open.spotify.com/album/44oPjnMG6Kb3ly0IWB7R1C) | 4:06 |
 | 72 | [はんどめいど・きみはーと!](https://open.spotify.com/track/2hLA2UCmK6hS3yMDUzqXsx) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:11 |
 | 73 | [眠らぬ夜にスパシーバ!](https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO) | [Yukihiro Kamiya \(CV: Sho Karino\)](https://open.spotify.com/artist/3BIkEVhgtjHtXs1wwTtdT1), [Jiro Yamashita \(CV: Yoshiki Nakajima\)](https://open.spotify.com/artist/4zUbhdm1GyDSGMXy1K8ft5), [Chris Koron \(CV: Wataru Komada\)](https://open.spotify.com/artist/5525KflQhcAxPFnx2i2fpA) | [THE IDOLM@STER SideM WORLD TRE@SURE 09](https://open.spotify.com/album/2ISzgwWVgaMlpRy0pymmCw) | 4:18 |
-| 74 | [フェイバリットに踊らせて](https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:06 |
-| 75 | [我が混沌のサバト・マリアージュ](https://open.spotify.com/track/2mQQ2u5b2X3DRB55NeQhV2) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:45 |
+| 74 | [我が混沌のサバト・マリアージュ](https://open.spotify.com/track/2mQQ2u5b2X3DRB55NeQhV2) | [アスラン=ベルゼビュートII世 \(CV.古川 慎\)](https://open.spotify.com/artist/0dXyfHIga8f2GDhON5dcwy) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:45 |
+| 75 | [フェイバリットに踊らせて](https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx) | [水嶋 咲 \(CV.小林大紀\)](https://open.spotify.com/artist/3HPY334PCF90DN19RXzDQW) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:06 |
 
-Snapshot ID: `MCw1OWRiYzBhZDU0NzEzYzQ4MWRhYTQzNzQ0NTZkZmI2NGQ0ZjhmZjNj`
+Snapshot ID: `MCwxY2ZjNWY2NmViZDhjYmMzZjE2ODcwODFiNzkxOTEyZTdlODllYTBi`

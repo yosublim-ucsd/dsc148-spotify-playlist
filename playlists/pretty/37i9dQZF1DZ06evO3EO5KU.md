@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,844 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,880 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 50 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 |
 | 51 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAxMmUxOGRiOWViMGI0YjU3MGMyMGQ0ODY0ZmUzZTgyNQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBmMjcyZjZmNTY1NjM5MDdjOGFmYTVmNjcyYzdjMzQwMw==`

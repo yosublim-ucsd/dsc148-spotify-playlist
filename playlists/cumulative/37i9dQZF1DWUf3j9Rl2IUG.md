@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=LQYbpLmESgm81tBc0t3L9Q"> Young Jonn </a>
 
-166 songs - 7 hr 57 min
+167 songs - 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 | 2022-06-09 | 2022-12-08 |
 | [Firedncr\. \(Amapiano Remix\)](https://open.spotify.com/track/2S7qU3PHssWAaZn2rr3brR) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Firedncr\. \(Amapiano Remix\)](https://open.spotify.com/album/3NQrHzwVf6joGUVbqQ03SB) | 2:34 | 2023-03-10 | 2023-03-18 |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 |  |
+| [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-05-04 |  |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-07-04 | 2023-02-24 |
 | [Girls Just Wanna Have Funds](https://open.spotify.com/track/5hRhFIwjli51p4fAxwyqpF) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Girls Just Wanna Have Funds](https://open.spotify.com/album/339HC2ut5KYXJIBryrAgUf) | 3:35 | 2022-12-18 | 2023-01-17 |
 | [GWAGWALADA](https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [GWAGWALADA](https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc) | 3:08 | 2023-02-16 |  |
@@ -95,7 +96,7 @@
 | [Let There Be Light](https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Let There Be Light](https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b) | 2:49 | 2023-02-03 |  |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-25 | 2023-02-04 |
 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 | 2022-11-15 |  |
-| [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-23 |  |
+| [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-23 | 2023-05-07 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-06-09 |  |
 | [Love You Well](https://open.spotify.com/track/2lGE2iyLAt0ICi0zKvArWo) | [Omawumi](https://open.spotify.com/artist/3Oi8FK1mJS7rHikNfZ7uPj), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Love You Well](https://open.spotify.com/album/5FL1VuX28rK1eeDEO50ZjF) | 3:21 | 2023-04-14 | 2023-04-21 |
 | [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 | 2022-06-09 |  |

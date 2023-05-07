@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,400 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,469 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 15 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
 | 16 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 |
 | 17 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
-| 18 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
-| 19 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
+| 18 | [Priceless](https://open.spotify.com/track/7BTmtN6bP35E54vVASTqao) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:28 |
+| 19 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
 | 20 | [He Knows My Name](https://open.spotify.com/track/2lrHKMXyu8LTLxMorzJkTQ) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:27 |
 | 21 | [Breathe](https://open.spotify.com/track/3hN8RetXNOyDVhxGdkFlqA) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/5MlpCzqsff1YEgoELbodZT) | 3:33 |
 | 22 | [Overcomer](https://open.spotify.com/track/5legkLUDyq0qOg4TR7wUAs) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 79 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
 | 80 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 |
 
-Snapshot ID: `MCwzYmI1NjFiODU5MzQ2ZWM0YWIxMmQ2YmUxNjAxNzM0MzZkNjhkMzRl`
+Snapshot ID: `MCxiMGYwYjU4MWIzNDhkMDMyZGIxZDJmMGJiOTQzYTE2ZDI3YTY4ZjZi`

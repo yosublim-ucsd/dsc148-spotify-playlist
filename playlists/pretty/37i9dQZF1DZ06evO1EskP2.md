@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,278 likes - 46 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,282 likes - 46 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EskP2.md) - [plain]
 | 45 | [Underrated](https://open.spotify.com/track/4YvYEmKi5Run7jEN10Bwtu) | [Tripp Wilson](https://open.spotify.com/artist/64XlOh0rLImlemlEJQIZOz), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Underrated](https://open.spotify.com/album/5u9fVzQKIEvzI6tfmZwl4D) | 3:10 |
 | 46 | [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAxNDY5NGM2ODRhYjg5ZWYxYmM4ODc4NzUwOGM1ODkzNA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBhNzgzZjc2NzIwYTViZjgzM2I2YTQyNzk1ZTk0NTYzNQ==`

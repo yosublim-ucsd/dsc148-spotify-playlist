@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1805149,
+  "num_followers": 1806192,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWEyMGI3ZDk3YTU4OGNjOWIxOGU3ZTMxYzRjMjZhYjFkY2VhY2Q3",
+  "snapshot_id": "MCw2ODBmODZiYzgwMDQ0MjZmMTFkNGM4OGZlZDVkYWQyZDliMTk1MzUy",
   "tracks": [
     {
       "added_at": "2023-03-28 20:19:12",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Slow Reveal: Chapter One",
+        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "duration_ms": 158948,
+      "name": "The Love",
+      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Sad Hunk",
         "url": "https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 213186,
       "name": "Out of My Head",
       "url": "https://open.spotify.com/track/5LgguaX9k42ruNIHNZA6Re"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Slow Reveal: Chapter One",
-        "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
-      },
-      "artists": [
-        {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
-        }
-      ],
-      "duration_ms": 158948,
-      "name": "The Love",
-      "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Motel Mayday",
         "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 305000,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Fall, Fall, Fall",
         "url": "https://open.spotify.com/album/0EfqcyLHP03RJpNRyA1MFY"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 281180,
       "name": "Fall, Fall, Fall",
       "url": "https://open.spotify.com/track/4MEhUxj35YRT7mqMaJgcWB"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 181706,
       "name": "Go In Light (feat. Monica Martin)",
       "url": "https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Jaime",
-        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
       "artists": [
         {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 191395,
-      "name": "Stay High",
-      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+      "duration_ms": 228613,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "duration_ms": 191395,
+      "name": "Stay High",
+      "url": "https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0dsp6TeaD2da6UvQy4CZ2C"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 90227,
       "name": "Change",
       "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Bad News",
-      "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Asc. Scorpio",
+        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
+      },
+      "artists": [
+        {
+          "name": "Oracle Sisters",
+          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
+        }
+      ],
+      "duration_ms": 166601,
+      "name": "Asc. Scorpio",
+      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -1415,6 +1415,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/308prODCCD0O660tIktbUi"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1447,22 +1463,6 @@
       "duration_ms": 194053,
       "name": "October Sky",
       "url": "https://open.spotify.com/track/4YcZgvktXXqoI6WKtG7sl3"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Asc. Scorpio",
-        "url": "https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ"
-      },
-      "artists": [
-        {
-          "name": "Oracle Sisters",
-          "url": "https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1"
-        }
-      ],
-      "duration_ms": 166601,
-      "name": "Asc. Scorpio",
-      "url": "https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 157801,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Misnomer",
         "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 205493,
-      "name": "Cazadera",
-      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
+      "duration_ms": 157801,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/6xLf6gcZR4CPXrFrhzqqYu"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "Cazadera",
+      "url": "https://open.spotify.com/track/5gi3e0vVgX0Jpgnc7fhZCc"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1623,6 +1623,22 @@
       "duration_ms": 194026,
       "name": "Santa Barbara",
       "url": "https://open.spotify.com/track/4yuVmMynbF6qBDsT3w6aXy"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "The Last Exit",
+        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 235093,
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1675,22 +1691,6 @@
       "duration_ms": 204466,
       "name": "Runaway Horses (feat. Phoebe Bridgers) - Abridged",
       "url": "https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "The Last Exit",
-        "url": "https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Static",
-      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr"
     },
     {
       "added_at": "2023-03-24 04:00:00",

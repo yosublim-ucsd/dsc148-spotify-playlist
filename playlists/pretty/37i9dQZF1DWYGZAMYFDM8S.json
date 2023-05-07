@@ -1,12 +1,12 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 288155,
+  "num_followers": 288219,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTljNWYyMDc5NWZkN2ZjYjg1Y2I2M2ZlZjMxMmYyNmY4NWJlNWY0",
+  "snapshot_id": "MCxmOTQ5NmFhYWE4MDU3ZTBiMmU1MDBkZjZmOTdlNGUyZDIwNzVlOTgx",
   "tracks": [
     {
       "added_at": "2023-05-05 16:52:22",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
         "name": "Resin",
         "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 427093,
+      "name": "Love & Hate",
+      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
         "name": "Alps",
         "url": "https://open.spotify.com/album/66vF1lyJODi4318YV0RSpS"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 194160,
       "name": "Alps",
       "url": "https://open.spotify.com/track/5eG8QuQKOBvDeCyoOeMkhT"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 427093,
-      "name": "Love & Hate",
-      "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
+      },
+      "artists": [
+        {
+          "name": "Woodlock",
+          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Forever Ago",
+      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
+        "name": "Without/Within",
+        "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
       },
       "artists": [
         {
-          "name": "Woodlock",
-          "url": "https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa"
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
         }
       ],
-      "duration_ms": 282746,
-      "name": "Forever Ago",
-      "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+      "duration_ms": 304493,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1275,22 +1291,6 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
-        "name": "Without/Within",
-        "url": "https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 304493,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
+        "name": "On Hold",
+        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216252,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
         "name": "They Are Going Away",
         "url": "https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 182805,
       "name": "It'll Work Itself Out",
       "url": "https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
-        "name": "On Hold",
-        "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
       },
       "artists": [
         {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 216252,
-      "name": "Top to Toe",
-      "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+      "duration_ms": 236853,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
-        "name": "Asphalt Meadows (Acoustic)",
-        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 167022,
-      "name": "I Miss Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
         "name": "Wildewoman (Expanded Edition)",
         "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 275628,
       "name": "Two of Us On the Run",
       "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
+        "name": "Asphalt Meadows (Acoustic)",
+        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 167022,
+      "name": "I Miss Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
-        "name": "The Head And The Heart",
-        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
         "name": "In His Arms",
         "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 150186,
       "name": "In His Arms",
       "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
+        "name": "The Head And The Heart",
+        "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 264000,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/5NEitA75GDKDOET1k83LQw"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs"
     },
     {
       "added_at": "2023-05-05 16:52:22",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2023-05-05 16:52:22",
       "album": {
+        "name": "We Don't Eat EP",
+        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
+      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
+    },
+    {
+      "added_at": "2023-05-05 16:52:22",
+      "album": {
         "name": "IOWA",
         "url": "https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 275170,
       "name": "IOWA",
       "url": "https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS"
-    },
-    {
-      "added_at": "2023-05-05 16:52:22",
-      "album": {
-        "name": "We Don't Eat EP",
-        "url": "https://open.spotify.com/album/0wk8Gzx0HhV71P4IpYFsEy"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Wicked Game - Live at Killkenny Arts Festival, Ireland/2011",
-      "url": "https://open.spotify.com/track/77mT8LF6gDOLZNOjUhmwfV"
     },
     {
       "added_at": "2023-05-05 16:52:22",

@@ -4,7 +4,7 @@
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-145 songs - 8 hr 59 min
+146 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,8 +34,9 @@
 | [Come to Me](https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:45 | 2021-12-02 |  |
 | [Coming Home](https://open.spotify.com/track/2MKXUXZIViCGpoFyysFpoj) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Coming Home](https://open.spotify.com/album/0LkISpzsnv3ZIw59oYJTBl) | 3:38 | 2021-12-02 |  |
 | [Counting Stars](https://open.spotify.com/track/0oubcPxMP962JtNEfI5pVR) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Housework Hits](https://open.spotify.com/album/4t3oNFtFLHHXtJ39TBMGbc) | 4:16 | 2021-12-02 | 2022-11-13 |
+| [Counting Stars](https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 4:17 | 2022-11-17 |  |
 | [Counting Stars](https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi) | 4:17 | 2021-12-02 | 2022-07-29 |
-| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2021-12-02 |  |
+| [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2021-12-02 | 2023-05-07 |
 | [Dangerous Night](https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:19 | 2021-12-02 |  |
 | [Different Colors](https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:42 | 2021-12-02 |  |
 | [Drive By](https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [California 37](https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1) | 3:15 | 2021-12-02 |  |
@@ -53,8 +54,8 @@
 | [HOLD ME TIGHT OR DON’T](https://open.spotify.com/track/0Q9vbV7G2Q6lts13nY9YGP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:30 | 2021-12-02 |  |
 | [Hymn for the Weekend](https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:18 | 2021-12-02 |  |
 | [I Bet My Life](https://open.spotify.com/track/0ct0vSOkP0IZnbPGiDltCR) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6rRFeV6xigfNyPoZ6YqcoW) | 3:12 | 2021-12-02 | 2022-07-29 |
-| [I Lived](https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:54 | 2021-12-02 | 2022-07-29 |
-| [I Lived](https://open.spotify.com/track/7D49Iig0avHre9RFSUMkd2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:54 | 2021-12-02 |  |
+| [I Lived](https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7) | 3:54 | 2021-12-02 |  |
+| [I Lived](https://open.spotify.com/track/7D49Iig0avHre9RFSUMkd2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:54 | 2021-12-02 | 2023-05-07 |
 | [I Lived](https://open.spotify.com/track/2ffarBWJ1m6HxGKj5dwl5W) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Graduation Hits](https://open.spotify.com/album/3BpPiDRCKON5J2weVGCocW) | 3:55 | 2021-12-02 | 2022-11-13 |
 | [I'm Born To Run](https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [What We Live For](https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW) | 3:26 | 2021-12-02 |  |
 | [Irresistible](https://open.spotify.com/track/5PqyTNKqLPDeCIYaNkrcPn) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Irresistible](https://open.spotify.com/album/77mrabD6LXV239MyXQqXiI) | 3:25 | 2021-12-02 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-231 songs - 11 hr 8 min
+232 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Ni får aldrig in mig där](https://open.spotify.com/track/6SYznjcNBTzWkyfJuolhfa) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Tjugo](https://open.spotify.com/album/1c86hf60yWW0pBqfIHV2Np) | 2:59 | 2021-12-14 | 2023-03-26 |
 | [När Världssamvetet Tog Semester](https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:20 | 2021-12-14 |  |
 | [Någon form av svar](https://open.spotify.com/track/0Pkr9VNDGK0NUsVXJafmv9) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/09qtUDDsf4gRO4NST7QNkJ) | 3:39 | 2021-12-14 | 2022-07-29 |
-| [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 | 2021-12-14 |  |
+| [Någon form av svar](https://open.spotify.com/track/1stF6GJvw36GjBrVnJmW7t) | [Crash Nomada](https://open.spotify.com/artist/67jps1aP8vHb99GSaT2Hkh) | [Crash Nomada](https://open.spotify.com/album/5JfnRL57adQUcl9XU57tyG) | 3:39 | 2021-12-14 | 2023-05-07 |
 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 | 2021-12-14 |  |
 | [Några Jävla Spänn](https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/0615giZlH4M0a3asFlH5vf) | 3:16 | 2021-12-14 | 2022-07-29 |
 | [OS\-Guld i höjdhopp](https://open.spotify.com/track/6jdMz8tqMfOfk3kv0MRZ5U) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [OS\-Guld i höjdhopp](https://open.spotify.com/album/7yDRXR1hWI7e7Gait9gbyF) | 1:23 | 2021-12-14 | 2022-07-28 |
@@ -180,6 +180,7 @@
 | [Sex Noll Två](https://open.spotify.com/track/2cDhN8iMlxEQPpjkcqCgQP) | [Shuvit](https://open.spotify.com/artist/1ydU8JWvSYgDkNetiiWxgM) | [Sex Noll Två](https://open.spotify.com/album/1RQDWa5oI0JVu5WUq9mxnw) | 3:29 | 2021-12-14 | 2022-07-04 |
 | [Sibirien](https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV) | [Trubbel](https://open.spotify.com/artist/6cdyHr4eKkFvA3lVDNzJ6M) | [Trubbel](https://open.spotify.com/album/3NTL8XMnO4Gp3cPZSJn58K) | 1:25 | 2021-12-14 |  |
 | [Sibylla](https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh) | 3:30 | 2021-12-14 | 2023-04-30 |
+| [Sibylla](https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw) | 3:30 | 2023-05-04 |  |
 | [Sibylla](https://open.spotify.com/track/6ooJNqBBtFy0DVTI7NFOx0) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat för folk i farten](https://open.spotify.com/album/3EfBQF4mM775dTYHvzdTqd) | 3:30 | 2021-12-14 | 2022-07-29 |
 | [Sid & Nancy](https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Sid & Nancy](https://open.spotify.com/album/1vTPxtwE62Zpjl4A23x4Fa) | 2:36 | 2021-12-14 | 2022-11-13 |
 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 | 2021-12-14 |  |

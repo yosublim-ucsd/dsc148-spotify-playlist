@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: iKON\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,186 likes - 225 songs - 12 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,304 likes - 225 songs - 12 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 224 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 225 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCw1ZDg2MzkzNmUwMGM0YTBmNGM0OTUzYTYzZjRjYWRhZTA4MWEwODk4`
+Snapshot ID: `MCw5OWYwZGI2YWE4MDAxOTI4NTdlNjAyM2M2YjY5ODU0OWYzODAwYWZi`

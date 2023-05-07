@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,133 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,645 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 27 | [El Odio De Dos Hermanos](https://open.spotify.com/track/7E9LZqiVJUtDP2yt3ysoP0) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Tesoros Musicales](https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz) | 3:01 |
 | 28 | [El Regio Traficante](https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Pueblito](https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh) | 3:21 |
 | 29 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 |
-| 30 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [15 Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
+| 30 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
 | 31 | [Rafael Caro Quintero](https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:08 |
 | 32 | [Corrido Del Gallito](https://open.spotify.com/track/3fnAObJdCiCqiSTDgrPzAZ) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [El Pela Vacas](https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw) | 3:23 |
 | 33 | [Gabino Barrera](https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:27 |
-| 34 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 |
+| 34 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [15 Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
 | 35 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 |
 | 36 | [Corrido De Lucio Vázquez \(Los Pavo Reales\)](https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq) | 2:57 |
 | 37 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 74 | [Domingo Corrales](https://open.spotify.com/track/2YhF4zGkvmoxMKfTDXN19n) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Corridos](https://open.spotify.com/album/1lbo0iXFRYTxv5RVFEDEvv) | 2:42 |
 | 75 | [El Corrido](https://open.spotify.com/track/4GS8J5N1MAprTeeW8FX8p4) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 2:27 |
 
-Snapshot ID: `MCw3N2UyNzRiMGZkYjZkNDM5ZjlkMDkyZjU4YzIzZmY5N2M4YTgwODk0`
+Snapshot ID: `MCxiZGIzODIzNGQ3ZDY4ZTBkODI2OWY0NmM5ODk2YWQ5NDljZGFiODhi`

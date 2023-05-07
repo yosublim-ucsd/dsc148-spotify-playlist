@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-275 songs - 13 hr 37 min
+276 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-06 |  |
 | [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2022-05-06 |  |
 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 | 2023-04-07 |  |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-04 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-04 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-04 |  |
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2023-03-21 |  |
 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 | 2022-05-06 |  |
 | [Runaway](https://open.spotify.com/track/19boUY253NrYTqJMh50d5X) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Runaway](https://open.spotify.com/album/6h8sC5uwBGO0Wu6EiToz6a) | 2:48 | 2022-12-02 |  |

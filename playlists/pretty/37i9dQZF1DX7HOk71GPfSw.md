@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,933 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,313 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 46 | [Save Me](https://open.spotify.com/track/7K4Qx5XjMLsgJi71uHwbmG) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [SAVE ME](https://open.spotify.com/album/2gsTzLveD0urryDTcY1Lto) | 1:51 |
 | 47 | [3 Bad](https://open.spotify.com/track/17ruwJP3zIcbcXTbnP9qbJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9) | [3 Bad](https://open.spotify.com/album/3xATCnolc2SYhSkmkXn3QU) | 2:50 |
 | 48 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
-| 49 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 49 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 50 | [crush](https://open.spotify.com/track/3cZV4gjyIpMeTkNV3CfBbm) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [crush](https://open.spotify.com/album/7lXKPK9lVPJWnvnfj2fKNr) | 2:30 |
 | 51 | [sweet dreams](https://open.spotify.com/track/7jl6zALfT0GrbJXoqj2Y7b) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [sweet dreams](https://open.spotify.com/album/2MBr2UoMvh1qAJqFWGGcck) | 2:34 |
 | 52 | [day n nite](https://open.spotify.com/track/7qjEI8v5OIK6N1ruWrgc57) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh), [syris](https://open.spotify.com/artist/5ZpX0S8FDHkArrCYqaGoYE) | [day n nite](https://open.spotify.com/album/4cYM9IgNK3xF1O4WU4S1hp) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [blank point](https://open.spotify.com/track/70qQK5Oi4Q4aCwmiC9aCsX) | [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH) | [blank point](https://open.spotify.com/album/2vmredwSZqPrwGVuqvGPkX) | 2:34 |
 | 100 | [4get](https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B) | [Delto](https://open.spotify.com/artist/1WlSGhncfBqk79KNYuTicp), [Canna](https://open.spotify.com/artist/3UQddXFBR9NoYWpcxwAYkh) | [4get](https://open.spotify.com/album/6fDcYde0k1VUiSaK5hTCc6) | 2:19 |
 
-Snapshot ID: `MCw3OGJjMjMxN2Y4NDI1ZmQxNWVhOGIwNGRhMmY4MmIzZTZkZTc3NjRi`
+Snapshot ID: `MCxiMjFiMjFhOGFjZWVlNWU5MmQwNDI1MGFjYmVlMDgzMjIzMmZmZjc2`

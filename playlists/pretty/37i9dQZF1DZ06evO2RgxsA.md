@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,794 likes - 50 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,827 likes - 50 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [Fuck Day Six](https://open.spotify.com/track/12wDhK0tBvsvj3mvmJB6OR) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:22 |
 | 50 | [Codependence Day](https://open.spotify.com/track/3poORAd5Fbx6nQp2WFizYQ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Cokie the Clown](https://open.spotify.com/album/0Ho8Jl9kBUG9HmVAdCTiNU) | 1:28 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBmNmY0ZjIyYmI3Y2ZmOGQxZTMyYzcyNGZmMmRhYzcwNw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBkMmNkNWQxZDZiNDQxY2VjMzRjYWNiZDRhYTliNTBhMw==`

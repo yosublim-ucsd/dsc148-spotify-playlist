@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 
 > This is Funeral For A Friend\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,735 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,740 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Gwh1O.md) - [plain]
 | 49 | [Waterfront Dance Club](https://open.spotify.com/track/4iWVLNcfik1T1OxfLG7KEx) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Memory and Humanity](https://open.spotify.com/album/40lhp9rQ2PHckeczn15xuP) | 4:24 |
 | 50 | [Front Row Seats to the End of the World](https://open.spotify.com/track/48nnqzcHX9m1Vr0OONtRaB) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Welcome Home Armageddon](https://open.spotify.com/album/671IkodRxbHQXE41qo7I0H) | 3:30 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBmOWM4M2MwOTMyZTY3NGJiMmFkOGFkMWVlM2IyMDQ2NA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAzOGUzZjRjNzNjNzE1MWM5NmFmNGM0ZGNjOWQzZjE1Nw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,718 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,750 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 26 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 |
 | 27 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 |
 | 28 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
-| 29 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
-| 30 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
-| 31 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 29 | [I Waited for You](https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [The Green Stone](https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22) | 3:24 |
+| 30 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
+| 31 | [Alle Snakker Sant](https://open.spotify.com/track/34gxnmqg4Nbzziv265qul7) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle Snakker Sant](https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3) | 2:48 |
 | 32 | [Lou Lou](https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [About You](https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM) | 2:08 |
 | 33 | [Modern Drift](https://open.spotify.com/track/60WIrEOVESSiwBoYy9WIMC) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Magic Chairs](https://open.spotify.com/album/5pR6D9ITIAmc5vJyu7VrYu) | 4:53 |
 | 34 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 54 | [Grey](https://open.spotify.com/track/6VVMhLXX7329EmXVwrm40I) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Grey](https://open.spotify.com/album/2hhuqUYYuwCGiGVPDFt53J) | 3:52 |
 | 55 | [The Devil's Tongue](https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 2:13 |
 | 56 | [Bluebelle Mountain](https://open.spotify.com/track/02nxCFRn4cmbfKQB4mUFP5) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right Pt\. II](https://open.spotify.com/album/6wonVPtSuwYgTjn76yMCgE) | 3:20 |
-| 57 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
+| 57 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
 | 58 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 |
-| 59 | [I Was Just Thinking](https://open.spotify.com/track/1kcTZCAV8k8CQ0LOz735Gd) | [Teitur](https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM) | [Poetry & Airplanes](https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1) | 3:31 |
-| 60 | [Buffy](https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Buffy](https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU) | 3:02 |
+| 59 | [Hunting Sky](https://open.spotify.com/track/48wE4vYe6iumDianYfUAfO) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Sumie](https://open.spotify.com/album/3MJtEuh26Rm8p8cdNemiAg) | 3:15 |
+| 60 | [The Sweetest Tune](https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte) | 3:39 |
 
-Snapshot ID: `MCw5Yjg1NjRjZDZiNTgwY2FjMjZkZjUyNTlmOTZmZDNmNGQ0MzZkYzNm`
+Snapshot ID: `MCwzODVjNzZhNjU3YmQxNDA1MjY4Mzg3NjQwMDhjODM1MTJiMzQ4ZWNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,787 likes - 273 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,834 likes - 273 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,7 +171,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 161 | [Port Blair](https://open.spotify.com/track/1jMovOA0kIWC73Xio4pdXT) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Port Blair](https://open.spotify.com/album/1URrRnZNIpkpRRVGcOJszd) | 2:34 |
 | 162 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 |
 | 163 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 |
-| 164 | [Traditional: Danny Boy](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 |
+| 164 | [Danny Boy](https://open.spotify.com/track/21Fs9UuXGoESVVESdWTxZ5) | [Xuefei Yang](https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq) | [Danny Boy](https://open.spotify.com/album/1vl3OBKPjKIeu4BhOrrPo6) | 3:32 |
 | 165 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 |
 | 166 | [Secreto a gritos](https://open.spotify.com/track/4nfhvNVF4APrKYyakiVvbJ) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Secreto a gritos](https://open.spotify.com/album/1awQz7qa436GOIuQJUsdVt) | 3:05 |
 | 167 | [Today Tomorrow Forever](https://open.spotify.com/track/72qwDpWA4CbHe3J00wT2zu) | [Michèle Courbis](https://open.spotify.com/artist/2BEY2sCSB3h4dO65KU87pv) | [Today Tomorrow Forever](https://open.spotify.com/album/57ormTTFRD4IzjobtB49RC) | 3:25 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJgU1HZwJwV.md) - [plain]
 | 272 | [Cup](https://open.spotify.com/track/2rh8t6nbYuoABlG31Mm3xX) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Cup](https://open.spotify.com/album/1nIYHMtvCKyA0JVxiF7Mns) | 2:12 |
 | 273 | [Endless Sun](https://open.spotify.com/track/5rX1CjuBtcbgVG9wthzuKx) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Endless Sun](https://open.spotify.com/album/27256ie5J0EmEgh2U8eZlf) | 1:44 |
 
-Snapshot ID: `MCxiZGQ2YTM4M2ZhZTJkODY4ZDNiMzJlNTlkZDhhM2Q5ZTA5NWExYTU5`
+Snapshot ID: `MCw3NTU0NjY3MjBhNzgwZjg2NzMxODFhZmUwNTc3ZGUxMWNjYWJjNTVh`

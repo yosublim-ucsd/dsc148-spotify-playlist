@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,107 likes - 80 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,346 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 68 | [Extended Souvenir \- 2003 Digital Remaster](https://open.spotify.com/track/3R14PSng7wtMo81cNG67Q6) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 4:16 |
 | 69 | [Don't Look Any Further \- Original 12” M+M Mix](https://open.spotify.com/track/03qJBUtJvcKKqvsySHCJHi) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Don't Look Any Further \(Expanded Edition\)](https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk) | 5:23 |
 | 70 | [Maria Magdalena \- Extended Version](https://open.spotify.com/track/5FZfFEb6seV2NzTF7SVChR) | [Sandra](https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG) | [So80s Presents Sandra \- Curated By Blank & Jones](https://open.spotify.com/album/3AZeLA6zVLTEfUCVG7fdFP) | 7:11 |
-| 71 | [Get Down On It \- Original 12" Extended Version](https://open.spotify.com/track/15K0cU9Fm55h3AAALKrc3v) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 6:05 |
-| 72 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
-| 73 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
-| 74 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/449G2rWpLD93IEhoaVE3QA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart Of Glass](https://open.spotify.com/album/0p2ETkPfqNn7pUyDJHBjlO) | 5:50 |
+| 71 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/449G2rWpLD93IEhoaVE3QA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Heart Of Glass](https://open.spotify.com/album/0p2ETkPfqNn7pUyDJHBjlO) | 5:50 |
+| 72 | [Get Down On It \- Original 12" Extended Version](https://open.spotify.com/track/15K0cU9Fm55h3AAALKrc3v) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Collected](https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2) | 6:05 |
+| 73 | [Like a Virgin \- Extended Dance Remix](https://open.spotify.com/track/17WvhmXF06yquUwZjtjHsc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Like a Virgin](https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX) | 6:09 |
+| 74 | [Dr\. Beat \- Original 12" Mix](https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 6:28 |
 | 75 | [I Feel Love / Johnny Remember Me](https://open.spotify.com/track/5HgqQJMn2cwVCP34GuwQHc) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Very Best Of Jimmy Somerville, Bronski Beat & The Communards](https://open.spotify.com/album/1B167z084g8Q52jRazKLVZ) | 5:48 |
 | 76 | [Wouldn't It Be Good \- Extended 12" Remix](https://open.spotify.com/track/3sZPuU0YDXrcWLx1BruJFS) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing \(Expanded Edition\)](https://open.spotify.com/album/6jgKyQ86KXskxgAmvm5W8S) | 6:51 |
 | 77 | [Precious Little Diamond \- 12" Mix](https://open.spotify.com/track/2IilSSaVhuQLjCqlubC4qE) | [Fox the Fox](https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9) | [Collections](https://open.spotify.com/album/4zEi9uAv9KKrYTG2bLDeCT) | 5:09 |
 | 78 | [Rockit](https://open.spotify.com/track/2imFIZ1WcOHrA5IPFhVLJY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [The Best Of Herbie Hancock \- The Hits!](https://open.spotify.com/album/4zZHvc3I4GrfPIUS0UkQb3) | 5:25 |
-| 79 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
-| 80 | [Open Sesame \- Original 12" Extended Version](https://open.spotify.com/track/6byGMdwFLHl4KNAk9i7Dom) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Open Sesame \(Expanded Edition\)](https://open.spotify.com/album/1W97hgeJQ5c9DyX1PvNXXn) | 8:44 |
+| 79 | [True Blue \- The Color Mix](https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 6:36 |
+| 80 | [In Private \- 12" Version](https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Reputation & Rarities](https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81) | 7:11 |
 
-Snapshot ID: `MCxkM2VmMjRkY2U2Y2NmYzUwM2U1MjQ2OTRiYmUxODk5MDgzNjAxYjMw`
+Snapshot ID: `MCxiYWMxMzk4MGFmZjdiZDI5YjMxZjkyODk5MTdmZDQ4YzUwMzlhZjQ0`

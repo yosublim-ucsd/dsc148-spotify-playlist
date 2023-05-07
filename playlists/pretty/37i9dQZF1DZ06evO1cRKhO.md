@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 
 > This is Pauline Oliveros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395 likes - 50 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 396 likes - 50 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cRKhO.md) - [plain]
 | 49 | [Pauline's Solo](https://open.spotify.com/track/7zM9MsyzwpYErpujQMH6YQ) | [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [Earth Music: Ten Years of Meridian Music, Composers in Performance](https://open.spotify.com/album/5rrqai9kUjuhx3orXJADLi) | 4:03 |
 | 50 | [Maritime Rites: Rattlesnake Mountain](https://open.spotify.com/track/3Eg7ej0MOufgqKkFZFAu1V) | [Alvin Curran](https://open.spotify.com/artist/6ywzDJKoA3PbCiD16Vh1hI), [Pauline Oliveros](https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi) | [Alvin Curran: Maritime Rites](https://open.spotify.com/album/5LUR7Z5B0YicEPg74f5WPD) | 10:54 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA2MDM3MjY1NjliOGNlMTViNTQ1MjRmNTJhYTUxZTdlNg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAyM2JlMDgyYmE5ZjliMTcwMmFmYTEyNzVmMTczNTYwNg==`

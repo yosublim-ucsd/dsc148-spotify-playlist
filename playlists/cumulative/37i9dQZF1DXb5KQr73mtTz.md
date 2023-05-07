@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-225 songs - 14 hr 45 min
+226 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 | 2022-07-04 |  |
 | [Dolls](https://open.spotify.com/track/4WgAxRROt1CI5sh3qqh2mP) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Again,Star \#01](https://open.spotify.com/album/22kTojFqWSb9RMyiFLL5YQ) | 2:58 | 2023-01-10 | 2023-01-17 |
 | [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-07-29 |
+| [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 |  |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-06-18 | 2022-07-24 |
 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 | 2022-05-11 |  |
 | [Drown](https://open.spotify.com/track/7uVqetqCVpIrqeVRf4wyWW) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Drown](https://open.spotify.com/album/1TYFO2ZPj1oQ6Ppq0k2RYG) | 3:30 | 2022-07-08 | 2022-07-18 |
@@ -223,7 +224,7 @@
 | [나와 같다면](https://open.spotify.com/track/76vLOcSPwCr4BHQSO7Ihis) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [서바이벌 나는 가수다 경연 3\-2 \- 네티즌 추천곡](https://open.spotify.com/album/40mJuq7mDmCahsMxjSBxzk) | 3:38 | 2022-05-11 | 2022-06-01 |
 | [마음의 말](https://open.spotify.com/track/5vtZXdKKGx1BOcFYYDiXlH) | [Kim Yeonji](https://open.spotify.com/artist/220c8fiYAk89nqAgw4x4z4) | [로봇이 아니야, Pt\. 3 Original Television Soundtrack](https://open.spotify.com/album/5ElDHNX2Jpo6vwkFKhSQCF) | 5:02 | 2022-05-11 |  |
 | [바람이 분다](https://open.spotify.com/track/0URtcP4yr2pZvyavbD1Q3z) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/53FfCS6jEme7TlE34dfh7U) | 3:56 | 2022-05-11 | 2022-07-29 |
-| [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 | 2022-07-08 |  |
+| [바람이 분다](https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Eyebrow Moon 눈썹달](https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA) | 3:56 | 2022-07-08 | 2023-05-07 |
 | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/track/3MOcIiyqd9r14YDIeZqhuj) | [이층버스](https://open.spotify.com/artist/7wF8XnangErTa3w9hILf13) | [사랑이 게으름으로 잔뜩 쌓여져 갈 때](https://open.spotify.com/album/27Ies0kxzzilbhfwTrlQJj) | 4:32 | 2022-06-09 | 2022-07-23 |
 | [아직도 괜찮지 않은가 봐](https://open.spotify.com/track/7AwaRzPacYglDtx0skg39C) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/71WZV8KAPxXQMO4H8C69JS) | 3:53 | 2022-06-20 | 2022-06-26 |
 | [응급실](https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [투유 프로젝트 \- 슈가맨 Pt.5](https://open.spotify.com/album/3O0r88fVgzaZ6YDhDiSypI) | 4:27 | 2022-05-11 | 2022-07-27 |

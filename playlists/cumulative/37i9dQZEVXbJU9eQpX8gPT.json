@@ -913,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Ach Khbarek",
+        "url": "https://open.spotify.com/album/098t9Kq3ur8aLYeOB9776Z"
+      },
+      "artists": [
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Ach Khbarek",
+      "url": "https://open.spotify.com/track/6ggJpewsdCo3CaL3Nr85l7"
+    },
+    {
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0"
       },
@@ -5412,7 +5430,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 165773,
       "name": "ELGHIRA",
       "url": "https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X"
@@ -13032,7 +13050,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-03-12",
+      "date_removed": null,
       "duration_ms": 221379,
       "name": "Nadi Canadi",
       "url": "https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q"
@@ -19362,7 +19380,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"

@@ -1,12 +1,12 @@
 {
   "description": "You better duck, when I show you up, the goo goo muck! The Cramps on the cover.",
-  "num_followers": 602735,
+  "num_followers": 603188,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDMyMDBiMDg1NjUxMTRhN2JhMzBiYjY0OGIyNGVkMTM2MzRiMGJh",
+  "snapshot_id": "MCwyYTFjZGQzY2ViNTJlZGRkZWI2ODA2MTBiNTk5ODVkNmY4YjBmMjMx",
   "tracks": [
     {
       "added_at": "2022-11-28 15:12:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 408826,
-      "name": "Love Like Blood",
-      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Floating Into The Night",
         "url": "https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 321853,
       "name": "Falling",
       "url": "https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Night Time",
+        "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "duration_ms": 408826,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Love Hysteria",
-        "url": "https://open.spotify.com/album/3jdfA9PCU4a1uNzmiCtvRm"
+        "name": "Phantasmagoria",
+        "url": "https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2"
       },
       "artists": [
         {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+          "name": "The Damned",
+          "url": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h"
         }
       ],
-      "duration_ms": 354573,
-      "name": "Indigo Eyes",
-      "url": "https://open.spotify.com/track/76gFDqnsl7dZvEABaH5qir"
+      "duration_ms": 229960,
+      "name": "The Shadow Of Love",
+      "url": "https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE"
     }
   ],
   "unique_name": "Dark & Gothic",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Singapore.
 
-812 songs - 1 day 22 hr 13 min
+813 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [DON QUIXOTE](https://open.spotify.com/track/7BiEgR5r0yMmFoWC9kOTGf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 2:52 | 2022-05-28 | 2022-05-31 |
 | [Don't fight the feeling](https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 2:56 | 2021-06-09 | 2021-06-16 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2021-07-28 | 2021-08-16 |
-| [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-22 |  |
+| [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-22 | 2023-05-07 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2022-01-22 | 2023-03-08 |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2021-07-01 | 2021-10-27 |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2021-10-27 | 2022-01-23 |
@@ -217,12 +217,13 @@
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-12-27 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-03-26 |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 3:59 | 2023-01-13 | 2023-02-01 |
-| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-05-02 |  |
+| [Eve, Psyche & The Bluebeard’s wife](https://open.spotify.com/track/4QhnNyKDsAkXPwHkSnuc89) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:05 | 2023-05-02 | 2023-05-07 |
 | [Every Summertime](https://open.spotify.com/track/68HocO7fx9z0MgDU0ZPHro) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Every Summertime](https://open.spotify.com/album/2HPj0XZe9WduSsyKTQqgVa) | 3:35 | 2022-01-08 | 2022-05-11 |
 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/5uQQcvcXoCwKPK5sYvarzO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0) | 4:05 | 2021-11-14 | 2021-11-14 |
 | [Everything Has Changed \(feat\. Ed Sheeran\) \(Taylor’s Version\)](https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:05 | 2021-11-14 | 2021-11-19 |
 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 | 2022-08-22 | 2022-08-30 |
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-03-26 | 2023-03-29 |
+| [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-05-06 |  |
 | [Eyes Closed](https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 | 2023-03-28 | 2023-04-30 |
 | [F\*ck My Life](https://open.spotify.com/track/3tgWMPOY4stCdKYj5NjrAe) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:22 | 2023-04-25 | 2023-05-05 |
 | [Face\-off](https://open.spotify.com/track/3OdIiWnYRHPYtC313Z0Bwy) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:49 | 2023-03-25 | 2023-03-27 |
@@ -818,7 +819,7 @@
 | [錯過的煙火](https://open.spotify.com/track/5nC1a5eO57T4vJ32TpE5n6) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-16 | 2022-07-23 |
 | [離開你以後 \- 電影《你的婚禮》插曲](https://open.spotify.com/track/4cSCMlCcY65zlz1ZPhqsCe) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [離開你以後 \(電影《你的婚禮》插曲\)](https://open.spotify.com/album/5CPLcd9fvDNZz4xkAuoovk) | 5:09 | 2021-05-27 | 2021-07-27 |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-08-15 |
-| [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 | 2023-04-15 |
+| [飞鸟和蝉](https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/2eAqOiX0rfSelLMLDfz3RT) | 4:56 | 2021-08-15 |  |
 | [飞鸟和蝉](https://open.spotify.com/track/7kdWPsM25PcBBB156FLrQK) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [Ren然](https://open.spotify.com/album/6NMN6OEr4Qsoq5HyrFqAs5) | 4:56 | 2021-08-02 | 2021-08-08 |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

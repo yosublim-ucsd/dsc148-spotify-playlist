@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 
 > Saluting the songs and artists that have filled us with pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,252 likes - 26 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,254 likes - 26 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r0FByV5U4C.md) - [plain]
 | 25 | [Dreams](https://open.spotify.com/track/6A7bVdaeKLeHCutvJovQrn) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Langston Hughes Recordings](https://open.spotify.com/album/7Ek0QRGNy92Zcfv53edFET) | 0:57 |
 | 26 | [Africa](https://open.spotify.com/track/2J8yVtzNqgO40QDKhuNeQm) | [Maya Angelou](https://open.spotify.com/artist/4YgS09y0GhtNSu2ZLruk89) | [Caged Bird Songs](https://open.spotify.com/album/4PF18WekUteo4wMepPE8rv) | 3:28 |
 
-Snapshot ID: `MCxhNTUzY2IwZGQ0ZTczOThiOThkMDZiNjkwY2E1ZmM4NzJkYTBjNGNi`
+Snapshot ID: `MCwyNmE4MjczNDg3MmMzZjBmZDVlODA0MGE2OTUwZThhMTNmZTA2OWIz`

@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 240768,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E"
@@ -4466,6 +4466,24 @@
       "duration_ms": 199952,
       "name": "Irridescent Mountains",
       "url": "https://open.spotify.com/track/6W2hNKNp5Brv1igihBn5zw"
+    },
+    {
+      "album": {
+        "name": "Maywood In My Heart",
+        "url": "https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194779,
+      "name": "Islington",
+      "url": "https://open.spotify.com/track/1BAUtnyRhDLfwK4l5RO4bN"
     },
     {
       "album": {

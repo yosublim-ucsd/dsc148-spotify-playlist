@@ -1,12 +1,12 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 146904,
+  "num_followers": 146921,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzZlYzhhZGYxN2FjOTMwZmE3NjFjOWNjZWFiNWRhZTc1ZmViOGQz",
+  "snapshot_id": "MCxiNTlkMDhmNTdhNjA5Mzc3OGFmYjZmMTg5ZGQyYWE5NjMzYWNhMzkx",
   "tracks": [
     {
       "added_at": "2023-05-03 09:50:55",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Still Alive (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe"
-      },
-      "artists": [
-        {
-          "name": "Maximillian",
-          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
-        }
-      ],
-      "duration_ms": 194757,
-      "name": "Beautiful Scars",
-      "url": "https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 217533,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Still Alive (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe"
+      },
+      "artists": [
+        {
+          "name": "Maximillian",
+          "url": "https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr"
+        }
+      ],
+      "duration_ms": 194757,
+      "name": "Beautiful Scars",
+      "url": "https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 220812,
-      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Shape of You (Acoustic)",
         "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 223573,
       "name": "Shape of You - Acoustic",
       "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 220812,
+      "name": "Friday I\u2019m In Love - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Place We Were Made",
-        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 185274,
-      "name": "Place We Were Made",
-      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "The Few Things (With Charlotte Lawrence)",
         "url": "https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Place We Were Made",
+        "url": "https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 185274,
+      "name": "Place We Were Made",
+      "url": "https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Wild Enough",
-        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 186658,
-      "name": "Wild Enough",
-      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Det\u00b4 kun vigtigt, hvad det er",
         "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Raised Under Grey Skies (Deluxe)",
-        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+        "name": "Wild Enough",
+        "url": "https://open.spotify.com/album/4LZHURlrVLu6R45KooQYW4"
       },
       "artists": [
         {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
+      "duration_ms": 186658,
+      "name": "Wild Enough",
+      "url": "https://open.spotify.com/track/6oynBOei3VDaRYmBghTCOO"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1119,6 +1103,22 @@
       "duration_ms": 253011,
       "name": "Rose",
       "url": "https://open.spotify.com/track/5UDkdxN87TOPiL7cTNkh7l"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Raised Under Grey Skies (Deluxe)",
+        "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "ii",
-        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
-      },
-      "artists": [
-        {
-          "name": "Aquilo",
-          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
-        }
-      ],
-      "duration_ms": 178476,
-      "name": "Thin",
-      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 169226,
       "name": "Get Here - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/6hPlYSx7wsnDE48NypYeuT"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "ii",
+        "url": "https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN"
+      },
+      "artists": [
+        {
+          "name": "Aquilo",
+          "url": "https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw"
+        }
+      ],
+      "duration_ms": 178476,
+      "name": "Thin",
+      "url": "https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "The Sun Will Come up, The Seasons Will Change",
-        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Is It Really Me You're Missing",
-      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Rockabye (Acoustic)",
         "url": "https://open.spotify.com/album/3eWhckqCd4GXXCchAvaWCW"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Rockferry",
-        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+        "name": "The Sun Will Come up, The Seasons Will Change",
+        "url": "https://open.spotify.com/album/5XsBQrYhmDWyYfXGlfsZJU"
       },
       "artists": [
         {
-          "name": "Duffy",
-          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 226386,
-      "name": "Warwick Avenue",
-      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
+      "duration_ms": 232800,
+      "name": "Is It Really Me You're Missing",
+      "url": "https://open.spotify.com/track/2lgyZWQSJWmswrLJyM27kB"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
+        "name": "Rockferry",
+        "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
+      },
+      "artists": [
+        {
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "Warwick Avenue",
+      "url": "https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
         "name": "If That's Alright",
         "url": "https://open.spotify.com/album/3ZxgIRFBsbYYxcKOIVaXPx"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "Something American",
-        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 283696,
-      "name": "What Am I Here For",
-      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 164897,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "Something American",
+        "url": "https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 283696,
+      "name": "What Am I Here For",
+      "url": "https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6"
     },
     {
       "added_at": "2023-05-03 09:50:55",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-05-03 09:50:55",
       "album": {
-        "name": "It's Gotta Be You",
-        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Firebrace",
-          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
-        }
-      ],
-      "duration_ms": 191433,
-      "name": "It's Gotta Be You",
-      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
-    },
-    {
-      "added_at": "2023-05-03 09:50:55",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
+    },
+    {
+      "added_at": "2023-05-03 09:50:55",
+      "album": {
+        "name": "It's Gotta Be You",
+        "url": "https://open.spotify.com/album/4zSLy4XMFXIMFa52jzoEdk"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Firebrace",
+          "url": "https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn"
+        }
+      ],
+      "duration_ms": 191433,
+      "name": "It's Gotta Be You",
+      "url": "https://open.spotify.com/track/66yKv1kZIqfejvrLEGqTML"
     },
     {
       "added_at": "2023-05-03 09:50:55",

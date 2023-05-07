@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Zlatan
 
-109 songs - 5 hr 16 min
+110 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Able God](https://open.spotify.com/track/2T0n6U3Ef2XeZc4kdoe5Eg) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs), [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Able God](https://open.spotify.com/album/7xr5X8oRWh4vbFJZ0zMtn8) | 4:26 | 2022-06-29 | 2022-12-09 |
 | [Agbado Wa O](https://open.spotify.com/track/2KjpQ7DwPEuMeSFqve6Nvw) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi) | [Agbado Wa O](https://open.spotify.com/album/3UATmv0OvLERgHyOnI40lx) | 1:42 | 2022-06-29 | 2022-12-29 |
 | [Alajo Emilokan](https://open.spotify.com/track/10N00uyWmUaHFkNPbtNKvG) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Alajo Emilokan](https://open.spotify.com/album/45XrXX2y77M6F5u4oLVHwo) | 1:14 | 2022-06-29 | 2023-01-23 |
-| [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 | 2022-06-29 |  |
+| [Am I a Yahoo Boy](https://open.spotify.com/track/7lWPp0cGS1w5JYEJ8NB3n5) | [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Am I a Yahoo Boy](https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL) | 2:28 | 2022-06-29 | 2023-05-07 |
 | [Amala](https://open.spotify.com/track/7ldle0j4O3JdX4XVVYY2Vx) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Amala](https://open.spotify.com/album/42FZKw04wgLtGEYerWZ9Xp) | 2:27 | 2022-11-14 |  |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-10 |  |
 | [Ask About Me](https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Ask About Me](https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9) | 2:55 | 2023-04-14 |  |
@@ -72,6 +72,7 @@
 | [Mara pass Mara Beat](https://open.spotify.com/track/7LoImJ4ayDQjr9IMAW8N9L) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Mara pass Mara Beat](https://open.spotify.com/album/7Ci2ggn7o9HEunUEwzAxPu) | 5:15 | 2023-04-14 | 2023-04-22 |
 | [My Life](https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [My Life](https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV) | 2:12 | 2022-08-05 | 2023-04-20 |
 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 |  |
+| [NI NIGERIA](https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf) | [Tomi Tribe](https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51), [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [NI NIGERIA](https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K) | 2:25 | 2023-05-04 |  |
 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 | 2022-11-18 |  |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 |  |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 |  |

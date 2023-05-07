@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTQzMjAsMDAwMDAwMDBhYzQzMGE1ZjFjZmNkN2JlY2Y3MjU5OTVjMDIxYzY0YQ==",
+  "snapshot_id": "MjgwNTQzMjAsMDAwMDAwMDBmOTllNzZmNzI5ZTY1ZWI2NzRiMGQwZjBjYjdlNmZlMA==",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -39,18 +39,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Laughing with Liza",
-        "url": "https://open.spotify.com/album/4DsgJJ5VhknaGjd8CInuXD"
+        "name": "Golden Years (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
       },
       "artists": [
         {
-          "name": "Davie Jones and the King Bees",
-          "url": "https://open.spotify.com/artist/1hefw3U5RYY5J8t0i5ry7L"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 129864,
-      "name": "Louie Louie Go Home",
-      "url": "https://open.spotify.com/track/2roYqGHPBiNeXo3xGjczHv"
+      "duration_ms": 181636,
+      "name": "Golden Years - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -571,6 +575,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Witness to Your Love",
+        "url": "https://open.spotify.com/album/73yM7XMBxJikJbrx4W21jI"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 261540,
+      "name": "Cities in Dust",
+      "url": "https://open.spotify.com/track/5amzP1D3FDCtOl5fyoPCGV"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/3Bjw90fNqB31PMekx2P9NW"
       },
@@ -583,22 +603,6 @@
       "duration_ms": 185493,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/2Kj02oM8HVtigTOpKyaEfB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "All Connected",
-        "url": "https://open.spotify.com/album/4x1JU4RdcDd1GLyrXXUoid"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 543173,
-      "name": "All Connected",
-      "url": "https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -999,6 +1003,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Tomorrow Never Comes",
+        "url": "https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 145367,
+      "name": "Tomorrow Never Comes",
+      "url": "https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "STAR - Clubminister vs Norwegian Giants REMIXES",
         "url": "https://open.spotify.com/album/7l6NXXIncQ6kP7HLV1Kq1B"
       },
@@ -1019,6 +1039,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Council Skies",
+        "url": "https://open.spotify.com/album/0LEsy6Ncwa96urueYAB8ud"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 282148,
+      "name": "Council Skies",
+      "url": "https://open.spotify.com/track/1KDR3iKY185DjEREnzYhgU"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "BANSHEE/#REBEL",
         "url": "https://open.spotify.com/album/6PjFaskT6uwLjRmvrJgg2V"
       },
@@ -1031,30 +1067,6 @@
       "duration_ms": 263426,
       "name": "#REBEL",
       "url": "https://open.spotify.com/track/3ofAoFGGL7kjovxQVui59I"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Indian Summer",
-        "url": "https://open.spotify.com/album/65OX2K6iAa8QNnup2YrxOD"
-      },
-      "artists": [
-        {
-          "name": "LM.ORG",
-          "url": "https://open.spotify.com/artist/3mbulgTpuUoEKMM6qj7rpW"
-        },
-        {
-          "name": "Vibe Culture",
-          "url": "https://open.spotify.com/artist/3JnyZWqZOKQ1NeMI13FBj6"
-        },
-        {
-          "name": "Jim Morrison",
-          "url": "https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W"
-        }
-      ],
-      "duration_ms": 340081,
-      "name": "Indian Summer",
-      "url": "https://open.spotify.com/track/4O1uQ3Hjhlndnh1CoH2H4b"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1079,6 +1091,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Live Series: Songs Of Character",
         "url": "https://open.spotify.com/album/5Do6bS6vnJqvAC9b3mJ1fi"
       },
@@ -1095,6 +1123,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 371880,
+      "name": "Shadows Follow",
+      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI"
       },
@@ -1104,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 183240,
-      "name": "Skeletons in the closet",
-      "url": "https://open.spotify.com/track/0K5ZXbVEIHuSYUEDI63m63"
+      "duration_ms": 252280,
+      "name": "The Lost Room",
+      "url": "https://open.spotify.com/track/3qeuZqdc0eNjW8s59e6gRp"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1123,22 +1167,6 @@
       "duration_ms": 154730,
       "name": "Capital F",
       "url": "https://open.spotify.com/track/1mrCZIWR3Up5R3G8rDFtjn"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Scorched",
-        "url": "https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu"
-      },
-      "artists": [
-        {
-          "name": "Overkill",
-          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
-        }
-      ],
-      "duration_ms": 271706,
-      "name": "Goin' Home",
-      "url": "https://open.spotify.com/track/0eir7payQFT0HAdGK88yBd"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1175,38 +1203,6 @@
       "duration_ms": 465649,
       "name": "Holding out for a Hero - Re-Recorded - Slowed + Reverb",
       "url": "https://open.spotify.com/track/3CNISSHPapR0YxwQePFAxM"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "KISS Off The Soundboard: Live In Poughkeepsie",
-        "url": "https://open.spotify.com/album/5fy9u8pWFQtEO2Er9SSfcj"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 261453,
-      "name": "Under The Gun - Live From Mid-Hudson Civic Arena, Poughkeepsie NY / 1984",
-      "url": "https://open.spotify.com/track/7ojinRhPIWAKoEYs8otazn"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Misery Made Me (Deluxe)",
-        "url": "https://open.spotify.com/album/3ENQtNYF2dLk3vwHP67oy0"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "It's Over - Live in Toronto",
-      "url": "https://open.spotify.com/track/3qVgP3ZyMpFQCynBxXWBAL"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

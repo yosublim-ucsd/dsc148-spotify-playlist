@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,593 likes - 143 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,620 likes - 143 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,7 +128,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 118 | [Ruin A Beach](https://open.spotify.com/track/0BVbf4047jr9EXMwrgMNEY) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Ruin A Beach](https://open.spotify.com/album/3KqFxUwQ2ltFATUisQU6U6) | 3:28 |
 | 119 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 120 | [First Time](https://open.spotify.com/track/3CusVXKAMVGcxv9NcB4mHP) | [Brooks Huntley](https://open.spotify.com/artist/0qkwQ7ZLjeOdypr1UQCe9m) | [First Time](https://open.spotify.com/album/1qO6Xi9yMZEhLGKZqsVmcc) | 3:08 |
-| 121 | [As Close As I Can Get To You](https://open.spotify.com/track/4gCfshwX0bnt2ZBkz5RWOO) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [As Close As I Can Get To You](https://open.spotify.com/album/68VzH6Py1gE7BXQ0s8Blhx) | 3:17 |
+| 121 | [As Close As I Can Get To You](https://open.spotify.com/track/3IwpztNJjpH6HOjna5JwuT) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Country To Me](https://open.spotify.com/album/3BYm0scVPtHamYtO6vqgeV) | 3:17 |
 | 122 | [Missing You](https://open.spotify.com/track/3ry2MzHjQaDK2HCJfOI0yj) | [Nick Wayne](https://open.spotify.com/artist/6Y92NtvBVk5tL0wIYXGVhl) | [Missing You](https://open.spotify.com/album/18Mp4wIhG0WGXkkmsk7hNs) | 2:43 |
 | 123 | [The Least You Could Do](https://open.spotify.com/track/7v0LWyA2fZo24xyxw6vEYL) | [Teagan Stewart](https://open.spotify.com/artist/4UUoAIVwAOhWNncWlfQxkb) | [The Least You Could Do](https://open.spotify.com/album/1Uvssuk2dY5MMvmT1q9Rpg) | 3:01 |
 | 124 | [Need You to Not](https://open.spotify.com/track/1OcwLTaGoXPSxqxJQK8XlP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Need You to Not](https://open.spotify.com/album/30mSy3n5vcDD1aozCEzrmK) | 3:05 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 142 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 143 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCwwZGI1NDA1ZDBiMGIyMzQ3YjU4MmM4N2YzZGQzOGFmOGUxZDMwOGM1`
+Snapshot ID: `MCwyM2VlNGY4NzFkODVlNjBiOWZkOTQ0MmZmODI0MWZmZjgzZDA1Nzc3`

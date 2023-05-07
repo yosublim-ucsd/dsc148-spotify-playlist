@@ -1,12 +1,12 @@
 {
   "description": "you know the vibe \ud83e\udd65\ud83c\udf34\ud83d\udc59\ud83d\udc1a\ud83e\udd8b\ud83c\udf38",
-  "num_followers": 19843,
+  "num_followers": 19872,
   "original_name": "coconut girl vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODBkNWU5NjJjMDJkMGNkMTUzOTc0NjQyMDQxZjk4OTVmOTZiYTQ0",
+  "snapshot_id": "MCw0NzNjNGQzZDVmZDZmMzMwMjhmOTkzNjNmZmVkOWFkYmVhNDdjMWFi",
   "tracks": [
     {
       "added_at": "2022-06-30 20:39:45",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-06-30 20:39:45",
       "album": {
-        "name": "COSMIC",
-        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 131064,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR"
-    },
-    {
-      "added_at": "2022-06-30 20:39:45",
-      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2022-06-30 20:39:45",
+      "album": {
+        "name": "COSMIC",
+        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 131064,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/7uzmGiiJyRfuViKKK3lVmR"
     },
     {
       "added_at": "2022-06-30 20:39:45",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-06-30 20:39:45",
       "album": {
-        "name": "Chip Chrome & The Mono-Tones (Deluxe)",
-        "url": "https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ"
+        "name": "everything sucks",
+        "url": "https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
         }
       ],
-      "duration_ms": 217026,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN"
+      "duration_ms": 115401,
+      "name": "everything sucks",
+      "url": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK"
     }
   ],
   "unique_name": "coconut girl vibes",

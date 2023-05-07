@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,745 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,782 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 90 | [666](https://open.spotify.com/track/6oe7pckqiHPvNjQCO3NCME) | [Loxell](https://open.spotify.com/artist/6jqOiXsSb8FanwnWtz6OZu) | [666](https://open.spotify.com/album/2eD69WbIj8fGEYdj66mvXT) | 2:11 |
 | 91 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 |
 | 92 | [Ooh \(Show Ya\)](https://open.spotify.com/track/0BTJg3ZV4IeCPjdz7hvjEu) | [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht) | [Ooh \(Show Ya\)](https://open.spotify.com/album/1HcuJzwneobXv8plhUVd7q) | 2:27 |
-| 93 | [FlippChill3](https://open.spotify.com/track/10sqEv4i44ptfTBF4OSq9e) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Mariam](https://open.spotify.com/album/0LqV4LW19VtjAWVfEUFWFO) | 3:47 |
+| 93 | [FlippChill3](https://open.spotify.com/track/10sqEv4i44ptfTBF4OSq9e) | [M9](https://open.spotify.com/artist/2WPbnqVgrR3nonwfeuBYmx) | [Gamechanger](https://open.spotify.com/album/0LqV4LW19VtjAWVfEUFWFO) | 3:47 |
 | 94 | [Leave My Heart Alone](https://open.spotify.com/track/38KvyXWBlhK13sYoOrFN0i) | [Minus Manus](https://open.spotify.com/artist/22ZMBKCKYvSLoplZDA3Pl0), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [Leave My Heart Alone](https://open.spotify.com/album/52MOP5EOa0XAzn5yHM6nL4) | 1:57 |
 | 95 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 |
 | 96 | [Bitch Is Fire](https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Bitch Is Fire](https://open.spotify.com/album/6NmcPeyOPlRMn8YajEjlKv) | 2:15 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 108 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 109 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 |
 
-Snapshot ID: `MCxkZDJiMjU0Y2RlYjhlZmQzNDg3ODI3OGMwMmNiOGEyYTQzYWJmZjZk`
+Snapshot ID: `MCxlMmQxMDQ3YTNhZGY4YzZjMjlhZjgwY2EyNGRjYzU3YzMxMGI0OGQ5`

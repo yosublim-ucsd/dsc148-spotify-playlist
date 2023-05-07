@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-230 songs - 20 hr 49 min
+231 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Faceless](https://open.spotify.com/track/3kqt49NJLMtAkmjuAsQq79) | [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8) | [Faceless](https://open.spotify.com/album/74BOGboC3BF4wz3IbThmDj) | 3:45 | 2022-12-28 | 2023-01-06 |
 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 | 2022-11-23 | 2023-02-28 |
 | [Fade In To You](https://open.spotify.com/track/22tFXsl4XmedYLNMU88qlx) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Nothing Around Us](https://open.spotify.com/album/3S8eBDaNXOgauG0Rtco6Kj) | 6:27 | 2022-11-23 | 2023-02-04 |
-| [Flickering Screens](https://open.spotify.com/track/3O5t6QwfVb1pfG8b9cravm) | [PARI](https://open.spotify.com/artist/3US9YU4DOMD9TfCNehM1Ux), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Flickering Screens](https://open.spotify.com/album/2BgcSrFSQQ7Dj99GCIXFU0) | 3:10 | 2023-05-05 |  |
+| [Flickering Screens](https://open.spotify.com/track/3O5t6QwfVb1pfG8b9cravm) | [PARI](https://open.spotify.com/artist/3US9YU4DOMD9TfCNehM1Ux), [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Flickering Screens](https://open.spotify.com/album/2BgcSrFSQQ7Dj99GCIXFU0) | 3:10 | 2023-05-05 | 2023-05-07 |
 | [Fly](https://open.spotify.com/track/3gp5lbLAuDgcwFu7CxQffZ) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Fly](https://open.spotify.com/album/1qik9Gr4EhhOMb2jDUpyTA) | 3:48 | 2023-02-04 | 2023-02-10 |
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Free Your Mind](https://open.spotify.com/track/2o2pdKXhWnlDfwLp61koTb) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:37 | 2023-02-10 | 2023-02-18 |
@@ -221,6 +221,7 @@
 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 | 2022-11-23 |  |
 | [Trust The Hours](https://open.spotify.com/track/7s6PEaininXkVBJr2RRKub) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Trust The Hours](https://open.spotify.com/album/4MKzursWBCbB95qiTNQzgV) | 6:11 | 2022-11-23 |  |
 | [Try](https://open.spotify.com/track/6dYp9gwmnHvLdjwHhhiJbV) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Try / I Need You Now](https://open.spotify.com/album/4bPpSY4RfqWXcPrlLP8v1G) | 3:39 | 2022-11-23 | 2022-12-17 |
+| [Tumda](https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Tumda](https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9) | 3:12 | 2023-05-05 |  |
 | [Tuning The Moon](https://open.spotify.com/track/0NyLbTmWdkKmLU8mU2GlZm) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Tuning The Moon](https://open.spotify.com/album/564oWzVrDjxDIZz1FqNE4T) | 5:34 | 2023-03-03 |  |
 | [Turn On The Lights again.\. \(feat\. Future\) \- Anyma Remix](https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\) \[Remixes\]](https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx) | 4:13 | 2023-02-18 |  |
 | [Turn The Lights](https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Turn The Lights](https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5) | 4:07 | 2023-02-27 | 2023-04-09 |

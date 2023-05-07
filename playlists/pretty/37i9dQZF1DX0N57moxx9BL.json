@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover artist: Skillet",
-  "num_followers": 118674,
+  "num_followers": 118769,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2QzMTQ4MjE3YmVkNGJiMDNjNWJkYmZhNzhjMjQzMWM0MDA1YmMx",
+  "snapshot_id": "MCw5YzEzMTFlZGNkZTg4YTViNWY5OTQwMzVkYTQ1NDRjNWEzNTdiODQ1",
   "tracks": [
     {
       "added_at": "2023-02-17 11:43:30",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "The Executioner",
-        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
-      },
-      "artists": [
-        {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        }
-      ],
-      "duration_ms": 247124,
-      "name": "The Executioner",
-      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Outlive",
         "url": "https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 205786,
       "name": "Cold Winter Sun",
       "url": "https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "The Executioner",
+        "url": "https://open.spotify.com/album/1NEpP36Ofk1GwaLZVD44xT"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        }
+      ],
+      "duration_ms": 247124,
+      "name": "The Executioner",
+      "url": "https://open.spotify.com/track/4PzA54JwZaMH9aptDuAlAL"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Promise to Live",
-        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
+        "name": "EXILE",
+        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+          "name": "Demon Hunter",
+          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
         }
       ],
-      "duration_ms": 293538,
-      "name": "Promise to Live",
-      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+      "duration_ms": 256893,
+      "name": "ANOTHER PLACE",
+      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "EXILE",
-        "url": "https://open.spotify.com/album/02FzGn0oOyVK7V5GdJKdy3"
+        "name": "Promise to Live",
+        "url": "https://open.spotify.com/album/1aSbnnZAH9AHM1WkIGXk3h"
       },
       "artists": [
         {
-          "name": "Demon Hunter",
-          "url": "https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH"
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
         }
       ],
-      "duration_ms": 256893,
-      "name": "ANOTHER PLACE",
-      "url": "https://open.spotify.com/track/6zOzUt4OnMwZ0YlB9CyiII"
+      "duration_ms": 293538,
+      "name": "Promise to Live",
+      "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -531,22 +531,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Love Letter Kill Shot",
-        "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
       },
       "artists": [
         {
-          "name": "Disciple",
-          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
-        },
-        {
-          "name": "Andrew Schwab",
-          "url": "https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc"
+          "name": "Newsong",
+          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
         }
       ],
-      "duration_ms": 269733,
-      "name": "Panic Room (featuring Andrew Schwab)",
-      "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
+      "duration_ms": 159780,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -567,22 +563,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/7K8eL4wIKT0MtV1Z9oOl2q"
-      },
-      "artists": [
-        {
-          "name": "Newsong",
-          "url": "https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX"
-        }
-      ],
-      "duration_ms": 159780,
-      "name": "Have A Little Faith",
-      "url": "https://open.spotify.com/track/6foifNK0pMljduUfXEr5ud"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Death By Admiration",
         "url": "https://open.spotify.com/album/65EgD2zbFwDW2bFXp3OK9A"
       },
@@ -599,22 +579,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "The Final Battle",
         "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
       },
@@ -627,6 +591,22 @@
       "duration_ms": 233686,
       "name": "Ashes to Ashes",
       "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -659,6 +639,26 @@
       "duration_ms": 168827,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NNH7mKaH2TxnSDBYOlFMK"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Love Letter Kill Shot",
+        "url": "https://open.spotify.com/album/41gjae4gxbBmKia3hQaHmM"
+      },
+      "artists": [
+        {
+          "name": "Disciple",
+          "url": "https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO"
+        },
+        {
+          "name": "Andrew Schwab",
+          "url": "https://open.spotify.com/artist/45peyKUmaNOcAC3aIyYWYc"
+        }
+      ],
+      "duration_ms": 269733,
+      "name": "Panic Room (featuring Andrew Schwab)",
+      "url": "https://open.spotify.com/track/2lsuCovCkTDoLn3lVrpbAg"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
-      },
-      "artists": [
-        {
-          "name": "House of Heroes",
-          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0kDyz6pYuETYz1VQTo9P1I"
+      },
+      "artists": [
+        {
+          "name": "House of Heroes",
+          "url": "https://open.spotify.com/artist/77JuhnpOBW0tatc1nJg6qB"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/74mgWWBsRrri1fCY2BPILK"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Let There Be Light",
-        "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
+        "name": "Barbarians (Live)",
+        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
       },
       "artists": [
         {
-          "name": "All For The King",
-          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
+          "name": "Freedom Church",
+          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
         }
       ],
-      "duration_ms": 258706,
-      "name": "The Shelter",
-      "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
+      "duration_ms": 382125,
+      "name": "Chariots - Live",
+      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Barbarians (Live)",
-        "url": "https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo"
+        "name": "Future Golden Age",
+        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
       },
       "artists": [
         {
-          "name": "Freedom Church",
-          "url": "https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh"
+          "name": "Fallstar",
+          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
         }
       ],
-      "duration_ms": 382125,
-      "name": "Chariots - Live",
-      "url": "https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH"
+      "duration_ms": 201240,
+      "name": "Radio (NW Hesh)",
+      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Rise to the Call",
-        "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
+        "name": "Let There Be Light",
+        "url": "https://open.spotify.com/album/2nLOkZDqO4gY48aG75PT23"
       },
       "artists": [
         {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+          "name": "All For The King",
+          "url": "https://open.spotify.com/artist/1Lc6WndggonIvvJlq8qdOF"
         }
       ],
-      "duration_ms": 227486,
-      "name": "Rise to the Call",
-      "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
+      "duration_ms": 258706,
+      "name": "The Shelter",
+      "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Future Golden Age",
-        "url": "https://open.spotify.com/album/4s5Iy7Sz4fDYsdIER0DAlV"
+        "name": "Rise to the Call",
+        "url": "https://open.spotify.com/album/3v0BOWMnf9wrExM0vXl4xb"
       },
       "artists": [
         {
-          "name": "Fallstar",
-          "url": "https://open.spotify.com/artist/5foy0C3uRKsbKh7HsftCST"
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Radio (NW Hesh)",
-      "url": "https://open.spotify.com/track/2kgKzvWr4NaITKLHrEbwyL"
+      "duration_ms": 227486,
+      "name": "Rise to the Call",
+      "url": "https://open.spotify.com/track/4TVEUT6InpWqdUAXnsd4Uv"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
+        "name": "Melancholy Machines",
+        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
+      },
+      "artists": [
+        {
+          "name": "Death Therapy",
+          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
+        }
+      ],
+      "duration_ms": 255980,
+      "name": "Pls Snd Hlp",
+      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 237522,
       "name": "Fame",
       "url": "https://open.spotify.com/track/2tcqUBt189wGUWUeBkoIu9"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
-        "name": "Melancholy Machines",
-        "url": "https://open.spotify.com/album/43yeYEvwskGrlzy2j4IDqz"
-      },
-      "artists": [
-        {
-          "name": "Death Therapy",
-          "url": "https://open.spotify.com/artist/2Prk8CqlCnhHCQ2nGK2kZo"
-        }
-      ],
-      "duration_ms": 255980,
-      "name": "Pls Snd Hlp",
-      "url": "https://open.spotify.com/track/35WTnp0eA67s67qTJ7JUEu"
     },
     {
       "added_at": "2023-02-17 11:43:30",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-02-17 11:43:30",
       "album": {
-        "name": "Angels vs Demons",
-        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
-      },
-      "artists": [
-        {
-          "name": "Nathan Wagner",
-          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
-        }
-      ],
-      "duration_ms": 258888,
-      "name": "Angels vs Demons",
-      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
-    },
-    {
-      "added_at": "2023-02-17 11:43:30",
-      "album": {
         "name": "Honor & Glory",
         "url": "https://open.spotify.com/album/2itu4IaIrGFui5Y117djYw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2023-02-17 11:43:30",
+      "album": {
+        "name": "Angels vs Demons",
+        "url": "https://open.spotify.com/album/2sqsGbEOAqH3BUBU8q8hFW"
+      },
+      "artists": [
+        {
+          "name": "Nathan Wagner",
+          "url": "https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV"
+        }
+      ],
+      "duration_ms": 258888,
+      "name": "Angels vs Demons",
+      "url": "https://open.spotify.com/track/1on699IUw4o4OsjKXQW5Z9"
     },
     {
       "added_at": "2023-02-17 11:43:30",

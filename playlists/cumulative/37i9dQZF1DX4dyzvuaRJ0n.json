@@ -8752,6 +8752,28 @@
     {
       "album": {
         "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+    },
+    {
+      "album": {
+        "name": "Reflection EP",
         "url": "https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe"
       },
       "artists": [
@@ -8766,7 +8788,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 406584,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Aya Nakamura & Myke Towers
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,407 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,470 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 69 | [Nightshift](https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Breakfast n Vegas](https://open.spotify.com/artist/0iwRZ9bQya1TDUAk5qN5YX) | [Nightshift](https://open.spotify.com/album/4giogCe206BY2QoMoqS1Vw) | 2:58 |
 | 70 | [Mare Mare](https://open.spotify.com/track/4Z6VSJZDhmMhS9V7E4etFV) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Lamaz KOB](https://open.spotify.com/artist/4kqNOkXINObNexaey34DMj) | [Mare Mare](https://open.spotify.com/album/5smSak9EETU92nlyJ4ARRS) | 3:17 |
 
-Snapshot ID: `MCwzYjRkMWU5NGY4NTc2MWY0YjQzNzU0YTZhMjk4Yzg1NThmOGVmYTRl`
+Snapshot ID: `MCxmZGViYmFlMzE5ZjU0ZmRmZTAwMWFlZTQzOThhOWRlZmI0ZDlkYjZi`

@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-228 songs - 12 hr 29 min
+229 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [How to Love a Girl \- Acoustic](https://open.spotify.com/track/1nxjPus9HGtq2no7jdeNVr) | [Olivia Mae Graham](https://open.spotify.com/artist/0aYagTq2r8P9Z8KR8sby2H) | [How to Love a Girl \(Acoustic\)](https://open.spotify.com/album/120UcOfx90ZhZ1DzSKn0wT) | 3:33 | 2022-04-01 | 2022-07-09 |
 | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl) | [Noah Hicks](https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO) | [I Can Tell You're Small Town \(The Back Home Version\)](https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN) | 3:01 | 2023-02-03 |  |
 | [I Can't Love You Anymore \- In Rare Form](https://open.spotify.com/track/3dipAWHU0fH4hRWxq5P3Cc) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest: In Rare Form](https://open.spotify.com/album/5he9k8l3BJF3MtTerCtaq8) | 3:08 | 2022-11-04 |  |
-| [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 |  |
+| [I Didn't Love You](https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [12/12 \(Acoustic\)](https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT) | 2:59 | 2021-12-17 | 2023-05-07 |
 | [I Don't Wanna Go To Heaven \- Choir Version](https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven \(Choir Version\)](https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X) | 3:25 | 2022-01-21 |  |
 | [I Hope You’re Happy Now \- Live](https://open.spotify.com/track/7dHIJjEVtekWBZr16Q2owe) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [I Hope You’re Happy Now \(Live\)](https://open.spotify.com/album/74cMAdnY7pp9kDBWEkxxsz) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [I Remember You](https://open.spotify.com/track/5dJayBRoblzjYfmJSmjAdE) | [Chris Moreno](https://open.spotify.com/artist/4Bikw36AHYxTvphOQCWykA) | [I Remember You](https://open.spotify.com/album/6Rvc0QeFunn3FfwIICJPgO) | 4:22 | 2021-12-17 | 2022-07-26 |
@@ -126,6 +126,7 @@
 | [Long Live Cowgirls \- Me and a Fiddle](https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Live Cowgirls \(Me and a Fiddle\)](https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY) | 3:00 | 2023-01-27 |  |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-12-17 | 2022-04-16 |
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 |  |
+| [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 |  |
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 | 2023-02-18 |
 | [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 |  |

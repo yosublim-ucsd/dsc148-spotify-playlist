@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-353 songs - 22 hr 3 min
+354 songs - 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Fools Rush In](https://open.spotify.com/track/1POSSxzIB7fLcHDDfbmjDZ) | [The Southern Belle](https://open.spotify.com/artist/7b5QwOkTlJ9LVWJfofwAWV) | [Fools Rush In](https://open.spotify.com/album/2L8LchgYAzo2n0vuR5kYk7) | 4:33 | 2023-03-20 |  |
 | [For Ellen](https://open.spotify.com/track/3TPSdihMAJJgLL9JP02puJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [For Ellen](https://open.spotify.com/album/10WEn2GOYd9c6rPhxv4h8Q) | 3:18 | 2023-03-20 |  |
 | [For My Love](https://open.spotify.com/track/0tcjIkVN1nrs0uDluhygi0) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [ENCORE](https://open.spotify.com/album/4g0lXhnrip7njhqaY787O9) | 4:45 | 2022-04-22 | 2022-06-03 |
+| [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-05 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2023-03-20 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2023-03-20 |  |
 | [Forget the Moonlight](https://open.spotify.com/track/04B0Jt1hOgu7nt6UEjtTo8) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Tonight We Dance](https://open.spotify.com/album/4KUrd6HHTvbaJDNUVlUDFF) | 2:43 | 2023-03-20 |  |
@@ -176,7 +177,7 @@
 | [Lofi Sauce](https://open.spotify.com/track/3bAUmGi6G9MNWIkTmap9WD) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Lofi Sauce](https://open.spotify.com/album/5Ea0SCW5c3zEukb5nKMp6p) | 3:23 | 2022-06-02 | 2023-03-16 |
 | [Look Up](https://open.spotify.com/track/5OkkZtwYmuSLbAFxcqolw3) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Look Up](https://open.spotify.com/album/6y4VhfTSv5cVpJHobgYybd) | 5:34 | 2022-04-22 | 2023-03-21 |
 | [Love In Your Arms](https://open.spotify.com/track/4tmD3aQkmBEO9JOR1hEAdY) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 3:22 | 2023-03-20 |  |
-| [Love is the answer](https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 5:56 | 2023-05-04 |  |
+| [Love is the answer](https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 5:56 | 2023-05-04 | 2023-05-07 |
 | [Love on a Lonely Street](https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk) | [The Ebbing Tides](https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3) | [Love on a Lonely Street](https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer) | 3:03 | 2023-04-13 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2023-03-20 |  |
 | [Love Will Last Forever](https://open.spotify.com/track/3AqqDd9zm7ZG8AFaveWYIm) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Love Will Last Forever](https://open.spotify.com/album/4usW1UlwKnmOuqsChtx2Xa) | 3:35 | 2023-03-20 |  |

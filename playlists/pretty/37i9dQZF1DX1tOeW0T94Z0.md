@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,958 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,963 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Rap Passion \(feat\. Red One\)](https://open.spotify.com/track/0OKl5o9g4coiF36u9UXCzq) | [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT), [The Red One](https://open.spotify.com/artist/5hXGIlHB5bApAiYvcaEhiP) | [Welcome To The Game](https://open.spotify.com/album/5RUtDILSiQz96aSdNM1a1o) | 4:33 |
 | 75 | [Pull up \(Remix\) \[feat\. Kardinal Offishall, Trinity Chris, Lindo P, Untitled, Shawn Desman, Shanti & Fito Blanko\]](https://open.spotify.com/track/2METyPRWcGhvQuXBzUCEzS) | [Rochester](https://open.spotify.com/artist/15eHvU7URb8COOYNM35fZK), [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Trinity Chris](https://open.spotify.com/artist/0joS9i0Yela7n7rw9pnZ56), [Lindo P](https://open.spotify.com/artist/3OgBn5STML2ZJQFz9enE8X), [Untitled](https://open.spotify.com/artist/1YBuFUAHy8MIMNhaJk01CE), [Shawn Desman](https://open.spotify.com/artist/4LOZt2Vt1xqIWRCVG4v6tV), [Shanti](https://open.spotify.com/artist/4Mqv4vPwfSL3EdB99OVFVX), [Fito Blanko](https://open.spotify.com/artist/5eYDJJfPXinVZq2mXleOSW) | [Pull Up](https://open.spotify.com/album/3NKZrJCxOrczBgoYwjt6jp) | 4:23 |
 
-Snapshot ID: `MCxlM2QxNzIwNjcwZjdmZWE2ZDNlMTIwYTIyOTdlNzllMDdhZWZlNzY4`
+Snapshot ID: `MCwyYmI2MDA3ZTNmYmNiYTQ1MTY1MDJjZDMwYTdhNjVlYTQ1MTU1NmFm`

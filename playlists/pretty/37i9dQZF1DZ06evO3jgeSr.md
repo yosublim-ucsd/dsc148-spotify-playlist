@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 
 > This is Labi Siffre\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,651 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,654 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jgeSr.md) - [plain]
 | 49 | [The Life I Got](https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [The Last Songs](https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr) | 3:57 |
 | 50 | [Wash Away Your Troubles in Love](https://open.spotify.com/track/0cS1CHuLuFqXuYePMeAPus) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Man Of Reason](https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2) | 3:51 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA1N2ZjODNjYzMzYTg1MTZhOTU5ZmRiMWFlMmFjYzRkNw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5NjVhNWNkNTA4NzZiMTk1MzA5ZmFiMzNhNTRmODg5Zg==`

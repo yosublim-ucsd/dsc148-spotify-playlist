@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,984 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,006 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [La Noche Anterior](https://open.spotify.com/track/0eDNOhglSxYP2r4jelyE1a) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [La Noche Anterior](https://open.spotify.com/album/1fz4sp1j66qf159oNik9zv) | 3:33 |
 | 50 | [El Intercambio](https://open.spotify.com/track/0frsTsRmNDlPMy2Sjpowqu) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 4:00 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAxYjYxYjNiYTAzYmI1MDgyNzdhOGUwMzc3ODhmZjEwYQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA4NTRkYTA4YjczMDdhN2JhYTI4YTc4YzU1MmRlYTJkNw==`

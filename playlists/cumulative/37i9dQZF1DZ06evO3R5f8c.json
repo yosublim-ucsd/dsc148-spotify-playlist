@@ -603,6 +603,32 @@
     },
     {
       "album": {
+        "name": "Horizon Red (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565063,
+      "name": "Horizon Red - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
+    },
+    {
+      "album": {
         "name": "I Have Faith (feat. Mondli Ngcobo)",
         "url": "https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS"
       },

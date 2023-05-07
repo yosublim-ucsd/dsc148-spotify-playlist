@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,437 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,452 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 49 | [Me Equivoqué](https://open.spotify.com/track/4CQBDMKxrXyBHn0rK2Y1IN) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Equivoqué](https://open.spotify.com/album/7iFGsdLVmXjCiPeVdDTYX7) | 3:34 |
 | 50 | [La Inocente](https://open.spotify.com/track/3DorvzqMYuJYiqLDZ2ZAfL) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [La Inocente](https://open.spotify.com/album/2vbmdHFnbWA3y9Li7rmHre) | 3:03 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlYjQ3NzAwY2MwNTVkOWE1NWZlOTkyMDJkMGM3YTZlNw==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAwN2U2NjA3Yzk1NDc3MWUxMjIxYmQ4MTdhNDNkOWM2MQ==`

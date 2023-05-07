@@ -4,7 +4,7 @@
 
 > Abajo y a la izquierda.
 
-217 songs - 13 hr 36 min
+218 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Cumbia Espacial](https://open.spotify.com/track/7eVJeKvIDJxypSLzzzcBdz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica](https://open.spotify.com/album/22Q8xEKl3NoUnT8EdJBMb2) | 4:05 | 2021-10-16 | 2022-07-27 |
 | [Cumbia Espacial](https://open.spotify.com/track/7y40GtUQ2pO4rV652rVazz) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Ondatrópica \(Deluxe Version\)](https://open.spotify.com/album/2clte0oolrkkXFTJy72us2) | 4:05 | 2021-10-16 | 2023-03-16 |
 | [Cumbia Picaflor](https://open.spotify.com/track/4a9RaQAeibPpoznLBInePW) | [Martin Bruhn](https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548) | [Picaflor](https://open.spotify.com/album/6hqHri7SavECH7FTczDDzt) | 3:57 | 2021-10-16 | 2022-07-28 |
-| [Cumbiera Intelectual](https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 4:10 | 2022-04-23 |  |
+| [Cumbiera Intelectual](https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Sur o No Sur](https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq) | 4:10 | 2022-04-23 | 2023-05-07 |
 | [Dame Tu Wasap](https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw) | [Los Cotopla Boyz](https://open.spotify.com/artist/0YkRMiBfwJaxLp2WhSl9eV) | [Mamarron, Vol.1](https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy) | 5:20 | 2022-09-03 | 2022-10-29 |
 | [Danza de Gardenias \(feat\. Los Macorinos\)](https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 4:23 | 2022-03-30 |  |
 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 | 2022-01-04 | 2022-07-26 |
@@ -153,7 +153,7 @@
 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 | 2021-10-16 |  |
 | [Mr\. Carisma](https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mr\. Carisma](https://open.spotify.com/album/7AjCD9Rg4Pv7Fp5SHv3B5n) | 3:51 | 2021-10-16 | 2023-01-11 |
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-10-16 | 2022-07-29 |
-| [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 | 2021-10-16 | 2023-04-03 |
+| [Muñeca](https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon appetit \(Lo Mejor de Paté de Fuá\)](https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f) | 3:17 | 2021-10-16 |  |
 | [Nada Es Verdad](https://open.spotify.com/track/4ftzLFaY6XO0oYIzyFsaHk) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Nada Es Verdad](https://open.spotify.com/album/46WaTkyRFajPFcK9rb9yAX) | 3:47 | 2021-10-16 | 2022-07-29 |
 | [Navegar](https://open.spotify.com/track/1BTzmYpxAtpJ18ql2mP82s) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Navegar](https://open.spotify.com/album/2nNzpj5R1xuqeu7yLtP4tb) | 3:08 | 2023-02-21 | 2023-03-31 |
 | [Navegarte](https://open.spotify.com/track/6MCZ45zKWI2bDJiXyA4D89) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P), [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Navegarte](https://open.spotify.com/album/3EnDEoq5RsCTDpI9mkUrwc) | 3:54 | 2022-08-19 | 2022-10-29 |
@@ -164,7 +164,8 @@
 | [No Necesito Más](https://open.spotify.com/track/57cgMgigMPJoLD1Mj6VLNu) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [No Necesito Más](https://open.spotify.com/album/2BKdKPVXTHoHb4pXVl4nN0) | 3:39 | 2021-10-16 | 2022-07-29 |
 | [Nuestra Canción](https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 4:20 | 2021-10-16 |  |
 | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/track/4LeFqJu2fxnJdx0QFZ0jkc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Nuestra Canción \(feat\. Vicente García\)](https://open.spotify.com/album/1OZR2tmOPp9fwaIeO3MHmj) | 4:20 | 2021-10-16 | 2022-11-13 |
-| [Octopus](https://open.spotify.com/track/5DRamynEcg9LYLBpGCRBQK) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:51 | 2023-04-12 |  |
+| [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-12 |  |
+| [Octopus](https://open.spotify.com/track/5DRamynEcg9LYLBpGCRBQK) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:51 | 2023-04-12 | 2023-05-07 |
 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 | 2021-10-16 |  |
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2023-01-03 | 2023-03-07 |
 | [Otros Colores](https://open.spotify.com/track/3BjeDL2PyNiWkXiEtFt72g) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Otros Colores](https://open.spotify.com/album/3LhYjyYhsZlN7x1YinJpbS) | 5:51 | 2021-10-16 | 2023-03-18 |

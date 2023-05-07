@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,596 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,602 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/3exoPpEA6dsPy7EL9ogyvZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: The Essential Collection \(Live\)](https://open.spotify.com/album/03DfS2VzqyO1I8aCuZAH31) | 7:21 |
 | 50 | [Lay Me Down \- Live](https://open.spotify.com/track/090yW5nfZqCi8jVtf9WxvP) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Passion: White Flag](https://open.spotify.com/album/1xuZPjUaD8wODDfpWbJH9e) | 5:25 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkNzQ0YTIyNDM2MDI3NjJiZjRmYzYwMWNhODliYTBlZg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA3NWIwZjYzYzUxOTQwZjg2OTIyNGEwZmNkMGNiOThmZQ==`

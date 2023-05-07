@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,031 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,250 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 9 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 |
 | 10 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
 | 11 | [Anthem](https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Anthem](https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc) | 4:03 |
-| 12 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
-| 13 | [On a Ragga Tip '97 \- Original Mix](https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On a Ragga Tip '97](https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI) | 5:09 |
+| 12 | [On a Ragga Tip '97 \- Original Mix](https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On a Ragga Tip '97](https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI) | 5:09 |
+| 13 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 14 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |
 | 15 | [It's a Fine Day](https://open.spotify.com/track/67Hp634KZbo9B5WMsJOalE) | [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Mind Fruit](https://open.spotify.com/album/5qPIkrDnqxksLOFpFYqvEz) | 5:30 |
 | 16 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 39 | [Tell Me Why \- M&M Full Vocal](https://open.spotify.com/track/0aGRKtwhsZuirMYWtdOn1Y) | [Rachel Wallace](https://open.spotify.com/artist/2wfU1vhvZxd5wBQFsWkH5b) | [Tell Me Why](https://open.spotify.com/album/2EvVTKuwdx4574wjfvYOnG) | 4:47 |
 | 40 | [Cübik](https://open.spotify.com/track/5BxETnZ8Dzm86jcuFAozOa) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [Utd\. State 90](https://open.spotify.com/album/7DWTuqhMmJIE9Py0e8Wa5C) | 3:41 |
 | 41 | [Your Love \- Remix](https://open.spotify.com/track/6vsy0Bg3BeAyq7INPGEA2o) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Experience](https://open.spotify.com/album/7uSC6NXKlE3zGo0mu8Ik5r) | 5:31 |
-| 42 | [R.I.P.](https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P / Ice Cream & Syrup](https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W) | 4:36 |
-| 43 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 |
+| 42 | [Only You \(Original Mix\) \[2011 Remastered Version\]](https://open.spotify.com/track/0Y3VMlkIVyqG7Xkvdskdcz) | [Nookie](https://open.spotify.com/artist/491cHKkjRVcGaChy40l4Bh) | [Klass of '92 \- '95 \(Lesson 3\)](https://open.spotify.com/album/5oHQcV6vmrKk1suY99ORYK) | 5:19 |
+| 43 | [R.I.P.](https://open.spotify.com/track/1SHNtEYq8rz1MnCpAQVHnP) | [Remarc](https://open.spotify.com/artist/0nCxyI85p7XgWv2LLv4S9d) | [R.I.P / Ice Cream & Syrup](https://open.spotify.com/album/5RX5DEe12BK2L8FCCPQv3W) | 4:36 |
 | 44 | [DJs Take Control](https://open.spotify.com/track/4BBQFns2zAlQHdIvEpVG2p) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [DJs Take Control](https://open.spotify.com/album/57CmPHHFqK8aa3Yknb3hQW) | 5:05 |
 | 45 | [This Style](https://open.spotify.com/track/2rYo8S1hlnyx7aH9h87So2) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [This Style](https://open.spotify.com/album/7acwlv5XvgMfSXtGQiMnDR) | 5:34 |
 | 46 | [40 Miles](https://open.spotify.com/track/7yZuzE8dyvegAEsGo3yyRo) | [Congress](https://open.spotify.com/artist/34g0SuVnC8oefEeUlmYXBT) | [40 Miles](https://open.spotify.com/album/0FGGbq9a4SLw27m9WZ5DHA) | 5:28 |
 | 47 | [It's a Jazz Thing \- Utah Jazz Remix](https://open.spotify.com/track/5eoOlqmQgdThwZolUnW6OH) | [Roni Size](https://open.spotify.com/artist/5UjqeSp9dX6Nrge7WdDukr), [Utah Jazz](https://open.spotify.com/artist/1qDIEHxFTJPRYmLO40RL5e) | [It's a Jazz Thing / It's a Big up Thing \(Remixes\)](https://open.spotify.com/album/2IeYXZiKQaxmd5xXeQm8db) | 6:00 |
 | 48 | [No Good \(Start the Dance\)](https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:19 |
-| 49 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 |
-| 50 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
+| 49 | [Kinetic \- Frank De Wulf Remix](https://open.spotify.com/track/1rEwHLv7SHNSFhmOLx6svp) | [Golden Girls](https://open.spotify.com/artist/03H68X0SYi03kXB8Lj0OR2) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 5:48 |
+| 50 | [Breaking Free](https://open.spotify.com/track/6IRt1vOT1AyMpmhfTZLDy8) | [Slipmatt](https://open.spotify.com/artist/0F71ra6iKMvn6ndmnaM2Lr) | [Pure Rave \- The Very Best Of Old Skool](https://open.spotify.com/album/3v5BpAStWBBZpyHr1wsngS) | 5:40 |
 
-Snapshot ID: `MCw5NWExNzY0NjE0ZWUxMWZmZDMyNmU3ZGQyOTA1ODA5NTFhMGQ0NThi`
+Snapshot ID: `MCxhOTIwMDIwNGM1ZWM3Njg5NDFmZDgxYThmZWUzM2YxMDc4YTVlNTIy`

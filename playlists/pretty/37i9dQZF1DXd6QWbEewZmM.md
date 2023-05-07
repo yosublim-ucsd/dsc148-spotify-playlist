@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,140 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,470 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 35 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 |
 | 36 | [La Vi Llorar](https://open.spotify.com/track/3G8WaQkwVSwlcDGRHniG3w) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 4:45 |
 | 37 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
-| 38 | [Y Cambió Mi Suerte](https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC) | 3:05 |
-| 39 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 |
+| 38 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 |
+| 39 | [Y Cambió Mi Suerte](https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC) | 3:05 |
 | 40 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
 
-Snapshot ID: `MCw0ODY1YzQwZDA1ZTZmMDBlYTFiMDRmMjYxMzA3NzQzOWFkM2QxZTQz`
+Snapshot ID: `MCw3OTQ1ZGY3OGNhNzA2NmFhOWRjNjVkY2QxMTkxNjI0YzhkMDI1Mzll`

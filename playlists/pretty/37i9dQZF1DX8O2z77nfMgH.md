@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Emilia y Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,157 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,196 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 61 | [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 |
 | 62 | [Nunca Nunca](https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 2:51 |
 | 63 | [Blister](https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP) | [Blister](https://open.spotify.com/album/2M6B6ARH3uJLF8rZ0lQrWD) | 3:49 |
-| 64 | [Oveja Negra](https://open.spotify.com/track/3uEyczN7G5BIApCQr34cuv) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Flavia Coehlo](https://open.spotify.com/artist/5QUStnRpahmkmlgPf6jSAz) | [La Película](https://open.spotify.com/album/1ysktNeXGT6eHdnebb4LBh) | 2:52 |
+| 64 | [Oveja Negra](https://open.spotify.com/track/3uEyczN7G5BIApCQr34cuv) | [Sol Pereyra](https://open.spotify.com/artist/6nmZ0P2weepXhXvox51G1A), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [La Película](https://open.spotify.com/album/1ysktNeXGT6eHdnebb4LBh) | 2:52 |
 | 65 | [Como Antes \- Sped Up Version](https://open.spotify.com/track/59KdpDZJjlFu8qLeqKdpBB) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y) | [Como Antes](https://open.spotify.com/album/1Qr3Ih47x7bcNgklf7xs9u) | 3:28 |
 | 66 | [Pacific Ocean](https://open.spotify.com/track/718vrbQpydNkvFfk7wYm8F) | [Geezmo](https://open.spotify.com/artist/4WeV818vJ6dSmgg6c8VA49), [AuraBeats](https://open.spotify.com/artist/5BI0OndVBDq3oohfelsWnO) | [Pacific Ocean](https://open.spotify.com/album/1uABNs966qJx5bC2Op5CHU) | 2:50 |
 | 67 | [Horas](https://open.spotify.com/track/5CCCk6rRJS0wTPHFY6vWR9) | [Alexis Play](https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [AFROCOLOMBIA](https://open.spotify.com/album/2rRxRnkCMNcnctsli9i5aU) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 74 | [PUESTO PA´L MONEY](https://open.spotify.com/track/4EPYVkNr0DvsUdQfuy6GuJ) | [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [PUESTO PA´L MONEY](https://open.spotify.com/album/5xlppWxHS3l75U5ou3t120) | 3:12 |
 | 75 | [Coisas do Amor \- Ao Vivo](https://open.spotify.com/track/6qITMbvJsUCRbSplE6Ca9B) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 3:39 |
 
-Snapshot ID: `MCxhNDI4OTg1MDU4NDhiN2I2NTQ0MDg1YzgwNzFmNTE0MzMwODk2NGUy`
+Snapshot ID: `MCw3Zjc1MTBkMjBjMDM0ZmM0YWY5NWEyNzk5Y2U5MzdkMDgwNGQ3Zjkz`

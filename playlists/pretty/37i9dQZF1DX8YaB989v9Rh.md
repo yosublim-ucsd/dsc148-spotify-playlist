@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,171 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,226 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 8 | [Club Can't Handle Me \(feat\. David Guetta\)](https://open.spotify.com/track/6ebkx7Q5tTxrCxKq4GYj0Y) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:54 |
 | 9 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 |
 | 10 | [I Write Sins Not Tragedies](https://open.spotify.com/track/4bPQs0PHn4xbipzdPfn6du) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:06 |
-| 11 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 |
-| 12 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
+| 11 | [Crazy](https://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B) | 3:02 |
+| 12 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 |
 | 13 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 14 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 |
 | 15 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 28 | [What's Luv? \(feat\. Ashanti\)](https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO) | [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [What's Luv? \(feat\. Ashanti\)](https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0) | 3:50 |
 | 29 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
 | 30 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
-| 31 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
-| 32 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
+| 31 | [Get Me Home](https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA) | [Ill Na Na](https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk) | 3:49 |
+| 32 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 33 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
 | 34 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
 | 35 | [Can't Leave 'Em Alone \(feat\. 50 Cent\)](https://open.spotify.com/track/78CTv7ypHvXQlEjXYst2n9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Evolution](https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 49 | [Number One \(feat\. Kanye West\)](https://open.spotify.com/track/3zQGmJ4k3JeqwAjfrEcwHp) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:18 |
 | 50 | [Talk About Our Love \(feat\. Kanye West\)](https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:34 |
 
-Snapshot ID: `MCxiM2I0NDBiMmQ1MjE1N2JjYjZmZmFlNTcwNmJmMjk5Mzg0NzE3MGU0`
+Snapshot ID: `MCw3MzQ4MDI2MjBiOTNmOTNjYjQwNWU5ZTM5Zjg0YjcxMDFiMzhiMTc5`

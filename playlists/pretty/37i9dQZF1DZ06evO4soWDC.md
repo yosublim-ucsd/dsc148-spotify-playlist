@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 
 > This is Luca Brasi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 42 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 628 likes - 42 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4soWDC.md) - [plain]
 | 41 | [Guillotines in Arbour Park](https://open.spotify.com/track/1YeLt5s1urg85IfzKqXsQQ) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Extended Family](https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd) | 3:10 |
 | 42 | [41 Degrees](https://open.spotify.com/track/6hcu3jshFcAQrTZG5AOiG0) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Loose Threads](https://open.spotify.com/album/1tmpr3ZW6dkXVN9pMZjcIR) | 2:23 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA3YWNkNDkxMjIxNTIwYTlkZjA1ZjgxZWEwNzg5N2ZkYQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBlNzQ5MjBkMmM1NGU1M2EwZTIzNzE0ZTE4MWQ4MzEyNQ==`

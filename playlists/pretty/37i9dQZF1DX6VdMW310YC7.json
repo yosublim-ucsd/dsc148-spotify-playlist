@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3616277,
+  "num_followers": 3608068,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2MxYWYyMGI5NmI5NDFmMzIxZTMzMmZlMmEzMWFmNTVlMWJhZWQ3",
+  "snapshot_id": "MCwxNWY2N2UxZmUwMWU1ZTk4YTdkN2MyNDExZWU3MzZlYTZmNGRiNmRh",
   "tracks": [
     {
       "added_at": "2023-05-05 18:37:12",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 187990,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w"
+    },
+    {
+      "added_at": "2023-05-05 18:37:12",
+      "album": {
         "name": "Far From Here Remix Album",
         "url": "https://open.spotify.com/album/10qBFkA0NUFwbJaU6Iupa9"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 197419,
       "name": "Until We Leave the Ground - Steve James Remix",
       "url": "https://open.spotify.com/track/3LX6Bv3jfbABw1KQsYOYtZ"
-    },
-    {
-      "added_at": "2023-05-05 18:37:12",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/4JbY02dRmfHxC2PQvEV27k"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 187990,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/3x7jbRUvcoULvi1WFEHo5w"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "The Last Dance, Pt 2",
-        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 193608,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
-    },
-    {
-      "added_at": "2023-05-05 18:37:12",
-      "album": {
         "name": "Matter of Time",
         "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 240009,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
+    },
+    {
+      "added_at": "2023-05-05 18:37:12",
+      "album": {
+        "name": "The Last Dance, Pt 2",
+        "url": "https://open.spotify.com/album/4G3baEMOnQ7bs0xV8Pgdov"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 193608,
+      "name": "The Chase",
+      "url": "https://open.spotify.com/track/0SANWT6WZgajOViFe0EkCO"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+    },
+    {
+      "added_at": "2023-05-05 18:37:12",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/5hH8hyj1Jrhi2dYwv9nhDO"
       },
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "I Do",
-        "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
-    },
-    {
-      "added_at": "2023-05-05 18:37:12",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39"
       },
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "HOLD YOU",
-        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
+        "name": "Where did you go",
+        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
       "artists": [
         {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
         }
       ],
-      "duration_ms": 174545,
-      "name": "HOLD YOU",
-      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
+      "duration_ms": 168000,
+      "name": "Where did you go",
+      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -1363,26 +1367,18 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "Red Lights (EMBRZ Remix)",
-        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+        "name": "HOLD YOU",
+        "url": "https://open.spotify.com/album/5KgTqGLDlJo6kL67PMbRdi"
       },
       "artists": [
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Red Lights - EMBRZ Remix",
-      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+      "duration_ms": 174545,
+      "name": "HOLD YOU",
+      "url": "https://open.spotify.com/track/5YOcEEKHgs1IgqudZ5vx8Q"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -1423,6 +1419,30 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
+        "name": "Red Lights (EMBRZ Remix)",
+        "url": "https://open.spotify.com/album/1sMXnH8UVOImXuVXQMbnZ4"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Red Lights - EMBRZ Remix",
+      "url": "https://open.spotify.com/track/5LRkGpPO2dYjqByYu7AsmD"
+    },
+    {
+      "added_at": "2023-05-05 18:37:12",
+      "album": {
         "name": "Beyond Beliefs",
         "url": "https://open.spotify.com/album/5bjamshqsgnOFuEktHNKru"
       },
@@ -1459,26 +1479,6 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "Teenage Heart",
-        "url": "https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX"
-      },
-      "artists": [
-        {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Teenage Heart",
-      "url": "https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD"
-    },
-    {
-      "added_at": "2023-05-05 18:37:12",
-      "album": {
         "name": "Something About",
         "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
       },
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "Where did you go",
-        "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
+        "name": "Teenage Heart",
+        "url": "https://open.spotify.com/album/1YSEwLeE1tJKjVdlPYxPoX"
       },
       "artists": [
         {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         },
         {
-          "name": "MAGNUS",
-          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+          "name": "Nina Carr",
+          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Where did you go",
-      "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+      "duration_ms": 243750,
+      "name": "Teenage Heart",
+      "url": "https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/54CmG1AfTqV64hZWzxzXdg"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 363870,
-      "name": "La Ni\u00f1a",
-      "url": "https://open.spotify.com/track/1IScK9EouXWhB6TpCbgmRR"
-    },
-    {
-      "added_at": "2023-05-05 18:37:12",
-      "album": {
         "name": "Indulgence",
         "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
@@ -1579,6 +1563,26 @@
       "duration_ms": 269508,
       "name": "Indulgence",
       "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+    },
+    {
+      "added_at": "2023-05-05 18:37:12",
+      "album": {
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -1603,22 +1607,18 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/54CmG1AfTqV64hZWzxzXdg"
       },
       "artists": [
         {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
         }
       ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+      "duration_ms": 363870,
+      "name": "La Ni\u00f1a",
+      "url": "https://open.spotify.com/track/1IScK9EouXWhB6TpCbgmRR"
     },
     {
       "added_at": "2023-05-05 18:37:12",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-05-05 18:37:12",
       "album": {
-        "name": "The Color of Nothing",
-        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
-      },
-      "artists": [
-        {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Fruit&Sun",
-      "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
-    },
-    {
-      "added_at": "2023-05-05 18:37:12",
-      "album": {
         "name": "Love Like We're Dying",
         "url": "https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 183876,
       "name": "Love Like We're Dying",
       "url": "https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5"
+    },
+    {
+      "added_at": "2023-05-05 18:37:12",
+      "album": {
+        "name": "The Color of Nothing",
+        "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
+      },
+      "artists": [
+        {
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+        }
+      ],
+      "duration_ms": 177857,
+      "name": "Fruit&Sun",
+      "url": "https://open.spotify.com/track/69cmKJCT4thXR1qT1g34w7"
     },
     {
       "added_at": "2023-05-05 18:37:12",

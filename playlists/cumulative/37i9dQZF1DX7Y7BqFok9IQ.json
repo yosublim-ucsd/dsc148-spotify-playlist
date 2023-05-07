@@ -1955,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Fortress",
+        "url": "https://open.spotify.com/album/32A8uyNy25uuVwIBpbBGN9"
+      },
+      "artists": [
+        {
+          "name": "Chris Leamy",
+          "url": "https://open.spotify.com/artist/1JPn3XQNeGEYGAxqC8apQx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165954,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/2DzqISlf588gxZuIWQN9LM"
+    },
+    {
+      "album": {
         "name": "Louder",
         "url": "https://open.spotify.com/album/3IeXcZHEGTwtu0TLFQ0djd"
       },
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 219249,
       "name": "Louder",
       "url": "https://open.spotify.com/track/64u5BCxJ7tkiN3Zru9agqt"

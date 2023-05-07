@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Helen Ochoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,132 likes - 65 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,125 likes - 65 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,22 +33,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 23 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 24 | [Ismael \(En Vivo\)](https://open.spotify.com/track/614Kdv71MWjSPwDK7pNyTy) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Ismael \(En Vivo\)](https://open.spotify.com/album/5CJzX8xV9XeSlC22tWPJ4T) | 2:43 |
 | 25 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 |
-| 26 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
-| 27 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
+| 26 | [Reza y Reza](https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Reza y Reza](https://open.spotify.com/album/1Yw0c3gRC5VgTo6Qylq824) | 2:52 |
+| 27 | [Ojos Cerrados](https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Ojos Cerrados](https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq) | 2:36 |
 | 28 | [Ese es el problema](https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Ese es el problema](https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f) | 2:47 |
 | 29 | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By), [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [¿Quién Te Dijo Que Es Por Ti?](https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO) | 3:00 |
 | 30 | [Triste Recuerdo](https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9) | 3:23 |
 | 31 | [Besarte Así](https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Besarte Así](https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw) | 3:54 |
 | 32 | [Así Nomás](https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9) | [Así Nomás](https://open.spotify.com/album/1DJ1t2VC98iToO2Xw0cIPy) | 3:11 |
-| 33 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
-| 34 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
+| 33 | [Contigo](https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Contigo](https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ) | 3:33 |
+| 34 | [La Bruja](https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj) | [Paulina Del Campo](https://open.spotify.com/artist/43QA7bAAIZZHlwwZvctCUt) | [La Bruja](https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN) | 3:45 |
 | 35 | [Tres Veces Te Engañe](https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz) | [Sarah La Morena](https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ) | [Tres Veces Te Engañe](https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw) | 3:35 |
 | 36 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
 | 37 | [Ni El Dinero Ni Nada \- En Vivo](https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Ni El Dinero Ni Nada \(En Vivo\)](https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP) | 2:30 |
 | 38 | [Un Amor en el Olvido](https://open.spotify.com/track/0HospTDnDM29cIreAUpPqQ) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [Un Amor en el Olvido](https://open.spotify.com/album/6q00MyI9sqAZ5RcglZzi0R) | 3:02 |
 | 39 | [Sangre De Gorilla](https://open.spotify.com/track/3pfkSqEtTtNvhxBVK79wZD) | [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [Sangre De Gorilla](https://open.spotify.com/album/1h1yedEryTGVq4wGIM5xjM) | 3:00 |
-| 40 | [8\-MER](https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [8\-MER](https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh) | 2:47 |
-| 41 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
+| 40 | [Soy Mala](https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB) | [Lluvia Arámbula](https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92) | [Adrenalina](https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc) | 1:57 |
+| 41 | [8\-MER](https://open.spotify.com/track/1E4ZLD7Ecw7QU7P5CV8Fda) | [ROSUL](https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD) | [8\-MER](https://open.spotify.com/album/48yI3SckIfu3mWkWZZIqfh) | 2:47 |
 | 42 | [Te fallaste a ti](https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [Te fallaste a ti](https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH) | 3:02 |
 | 43 | [Empoderada](https://open.spotify.com/track/7n7NCdkIoSDB5VTazPcKFP) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Empoderada](https://open.spotify.com/album/5BO9Ecu5Qk8t5Z7MBhXSWD) | 2:44 |
 | 44 | [En Mil Cosas \- En Vivo](https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m) | [Lili Zetina](https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j) | [En Mil Cosas \(En Vivo\)](https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL) | 3:14 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [Porque tengo ganas](https://open.spotify.com/track/1NhYdNcgFUaM8NxhQIUcr6) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Porque tengo ganas](https://open.spotify.com/album/5HNGVRUvb5ivWwIIGMshw3) | 3:48 |
 | 65 | [Vanessa Guillen](https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB) | [Ivonne Galaz](https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G) | [Vanessa Guillen](https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq) | 3:27 |
 
-Snapshot ID: `MCxmNjJmZjFjN2I4OTJkM2U1NDg0ZGRkNzAyOTcwYmFhOTJlNDFjOTAy`
+Snapshot ID: `MCwxZDIwYzYzZjQzODA0N2JiNmIzZmQ5M2Y5ZmEyYjkyZGQ4YjE4MGYy`

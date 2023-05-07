@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de \u00e9xitos para ponerle ritmo a las tareas del hogar.",
-  "num_followers": 301697,
+  "num_followers": 301874,
   "original_name": "\u00a1A limpiar con Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmVmZjAyZTQ5Yjk3YzJkNzg4OTliMGE5M2U5OTQ0NWY0NzliYzNi",
+  "snapshot_id": "MCw4YmZkMDc4ZGMxM2E0ODQ4ODY2MTMwYTk5ZGM3ZjIxMmFmYTY4MTBm",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
       },
@@ -467,18 +483,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -583,42 +603,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "qu\u00e9 le pasa conmigo?",
-        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 167251,
-      "name": "qu\u00e9 le pasa conmigo?",
-      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Tiroteo (Remix)",
         "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Todo De Ti",
         "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
       },
       "artists": [
         {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
         }
       ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+      "duration_ms": 247640,
+      "name": "Dueles",
+      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -723,22 +739,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 247640,
-      "name": "Dueles",
-      "url": "https://open.spotify.com/track/1iRvhKiXRElIH2Uf4gd95P"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 199112,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 231773,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 199112,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 127333,
-      "name": "COMO HAS ESTAU?",
-      "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 252346,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "COMO HAS ESTAU?",
+      "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Pareja Del A\u00f1o",
         "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 195053,
       "name": "Pareja Del A\u00f1o",
       "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 229509,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/0Gx4VrHzS7pZOEAGrmXXBH"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Am\u00e1rrame",
-      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Perfecta (Versi\u00f3n 2023)",
         "url": "https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 221053,
       "name": "Perfecta (Versi\u00f3n 2023)",
       "url": "https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Am\u00e1rrame",
+      "url": "https://open.spotify.com/track/3EK4tGkSiO5xvvB5sM4tln"
     },
     {
       "added_at": "2023-04-21 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 433076,
+  "num_followers": 434519,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTkzMTJlOGRlNmQ3NGM5OGQzN2I3OTM0ZDdiNjFkZGU3MzA5MDI4",
+  "snapshot_id": "MCxlYTBiN2ExMjBiNmQ4YTEwOGYwMzk5MTM5OGJmM2MzMzg2ZDhmMjg4",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "H2O",
         "url": "https://open.spotify.com/album/7ygXmT175bKbOpiPjNwXOB"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 273173,
       "name": "Maneater",
       "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Like a Virgin",
-      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You",
+      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You",
-      "url": "https://open.spotify.com/track/1ukHtC2BBs51jmSGaxoEeL"
+      "duration_ms": 218626,
+      "name": "Like a Virgin",
+      "url": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Foreign Affair",
+        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 329800,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 245600,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Foreign Affair",
-        "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
-      },
-      "artists": [
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
-        }
-      ],
-      "duration_ms": 329800,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1289,20 +1289,20 @@
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+        "name": "All In a Night's Work (Expanded Version)",
+        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "KC & The Sunshine Band",
+          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
         }
       ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+      "duration_ms": 254240,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1325,20 +1325,20 @@
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "All In a Night's Work (Expanded Version)",
-        "url": "https://open.spotify.com/album/52BJ1S5NOv7eFD6ZFDZga2"
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
       },
       "artists": [
         {
-          "name": "KC & The Sunshine Band",
-          "url": "https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 254240,
-      "name": "Give It Up",
-      "url": "https://open.spotify.com/track/3yDhZq8f17SmumVmEyCaRN"
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 302693,
-      "name": "Everything She Wants",
-      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
         "name": "Live Is Life",
         "url": "https://open.spotify.com/album/6QFG7oroyUrjT0LeXHt7CD"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 249500,
       "name": "Live Is Life (Digitally Remastered) (Single Version)",
       "url": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 302693,
+      "name": "Everything She Wants",
+      "url": "https://open.spotify.com/track/5hXEcqQhEjfZdbIZLO8mf2"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1789,38 +1789,6 @@
       "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 215326,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Keep On Movin'",
@@ -1839,6 +1807,38 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Freedom of Choice",
+        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+      },
+      "artists": [
+        {
+          "name": "DEVO",
+          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Whip It",
+      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
         "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
       },
@@ -2115,18 +2131,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Freedom of Choice",
-        "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
+        "name": "The Innocents",
+        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
       },
       "artists": [
         {
-          "name": "DEVO",
-          "url": "https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3"
+          "name": "Erasure",
+          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
         }
       ],
-      "duration_ms": 161133,
-      "name": "Whip It",
-      "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+      "duration_ms": 213373,
+      "name": "A Little Respect",
+      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2147,22 +2163,6 @@
       "duration_ms": 235693,
       "name": "Say Say Say - Remastered 2015",
       "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Innocents",
-        "url": "https://open.spotify.com/album/7BS88XlHgbYq4bEnO6sICd"
-      },
-      "artists": [
-        {
-          "name": "Erasure",
-          "url": "https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89"
-        }
-      ],
-      "duration_ms": 213373,
-      "name": "A Little Respect",
-      "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2197,22 +2197,6 @@
       "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Another Step",
-        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
-      },
-      "artists": [
-        {
-          "name": "Kim Wilde",
-          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
-        }
-      ],
-      "duration_ms": 255220,
-      "name": "You Keep Me Hangin On",
-      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Brothers in Arms",
@@ -2227,6 +2211,22 @@
       "duration_ms": 252466,
       "name": "Walk of Life",
       "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Another Step",
+        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 255220,
+      "name": "You Keep Me Hangin On",
+      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2341,6 +2341,22 @@
       "url": "https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Hotter Than July",
+        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 307933,
+      "name": "Master Blaster (Jammin')",
+      "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Come On Eileen / Dubious",
@@ -2359,22 +2375,6 @@
       "duration_ms": 205933,
       "name": "Come On Eileen - Single Edit",
       "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Hotter Than July",
-        "url": "https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 307933,
-      "name": "Master Blaster (Jammin')",
-      "url": "https://open.spotify.com/track/5EAgXGJ8Kw5QAfhQkZXYqT"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
       },
       "artists": [
         {
-          "name": "Ultravox",
-          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
         }
       ],
-      "duration_ms": 244120,
-      "name": "Dancing with Tears in My Eyes",
-      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2441,20 +2441,20 @@
       "url": "https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
         }
       ],
-      "duration_ms": 248000,
-      "name": "When the Going Gets Tough, The Tough Get Going",
-      "url": "https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME"
+      "duration_ms": 244120,
+      "name": "Dancing with Tears in My Eyes",
+      "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
     }
   ],
   "unique_name": "80s Party",

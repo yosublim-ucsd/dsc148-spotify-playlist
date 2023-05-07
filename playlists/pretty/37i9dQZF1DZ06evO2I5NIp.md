@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,415 likes - 49 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,420 likes - 49 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 48 | [I Sing The Blues](https://open.spotify.com/track/6yDMznqxh0KFnifAL5a9C1) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [33 1/3](https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d) | 4:59 |
 | 49 | [The Other Woman](https://open.spotify.com/track/08iJoM0fYwdZJ86Ts3KJCH) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:18 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA5NjBlZGY3ZGIwOWVkYjAzMjU2MWRiZmM4OTY5NTVkZg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwOGVhOTgxNmIzZThmMzhlMmUxYWQwZjRlYzJjOGU1ZQ==`

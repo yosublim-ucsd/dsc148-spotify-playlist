@@ -1,12 +1,12 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Mat\u00f3 a un Polic\u00eda Motorizado",
-  "num_followers": 76918,
+  "num_followers": 77009,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGY1MzJmNDk2ZDI5MjA2ZTdiMmQ2NGZhYjE3MGVkMDZkMDkxN2Nh",
+  "snapshot_id": "MCxmNjYwY2EyY2MwY2YwMDRjYWU1Yjc4MDFkMTU1OTJhNWZmZmQwMmNm",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Armando Camale\u00f3n",
-        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 237546,
-      "name": "Campanas en la Noche",
-      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+        "name": "Armando Camale\u00f3n",
+        "url": "https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+      "duration_ms": 237546,
+      "name": "Campanas en la Noche",
+      "url": "https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Despedazado Por Mil Partes",
-        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Abre",
         "url": "https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 342160,
       "name": "Dos en la ciudad",
       "url": "https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Despedazado Por Mil Partes",
+        "url": "https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/3qSsdVel7dNcpW4khZejHa"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -619,6 +619,22 @@
       "duration_ms": 208586,
       "name": "El trato",
       "url": "https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "P\u00e9talo de sal",
+      "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -703,22 +719,6 @@
       "duration_ms": 295773,
       "name": "Cuando Est\u00e9s Ac\u00e1",
       "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "P\u00e9talo de sal",
-      "url": "https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "La Sed",
-        "url": "https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT"
-      },
-      "artists": [
-        {
-          "name": "La Triple Nelson",
-          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Cielo Todo Gris",
-      "url": "https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Los A\u00f1os Salvajes",
         "url": "https://open.spotify.com/album/6s0bWGDnpbhpCYx5JBUt8Y"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 266773,
       "name": "Encuentros Cercanos",
       "url": "https://open.spotify.com/track/2Yqe9TulIPXUESIoMTr3pX"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "La Sed",
+        "url": "https://open.spotify.com/album/5bOQcSrMniUTGZq4Np1zjT"
+      },
+      "artists": [
+        {
+          "name": "La Triple Nelson",
+          "url": "https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Cielo Todo Gris",
+      "url": "https://open.spotify.com/track/5kDOkt2XCum4V4mlITOX7u"
     },
     {
       "added_at": "2023-03-17 03:00:00",

@@ -4,7 +4,7 @@
 
 > いま話題の曲をまとめてチェック。ゴールデンウィーク特別版！Cover: YOASOBI
 
-507 songs - 1 day 6 hr 9 min
+508 songs - 1 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Resonance](https://open.spotify.com/track/7iXkiBI5lr8uVIXfFjSk5c) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Resonance](https://open.spotify.com/album/0kGtdwXSM5qwRhRzeD8xxP) | 3:30 | 2023-02-03 | 2023-02-18 |
 | [Rice Spice](https://open.spotify.com/track/34IAM1iapMADhwJc5kxxip) | [nana](https://open.spotify.com/artist/7uzEQGrUAupBJK2j3uQsoC) | [Rice Spice](https://open.spotify.com/album/0pQ7biuEQJGAMZJk5c3v6y) | 1:50 | 2023-03-10 | 2023-03-18 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-10 | 2023-03-25 |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-05 |  |
 | [ROCKET FUEL \- Kasabian vs The Prodigy](https://open.spotify.com/track/6P3S5vhYqghIABJBTnXHWC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue), [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB), [Liam Howlett](https://open.spotify.com/artist/3UKIiIkOIj6NEzAPClAM3t) | [ROCKET FUEL \(Kasabian vs The Prodigy\)](https://open.spotify.com/album/70M5xxRiUvfJKzuYMyg2Ur) | 4:00 | 2023-04-28 |  |
 | [Romance](https://open.spotify.com/track/0rhMvEJsl55VRQl3JnI8JW) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Romance](https://open.spotify.com/album/4ga7FkWrJ8GCty2rCF6QpM) | 3:56 | 2023-02-17 | 2023-02-25 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/1GHRempxln5XiNEYYvPz7f) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [rose \(feat\. Vaundy\)](https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB) | 3:07 | 2023-02-03 | 2023-02-25 |

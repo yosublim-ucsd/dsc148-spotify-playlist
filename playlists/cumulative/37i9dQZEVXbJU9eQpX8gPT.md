@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,045 songs - 2 day 9 hr 43 min
+1,046 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [a7lam](https://open.spotify.com/track/1NJi2hZVX5DvMzZbcFM0Zq) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [a7lam](https://open.spotify.com/album/1lgMjhsaS7ng1LbIIMXeeh) | 4:08 | 2021-09-14 | 2021-10-04 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-10 | 2022-01-29 |
 | [ACDC](https://open.spotify.com/track/2bqLj2lI1fEgiVuqrIF3Gd) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [ACDC](https://open.spotify.com/album/3hLs2CpWBgcjnK8r2JJKHS) | 4:00 | 2022-03-18 | 2022-05-08 |
+| [Ach Khbarek](https://open.spotify.com/track/6ggJpewsdCo3CaL3Nr85l7) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ach Khbarek](https://open.spotify.com/album/098t9Kq3ur8aLYeOB9776Z) | 3:48 | 2023-05-06 |  |
 | [Adams](https://open.spotify.com/track/22kGpzO0EAdYy9yaPGvKGJ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Gala](https://open.spotify.com/album/5thNlwr5FFcXWjtZAlfRH0) | 2:54 | 2022-05-07 | 2022-06-13 |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2021-04-06 | 2021-06-16 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
@@ -286,7 +287,7 @@
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-01-08 |
 | [El barrio](https://open.spotify.com/track/3HFkMYk8c5Khmfl0nmQYHm) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:28 | 2023-01-07 | 2023-02-14 |
 | [El Barrio](https://open.spotify.com/track/26W3t5wyq40iJYrpddWPbY) | [GOGOXBEAT](https://open.spotify.com/artist/24qc7pA7CzpmLAY7rr09kf) | [OMERTA](https://open.spotify.com/album/1eS2XzJ1XwWNTky6LZJxVX) | 2:28 | 2023-01-08 | 2023-01-10 |
-| [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2023-05-02 |  |
+| [ELGHIRA](https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [ELGHIRA](https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm) | 2:45 | 2023-05-02 | 2023-05-07 |
 | [ElGRANDE TOTO Leo](https://open.spotify.com/track/5PZ6LUihzGRfztkLib7K91) | [Anass Marbouh](https://open.spotify.com/artist/1rNCHLdAWPEmXSVAghhslN) | [ElGRANDE TOTO Leo](https://open.spotify.com/album/5WLbRmbbRcusSZljU55u8V) | 2:58 | 2021-08-07 | 2021-08-09 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-01-06 | 2022-03-17 |
 | [Emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-03-16 | 2022-07-28 |
@@ -670,7 +671,7 @@
 | [N13](https://open.spotify.com/track/0fekY543uGW1pGoSLuyvTr) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [N13](https://open.spotify.com/album/0plsfXFZk3RNyHMWBimiWS) | 2:39 | 2023-03-18 | 2023-03-20 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-05-29 |
 | [Nada Frontera](https://open.spotify.com/track/4rn3BSiy61O4oGkusBaMQH) | [Ali Ssamid](https://open.spotify.com/artist/7naCkywRMOSMBnYhFbiM3G) | [Nada Frontera](https://open.spotify.com/album/5ReVuiTr6SowfC8EepWK8a) | 3:02 | 2021-11-10 | 2021-11-11 |
-| [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2021-03-27\* | 2023-03-12 |
+| [Nadi Canadi](https://open.spotify.com/track/14WP9aPMpre8L1u0RcRO5Q) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Nadi Canadi](https://open.spotify.com/album/2jpvgjBgN35oVu0bkQ0eTE) | 3:41 | 2021-03-27\* |  |
 | [Namasté](https://open.spotify.com/track/1375s9UvwpHaB9MH8tLlXc) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [XXXRAYS](https://open.spotify.com/artist/71S3b5lQHZQgtsQHGyoj52), [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:48 | 2021-06-24 | 2021-06-25 |
 | [Napoli](https://open.spotify.com/track/3RgA5F34sshv7YfdAvRtne) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:54 | 2021-09-15 | 2021-11-05 |
 | [Nar](https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Nar](https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd) | 3:23 | 2023-04-30 | 2023-05-02 |
@@ -989,7 +990,7 @@
 | [Waka Waka \(This Time for Africa\) \[The Official 2010 FIFA World Cup \(TM\) Song\] \(feat\. Freshlyground\)](https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Listen Up! The Official 2010 FIFA World Cup Album](https://open.spotify.com/album/0CKqyf7ptIwn4EtOV8nddm) | 3:22 | 2022-12-11 | 2022-12-13 |
 | [Wassup](https://open.spotify.com/track/43UNel0foTxcR7P8GAqgyt) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW) | [MAVERICK](https://open.spotify.com/album/3JhS1oQJZYMhNRvyzotCZ3) | 2:24 | 2021-09-22 | 2021-10-16 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-09-27 |
-| [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 | 2022-12-12 |  |
+| [WAYLE](https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [WAYLE](https://open.spotify.com/album/2NRpmLrRQOapraNh2MCRnZ) | 3:10 | 2022-12-12 | 2023-05-07 |
 | [Wayli](https://open.spotify.com/track/3A7dwHjFWQmMEctIQCUxDc) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/0uz6OPsa2Gne3JoG54NCCE) | 4:19 | 2022-11-01 | 2022-11-30 |
 | [Wcham Jnah God](https://open.spotify.com/track/3kEc5LEynL7f90Qw3vq8a1) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 3:54 | 2021-05-08 | 2021-05-16 |
 | [We Cry Together](https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Taylour Paige](https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 5:41 | 2022-05-14 | 2022-05-27 |

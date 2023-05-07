@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Eruca Sativa.\nDales play, dales power.",
-  "num_followers": 29524,
+  "num_followers": 29518,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTRhNmJhMGY3OGNiMTcxNGQ3OWMxMTY4Y2UyYTIxMzNiMDdmN2Mz",
+  "snapshot_id": "MCwxN2U1MjRhNDRmODM5ZmJkODJiOTYwODlhN2U0Y2ZhZDA4Yzk2M2Q3",
   "tracks": [
     {
       "added_at": "2023-05-03 03:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Piedra del \u00c1guila",
-        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 194470,
-      "name": "Piedra del \u00c1guila",
-      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Blanco",
         "url": "https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 193680,
       "name": "Fuera o M\u00e1s All\u00e1",
       "url": "https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Piedra del \u00c1guila",
+        "url": "https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 194470,
+      "name": "Piedra del \u00c1guila",
+      "url": "https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
+        "name": "Solomias",
+        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
+      },
+      "artists": [
+        {
+          "name": "Melanie Williams & El Cabloide",
+          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
+        }
+      ],
+      "duration_ms": 125333,
+      "name": "Solomias",
+      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
         "name": "M\u00e1gica Intuici\u00f3n",
         "url": "https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
-        "name": "Solomias",
-        "url": "https://open.spotify.com/album/06cawtPKkwWUdt30hgfoIf"
-      },
-      "artists": [
-        {
-          "name": "Melanie Williams & El Cabloide",
-          "url": "https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Solomias",
-      "url": "https://open.spotify.com/track/4lIocFgnBIEuugfXHTlq0h"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Correr Adentro",
-        "url": "https://open.spotify.com/album/1xFdj2dVA2nIYnYuU0hUuq"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 127875,
-      "name": "Poder",
-      "url": "https://open.spotify.com/track/1USbQDLPadvpXrfmm2z6j4"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Gracias por Cuidar el Equipo",
         "url": "https://open.spotify.com/album/4eVPY8ZtGm1KDS8P1RKsCY"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 227328,
       "name": "Directa",
       "url": "https://open.spotify.com/track/4SuLvV6N2mpxucwiWLJ4oc"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Correr Adentro",
+        "url": "https://open.spotify.com/album/1xFdj2dVA2nIYnYuU0hUuq"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 127875,
+      "name": "Poder",
+      "url": "https://open.spotify.com/track/1USbQDLPadvpXrfmm2z6j4"
     },
     {
       "added_at": "2023-05-03 03:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-03 03:00:00",
       "album": {
-        "name": "Dir\u00e9 tu nombre",
-        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
-      },
-      "artists": [
-        {
-          "name": "Agua Florida",
-          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
-        }
-      ],
-      "duration_ms": 179950,
-      "name": "Dir\u00e9 tu nombre",
-      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
-    },
-    {
-      "added_at": "2023-05-03 03:00:00",
-      "album": {
         "name": "Los Viernes",
         "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 199386,
       "name": "Los Viernes",
       "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
+    },
+    {
+      "added_at": "2023-05-03 03:00:00",
+      "album": {
+        "name": "Dir\u00e9 tu nombre",
+        "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
+      },
+      "artists": [
+        {
+          "name": "Agua Florida",
+          "url": "https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq"
+        }
+      ],
+      "duration_ms": 179950,
+      "name": "Dir\u00e9 tu nombre",
+      "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
     },
     {
       "added_at": "2023-05-03 03:00:00",

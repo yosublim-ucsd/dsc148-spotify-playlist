@@ -2864,7 +2864,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 146024,
       "name": "Billy's",
       "url": "https://open.spotify.com/track/2PWCVG5pnozZU1ycQHgYl2"
@@ -3162,7 +3162,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 178823,
       "name": "BOLIVIA",
       "url": "https://open.spotify.com/track/5mIQunQDz2X9MIbZN1q7Qt"
@@ -4175,6 +4175,32 @@
     },
     {
       "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "V9",
+          "url": "https://open.spotify.com/artist/4wxuAb9fWzcKg0s7VVKb3v"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/7bvBC2CZeSFJrgkxIVeARH"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137378,
+      "name": "Chop It",
+      "url": "https://open.spotify.com/track/212EKXbTKl5cTgJN7ke4OF"
+    },
+    {
+      "album": {
         "name": "Made in Athens",
         "url": "https://open.spotify.com/album/7ixSPgCEincMrIGIt25vi0"
       },
@@ -5018,10 +5044,32 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 159882,
       "name": "De Sou Kanw Plaka",
       "url": "https://open.spotify.com/track/3oK3x91dAtDsgZgko5RVBQ"
+    },
+    {
+      "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137817,
+      "name": "Deal",
+      "url": "https://open.spotify.com/track/3K1iJbTscs8Lj6ByTP6VDc"
     },
     {
       "album": {
@@ -6783,6 +6831,32 @@
     },
     {
       "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/7bvBC2CZeSFJrgkxIVeARH"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166148,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/2sRAgeVLhjAB9v3B46Pwjn"
+    },
+    {
+      "album": {
         "name": "Money and Drugs Can't Live In Poverty",
         "url": "https://open.spotify.com/album/4Q0nPhizN3vwTyzlvskQkC"
       },
@@ -6944,7 +7018,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 217538,
       "name": "ERIMO",
       "url": "https://open.spotify.com/track/2cXQUlkrLVrfxOJe6wjhJb"
@@ -7742,7 +7816,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 170889,
       "name": "Forema",
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
@@ -8712,6 +8786,28 @@
       "duration_ms": 250810,
       "name": "God's Gift",
       "url": "https://open.spotify.com/track/5L2saTRKB5M6Y0bDiFn1Z4"
+    },
+    {
+      "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117296,
+      "name": "Goku",
+      "url": "https://open.spotify.com/track/6YLKERkq90RCgfcIYB0MoP"
     },
     {
       "album": {
@@ -9975,6 +10071,28 @@
     },
     {
       "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/7bvBC2CZeSFJrgkxIVeARH"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91139,
+      "name": "Interlude Mania",
+      "url": "https://open.spotify.com/track/1MK15gGuPzOBV5pRAnzC13"
+    },
+    {
+      "album": {
         "name": "Still Active",
         "url": "https://open.spotify.com/album/6yfbRFac4pSvmPOc2INxFe"
       },
@@ -10020,6 +10138,28 @@
       "duration_ms": 233802,
       "name": "Interrail",
       "url": "https://open.spotify.com/track/03u4CH8SP4davgdbacEL6W"
+    },
+    {
+      "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65217,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/5Y322waDE5RkvtNr9cjmBN"
     },
     {
       "album": {
@@ -11882,7 +12022,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 248993,
       "name": "Lavara & Balaclava In C Minor",
       "url": "https://open.spotify.com/track/556odxVF413mUJcEdFldBD"
@@ -12468,6 +12608,32 @@
       "duration_ms": 218731,
       "name": "Lofos Aksiomatikon",
       "url": "https://open.spotify.com/track/0XbR60LIk4Qf3wdvGr8wdd"
+    },
+    {
+      "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Logout",
+      "url": "https://open.spotify.com/track/3uUzvB3mza6FwzWD8W4j7Y"
     },
     {
       "album": {
@@ -13732,7 +13898,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 183092,
       "name": "MEDITERRANEAN",
       "url": "https://open.spotify.com/track/0C11SdO6nuqHDx230fZ2Gh"
@@ -13931,6 +14097,32 @@
     },
     {
       "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189087,
+      "name": "Mesanyxta",
+      "url": "https://open.spotify.com/track/2FCqyniLVmMNQ5IrUkjd8e"
+    },
+    {
+      "album": {
         "name": "Messi",
         "url": "https://open.spotify.com/album/6jKknmLf1326njwOwMVufl"
       },
@@ -14074,7 +14266,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 178369,
       "name": "Mi Milas",
       "url": "https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT"
@@ -15048,7 +15240,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 155550,
       "name": "My View",
       "url": "https://open.spotify.com/track/0Jij8PPXDFB0VOyZviOYNy"
@@ -15879,6 +16071,24 @@
     },
     {
       "album": {
+        "name": "Odos Monaxias",
+        "url": "https://open.spotify.com/album/5mqQS5Dan3AKU9mh6zlZwS"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256862,
+      "name": "Odos Monaxias",
+      "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -16305,6 +16515,28 @@
     },
     {
       "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Solid",
+          "url": "https://open.spotify.com/artist/7bvBC2CZeSFJrgkxIVeARH"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/3q7GvqptCpiOWoOjD0piDX"
+    },
+    {
+      "album": {
         "name": "Tesla",
         "url": "https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m"
       },
@@ -16670,6 +16902,24 @@
       "duration_ms": 182000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/21xcnEC8ZIr8nTtI8xyDeS"
+    },
+    {
+      "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186446,
+      "name": "Panorama - Bonus Track",
+      "url": "https://open.spotify.com/track/2VKua9wDtyCDu8ptCFtc8D"
     },
     {
       "album": {
@@ -17120,7 +17370,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 201600,
       "name": "PELATES",
       "url": "https://open.spotify.com/track/6JlrosVyi7QUwaeHgx3dhW"
@@ -17160,6 +17410,24 @@
       "duration_ms": 187585,
       "name": "Permission to Dance",
       "url": "https://open.spotify.com/track/0LThjFY2iTtNdd4wviwVV2"
+    },
+    {
+      "album": {
+        "name": "Pes",
+        "url": "https://open.spotify.com/album/0vPvhmytzsrSGl925uZwmJ"
+      },
+      "artists": [
+        {
+          "name": "ZAF",
+          "url": "https://open.spotify.com/artist/0vC9IaLo87ruiqkOXmPvPO"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "Pes",
+      "url": "https://open.spotify.com/track/49gmgcrQp7nozLlmYue3Du"
     },
     {
       "album": {
@@ -17226,7 +17494,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 156478,
       "name": "Piece de Resistance In D Minor",
       "url": "https://open.spotify.com/track/4W8kSlWzmX8VdZULh4Y4ET"
@@ -17532,7 +17800,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 192597,
       "name": "Poli Tou Atofiou Kakou In E Minor",
       "url": "https://open.spotify.com/track/0y8pJqoqbetkbSgrnNllqH"
@@ -20965,6 +21233,24 @@
     },
     {
       "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/5UacNXtLBLpHwNwq2FEQxT"
+    },
+    {
+      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -21072,6 +21358,24 @@
       "duration_ms": 193084,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/4zK6erYhtbxlG1kYK02krv"
+    },
+    {
+      "album": {
+        "name": "Mektoub 2",
+        "url": "https://open.spotify.com/album/0ziJGsXI9ChAS0pPnVc4HS"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148652,
+      "name": "Terata",
+      "url": "https://open.spotify.com/track/6t8lcTQ1aFc8Ymz3zx4HrJ"
     },
     {
       "album": {
@@ -21562,7 +21866,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 148677,
       "name": "Tn",
       "url": "https://open.spotify.com/track/3ZBjsEi5IF54yXCizKTNdi"
@@ -23012,7 +23316,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 193994,
       "name": "Victoriam In F Minor",
       "url": "https://open.spotify.com/track/2S9F35tyc3rAmAjDKWFI5N"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,251 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,268 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Miracle In The Middle Of My Heart](https://open.spotify.com/track/144AU6jf1J8fl0wLaQw4e8) | [BCX](https://open.spotify.com/artist/0g8dyAYXMj72hIsb8ttK32) | [Miracle In The Middle Of My Heart](https://open.spotify.com/album/0JqOjZEbmUwV4k7QIHnOPG) | 2:54 |
 | 2 | [Baxter \(these are my friends\)](https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [Baxter \(these are my friends\)](https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz) | 4:04 |
-| 3 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
-| 4 | [Feel It Still](https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Feel It Still](https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t) | 3:42 |
+| 3 | [Feel It Still](https://open.spotify.com/track/4J0KBaH6ZJh0dVqc7XlYT6) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [Feel It Still](https://open.spotify.com/album/2DeswM9o7EwLJFlaVXQi6t) | 3:42 |
+| 4 | [Retreat](https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db) | [Sinee](https://open.spotify.com/artist/51m5eelgEze59Y7Llef5o7) | [Retreat](https://open.spotify.com/album/6o9yafKaNEdM5nxKtA2WyC) | 2:51 |
 | 5 | [When The Rain Came](https://open.spotify.com/track/4MPDnIwhYbwqnQzkHKDp3h) | [Felix Johansson Carne](https://open.spotify.com/artist/5tb6pZdgWLr5oHOlSgtiqk) | [A Message From Your Space Cat](https://open.spotify.com/album/595Vz1BEE85V5qZFY5beiD) | 5:06 |
 | 6 | [On The Rhode](https://open.spotify.com/track/2U6xRL9locnLYWFJVCgFkn) | [Milton Keys](https://open.spotify.com/artist/3aIodStjj8tDqIshTdX78h) | [On The Rhode](https://open.spotify.com/album/3KnzouLLc8NsQbya3u0Yd6) | 3:47 |
 | 7 | [Treat Me Right \- Instrumental](https://open.spotify.com/track/7AFImE2Z2j8orgVVc5MgoM) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Treat Me Right](https://open.spotify.com/album/5bmQcoWunv50RmZmNMj858) | 3:41 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 55 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
 | 56 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 57 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
-| 58 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
-| 59 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
+| 58 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
+| 59 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 60 | [Trembling](https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:48 |
 
-Snapshot ID: `MCwwMmY2NmRmZGNlNzQ5Mzk3MGU0ZWUxZWI1ZTc2OWIxNGI3NjNiMDdk`
+Snapshot ID: `MCw2MGE5YjA5ZTc2ZjliYmNkY2UzYmY2MWNhZjY1NGE5ZDFiZGI3NzRh`

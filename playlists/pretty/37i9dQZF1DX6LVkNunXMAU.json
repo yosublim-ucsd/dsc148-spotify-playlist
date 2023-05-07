@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Luz Pinos",
-  "num_followers": 54034,
+  "num_followers": 54038,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDQzNDQyZTM4MzdmZjc1ZGYwNWNiOTQxOWQxODQzYTA2MjRjYTAx",
+  "snapshot_id": "MCw0ZDU2ODAyODIxYzg0MTc5ZWJiZjNkNzZhMzk2NDg5Yzg1Mjk5NjBl",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -163,6 +163,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "otro lugar \u2022 despertar",
+        "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 186155,
+      "name": "otro lugar \u2022 despertar",
+      "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 183888,
       "name": "No Te Puedo Decir Que No",
       "url": "https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "otro lugar \u2022 despertar",
-        "url": "https://open.spotify.com/album/4jeRDEalab9KTcclcSRrBC"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 186155,
-      "name": "otro lugar \u2022 despertar",
-      "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Mis Amantes",
-        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Kastiello",
-          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
-        }
-      ],
-      "duration_ms": 229622,
-      "name": "Mis Amantes",
-      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Dame",
         "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 201000,
       "name": "CTM",
       "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Mis Amantes",
+        "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Kastiello",
+          "url": "https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X"
+        }
+      ],
+      "duration_ms": 229622,
+      "name": "Mis Amantes",
+      "url": "https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        }
+      ],
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Track",
         "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
-      },
-      "artists": [
-        {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
-        }
-      ],
-      "duration_ms": 244689,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "parkour",
         "url": "https://open.spotify.com/album/5rXCyHFLbBRDCMzcIpkVnL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 230292,
       "name": "parkour",
       "url": "https://open.spotify.com/track/4tr21CwLteQmwz1E1IwgZY"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/5GtNzOeObvCTuob1bxt7e0"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 244689,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/5g2zTEnrgZQa9MInAahB3h"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -791,42 +791,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Atada",
-        "url": "https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv"
-      },
-      "artists": [
-        {
-          "name": "Sofi Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD"
-        },
-        {
-          "name": "Mariana Michi",
-          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
-        }
-      ],
-      "duration_ms": 171605,
-      "name": "Atada",
-      "url": "https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -843,22 +807,18 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "No Ves Tal Vez",
-        "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
       },
       "artists": [
         {
-          "name": "Lisandro Aristimu\u00f1o",
-          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
-        },
-        {
-          "name": "Jono McCleery",
-          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
         }
       ],
-      "duration_ms": 209829,
-      "name": "No Ves Tal Vez",
-      "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -883,6 +843,26 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Atada",
+        "url": "https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv"
+      },
+      "artists": [
+        {
+          "name": "Sofi Ter\u00e1n",
+          "url": "https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD"
+        },
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        }
+      ],
+      "duration_ms": 171605,
+      "name": "Atada",
+      "url": "https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 223349,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "No Ves Tal Vez",
+        "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        },
+        {
+          "name": "Jono McCleery",
+          "url": "https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy"
+        }
+      ],
+      "duration_ms": 209829,
+      "name": "No Ves Tal Vez",
+      "url": "https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 193750,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/6zxhQ5fk9XWNJ7RiqLq8QU"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/7qwjFIlGWlWB4JqxGjqKIp"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
+        "name": "Los Viernes",
+        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 199386,
+      "name": "Los Viernes",
+      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
         "name": "Coronita",
         "url": "https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 232742,
       "name": "Universos Distintos",
       "url": "https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
-        "name": "Los Viernes",
-        "url": "https://open.spotify.com/album/4m53CrqQEMLqam0yoBOxDN"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        },
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 199386,
-      "name": "Los Viernes",
-      "url": "https://open.spotify.com/track/2VtiabfPpLPA3w3c1Tp92t"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Mi lugar en el mundo",
-        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
-      },
-      "artists": [
-        {
-          "name": "Agustina Pampin",
-          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Mi lugar en el mundo",
-      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 166500,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Mi lugar en el mundo",
+        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
+      },
+      "artists": [
+        {
+          "name": "Agustina Pampin",
+          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Mi lugar en el mundo",
+      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
     },
     {
       "added_at": "2023-04-21 03:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "De Viaje",
-        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
-      },
-      "artists": [
-        {
-          "name": "Cata Raybaud",
-          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
-        }
-      ],
-      "duration_ms": 202956,
-      "name": "De Viaje",
-      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Technicolor",
         "url": "https://open.spotify.com/album/1eCnBj2lBRyQO4OQ4k02S1"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 194903,
       "name": "Technicolor",
       "url": "https://open.spotify.com/track/2IT2dv2O70Zz1ppgJxBsA7"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "De Viaje",
+        "url": "https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU"
+      },
+      "artists": [
+        {
+          "name": "Cata Raybaud",
+          "url": "https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I"
+        }
+      ],
+      "duration_ms": 202956,
+      "name": "De Viaje",
+      "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
     },
     {
       "added_at": "2023-04-21 03:00:00",

@@ -227,6 +227,28 @@
     },
     {
       "album": {
+        "name": "Bebiendo (feat. Ms Nina)",
+        "url": "https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk"
+      },
+      "artists": [
+        {
+          "name": "La Favi",
+          "url": "https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166223,
+      "name": "Bebiendo (feat. Ms Nina)",
+      "url": "https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC"
+    },
+    {
+      "album": {
         "name": "Blade",
         "url": "https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28"
       },

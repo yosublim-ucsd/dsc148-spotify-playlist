@@ -103,6 +103,32 @@
     },
     {
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6oGhSS3fgBmqjpd0yuO9fi"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY"
+    },
+    {
+      "album": {
         "name": "Och vinnaren \u00e4r...",
         "url": "https://open.spotify.com/album/7K3z58HrZ2RJR2j82xWbsc"
       },
@@ -3124,7 +3150,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 166062,
       "name": "BUBBEL P\u00c5 BALKONGEN",
       "url": "https://open.spotify.com/track/1RwQZNgaXl01krZHuSUlE8"
@@ -4249,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
+    },
+    {
+      "album": {
         "name": "Och som vanligt h\u00e4nder det n\u00e5got hemskt (Kapitel 1)",
         "url": "https://open.spotify.com/album/3WwG3XxkNpTD59sm4QiyoE"
       },
@@ -4774,7 +4818,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 141904,
       "name": "Det \u00c4r Jag Inte Du",
       "url": "https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt"
@@ -6783,6 +6827,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+    },
+    {
+      "album": {
         "name": "Eyes Closed (Piano Version)",
         "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
       },
@@ -6794,7 +6856,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
@@ -7182,7 +7244,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/7tl3Dr9Bzee4AJRsBiK3KB"
@@ -14812,7 +14874,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 209710,
       "name": "Mandy Moore",
       "url": "https://open.spotify.com/track/2vD1hN8Oxqfh4umefOVIqP"
@@ -15174,7 +15236,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 218049,
       "name": "Mentalit\u00e9 RMX (feat. C.Gambino)",
       "url": "https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI"
@@ -21267,6 +21329,24 @@
     },
     {
       "album": {
+        "name": "Starkare",
+        "url": "https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145283,
+      "name": "Starkare",
+      "url": "https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX"
+    },
+    {
+      "album": {
         "name": "Mitt hj\u00e4rta bara sviker mig",
         "url": "https://open.spotify.com/album/6nQln0lriO0jiB1cYEdEVD"
       },
@@ -23235,6 +23315,24 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/0bCLG3QbItecMjIQ2WHOmr"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128841,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0mz9vn7wCRPaDb9WoProZa"
+    },
+    {
+      "album": {
         "name": "TO\u00d9TO\u00d9",
         "url": "https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq"
       },
@@ -23538,7 +23636,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 189680,
       "name": "Tr\u00e4dg\u00e5rden en fredag",
       "url": "https://open.spotify.com/track/1oFoY6INRnHIpHY6ssPxBm"

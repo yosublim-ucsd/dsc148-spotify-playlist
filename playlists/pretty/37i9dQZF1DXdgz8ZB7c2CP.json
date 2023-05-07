@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Flume",
-  "num_followers": 749839,
+  "num_followers": 749976,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODkzNGQwMWE1NWE0YzdjYTg3MTg5MWMwNTkxOGE5OGI3MzllNDk3",
+  "snapshot_id": "MCwyNzBhMTU3Y2ViODI3NTg2MWY0ZTI2NTU2ODJmODFlMzc0YzYzYzQz",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -939,22 +939,22 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Thirst (Hex Cougar Remix)",
-        "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
+        "name": "Thinkin About",
+        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "ShockOne",
+          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
         },
         {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+          "name": "Lee Mvtthews",
+          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
         }
       ],
-      "duration_ms": 204963,
-      "name": "Thirst - Hex Cougar Remix",
-      "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
+      "duration_ms": 159245,
+      "name": "Thinkin About",
+      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -979,42 +979,22 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Thinkin About",
-        "url": "https://open.spotify.com/album/4SfWi60B50vfPPNEMUxxAs"
+        "name": "Thirst (Hex Cougar Remix)",
+        "url": "https://open.spotify.com/album/0qfL5xHK6BopkSSWeYVGvd"
       },
       "artists": [
         {
-          "name": "ShockOne",
-          "url": "https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         },
         {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
         }
       ],
-      "duration_ms": 159245,
-      "name": "Thinkin About",
-      "url": "https://open.spotify.com/track/679TnTjA1ad756mFFq91ZK"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 231803,
-      "name": "I Can't Tell (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
+      "duration_ms": 204963,
+      "name": "Thirst - Hex Cougar Remix",
+      "url": "https://open.spotify.com/track/4Z8RMY2AQ3qQV11t78zJN5"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1035,6 +1015,26 @@
       "duration_ms": 186885,
       "name": "Be With You (ft. Gloria Kim)",
       "url": "https://open.spotify.com/track/7nHAHRIIgs2LQWfKkUeTtM"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/23pL9muwrxg6ZZTp0oErBL"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Down The Line",
-        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Down The Line",
-      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Kid Calamity",
         "url": "https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Down The Line",
+        "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Down The Line",
+      "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1267,6 +1267,30 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Emotional (James Hiraeth Remix)",
+        "url": "https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        },
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Emotional - James Hiraeth Remix",
+      "url": "https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Social Jungle (Remixes)",
         "url": "https://open.spotify.com/album/1ieAAhsCYApk763sKtTgCB"
       },
@@ -1283,26 +1307,6 @@
       "duration_ms": 280975,
       "name": "Social Jungle - Hippie Sabotage Remix",
       "url": "https://open.spotify.com/track/0MiWH0qt7s1NaLywTKAB7q"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Loner (Remixes)",
-        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 170095,
-      "name": "Forever - Pauline Herr Rework",
-      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1327,6 +1331,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Loner (Remixes)",
+        "url": "https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 170095,
+      "name": "Forever - Pauline Herr Rework",
+      "url": "https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "CAGE SCRIPT",
         "url": "https://open.spotify.com/album/233ci2Dl2HFr9PheUIWaUx"
       },
@@ -1343,30 +1367,6 @@
       "duration_ms": 185142,
       "name": "FLOW IN YOU",
       "url": "https://open.spotify.com/track/2qyQRBwx86Ua7IogTGlMs8"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Emotional (James Hiraeth Remix)",
-        "url": "https://open.spotify.com/album/5tWUVYH8mUw4TQQaCtsWDi"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Matthew Koma",
-          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
-        },
-        {
-          "name": "James Hiraeth",
-          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Emotional - James Hiraeth Remix",
-      "url": "https://open.spotify.com/track/0Z2muIwFO7cZaPo21bYa8C"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1471,6 +1471,22 @@
       "duration_ms": 139130,
       "name": "Supercharged",
       "url": "https://open.spotify.com/track/5yziriLQ98fHzDUy9t278P"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1683,30 +1699,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Best Part About You (camoufly Remix)",
-        "url": "https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "camoufly",
-          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
-        }
-      ],
-      "duration_ms": 191823,
-      "name": "Best Part About You - camoufly Remix",
-      "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Light Garden",
         "url": "https://open.spotify.com/album/6vTBnxMMSX9OUHyJjJfZfe"
       },
@@ -1739,6 +1731,30 @@
       "duration_ms": 282000,
       "name": "Cosmopolitan",
       "url": "https://open.spotify.com/track/6oPoNJcfeXXBAjLwNmiVds"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Best Part About You (camoufly Remix)",
+        "url": "https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "duration_ms": 191823,
+      "name": "Best Part About You - camoufly Remix",
+      "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1975,22 +1991,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "TIME + ENERGY",
-        "url": "https://open.spotify.com/album/1Bgd2VZwTf6sPYtpwQKvgM"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "TIME + ENERGY",
-      "url": "https://open.spotify.com/track/25w0UAB6bOKU7M3EXwWgZh"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Knock the Wind Out",
         "url": "https://open.spotify.com/album/0cgdngdkYBSeSkoQ07SnLZ"
       },
@@ -2007,26 +2007,18 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Lights Out (Remix)",
-        "url": "https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC"
+        "name": "TIME + ENERGY",
+        "url": "https://open.spotify.com/album/1Bgd2VZwTf6sPYtpwQKvgM"
       },
       "artists": [
         {
-          "name": "Taska Black",
-          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        },
-        {
-          "name": "OSKI",
-          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Lights Out - Remix",
-      "url": "https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n"
+      "duration_ms": 178407,
+      "name": "TIME + ENERGY",
+      "url": "https://open.spotify.com/track/25w0UAB6bOKU7M3EXwWgZh"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -2083,22 +2075,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "SAVE ME",
-        "url": "https://open.spotify.com/album/2gsTzLveD0urryDTcY1Lto"
+        "name": "Lights Out (Remix)",
+        "url": "https://open.spotify.com/album/6MaW5BIEjrRYJe1Zb424CC"
       },
       "artists": [
         {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+          "name": "Taska Black",
+          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
         },
         {
-          "name": "Motel 7",
-          "url": "https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6"
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
+        },
+        {
+          "name": "OSKI",
+          "url": "https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ"
         }
       ],
-      "duration_ms": 111473,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/7K4Qx5XjMLsgJi71uHwbmG"
+      "duration_ms": 163800,
+      "name": "Lights Out - Remix",
+      "url": "https://open.spotify.com/track/6gVpJ1C8NJTsSkJePxTh0n"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -2123,6 +2119,26 @@
       "duration_ms": 192063,
       "name": "slomo (with Tohji & Midas The Jagaban)",
       "url": "https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "SAVE ME",
+        "url": "https://open.spotify.com/album/2gsTzLveD0urryDTcY1Lto"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Motel 7",
+          "url": "https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6"
+        }
+      ],
+      "duration_ms": 111473,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/7K4Qx5XjMLsgJi71uHwbmG"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -2203,26 +2219,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Never Be Mine",
-        "url": "https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF"
-      },
-      "artists": [
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        },
-        {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "Never Be Mine",
-      "url": "https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Mind",
         "url": "https://open.spotify.com/album/4R96TWKe91XV7yZj9Db53H"
       },
@@ -2259,6 +2255,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Never Be Mine",
+        "url": "https://open.spotify.com/album/7hJjm7oazb7hP0lTmLEuWF"
+      },
+      "artists": [
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        },
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        }
+      ],
+      "duration_ms": 154029,
+      "name": "Never Be Mine",
+      "url": "https://open.spotify.com/track/0awYObOk6SaUF1HovGwrVI"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM"
       },
@@ -2287,6 +2303,22 @@
       "duration_ms": 231910,
       "name": "heights",
       "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 287546,
+      "name": "No Other 1.2.2 [2021 Export Wav]",
+      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -2327,30 +2359,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "It's Our Destiny (Nitepunk Remix)",
-        "url": "https://open.spotify.com/album/3VweodPoEDWKlREBDJ2Bk5"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        },
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 174620,
-      "name": "It's Our Destiny - Nitepunk Remix",
-      "url": "https://open.spotify.com/track/4Az8fdFVrwfCzQ4XweZTC1"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3Fs0oAZB4cqzG2xdzhxqM7"
       },
@@ -2371,50 +2379,42 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Fuck Right Off",
-        "url": "https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv"
+        "name": "DOWN TO EARTH",
+        "url": "https://open.spotify.com/album/7b17kpTR2gJGfsuMUicZrh"
       },
       "artists": [
         {
-          "name": "Aliiias",
-          "url": "https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG"
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
         }
       ],
-      "duration_ms": 159252,
-      "name": "Fuck Right Off",
-      "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
+      "duration_ms": 207619,
+      "name": "DOWN TO EARTH",
+      "url": "https://open.spotify.com/track/1X2WoxWS5rVNlmHCWr4jsV"
     },
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/6MrhTYpb07TMkyCqKYIoOV"
+        "name": "It's Our Destiny (Nitepunk Remix)",
+        "url": "https://open.spotify.com/album/3VweodPoEDWKlREBDJ2Bk5"
       },
       "artists": [
         {
-          "name": "sumthin sumthin",
-          "url": "https://open.spotify.com/artist/2a8ez0A2owcYhFki9860sm"
-        }
-      ],
-      "duration_ms": 209299,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "The Deep End",
-        "url": "https://open.spotify.com/album/6AxSaWsfdBssqdDcqCHxyD"
-      },
-      "artists": [
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
         {
-          "name": "Lhasa Petik",
-          "url": "https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja"
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Nitepunk",
+          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
         }
       ],
-      "duration_ms": 206250,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
+      "duration_ms": 174620,
+      "name": "It's Our Destiny - Nitepunk Remix",
+      "url": "https://open.spotify.com/track/4Az8fdFVrwfCzQ4XweZTC1"
     }
   ],
   "unique_name": "creamy",

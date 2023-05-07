@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,723 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,745 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [El Loco](https://open.spotify.com/track/7AVGGhvVFm5QQ9HoMhePKX) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 3:08 |
 | 50 | [Me Va Y Me Viene](https://open.spotify.com/track/03AwEUNvTXg0f0fwyCgr1I) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Recordando](https://open.spotify.com/album/6dOXeCoGargfF3rc3n4slP) | 2:51 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyZWFhMmYxYjBjYjlmZGFhZTgwYTVkMWM1MTRhZjE3ZQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBjOGI0ZjY1ODkyNzk2ZTE0ZmU5ODQzNTZmMzFkZGEyNQ==`

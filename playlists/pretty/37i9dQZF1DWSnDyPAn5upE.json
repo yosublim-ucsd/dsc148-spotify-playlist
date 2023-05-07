@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 37016,
+  "num_followers": 37063,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDk3NWE3ODZiNzYwNzcxZGY1NGFiMTA2NGY0NzZiYzJkZDBiM2U3",
+  "snapshot_id": "MCxiMTI3ZTYwZWE4NzE0ZmRmZDM1NjIzZjVhZGI1ZTU0ODc2NjkzYWMx",
   "tracks": [
     {
       "added_at": "2023-05-05 14:55:06",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -403,6 +383,26 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -419,42 +419,6 @@
       "duration_ms": 193988,
       "name": "I Could Be Your Dog",
       "url": "https://open.spotify.com/track/2jSBYuzIyy7B2RqZNWEFlZ"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Leave No Path Untaken",
-        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
-      },
-      "artists": [
-        {
-          "name": "Seven24",
-          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
-        },
-        {
-          "name": "Soty",
-          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "I Lost You When the Rain Sang a Song - Original Mix",
-      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -479,6 +443,42 @@
       "duration_ms": 222212,
       "name": "CAPRICORN",
       "url": "https://open.spotify.com/track/4WkEVhfzvQYr0GqOyuRthu"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Leave No Path Untaken",
+        "url": "https://open.spotify.com/album/0aXI0wUIuX2yWN6zqvLuFU"
+      },
+      "artists": [
+        {
+          "name": "Seven24",
+          "url": "https://open.spotify.com/artist/5IXYo9w7gGGHL9djeFyFi7"
+        },
+        {
+          "name": "Soty",
+          "url": "https://open.spotify.com/artist/3yGtQC1LthTT17CCXb9adZ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "I Lost You When the Rain Sang a Song - Original Mix",
+      "url": "https://open.spotify.com/track/01CY7mMX7qFPg8t5bHPqB2"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -779,6 +779,26 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Honest Labour",
+        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
+      },
+      "artists": [
+        {
+          "name": "Space Afrika",
+          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
+        },
+        {
+          "name": "guest",
+          "url": "https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0"
+        }
+      ],
+      "duration_ms": 112980,
+      "name": "Indigo Grit (feat. guest)",
+      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "There Up, Behind The Moon",
         "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 463164,
       "name": "Soul Voices",
       "url": "https://open.spotify.com/track/4Taym4GnErWI1nc1qLTisL"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Honest Labour",
-        "url": "https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq"
-      },
-      "artists": [
-        {
-          "name": "Space Afrika",
-          "url": "https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5"
-        },
-        {
-          "name": "guest",
-          "url": "https://open.spotify.com/artist/3z72l07aiHkKJ04PeJmWU0"
-        }
-      ],
-      "duration_ms": 112980,
-      "name": "Indigo Grit (feat. guest)",
-      "url": "https://open.spotify.com/track/1czplEAtJ7PkPqgleO2dQ3"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Untitled",
-        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
-      },
-      "artists": [
-        {
-          "name": "YL Hooi",
-          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
-        }
-      ],
-      "duration_ms": 250440,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Meditations Mixtape Vol.1",
         "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 299666,
       "name": "Satnam Waheguru",
       "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Untitled",
+        "url": "https://open.spotify.com/album/1aVKHYdh9Qqv0lKulUturf"
+      },
+      "artists": [
+        {
+          "name": "YL Hooi",
+          "url": "https://open.spotify.com/artist/0IJ92bpsOtB6gFTWnUXrNY"
+        }
+      ],
+      "duration_ms": 250440,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2jVA4dv46MQ0NKMwvooEe9"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1151,6 +1151,22 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "alive & well (gratitude mantra)",
+        "url": "https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 634500,
+      "name": "alive & well (gratitude mantra)",
+      "url": "https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 295623,
+      "name": "Silent Talk",
+      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "SEIM",
         "url": "https://open.spotify.com/album/2417iYb0cUeCNgshb6wTz8"
       },
@@ -1283,18 +1315,18 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+        "name": "Ithaca",
+        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
       "artists": [
         {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+          "name": "Madeleine Cocolas",
+          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
         }
       ],
-      "duration_ms": 295623,
-      "name": "Silent Talk",
-      "url": "https://open.spotify.com/track/3l5wGV9SyxpNaBp5CCMhIc"
+      "duration_ms": 341000,
+      "name": "Across The Ocean, But Not Yet",
+      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1319,22 +1351,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Ithaca",
-        "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Cocolas",
-          "url": "https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Across The Ocean, But Not Yet",
-      "url": "https://open.spotify.com/track/003RirJuMCDzISyCbHLDVh"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Shimmer in the Sky (Yoko Komatsu Rework)",
         "url": "https://open.spotify.com/album/7JvpFn4ryPxuNo8HSgKHqw"
       },
@@ -1351,6 +1367,26 @@
       "duration_ms": 156000,
       "name": "Shimmer in the Sky - Yoko Komatsu Rework",
       "url": "https://open.spotify.com/track/7svmNfhslMWoTwwR7VGgPY"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Eyeline",
+        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
+      },
+      "artists": [
+        {
+          "name": "LEYA",
+          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
+        },
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 104544,
+      "name": "DOG",
+      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1411,22 +1447,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Cr\u00e9puscule I & II",
-        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
-      },
-      "artists": [
-        {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Cosmic Ray",
-      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Rare Backwards",
         "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
       },
@@ -1439,6 +1459,22 @@
       "duration_ms": 219196,
       "name": "18:00",
       "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Cr\u00e9puscule I & II",
+        "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
+      },
+      "artists": [
+        {
+          "name": "Tujiko Noriko",
+          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Cosmic Ray",
+      "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1515,26 +1551,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Eyeline",
-        "url": "https://open.spotify.com/album/6ijq6xImHU0pCW8Ea9kFL7"
-      },
-      "artists": [
-        {
-          "name": "LEYA",
-          "url": "https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 104544,
-      "name": "DOG",
-      "url": "https://open.spotify.com/track/1WEjS8vV0UpijxqkFU2Wi4"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "in altar wine",
         "url": "https://open.spotify.com/album/7vXJJhEz2978aiIy4DUBh9"
       },
@@ -1547,26 +1563,6 @@
       "duration_ms": 334038,
       "name": "in altar wine",
       "url": "https://open.spotify.com/track/3zbFIG5csRyb28Bn1FTTEP"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
-        "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
-      },
-      "artists": [
-        {
-          "name": "Adna",
-          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
-        },
-        {
-          "name": "Linn Elisabet",
-          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
-        }
-      ],
-      "duration_ms": 212444,
-      "name": "Immersed in Black Water - Linn Elisabet You Will Version",
-      "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1591,6 +1587,26 @@
       "duration_ms": 284988,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1d3wIYlKXUUylvCkIkbzXW"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Immersed in Black Water (Linn Elisabet You Will Version)",
+        "url": "https://open.spotify.com/album/5iXsdv1ARtSKnvNo2sBQdx"
+      },
+      "artists": [
+        {
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+        },
+        {
+          "name": "Linn Elisabet",
+          "url": "https://open.spotify.com/artist/7jen1FylCbdqGsPgIGWYtP"
+        }
+      ],
+      "duration_ms": 212444,
+      "name": "Immersed in Black Water - Linn Elisabet You Will Version",
+      "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1651,6 +1667,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Dalmarnock Tapes",
+        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
+      },
+      "artists": [
+        {
+          "name": "Cucina Povera",
+          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
+        }
+      ],
+      "duration_ms": 314036,
+      "name": "La\u0308mpo\u0308",
+      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Seeing Inside",
         "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
       },
@@ -1667,22 +1699,6 @@
       "duration_ms": 707200,
       "name": "From the Sea",
       "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Dalmarnock Tapes",
-        "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
-      },
-      "artists": [
-        {
-          "name": "Cucina Povera",
-          "url": "https://open.spotify.com/artist/46VnhKgQTmPBKdJBTuk0D1"
-        }
-      ],
-      "duration_ms": 314036,
-      "name": "La\u0308mpo\u0308",
-      "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1739,6 +1755,26 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "There Up, Behind The Moon",
+        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Ana Stamp",
+          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "For You I Am Missing \u2026",
+      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -1763,26 +1799,6 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "There Up, Behind The Moon",
-        "url": "https://open.spotify.com/album/31SDMBuesvAQqIYRtcdE0m"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Ana Stamp",
-          "url": "https://open.spotify.com/artist/43sN1WX3uVnjIWj4MohlDH"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "For You I Am Missing \u2026",
-      "url": "https://open.spotify.com/track/5rVeiG9p1XlvfC1ch2zqnp"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1835,22 +1851,6 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     }
   ],
   "unique_name": "ethereal voices",

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-696 songs - 1 day 12 hr 52 min
+697 songs - 1 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Breaking Up With A Friend](https://open.spotify.com/track/6Chhg96KqjbU3WU8GDEdsI) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Breaking Up With A Friend](https://open.spotify.com/album/3k8fo6a1vGdL9IVKkkeHRp) | 3:07 | 2022-04-01 | 2022-05-13 |
 | [Breathing](https://open.spotify.com/track/5J777XDZwF9qVdgq4S9UPM) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP), [maybealice](https://open.spotify.com/artist/4eBYaVn9ipycqNyknk2nPb) | [Breathing](https://open.spotify.com/album/0V3i5t2pEO9amGcykcBFPH) | 2:33 | 2023-02-09 | 2023-04-12 |
 | [Brev från botten](https://open.spotify.com/track/1cAwcnrI8oYYC4B1MMrrdr) | [Joel Alme](https://open.spotify.com/artist/6hSnbFV44BMzWgP9alWsTc) | [Brev från botten](https://open.spotify.com/album/0VOFmm3Q52uhN25LlCviJ2) | 3:10 | 2022-09-15 | 2022-10-16 |
-| [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 |  |
+| [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Bug Eye](https://open.spotify.com/track/0IhyGjf2QCm5BkgmotrSnR) | [Juli Capelius](https://open.spotify.com/artist/5lvgW9cUNZajEcT18Wui5p) | [Bug Eye](https://open.spotify.com/album/37FkslA5Is8lueB6qrALfG) | 2:05 | 2023-02-23 | 2023-04-07 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
@@ -446,6 +446,7 @@
 | [Nåt äkta](https://open.spotify.com/track/0GijOgh6mFH7J0UIhOBKnk) | [Adam Chia](https://open.spotify.com/artist/2pyhqBRwNtetqduSFHxaUX), [MAYKA](https://open.spotify.com/artist/4qVmTeHPsnwfF0QcQCGpnl) | [Hellre än mig själv](https://open.spotify.com/album/0pISOIFj7YO5fhpoBlzHoW) | 3:40 | 2022-06-09 | 2022-07-29 |
 | [Oas](https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 3:17 | 2023-04-01 |  |
 | [Oh Baby](https://open.spotify.com/track/5KeJHKaYCrj7zlCmUQFJgM) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [FELIPE](https://open.spotify.com/album/50rSkiR15M7T5u517w92F2) | 2:45 | 2021-12-16 | 2022-05-13 |
+| [Okomplicerat](https://open.spotify.com/track/4qU1Tg6e4EjqHpXCqRgl5Y) | [Dom Första](https://open.spotify.com/artist/10uLT8GVnmWiYqegEwaO70) | [Okomplicerat](https://open.spotify.com/album/7oODwFGKBTWSHXBpDdwjwk) | 2:39 | 2023-05-04 |  |
 | [Old Bad Habit](https://open.spotify.com/track/5T3vJQMbv9q3NTdhJGzjdL) | [Ella Sandberg](https://open.spotify.com/artist/7dBEqG8CE5CpOlxq6wLEB6) | [Old Bad Habit](https://open.spotify.com/album/6D0kdMFXdmHr6Du1WYK6vI) | 3:41 | 2022-05-26 | 2022-07-28 |
 | [Old Love](https://open.spotify.com/track/2LHfTmsBdzIWGE3Cafqpvm) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Overflow](https://open.spotify.com/album/3EJugt4J6YJ4ieReakz5TC) | 2:54 | 2021-12-16 | 2022-03-11 |
 | [Om det ändå räckte att ångra sig](https://open.spotify.com/track/6sDB6B9NkOy0LdLGhPKOu6) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Djur och människa](https://open.spotify.com/album/4Q6QpBgnx0XhGEgZHTC0hd) | 3:03 | 2022-06-09 | 2023-02-17 |

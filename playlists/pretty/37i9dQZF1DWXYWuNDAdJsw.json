@@ -1,12 +1,12 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 829923,
+  "num_followers": 830064,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjgyYmIzNzY4NDJkMDg0NGFkM2FlOTllODc0Mjk3NTA3YWMxNjkx",
+  "snapshot_id": "MCw2OThlMDFkMTNkM2NjMTlhZTg4NDc3ZDI3YzdjZTNhODQ4Mzc2OTRh",
   "tracks": [
     {
       "added_at": "2023-04-21 23:09:47",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
-    },
-    {
-      "added_at": "2023-04-21 23:09:47",
-      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 204700,
       "name": "Bella y Sensual",
       "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
+    },
+    {
+      "added_at": "2023-04-21 23:09:47",
+      "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "Tanta Falta",
-        "url": "https://open.spotify.com/album/3h3fxvmPbYwBp8hqjl2lQD"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 181093,
-      "name": "Tanta Falta",
-      "url": "https://open.spotify.com/track/00GbPd84bEyYS477RSymJW"
-    },
-    {
-      "added_at": "2023-04-21 23:09:47",
-      "album": {
         "name": "Tal Vez",
         "url": "https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 264483,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0"
+    },
+    {
+      "added_at": "2023-04-21 23:09:47",
+      "album": {
+        "name": "Tanta Falta",
+        "url": "https://open.spotify.com/album/3h3fxvmPbYwBp8hqjl2lQD"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "Tanta Falta",
+      "url": "https://open.spotify.com/track/00GbPd84bEyYS477RSymJW"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "Otra Noche Sin Ti",
-        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
+        "name": "The Sensation",
+        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Otra Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
+      "duration_ms": 203666,
+      "name": "Qu\u00e9 M\u00e1s Pues",
+      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "The Sensation",
-        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
+        "name": "Otra Noche Sin Ti",
+        "url": "https://open.spotify.com/album/0Q7L1MC5jSE0srnjEWCifV"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 203666,
-      "name": "Qu\u00e9 M\u00e1s Pues",
-      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
+      "duration_ms": 228920,
+      "name": "Otra Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2CdTLdDjwZdVcm0bresVWx"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 220853,
-      "name": "Yo Te Lo Dije",
-      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+      "duration_ms": 203392,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1299,38 +1299,18 @@
     {
       "added_at": "2023-04-21 23:09:47",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 203392,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/6E8uqptcabNz9ym19FkDye"
-    },
-    {
-      "added_at": "2023-04-21 23:09:47",
-      "album": {
-        "name": "te kiero ver",
-        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 147224,
-      "name": "te kiero ver",
-      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
+      "duration_ms": 220853,
+      "name": "Yo Te Lo Dije",
+      "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
     },
     {
       "added_at": "2023-04-21 23:09:47",
@@ -1359,6 +1339,26 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
+    },
+    {
+      "added_at": "2023-04-21 23:09:47",
+      "album": {
+        "name": "te kiero ver",
+        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 147224,
+      "name": "te kiero ver",
+      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
     },
     {
       "added_at": "2023-04-21 23:09:47",

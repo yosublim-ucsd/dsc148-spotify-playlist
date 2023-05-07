@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,488 likes - 133 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,524 likes - 133 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 132 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 |
 | 133 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 |
 
-Snapshot ID: `MCxjMjA3NTA4MmIzYmUwNzNjMDUxNmU2MGUwYjlmM2UwODI5ZWU4Y2Fl`
+Snapshot ID: `MCw3NjhlNTE4ZmY0ZGEyNjE5OTYwM2EwYzM2NjUzNGZjNjFjN2U1M2Vj`

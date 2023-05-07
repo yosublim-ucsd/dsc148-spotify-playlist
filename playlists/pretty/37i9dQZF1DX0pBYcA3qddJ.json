@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 46718,
+  "num_followers": 46739,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmE4MTJmYzc3MTc2YTk0MTEwMTg0Y2IyMmRjNjBkNTViYjFiNjg1",
+  "snapshot_id": "MCxkZjFhMDEzZWE0NjM0ZDFlNjBjZWEwYjU4OWEwOTdlNzE3MmZlZDI0",
   "tracks": [
     {
       "added_at": "2023-05-04 15:00:00",
@@ -779,18 +779,22 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "Gershwin: Piano Works",
+        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Frank Braley",
+          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+      "duration_ms": 145200,
+      "name": "Song Book: The Man I Love. Slow and in singing style",
+      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -815,22 +819,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Gershwin: Piano Works",
-        "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
       "artists": [
         {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Frank Braley",
-          "url": "https://open.spotify.com/artist/1hpAr3xZg2NpGFR59MO0Yl"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Song Book: The Man I Love. Slow and in singing style",
-      "url": "https://open.spotify.com/track/4BlM6AO7TOtqxcY9qMHIuc"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1009,7 +1009,7 @@
         }
       ],
       "duration_ms": 542840,
-      "name": "Mendelssohn: Variations Concertantes, Op. 17",
+      "name": "Variations Concertantes, Op. 17",
       "url": "https://open.spotify.com/track/6WneainaytyKYXAgHyKTz4"
     },
     {
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Anywhere Else",
-        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
+        "name": "A Child's Question, August",
+        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
       },
       "artists": [
         {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 156784,
-      "name": "Anywhere Else",
-      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
+      "duration_ms": 166013,
+      "name": "A Child's Question, August",
+      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "Anywhere Else",
+        "url": "https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+      "duration_ms": 156784,
+      "name": "Anywhere Else",
+      "url": "https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "A Child's Question, August",
-        "url": "https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB"
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 166013,
-      "name": "A Child's Question, August",
-      "url": "https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS"
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
       },
       "artists": [
         {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
         }
       ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Fix You",
-        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 141160,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "Fix You",
+        "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 244772,
-      "name": "Be On Your Way",
-      "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
+      "duration_ms": 141160,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0vzv4fNNHbkVCTVGQwxxGw"
     },
     {
       "added_at": "2023-05-04 15:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,905 likes - 419 songs - 1 day 0 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,074 likes - 419 songs - 1 day 0 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -428,4 +428,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 418 | [God Bless The Child](https://open.spotify.com/track/6EpATvQFAodhQrHKqsZStm) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [God Bless The Child](https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz) | 4:16 |
 | 419 | [Copley Plaza](https://open.spotify.com/track/6FXuCckUGvVWpRrtfuQ5xQ) | [Low City Trio](https://open.spotify.com/artist/1GYL97YxtpuZ6V3QCMRxyo) | [Low City](https://open.spotify.com/album/7l9iEJK2yf9wHuzagin2MX) | 5:06 |
 
-Snapshot ID: `MCxlZjM0ZWQyZmFjMGM3ZDVhZjhmN2U1MzA3Njk3N2I1M2UyNmYzMWY4`
+Snapshot ID: `MCw0YmYyNmZiZDQ5OGFkZDY0ZGE2OTNkNmZmZjdlM2E3M2FmNDc0NWVh`

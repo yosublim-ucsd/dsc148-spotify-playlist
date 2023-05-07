@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,035 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,286 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,26 +69,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 59 | [Break Apart](https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 4:34 |
 | 60 | [Girl](https://open.spotify.com/track/1wQBI2DEYltF2XlKs07D7G) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Girl](https://open.spotify.com/album/1XDMRGqkkBwQYLgNKCGFlt) | 3:31 |
 | 61 | [Make Out in My Car \- Sufjan Stevens Version](https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Make Out in My Car: Chameleon Suite](https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee) | 2:46 |
-| 62 | [Bad Habit](https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO) | [LUCIUS ARTHUR](https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD) | [A Violent Dichotomy](https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt) | 4:15 |
+| 62 | [Family and Genus](https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 5:19 |
 | 63 | [Love Again](https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly](https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF) | 4:03 |
 | 64 | [september 13th](https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [september 13th](https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza) | 2:09 |
 | 65 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
-| 66 | [Family and Genus](https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 5:19 |
+| 66 | [Bad Habit](https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO) | [LUCIUS ARTHUR](https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD) | [A Violent Dichotomy](https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt) | 4:15 |
 | 67 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
 | 68 | [Slacks](https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3) | 3:26 |
 | 69 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
-| 70 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
-| 71 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
+| 70 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
+| 71 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
 | 72 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 |
-| 73 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
-| 74 | [Business Solutions](https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Business Solutions](https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE) | 3:40 |
+| 73 | [Business Solutions](https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Business Solutions](https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE) | 3:40 |
+| 74 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
 | 75 | [On My Own](https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 2:14 |
 | 76 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 |
 | 77 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 |
 | 78 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
 | 79 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 80 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
-| 81 | [Rivers](https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Rivers](https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc) | 3:56 |
+| 80 | [Rivers](https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Rivers](https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc) | 3:56 |
+| 81 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 82 | [Weak In Your Light](https://open.spotify.com/track/59NJzV28kIjaPVqnkEX55V) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Weak In Your Light](https://open.spotify.com/album/7jEMFyVOSHEDt307mMeOM1) | 4:15 |
 | 83 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
 | 84 | [Halo \- 2006 Remaster](https://open.spotify.com/track/2XVGfOXvRWy5QP2xPGXvZj) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:28 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 90 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 |
 | 91 | [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 |
 | 92 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
-| 93 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
-| 94 | [MUTUAL](https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW) | 2:49 |
+| 93 | [MUTUAL](https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW) | 2:49 |
+| 94 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 | 95 | [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 |
 | 96 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 97 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 |
-| 98 | [Humans](https://open.spotify.com/track/1e3i4aME99OBynUu74gRJs) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3UP0hLRPpehFONgpXV2Q9T) | 4:11 |
-| 99 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 |
+| 98 | [cz](https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [cz](https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf) | 3:48 |
+| 99 | [Humans](https://open.spotify.com/track/1e3i4aME99OBynUu74gRJs) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3UP0hLRPpehFONgpXV2Q9T) | 4:11 |
 | 100 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 |
 
-Snapshot ID: `MCwzNWQ2ZmY1NTk5ZjlkM2NjYzA2NDhhYjg5Nzc4OWI2NGE1MGQyYzY5`
+Snapshot ID: `MCw5MjZlMGE5YmNmNGE3ZGI3MzRjNzhkMGY5NzljYTEyOGIzMmRjZmMw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,723 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,791 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 5 | [You're Still The One](https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You're Still The One](https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc) | 3:16 |
 | 6 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 |
 | 7 | [Electric Feel](https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Electric Feel](https://open.spotify.com/album/1lki2iEbNgVFSq0VgH8C7L) | 3:19 |
-| 8 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
-| 9 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
+| 8 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
+| 9 | [re: Stacks \- Spotify Singles](https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 5:09 |
 | 10 | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/track/2CpH1L4CUR47RARB3PgY1l) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [You Don't Own Me \(feat\. G\-Eazy\)](https://open.spotify.com/album/1jwMRIAKCBeroo1jYV19tO) | 3:19 |
 | 11 | [With Or Without You \- BBC Jo Whiley Session / 2004](https://open.spotify.com/track/1hKatvvaKADQVmEPIob9e8) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears \(Deluxe Edition\)](https://open.spotify.com/album/6EBAeYn2YJvmXp6AkK18Mc) | 3:30 |
 | 12 | [I'm Not In Love](https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 6:54 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 70 | [Love You Like a Love Song](https://open.spotify.com/track/0JnadInlpLB7yLuxyPvSBR) | [Cats On Trees](https://open.spotify.com/artist/3Dcckn2A8PXmu8zLpMuO3B) | [Cats On Trees \(Deluxe Edition\)](https://open.spotify.com/album/490jDU3N2lYBkXm6Ag5A5y) | 3:01 |
 | 71 | [Black Hole Sun](https://open.spotify.com/track/2NAI2RvsLSELvMnl2aiwsf) | [Nouela](https://open.spotify.com/artist/6ryz7xkL6o6AIAotVxUG30) | [Black Hole Sun](https://open.spotify.com/album/4q5TxZy6tL4rucsC8rONCm) | 4:35 |
 | 72 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 |
-| 73 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
-| 74 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
+| 73 | [K.](https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [K.](https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO) | 4:29 |
+| 74 | [Waterfalls](https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/3a6JKnmVgeGdxebVWOXGOw) | 4:26 |
 | 75 | [Whatever You Like \- Single Version](https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s) | [Anya Marina](https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n) | [Whatever You Like \[Digital 45\]](https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv) | 3:48 |
 | 76 | [1979](https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [1979](https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg) | 4:50 |
 | 77 | [Young & Sad](https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY) | [Tom Boy](https://open.spotify.com/artist/1fqwhBnYqhrXIHVKkowZrt) | [Young & Sad](https://open.spotify.com/album/6dFIDWKAfp4MGFZlsecOPA) | 3:02 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 86 | [In Your Eyes \(Acoustic\)](https://open.spotify.com/track/5dQTVqWnlRhNgGUDbYOf8e) | [Gavin Mikhail](https://open.spotify.com/artist/364ovD0MRp9ezaNTkRoLeA) | [In Your Eyes \(Acoustic\)](https://open.spotify.com/album/4wjW8JiSJksjix88SEnRTQ) | 4:33 |
 | 87 | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/track/2KQlkzT8Gg1lFDU0y5TYeK) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Here Comes The Sun \(feat\. dodie\)](https://open.spotify.com/album/21v5ndluXHghmQaVKvMNUb) | 3:58 |
 | 88 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
-| 89 | [Anthem](https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU) | 5:45 |
-| 90 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
+| 89 | [The Scientist](https://open.spotify.com/track/5aynOMgD0cXpcq8MJXkWjH) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [The Scientist](https://open.spotify.com/album/2kcP8pCXX2MiXTN2SmBKCo) | 4:42 |
+| 90 | [Anthem](https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Anthem +3](https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU) | 5:45 |
 | 91 | [Hammond Song](https://open.spotify.com/track/4CQ7wd8WopTHgKGr3vVPiJ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 5:00 |
 | 92 | [Love on Top](https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh) | [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [Love on Top](https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv) | 3:48 |
 | 93 | [Avant Gardener](https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Avant Gardener](https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Latch](https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Latch](https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi) | 3:29 |
 | 100 | [Fade into You](https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX) | [Korey Dane](https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf) | [Fade into You](https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl) | 4:34 |
 
-Snapshot ID: `MCwzZWZlZDljOTIxNDJkYzZhNDg5MjU4NDY5ODMzNGNiMWQwMmYwOTM3`
+Snapshot ID: `MCxhOTZiY2Y1ZjMyOTdmMmMyZjEwNzhkZjY0NjI5NGQ5OGVjMGEzZjFi`

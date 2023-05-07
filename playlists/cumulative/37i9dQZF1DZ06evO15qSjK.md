@@ -4,7 +4,7 @@
 
 > This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 32 min
+52 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,9 +14,10 @@
 | [Astronaut In The Ocean](https://open.spotify.com/track/65I7LRWEDId3dlW2ReXXR8) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:14 | 2023-02-16 |  |
 | [Bam Bam](https://open.spotify.com/track/1kqu1lWNTNmwrRt8amTRSW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:15 | 2023-02-16 |  |
 | [Bang!](https://open.spotify.com/track/3lbzNC9c0ZAqwaZ4Yo5B6c) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:52 | 2023-02-16 |  |
-| [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-02-16 |  |
+| [Blinding Lights](https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2021](https://open.spotify.com/album/5eU8DCQKzpinsnzAAJwlbf) | 2:59 | 2023-02-16 | 2023-05-07 |
 | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/6kvCKoOvicKyHQcMHfQ8QR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/13n3AxGkZNijBNPegBW75F) | 3:36 | 2023-04-29 |  |
 | [Cake By The Ocean](https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 32](https://open.spotify.com/album/0qGfgCfiUYTLhrkF1iDR50) | 3:24 | 2023-02-16 |  |
+| [Celestial](https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Celestial](https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb) | 3:30 | 2023-05-06 |  |
 | [Cheerleader](https://open.spotify.com/track/3GBrT6nOYfVwjz5NfR5EPW) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 30](https://open.spotify.com/album/3eWdhUgp0xkZ9oAAHr4fvs) | 2:37 | 2023-02-16 |  |
 | [Cold Heart](https://open.spotify.com/track/4MuYqqmUdc2i21E0hCLFvg) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Super POP!](https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK) | 3:24 | 2023-02-16 |  |
 | [Dance Monkey](https://open.spotify.com/track/6iCX17mrswsT0QgOclgqy3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Party Playlist!](https://open.spotify.com/album/16RDmf5uQgqZ7GgEA1nyK9) | 3:20 | 2023-02-16 |  |
@@ -27,7 +28,7 @@
 | [FRIENDS](https://open.spotify.com/track/1taDlZzWCFEOC9NlohkWx6) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 2:55 | 2023-02-16 |  |
 | [Get The Party Started \- Redo Version](https://open.spotify.com/track/2PtrvtdKTwjl795MzSQ2Ti) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:13 | 2023-02-16 |  |
 | [golden hour](https://open.spotify.com/track/4uytF0qp1tcxziLTTeO6AN) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [golden hour](https://open.spotify.com/album/5EQYSzWJ5ugaSEsA4ZTrxR) | 3:01 | 2023-04-08 |  |
-| [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 | 2023-02-16 | 2023-05-06 |
+| [Good 4 U](https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2022](https://open.spotify.com/album/1pVDyIhEeVDBQjZYO67ytl) | 2:46 | 2023-02-16 |  |
 | [HandClap](https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Megapop](https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW) | 3:05 | 2023-02-16 |  |
 | [Hey Ya! \- Redo Version](https://open.spotify.com/track/0LsQmzBACogw2KWIzetVZf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:55 | 2023-02-16 |  |
 | [High Hopes](https://open.spotify.com/track/1BLQ9Ms6x4EkXrIhmI7IT2) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:12 | 2023-02-16 |  |

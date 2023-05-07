@@ -675,6 +675,28 @@
     },
     {
       "album": {
+        "name": "Airborne Ashes (Eartheater & Aleksandir Remix)",
+        "url": "https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Aleksandir",
+          "url": "https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269026,
+      "name": "Airborne Ashes - Eartheater & Aleksandir Remix",
+      "url": "https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T"
+    },
+    {
+      "album": {
         "name": "A Little Rhythm and a Wicked Feeling",
         "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
       },
@@ -3692,7 +3714,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 192000,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/2LyZqMTA72AicD4BIDytyg"
@@ -8768,7 +8790,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 245124,
       "name": "Fly To You (feat. Grimes and Dido)",
       "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
@@ -10876,7 +10898,7 @@
       ],
       "date_added": "2022-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 233176,
       "name": "High Alone",
       "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
@@ -11836,7 +11858,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -11926,7 +11948,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 105506,
       "name": "I'm Your Empress Of",
       "url": "https://open.spotify.com/track/5QBDPkDWZBynCBLqxzUObG"
@@ -14476,7 +14498,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 140526,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6uQlgKdPaBpSRRLyCFEQj8"
@@ -17942,7 +17964,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 257959,
       "name": "Phone Sex",
       "url": "https://open.spotify.com/track/3iJQFKDGs7nIETpchl450O"
@@ -20450,7 +20472,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 277866,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
@@ -20646,7 +20668,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 213610,
       "name": "Sheesh (feat. Grimes)",
       "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
@@ -21180,7 +21202,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 213030,
       "name": "Sleep Paralysis",
       "url": "https://open.spotify.com/track/45iTdT7r8TclEpGNNcF6yR"
@@ -25872,7 +25894,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 223640,
       "name": "White Elephant - Strange Fruit Remix",
       "url": "https://open.spotify.com/track/1gUNAceY99kXgFMpA4N2ah"

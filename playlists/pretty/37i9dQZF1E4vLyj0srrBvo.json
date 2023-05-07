@@ -1,12 +1,12 @@
 {
   "description": "With Purity Ring, Perfume Genius, Sky Ferreira and more",
-  "num_followers": 18975,
+  "num_followers": 18994,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MzE1ODQwMCwwMDAwMDAwMGI3YmVlN2UxNDgwYWJjYzRiOTY3NzI2NDYzNDBkNDM1",
+  "snapshot_id": "MTY4MzE1ODQwMCwwMDAwMDAwMGQzMGNhOGY3ODQwYzM0MjcxYjgyYzRkMGQwOGViOWIw",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 179701,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/39oLvVAYrXwMhZ8ylVsTCy"
+      "duration_ms": 244442,
+      "name": "Solid Liquid Gas",
+      "url": "https://open.spotify.com/track/6LNHqxLC3cnbL0X1Q7KXPC"
     },
     {
       "added_at": null,
@@ -59,54 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
-        "url": "https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 127725,
-      "name": "Posing in Bondage",
-      "url": "https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sour Switchblade",
-        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
-      },
-      "artists": [
-        {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
-        }
-      ],
-      "duration_ms": 148955,
-      "name": "Sour Switchblade",
-      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 246006,
-      "name": "Kill V. Maim",
-      "url": "https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
       },
@@ -123,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 244442,
-      "name": "Solid Liquid Gas",
-      "url": "https://open.spotify.com/track/6LNHqxLC3cnbL0X1Q7KXPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Light & Magic",
         "url": "https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO"
       },
@@ -151,6 +87,22 @@
       "duration_ms": 206480,
       "name": "Flicking Your Switch",
       "url": "https://open.spotify.com/track/6W53RYTZg8zbJd0MJF7KjV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 246006,
+      "name": "Kill V. Maim",
+      "url": "https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq"
     },
     {
       "added_at": null,
@@ -175,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 219770,
+      "name": "Spill The Milk",
+      "url": "https://open.spotify.com/track/5XU0KlN3w7UohUio4ycwNQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call For Help",
         "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
       },
@@ -184,9 +152,41 @@
           "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
         }
       ],
-      "duration_ms": 147441,
-      "name": "Bloom For Me",
-      "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
+      "duration_ms": 252272,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sour Switchblade",
+        "url": "https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4"
+      },
+      "artists": [
+        {
+          "name": "Elita",
+          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+        }
+      ],
+      "duration_ms": 148955,
+      "name": "Sour Switchblade",
+      "url": "https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "604",
+        "url": "https://open.spotify.com/album/0Rg5gPR4pbwQrnfmTO9yxK"
+      },
+      "artists": [
+        {
+          "name": "Ladytron",
+          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "Discotraxx",
+      "url": "https://open.spotify.com/track/5nqwr7XXW7miMBvLtrWjHx"
     },
     {
       "added_at": null,
@@ -207,24 +207,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+        "name": "Polyvinyl 4-Track Singles Series, Vol. 3",
+        "url": "https://open.spotify.com/album/15YQ9B4mRh5aoydduHt3Ak"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 353732,
-      "name": "Movies",
-      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
+      "duration_ms": 127725,
+      "name": "Posing in Bondage",
+      "url": "https://open.spotify.com/track/7BgTfU79dcZjeBtthiBsku"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Scripture",
-        "url": "https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX"
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
       },
       "artists": [
         {
@@ -232,9 +232,25 @@
           "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 251217,
-      "name": "Scripture",
-      "url": "https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG"
+      "duration_ms": 265127,
+      "name": "Prodigal Self",
+      "url": "https://open.spotify.com/track/1De1Fvd55Ru0x8ftAXnEZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call For Help",
+        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 147441,
+      "name": "Bloom For Me",
+      "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
     },
     {
       "added_at": null,
@@ -264,25 +280,9 @@
           "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
         }
       ],
-      "duration_ms": 230640,
-      "name": "Discotraxx",
-      "url": "https://open.spotify.com/track/5nqwr7XXW7miMBvLtrWjHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 178105,
-      "name": "Smokescreen",
-      "url": "https://open.spotify.com/track/3BI3yIp1aa5yzMNpyTmNyX"
+      "duration_ms": 229440,
+      "name": "Playgirl",
+      "url": "https://open.spotify.com/track/2i1RPs2CVW6Iw92PuWcQgF"
     },
     {
       "added_at": null,
@@ -303,24 +303,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay Ugly EP",
-        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
+        "name": "I'm Your Empress Of",
+        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
       },
       "artists": [
         {
-          "name": "Crim3s",
-          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
         }
       ],
-      "duration_ms": 165633,
-      "name": "Dose",
-      "url": "https://open.spotify.com/track/2PFnwCd0wdJnLQodbvrDeg"
+      "duration_ms": 210066,
+      "name": "Bit Of Rain",
+      "url": "https://open.spotify.com/track/1YXIOzYdHojl0GRsIEhHsN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+        "name": "Scripture",
+        "url": "https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX"
       },
       "artists": [
         {
@@ -328,41 +328,9 @@
           "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 219770,
-      "name": "Spill The Milk",
-      "url": "https://open.spotify.com/track/5XU0KlN3w7UohUio4ycwNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/7tyJYi1FiCX6XbkMRpjltu"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 249896,
-      "name": "Invisible",
-      "url": "https://open.spotify.com/track/1quJ23GtZEWmlrfx79bh1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lips Apart",
-        "url": "https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan"
-      },
-      "artists": [
-        {
-          "name": "Alice Glass",
-          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
-        }
-      ],
-      "duration_ms": 206266,
-      "name": "Lips Apart",
-      "url": "https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD"
+      "duration_ms": 251217,
+      "name": "Scripture",
+      "url": "https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG"
     },
     {
       "added_at": null,
@@ -376,225 +344,25 @@
           "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
         }
       ],
-      "duration_ms": 252272,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5h43lSACdvPZAJp9WKJHK0"
+      "duration_ms": 178105,
+      "name": "Smokescreen",
+      "url": "https://open.spotify.com/track/3BI3yIp1aa5yzMNpyTmNyX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 260413,
-      "name": "Be a Body",
-      "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "604",
-        "url": "https://open.spotify.com/album/0Rg5gPR4pbwQrnfmTO9yxK"
-      },
-      "artists": [
-        {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
-        }
-      ],
-      "duration_ms": 229440,
-      "name": "Playgirl",
-      "url": "https://open.spotify.com/track/2i1RPs2CVW6Iw92PuWcQgF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 265127,
-      "name": "Prodigal Self",
-      "url": "https://open.spotify.com/track/1De1Fvd55Ru0x8ftAXnEZJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oak",
-        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 231906,
-      "name": "White Gold",
-      "url": "https://open.spotify.com/track/7dZ51w8RIzFVzU46L4weYa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/2LyZqMTA72AicD4BIDytyg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miss Anthropocene (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 356077,
-      "name": "My Name is Dark - Art Mix",
-      "url": "https://open.spotify.com/track/43DBhwmvfhWTQwBRmJsafC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 213610,
-      "name": "Sheesh (feat. Grimes)",
-      "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mitosis",
-        "url": "https://open.spotify.com/album/2CVIaaGDNB8EgWEz239BpP"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 147355,
-      "name": "Mitosis",
-      "url": "https://open.spotify.com/track/4H97Ldkl4dvkGbcfqZxUhJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "amo",
-        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 325501,
-      "name": "nihilist blues (feat. Grimes)",
-      "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Militia",
-        "url": "https://open.spotify.com/album/45CsIfZPYqaNRCoBb7huiO"
-      },
-      "artists": [
-        {
-          "name": "Crim3s",
-          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Militia",
-      "url": "https://open.spotify.com/track/3cG8BLuNcxKBAY2NegWL2F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gravity The Seducer (Remixed)",
-        "url": "https://open.spotify.com/album/5WwtRM5x8zB8PNRweYMmK4"
-      },
-      "artists": [
-        {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "White Elephant - Strange Fruit Remix",
-      "url": "https://open.spotify.com/track/1gUNAceY99kXgFMpA4N2ah"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 305752,
-      "name": "World Princess part II",
-      "url": "https://open.spotify.com/track/7v9t1j6m5nYYGG1etmAD12"
+      "duration_ms": 353732,
+      "name": "Movies",
+      "url": "https://open.spotify.com/track/6f4itfvWzS59Qu7JWorhxn"
     },
     {
       "added_at": null,
@@ -615,6 +383,138 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 260413,
+      "name": "Be a Body",
+      "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oak",
+        "url": "https://open.spotify.com/album/6qNK3qCiPEzjpVBtYaDfSr"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "White Gold",
+      "url": "https://open.spotify.com/track/7dZ51w8RIzFVzU46L4weYa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mitosis",
+        "url": "https://open.spotify.com/album/2CVIaaGDNB8EgWEz239BpP"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 147355,
+      "name": "Mitosis",
+      "url": "https://open.spotify.com/track/4H97Ldkl4dvkGbcfqZxUhJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lips Apart",
+        "url": "https://open.spotify.com/album/2KKDs4kcxEjwsrhqYkSNan"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "duration_ms": 206266,
+      "name": "Lips Apart",
+      "url": "https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss Anthropocene (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 356077,
+      "name": "My Name is Dark - Art Mix",
+      "url": "https://open.spotify.com/track/43DBhwmvfhWTQwBRmJsafC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Alone",
+        "url": "https://open.spotify.com/album/4BQ1TJuCDSaS0XNOBs7aBF"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        }
+      ],
+      "duration_ms": 233176,
+      "name": "High Alone",
+      "url": "https://open.spotify.com/track/3F2oDw99SMB0c0zIIWMIpd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
       },
@@ -624,25 +524,9 @@
           "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 220246,
-      "name": "Fontanel",
-      "url": "https://open.spotify.com/track/5datFqIFItVtIni6MDUnDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Your Empress Of",
-        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Bit Of Rain",
-      "url": "https://open.spotify.com/track/1YXIOzYdHojl0GRsIEhHsN"
+      "duration_ms": 179701,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/39oLvVAYrXwMhZ8ylVsTCy"
     },
     {
       "added_at": null,
@@ -679,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Lemon Glow",
+      "url": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -695,18 +595,126 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light & Magic",
-        "url": "https://open.spotify.com/album/3Ebj5hs8pdTolvQpzpdcoO"
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
       "artists": [
         {
-          "name": "Ladytron",
-          "url": "https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz"
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
         }
       ],
-      "duration_ms": 277866,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
+      "duration_ms": 245124,
+      "name": "Fly To You (feat. Grimes and Dido)",
+      "url": "https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 220246,
+      "name": "Fontanel",
+      "url": "https://open.spotify.com/track/5datFqIFItVtIni6MDUnDN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Militia",
+        "url": "https://open.spotify.com/album/45CsIfZPYqaNRCoBb7huiO"
+      },
+      "artists": [
+        {
+          "name": "Crim3s",
+          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Militia",
+      "url": "https://open.spotify.com/track/3cG8BLuNcxKBAY2NegWL2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/7tyJYi1FiCX6XbkMRpjltu"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+        }
+      ],
+      "duration_ms": 249896,
+      "name": "Invisible",
+      "url": "https://open.spotify.com/track/1quJ23GtZEWmlrfx79bh1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/3KMEvR3Z94dD31r3CEyoiq"
+      },
+      "artists": [
+        {
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+        }
+      ],
+      "duration_ms": 140526,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6uQlgKdPaBpSRRLyCFEQj8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 305752,
+      "name": "World Princess part II",
+      "url": "https://open.spotify.com/track/7v9t1j6m5nYYGG1etmAD12"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phone Sex",
+        "url": "https://open.spotify.com/album/7FNiw5ZlCNJfbSuZg4vE67"
+      },
+      "artists": [
+        {
+          "name": "Blood Diamonds",
+          "url": "https://open.spotify.com/artist/4yuvRDaF5kWkFLq6q1Fev4"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Phone Sex",
+      "url": "https://open.spotify.com/track/3iJQFKDGs7nIETpchl450O"
     },
     {
       "added_at": null,
@@ -727,18 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dysania",
-        "url": "https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2"
+        "name": "Stay Ugly EP",
+        "url": "https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7"
       },
       "artists": [
         {
-          "name": "Elita",
-          "url": "https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv"
+          "name": "Crim3s",
+          "url": "https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU"
         }
       ],
-      "duration_ms": 213030,
-      "name": "Sleep Paralysis",
-      "url": "https://open.spotify.com/track/45iTdT7r8TclEpGNNcF6yR"
+      "duration_ms": 165633,
+      "name": "Dose",
+      "url": "https://open.spotify.com/track/2PFnwCd0wdJnLQodbvrDeg"
     },
     {
       "added_at": null,
@@ -795,34 +803,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Empress Of",
-        "url": "https://open.spotify.com/album/08pGwlQDFQYZg1gX0ZYOKq"
+        "name": "amo",
+        "url": "https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR"
       },
       "artists": [
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 105506,
-      "name": "I'm Your Empress Of",
-      "url": "https://open.spotify.com/track/5QBDPkDWZBynCBLqxzUObG"
+      "duration_ms": 325501,
+      "name": "nihilist blues (feat. Grimes)",
+      "url": "https://open.spotify.com/track/1JdWRS3PBZlSgKcPKcULtr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP"
+        "name": "Airborne Ashes (Eartheater & Aleksandir Remix)",
+        "url": "https://open.spotify.com/album/0CszlQkLgE0fd0ewB4bX6E"
       },
       "artists": [
         {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Aleksandir",
+          "url": "https://open.spotify.com/artist/671aO7xxWHFDZ4Y115H89b"
         }
       ],
-      "duration_ms": 244946,
-      "name": "Lemon Glow",
-      "url": "https://open.spotify.com/track/6NLRMu1qF1kJQnntDNWDmy"
+      "duration_ms": 269026,
+      "name": "Airborne Ashes - Eartheater & Aleksandir Remix",
+      "url": "https://open.spotify.com/track/2MIHcSSYU2ypv5Cq0vKl1T"
     }
   ],
   "unique_name": "Grimes Radio",

@@ -1752,6 +1752,24 @@
     {
       "album": {
         "name": "Love Drunk",
+        "url": "https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG"
+      },
+      "artists": [
+        {
+          "name": "Faime",
+          "url": "https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150401,
+      "name": "Love Drunk",
+      "url": "https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga"
+    },
+    {
+      "album": {
+        "name": "Love Drunk",
         "url": "https://open.spotify.com/album/4InhKcOEUc6o8aj9ty30lO"
       },
       "artists": [
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 233656,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/1SBRoo7B2xmCE1ODnrhcOv"

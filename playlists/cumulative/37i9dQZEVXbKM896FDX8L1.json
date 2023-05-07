@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/02ZsXShyE1HUqQceWLONcJ"
       },
@@ -2408,6 +2426,24 @@
       "duration_ms": 107200,
       "name": "Bomby",
       "url": "https://open.spotify.com/track/3LzcbcGFtBc1mfYJ8jvWbU"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
     },
     {
       "album": {
@@ -2560,7 +2596,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
@@ -4028,6 +4064,24 @@
       "duration_ms": 157390,
       "name": "Currents",
       "url": "https://open.spotify.com/track/7IaeavdRzXYQWfu2Wt5GlU"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "album": {
@@ -5743,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+    },
+    {
+      "album": {
         "name": "Eyes Closed (Piano Version)",
         "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
       },
@@ -5754,7 +5826,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
@@ -8752,6 +8824,24 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
     },
     {
       "album": {
@@ -12586,7 +12676,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/6unndO70DvZfnXYcYQMyQJ"
@@ -15350,7 +15440,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -17162,7 +17252,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 241688,
       "name": "Take Me To Church",
       "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"

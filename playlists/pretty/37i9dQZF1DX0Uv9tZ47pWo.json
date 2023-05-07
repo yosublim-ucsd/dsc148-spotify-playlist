@@ -1,12 +1,12 @@
 {
   "description": "It's all about the girls tonight.",
-  "num_followers": 2840231,
+  "num_followers": 2840257,
   "original_name": "Girls' Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2JmOWNmOTA3NTFmZWIzYzdmNzQ4NzA5NzhiZWJjM2E1MTViN2Vm",
+  "snapshot_id": "MCwxMjYwODBkYzhlNjM2ZGIwZjgyNTc1YjhlZjY5ZTI1NWJmYzUwNDIy",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -131,6 +131,22 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257265,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -479,22 +495,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -563,6 +563,22 @@
       "duration_ms": 169333,
       "name": "Prisoner (feat. Dua Lipa)",
       "url": "https://open.spotify.com/track/2Oycxb8QbPkpHTo8ZrmG0B"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -655,6 +671,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -671,22 +703,6 @@
       "duration_ms": 232946,
       "name": "Wild Ones (feat. Sia)",
       "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -879,82 +895,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 253390,
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "boyfriend",
-        "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Social House",
-          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "boyfriend (with Social House)",
-      "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -983,18 +923,78 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 257840,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "boyfriend",
+        "url": "https://open.spotify.com/album/3zVB99XMdbP9HTVNg0GJwV"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Social House",
+          "url": "https://open.spotify.com/artist/5UjifI1TYefXWn9GdqDOHl"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "boyfriend (with Social House)",
+      "url": "https://open.spotify.com/track/0Ryd8975WihbObpp5cPW1t"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 239026,
       "name": "Believe",
       "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "9 To 5 And Odd Jobs",
+        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1295,26 +1295,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -1335,18 +1327,26 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP"
       },
       "artists": [
         {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+      "duration_ms": 168387,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
     },
     {
       "added_at": "2022-06-30 22:02:00",

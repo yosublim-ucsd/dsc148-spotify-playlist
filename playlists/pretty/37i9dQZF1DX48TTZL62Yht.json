@@ -1,12 +1,12 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Jack Harlow",
-  "num_followers": 435490,
+  "num_followers": 435534,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjlhYmQzNDcxZDljZTc1OTRkZTgxYTA2YzI5MDI0YzcxMTlkZDJh",
+  "snapshot_id": "MCw1MmMxM2JjNmIxMjQyYTljYjUyMTI0MWFiMmRlYmEzZTExYjlmM2Fi",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Down In Atlanta",
-        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 164041,
-      "name": "Down In Atlanta",
-      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Plain Jane REMIX (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
       },
@@ -1115,18 +1095,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+        "name": "Down In Atlanta",
+        "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+      "duration_ms": 164041,
+      "name": "Down In Atlanta",
+      "url": "https://open.spotify.com/track/5unjCay0kUjuej5ebn4nS4"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1147,6 +1131,22 @@
       "duration_ms": 309327,
       "name": "Churchill Downs (feat. Drake)",
       "url": "https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fighting Demons (Deluxe)",
-        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 235987,
       "name": "Rags2Riches 2 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Fighting Demons (Deluxe)",
+        "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3i6sCTU7ENlnHpHvrHUitW"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Like..?",
+        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 159370,
+      "name": "Gangsta Boo (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hanging With Wolves",
         "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
       },
@@ -1647,22 +1667,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Masterpiece",
-        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Masterpiece",
-      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
@@ -1679,18 +1683,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "B4 AVA",
-        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/6kaYDcX9dNmJE5OU71IUby"
       },
       "artists": [
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 215303,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+      "duration_ms": 181714,
+      "name": "Masterpiece",
+      "url": "https://open.spotify.com/track/26UxwWl9xCb83OynXELJcL"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1723,26 +1727,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Trip At Knight (Complete Edition)",
-        "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 247714,
-      "name": "Rich MF (feat. Polo G & Lil Durk)",
-      "url": "https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR"
+      "duration_ms": 215303,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1767,22 +1763,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Like..?",
-        "url": "https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg"
+        "name": "Trip At Knight (Complete Edition)",
+        "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 159370,
-      "name": "Gangsta Boo (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/2g5q0UpOOFMNOcHGaMG4b0"
+      "duration_ms": 247714,
+      "name": "Rich MF (feat. Polo G & Lil Durk)",
+      "url": "https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR"
     },
     {
       "added_at": "2023-05-05 04:00:00",

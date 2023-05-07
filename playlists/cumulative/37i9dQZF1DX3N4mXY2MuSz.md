@@ -4,7 +4,7 @@
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-187 songs - 9 hr 35 min
+188 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,11 +157,12 @@
 | [Spirit In My House](https://open.spotify.com/track/4SU6JMTMcMg9e1K3Ic5kdD) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Christmas Spirit...In My House](https://open.spotify.com/album/0XMxz3mrpWkF5ssipEvaBv) | 2:02 | 2021-11-19 | 2022-07-28 |
 | [sympathy 4 the grinch](https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [sympathy 4 the grinch](https://open.spotify.com/album/2z7KjwnxrEnhbZtCujtnmt) | 2:11 | 2021-11-19 |  |
 | [The Christmas Song](https://open.spotify.com/track/03e41JmoFNLssjNbHhDma7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas EP](https://open.spotify.com/album/1HaPBR0BDJUDkcOxiHdGTy) | 3:07 | 2021-11-19 | 2023-05-01 |
+| [The Christmas Song](https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Christmas Rock](https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2) | 3:08 | 2021-11-19 |  |
 | [The Season's Upon Us](https://open.spotify.com/track/1gSmN84niQf7DZSCCWfOyN) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Season's Upon Us](https://open.spotify.com/album/0eX2dIB3Ce7t32RjWoppJJ) | 4:02 | 2021-11-19 |  |
 | [The War On Christmas Is Over \(If You Buy It\)](https://open.spotify.com/track/6F6VIAmrqiXgeAXycoHOs4) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The War On Christmas Is Over \(If You Buy It\)](https://open.spotify.com/album/1LddYHWOKPt3JrN4xfOLfx) | 2:24 | 2021-11-19 | 2022-11-13 |
 | [Things I Want](https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh), [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Christmas Calling](https://open.spotify.com/album/3dxUAJGxReRRdWdDGze7EL) | 3:54 | 2021-11-19 |  |
 | [This Christmas](https://open.spotify.com/track/3rdKklYgxjaLegndPcetBW) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:03 | 2021-11-19 | 2022-07-27 |
-| [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 | 2021-11-19 |  |
+| [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 | 2021-11-19 | 2023-05-07 |
 | [This Christmas \(I'll Burn It To The Ground\)](https://open.spotify.com/track/4lc26OWTRFdEZediB0picq) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:27 | 2021-11-19 |  |
 | [This Christmas \(I'll Burn It to the Ground\)](https://open.spotify.com/track/6fCw2dWI97mTUCNWuLanFf) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Punk Goes Christmas](https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3) | 3:27 | 2021-11-19 | 2022-07-26 |
 | [This Could Be Christmas](https://open.spotify.com/track/2lmsxNpEVPs17M7LS7cnl7) | [The So So Glos](https://open.spotify.com/artist/3WrUzXz7uxtNFZuapRMhiP), [Spider Stacy](https://open.spotify.com/artist/6wkRKWzFa3VQEet6p66eSu) | [This Could Be Christmas](https://open.spotify.com/album/3mlCzvIC685wUotds8Fpye) | 4:51 | 2022-12-01 | 2023-02-12 |

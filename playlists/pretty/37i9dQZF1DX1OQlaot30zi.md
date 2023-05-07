@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Ernia, Yung Snapp, Ensi e Nerone, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,484 likes - 85 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,496 likes - 85 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 4 | [King Kong vs Godzilla](https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [King Kong vs Godzilla](https://open.spotify.com/album/5LZDZMhsqQYhVESJJ1dB5F) | 2:44 |
 | 5 | [TRAPHOUSE \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/6WuGf5uKp3zOEv70OuErP7) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Sine](https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n) | [VIRUS](https://open.spotify.com/album/1sLrrbc4ZAivtSdEApAi3q) | 2:32 |
 | 6 | [ROOFTOP \(feat\. Guè\)](https://open.spotify.com/track/2I3yY1YL9JPDyOznnyiJnJ) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 2:56 |
-| 7 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
+| 7 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
 | 8 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/5w4kBgLzFTJoxXbChBcBnq) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 3:09 |
 | 9 | [4Z](https://open.spotify.com/track/5NFRippZpe3fS8Eei8CoBT) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Z4V1](https://open.spotify.com/album/04J9CopuPn8Q1TvhIQstPL) | 2:35 |
 | 10 | [Monte Fuji](https://open.spotify.com/track/4pWkohXhBfPKItQY79J3iL) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Monte Fuji](https://open.spotify.com/album/34MxwfHZXGN7wNjJ9FRk1m) | 3:01 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 19 | [Mentalité RMX \(feat\. Neves17\)](https://open.spotify.com/track/3RXJPjTVr5J9ycupdnbPkJ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Neves17](https://open.spotify.com/artist/2S3cfp7M76ak6vFBIGEfhe) | [Mentalité RMX \(feat\. Neves17\)](https://open.spotify.com/album/6yK6Q5UmwcSdmDV9l9TROB) | 3:37 |
 | 20 | [STO CHIN \(feat\. MadMan & Gemitaiz\)](https://open.spotify.com/track/4wiYIygHmce1gYERsSICnX) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [FEDE](https://open.spotify.com/album/2eV25SPEQ57dzp4Qs9FonT) | 3:26 |
 | 21 | [Diario del Bando 2](https://open.spotify.com/track/3stZIWWtwMg8JxBgT12YMP) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Diario del Bando 2](https://open.spotify.com/album/5MTUG1xRqcYHxuxHrS8Yr8) | 2:43 |
-| 22 | [Papavero](https://open.spotify.com/track/2J2NxH7j3Wy1tpoCNXkeHx) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw) | [Papavero](https://open.spotify.com/album/7DMsu93EGO0wQNfTUy2heK) | 2:03 |
+| 22 | [Papavero](https://open.spotify.com/track/2J2NxH7j3Wy1tpoCNXkeHx) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56) | [Papavero](https://open.spotify.com/album/7DMsu93EGO0wQNfTUy2heK) | 2:03 |
 | 23 | [RINASCITA](https://open.spotify.com/track/2N8gO97yxtn10cBIklCllK) | [Skinny](https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk) | [RINASCITA](https://open.spotify.com/album/6oNPn6zFAFOMvRxDxPgOlh) | 2:16 |
 | 24 | [The Cold Room \- S3\-E4](https://open.spotify.com/track/1wTxYesY68QgBFYpP41v3p) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Tweeko](https://open.spotify.com/artist/22wD142FUVQatdB5g8mxTF), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [The Cold Room \- S3\-E4](https://open.spotify.com/album/6pPBT9fijDHszK1WWmG3Lv) | 2:14 |
 | 25 | [BAM BAM](https://open.spotify.com/track/4DOzvKPMrXAvTa3v9hj3A6) | [Reed](https://open.spotify.com/artist/4eFBfxE5UExIHvWamPhByA) | [BAM BAM](https://open.spotify.com/album/51DNiFLw2t85tRkvkcVr4G) | 2:40 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [Giovani Briatore](https://open.spotify.com/track/7sQJAfjZ7YNXAZQ8R8LeRZ) | [Incis ZONE](https://open.spotify.com/artist/2I7HXUVJWZJ8mHJq3pOZNt), [Goss Vinyard](https://open.spotify.com/artist/2w3jmxjfaLRyLhJ8GfqyiV) | [Giovani Briatore](https://open.spotify.com/album/59DAgd3PKCG219GWKK8RMN) | 2:17 |
 | 85 | [B\*TCH DON'T BREAK MY HEART](https://open.spotify.com/track/6QswKYGLY9kqQT3qKh6cik) | [Thom.](https://open.spotify.com/artist/4e5mUDLdGeosdE593StPBi) | [B\*TCH DON'T BREAK MY HEART](https://open.spotify.com/album/3J8LaR7kSodAQLubjdowBx) | 1:45 |
 
-Snapshot ID: `MCw5ZDUxOGNjMmEzZjQxOTFiMTViOTM5OTI5MDdkNzllZTI1MGFmYjY2`
+Snapshot ID: `MCw2ZGZiM2Q1OWU4ZjNmY2MzNGUwNjc3ODQ0OWVhMWQ3MDExMDIzMWVm`

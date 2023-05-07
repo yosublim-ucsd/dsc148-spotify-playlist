@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "DOWN TO EARTH",
+        "url": "https://open.spotify.com/album/7b17kpTR2gJGfsuMUicZrh"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "DOWN TO EARTH",
+      "url": "https://open.spotify.com/track/1X2WoxWS5rVNlmHCWr4jsV"
+    },
+    {
+      "album": {
         "name": "Apple vs. 7G",
         "url": "https://open.spotify.com/album/5c2YRZ7kAry8fQuoS5LVjW"
       },
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 159252,
       "name": "Fuck Right Off",
       "url": "https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65"
@@ -4358,7 +4376,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 206250,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/1WjP8YhhlrpDv8oL6ewp0X"
@@ -4806,6 +4824,24 @@
       "duration_ms": 180283,
       "name": "No Goodbyes",
       "url": "https://open.spotify.com/track/6ljsHgDtZkaiMPBw8GXQMY"
+    },
+    {
+      "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287546,
+      "name": "No Other 1.2.2 [2021 Export Wav]",
+      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "album": {
@@ -6227,6 +6263,24 @@
     },
     {
       "album": {
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164506,
+      "name": "SKY SKY 1.3 [2016 Export Wav]",
+      "url": "https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq"
+    },
+    {
+      "album": {
         "name": "Sleeptalking",
         "url": "https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0"
       },
@@ -7530,7 +7584,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 209299,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/4jnKKSidsD6llLQhauro0N"

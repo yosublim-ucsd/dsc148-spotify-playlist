@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,826 likes - 40 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,901 likes - 40 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 26 | [Sawale](https://open.spotify.com/track/5WyWNQZr7oiGoResxNSrj0) | [Cardinal Rex Jim Lawson](https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI) | [Rex Lawson's Greatest Hits](https://open.spotify.com/album/7CTFf1WCY4Ay6SOwzkizH0) | 3:00 |
 | 27 | [Kita Kita](https://open.spotify.com/track/0sDc20D04QVMR1V3uF3RnQ) | [Gasper Lawal](https://open.spotify.com/artist/7jAPM35I7dAYPdKIfTUzwM) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:00 |
 | 28 | [Pennywhistle](https://open.spotify.com/track/41AdJM1SO2O2gTXz9QXv9P) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 3:19 |
-| 29 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
-| 30 | [Ojah Awake](https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 4:52 |
-| 31 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 |
-| 32 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
-| 33 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
+| 29 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
+| 30 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
+| 31 | [Ojah Awake](https://open.spotify.com/track/7hPCaFhX074AINbYi0ye71) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 4:52 |
+| 32 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 |
+| 33 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 34 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 35 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 36 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 39 | [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
 | 40 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 |
 
-Snapshot ID: `MCw5MTU0ZWQ5N2IwZGI4NWVjNzRhNzJkOGYyZjVhMTg3NWFhNjhiMGQ4`
+Snapshot ID: `MCxkNzJkZjk2YWQ1MDgwNWFjM2FkZjY0MjgxZjkwYzdkMGIyYzZmM2U2`

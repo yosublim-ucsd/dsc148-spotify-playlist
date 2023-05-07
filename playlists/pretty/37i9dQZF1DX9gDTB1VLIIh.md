@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 
 > This is Nasty C, also known to fans as "A Zulu Man With Some Power"\. The essential tracks, all in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,820 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,888 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gDTB1VLIIh.md) - [plain]
 | 44 | [SAP](https://open.spotify.com/track/2IukRUX2L4pIpaOpIai6FU) | [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Da Les](https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy) | [SAP](https://open.spotify.com/album/75KPPCKkrI3RHbmdpfiXll) | 4:35 |
 | 45 | [Don't BAB \- The Ivyson Tour](https://open.spotify.com/track/7kDbjMBlp5RiWy13EnPjwX) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Gemini Major](https://open.spotify.com/artist/7CmcmdcG6g6XOXueKHgCaM) | [Don't BAB \(The Ivyson Tour\)](https://open.spotify.com/album/1H7NetNXogIicJEMJAJzKB) | 3:52 |
 
-Snapshot ID: `MCxmN2EyODY0NjY4ZWM4OThiZmE2YzNlMmMxYmNkNWQzOGVmOGFjOWQ0`
+Snapshot ID: `MCw1M2I5YzUxZTA0ZTFiOWZiZmZjMDU5MTg3NzYyNzcyOWQ5ODVmMjIz`

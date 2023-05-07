@@ -1,12 +1,12 @@
 {
   "description": "Dive into the women of folk and roots music\u2014from Americana icons to roots rock, singer-songwriter, and indie-folk favorites. Cover: Sunny War",
-  "num_followers": 274714,
+  "num_followers": 274747,
   "original_name": "Women of Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTU1ODc5NmM0NTEzMGY2OWMxODU2NjNlYzdiNzAwYzQ4ZDhkMWRm",
+  "snapshot_id": "MCw1NWQ3OTI5YWRhZmU3NDg1MTEwY2E3NThhYmZiOWFkNmFkYjM5N2I4",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Mercy Now",
-        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 350560,
-      "name": "Mercy Now",
-      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Mercy Now",
+        "url": "https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 350560,
+      "name": "Mercy Now",
+      "url": "https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Question It All / White Car",
         "url": "https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 242854,
       "name": "Question It All",
       "url": "https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 212760,
       "name": "Problem With It",
       "url": "https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Time (The Revelator)",
-        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2LrDS8mmPcANF46XdsuUUd"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 119372,
       "name": "Optimism",
       "url": "https://open.spotify.com/track/08nmO9CJOh6NRYltWAaWXF"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Time (The Revelator)",
+        "url": "https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/0H8ukN2MIW2iNvqJP1kb4O"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
+        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 137360,
+      "name": "Train Song",
+      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "I Walked With You A Ways",
         "url": "https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)",
-        "url": "https://open.spotify.com/album/6cqQoeptBmTpSw23R87hxU"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 137360,
-      "name": "Train Song",
-      "url": "https://open.spotify.com/track/6qRmb4uhIUaWE5LySgSfQS"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Walk Through Fire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "A Month Or Two",
-        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "A Month Or Two",
-      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 191813,
       "name": "\u00c9migr\u00e9",
       "url": "https://open.spotify.com/track/3t9dQLtZPB8dXRu6QrQYLS"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "A Month Or Two",
+        "url": "https://open.spotify.com/album/5nki9hMoIsCxIQeV4enHBh"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 191226,
+      "name": "A Month Or Two",
+      "url": "https://open.spotify.com/track/002nFT2kRsfvS0d17AwWsB"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Motel Bouquet",
-        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 184787,
-      "name": "Motel",
-      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "The Lion's Roar",
         "url": "https://open.spotify.com/album/2ClpsMzeeVVoevHkK2N1vs"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 258000,
       "name": "Emmylou",
       "url": "https://open.spotify.com/track/2bU3gg0M8GGBs7ItBKsJX9"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Motel Bouquet",
+        "url": "https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 184787,
+      "name": "Motel",
+      "url": "https://open.spotify.com/track/6qe4MSI8cWbBqo2YBNmUic"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 180077,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Off Off On",
         "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 200480,
       "name": "Coming to Get You Nowhere",
       "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180077,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/0H9gWRPB92lrwtjtQtdrwD"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Roses in the Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "The Boxer - 2002 Remaster",
+      "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Impossible World",
         "url": "https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Roses in the Snow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "The Boxer - 2002 Remaster",
-      "url": "https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Lookaftering",
+        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
+      },
+      "artists": [
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 125293,
+      "name": "Here Before",
+      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Quiet the Room",
         "url": "https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Lookaftering",
-        "url": "https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n"
-      },
-      "artists": [
-        {
-          "name": "Vashti Bunyan",
-          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
-        }
-      ],
-      "duration_ms": 125293,
-      "name": "Here Before",
-      "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Total Freedom",
         "url": "https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3"
       },
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "I Will Not Be Afraid",
-        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 195320,
-      "name": "Blood on Your Bootheels",
-      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 194306,
       "name": "Too Late to Write a Love Song",
       "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "I Will Not Be Afraid",
+        "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 195320,
+      "name": "Blood on Your Bootheels",
+      "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Natural Conclusion",
+        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "duration_ms": 268660,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Same History, New Feelings",
         "url": "https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9"
       },
@@ -1939,22 +1955,6 @@
       "duration_ms": 172520,
       "name": "Resentment (New Feelings Version)",
       "url": "https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Natural Conclusion",
-        "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
-      },
-      "artists": [
-        {
-          "name": "Rose Cousins",
-          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
-        }
-      ],
-      "duration_ms": 268660,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/1tqWLHz5zbLBw0YT7uBehE"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Pohorylle",
-        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
-      },
-      "artists": [
-        {
-          "name": "Margo Cilker",
-          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Tehachapi",
-      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Odetta Sings Dylan",
         "url": "https://open.spotify.com/album/2laIs6Ws4MhFazcJpFgZ34"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 341293,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/0YYXg3u5ELZb2SjcD2YTFF"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Workin' Woman Blues",
-      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2123,18 +2123,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
       "artists": [
         {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2187,6 +2187,22 @@
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2303,22 +2319,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Santo",
-          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Little May",
         "url": "https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S"
       },
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/0f6Zs9gZdMift137nyLO2A"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Santo",
+          "url": "https://open.spotify.com/artist/1TUJBwovBrSV0NgaJ9cm5a"
+        }
+      ],
+      "duration_ms": 242581,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2HA6R2XOV9jBwXkdOTfsWK"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Like An Old Fashioned Waltz (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1TanbE0knS2g91OueucHT9"
       },
@@ -2371,18 +2387,18 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+        "name": "Violet Light",
+        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
       },
       "artists": [
         {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
         }
       ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2399,22 +2415,6 @@
       "duration_ms": 287439,
       "name": "Broken Harvest",
       "url": "https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Violet Light",
-        "url": "https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 173077,
-      "name": "How Bad I Wanna Live",
-      "url": "https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Other Voices, Other Rooms",
         "url": "https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE"
       },
@@ -2515,6 +2531,22 @@
       "duration_ms": 317466,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/4cbMK3hOqvXiBiHQkGgsAf"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -2559,38 +2591,6 @@
       "duration_ms": 225893,
       "name": "Game To Lose",
       "url": "https://open.spotify.com/track/6hRmSHcTdXbIp66h9Aj8Mc"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Wax & Wane",
-        "url": "https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd"
-      },
-      "artists": [
-        {
-          "name": "Alana Henderson",
-          "url": "https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Wax & Wane",
-      "url": "https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC"
     }
   ],
   "unique_name": "Women of Folk",

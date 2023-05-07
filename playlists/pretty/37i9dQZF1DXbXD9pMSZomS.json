@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 424540,
+  "num_followers": 424641,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWM5ZDFmNzJhNjRmMjg0ZjA5YTUxZGRmMzQzNzQ0ZjY2OGIzY2Nh",
+  "snapshot_id": "MCxkNDg2NjgzN2JiZmYyN2VjZjdhZmY1M2FlOTU1ZTM5NWFiYThiMjYz",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Closer To The Essence",
+        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Closer To The Essence",
+      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Fidelity Radio Club (Toy Tonics Remixes)",
         "url": "https://open.spotify.com/album/3hxPWuy4C9In99QtySB0tT"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 257321,
       "name": "Me at the Zoo - Cody Currie Remix",
       "url": "https://open.spotify.com/track/3uPNfRRceOwIq9lqddFt0z"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Closer To The Essence",
-        "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 161152,
-      "name": "Closer To The Essence",
-      "url": "https://open.spotify.com/track/4s71CG9oYCvn9BUDL92X5J"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Heavy Tangled",
-        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
-      },
-      "artists": [
-        {
-          "name": "Etur Usheo",
-          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Obscure",
         "url": "https://open.spotify.com/album/0mrJoQMHdOz37Zd4Ucpo6F"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 153345,
       "name": "Obscure",
       "url": "https://open.spotify.com/track/636E5CfJPN1GlWhhYcQMzY"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Heavy Tangled",
+        "url": "https://open.spotify.com/album/7fCra7Gxf34kyyr8bo8frX"
+      },
+      "artists": [
+        {
+          "name": "Etur Usheo",
+          "url": "https://open.spotify.com/artist/5cHZZkVwn3o4NGj7XJ1Cxg"
+        }
+      ],
+      "duration_ms": 460800,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/4HxxVwV18v5yIzHtmgBlfB"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "14 Joints in a Spaceship",
-        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
-      },
-      "artists": [
-        {
-          "name": "_tillus",
-          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
-        }
-      ],
-      "duration_ms": 340645,
-      "name": "14 Joints in a Spaceship",
-      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Blue Pigments",
         "url": "https://open.spotify.com/album/0WAoYRTMUNd71Y2y5zbXfk"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 135529,
       "name": "Tavolo",
       "url": "https://open.spotify.com/track/6O67qWawHI9BysecIhpdJj"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "14 Joints in a Spaceship",
+        "url": "https://open.spotify.com/album/1COMlKqonX6NMDAvg8IVu6"
+      },
+      "artists": [
+        {
+          "name": "_tillus",
+          "url": "https://open.spotify.com/artist/2Zli2TlUC3DYWQYAM8Z56y"
+        }
+      ],
+      "duration_ms": 340645,
+      "name": "14 Joints in a Spaceship",
+      "url": "https://open.spotify.com/track/1JW721TzLybXB4ClHW7q0h"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Sessions 2",
-        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
-      },
-      "artists": [
-        {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        },
-        {
-          "name": "Rick Flair",
-          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "I Gotta Cry",
-      "url": "https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Dosages, Vol. 2",
         "url": "https://open.spotify.com/album/2KnOK8FPRBIHYVmvsmp6BT"
       },
@@ -923,18 +903,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Piano FM",
-        "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
+        "name": "Sessions 2",
+        "url": "https://open.spotify.com/album/3LOxcrOgoyvvKdBtl1GHYP"
       },
       "artists": [
         {
-          "name": "Steve Bug",
-          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        },
+        {
+          "name": "Rick Flair",
+          "url": "https://open.spotify.com/artist/1SubFDEqffDefZVmpeiV8m"
         }
       ],
-      "duration_ms": 199084,
-      "name": "The Moment - Radio Edit",
-      "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
+      "duration_ms": 312000,
+      "name": "I Gotta Cry",
+      "url": "https://open.spotify.com/track/6qT1jEoG6VqQZ92fye8wtd"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -975,6 +959,22 @@
       "duration_ms": 396501,
       "name": "Kindness",
       "url": "https://open.spotify.com/track/0DYlUhlu0vXWpAE13TojzN"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Piano FM",
+        "url": "https://open.spotify.com/album/0wuj9pH3qJKJUNJdZhUxte"
+      },
+      "artists": [
+        {
+          "name": "Steve Bug",
+          "url": "https://open.spotify.com/artist/4SoC2HfA0nGk3xCJ3hRG3J"
+        }
+      ],
+      "duration_ms": 199084,
+      "name": "The Moment - Radio Edit",
+      "url": "https://open.spotify.com/track/3MgpEmy2bdafbuJaVEWHiv"
     },
     {
       "added_at": "2023-04-20 22:01:00",

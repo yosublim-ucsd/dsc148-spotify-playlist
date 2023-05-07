@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/317879?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,083 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,096 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 28 | [愛されたいよ](https://open.spotify.com/track/0fRojAyOz1On0vtJvOiWoJ) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [愛されたいよ](https://open.spotify.com/album/3iF7zONSdInJdl6POI8uZo) | 3:03 |
 | 29 | [dawn](https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [dawn](https://open.spotify.com/album/2ES2tljkU27Bg8EbNWbPxZ) | 3:54 |
 | 30 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 |
-| 31 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral Version](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
+| 31 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
 | 32 | [Part of Your World \- From "The Little Mermaid"/Soundtrack Version](https://open.spotify.com/track/4C7ufs8hOYTkIk7hdyeu7J) | [Erika Toyohara](https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj) | [Part of Your World \(From "The Little Mermaid"/Soundtrack Version\)](https://open.spotify.com/album/3OEBqbReTKlhG7fS4zQIc5) | 3:34 |
 | 33 | [ハリウッド・スキャンダル](https://open.spotify.com/track/5odRul0ShX85JB4jiya89v) | [Misato Watanabe](https://open.spotify.com/artist/3ySOHOGVeGm9qQuEmWDa1k), [西寺郷太](https://open.spotify.com/artist/45rRsFO7G0HJkEeS0SyFGx) | [Face to Face \~うたの木\~](https://open.spotify.com/album/7Kg8ANAbKzFUicUIvCHQLg) | 3:54 |
 | 34 | [ジグソーパズル](https://open.spotify.com/track/2Heixjkl8vzAOaLlu2KwpF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [ジグソーパズル](https://open.spotify.com/album/7FTzWfDbbD32UJMtpAkAGz) | 4:06 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 48 | [好](https://open.spotify.com/track/0NcRwdSdoDIZku1Zs5Yz16) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [好](https://open.spotify.com/album/5Pm4gQZFTTWzN02Q8SuNkl) | 3:48 |
 | 49 | [Beside](https://open.spotify.com/track/63KJH2jYH1bKTqXd6v4ccq) | [CONFVSE](https://open.spotify.com/artist/0jHrkfttn8U65SC5fNYxZT) | [Beside](https://open.spotify.com/album/658P9Mns16YHWleM9DoZLz) | 4:58 |
 
-Snapshot ID: `MCw2NjQzZDY2Mjc5OTA1YmUyMjY1Mzk1N2Q0Mzg0YmQ4ODU3NjhjZTcz`
+Snapshot ID: `MCxhMDk0OWQ4Y2ZkYTRiMmMzMGU0ODVmNzM3NTlhYjg3ZDY1ZDJlOWQ3`

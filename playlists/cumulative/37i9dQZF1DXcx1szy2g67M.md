@@ -4,7 +4,7 @@
 
 > Zo klinkt het voorjaar, op naar de zomer van 2023!
 
-152 songs - 7 hr 46 min
+154 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-03-30 |  |
 | [Good Times](https://open.spotify.com/track/6ZxliZhVPhMJLZzbS0sOeU) | [Dukewood](https://open.spotify.com/artist/0saU1gJBLlM25GZ4h0cC7b), [Kav Verhouzer](https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Good Times](https://open.spotify.com/album/0Lxc0Ms7NHeZpIBJZPK9ws) | 3:05 | 2023-02-23 | 2023-03-25 |
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-02-23 |  |
-| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 |  |
+| [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 | 2023-05-07 |
+| [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-04 |  |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-27 |  |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-23 |  |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-23 | 2023-05-05 |
@@ -119,7 +120,8 @@
 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 | 2023-02-23 |  |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2023-02-23 |  |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-09 | 2023-03-31 |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-04 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-04 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-04 |  |
 | [Running From](https://open.spotify.com/track/5catELDuNmRvDLm1e6CUx6) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Any Day Now](https://open.spotify.com/album/1T4QzY60Mpe02NYZDPWVFI) | 3:30 | 2023-04-07 |  |
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2023-02-23 |  |
 | [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 | 2023-02-23 | 2023-04-28 |

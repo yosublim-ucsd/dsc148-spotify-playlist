@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 
 > Fill your mind with music for dreaming, thinking and longing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,479 likes - 112 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,629 likes - 92 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,37 +88,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf43Md5h6cE.md) - [plain]
 | 78 | [Milky Sea](https://open.spotify.com/track/324oRBwsXBuTVrlPHh5SqP) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 3:40 |
 | 79 | [Through the Sky](https://open.spotify.com/track/5tbZ3AHIz1YfOFe2ceut3X) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Moving On](https://open.spotify.com/album/6A2eoA23xDnjlq0YkFUv3W) | 10:02 |
 | 80 | [Unpacked](https://open.spotify.com/track/42ZuxJ7oNK1pzdyAlfA9aQ) | [Moving Gradients](https://open.spotify.com/artist/1MQW3gElFwQAw90LNwaFNy) | [Dream Escape](https://open.spotify.com/album/0pwvAzTU1nq61P5PKmOY4o) | 2:47 |
-| 81 | [Introduction of Our Hero, Dream Gopher](https://open.spotify.com/track/6f3cHqM3gAWkSXKlr259Xs) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Minus Time](https://open.spotify.com/album/770ePZN0ps20Gj7IJObZZv) | 3:18 |
-| 82 | [Narrative Forms](https://open.spotify.com/track/506TffN7fJgYBfrtXhfhq4) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:35 |
-| 83 | [Supreme Being](https://open.spotify.com/track/2bP4N2cJVjNeytaAbFjowK) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Beauty & Spa Chill Out \(Relaxation Wellness Lounge Music\)](https://open.spotify.com/album/1L2KHXHM4KWmNw5tubhT3M) | 5:35 |
-| 84 | [Behind the Waterfall](https://open.spotify.com/track/4bqyQQx0Ezeun0Eem2OqlI) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Behind the Waterfall](https://open.spotify.com/album/3QH8aE7f8JB0nU8YrK5Bz8) | 2:49 |
-| 85 | [Around this Space](https://open.spotify.com/track/6LFMBpeTgZjzGeJsnc8kdz) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Drifting](https://open.spotify.com/album/0TR3j5R8ecFuefaB6xgAi4) | 6:27 |
-| 86 | [Dandelions](https://open.spotify.com/track/6IFQFMp1sazAG1ZA6bIA57) | [Amanita Phalloides](https://open.spotify.com/artist/7dipuZgipLo3oDsGhl6dQL), [Heavenchord](https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X) | [Hope Never Dies](https://open.spotify.com/album/7o9JDarAd1qKHN5mTVI6P4) | 3:44 |
-| 87 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 |
-| 88 | [Restoration](https://open.spotify.com/track/1KGD4VIjVMFOoSeKj056CM) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Restoration](https://open.spotify.com/album/5E77PrieLbxEL6tGBN053y) | 3:18 |
-| 89 | [Sweet Instability](https://open.spotify.com/track/2Z6TNKXEGu5D1WXJwDGFEQ) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 3:54 |
-| 90 | [Night Atmospheres](https://open.spotify.com/track/4A8XgsY1Jc0DhlkQdCFvPm) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [It Sounds a Bit Like Heaven](https://open.spotify.com/album/3nPxg4CCoDJFNee7p29QZP) | 2:42 |
-| 91 | [Moon of the Crusted Snow](https://open.spotify.com/track/2z0xcVWiSp0GBZ7YMHUu89) | [Kilometre Club](https://open.spotify.com/artist/0gEyux9kfm4eISIsEtLu4w) | [Futures](https://open.spotify.com/album/1vOuSLwIsw8fLB3JFlFN8t) | 6:33 |
-| 92 | [Avant après](https://open.spotify.com/track/4p8JiWyVoMKubwtMWQEvfG) | [Grandbruit](https://open.spotify.com/artist/4seVtzX0ihqxPzPeCYlKXY) | [Ville inerte](https://open.spotify.com/album/7x9hzH6UQdNe7WDzceVLMF) | 8:23 |
-| 93 | [Fiveless Accretion Pearl \(Desk Lamp Mix\)](https://open.spotify.com/track/2VJD2jBc1ATLkT5SY8T1Ea) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [So Extra Bronze Lamp](https://open.spotify.com/album/2kat3SAlqfJWIeUMzEklAf) | 2:32 |
-| 94 | [Chinsi](https://open.spotify.com/track/6sBNaiB80PUXMiFeJJ5wNc) | [Bunraku](https://open.spotify.com/artist/2KRjFUNJ9GJepRGAGextuq) | [Yoru](https://open.spotify.com/album/19KxJBqNupp2VPFOg3ZgaH) | 4:13 |
-| 95 | [Ends](https://open.spotify.com/track/0m5yyFEck8AjOjBnik2sn0) | [Líom](https://open.spotify.com/artist/1cB3Rx6pGBifTruhYgnMuS) | [Coast](https://open.spotify.com/album/2cV90JgRQmnI8eAm5mGwr0) | 5:55 |
-| 96 | [Recurring Dream](https://open.spotify.com/track/2khbT2HgtSdSwZt60gDe71) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 4:13 |
-| 97 | [Home Now](https://open.spotify.com/track/2TW2TH4m9gu3HhWMEJOlLW) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 2:31 |
-| 98 | [Cold Air](https://open.spotify.com/track/01FewOTOeVj75RV6BYygod) | [Color of Time](https://open.spotify.com/artist/5GhEh1BgnOafsIAUgNtF02), [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV), [Tyresta](https://open.spotify.com/artist/0HgueusJAiyVI6iQPSFquL) | [Color of Time](https://open.spotify.com/album/7uEqAuTyaC02sBgYRQb8gI) | 2:52 |
-| 99 | [Overture \(For Other Halfs\)](https://open.spotify.com/track/1F7vUCER63VfNzvZKTi2pn) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 6:38 |
-| 100 | [Autumn](https://open.spotify.com/track/6C0xrpCLSiAIm242vKE7HA) | [Smoky](https://open.spotify.com/artist/3y90MDsIV7MPY0MckhOOQg) | [Minimal Sounds](https://open.spotify.com/album/7FtBKp3NQyxi3cUBi4BMC4) | 3:46 |
-| 101 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 |
-| 102 | [Reversing Existence](https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Apperception](https://open.spotify.com/album/5fMca3DSzcJFKY24ttQfFO) | 6:39 |
-| 103 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 |
-| 104 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 |
-| 105 | [Abrazo 2020](https://open.spotify.com/track/1r4aHCgkZhCuy91UmoVuVI) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 1:22 |
-| 106 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 |
-| 107 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 |
-| 108 | [March](https://open.spotify.com/track/1bB3YmkkpZaVIVfzBcrKzB) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 13:00 |
-| 109 | [Eventually](https://open.spotify.com/track/3lRJJ1OntPtdX9lTB0w4io) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 9:00 |
-| 110 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 |
-| 111 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
-| 112 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
+| 81 | [Break The Cycle](https://open.spotify.com/track/5dUpUWlBPGIydeG9Ew0fQa) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4) | [Micro Macro](https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB) | 4:46 |
+| 82 | [Reversing Existence](https://open.spotify.com/track/6BZjUJmyn7wu3NeYvDZrBI) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Apperception](https://open.spotify.com/album/5fMca3DSzcJFKY24ttQfFO) | 6:39 |
+| 83 | [Day 1](https://open.spotify.com/track/4IqM95Bxy0Ki0xbSIrNYKN) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Morning Loops](https://open.spotify.com/album/518ACaHelXkskhf4AtBEvA) | 11:52 |
+| 84 | [Matinaka](https://open.spotify.com/track/0fyvaevkqF24i9laNCyvgl) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [Zanzou](https://open.spotify.com/album/7y23NtZPMebkQxHL8YY144) | 3:02 |
+| 85 | [Abrazo 2020](https://open.spotify.com/track/1r4aHCgkZhCuy91UmoVuVI) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 1:22 |
+| 86 | [Sun Ascent](https://open.spotify.com/track/7aKvmuUzQTPR63CCqNyheE) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Relax: Easy Morning](https://open.spotify.com/album/7oCTqkeHvRY1umJzPhVFD5) | 3:39 |
+| 87 | [Bohemian Paradise](https://open.spotify.com/track/76BZeboUrTw8niFWxWET13) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [In the Age of Aristocracy](https://open.spotify.com/album/2VyzPKVjOkYIlevXe7midR) | 4:54 |
+| 88 | [March](https://open.spotify.com/track/1bB3YmkkpZaVIVfzBcrKzB) | [Joel Shearer](https://open.spotify.com/artist/4HrrmVtL1VbUi15AvooVeR) | [Hours](https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj) | 13:00 |
+| 89 | [Eventually](https://open.spotify.com/track/3lRJJ1OntPtdX9lTB0w4io) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [In Letters](https://open.spotify.com/album/7LynSi0f8LcV6IhOppGeZG) | 9:00 |
+| 90 | [What a day I](https://open.spotify.com/track/4rCMha9h0PZ3ghhnO2ykim) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXIIVoid XXIIII](https://open.spotify.com/album/2RhfFJKxFTEVTOYlNcqELm) | 5:34 |
+| 91 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
+| 92 | [Red sheep from hill](https://open.spotify.com/track/77yq8ySYaIhr5jvqJz4qTV) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XVIII](https://open.spotify.com/album/0izMZjzGPz8KAZayecUQW7) | 9:03 |
 
-Snapshot ID: `MCwzMWQzNGYzZmRlODVlZTEzYWYxNDk1YWUxOGJkN2I0MWZhOTZjMWE4`
+Snapshot ID: `MCxlODU1NGI0MzE2YWY4Njc1MzgwODUyYWZmNDFiZWU0ZWQwNzkwYTgw`

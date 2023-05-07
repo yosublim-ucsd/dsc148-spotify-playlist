@@ -4,7 +4,7 @@
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 1 min
+74 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,15 +13,16 @@
 | [Alabanza](https://open.spotify.com/track/6g0p5ZemM9FUKyNCqlkt69) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 4:21 | 2022-05-25 |  |
 | [Antonia](https://open.spotify.com/track/51LZ2XHdETvNLQ6SKqTjWF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:06 | 2022-05-25 |  |
 | [Armonia De Amor](https://open.spotify.com/track/2CfWRsmVFEIJA3t5HBMvry) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 3:54 | 2022-05-25 |  |
+| [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 | 2023-05-06 |  |
 | [Chainga Langa](https://open.spotify.com/track/1akpbkKct2FsbSE71IKHZR) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana](https://open.spotify.com/album/5aqBD2HHSWt6VpSjSZfiMw) | 3:16 | 2022-05-25 |  |
-| [Could You Be Loved](https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Could You Be Loved](https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK) | 5:38 | 2022-05-28 |  |
+| [Could You Be Loved](https://open.spotify.com/track/4coC1sxorLlTOs26ppswjS) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Could You Be Loved](https://open.spotify.com/album/0dzaGDAdEAiuCeezX2COBK) | 5:38 | 2022-05-28 | 2023-05-07 |
 | [Defendamos](https://open.spotify.com/track/2KT2sqjXGxBY4YkWNX56XM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 4:14 | 2022-05-25 |  |
 | [Dime](https://open.spotify.com/track/6YjkpZPWoDnY2Xbvf9lSWn) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 4:16 | 2022-05-25 |  |
 | [Divina verdad](https://open.spotify.com/track/6w9TXZ2DROwK2KUtA41D4N) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Gondwana En Vivo En Buenos Aires](https://open.spotify.com/album/5gF3S3q98Noxe5ECtnUN9K) | 5:25 | 2022-05-25 |  |
 | [Down Under](https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [La 100 Vivo! 2da Edición \(Parte 2\)](https://open.spotify.com/album/028601b3iM0PZtzD76eKRv) | 3:36 | 2022-05-25 |  |
 | [Dulce Amor \(Sólo Un Latido\)](https://open.spotify.com/track/23d6sogOKvZOx7XtSEeNVs) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza](https://open.spotify.com/album/6KPmpAVmsA13q5iz2ItPLS) | 3:47 | 2022-05-25 |  |
 | [El Beso Que Me da una Rosa](https://open.spotify.com/track/5PYs43QuMcrqq2wVPN0pgu) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 3:28 | 2022-06-11 | 2022-08-14 |
-| [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 | 2022-05-25 | 2023-05-06 |
+| [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 | 2022-05-25 |  |
 | [Felicidad](https://open.spotify.com/track/3TilMZ5wdTBPrDYPNY9Kc8) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Made In Jamaica](https://open.spotify.com/album/3iUfQH6qzhBfR4lrD4dgmg) | 5:41 | 2022-05-25 |  |
 | [Fight](https://open.spotify.com/track/7uGKVP3MSeWevLYFI0FOvI) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 4:38 | 2022-10-12 |  |
 | [Fluye](https://open.spotify.com/track/2crdEEBy8ja6mBGjPxfpxZ) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 5:54 | 2022-05-25 |  |

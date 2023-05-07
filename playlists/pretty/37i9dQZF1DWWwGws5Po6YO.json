@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Mira Calix",
-  "num_followers": 28774,
+  "num_followers": 28790,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzVlMDc2NDk2NmViNzJkMzdiOWQ2MmU5MzA4NTU5YjI1NTk0Njgz",
+  "snapshot_id": "MCxiMDZhMTUxY2QzMzNiNDJlZmFmMDgzYzVmZmU2NTVhZjI5YjZhYzQ4",
   "tracks": [
     {
       "added_at": "2022-12-20 17:52:39",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Big Room",
+        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+      },
+      "artists": [
+        {
+          "name": "Ulla Straus",
+          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Antiphonals",
         "url": "https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka"
       },
@@ -711,18 +727,18 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
-        "name": "Big Room",
-        "url": "https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE"
+        "name": "7.37/2.11",
+        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
       },
       "artists": [
         {
-          "name": "Ulla Straus",
-          "url": "https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp"
+          "name": "Perila",
+          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
         }
       ],
-      "duration_ms": 267000,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+      "duration_ms": 468000,
+      "name": "Long Dizzying Air Through A Balcony Door",
+      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -743,22 +759,6 @@
       "duration_ms": 170613,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/7oxhBiEowzLlttETXX3dy4"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "7.37/2.11",
-        "url": "https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X"
-      },
-      "artists": [
-        {
-          "name": "Perila",
-          "url": "https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi"
-        }
-      ],
-      "duration_ms": 468000,
-      "name": "Long Dizzying Air Through A Balcony Door",
-      "url": "https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv"
     },
     {
       "added_at": "2022-12-20 17:52:39",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-12-20 17:52:39",
       "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "duration_ms": 208912,
+      "name": "The Trembling of Glass",
+      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
+    },
+    {
+      "added_at": "2022-12-20 17:52:39",
+      "album": {
         "name": "Hill, Flower, Fog",
         "url": "https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 400000,
       "name": "Kali",
       "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2022-12-20 17:52:39",
-      "album": {
-        "name": "Our Hands Against the Dusk",
-        "url": "https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9"
-      },
-      "artists": [
-        {
-          "name": "Rachika Nayar",
-          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
-        }
-      ],
-      "duration_ms": 208912,
-      "name": "The Trembling of Glass",
-      "url": "https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89"
     },
     {
       "added_at": "2022-12-20 17:52:39",

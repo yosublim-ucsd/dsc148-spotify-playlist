@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 
 > Le rayon de soleil musical de votre matinée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,417 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,528 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 22 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 |
 | 23 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 |
 | 24 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 |
-| 25 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
-| 26 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
+| 25 | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Best Part of Me \(feat\. YEBBA\)](https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB) | 4:03 |
+| 26 | [Falling Slowly](https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0), [Markéta Irglová](https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx) | [Music From The Motion Picture Once](https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE) | 4:04 |
 | 27 | [Stoned at the Nail Salon](https://open.spotify.com/track/38Zs2b75JPNB2tS7O7JQnS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 4:26 |
 | 28 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 |
 | 29 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSM0Vq39VM1S.md) - [plain]
 | 43 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
 | 44 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
 | 45 | [The Story of the Impossible](https://open.spotify.com/track/17mmpDTAuG6DLzqmUKl8w6) | [Peter von Poehl](https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W) | [Going To Where The Tea Trees Are](https://open.spotify.com/album/3O7eRQC2IlamsrPm9oFKFU) | 3:37 |
-| 46 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 |
-| 47 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
+| 46 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 |
+| 47 | [The Sweet Sound of You](https://open.spotify.com/track/6LAUgmGpZBFq2dHmcYCcot) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [The Sweet Sound of You](https://open.spotify.com/album/30NwPn9L2yYV1FD5KSSZVF) | 4:57 |
 | 48 | [Magnetised \- Acoustic](https://open.spotify.com/track/5baXzOMmD0sf26hayRqfqI) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Magnetised \(Acoustic\)](https://open.spotify.com/album/2UQjNLTufvDV6PKx2Kn8v2) | 4:52 |
 | 49 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 | 50 | [anxiété](https://open.spotify.com/track/1HYiZbH7QTKfOUe9AmvbJr) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 3:50 |
 
-Snapshot ID: `MCw4YTg5ZmMwMDFlMWQ0ZWExMTRhN2ZiM2Q3MDU2NDYzYWIwNTZlNTVk`
+Snapshot ID: `MCxmOTQ4NDFhYzcxNjc3MzExNjJkZWNiNWJlNWUzYjAyZTM4NjcxZGFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,264 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,500 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Cold \- 2005 Remaster](https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 4:26 |
 | 50 | [Want](https://open.spotify.com/track/3sig1llmylqwzF6CXKJBcc) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wild Mood Swings](https://open.spotify.com/album/4VArO919KzAphNk7Kei20g) | 5:07 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA3NWU4MDA5OTBkYTkyYjg5Yjc5NzRjZGQwMWQ3MDhjMA==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDA1NGNlNTA0ZWFlMGU1ZDI2NjFlMTQ2YWEwNDFjN2I0Mw==`

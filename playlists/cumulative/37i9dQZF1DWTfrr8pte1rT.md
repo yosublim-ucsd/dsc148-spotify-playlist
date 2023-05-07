@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: ILLENIUM \\m/
 
-297 songs - 17 hr 0 min
+298 songs - 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Back To You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 | 2023-04-28 |  |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-26 |  |
 | [Bad Man \- Kordhell Remix](https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Bad Man \(Kordhell Remix\)](https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE) | 2:33 | 2023-02-24 |  |
-| [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 |  |
+| [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 | 2023-05-07 |
 | [Battle Sirens \(feat\. Knife Party\)](https://open.spotify.com/track/6PeXzqP7E9g3H0aMbBhB9L) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [The Atlas Underground](https://open.spotify.com/album/1oNUnZUmjJNjuWoGmY4caC) | 4:03 | 2022-01-07 | 2022-04-21 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-10 | 2023-03-28 |
 | [Be Your Dog \(feat\. Madge\)](https://open.spotify.com/track/4COs5XQrjymtUma8944kxo) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Be Your Dog](https://open.spotify.com/album/0lpxoa9MIyhRhGC6IUifie) | 3:10 | 2021-12-10 | 2022-06-20 |
@@ -140,6 +140,7 @@
 | [Hollow](https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lø Spirit](https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV) | [Hollow](https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd) | 4:00 | 2023-01-30 |  |
 | [Hurting on Purpose \(feat\. K.Flay\)](https://open.spotify.com/track/0YskQxkk79HIPJyuuIMb6P) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:09 | 2021-12-10 |  |
 | [i don’t wanna write sad songs anymore](https://open.spotify.com/track/1mDAyIXR1GlQRsSr0c2YQ4) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [create together vol\. 3](https://open.spotify.com/album/4G599lsqp9XBStqTtloBg2) | 4:01 | 2022-07-01 | 2022-09-29 |
+| [i don’t wanna write sad songs anymore](https://open.spotify.com/track/5lrOg4024hpqo39lVsr2nM) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW), [whyislavndr](https://open.spotify.com/artist/1vat1U9C93HzmZFkUyPB9E) | [i don’t wanna write sad songs anymore \(Acoustic\)](https://open.spotify.com/album/3GLUq3a8bnqClIZl32Q7dS) | 4:01 | 2023-04-28 |  |
 | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/track/5CkicabyzDs7F7Froa503f) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [I'm Just A Monster Underneath, My Darling](https://open.spotify.com/album/1TILMmAAKEWArxesHlrqOU) | 4:10 | 2022-01-28 |  |
 | [I'm Losing Myself](https://open.spotify.com/track/1iPBZhlxcsMnkdXBiAs1VS) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [ALOTT](https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3) | [Prock House](https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq) | 2:47 | 2021-12-10 | 2022-04-21 |
 | [Immortal](https://open.spotify.com/track/4CtHOVGGI0CXmow1DnhaVL) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583) | [Immortal](https://open.spotify.com/album/31sFjiahDnYKKsPdDcqCSv) | 4:08 | 2023-01-30 |  |

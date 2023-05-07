@@ -1,12 +1,12 @@
 {
   "description": "Relax with these timeless tunes. Cover: John Denver",
-  "num_followers": 636810,
+  "num_followers": 637148,
   "original_name": "Mellow Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmMwODI0ZmE5OTEwYzY1ZmEzYmJiYWZhZmQ0OTY3OWFlNzk4Mzcw",
+  "snapshot_id": "MCw2YzhjZjk3YWFlNGFjNjJhZTcwOTk5NzI2Njk4Njg1NWZjNjRjNTA4",
   "tracks": [
     {
       "added_at": "2021-09-30 18:53:37",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 165426,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Teaser And The Firecat (Remastered 2021)",
         "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Daryl Hall & John Oates (The Silver Album)",
-        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 185293,
-      "name": "Sara Smile",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
+      "duration_ms": 165426,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -519,6 +503,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Daryl Hall & John Oates (The Silver Album)",
+        "url": "https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "Sara Smile",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ"
     },
     {
       "added_at": "2022-09-13 14:34:43",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K"
     },
     {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
       "added_at": "2022-07-05 19:00:29",
       "album": {
         "name": "Crosby, Stills & Nash",
@@ -617,7 +601,7 @@
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
     },
     {
-      "added_at": "2023-05-06 00:42:18",
+      "added_at": "2023-05-07 00:18:27",
       "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
@@ -631,6 +615,22 @@
       "duration_ms": 263400,
       "name": "Long Long Time",
       "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3"
     },
     {
-      "added_at": "2022-09-13 14:34:43",
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
-    },
-    {
       "added_at": "2021-09-30 18:53:37",
       "album": {
         "name": "One of These Nights (2013 Remaster)",
@@ -743,6 +727,22 @@
       "duration_ms": 254653,
       "name": "Danny's Song",
       "url": "https://open.spotify.com/track/0ju1jP0cSPJ8tmojYBEI89"
+    },
+    {
+      "added_at": "2022-09-13 14:34:43",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -825,22 +825,6 @@
       "url": "https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk"
     },
     {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
-    },
-    {
       "added_at": "2022-04-21 18:22:17",
       "album": {
         "name": "The Way We Were",
@@ -871,6 +855,22 @@
       "duration_ms": 311893,
       "name": "Sunshine On My Shoulders",
       "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 341626,
-      "name": "Tangled up in Blue",
-      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
-    },
-    {
-      "added_at": "2021-09-30 18:53:37",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 206533,
       "name": "Still Crazy After All These Years",
       "url": "https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 341626,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
     },
     {
       "added_at": "2021-09-30 18:53:37",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2021-09-30 18:53:37",
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+    },
+    {
+      "added_at": "2021-09-30 18:53:37",
+      "album": {
         "name": "River Of Dreams",
         "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 214400,
       "name": "Lullabye (Goodnight, My Angel)",
       "url": "https://open.spotify.com/track/4cURHmiuYii52BVbhrGbv0"
-    },
-    {
-      "added_at": "2021-09-30 19:02:03",
-      "album": {
-        "name": "Hot Rocks (1964-1971)",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 342586,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB"
     }
   ],
   "unique_name": "Mellow Classics",

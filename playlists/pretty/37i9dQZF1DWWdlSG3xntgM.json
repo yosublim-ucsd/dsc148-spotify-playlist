@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34152,
+  "num_followers": 34161,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjgwYjQ3MDIwMTU3MjUwY2IzNTA1YTZlYTY3OGI2MThmMmU1Mzcx",
+  "snapshot_id": "MCxkOGQ4NmEwZTFlYWFiNTg0NGE1ODA3NGNjMzYyMTU0ODVkNDE3NTVj",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "B\u1ebfn Xu\u00e2n",
-        "url": "https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ"
-      },
-      "artists": [
-        {
-          "name": "Quang Le",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 285680,
-      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
-      "url": "https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
         "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 247780,
       "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
       "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "B\u1ebfn Xu\u00e2n",
+        "url": "https://open.spotify.com/album/1MADZBcRfbVzBsrBBsqaaZ"
+      },
+      "artists": [
+        {
+          "name": "Quang Le",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "Xu\u00e2n N\u00e0y Con Kh\u00f4ng V\u1ec1",
+      "url": "https://open.spotify.com/track/1Y89eBUJ1lS7d2yQlVUm3M"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -647,38 +647,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "7000 \u0110\u00eam G\u00f3p L\u1ea1i",
-        "url": "https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8"
-      },
-      "artists": [
-        {
-          "name": "Quang Le",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 288925,
-      "name": "Xu\u00e2n N\u00e0y Con V\u1ec1 M\u1eb9 \u1ede \u0110\u00e2u?",
-      "url": "https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "Bolero Edition",
-        "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
-      },
-      "artists": [
-        {
-          "name": "M\u1ef9 T\u00e2m",
-          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
-        }
-      ],
-      "duration_ms": 359039,
-      "name": "Hoa Trinh N\u1eef",
-      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Best of Tr\u01b0\u1eddng V\u0169",
         "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 356240,
       "name": "Lk Ngh\u00e8o",
       "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "Bolero Edition",
+        "url": "https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL"
+      },
+      "artists": [
+        {
+          "name": "M\u1ef9 T\u00e2m",
+          "url": "https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g"
+        }
+      ],
+      "duration_ms": 359039,
+      "name": "Hoa Trinh N\u1eef",
+      "url": "https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "7000 \u0110\u00eam G\u00f3p L\u1ea1i",
+        "url": "https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8"
+      },
+      "artists": [
+        {
+          "name": "Quang Le",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "duration_ms": 288925,
+      "name": "Xu\u00e2n N\u00e0y Con V\u1ec1 M\u1eb9 \u1ede \u0110\u00e2u?",
+      "url": "https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -767,22 +767,6 @@
       "duration_ms": 293108,
       "name": "M\u00e3i L\u00e0 Ni\u1ec1m \u0110au",
       "url": "https://open.spotify.com/track/0HwirubE0A00VYVLGOM5wp"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "\u0110\u00f4i M\u1eaft Ng\u01b0\u1eddi X\u01b0a",
-        "url": "https://open.spotify.com/album/5U17b1XH767c0J2IEfHOGu"
-      },
-      "artists": [
-        {
-          "name": "Quang Le",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 328748,
-      "name": "Tr\u1ed9m Nh\u00ecn Nhau",
-      "url": "https://open.spotify.com/track/1ugueMXw2OZlSewPA2UEJI"
     },
     {
       "added_at": "2023-01-19 04:02:47",
@@ -875,6 +859,22 @@
       "duration_ms": 293471,
       "name": "L\u1ea1i Nh\u1edb Ng\u01b0\u1eddi Y\u00eau",
       "url": "https://open.spotify.com/track/0nDTdQm4QBUeqKyADkGvH1"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "\u0110\u00f4i M\u1eaft Ng\u01b0\u1eddi X\u01b0a",
+        "url": "https://open.spotify.com/album/5U17b1XH767c0J2IEfHOGu"
+      },
+      "artists": [
+        {
+          "name": "Quang Le",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "duration_ms": 328748,
+      "name": "Tr\u1ed9m Nh\u00ecn Nhau",
+      "url": "https://open.spotify.com/track/1ugueMXw2OZlSewPA2UEJI"
     },
     {
       "added_at": "2023-01-19 04:02:47",

@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 35235,
+  "num_followers": 35384,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzk2NTU4YzZiYzg1YmI0YzRiZTA4MWZhZGQwYTFhMTkwZmUyMGQ5",
+  "snapshot_id": "MCxmNTQxOWU5MjNkYzY1YzNlY2EzNTQwMzdiMjNjM2M2ZmNkMjQ1MGFh",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "duration_ms": 195129,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "The Frights",
         "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 129119,
       "name": "SICK OF IT*",
       "url": "https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG"
-      },
-      "artists": [
-        {
-          "name": "Mannequin Pussy",
-          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
-        }
-      ],
-      "duration_ms": 195129,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y"
     },
     {
       "added_at": "2023-03-31 04:00:00",

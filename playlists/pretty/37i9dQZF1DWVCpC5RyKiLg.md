@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,539 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 659,150 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 9 | [Aquela Pessoa \- Ao Vivo](https://open.spotify.com/track/5asabafNzfAzjUecDvuNES) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:46 |
 | 10 | [Não Abro Mão \- Ao Vivo](https://open.spotify.com/track/3L2uyIJoJPjYkSETVNSPBQ) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \- Deluxe \(ao Vivo\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:00 |
 | 11 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
-| 12 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
-| 13 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 |
+| 12 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 |
+| 13 | [Vou Ter Que Superar \- Ao Vivo](https://open.spotify.com/track/6sRLrSetyIwIKhW1eMlUNP) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:09 |
 | 14 | [Péssimo Negócio \(Ao Vivo\)](https://open.spotify.com/track/5MMrkwK6AgNAsgHVdC7daZ) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Terra do Nunca \(Ao Vivo\)](https://open.spotify.com/album/5Sl0uDchhuleATxPwmSN4y) | 3:21 |
 | 15 | [Lancinho \- Ao Vivo](https://open.spotify.com/track/2iH7RnVhofwr9NhaQ6r44K) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5) | [O Som das Multidões](https://open.spotify.com/album/3XhihHyXFqyUxo5ICzp7DE) | 3:47 |
 | 16 | [Caso Indefinido \- Ao Vivo](https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k) | [Cristiano Araújo](https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI) | [In The Cities \- Ao Vivo Em Cuiabá](https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX) | 5:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 74 | [Onze e Pouquinho](https://open.spotify.com/track/65i9Mc7h1CG7ssI1OhMPcT) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Quarto e Sala](https://open.spotify.com/album/2F6QKX0h4wqizmMjFpVtGG) | 3:00 |
 | 75 | [10% \- Ao Vivo](https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 
-Snapshot ID: `MCw5NmZiNjhmYmZjYzU1ZThjMWI2MjE3NGFhYzU1YWExMzhhZDM4ZjEx`
+Snapshot ID: `MCwxNTI2YzQ3NzVjZmU4MDJiMzdmMDk0ZWI5NzM2Yjg5YTg2ZDYzYzM3`

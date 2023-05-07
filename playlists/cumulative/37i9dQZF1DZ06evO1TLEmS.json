@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Revealer (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283093,
+      "name": "Death By Suspicion",
+      "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
+    },
+    {
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },

@@ -4,7 +4,7 @@
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-88 songs - 4 hr 40 min
+89 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-28 | 2023-04-14 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-06 |  |
 | [LAST NIGHT](https://open.spotify.com/track/6SLz0d8qOwxDGsVz1D6cMw) | [Kidd King](https://open.spotify.com/artist/5bOD7SS2RP7gzcNstJeCuF) | [EMOTIONAL BAGGAGE](https://open.spotify.com/album/2w5NOGfn9lrizZoXhktoVP) | 3:06 | 2022-05-03 | 2022-08-03 |
-| [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2022-05-03 |  |
+| [lazygirl](https://open.spotify.com/track/0esXzdqhlme2yoddwCxFKK) | [Chuther](https://open.spotify.com/artist/3CiocMn9SHnAzKqqPa8mnQ) | [lazygirl](https://open.spotify.com/album/1U3SqPnlfdCLepaAqG9QtQ) | 2:46 | 2022-05-03 | 2023-05-07 |
 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 | 2023-01-11 |
 | [Let It](https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:04 | 2022-05-03 |  |
 | [Love or Hate](https://open.spotify.com/track/0vSoQCBMCWBiLwrD2is0cP) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:29 | 2023-04-06 | 2023-04-20 |
@@ -87,6 +87,7 @@
 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 | 2022-05-03 |  |
 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 | 2022-05-03 |  |
 | [STOP Apologizing](https://open.spotify.com/track/0mb8lFKocpTmzFAgyGhWTY) | [JHWA](https://open.spotify.com/artist/1vxo5VUlyJn77SdzxpadUe) | [STOP Apologizing](https://open.spotify.com/album/2a8VsL3LhYmt9qjfPmECDD) | 3:09 | 2022-05-03 | 2022-08-10 |
+| [STUPID \(feat\. 2SO\)](https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY) | [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C), [2SO](https://open.spotify.com/artist/1tvJASKoGOS4oNMN0ZjDq8) | [future island](https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN) | 3:00 | 2023-05-05 |  |
 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 | 2022-05-03 |  |
 | [Tattoo \(feat\. Jayci yucca, YongYong\)](https://open.spotify.com/track/7wMQDZtqHDxNnQNXitRfZG) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK) | [\#LOVEMEORHATEME](https://open.spotify.com/album/3UIen3gIyymppgXGLjc5xk) | 3:15 | 2022-08-09 | 2023-02-09 |
 | [WANNA BE MYSELF](https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WANNA BE MYSELF](https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI) | 3:26 | 2022-05-03 |  |

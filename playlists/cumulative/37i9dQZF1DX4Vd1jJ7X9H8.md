@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-412 songs - 1 day 0 hr 33 min
+413 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 | 2021-11-12 | 2022-04-21 |
 | [Bucky Done Gun](https://open.spotify.com/track/5eQABBjViGlMlA7ZDB1QL7) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Arular](https://open.spotify.com/album/7CzEknt9gJwe0QC89ir1JX) | 3:46 | 2020-12-31 | 2022-04-19 |
 | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/track/6cq5CiTm239TeNEE6YjqfE) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Butterflies \(with Starrah & Four Tet\)](https://open.spotify.com/album/1j2uX2CKl8szGRxKqsXOfm) | 3:15 | 2021-06-25 | 2022-04-11 |
+| [Calvaire](https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf) | 1:57 | 2023-05-04 |  |
 | [Calvaire](https://open.spotify.com/track/3KzDBZYfyIPYadSYwrQkPL) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Calvaire](https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa) | 1:57 | 2021-11-12 | 2022-07-29 |
 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 | 2022-07-22 | 2022-08-12 |
 | [Can't Feel My Face](https://open.spotify.com/track/64bYIchESwtANfBlwJoK1e) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/36yJ6fcaSCVsK1tybnNizj) | 3:33 | 2020-12-31 | 2022-04-14 |
@@ -98,7 +99,7 @@
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2020-12-31 | 2022-04-20 |
 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 | 2020-12-31 | 2022-08-12 |
 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-11-12 | 2022-07-27 |
-| [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 | 2022-09-26 |  |
+| [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 | 2022-09-26 | 2023-05-07 |
 | [Don't Be Afraid \- Blu DeTiger Remix](https://open.spotify.com/track/0t1ba5M0QkP1Jh1rg3BKCk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Don't Be Afraid \(Blu DeTiger Remix\)](https://open.spotify.com/album/0cDUXuLLLRuB8rs7mixcep) | 3:17 | 2021-08-27 | 2022-07-28 |
 | [Don't Need You \- Remix](https://open.spotify.com/track/2q417j6tLiesXGaLg3moek) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Don't Need You \(Remix\)](https://open.spotify.com/album/54idTn2jECfHYnDnNpf8Sx) | 3:29 | 2021-04-02 | 2022-07-29 |
 | [DON'T SHOOT UP THE PARTY](https://open.spotify.com/track/3X0Tof7fViQGV95EKIY5x1) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [ROADRUNNER: NEW LIGHT, NEW MACHINE](https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7) | 3:07 | 2021-04-26 | 2022-07-28 |

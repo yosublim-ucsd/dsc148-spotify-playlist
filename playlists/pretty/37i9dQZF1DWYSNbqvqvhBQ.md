@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,352 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,361 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 89 | [Days of Confusion](https://open.spotify.com/track/00gKRt8jsyhNgYrJFerCuS) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Days of Confusion](https://open.spotify.com/album/6T9KzoLYoleQCawdwPm42p) | 3:14 |
 | 90 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 |
 | 91 | [Stop The Clock](https://open.spotify.com/track/02glDG5euIeWyzBV2b0MgW) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [Stop The Clock](https://open.spotify.com/album/0scrK1CNaESEDSXhOeLfUX) | 3:46 |
-| 92 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 |
+| 92 | [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 |
 | 93 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 |
 | 94 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 |
 | 95 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 99 | [Simple Step](https://open.spotify.com/track/2D3UoXaFRyCP9trM5LtWQ5) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 2:45 |
 | 100 | [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 |
 
-Snapshot ID: `MCwxMTlhM2JlNzVmNTc1NTBjN2M0ZTYxNTRlMGRlZDc0NTc0YThiMzU3`
+Snapshot ID: `MCxjNGVmYzZiODBkZjUzNjY0ZmE3ODBmYTk5NWMyYTY0OWIxNzFjYjkz`

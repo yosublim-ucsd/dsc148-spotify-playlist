@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,059 songs - 2 day 6 hr 18 min
+1,060 songs - 2 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,7 +506,7 @@
 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 | 2020-10-29\* | 2020-12-12 |
 | [It Takes Two](https://open.spotify.com/track/7lR4o63cpYr8zY3nBEPead) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [It Takes Two](https://open.spotify.com/album/314mIakb1sF5Lfl23kmibT) | 2:39 | 2021-02-27 | 2021-10-02 |
 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 | 2022-01-14 | 2022-05-28 |
-| [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-03-24 |  |
+| [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-03-24 |  |
 | [Itsy Bitsy](https://open.spotify.com/track/1tXKuzYRdQsKa32ZUPiq0A) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Itsy Bitsy](https://open.spotify.com/album/54DolYpYf4Ai92P5TV6IfB) | 2:57 | 2021-01-30 | 2021-03-06 |
 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 | 2022-02-28 | 2022-07-02 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-05-20 |
@@ -524,7 +524,8 @@
 | [Keep Dancing](https://open.spotify.com/track/40MvWovKhWdX9jxbthw62T) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Keep Dancing](https://open.spotify.com/album/2g1V6cI8hGRPXiyVEDnXYN) | 2:59 | 2022-04-22 | 2023-05-06 |
 | [KEEP IT COOL!](https://open.spotify.com/track/1H4sbFieU2PFUMYugcGNlb) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [KEEP IT COOL!](https://open.spotify.com/album/1H0zkjJIFUVuOPn1Jr6NdF) | 2:50 | 2023-04-07 |  |
 | [KEEP IT UP](https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [KEEP IT UP](https://open.spotify.com/album/36IWMZ2DOpKbLb0IrzWc4U) | 3:03 | 2022-01-28 | 2022-02-19 |
-| [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-03 |  |
+| [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-03 | 2023-05-07 |
+| [keep our love alive](https://open.spotify.com/track/5Skpe6bbhoZqJMR6pfQLZr) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:56 | 2023-05-05 |  |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-04-30 | 2021-06-27 |
 | [Kicks](https://open.spotify.com/track/5HOqxHVvi2JZfFGviilqmJ) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C) | [Kicks](https://open.spotify.com/album/5sd1yuJz5nPdXt2xhghvMk) | 3:32 | 2020-10-29\* | 2021-02-20 |
 | [Kicks](https://open.spotify.com/track/4E35SNiisoI8tzq8JWSABO) | [Nightshifts](https://open.spotify.com/artist/1GLzXZd8MfzeQgkKKR7k8C), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Kicks](https://open.spotify.com/album/5OLA2sIxJKMwDPFKxDFCcl) | 3:31 | 2022-03-14 | 2022-08-06 |

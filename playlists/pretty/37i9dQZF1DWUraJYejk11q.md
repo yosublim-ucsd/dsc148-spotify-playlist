@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,203 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,251 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,15 +22,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 12 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 |
 | 13 | [Universal Sound](https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6) | [Ricky Bamboo](https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD) | [Forest Theory](https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9) | 3:51 |
 | 14 | [Leave Here](https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9) | 4:57 |
-| 15 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
-| 16 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 |
+| 15 | [Distant Thoughts](https://open.spotify.com/track/3ULyNETw72K1nR6tdRz76w) | [Justin Jet Zorbas](https://open.spotify.com/artist/10G9N5ABjyamTFBEAsquNs), [Inum](https://open.spotify.com/artist/3TAGwIg5m6pwHRuBMvtsup) | [Distant Thoughts](https://open.spotify.com/album/1Y2A4NGnjArQf9DLy3Unv2) | 2:27 |
+| 16 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 |
 | 17 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 | 18 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 |
 | 19 | [Hoss It](https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U) | [96 Back](https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz) | [Crass](https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU) | 5:57 |
 | 20 | [Planta Dance](https://open.spotify.com/track/3YFLHrRwTAcryw4TZXvvYS) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Planta Dance](https://open.spotify.com/album/6pUoP6H2z0VDK3K0mzGnWv) | 3:06 |
 | 21 | [April Dub \(Koyas Mix\)](https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru) | [Sancho Meiso Chaya](https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn), [Koyas](https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI) | [April Dub](https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE) | 4:20 |
-| 22 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
-| 23 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 22 | [Exotic Contents](https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Exotic Contents / Pulse at the Centre of Being](https://open.spotify.com/album/0I0azaQfHlf1JEIJuwHF5a) | 5:46 |
+| 23 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 |
 | 24 | [Eden Portal](https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Eden Portal](https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2) | 6:06 |
 | 25 | [Closer \- Daniel Avery Edit](https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Closer \(Daniel Avery Edit\)](https://open.spotify.com/album/7ibaWfGIltYCxmRD9Qjz1G) | 4:06 |
 | 26 | [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [Yesterday Faded \- Edit](https://open.spotify.com/track/0WLrMIT6Pi7AzvEdvfP7yP) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Yesterday Faded \(Edit\)](https://open.spotify.com/album/6o2dqU7r0teFQoNQZdEGdT) | 4:02 |
 | 50 | [Pigeon Barron](https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 6:39 |
 
-Snapshot ID: `MCw0Y2UwYjVhZWM4NmUxOTBhNDE5MWUzMWVlYjFjNmQyZjYxY2RiNDk1`
+Snapshot ID: `MCw0N2VkMGM3N2ZmYTFmMTRiNmU5Mzg3MWRiOTU4MGUyMjRmNWExMzcx`

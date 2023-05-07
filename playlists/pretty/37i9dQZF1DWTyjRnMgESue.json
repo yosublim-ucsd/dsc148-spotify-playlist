@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Jess Williamson",
-  "num_followers": 49701,
+  "num_followers": 49752,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzA4MTEwZGY5YzcxNzczYjBmNzRmNWFlZTA0Y2VlYWE0M2M0NTYw",
+  "snapshot_id": "MCwyY2E2OTFkMDc1NTI0MGQ0MjcwYmZhZWQ4NDk2ODY1ZjFjNWY4NDRk",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "All My Loving",
+        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 178537,
+      "name": "All My Loving",
+      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "All My Loving",
-        "url": "https://open.spotify.com/album/5W1sTXqVYuJIgUF6CCy2US"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 178537,
-      "name": "All My Loving",
-      "url": "https://open.spotify.com/track/4qiiEZPtUtgyDb5qGnEWKl"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
         "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
       },
@@ -1259,18 +1275,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+        "name": "Hopelessly",
+        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
         }
       ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
+      "duration_ms": 180013,
+      "name": "Hopelessly",
+      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 192489,
       "name": "Far from Home",
       "url": "https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Hopelessly",
-        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "Hopelessly",
-      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Am I even living anymore",
-        "url": "https://open.spotify.com/album/06CyPht4fcKktIg4zJUNHP"
-      },
-      "artists": [
-        {
-          "name": "Mikey Ferrari",
-          "url": "https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "Am I even living anymore",
-      "url": "https://open.spotify.com/track/1ZF6PgaBXLGeU44KBKysD3"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "forever, now",
         "url": "https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 288826,
       "name": "forever, now",
       "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Am I even living anymore",
+        "url": "https://open.spotify.com/album/06CyPht4fcKktIg4zJUNHP"
+      },
+      "artists": [
+        {
+          "name": "Mikey Ferrari",
+          "url": "https://open.spotify.com/artist/6WqxuOkQXo8zDZl0InT5R7"
+        }
+      ],
+      "duration_ms": 201190,
+      "name": "Am I even living anymore",
+      "url": "https://open.spotify.com/track/1ZF6PgaBXLGeU44KBKysD3"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/3Hgnwo776L50LdBk4JkwmR"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 154491,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0T5wK7y2uGZmGQf1xdBM4c"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Colour Your World",
+        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 193367,
+      "name": "If Not My Heart",
+      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Sahar",
+        "url": "https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -1651,26 +1671,6 @@
       "duration_ms": 211733,
       "name": "The Man Who Sees Tomorrow",
       "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Masquerades",
-        "url": "https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "When You Need It (feat. Wrabel)",
-      "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

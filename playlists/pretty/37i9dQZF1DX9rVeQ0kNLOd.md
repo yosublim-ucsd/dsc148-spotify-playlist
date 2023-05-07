@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,600 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,635 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 17 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
 | 18 | [Burning Friday Night](https://open.spotify.com/track/1NlkoYEA1ndLQIKzXTPh9V) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [FULLCOLOR](https://open.spotify.com/album/1rDLRueueI2ILXOyZE5qWd) | 4:15 |
 | 19 | [Soranji](https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb) | 5:44 |
-| 20 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
+| 20 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 | 21 | [All night](https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [All night](https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb) | 2:57 |
 | 22 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 |
 | 23 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
-| 24 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
+| 24 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
 | 25 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 |
 | 26 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 |
 | 27 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 41 | [Have a nice day](https://open.spotify.com/track/3FmTrTjnEZ9ZX7b0LUPZYW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Have a nice day](https://open.spotify.com/album/2nCMRcMAZgmMJc9SV4gN1l) | 2:55 |
 | 42 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 |
 | 43 | [minority](https://open.spotify.com/track/0ktBZDpglg6Vjm41XduGfE) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [Suddenly](https://open.spotify.com/album/3mjCGUIHoTneLrYkTpcAwM) | 2:27 |
-| 44 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 |
-| 45 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
+| 44 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
+| 45 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 |
 | 46 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
 | 47 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
 | 48 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
 | 49 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 | 50 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 |
 
-Snapshot ID: `MCxjZDY0OGY1ZDZjNDNkZGRjOWVhOWNjOTVkOGIyMGY1MjJlMmFkNDNk`
+Snapshot ID: `MCwzNTZlM2VlNmE2MTYwNmJiMzc3MGM1ZmJhOWQyNjQzODBmZDgyYjFl`

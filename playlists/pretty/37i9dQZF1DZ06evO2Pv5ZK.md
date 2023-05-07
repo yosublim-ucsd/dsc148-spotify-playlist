@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,651 likes - 49 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,675 likes - 49 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 48 | [El Greco \- Part 1](https://open.spotify.com/track/3h9cnu26p2T6vvgdMxFpnf) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [El Greco \- Original Motion Picture Soundtrack By Vangelis](https://open.spotify.com/album/63lUp5PxD47l3Cx468Ptwj) | 3:58 |
 | 49 | [Création du monde \- Remastered](https://open.spotify.com/track/4sGMiZL7PhTJgcg2pJwXP4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 10:01 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBhMzY3OTZiOGE1ZjQyOWE0Y2E0NjQ0YzFiMzZiNDlmNg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA3NTNiOWMyNGEwYTFlZmYxYzE1MDRkN2E3OWM3ZTEzNg==`

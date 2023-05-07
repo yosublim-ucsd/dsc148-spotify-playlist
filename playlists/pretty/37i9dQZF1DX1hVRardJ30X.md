@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,371 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,497 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 55 | [Thrift Kiss](https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem) | [Thrift Kiss](https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70) | 3:47 |
 | 56 | [Vaticano](https://open.spotify.com/track/3IBvk3tDv7s0hgvAoh4y5X) | [Jemeth](https://open.spotify.com/artist/3bzDjVLU4g4cJqmNbCYCSX) | [Vaticano](https://open.spotify.com/album/3R1r6tk9kTQW7SPC9hFkPv) | 2:41 |
 
-Snapshot ID: `MCw1ZGQzYmM0NzVjYTQwODdmODc1YTlkZGJiMzE3Mzc4Njk5ODVhZDZk`
+Snapshot ID: `MCw2NzUzYmNhMzg5YWQwNjBmZjJkNjFkOTg3NDUwNWE4NzIyM2ViZGE0`

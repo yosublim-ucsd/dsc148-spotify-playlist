@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,606 likes - 78 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,786 likes - 78 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 77 | [Gal Academy](https://open.spotify.com/track/4ae1MztEbIn1ZDGnTmYD5P) | [DiCelebrityy](https://open.spotify.com/artist/5VEEIed5Y6YYoYN8c5pLzg), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Gal Academy](https://open.spotify.com/album/6E0I4vxf0BmX4YQqthzpp6) | 3:11 |
 | 78 | [Riches Wii a Pree](https://open.spotify.com/track/70sylDX7oTLfSyqPepXnn4) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx), [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma) | [Riches Wii a Pree](https://open.spotify.com/album/25IgvW1IMpamtzY5ID4dhD) | 3:06 |
 
-Snapshot ID: `MCxlYmU5NTU3YTg5MWEwOTVkYWM0OGNiZTM5OGU3NTEzMzZhM2YzOTlh`
+Snapshot ID: `MCw5NmY2OGVkMmM1NTQ4NzY0MzExMzcwN2MwY2NjNDE3MDYxNTY0ZWIw`

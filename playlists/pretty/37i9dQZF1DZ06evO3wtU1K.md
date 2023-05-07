@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,865 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,894 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [The Moment \- Live](https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Moment \(Live\)](https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO) | 7:21 |
 | 50 | [Jesus Lover Of My Soul \- Live](https://open.spotify.com/track/5ndRS9n7ojy6IoAQZ9R5n7) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Jesus Lover Of My Soul \(Live\)](https://open.spotify.com/album/2nIy4tVIY02SlqsmpjtVp0) | 8:59 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBhOTk0ODZhMDQ4MDBkNjk3ODNmZWMzNTlhODZhNTZhYw==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBkODQ5NjUxYTQxNTVmNmZmM2FmMjM0MTBmMWE4YmMzYQ==`

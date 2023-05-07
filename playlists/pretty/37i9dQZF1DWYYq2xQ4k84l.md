@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 
 > The biggest songs in Latin America in 2004\. Cover: Juanes
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,230 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,310 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 14 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
 | 15 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 |
 | 16 | [El Arte del Engaño](https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. II](https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x) | 4:22 |
-| 17 | [Sinônimos](https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Aqui O Sistema É Bruto](https://open.spotify.com/album/4FTV8aipNFzqQo10minF34) | 4:43 |
-| 18 | [Pasos de gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
+| 17 | [Pasos de gigantes](https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Sinverguenza](https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb) | 3:55 |
+| 18 | [Sinônimos](https://open.spotify.com/track/5wn7dRsPFOd236GySyJqLx) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Aqui O Sistema É Bruto](https://open.spotify.com/album/4FTV8aipNFzqQo10minF34) | 4:43 |
 | 19 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
 | 20 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
 | 21 | [Desde Que Llegaste](https://open.spotify.com/track/4iuQ88fgaqBRkzb1JWKUbZ) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYq2xQ4k84l.md) - [plain]
 | 49 | [Llenos De Magia](https://open.spotify.com/track/2q0k5EsonFQ2dgzpfUJRpu) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 3:52 |
 | 50 | [Duele El Amor!](https://open.spotify.com/track/2SfWO6xWCJd7q5oiUcphyi) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [1989\-2009](https://open.spotify.com/album/19I8hvP9qeZOudvIPd7Gv5) | 4:35 |
 
-Snapshot ID: `MCw5OThmYmMyZTVkYWEyMmVmY2VjNTcxYTc2NWIzNDc2NTUwMzdhMjg2`
+Snapshot ID: `MCxhYjNkMmUwZmUzODBjYmUyYTc4YmEyYjU3ZDRlYmZmN2E4NzY5N2Vi`

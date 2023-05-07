@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Lil Baby, Gucci Mane and DaBaby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,277,613 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,280,520 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Favorite Song](https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Favorite Song](https://open.spotify.com/album/4XiUZULpVS6gTgKKU7KTX5) | 3:28 |
 | 50 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
 
-Snapshot ID: `MCxlNjA0OTIzNTIwZGE0OTE5MTNlYjI4OGM1ZDI0M2IwYTU0YjBmMzFm`
+Snapshot ID: `MCxjMWNmNTNkMzIxZTQ0MjA4MjczNzU0MzQ5ZjYwZDcxMTA1YzczYTA5`

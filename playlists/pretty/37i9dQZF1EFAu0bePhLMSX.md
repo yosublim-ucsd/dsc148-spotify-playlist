@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 475 likes - 147 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 476 likes - 147 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 62 | [Voodoo](https://open.spotify.com/track/6rYVBkMNqLBH5kw7AcBz77) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Greatest Hits](https://open.spotify.com/album/2XLpqfYjGTecYQJQU9wFxG) | 3:11 |
 | 63 | [Just A Day](https://open.spotify.com/track/7dlDAQNbVBBQpTK7LvB63p) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/5oPJdG33gRgFxHhI6rSWUf) | 3:25 |
 | 64 | [Feed Your Love](https://open.spotify.com/track/1182NfpbWAJflmaIMOmKaQ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 5:12 |
-| 65 | [Hearts Collide](https://open.spotify.com/track/6wZLtBO9bH2cpsQrm6udm0) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 3:45 |
-| 66 | [Falling](https://open.spotify.com/track/0POZLh4zmngcmZlED3TE6M) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 3:19 |
+| 65 | [Falling](https://open.spotify.com/track/0POZLh4zmngcmZlED3TE6M) | [Gabrielle](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/0UdmyRJgaoe92dHgMit5bT) | 3:19 |
+| 66 | [Hearts Collide](https://open.spotify.com/track/6wZLtBO9bH2cpsQrm6udm0) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 3:45 |
 | 67 | [Loving Days](https://open.spotify.com/track/09pDDFlNY1wkw67ci85RZl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/7vd7tsL9QEJSKX4nvkkP9T) | 4:26 |
 | 68 | [Invincible](https://open.spotify.com/track/1rc5A1wnFlP6MwBPI8grzV) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:12 |
 | 69 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 146 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 147 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `MjgwNTU1OTAsMDAwMDAwMDA2NzRmZDA0NzEyZWZmZDZmZjYyNjE0YjdhNmU0YTExNA==`
+Snapshot ID: `MjgwNTcwMzAsMDAwMDAwMDBjN2IxMTE0YmNhYmY4NzE4YmNiNWI5YTdiNjhmOWM3Mw==`

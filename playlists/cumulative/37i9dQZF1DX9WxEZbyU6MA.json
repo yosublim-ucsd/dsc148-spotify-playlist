@@ -633,50 +633,6 @@
     },
     {
       "album": {
-        "name": "Byrd: Mass for Four Voices: V. Agnus Dei",
-        "url": "https://open.spotify.com/album/2Qnw992U1fGiV0OeoCfaj1"
-      },
-      "artists": [
-        {
-          "name": "William Byrd",
-          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
-        },
-        {
-          "name": "Stile Antico",
-          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
-        }
-      ],
-      "date_added": "2022-11-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 243413,
-      "name": "Byrd: Mass for Four Voices - V. Agnus Dei",
-      "url": "https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d"
-    },
-    {
-      "album": {
-        "name": "Byrd: Retire My Soul",
-        "url": "https://open.spotify.com/album/1OpmDXX4BS0ZB7l8YhcKmQ"
-      },
-      "artists": [
-        {
-          "name": "William Byrd",
-          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
-        },
-        {
-          "name": "Stile Antico",
-          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
-        }
-      ],
-      "date_added": "2022-12-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 266400,
-      "name": "Byrd: Retire My Soul",
-      "url": "https://open.spotify.com/track/6MKNiRPLEHZE8fikKRL3Vq"
-    },
-    {
-      "album": {
         "name": "SPES",
         "url": "https://open.spotify.com/album/5LnknYLYDU0bqn5nrrBKvo"
       },
@@ -1131,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "Byrd: Mass for Four Voices: V. Agnus Dei",
+        "url": "https://open.spotify.com/album/2Qnw992U1fGiV0OeoCfaj1"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Stile Antico",
+          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243413,
+      "name": "Mass for Four Voices: V. Agnus Dei",
+      "url": "https://open.spotify.com/track/4tJTytklwv0NENMQxzKp8d"
+    },
+    {
+      "album": {
         "name": "Media Vita",
         "url": "https://open.spotify.com/album/21ruoumhxcMcRsD08UF9Mj"
       },
@@ -1442,6 +1420,28 @@
       "duration_ms": 203293,
       "name": "Requiem - Herbert Howells: III. Requiem Aeternam (I)",
       "url": "https://open.spotify.com/track/6uM2elLuQMKe47EV5yjJKT"
+    },
+    {
+      "album": {
+        "name": "Byrd: Retire My Soul",
+        "url": "https://open.spotify.com/album/1OpmDXX4BS0ZB7l8YhcKmQ"
+      },
+      "artists": [
+        {
+          "name": "William Byrd",
+          "url": "https://open.spotify.com/artist/2j7yGPnVrdIHjHwtyLPJ2z"
+        },
+        {
+          "name": "Stile Antico",
+          "url": "https://open.spotify.com/artist/050HYLDzYAPj4f334VbaKG"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266400,
+      "name": "Retire My Soul",
+      "url": "https://open.spotify.com/track/6MKNiRPLEHZE8fikKRL3Vq"
     },
     {
       "album": {
@@ -2113,6 +2113,36 @@
     },
     {
       "album": {
+        "name": "Whitacre: The Sacred Veil: XII. Child of Wonder",
+        "url": "https://open.spotify.com/album/1awPnZw2zS9Czidoto6gLp"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Voces8",
+          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
+        },
+        {
+          "name": "Christopher Glynn",
+          "url": "https://open.spotify.com/artist/1BlAyhfXyu55YqhWpX5YtB"
+        },
+        {
+          "name": "Emma Denton",
+          "url": "https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281666,
+      "name": "The Sacred Veil: XII. Child of Wonder",
+      "url": "https://open.spotify.com/track/7dZyWWwjruK9YiJiN9mbMC"
+    },
+    {
+      "album": {
         "name": "Light & Gold",
         "url": "https://open.spotify.com/album/2hnquPCPDsr3Srk64rdeVS"
       },
@@ -2546,36 +2576,6 @@
       "duration_ms": 317933,
       "name": "Whilst Great Is Our Poverty",
       "url": "https://open.spotify.com/track/4x0gTKvCwR5gn9yFw0xWWX"
-    },
-    {
-      "album": {
-        "name": "Whitacre: The Sacred Veil: XII. Child of Wonder",
-        "url": "https://open.spotify.com/album/1awPnZw2zS9Czidoto6gLp"
-      },
-      "artists": [
-        {
-          "name": "Eric Whitacre",
-          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
-        },
-        {
-          "name": "Voces8",
-          "url": "https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc"
-        },
-        {
-          "name": "Christopher Glynn",
-          "url": "https://open.spotify.com/artist/1BlAyhfXyu55YqhWpX5YtB"
-        },
-        {
-          "name": "Emma Denton",
-          "url": "https://open.spotify.com/artist/0W9hKiOL5yNId9xC24fFWg"
-        }
-      ],
-      "date_added": "2023-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 281666,
-      "name": "Whitacre: The Sacred Veil - XII. Child of Wonder",
-      "url": "https://open.spotify.com/track/7dZyWWwjruK9YiJiN9mbMC"
     },
     {
       "album": {

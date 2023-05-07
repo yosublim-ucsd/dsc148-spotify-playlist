@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : JON VINYL
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,334 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,346 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 10 | [Eve Gene](https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Eve Gene](https://open.spotify.com/album/2hb1EQDUBqVOaKwJCwW44X) | 3:18 |
 | 11 | [I'll Wait](https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [I'll Wait](https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR) | 3:51 |
 | 12 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
-| 13 | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
+| 13 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
 | 14 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 15 | [Watch It Grow \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/3rNreFbHZADxGFssb4Ohm1) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Long Story Short](https://open.spotify.com/album/7iiMaAnJoNNMFx79tcqyn2) | 2:46 |
 | 16 | [SAYIN MY NAME](https://open.spotify.com/track/33VbOW0lg4HTcavV8cJPxr) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:27 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 18 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/47ssddfj7Ug6hO9Ol2AXGu) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Tell Me It's Over](https://open.spotify.com/album/2VgQZ6hNhTXWaZdNbuULe3) | 4:41 |
 | 19 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
 | 20 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
-| 21 | [Honeysuckle Neckbone](https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Honeysuckle Neckbone](https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12) | 3:20 |
+| 21 | [HONEYSUCKLE NECKBONE](https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [HONEYSUCKLE NECKBONE](https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12) | 3:20 |
 | 22 | [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 |
 | 23 | [Secrets](https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Secrets](https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx) | 3:26 |
 | 24 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Is it you ?](https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [IS IT YOU ?](https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a) | 3:45 |
 | 50 | [Fool's Gold](https://open.spotify.com/track/2xGyP9WuKLJc3zQ395OVPo) | [Elli Ingram](https://open.spotify.com/artist/29Dil4ZXNOwBukXdVL1EwB), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Fool's Gold](https://open.spotify.com/album/49fo04SNkMfOzzZ7tEtVvX) | 2:27 |
 
-Snapshot ID: `MCxkOGNhZjg1NTU0NGE5NTc4MmY2ODkwMjY1ZGEyMzQ3NWQ2MDg0NDk4`
+Snapshot ID: `MCwyNmVhOGQ1MzRlMDU4NWFmOTlhY2Q1M2QyOWRhZWMwNDMyOTM1Yzdj`

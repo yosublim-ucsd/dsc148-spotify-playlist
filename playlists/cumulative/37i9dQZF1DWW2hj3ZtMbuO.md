@@ -4,7 +4,7 @@
 
 > Sapphic songs that defined your music taste as "yearning."
 
-335 songs - 20 hr 2 min
+336 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Make Me Blue](https://open.spotify.com/track/374c3oYVDuYHhcn50tC3uh) | [Victoria Bigelow](https://open.spotify.com/artist/3QcQHXrN1oIQO9kCihqNCU) | [To Everyone I've Loved Before](https://open.spotify.com/album/0YSGdlAustgXLrS14f5b5V) | 3:08 | 2022-01-08 | 2022-04-18 |
 | [Manta Rays](https://open.spotify.com/track/3sWgoaftdzDcdwfHT6404A) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:31 | 2021-12-15 | 2022-07-29 |
 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 | 2021-12-15 | 2022-08-27 |
+| [Mary](https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 3:17 | 2023-03-31 |  |
 | [Mary](https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 3:17 | 2022-06-01 | 2023-05-01 |
 | [Me and you](https://open.spotify.com/track/0oX15d4iZ7tKoAEvbZV5O8) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU), [Lucys](https://open.spotify.com/artist/3zfHIfmPkBRTy2EPGuTUxI) | [Hard Times / Bad Trips](https://open.spotify.com/album/1FVfYBlG0W1RDyUReije3t) | 3:00 | 2022-01-08 | 2022-02-06 |
 | [megan fox](https://open.spotify.com/track/1ZO1oxKK88xOhvJnA1QDPM) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [megan fox](https://open.spotify.com/album/2adAlemQTvmOKs5PHY0ugx) | 2:29 | 2022-04-06 | 2022-07-29 |
@@ -287,7 +288,7 @@
 | [Step On Me](https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:50 | 2023-03-14 |  |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 | 2022-01-08 | 2022-04-21 |
 | [Sunflower](https://open.spotify.com/track/1camd9eP6HEbhNjXww8FKN) | [Michele Leigh](https://open.spotify.com/artist/2VRzDvOFUJEFtt0vvnPg9A) | [Sunflower](https://open.spotify.com/album/2mHFAtwST4vVJPdnV8ApHk) | 2:45 | 2022-12-02 |  |
-| [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-12-15 |  |
+| [Talia](https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Talia](https://open.spotify.com/album/5Z9ThGv7MrUjdZJREO9GOF) | 3:27 | 2021-12-15 | 2023-05-07 |
 | [Teenage Blue](https://open.spotify.com/track/6oWXWkwHKREYlBNuBCitFP) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty](https://open.spotify.com/album/6KiGqzmBh6yV7QOwFjA1sk) | 3:54 | 2022-10-06 |  |
 | [Teenage Blue](https://open.spotify.com/track/7mgI1HLrLMlIHL3wzotbyM) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Illuminaughty \- EP](https://open.spotify.com/album/2M7CnxGiFH8xKQUr5RW5yE) | 3:54 | 2021-12-15 | 2022-09-26 |
 | [terminal paradise](https://open.spotify.com/track/1WBavEwIws3xdg7GVDUZWp) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:59 | 2022-02-11 | 2022-03-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Ana B\u00e1rbara en portada.",
-  "num_followers": 86821,
+  "num_followers": 86932,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTQzOTgzODI1YjI4NTljYjVmMmI2NDNmZDhhMjUxYTUxMDFhZTk3",
+  "snapshot_id": "MCwwMTFlMGRmMjg4MDlkMDBiNzA4MmVlZTUzYThjOTRkNjc5Y2E3OGQ0",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "No Me Deja De Doler",
         "url": "https://open.spotify.com/album/3TbFDaU2et83hjIMXpeBlJ"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
         }
       ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
+      "duration_ms": 164054,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-        "url": "https://open.spotify.com/album/5x7kmstea5CT51BApKPU5N"
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1wKf4J6fA55pKnRRXHZU9c"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
         }
       ],
-      "duration_ms": 164054,
-      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
-      "url": "https://open.spotify.com/track/4UsBDxqUj3ar1FcUt2kjN4"
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4pqwjUljhAaxFPW9fmOGLC"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -795,18 +795,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
       },
       "artists": [
         {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
         }
       ],
-      "duration_ms": 150654,
-      "name": "Que Poquito Me Conoces",
-      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
+      "duration_ms": 180773,
+      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -843,22 +847,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
       },
       "artists": [
         {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 180773,
-      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Promesas No",
+        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Es Cosa De El",
+      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Tambien Las Mujeres Pueden (En Vivo)",
         "url": "https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 182000,
       "name": "Tambien Las Mujeres Pueden (En Vivo)",
       "url": "https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Promesas No",
-        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Es Cosa De El",
-      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
+        "name": "Lo Que A Usted Le Falta",
+        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
         }
       ],
-      "duration_ms": 186475,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+      "duration_ms": 168066,
+      "name": "Lo Que A Usted Le Falta",
+      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Lo Que A Usted Le Falta",
-        "url": "https://open.spotify.com/album/7k7f0reFwLXPWXjAgIYnts"
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Lo Que A Usted Le Falta",
-      "url": "https://open.spotify.com/track/1CxvKku2dDNICvZ3Jg5PyS"
+      "duration_ms": 186475,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Sesiones En Vivo Vol. 2",
         "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 190146,
       "name": "Mi Soldadita",
       "url": "https://open.spotify.com/track/5lpKKzuCgPqrcOscblmapl"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2023-04-14 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 
 > This is X Ambassadors\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,644 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,655 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2dqn7O.md) - [plain]
 | 52 | [Shining](https://open.spotify.com/track/4qwaIFrAbHGLjeqwEO77rG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Reason EP](https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ) | 3:37 |
 | 53 | [Bullshit](https://open.spotify.com/track/2PT5rRPOZ2BpkGh17PvqIf) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [The Beautiful Liar](https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8) | 2:13 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkMjc0ZjlkOWQ4NTg4MDVkOGM5ZGUyZGExNWMwZWIzMw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5ZDdhMjUyZDNmOGJiNmRiZGE4NDQ3MWE5MjhiODg1ZA==`

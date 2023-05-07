@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > you know all my secrets 🔒 cover: nessa barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,332 likes - 105 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046,848 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,10 +108,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 98 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
 | 99 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 |
 | 100 | [Those Eyes \- Sped Up](https://open.spotify.com/track/6XDBohkvajOwoqr8jHPjzQ) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes \(Alternate Versions\)](https://open.spotify.com/album/55J0IqFDDMrc9v672IDED2) | 2:47 |
-| 101 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 |
-| 102 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
-| 103 | [1985](https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [THE INSIDE OUTTAKES](https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H) | 2:26 |
-| 104 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 |
-| 105 | [Only Love Can Hurt Like This \- Sped Up Version](https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Only Love Can Hurt Like This \(Sped Up Version\)](https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8) | 2:45 |
 
-Snapshot ID: `MCwyNDk4MmQwYTU2MzBhNWFjODU4NmUxZDI1MzM1ZGNjNjU3ZmQyNWNm`
+Snapshot ID: `MCxkOTM0N2M0M2U3ODI0Y2NiMTYzZTRiMjUwMmJiOWIzZDg1NzE5NDg1`

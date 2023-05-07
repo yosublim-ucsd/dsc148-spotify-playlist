@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,398 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,478 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 91 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 | 92 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 93 | [A Mis Amigos](https://open.spotify.com/track/7CdQJYe2qy1wrjfx0IBkOm) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo tiempo pasado fue peor \(Estúpidas guerras \- Señalados\)](https://open.spotify.com/album/4Q5bo0sEJuhbaloM8a4k4O) | 2:03 |
-| 94 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
-| 95 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
+| 94 | [My Commanding Wife](https://open.spotify.com/track/2sQ8uDfrhFfLPDzG9pWwXB) | [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Los Rabanes](https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU) | 3:03 |
+| 95 | [Guapa](https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl) | [Los Tres Puntos](https://open.spotify.com/artist/1dgExV84g1pE4Z2ALzB36P) | [Si Oh !](https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB) | 2:31 |
 | 96 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
 | 97 | [He's a Tripper](https://open.spotify.com/track/6IQZQwdbq6OZ66UtPwkNlG) | [Melbourne Ska Orchestra](https://open.spotify.com/artist/6KsmIk2QdDd4xNazeITmRB) | [Melbourne Ska Orchestra](https://open.spotify.com/album/6Bz6lE0HUeZqGZdPpHyVob) | 3:21 |
 | 98 | [Forza St\. Pauli](https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ) | [Dubtari](https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC) | [St\. Pauli \- Einhundert](https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs) | 3:45 |
@@ -112,14 +112,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 102 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 |
 | 103 | [The Rascal King](https://open.spotify.com/track/5Rz724YJlp4orgEvWIWfKg) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Best Of/20th Century](https://open.spotify.com/album/1D4YdkoQS2sJEcPRjLhgXx) | 2:45 |
 | 104 | [Rudie Can't Fail \- Remastered](https://open.spotify.com/track/2otV4r71lH2kMmniSmKrmG) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 3:28 |
-| 105 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
-| 106 | [Non puoi fermare il tempo](https://open.spotify.com/track/5wK4Dmd13VgC3dVpNSZJmA) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Non puoi fermare il tempo](https://open.spotify.com/album/0j0u2zrM8puoGKzi1ImdKO) | 2:49 |
+| 105 | [Non puoi fermare il tempo](https://open.spotify.com/track/5wK4Dmd13VgC3dVpNSZJmA) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Non puoi fermare il tempo](https://open.spotify.com/album/0j0u2zrM8puoGKzi1ImdKO) | 2:49 |
+| 106 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
 | 107 | [El Peor](https://open.spotify.com/track/47cmtOUoVxWBSDzm4YqIRE) | [Jamaram](https://open.spotify.com/artist/1ZorPJMjMj569PdFp8Ildc), [Jah Chango](https://open.spotify.com/artist/0JL51D0tX8800NfzXLaNqM) | [El Peor](https://open.spotify.com/album/4pp9XzzVAoDNoYo7u5odNo) | 3:18 |
 | 108 | [Gospel Skabarnak](https://open.spotify.com/track/2eNVwAWPCzRGb4YLaUvT1X) | [Lost Love](https://open.spotify.com/artist/5IAbKA1N8YXggDLpdheaVh) | [Goes To Skallege](https://open.spotify.com/album/3oo3doKLZ9KnlPgUa6f2Ac) | 2:42 |
-| 109 | [All Turned Blue](https://open.spotify.com/track/422OBQ4maGZ7nIl8T7Crnh) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Lighthouse Keeper](https://open.spotify.com/album/0rORsD0jZ8a2sThwEG920w) | 3:58 |
-| 110 | [Line](https://open.spotify.com/track/4R3poPOoGOo1x0ATaKMzUS) | [Racer](https://open.spotify.com/artist/5mGxur8Tn9si7x9p58aaeF) | [Line](https://open.spotify.com/album/5IUJ2cPQGisBXQ6uzWVS4j) | 3:26 |
-| 111 | [コネクトーン \(TBSラジオ「こねくと」OP\)](https://open.spotify.com/track/1Alc6t5Uy5LIeZTP5ZCzuH) | [The SKAMOTTS](https://open.spotify.com/artist/0wTU8u6R5Gk5cDeBc7JdMa) | [コネクトーン \(TBSラジオ「こねくと」OP\)](https://open.spotify.com/album/6A3KYbUPZvVSn9meS4hPpF) | 3:29 |
+| 109 | [Line](https://open.spotify.com/track/4R3poPOoGOo1x0ATaKMzUS) | [Racer](https://open.spotify.com/artist/5mGxur8Tn9si7x9p58aaeF) | [Line](https://open.spotify.com/album/5IUJ2cPQGisBXQ6uzWVS4j) | 3:26 |
+| 110 | [コネクトーン \(TBSラジオ「こねくと」OP\)](https://open.spotify.com/track/1Alc6t5Uy5LIeZTP5ZCzuH) | [The SKAMOTTS](https://open.spotify.com/artist/0wTU8u6R5Gk5cDeBc7JdMa) | [コネクトーン \(TBSラジオ「こねくと」OP\)](https://open.spotify.com/album/6A3KYbUPZvVSn9meS4hPpF) | 3:29 |
+| 111 | [All Turned Blue](https://open.spotify.com/track/422OBQ4maGZ7nIl8T7Crnh) | [The Bar Stool Preachers](https://open.spotify.com/artist/3KcidWlhRLEyML9jFE6fKg) | [Lighthouse Keeper](https://open.spotify.com/album/0rORsD0jZ8a2sThwEG920w) | 3:58 |
 | 112 | [Things U C In Me](https://open.spotify.com/track/1QTy1Y1PCUGUYyaWA5J6Kj) | [Half Past Two](https://open.spotify.com/artist/68OATyajBIyM3EDtVObBSB) | [Things U C In Me](https://open.spotify.com/album/5sRk4po2Pcwb2CY6W2GC6V) | 2:32 |
 | 113 | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/track/0X7oHYTJYVml84BCs3OwmK) | [Группировка Свердловск](https://open.spotify.com/artist/4KMJJXTtDpucSoLnvf06Ba) | [Скважина нефтяная \(Radio Edit\)](https://open.spotify.com/album/30FzgAlDPXqQqyztHdTiUl) | 3:20 |
 
-Snapshot ID: `MCw5MmMzNDVhYzgwNjgzMjkxNzgyMjJjZDU0YzE2NWYzN2NiMjhjODM3`
+Snapshot ID: `MCxhZTczN2EwMWQyMjAxOGQyY2FmMjA1MTlkYzhiMjBjMGJlMzQ2MzI0`

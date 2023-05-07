@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,241 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,274 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 68 | [Up All Night](https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:10 |
 | 69 | [BRIGHTSIDE](https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j) | 3:49 |
 | 70 | [Who’s Gonna Love Me Now](https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [New Age Norms 2](https://open.spotify.com/album/1Bgy7wJny262o4EVxiLqMT) | 2:51 |
-| 71 | [The Best](https://open.spotify.com/track/1t4wa5r7E7oZ2D4G07JFsI) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:43 |
+| 71 | [Black Sun](https://open.spotify.com/track/59FC22eN2Syt9bbv2d6393) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:49 |
 | 72 | [Exits](https://open.spotify.com/track/1JMGjWpfBj2uctjMmjx4mb) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Part I](https://open.spotify.com/album/6uVaLj0YV3mWRFUw4xJ6eR) | 5:57 |
-| 73 | [Black Sun](https://open.spotify.com/track/59FC22eN2Syt9bbv2d6393) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Kintsugi](https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw) | 4:49 |
+| 73 | [The Best](https://open.spotify.com/track/1t4wa5r7E7oZ2D4G07JFsI) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:43 |
 | 74 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 |
 | 75 | [The Steps](https://open.spotify.com/track/5X2RisOZS9i5MsR8EVw58p) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 4:07 |
 
-Snapshot ID: `MCxmNTNiN2VjOWUzMDhjMTg2MTA5MjZkMTc0NDg2MjUxZTUzMzRkOGRj`
+Snapshot ID: `MCxjM2U0NmQ5MzRmMzI0Yjg4Zjc3NDJiYjhjYmJkYWI1MTAxODU0N2M4`

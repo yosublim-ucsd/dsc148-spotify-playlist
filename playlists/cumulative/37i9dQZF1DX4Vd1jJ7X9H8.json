@@ -894,6 +894,24 @@
     {
       "album": {
         "name": "Calvaire",
+        "url": "https://open.spotify.com/album/3RuhXnLH8SZT5GnHyGe9gf"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117499,
+      "name": "Calvaire",
+      "url": "https://open.spotify.com/track/1rJRb5A6ZfqOuqLCwpD7Ld"
+    },
+    {
+      "album": {
+        "name": "Calvaire",
         "url": "https://open.spotify.com/album/0lLMXOCjwCQsqCE0VNBnQa"
       },
       "artists": [
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 208746,
       "name": "Dollar",
       "url": "https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy"

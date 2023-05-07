@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,028 likes - 51 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,035 likes - 51 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 50 | [Simple Twist of Fate](https://open.spotify.com/track/2ZdeIZiVBcJLhNOzsYgP1P) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Blood on the Tracks](https://open.spotify.com/album/3ADN3qkgqDLCSdedSPYD1J) | 6:08 |
 | 51 | [In My Time of Need](https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:38 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA5OTNkMjkyODk3OTBkZTM1MGQ2NGVlZTZlNWVhYjgxOA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAzMGE5MmM3MjQzYjY1NDkxNTYzMDljMzViZTMxZDczNQ==`

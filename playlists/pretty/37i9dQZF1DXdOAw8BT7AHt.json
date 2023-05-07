@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Lambrini Girls",
-  "num_followers": 48732,
+  "num_followers": 48736,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmI4NWZlZDdkODU1M2I0ZTY0OTRhMWQ4ZWFiMDM4OWRjZDM1Mjhj",
+  "snapshot_id": "MCw2YmZlZGIwM2VlYjRkYWVjZDRkN2ExN2I5ZjU1ZjU2MDU2YWVmNDFh",
   "tracks": [
     {
       "added_at": "2023-04-21 15:17:44",
@@ -453,22 +453,6 @@
       "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Til' The Wheels Fall Off",
-        "url": "https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 186048,
-      "name": "Til' The Wheels Fall Off",
-      "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Diaspora Problems",
@@ -483,6 +467,22 @@
       "duration_ms": 227000,
       "name": "Gold Chain Punk (whogonbeatmyass?)",
       "url": "https://open.spotify.com/track/3tkftcdXeI7mSLY2hO19aR"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Til' The Wheels Fall Off",
+        "url": "https://open.spotify.com/album/2AqP19h098LcAM1bBTRkXI"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 186048,
+      "name": "Til' The Wheels Fall Off",
+      "url": "https://open.spotify.com/track/6dkkmXCY0FxDV1vTy6s62l"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -537,20 +537,20 @@
       "url": "https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
+      "added_at": "2023-03-20 13:21:43",
       "album": {
-        "name": "THE UNRAVELING OF PUPTHEBAND",
-        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
+        "name": "Baku's Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
       },
       "artists": [
         {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 223986,
-      "name": "Totally Fine",
-      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -569,20 +569,20 @@
       "url": "https://open.spotify.com/track/3dZV4HZQwkw8ktt4SsjBJW"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
+      "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Baku's Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+        "name": "THE UNRAVELING OF PUPTHEBAND",
+        "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
       "artists": [
         {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "PUP",
+          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
         }
       ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+      "duration_ms": 223986,
+      "name": "Totally Fine",
+      "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
-      },
-      "artists": [
-        {
-          "name": "Phoneboy",
-          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -707,6 +691,38 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht"
+      },
+      "artists": [
+        {
+          "name": "Phoneboy",
+          "url": "https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -727,22 +743,6 @@
       "duration_ms": 100377,
       "name": "Ache",
       "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
-      },
-      "artists": [
-        {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
-        }
-      ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Sweet Dreams of Otherness",
-        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 284093,
-      "name": "Sweet Dreams of Otherness",
-      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Night Gnomes",
         "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 190543,
       "name": "Bubblegum Infinity",
       "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Sweet Dreams of Otherness",
+        "url": "https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 284093,
+      "name": "Sweet Dreams of Otherness",
+      "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Love Me Forever",
+        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "BURN THE WITCH",
+      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Force 10 From Navarone",
         "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 204895,
       "name": "Force 10 From Navarone",
       "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Love Me Forever",
-        "url": "https://open.spotify.com/album/5OmaMjzlejoRXpeKATzfLB"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "BURN THE WITCH",
-      "url": "https://open.spotify.com/track/24zde9Ff2MgsMBG5ocvgK8"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Growing Up",
-        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 142124,
-      "name": "Talking To Myself",
-      "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -1091,6 +1091,22 @@
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 142124,
+      "name": "Talking To Myself",
+      "url": "https://open.spotify.com/track/3hXqsW8leYpzFZ4EBzrO5x"
     },
     {
       "added_at": "2023-03-27 20:30:32",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Little Fix",
         "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 196000,
       "name": "Little Fix",
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 115936,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay"
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
       "artists": [
         {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 115936,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf"
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1275,22 +1291,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Ain't No Thief",
         "url": "https://open.spotify.com/album/4KsCgFmrZ6ucZNEWERjJ6w"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Paying The Price",
-        "url": "https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w"
-      },
-      "artists": [
-        {
-          "name": "Folly Group",
-          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
-        }
-      ],
-      "duration_ms": 160884,
-      "name": "Paying The Price",
-      "url": "https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Most Normal",
         "url": "https://open.spotify.com/album/3UcqK7oJ4UiScKZD8IQsk0"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 140543,
       "name": "Eight Fivers",
       "url": "https://open.spotify.com/track/5qEck6ZfHkjlkEKcHOxubq"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Paying The Price",
+        "url": "https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "duration_ms": 160884,
+      "name": "Paying The Price",
+      "url": "https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh"
     }
   ],
   "unique_name": "The Punk List",

@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Luis R Conriquez, Farruko
 
-520 songs - 1 day 4 hr 6 min
+521 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-02-02 |  |
 | [Pepas \- David Guetta Remix](https://open.spotify.com/track/75sMhi81W5Tw2AGlOGATuy) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Pepas \(David Guetta Remix\)](https://open.spotify.com/album/4ysPBmMc39Kvw2TfRR50tp) | 4:24 | 2022-02-02 |  |
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2022-02-02 |  |
+| [Perse](https://open.spotify.com/track/7gJ2XAEHgwyjneDCy6z38c) | [Lemuell](https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB) | [Perse](https://open.spotify.com/album/5kaNsWZ3CKddDlcKsmYRUd) | 3:25 | 2023-05-06 |  |
 | [Pesadilla](https://open.spotify.com/track/2mCefaKSDuz6S50YIS57wR) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pesadilla](https://open.spotify.com/album/3b2z5O7s1vxHaaTsn1J1Cz) | 3:08 | 2022-02-02 |  |
 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 | 2022-02-02 |  |
 | [Platicamos](https://open.spotify.com/track/5E2iOjnZGDVjfGZygtISw9) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Platicamos](https://open.spotify.com/album/45SnjkMBBSQ01TNzU7H9Mx) | 2:56 | 2022-08-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,444 likes - 75 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,767 likes - 75 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 58 | [Feels Right \- Gerd Janson Remix \- Radio Edit](https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Polydans Remixes](https://open.spotify.com/album/277wPb0R66H8K90bJMksyG) | 3:59 |
 | 59 | [Hey Hey Guy \(7" Vocal Version\)](https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF) | [Ken Laszlo](https://open.spotify.com/artist/00OX175uYCsHJPLZOjNJqe) | [Greatest Hits & Remixes](https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22) | 3:26 |
 | 60 | [Kalimba de luna](https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc) | [Tony Esposito](https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF) | [The Sound of Tony Esposito](https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC) | 5:13 |
-| 61 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
-| 62 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
+| 61 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
+| 62 | [Dirty Talk](https://open.spotify.com/track/4CMKgb0qrIsVu202dmop15) | [Klein & M.B.O.](https://open.spotify.com/artist/5MZdKmi0C80e3eu53Vzr6f) | [Dirty Talk](https://open.spotify.com/album/5z5xqfOezhRYRFhGvcj8TP) | 5:35 |
 | 63 | [Broken Heart](https://open.spotify.com/track/1Pusg3VSg72pqjnuu81jER) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Broken Heart](https://open.spotify.com/album/5QQWiz7uWHlv8Efx9cQ43j) | 6:44 |
 | 64 | [Hildegard](https://open.spotify.com/track/57wQqbZdJQL3qgDc9aql3e) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Hildegard](https://open.spotify.com/album/0yQoPb6j25V0z7roi0wUIG) | 4:41 |
 | 65 | [Baby I Love You](https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW) | [Easy Going](https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1) | [Baby I Love You \(Original\) \- Single](https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U) | 8:23 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 70 | [I'm Going to Go \- Instrumental Plant Mix](https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K), [Frankye Knuckles](https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH) | [I'm Going to Go](https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v) | 8:35 |
 | 71 | [Destiny](https://open.spotify.com/track/5WQfpJ7lTXwgOsYKtPqnkO) | [Vivien Vee](https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d) | [Destiny \(Original\) \- Single](https://open.spotify.com/album/60hyCWC8XTMJCmznjXfLw8) | 4:39 |
 | 72 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 |
-| 73 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
-| 74 | [Automatic Dub](https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24) | [Automatic Dub 2](https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG) | 6:36 |
+| 73 | [Automatic Dub](https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24) | [Automatic Dub 2](https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG) | 6:36 |
+| 74 | [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 |
 | 75 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
 
-Snapshot ID: `MCw5ZWY2YTQ2NzQ2MGY2NTdlN2ZjMzZjOWQ0MDAzOTg2MTAyYjlkYWQ5`
+Snapshot ID: `MCxkMjZmMzc2ZmQxNmQxNTk4Y2Y2ZGRmYzg3M2Q3NzIxY2U0YjkyZDYw`

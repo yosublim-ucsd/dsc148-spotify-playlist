@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,707 likes - 52 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,806 likes - 52 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 51 | [Tear It Down](https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 3:37 |
 | 52 | [It Could Be You](https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 2:33 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA3OWIxMDg3ZjYzMzJkOGNkZDFkMmE2MzEyNzQ5OTQwYw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5OTNhYjcwODdlNzZiZWRkNmU5YTY0OGI3OGQyNGYzYw==`

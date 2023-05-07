@@ -1659,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
         "name": "Chasing Stars (feat. James Bay)",
         "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
       },
@@ -1678,7 +1696,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 170457,
       "name": "Chasing Stars (feat. James Bay)",
       "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"

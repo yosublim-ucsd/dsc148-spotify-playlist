@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,338 likes - 116 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,341 likes - 116 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 115 | [Crush feat\. Erika de Casier](https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Nymph\_o](https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k) | 2:53 |
 | 116 | [Kill Me](https://open.spotify.com/track/1oquxEidSiJDwxl7RMUvr3) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Kill Me](https://open.spotify.com/album/65wObSj9So2CrVszu8VCLO) | 2:48 |
 
-Snapshot ID: `MCxmYzFlODk2Y2Y5ZWQxZmY0NmI4NWIwOWEwYjRjYzk2NTU3OTg3MzI2`
+Snapshot ID: `MCw4MDMzYTlmZjUxMzIxMGI2ZThhMGFiZWQzNzE5ZWY5MjNhYWM3N2I2`

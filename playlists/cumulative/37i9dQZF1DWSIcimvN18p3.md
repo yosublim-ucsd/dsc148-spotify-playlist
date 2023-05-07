@@ -4,7 +4,7 @@
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-374 songs - 22 hr 52 min
+375 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Pharmakon](https://open.spotify.com/track/2J2oWsC3KGoqdUMIwcMRMU) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/2aLrFMwpy2iZzAUHqh49Th) | 2:35 | 2021-03-05 | 2023-04-02 |
 | [Pharmakon](https://open.spotify.com/track/4gbWcPHqTZHoq5PrS0iBHq) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Pharmakon](https://open.spotify.com/album/3sMj2Pt7MnyhkUPxZtuguI) | 2:35 | 2023-03-08 |  |
 | [Phoenix](https://open.spotify.com/track/02kai5Mz2pi4Guw9Wg6Vpv) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/69fyrHncvxDoWtZDuqKAKC) | 3:30 | 2022-03-08 | 2023-04-30 |
+| [Phoenix](https://open.spotify.com/track/33O3akLJROZIzHaYbujfUY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Age of Apathy](https://open.spotify.com/album/0GvP6JkCysq2idJCmIxqBo) | 3:30 | 2023-03-08 |  |
 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 | 2022-03-08 |  |
 | [Playing Old Games](https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1) | [Erin Rae and the Meanwhiles](https://open.spotify.com/artist/1F6SXx16NcfbanBYeBfWdQ), [Pete Lindberg](https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6) | [Playing Old Games](https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP) | 3:29 | 2021-03-05 | 2022-07-10 |
 | [Poor Wayfaring Stranger](https://open.spotify.com/track/1UmURbhcP4VgQpUK9DZJCg) | [Eliza Carthy](https://open.spotify.com/artist/3ZSRiAJKs42ymp2KYA80Qh), [Norma Waterson](https://open.spotify.com/artist/4HFBKIBwNoiuovUGQGAu4k) | [Gift](https://open.spotify.com/album/2df2qG6eg1bfpGvsqkjhYQ) | 6:30 | 2021-03-05 | 2022-07-29 |
@@ -347,7 +348,7 @@
 | [Wasted](https://open.spotify.com/track/097mtSzsgYwypHXRae7pNH) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/6GfhbITp0mFMnuGVqzHxlJ) | 2:29 | 2021-03-05 | 2022-07-28 |
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2021-03-05 |  |
 | [Wax & Wane](https://open.spotify.com/track/35RPFHlFGdNLK0cDKA9V3V) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/2GoRc0TJhQKgrFYnvI8yja) | 4:31 | 2021-03-05 | 2022-07-25 |
-| [Wax & Wane](https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:31 | 2021-03-05 |  |
+| [Wax & Wane](https://open.spotify.com/track/6NbQzgeMne59nm0NPz7OCC) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [Wax & Wane](https://open.spotify.com/album/3ulxRbaLIyXhdnbzvvwHhd) | 4:31 | 2021-03-05 | 2023-05-07 |
 | [What Does It Mean to Travel](https://open.spotify.com/track/2bS67lgFXgl0xQqnJZvDlv) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [What Does It Mean to Travel](https://open.spotify.com/album/7qxqT0ybPE6bOUBq5e0HHA) | 3:09 | 2021-03-05 | 2022-07-25 |
 | [Whatever Fits Together](https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:45 | 2023-03-08 |  |
 | [when i look at you.](https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [when i look at you.](https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC) | 3:52 | 2021-03-05 |  |

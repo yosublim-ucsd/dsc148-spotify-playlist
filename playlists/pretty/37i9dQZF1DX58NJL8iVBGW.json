@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 554209,
+  "num_followers": 554381,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTdkODhlM2I2ZDFkZTMzODUzZjE1M2FlNTFiMzhmNTRkMWM5NmNk",
+  "snapshot_id": "MCxkMjQ3YWY0ZmUyM2JlODI2ZmRjMDg5ZDI0ZTZjM2Q4NzcxMzI5YzIw",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Barton Hollow",
+      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Sad But True",
         "url": "https://open.spotify.com/album/2Io6ybkhshdFUJhBgWQETk"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 128893,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/0BCtG2fGjxoztlnetLoqBc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Barton Hollow",
-      "url": "https://open.spotify.com/track/6ZOBY9RG2tcxXX0ohKtfRc"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 229666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "I'll Never Get out of This World Alive",
         "url": "https://open.spotify.com/album/4TpbQA23m33nGTWzWBkuZy"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 265760,
       "name": "Meet Me in the Alleyway",
       "url": "https://open.spotify.com/track/1m4E3gYFqZ0RTxGlZWxP7k"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5szmwG86IFASvYrca21MEz"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "27 Ways",
-        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
-      },
-      "artists": [
-        {
-          "name": "Desert Noises",
-          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
-        }
-      ],
-      "duration_ms": 108361,
-      "name": "Dime in My Pocket",
-      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Natural Conclusion",
         "url": "https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "When the River Took Flight",
-        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+        "name": "27 Ways",
+        "url": "https://open.spotify.com/album/5RZznkaaVzeKeN1UMp1jiy"
       },
       "artists": [
         {
-          "name": "Paper Bird",
-          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+          "name": "Desert Noises",
+          "url": "https://open.spotify.com/artist/2X3rGYJyh8oBkRKMzIQaLe"
         }
       ],
-      "duration_ms": 186213,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+      "duration_ms": 108361,
+      "name": "Dime in My Pocket",
+      "url": "https://open.spotify.com/track/4MaJqmMJ1CGjyL1oolmx8K"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "When the River Took Flight",
+        "url": "https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB"
+      },
+      "artists": [
+        {
+          "name": "Paper Bird",
+          "url": "https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn"
+        }
+      ],
+      "duration_ms": 186213,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Empire",
-        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
-      },
-      "artists": [
-        {
-          "name": "William Crighton",
-          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Fire in the Empire",
-      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Empire",
+        "url": "https://open.spotify.com/album/2ayE2lKEyIyBP2EcuWiB0d"
+      },
+      "artists": [
+        {
+          "name": "William Crighton",
+          "url": "https://open.spotify.com/artist/4EVBuMQ6XVgxeqWKH09dBM"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Fire in the Empire",
+      "url": "https://open.spotify.com/track/7nBlwy9FltJKrO23b6edNi"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Lions And Lambs",
         "url": "https://open.spotify.com/album/5sUoqZHXyBK3dm0MR6uxaZ"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Heatstroke/The Wind and the War",
         "url": "https://open.spotify.com/album/4bU9I5NtFLbmChbhAqGKwJ"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 158533,
       "name": "Boy Got It Bad",
       "url": "https://open.spotify.com/track/3k6QU7zzhlJ8ODb24uuLP9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1427,6 +1427,38 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
+      },
+      "artists": [
+        {
+          "name": "Odetta Hartman",
+          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
+        }
+      ],
+      "duration_ms": 111186,
+      "name": "Dreamcatchers",
+      "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Bless Your Soul",
+        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 212504,
+      "name": "Bless Your Soul",
+      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Digging Up Birds: A Collection of Rarities & Others",
         "url": "https://open.spotify.com/album/1jbmuJoXQitCyg5vl7kYHD"
       },
@@ -1455,22 +1487,6 @@
       "duration_ms": 270893,
       "name": "The Devil Had A Hold Of Me",
       "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Bless Your Soul",
-        "url": "https://open.spotify.com/album/72ikagjWsSJebCaqohnrHB"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Bless Your Soul",
-      "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 173346,
       "name": "Sister Death",
       "url": "https://open.spotify.com/track/5ZIlSYLOLplrFVRdtSXAxH"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/1LkiSSGpC70DBh7UsGB0y2"
-      },
-      "artists": [
-        {
-          "name": "Odetta Hartman",
-          "url": "https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM"
-        }
-      ],
-      "duration_ms": 111186,
-      "name": "Dreamcatchers",
-      "url": "https://open.spotify.com/track/66K0gSHdemfDspYgDgPrcf"
     },
     {
       "added_at": "2023-04-28 04:00:00",

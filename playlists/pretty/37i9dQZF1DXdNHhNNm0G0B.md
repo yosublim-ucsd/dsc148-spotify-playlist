@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,641 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,659 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 53 | [Memoria Djalma](https://open.spotify.com/track/6j5vLbt1IXoWmCUDhdwntn) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 5:32 |
 | 54 | [Imaginational Anthem](https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W) | [Max Ochs](https://open.spotify.com/artist/0SEjW4NsEIkiSgpoxLuQCI) | [Hooray For Another Day](https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx) | 4:24 |
 | 55 | [Cool Drink of Water Blues](https://open.spotify.com/track/0CDbCahovsgZPNumyO7aD2) | [Tommy Johnson](https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq) | [Tommy Johnson 1928 \- 1929](https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7) | 3:27 |
-| 56 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 |
-| 57 | [Lazy Sunday](https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a) | [Eddie Martin](https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU) | [The Birdcage Sessions](https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S) | 4:16 |
+| 56 | [Lazy Sunday](https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a) | [Eddie Martin](https://open.spotify.com/artist/05QLgdfxYIzqvMNlAZ2hdU) | [The Birdcage Sessions](https://open.spotify.com/album/78bpHTxCPnACXpB3yAaj4S) | 4:16 |
+| 57 | [Long Nights I](https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB) | [Daniel Bachman](https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9) | [Seven Pines](https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV) | 4:05 |
 | 58 | [The Drifter Blues](https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6) | [Snooks Eaglin](https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS) | [New Orleans Street Singer](https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu) | 3:51 |
 | 59 | [Lake Shore Drive \(Slight Return\)](https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi) | [Harris Newman](https://open.spotify.com/artist/5A54A8MxavFfaTSxOxfvWt) | [Imaginational Anthem](https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO) | 4:24 |
 | 60 | [Good Timin'](https://open.spotify.com/track/0Y9O57DFFTyEI5jX9ByiP6) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Bottom's Up](https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31) | 2:52 |
@@ -77,16 +77,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 67 | [Way Down Yonder Blues](https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9) | [Lemuel Turner](https://open.spotify.com/artist/6W3S0STPYle2QmDNLGAzmS) | [Turn Me Loose: Outsiders of Old\-Time Music](https://open.spotify.com/album/690HtrG9fKZnEp5fq8ed7Y) | 3:12 |
 | 68 | [Keepin On](https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Nickel for Your Troubles](https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY) | 2:48 |
 | 69 | [How Long Blues](https://open.spotify.com/track/7oqooYaiu59aIVRxWWKQX9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 2:14 |
-| 70 | [Top Cat](https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Guitar Routes](https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb) | 2:34 |
+| 70 | [Natural West](https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7) | 5:03 |
 | 71 | [A Real State of Independence](https://open.spotify.com/track/2r5Pn8ZqFTlHpVgRZg2Znj) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 6:19 |
-| 72 | [Frisco Blues](https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW) | [Bayless Rose](https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M) | [Black Dog Blues](https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72) | 3:09 |
-| 73 | [Natural West](https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM) | [Danny Paul Grody](https://open.spotify.com/artist/4dzotwHwOl10pysUzOMvJx) | [Fountain](https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7) | 5:03 |
+| 72 | [Top Cat](https://open.spotify.com/track/14SADKuKjAiMLlPfTkKUok) | [Ruth Wyand](https://open.spotify.com/artist/6DeVlBIJsrUt0kvPFkUYBh) | [Guitar Routes](https://open.spotify.com/album/3DLyhtsqBSyJem8dSVXqTb) | 2:34 |
+| 73 | [Frisco Blues](https://open.spotify.com/track/7e1WYEzC9wZwlAaCmvSJPW) | [Bayless Rose](https://open.spotify.com/artist/3IUvB4k0XiutzRg2utdL9M) | [Black Dog Blues](https://open.spotify.com/album/7IHg6vllMBDdKuIcx9Lu72) | 3:09 |
 | 74 | [Cruel Old World](https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Cruel Old World](https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB) | 2:52 |
 | 75 | [She Ain't Nowhere \- Remastered](https://open.spotify.com/track/2C0sWdXD2V6Ebbw0d5fQiS) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:49 |
 | 76 | [Hurt Me](https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO) | [Jackson Lynch](https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb) | [Hurt Me](https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB) | 2:35 |
-| 77 | [Wayfaring Stranger](https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW) | [Shake the Disease](https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs) | [St\. James Infirmary Blues / Wayfaring Stranger \(Radio Edit\)](https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL) | 3:42 |
+| 77 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p) | 5:39 |
 | 78 | [Long River \(Allegheny\)](https://open.spotify.com/track/1IlKCRTZl9WhFze6Mn9uTE) | [Nick Schillace](https://open.spotify.com/artist/2VcT3LFa9zgz333gKf44jM) | [Landscape and People](https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y) | 4:05 |
-| 79 | [Plains of Waterloo / James Connolly](https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy) | [Martin Simpson](https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ) | [Bootleg USA](https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p) | 5:39 |
+| 79 | [Wayfaring Stranger](https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW) | [Shake the Disease](https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs) | [St\. James Infirmary Blues / Wayfaring Stranger \(Radio Edit\)](https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL) | 3:42 |
 | 80 | [Lonesome Blues](https://open.spotify.com/track/0pYI2557do9fk2PlH8JfKg) | [Guitar Welch](https://open.spotify.com/artist/5VUwLyb3FCvjVYqbcxjhRf) | [Southern Prison Blues](https://open.spotify.com/album/3zphUD0wf8hzwgZ6GxeLQF) | 3:27 |
 
-Snapshot ID: `MCxjYWNlMTc0YTljMzM4MDcyN2Y5OGYzYTUzOTBmNmFjZTljODdjNTk0`
+Snapshot ID: `MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl`

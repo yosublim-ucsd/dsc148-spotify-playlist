@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: Niall Horan
 
-859 songs - 1 day 20 hr 31 min
+860 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,8 @@
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2021-01-15 | 2021-05-15 |
 | [Risk It All](https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [House Gospel Choir](https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Risk It All](https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5) | 2:58 | 2021-08-21 | 2021-10-23 |
 | [River](https://open.spotify.com/track/5nD2zmNcN7jZ1lrdj4ZVxX) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [River](https://open.spotify.com/album/6IQCulw5pQ0uEq2KqGS9fk) | 3:09 | 2021-03-19 | 2021-11-13 |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-05 |  |
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-09-23 | 2022-12-10 |
 | [Rosé](https://open.spotify.com/track/2vfl8V78ai2lyCyFn1cPWx) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Rosé](https://open.spotify.com/album/75zIcxRfIZxxNEpSuqpCdX) | 2:46 | 2020-11-27 | 2021-01-12 |
 | [rubberband](https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [rubberband](https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH) | 2:27 | 2021-01-23 | 2021-03-19 |

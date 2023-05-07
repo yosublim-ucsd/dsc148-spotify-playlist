@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,398 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,592 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 18 | [Mi Potra](https://open.spotify.com/track/3QeRFO2Ie216g4BCgpaqbJ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [La Historia Continúa](https://open.spotify.com/album/5imN3ezj45LrEu6eBJJFpb) | 3:01 |
 | 19 | [El Patas Blancas](https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:13 |
 | 20 | [Ranchero Y Gallardo](https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0) | 2:14 |
-| 21 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
-| 22 | [El Retiro Del Cadete](https://open.spotify.com/track/0El9FNxpOsiLPGL3ki5MR9) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Agarró Camino](https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh) | 2:29 |
+| 21 | [El Retiro Del Cadete](https://open.spotify.com/track/0El9FNxpOsiLPGL3ki5MR9) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Agarró Camino](https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh) | 2:29 |
+| 22 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
 | 23 | [Eran Cuatro de a Caballo](https://open.spotify.com/track/2upInlVu7yMSnUv5ls8Qjg) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Las Tres Tumbas](https://open.spotify.com/album/7Idee2mC9hCshncpBlyD1q) | 3:05 |
 | 24 | [El Wareke](https://open.spotify.com/track/0kW4iNEQjk2sms7fWCjnwz) | [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [Hay Nubes Llorando](https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW) | 2:39 |
 | 25 | [El Cantador](https://open.spotify.com/track/5cOUrEO1AZEPbKJRRACkWq) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Edwin Luna](https://open.spotify.com/artist/10tyI6ROBsJJ6lBi3m5iph), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Humberto Herrera](https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC) | [Diego Herrera y Sus Amigos \- Puras de Caballos](https://open.spotify.com/album/2J4vKxaHco92GapcIqhe9B) | 2:58 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 69 | [El Cantador](https://open.spotify.com/track/4AMqtBTOctOO3CNCmBT27h) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Corridos de Caballos y Gallos](https://open.spotify.com/album/55AsQlLpfNU7FvmpMw3ooL) | 3:07 |
 | 70 | [El Alazán Y El Rocío](https://open.spotify.com/track/7BuX3mtN7qyZS0WeiG8kok) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:17 |
 
-Snapshot ID: `MCxmMmQ5N2Q5ZDY1YjA5NTVkYmNhODg5ZTA4YTg5OThiNDNlNThhYmVi`
+Snapshot ID: `MCwyZTQ1ODI3MDhiODFhNTYyMzJiODBlODlmYjM1OWJjOTlhODY1ZDM5`

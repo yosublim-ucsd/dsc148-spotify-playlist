@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 500,
+  "num_followers": 751,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjhkNjBiYjIxYmYwNWU5NTMyYzc4NzI0NTI3MGI2MGU0NGI4YmMw",
+  "snapshot_id": "MCxiZTIyMmFjNmYwMjQ0ZGJiYTM5YTQ0MTA2MjIxYzQyZDkwNzQ3NDRl",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
       },
       "artists": [
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
         }
       ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Fabulous Miracles",
-        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
-      },
-      "artists": [
-        {
-          "name": "The Miracles",
-          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "You've Really Got A Hold On Me",
-      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 299333,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Fabulous Miracles",
+        "url": "https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W"
+      },
+      "artists": [
+        {
+          "name": "The Miracles",
+          "url": "https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "You've Really Got A Hold On Me",
+      "url": "https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "OOO Baby Baby: The Anthlogy",
-        "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
-      "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Sings Just One Look And Other Memorable Selections",
         "url": "https://open.spotify.com/album/2CLiFy7JO1bmkNV6LFEMix"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 151906,
       "name": "Just One Look",
       "url": "https://open.spotify.com/track/154uJXAUVoqvV5on0w03a0"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "OOO Baby Baby: The Anthlogy",
+        "url": "https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "You've Really Got A Hold On Me - Alternate Stereo Mix",
+      "url": "https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Delfonics",
-        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Didn't I (Blow Your Mind This Time)",
-      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194226,
       "name": "Sitting In The Park",
       "url": "https://open.spotify.com/track/0Iwbts8iqaJJh2kPiXbtgV"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Unavailable 16 & The Original Nitty Gritty",
-        "url": "https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj"
-      },
-      "artists": [
-        {
-          "name": "Rosie & The Originals",
-          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
-        }
-      ],
-      "duration_ms": 227624,
-      "name": "Angel Baby",
-      "url": "https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
         "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 156106,
       "name": "Darling Baby",
       "url": "https://open.spotify.com/track/10u9028SSfRyIKxV4xrzsg"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Unavailable 16 & The Original Nitty Gritty",
+        "url": "https://open.spotify.com/album/0f9kpqUzaC1KwJ6avbN7Rj"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "duration_ms": 227624,
+      "name": "Angel Baby",
+      "url": "https://open.spotify.com/track/71keN33KR0rS5jwKi4JNLE"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "A Quiet Storm",
         "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
@@ -775,18 +759,34 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
       "artists": [
         {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
         }
       ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Stylistics - The Original Debut Album",
+        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 175506,
+      "name": "You Are Everything",
+      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Stylistics - The Original Debut Album",
-        "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
       "artists": [
         {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
         }
       ],
-      "duration_ms": 175506,
-      "name": "You Are Everything",
-      "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Baby, I'm For Real",
-        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Baby, I'm For Real",
-      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "James & Bobby Purify",
         "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 178986,
       "name": "I'm Your Puppet",
       "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby, I'm For Real",
+        "url": "https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Baby, I'm For Real",
+      "url": "https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/0idohj8jELOTtI3sUdGWUo"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 395200,
       "name": "Suavecito",
       "url": "https://open.spotify.com/track/5QoFWpXoaUyT44VmR98wLl"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of The Temprees",
-        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
-      },
-      "artists": [
-        {
-          "name": "The Temprees",
-          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "Love...Can Be So Wonderful",
-      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of The Temprees",
+        "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
+      },
+      "artists": [
+        {
+          "name": "The Temprees",
+          "url": "https://open.spotify.com/artist/3RTmjg2aicwP3HFZP760BU"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "Love...Can Be So Wonderful",
+      "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+      },
+      "artists": [
+        {
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Grazin'",
         "url": "https://open.spotify.com/album/3LPgvdYSDRmaRmZV0KA0Kw"
       },
@@ -1515,18 +1531,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
       },
       "artists": [
         {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "I'm On The Outside (Looking In)",
-        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
-      },
-      "artists": [
-        {
-          "name": "Little Anthony & The Imperials",
-          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "I'm On The Outside (Looking In)",
-      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Ultimate Chi-Lites",
         "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 310746,
       "name": "Have You Seen Her",
       "url": "https://open.spotify.com/track/01cQPNCptd662nikuY42zw"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "I'm On The Outside (Looking In)",
+        "url": "https://open.spotify.com/album/1E2A36xBw8ACX1aQJIRWys"
+      },
+      "artists": [
+        {
+          "name": "Little Anthony & The Imperials",
+          "url": "https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "I'm On The Outside (Looking In)",
+      "url": "https://open.spotify.com/track/6kMZdaCLHWqECFKOatBPXF"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1655,22 +1671,6 @@
       "duration_ms": 217066,
       "name": "Love on a Two Way Street",
       "url": "https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Blue Eyes Crying In the Rain",
-        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
-      },
-      "artists": [
-        {
-          "name": "Little Caesar & the Romans",
-          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Those Oldies But Goodies Remind Me Of You",
-      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Greatest Slow Jams",
         "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 198946,
       "name": "The Town I Live In",
       "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Blue Eyes Crying In the Rain",
+        "url": "https://open.spotify.com/album/2F0Y7afprAxthyuz1LFxoC"
+      },
+      "artists": [
+        {
+          "name": "Little Caesar & the Romans",
+          "url": "https://open.spotify.com/artist/4jUkLFuoU0EMZbcP84QhsX"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Those Oldies But Goodies Remind Me Of You",
+      "url": "https://open.spotify.com/track/6o3R69ldWuqUIQzSHKlu2I"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Chicano Alliance",
-        "url": "https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1"
-      },
-      "artists": [
-        {
-          "name": "Rosie & The Originals",
-          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Angel Baby (Spanglish)",
-      "url": "https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Ilusi\u00f3n De Amor",
         "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "The Chicano Alliance",
+        "url": "https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Angel Baby (Spanglish)",
+      "url": "https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "The Love Album",
         "url": "https://open.spotify.com/album/6OvMYEEqX0kJhUab0G591A"
       },
@@ -2247,6 +2247,22 @@
       "duration_ms": 156573,
       "name": "You'll Lose a Good Thing (Rerecorded)",
       "url": "https://open.spotify.com/track/6Iqd5wxINx22rdhfBYc3vl"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2267,22 +2283,6 @@
       "duration_ms": 251964,
       "name": "Porque Te Quiero",
       "url": "https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Tangled Up in You",
-        "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 240842,
-      "name": "Soon Enough",
-      "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
     },
     {
       "added_at": "2023-05-01 20:33:48",

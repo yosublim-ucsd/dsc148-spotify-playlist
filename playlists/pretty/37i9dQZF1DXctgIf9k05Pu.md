@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,372 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,429 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 40 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 |
 | 41 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 |
 | 42 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 |
-| 43 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
-| 44 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 |
+| 43 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 |
+| 44 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 45 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
 | 46 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
 | 47 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 49 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 | 50 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 |
 
-Snapshot ID: `MCxhYzdmMDZlNGJhOGM4YzZlZjU5YzA1MjY5YmYxOGEzMWQwMTE4NmFk`
+Snapshot ID: `MCwwYjUzOWJkM2FlNzE2MWUxOGEzYTM2Y2IzMDkzZGVjYzQ1N2QyZjIy`

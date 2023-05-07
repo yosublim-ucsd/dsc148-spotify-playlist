@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,574 likes - 60 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,630 likes - 60 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 44 | [Woman Like You \- Live](https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 4:20 |
 | 45 | [Chills & Thrills \- Live](https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Live at the Jazzhaus](https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4) | 6:50 |
 | 46 | [A Better Man](https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Live 2014 \(Nighttrain To Budapest Farewell Tour\)](https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3) | 6:08 |
-| 47 | [Tip of My Hat \(Live\)](https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N) | [Ghost Town Blues Band](https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK) | [Backstage Pass \(Live\)](https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn) | 4:28 |
-| 48 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
+| 47 | [Damn Right I've Got The Blues \- Live](https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Live! The Real Deal](https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O) | 7:41 |
+| 48 | [Tip of My Hat \(Live\)](https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N) | [Ghost Town Blues Band](https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK) | [Backstage Pass \(Live\)](https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn) | 4:28 |
 | 49 | [I Didn't Know \- Live](https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I Didn't Know \(Live\)](https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi) | 3:18 |
 | 50 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
 | 51 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 60 | [Soul Salvation \- Live](https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Recorded Live in Lafayette](https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9) | 4:32 |
 
-Snapshot ID: `MCwyNGNlYTEwOWZkZGM5MjFhM2JiZmJiZjk5ZGYzNTAzY2EyYzRjOGZm`
+Snapshot ID: `MCw4N2M4NDVhYzUyMDVhODQyYWFiYzQwMWViYTdkYjYxMjkwMWU1YTk4`

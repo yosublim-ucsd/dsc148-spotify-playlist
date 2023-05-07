@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1342926,
+  "num_followers": 1343521,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ3ZWZjNGVkYzI4MDdiZWZlMjVkMjlkNzRlNDU5MDI4MmVjZGJi",
+  "snapshot_id": "MCw2YzM0YTA3ZTYyN2NmZmFlNDdhNjUyN2YyN2IwZDBlZTYzY2I0ZDZk",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Toca (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
-      },
-      "artists": [
-        {
-          "name": "Fragma",
-          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
-        }
-      ],
-      "duration_ms": 200483,
-      "name": "Toca's Miracle - Radio Edit",
-      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "For An Angel",
         "url": "https://open.spotify.com/album/0EKap5LIE39RLZoknkiZOl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 233243,
       "name": "For An Angel - PVD Angel In Heaven Radio Edit",
       "url": "https://open.spotify.com/track/2zI4py4xY6v4vIrAlR6GtP"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Toca (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2snIy07hupBGM5rLYtgImH"
+      },
+      "artists": [
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        }
+      ],
+      "duration_ms": 200483,
+      "name": "Toca's Miracle - Radio Edit",
+      "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Perfect Day",
+        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "75, Brazil Street (Nicola Fasano Vs Pat-Rich)",
         "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 187402,
       "name": "75, Brazil Street (Radio Mix) - Nicola Fasano Vs Pat-Rich",
       "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Perfect Day",
-        "url": "https://open.spotify.com/album/33PsrSS1xpCUl1kJy39DZV"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/2rVa6UVT2f95l3bGcMGCWQ"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1199,22 +1199,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Empty Streets (Remixes)",
-        "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
+        "name": "90s 100 Hits",
+        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
       },
       "artists": [
         {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+          "name": "Olive",
+          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
         },
         {
-          "name": "Haji & Emanuel",
-          "url": "https://open.spotify.com/artist/4clskYgdo0Nxm7DSfFwo78"
+          "name": "Black Olive",
+          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
         }
       ],
-      "duration_ms": 501213,
-      "name": "Empty Streets - Haji & Emanuel Remix",
-      "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
+      "duration_ms": 250440,
+      "name": "You're Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "90s 100 Hits",
-        "url": "https://open.spotify.com/album/6odcotWv2xd7NP7RrGBS5b"
+        "name": "Empty Streets (Remixes)",
+        "url": "https://open.spotify.com/album/1qcfizKVZbdpi61ZSJglyu"
       },
       "artists": [
         {
-          "name": "Olive",
-          "url": "https://open.spotify.com/artist/0r2TmTSwK6XAhAxNxTDOb4"
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
         },
         {
-          "name": "Black Olive",
-          "url": "https://open.spotify.com/artist/4FZW0LqOJ7ZJKdNMrWykO6"
+          "name": "Haji & Emanuel",
+          "url": "https://open.spotify.com/artist/4clskYgdo0Nxm7DSfFwo78"
         }
       ],
-      "duration_ms": 250440,
-      "name": "You're Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/5HPchyFdQZT1cDbdOTdFji"
+      "duration_ms": 501213,
+      "name": "Empty Streets - Haji & Emanuel Remix",
+      "url": "https://open.spotify.com/track/12lTG2CsivVTCJH21qgkVz"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/4DcsHjjs2adHwgWDxFbln0"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up For Detroit - Club Mix",
+      "url": "https://open.spotify.com/track/3fbGgsysR0OKzsdr20HD4T"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Behind",
         "url": "https://open.spotify.com/album/2ERvgVHv284kvtfmYurONA"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 220238,
       "name": "Behind - Callea Radio Mix",
       "url": "https://open.spotify.com/track/58ma0p0GQqxfbe5vNFraUs"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/4DcsHjjs2adHwgWDxFbln0"
-      },
-      "artists": [
-        {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
-        }
-      ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up For Detroit - Club Mix",
-      "url": "https://open.spotify.com/track/3fbGgsysR0OKzsdr20HD4T"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Transphormer",
-        "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
-      },
-      "artists": [
-        {
-          "name": "Alter Ego",
-          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
-        }
-      ],
-      "duration_ms": 288053,
-      "name": "Rocker",
-      "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "50 Trance Tunes, Vol. 28",
         "url": "https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 189066,
       "name": "Tracking Treasure Down",
       "url": "https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Transphormer",
+        "url": "https://open.spotify.com/album/4ajNKZkMmn46mVusmeJUc7"
+      },
+      "artists": [
+        {
+          "name": "Alter Ego",
+          "url": "https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj"
+        }
+      ],
+      "duration_ms": 288053,
+      "name": "Rocker",
+      "url": "https://open.spotify.com/track/4oNm4AlbUo8XEDayfLxoup"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 200320,
+      "name": "Step One Two",
+      "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
         "name": "Further",
         "url": "https://open.spotify.com/album/755TkKLW2Pxab93RQ4RNlb"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 384733,
       "name": "The Big Fake",
       "url": "https://open.spotify.com/track/67nOnSiH1QRUiYihmLBmwI"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/2SZJP9Nd73rvadObrh7mdc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 200320,
-      "name": "Step One Two",
-      "url": "https://open.spotify.com/track/13qQorfXRk2aktlkK1WUXj"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Don't Stop!",
-        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 163004,
-      "name": "Don't Stop! - X-Cabs Radio Edit",
-      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/39YTJAAH2YCMKM59lZxExk"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 210000,
       "name": "Sorry - Dirty South Radio Edit",
       "url": "https://open.spotify.com/track/0t2xiLKPyfwxpuwmTKaiZ3"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Don't Stop!",
+        "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 163004,
+      "name": "Don't Stop! - X-Cabs Radio Edit",
+      "url": "https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1971,26 +1971,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Nervous Rewind 2008",
-        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
-      },
-      "artists": [
-        {
-          "name": "Ercola",
-          "url": "https://open.spotify.com/artist/3L3eVOR4ra6ZGpAta7xlGV"
-        },
-        {
-          "name": "Heikki L",
-          "url": "https://open.spotify.com/artist/6H20zr0kwfiOnvem0vxQai"
-        }
-      ],
-      "duration_ms": 219146,
-      "name": "Deep At Night (Adam K & Soha Radio Mix)",
-      "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV"
       },
@@ -2007,6 +1987,26 @@
       "duration_ms": 438013,
       "name": "Body Language - Original Mix",
       "url": "https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Nervous Rewind 2008",
+        "url": "https://open.spotify.com/album/3gDlszHVFyeuJjoYysptmE"
+      },
+      "artists": [
+        {
+          "name": "Ercola",
+          "url": "https://open.spotify.com/artist/3L3eVOR4ra6ZGpAta7xlGV"
+        },
+        {
+          "name": "Heikki L",
+          "url": "https://open.spotify.com/artist/6H20zr0kwfiOnvem0vxQai"
+        }
+      ],
+      "duration_ms": 219146,
+      "name": "Deep At Night (Adam K & Soha Radio Mix)",
+      "url": "https://open.spotify.com/track/4ggVmEvo9FzExPonRRqqIS"
     },
     {
       "added_at": "2023-03-22 14:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,471 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,479 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 49 | [Backseat](https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Backseat](https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW) | 3:30 |
 | 50 | [Watch the Lilies Grow](https://open.spotify.com/track/4xEpc9SmK9cAlw0407Cxz9) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:33 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyZGIxYTk4NWQwMTEzZDg0N2RlNDY0ZTdlOGMzMmFiMA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA1Mjg0ZjEzM2FmNzZiMGZkMjkxMjQ5MWFkZmYxOGZiYg==`

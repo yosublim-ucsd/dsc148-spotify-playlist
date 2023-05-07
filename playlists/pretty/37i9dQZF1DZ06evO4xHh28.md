@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 
 > This is My Chemical Romance\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,616 likes - 41 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,741 likes - 41 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xHh28.md) - [plain]
 | 40 | [Make Room!!!!](https://open.spotify.com/track/2Yi6aqwX2e0JQ9bTNUGfRT) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Number Four](https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih) | 3:42 |
 | 41 | [Bury Me in Black \- Demo](https://open.spotify.com/track/0uwM67BScty5fvQLUZneX5) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Life on the Murder Scene](https://open.spotify.com/album/6W6pGKjcVJVwbGHy2YRoeO) | 2:36 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA4NGM1OGY2ZWNlNGNkMjI1Mjc1NDAyZDg3MmEyMTFmMg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5NTg1N2JmMDhhMGNkZTVhODdmYzkyOWZiMzE4ZjM3ZA==`

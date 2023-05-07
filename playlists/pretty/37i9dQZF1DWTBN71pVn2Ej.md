@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,462 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,541 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 24 | [Drain](https://open.spotify.com/track/3k8ptnrHJn8LzQnvh413c5) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Drain](https://open.spotify.com/album/4td2lzPI1u95ohvolQfTkZ) | 3:22 |
 | 25 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
 | 26 | [Shoulders](https://open.spotify.com/track/0rTLdT65nXUA04EY0jEF6L) | [Giveaway](https://open.spotify.com/artist/4kwtZRR88YHWOMWhvb5M5A) | [Shoulders](https://open.spotify.com/album/0kT8xYHpoDyAbBfjrtuvwX) | 2:33 |
-| 27 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 27 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 28 | [Black Sky](https://open.spotify.com/track/3NGnjrnNzqOOEQ0sHV2KAp) | [Healing](https://open.spotify.com/artist/1oFMAPEoTCmYdcBBBwAxs0) | [Black Sky](https://open.spotify.com/album/4lWTlSRJQ3ldM7o0qGqJGZ) | 3:45 |
 | 29 | [Leave This Place](https://open.spotify.com/track/6NAjfD8F26BcBP3E9D6VY5) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [Leave This Place](https://open.spotify.com/album/4ilfyeO8iIQGWMO4Dqd20u) | 3:26 |
 | 30 | [Destroy the World](https://open.spotify.com/track/3cqCrByCAW5x9RGcrICmYf) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S), [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 59 | [no one is truly cool](https://open.spotify.com/track/3Wuvh6YDTQE1vsOCiHOkxQ) | [snake eyes](https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91) | [no one is truly cool](https://open.spotify.com/album/1kor0saoI4U16mP7LDzdan) | 2:16 |
 | 60 | [Micro Aggression](https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Micro Aggression](https://open.spotify.com/album/22keIGmNhJW6JnSN0beV4z) | 2:37 |
 
-Snapshot ID: `MCwxMTk4MGYyNjFlYWU1MjZiNzA2ZjlmMWVhYTc1YWU1NGZiNzU0YmFm`
+Snapshot ID: `MCwxOTY1NDIwNTM0NzhiOTYyZWY5NDE3MjAzYTFhMmE2NDJkZGIyMTI3`

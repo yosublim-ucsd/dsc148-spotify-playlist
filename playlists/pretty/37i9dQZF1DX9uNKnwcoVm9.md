@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,640 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,760 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 52 | [El Gran Yo Soy](https://open.spotify.com/track/16YdGLnlR0Tj71dsVvNNGE) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Metamorfosis](https://open.spotify.com/album/03uDbnflTv0xXsuzFujD04) | 5:24 |
 | 53 | [En paz](https://open.spotify.com/track/0rgd3UShOGwxs2Qpp0krBV) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [En paz](https://open.spotify.com/album/4j1pfVpEKRB91xgwZRE1mq) | 4:14 |
 | 54 | [Revelacion](https://open.spotify.com/track/6qYidY706dT5LxQSmbTg94) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Devoción](https://open.spotify.com/album/6BQVnLlE5XJh8UY68xp4lk) | 7:52 |
-| 55 | [Anhelo Conocerte Espiritu Santo](https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 5:13 |
-| 56 | [No Me Digas Adiós](https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:45 |
+| 55 | [No Me Digas Adiós](https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Dios Siempre Tiene el Control](https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv) | 4:45 |
+| 56 | [Anhelo Conocerte Espiritu Santo](https://open.spotify.com/track/7ylsvpGbWJNgXUbqEyrxtk) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 5:13 |
 | 57 | [Yo Quiero Estar Donde Tu Estás](https://open.spotify.com/track/4yHpEcaH1WLJ2e6MlMXZXd) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Santo Es El Señor](https://open.spotify.com/album/6o1JXibPpTx6TwbsmqkfSS) | 5:05 |
 | 58 | [Tan Solo Cree](https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [Algo Grande Viene](https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX) | 4:12 |
 | 59 | [Mi Historia De Amor](https://open.spotify.com/track/4Io9nq91YUZNcCeQ0zDcID) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Mi Refugio](https://open.spotify.com/album/1tQiDUKWTbToF8mpA0GZNm) | 3:16 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 82 | [Por el Sueño De Dios](https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Dios Lo Hará Otra Vez](https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI) | 4:30 |
 | 83 | [El Deseado](https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx) | [Gadiel Espinoza](https://open.spotify.com/artist/6LsF1LrB6rmAiWps0Mo1t6) | [Lo Mejor De Gadiel Espinoza](https://open.spotify.com/album/05sRL9QUM72ugGewZ1aF5k) | 4:47 |
 | 84 | [Creemos](https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [Me Vistió De Promesas](https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp) | 4:48 |
-| 85 | [Haz Llover](https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO) | [Jose Luis Reyes](https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp) | [Se Abren Los Cielos \( Pistas\)](https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU) | 4:36 |
-| 86 | [Mi Pastor](https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Renacer](https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4) | 4:12 |
+| 85 | [Mi Pastor](https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi) | [Jésed](https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [Renacer](https://open.spotify.com/album/13M8kgTgN9up2JtRwFgBy4) | 4:12 |
+| 86 | [Haz Llover](https://open.spotify.com/track/3O51YNgaVGHrrFLXLVJxNO) | [Jose Luis Reyes](https://open.spotify.com/artist/5hijN7Isgf4lf43c50XwOp) | [Se Abren Los Cielos \( Pistas\)](https://open.spotify.com/album/6lW1vofyUsYzC7QvktsrpU) | 4:36 |
 | 87 | [Asi Porque Si](https://open.spotify.com/track/3s1s6qKRUTx4inaKh32he7) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Motivos Para Amarte](https://open.spotify.com/album/52GIMpznejD3anSRFnMdBL) | 4:51 |
 | 88 | [Gloria al Rey](https://open.spotify.com/track/6SnHXX14msb6bqMfyi90vP) | [Jaci Velasquez](https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko) | [Gloria al Rey](https://open.spotify.com/album/15HKsmmPyBtoy9D1I4oziz) | 4:24 |
 | 89 | [Atráeme a Ti](https://open.spotify.com/track/1NG2W9OLWi5CXxlmzCcCLj) | [Luigi Castro](https://open.spotify.com/artist/2AXhCIqHOofbAG4ew5WRF9) | [Recopilación](https://open.spotify.com/album/35kq5uh3NFFICxAXouBNPl) | 6:32 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 97 | [Mi confianza está en ti \(remix\)](https://open.spotify.com/track/1Qn5cNivk7VRHKFgDAOBsN) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Mi confianza está en ti \(remix\)](https://open.spotify.com/album/4P70uBMLI7M22FKLIVZU96) | 5:33 |
 | 98 | [Abro Mis Brazos](https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e) | [Lenny Salcedo](https://open.spotify.com/artist/3SAz8B6xf4eS1TuWnBppf8) | [Acústico](https://open.spotify.com/album/6xnrqwm4OHFjNJ7ScJut1V) | 3:49 |
 | 99 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
-| 100 | [Tu Corazón](https://open.spotify.com/track/214zEfKabCRcGKrMuQZRTi) | [Shammai](https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz) | [Tu Corazón](https://open.spotify.com/album/2dwTkrBFDyCq2uOCN7wg2E) | 4:04 |
+| 100 | [Donde Tu Estás](https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:33 |
 
-Snapshot ID: `MCw3ODUzMTUxNzIzMjc0OTQ3MzAyYmI1MGJhNmQ0ODNhOWExMjJkNDJh`
+Snapshot ID: `MCxmZGE0NGIyM2E4Y2ZiMGQzZDA4ZDhmZmYzMzU2YWUzMTA4NjU4Y2Ew`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 838,600 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 838,669 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 41 | [Nocturne](https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Nocturne EP](https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm) | 4:28 |
 | 42 | [Warm Foothills](https://open.spotify.com/track/1YUcTZ0ehoHY6G6Prhcbj0) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 3:45 |
 | 43 | [apathy](https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 3:09 |
-| 44 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
-| 45 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
+| 44 | [Silvery](https://open.spotify.com/track/6i8GiLfa1PAwKl4SBfpFVt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Heiress](https://open.spotify.com/album/4poxm3vY9nKdqcyeWv5h0a) | 3:52 |
+| 45 | [The Rains](https://open.spotify.com/track/2I5mhy8zeIIMWgOFny4Fle) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:31 |
 | 46 | [Don't Go Far](https://open.spotify.com/track/2BfvdgdBqLtwAzvgtZq9hb) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:39 |
 | 47 | [Samara](https://open.spotify.com/track/6BlVZ6vUaW5vbmDlYV7zfM) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Samara](https://open.spotify.com/album/1v79MqdyOEmgD4axF3dL9U) | 4:16 |
 | 48 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 51 | [Old Now](https://open.spotify.com/track/3IVALWwWuGL5p3W6cPtjDH) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/3KJQprTqgb4xq2TNqbBGEf) | 4:49 |
 | 52 | [July Bones](https://open.spotify.com/track/4A6GiKusHlmrtqCyKAyPg2) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [A.M.](https://open.spotify.com/album/1zO0DbmMO3xDxYaW72yIFc) | 3:59 |
 | 53 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
-| 54 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
-| 55 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
-| 56 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
-| 57 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
-| 58 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
+| 54 | [Spirit Cold](https://open.spotify.com/track/5HVHYpNllysLkUEduWKqlg) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Holding On, Holding Out](https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR) | 3:38 |
+| 55 | [To Each His Own](https://open.spotify.com/track/0LQqaXgLL3e3dkPBpkwlGU) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:10 |
+| 56 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
+| 57 | [Thirteen](https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5), [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Thirteen](https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg) | 3:04 |
+| 58 | [Motives](https://open.spotify.com/track/6t8fO77SHrCqszDxX1CRMl) | [Davis John Patton](https://open.spotify.com/artist/4BXF9pCPS864m8VMjuR4Pl) | [Forest Park](https://open.spotify.com/album/42s6cU6zv7JYBvmmSWc7IR) | 4:03 |
 | 59 | [You and I](https://open.spotify.com/track/7j9DRB3AzXxQNRHAY3RfAx) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [You and I](https://open.spotify.com/album/0H7AadTjFvdH0XYB2oVuCe) | 3:12 |
 | 60 | [Bite](https://open.spotify.com/track/6HM5mh7dWG3rYYvuzh5FyB) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:32 |
 | 61 | [Sea Creatures](https://open.spotify.com/track/73Tl9gM1BeVA1IHvGubOmI) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [You Stay by the Sea \(Deluxe\)](https://open.spotify.com/album/4gyX2p2lAct97JgYtrpbH4) | 4:16 |
@@ -88,14 +88,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 78 | [Stick with You](https://open.spotify.com/track/6TZ9adRRarZhhfzBD1b4GF) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Uranium Heart](https://open.spotify.com/album/0XLCfcLsv31oEwcvEDC8v6) | 2:46 |
 | 79 | [The Grain](https://open.spotify.com/track/24At1pkaBi4P9PsbeeUttf) | [Black Oak](https://open.spotify.com/artist/3PMflYpdvhwPDNea1MW5Wh) | [Equinox](https://open.spotify.com/album/5QQVaIp7B4zABTIaEECseo) | 3:29 |
 | 80 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 |
-| 81 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
-| 82 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 |
+| 81 | [Branscombe](https://open.spotify.com/track/4mrOXzvbS0U0KsX7O6OqIo) | [Voka Gentle](https://open.spotify.com/artist/4VyQOLH3ixMP5lrxhSeqKx) | [Branscombe](https://open.spotify.com/album/1n5qpXXobioZdWa6Upq6fU) | 7:19 |
+| 82 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 | 83 | [Lost Boy](https://open.spotify.com/track/0VSd1i7BKn1dI5cTmpqyEV) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [Fall Down \- EP](https://open.spotify.com/album/6vxcAKC5bok8gUQjWO6Ejv) | 0:53 |
-| 84 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
-| 85 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
+| 84 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
+| 85 | [Never Let Me Go](https://open.spotify.com/track/0GxvJu5SzVMtZIpsUv6NjW) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Never Let Me Go](https://open.spotify.com/album/49K2MThrpYALEgaFoqraaF) | 4:28 |
 | 86 | [The Only Thing I Fear](https://open.spotify.com/track/1BZuKdpvP8Q8P8ea0hKwzK) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Higher Places](https://open.spotify.com/album/6yECsWqRjBSZSch53dzTEK) | 3:30 |
-| 87 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
-| 88 | [Dreamer](https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:46 |
+| 87 | [Dreamer](https://open.spotify.com/track/40IjsPrABIjZ7m05H5zTZU) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [Pendulum](https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE) | 3:46 |
+| 88 | [Golden](https://open.spotify.com/track/5nL6QICzZuoVfxLBI9UTh5) | [Mt\. Wolf](https://open.spotify.com/artist/4GLzX588I9R2vs0nTHhD6Z), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Golden](https://open.spotify.com/album/7GpRl4yQJU2xDgOHSy1R9z) | 3:19 |
 | 89 | [Plans](https://open.spotify.com/track/1svJlQzq22Erm3P87wGYgk) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home](https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe) | 3:49 |
 | 90 | [Lost](https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Two](https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ) | 3:56 |
 | 91 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 99 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 | 100 | [Bombs](https://open.spotify.com/track/5h9kCImRSHs7xabbDOYCYC) | [Sami Simon](https://open.spotify.com/artist/0QNjXIQx37k8fIIzO4g71q) | [Bombs](https://open.spotify.com/album/0uEl2CeXpVSKVeaZL1upw5) | 4:26 |
 
-Snapshot ID: `MCw4ZGIzMzA2ZTc4Zjg0MjUyMzhhMzhiMDljMjJiYTUyMWQ2ODIzM2I3`
+Snapshot ID: `MCwyOTNkNDNjZjdkNmU0M2Y3MTZmMWZiYjg1Nzk1NmQwMzlmODZhOGY4`

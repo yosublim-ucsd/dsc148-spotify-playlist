@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,504 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,533 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 8 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
 | 9 | [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 |
 | 10 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 |
-| 11 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
+| 11 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
 | 12 | [I Hope I Packed A Parachute \(feat\. Charlotte Cardin\)](https://open.spotify.com/track/2AB27ZGxzb8z2rwTvdCDif) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 3:37 |
 | 13 | [Mort de peur](https://open.spotify.com/track/5BrSdlZO7iZygt6og7ZRoS) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Mort de peur](https://open.spotify.com/album/3p3yaxFzVEgprptHO9qwu7) | 3:21 |
 | 14 | [+1](https://open.spotify.com/track/5GyNaOBpxws6Kk6v51OLCE) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Meggie Lennon](https://open.spotify.com/artist/1T3MA61vWkReBpYGEUqKoq), [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [Magie à minuit](https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 |
 | 100 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 
-Snapshot ID: `MCxlMjNmM2IwNTU0MTkwNDliYzdjZTlhM2UwY2U4MTcwMGM3OTUxOWNm`
+Snapshot ID: `MCw1YmEyMGZmY2FiYjMyNzk1OTczMGM0YWIzNmFlMDMzMzBmMzhjMTVh`

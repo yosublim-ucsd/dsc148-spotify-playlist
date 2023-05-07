@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: Big Pun
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,064 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,394 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 11 | [Juicy \- 2005 Remaster](https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Ready to Die \(The Remaster\)](https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2) | 5:02 |
 | 12 | [Survival of the Fittest](https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 3:44 |
 | 13 | [If I Ruled the World \(Imagine That\) \(feat\. Lauryn Hill\)](https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [It Was Written](https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg) | 4:42 |
-| 14 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
+| 14 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
 | 15 | [How's It Goin' Down](https://open.spotify.com/track/5hOrYYtUd96bIOBjuSEArP) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [It's Dark And Hell Is Hot](https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc) | 4:42 |
-| 16 | [Electric Relaxation](https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Anthology](https://open.spotify.com/album/3FAK4h4t9uV4JxzESXllAU) | 3:46 |
+| 16 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 17 | [Mo Money Mo Problems \(feat\. Puff Daddy & Mase\) \- 2014 Remaster](https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 4:17 |
 | 18 | [Many Men \(Wish Death\)](https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:16 |
 | 19 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 47 | [Who Got Da Props](https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:30 |
 | 48 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 | 49 | [Woo Hah!! Got You All in Check](https://open.spotify.com/track/09WxJCWFMWAxTHBLLelpDS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Coming](https://open.spotify.com/album/2wW0v9XWjEpUjOLpz5kJY8) | 4:31 |
-| 50 | [Incarcerated Scarfaces](https://open.spotify.com/track/3SL3GG9Bs7m1s9aqhjCeIa) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 4:42 |
+| 50 | [Oh Boy](https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 3:24 |
 
-Snapshot ID: `MCw2OTM1YmY1Y2ZkYmE0ODY1OTM5NWQxZGQ0NGY5NjBlYjY1OTA3ZGI2`
+Snapshot ID: `MCw3NDcyZmJiYmEyZjBmODExMTBiMDYxZmEyOWFhNGFmN2U4MzYwZWQ1`

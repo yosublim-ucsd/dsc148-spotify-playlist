@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 999,052 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 999,914 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 | 49 | [Sudah \- Story of Kale \- Original Motion Picture Soundtrack](https://open.spotify.com/track/5QGdWvXwXMK2Zx6eKagyue) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Sudah \(Story of Kale \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6PDnmCt2aYEQF3YHaCOVHI) | 3:26 |
 | 50 | [It's Only Me \- Studio Version](https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [It's Only Me \(Studio Version\)](https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4) | 3:23 |
 
-Snapshot ID: `MCxmOGE2OGYzNmRkNTMzODg2NjdiYzE3NmY4NDdmZDI1YjA4NjdiNmRi`
+Snapshot ID: `MCxlY2ExZGIzYmQ2MDc1N2NkMTFmZjZmNmRiZjI0OWMyNTk2OTFlZTYx`

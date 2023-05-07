@@ -24925,6 +24925,24 @@
     },
     {
       "album": {
+        "name": "My Bestie (Anxiety)",
+        "url": "https://open.spotify.com/album/4xMZGdK4MsvJ4nFG3FN3Iw"
+      },
+      "artists": [
+        {
+          "name": "Kia Rose",
+          "url": "https://open.spotify.com/artist/4pVR78BCBKQ4pVuYJyvgWw"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198484,
+      "name": "My Bestie (Anxiety)",
+      "url": "https://open.spotify.com/track/5b32quYchxdWwIIoIhUNQI"
+    },
+    {
+      "album": {
         "name": "Pearls",
         "url": "https://open.spotify.com/album/5y1snnoCrQF7ryZHYXKwNW"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47677,
+  "num_followers": 47701,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjNjZTNhMjE3NDZmYzNmZTRiZWVhOGVkZTk0OWU1NTU4ODUxNzQw",
+  "snapshot_id": "MCwzOGFiYjhlN2MwMjM5OThhNzM4ZjllN2MxMGUxOWMxNmRhZmNkMTUz",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -147,18 +147,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "It's Our Thing",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -179,18 +179,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+        "name": "It's Our Thing",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
       "artists": [
         {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Jurassik Funk",
-        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
-      },
-      "artists": [
-        {
-          "name": "Jurassik Funk",
-          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "Jurassic Funk",
-      "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Chasing Gold",
         "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
       },
@@ -1707,18 +1691,38 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back to the Funkture",
-        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
+        "name": "Jurassik Funk",
+        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
       },
       "artists": [
         {
-          "name": "Alissia",
-          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+          "name": "Jurassik Funk",
+          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
         }
       ],
-      "duration_ms": 241410,
-      "name": "Back to the Funkture",
-      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
+      "duration_ms": 259000,
+      "name": "Jurassic Funk",
+      "url": "https://open.spotify.com/track/2xGCKeFRnbg43fQh7TWzB5"
+    },
+    {
+      "added_at": "2019-09-06 07:01:00",
+      "album": {
+        "name": "TBNH",
+        "url": "https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        },
+        {
+          "name": "N'Dea Davenport",
+          "url": "https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT"
+        }
+      ],
+      "duration_ms": 212252,
+      "name": "Wired Up",
+      "url": "https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx"
     }
   ],
   "unique_name": "Funk Drive",

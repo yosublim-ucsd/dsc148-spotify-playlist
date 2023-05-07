@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,772,492 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,772,650 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 30 | [Jolene](https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 4:10 |
 | 31 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 32 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
-| 33 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
-| 34 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 |
+| 33 | [Arms](https://open.spotify.com/track/4EXvl9cypQrKVYwabqd1EY) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:23 |
+| 34 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 35 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 |
 | 36 | [Wait for You](https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj) | 3:13 |
 | 37 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 65 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |
 | 66 | [Untamed](https://open.spotify.com/track/6uGCeKQehERWqyxICGhMwd) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:58 |
 | 67 | [Sea Of Love](https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sea Of Love](https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg) | 3:23 |
-| 68 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
-| 69 | [Sweetest Thing](https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7) | 3:38 |
+| 68 | [Sweetest Thing](https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [1000 Years](https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7) | 3:38 |
+| 69 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 70 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 |
 | 71 | [Two of Us On the Run](https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Wildewoman \(Expanded Edition\)](https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK) | 4:35 |
 | 72 | [Land Of The Living](https://open.spotify.com/track/34f6sZPLPVsGwgBOrW3iLu) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Tiger Striped Sky](https://open.spotify.com/album/12AP94kXbpnXg6Zk8DmB0s) | 4:24 |
@@ -97,11 +97,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 87 | [Both Hands](https://open.spotify.com/track/1pQhpD3hn0IBcY2sDdjIdg) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Ani DiFranco](https://open.spotify.com/album/0831E4Cmgg52SYn6TEuw3K) | 3:38 |
 | 88 | [Little Birds](https://open.spotify.com/track/3ePJFt2th9XXwaGFUmn2pr) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu) | 3:25 |
 | 89 | [The One You Love](https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Kate Miller Heidke](https://open.spotify.com/artist/1ChKcTlKCWZxWAvmyUhB3t) | [Flight of the Crow](https://open.spotify.com/album/41Ywc4XSD3GChkeAfzhRIR) | 3:02 |
-| 90 | [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 |
-| 91 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
+| 90 | [Golden \(Acoustic\)](https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Golden \(Acoustic\)](https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br) | 5:07 |
+| 91 | [Left for America](https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Kosher](https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod) | 2:50 |
 | 92 | [Old Town](https://open.spotify.com/track/62wUcF268nKH9HcMaY247d) | [Luis Trindade](https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk) | [Dead Leaves](https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ) | 3:07 |
-| 93 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
-| 94 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
+| 93 | [Thirty](https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Weather Station](https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ) | 3:40 |
+| 94 | [Weeds](https://open.spotify.com/track/2wOQdQ3cXCPARPHwOF4UqZ) | [Handsome Ghost](https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho) | [Some Still Morning](https://open.spotify.com/album/25tYEtvcZxgr3UrWzJCr5o) | 4:13 |
 | 95 | [Lonelily](https://open.spotify.com/track/4bdjQvuoDBAsxdUPmEIltt) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [B\-Sides](https://open.spotify.com/album/3nvaY45C0yn3jIZc2W4VoA) | 3:13 |
 | 96 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 |
 | 97 | [Lovers' Eyes](https://open.spotify.com/track/60XAcN6U4FyH10movaioLz) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 |
 | 100 | [Hold Me](https://open.spotify.com/track/3XWy3NVtRtrL6BCQl8PRD5) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:04 |
 
-Snapshot ID: `MCw0YzNiMTRjOTM0Y2RjZDNkZGIyYTFmZTlmY2NkMDk5ZGUyNThjMDM3`
+Snapshot ID: `MCw5MTAxZWViZTk1ODVmM2Y5ZGFhYzI4ZjRhNWEwNmFmYWNiNGVmMWJi`

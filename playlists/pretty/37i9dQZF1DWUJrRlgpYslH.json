@@ -1,12 +1,12 @@
 {
   "description": "A lazy Sunday vibe, whatever day of the week it is.",
-  "num_followers": 1721,
+  "num_followers": 1826,
   "original_name": "Sunday Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjdiZjE1NGYzZTcxNDQwZjg0Njg4YWVkOGQ2OGMwMzEzMzIwNTdm",
+  "snapshot_id": "MCwwOTAzOTg3ODc2OTQ4NmI4Y2FhMDAzZjEyZGNiNzI4ODllYzQxNmU5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 244880,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
+      "duration_ms": 241093,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 241093,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
+      "duration_ms": 244880,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5qII2n90lVdPDcgXEEVHNy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2023-05-05 04:00:00",

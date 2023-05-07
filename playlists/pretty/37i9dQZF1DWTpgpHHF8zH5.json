@@ -1,12 +1,12 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 325583,
+  "num_followers": 325635,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2QwYzIwYWFhMjk1ZWI3NWY4NWY0ZmQ1MTQ1MzFkNjgyYTQ4MjRm",
+  "snapshot_id": "MCxkZDY0YjEwNTNlYTQzMWE3NmVlMjk3NzI5YmU4NmQxY2I1NjFhZWE0",
   "tracks": [
     {
       "added_at": "2023-04-28 14:12:28",
@@ -343,22 +343,18 @@
     {
       "added_at": "2023-04-28 14:12:28",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
         }
       ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2023-04-28 14:12:28",
@@ -379,22 +375,6 @@
     {
       "added_at": "2023-04-28 14:12:28",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2023-04-28 14:12:28",
-      "album": {
         "name": "Wanted on Voyage (Expanded Edition)",
         "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2023-04-28 14:12:28",
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2023-04-28 14:12:28",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-04-28 14:12:28",
       "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2023-04-28 14:12:28",
+      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
-    },
-    {
-      "added_at": "2023-04-28 14:12:28",
-      "album": {
-        "name": "Rock n Roll Jesus",
-        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
-      },
-      "artists": [
-        {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        }
-      ],
-      "duration_ms": 297586,
-      "name": "All Summer Long",
-      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "added_at": "2023-04-28 14:12:28",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-28 14:12:28",
       "album": {
-        "name": "Heart Wants What It Wants",
-        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 182085,
-      "name": "Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
-    },
-    {
-      "added_at": "2023-04-28 14:12:28",
-      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "added_at": "2023-04-28 14:12:28",
+      "album": {
+        "name": "Heart Wants What It Wants",
+        "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 182085,
+      "name": "Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
     },
     {
       "added_at": "2023-04-28 14:12:28",

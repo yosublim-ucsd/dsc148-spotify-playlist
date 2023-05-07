@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,411 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,548 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 46 | [Magnets](https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Caracal \(Deluxe\)](https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy) | 3:19 |
 | 47 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
 | 48 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
-| 49 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
-| 50 | [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 |
-| 51 | [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 |
+| 49 | [Stars Are Blind](https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Paris \(U.S\. Standard Version\)](https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs) | 3:56 |
+| 50 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
+| 51 | [Neon Lights](https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:53 |
 | 52 | [Sledgehammer](https://open.spotify.com/track/4rUTAkOU7OkVGeQuyQCHhF) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:50 |
 | 53 | [Pound The Alarm](https://open.spotify.com/track/0LohatbcUXRauoeMlR1jnS) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:25 |
 | 54 | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I’m Ready \(with Demi Lovato\)](https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU) | 3:20 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 83 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 | 84 | [Rumors](https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF) | [Speak](https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe) | 3:16 |
 | 85 | [Vulnerable](https://open.spotify.com/track/11OwAR3GlBj9E35Cznf7Lj) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:12 |
-| 86 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk) | 3:06 |
-| 87 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 |
+| 86 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 |
+| 87 | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Faith \(with Dolly Parton\) \[feat\. Mr\. Probz\]](https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk) | 3:06 |
 | 88 | [Battlefield](https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [Battlefield](https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt) | 4:01 |
 | 89 | [4ever](https://open.spotify.com/track/4ECvB9frSDegHfKNRh9dwT) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [The Secret Life Of...](https://open.spotify.com/album/0iFKQKmkSxKjoKvI6j45to) | 3:28 |
 | 90 | [Pink Pony Club](https://open.spotify.com/track/6rcuy6XqlB9bqvtIRDl25u) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Pink Pony Club](https://open.spotify.com/album/7p5A0E4ivsJ6Gv4iKriANy) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 99 | [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 |
 | 100 | [Run Away With Me](https://open.spotify.com/track/5e0vgBWfwToyphURwynSXa) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Emotion](https://open.spotify.com/album/6UjZgFbK6CQptu8aOobzPV) | 4:11 |
 
-Snapshot ID: `MCwyNDdhNGFmOThjMjNmZGUwYjZmYzQ2ZmY1Y2FjOTlhNTliNzQyZjEy`
+Snapshot ID: `MCxhYzFlYTIyMWUxNGQ1NjZjMzc3ZGQyMTRjOTVlZDY0MjhkNTU1M2Rj`

@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Angel Dior & Flow 28",
-  "num_followers": 83858,
+  "num_followers": 83931,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDA4NjRjMWI2NzgxNzVhY2FkZmFkOTY3MzYzZTRjOWQ0NTZlZDg0",
+  "snapshot_id": "MCwwMmU1YjgwZWVkMzg2NjQ4MWJkY2IzNzZkMmFiZmIxMGIyNTE5NzY3",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Sistema De Patio",
+        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "duration_ms": 134222,
+      "name": "Sistema De Patio",
+      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Carbon Fiber Hits",
         "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 224018,
       "name": "Subete",
       "url": "https://open.spotify.com/track/4OOlKNTQISagv0nsofvySZ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Sistema De Patio",
-        "url": "https://open.spotify.com/album/2CEgQxkmV8DKlSp0hHR839"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Treintisiete",
-          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
-        }
-      ],
-      "duration_ms": 134222,
-      "name": "Sistema De Patio",
-      "url": "https://open.spotify.com/track/65497v9jzFfu5sSA8ADap5"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -527,30 +527,26 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Singamo",
-        "url": "https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW"
+        "name": "Co\u00f1o",
+        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
         },
         {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
         },
         {
-          "name": "Paulus Music",
-          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
         }
       ],
-      "duration_ms": 136763,
-      "name": "Singamo",
-      "url": "https://open.spotify.com/track/3rLdmhMmRqpKb7Bbzo43EI"
+      "duration_ms": 137595,
+      "name": "Co\u00f1o",
+      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -575,26 +571,30 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Co\u00f1o",
-        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
+        "name": "Singamo",
+        "url": "https://open.spotify.com/album/253SMVFCLr8mpmUAyQekLW"
       },
       "artists": [
         {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
         },
         {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
         },
         {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+          "name": "Paulus Music",
+          "url": "https://open.spotify.com/artist/6Fs3AKFsg15trpdu92f7WR"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         }
       ],
-      "duration_ms": 137595,
-      "name": "Co\u00f1o",
-      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+      "duration_ms": 136763,
+      "name": "Singamo",
+      "url": "https://open.spotify.com/track/3rLdmhMmRqpKb7Bbzo43EI"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Superman Sin Capa",
+        "url": "https://open.spotify.com/album/5veo7dGGy2WgRuEJ9kBYnr"
+      },
+      "artists": [
+        {
+          "name": "El Super Nuevo",
+          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Superman Sin Capa",
+      "url": "https://open.spotify.com/track/0DddndOK6s6sMu06cwNcFM"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Y Eso?",
         "url": "https://open.spotify.com/album/7x8dNTVIpVvboQ3TsxCj0N"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Superman Sin Capa",
-        "url": "https://open.spotify.com/album/5veo7dGGy2WgRuEJ9kBYnr"
-      },
-      "artists": [
-        {
-          "name": "El Super Nuevo",
-          "url": "https://open.spotify.com/artist/3hWKGRKwr78bhxvErSJBdu"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Superman Sin Capa",
-      "url": "https://open.spotify.com/track/0DddndOK6s6sMu06cwNcFM"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Plakiti",
         "url": "https://open.spotify.com/album/5F3LG8ycUgNQXnhgMYDEBf"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 135314,
       "name": "Plakiti",
       "url": "https://open.spotify.com/track/0qY84Aa0tT2okICVVrvhQU"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Yo Quiero",
-        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
-      },
-      "artists": [
-        {
-          "name": "Sarodj",
-          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
-        }
-      ],
-      "duration_ms": 134237,
-      "name": "Yo Quiero",
-      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Yo Quiero",
+        "url": "https://open.spotify.com/album/0TEF2jy79sijA5qNVtqHII"
+      },
+      "artists": [
+        {
+          "name": "Sarodj",
+          "url": "https://open.spotify.com/artist/49V0e4iCjNvIqEuyFDQi0F"
+        }
+      ],
+      "duration_ms": 134237,
+      "name": "Yo Quiero",
+      "url": "https://open.spotify.com/track/1t4DLSdEpTDy5v8aUMK5jY"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Tan Celoso",
         "url": "https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Dembow 2014 - 14 Original Urban Hits!",
-        "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
-      },
-      "artists": [
-        {
-          "name": "Los Lun\u00e1ticos",
-          "url": "https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA"
-        }
-      ],
-      "duration_ms": 205080,
-      "name": "Siente El Ki",
-      "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Tu Vecino",
         "url": "https://open.spotify.com/album/4V1Olj6gUBJLtYsDU6F1UF"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 181106,
       "name": "Tu Vecino",
       "url": "https://open.spotify.com/track/2ZwwhQPsMhF980XXbcYnRG"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Dembow 2014 - 14 Original Urban Hits!",
+        "url": "https://open.spotify.com/album/2wQgEZf2kLZFjLOqI9EV64"
+      },
+      "artists": [
+        {
+          "name": "Los Lun\u00e1ticos",
+          "url": "https://open.spotify.com/artist/3dznStnQzstoqfwjmyuKuA"
+        }
+      ],
+      "duration_ms": 205080,
+      "name": "Siente El Ki",
+      "url": "https://open.spotify.com/track/4Y4TzQhODQmsTRA3NTuFlV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "Mr Brum Brum",
+        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
+      },
+      "artists": [
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 172878,
+      "name": "Brum Brum",
+      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Sesi",
         "url": "https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 174802,
       "name": "Sesi",
       "url": "https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Mr Brum Brum",
-        "url": "https://open.spotify.com/album/1mQTVVmy6EUp67GjRD2h40"
-      },
-      "artists": [
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 172878,
-      "name": "Brum Brum",
-      "url": "https://open.spotify.com/track/62utJ0vVOX6X7EFJ8XsmA1"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "No Son de Na",
+        "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
+      },
+      "artists": [
+        {
+          "name": "Tommy Titerito",
+          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
+        }
+      ],
+      "duration_ms": 185984,
+      "name": "No Son de Na",
+      "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Calle",
         "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 152049,
       "name": "Calle",
       "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "No Son de Na",
-        "url": "https://open.spotify.com/album/4J4bjLAtDPXFSjhNhV2MIS"
-      },
-      "artists": [
-        {
-          "name": "Tommy Titerito",
-          "url": "https://open.spotify.com/artist/7qaDbD0PkaTUTOaUpqMeGk"
-        }
-      ],
-      "duration_ms": 185984,
-      "name": "No Son de Na",
-      "url": "https://open.spotify.com/track/5W8oJxVClXOOAwS84nfrry"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2763,22 +2763,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 192835,
-      "name": "Pa Que Me Dan de Eso",
-      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Reverencia H\u00e1ganme",
         "url": "https://open.spotify.com/album/1XTEetVuPgrjIVmwh3Z8RT"
       },
@@ -2791,6 +2775,22 @@
       "duration_ms": 229368,
       "name": "No Me Friso",
       "url": "https://open.spotify.com/track/0kubltSGBsLjlAe9AzCvMQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/6DPfFTw3XRVYC1BjKa8UZP"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 192835,
+      "name": "Pa Que Me Dan de Eso",
+      "url": "https://open.spotify.com/track/3p1QSTu0MI97klqS8IH6ND"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -2935,26 +2935,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "El Rockanyor (Tres Pasito)",
-        "url": "https://open.spotify.com/album/3XEqQJT2AzTJncYtdUMbc2"
-      },
-      "artists": [
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        },
-        {
-          "name": "PV Aparataje",
-          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
-        }
-      ],
-      "duration_ms": 191459,
-      "name": "El Rockanyor (Tres Pasito)",
-      "url": "https://open.spotify.com/track/1wsYUJMv8TXexAmCZsXrwd"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "La Risa Mas Sicaria the Mix Tape",
         "url": "https://open.spotify.com/album/4og3Hp2KDzeYdsthLQ0mM0"
       },
@@ -2971,6 +2951,26 @@
       "duration_ms": 159043,
       "name": "Cla Cla Cla ( Feat. Los Pepe )",
       "url": "https://open.spotify.com/track/3s9PhD12XsUszAHHIMNmGH"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "El Rockanyor (Tres Pasito)",
+        "url": "https://open.spotify.com/album/3XEqQJT2AzTJncYtdUMbc2"
+      },
+      "artists": [
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "PV Aparataje",
+          "url": "https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4"
+        }
+      ],
+      "duration_ms": 191459,
+      "name": "El Rockanyor (Tres Pasito)",
+      "url": "https://open.spotify.com/track/1wsYUJMv8TXexAmCZsXrwd"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -3063,58 +3063,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Versace (Remix)",
-        "url": "https://open.spotify.com/album/4GKxwQSZ541xppZ74ejz8h"
-      },
-      "artists": [
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        },
-        {
-          "name": "Pusho",
-          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "La Insuperable",
-          "url": "https://open.spotify.com/artist/1DnmGMN1A57wUR0KhxOnnu"
-        },
-        {
-          "name": "Tali Goya",
-          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
-        },
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "Secreto \"El Famoso Biberon\"",
-          "url": "https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf"
-        },
-        {
-          "name": "Bulin 47",
-          "url": "https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy"
-        },
-        {
-          "name": "Villaman",
-          "url": "https://open.spotify.com/artist/30P234oNnd3fMT294yGLTT"
-        },
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        }
-      ],
-      "duration_ms": 359074,
-      "name": "Versace - Remix",
-      "url": "https://open.spotify.com/track/0lhOX6LaImVlcGvCMX6lOh"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Cero Coro",
         "url": "https://open.spotify.com/album/6O86yEhkjwrI4LRfXilKd2"
       },
@@ -3131,6 +3079,22 @@
       "duration_ms": 170073,
       "name": "Cero Coro",
       "url": "https://open.spotify.com/track/6F3fByGnMXy8ZZ9Rp0WpWQ"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/6Q600rdy08nCJuabWw7qeR"
+      },
+      "artists": [
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "duration_ms": 195492,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
     }
   ],
   "unique_name": "Rep\u00fablica Dembow",

@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Valeria Castro.",
-  "num_followers": 109370,
+  "num_followers": 109445,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDRhOGNlY2U3N2I4ZWU5MmM5OTQ3ZDViYTExN2RmZTExMmZmYWQw",
+  "snapshot_id": "MCw3NDhiY2QwOTYxZDM2ZDZkMDlmMWIzNmIwMjgxMGUxNDk0Mjc3NGFi",
   "tracks": [
     {
       "added_at": "2023-05-05 09:36:41",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-05 09:36:41",
       "album": {
+        "name": "Como diciembre a enero",
+        "url": "https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
+        }
+      ],
+      "duration_ms": 170990,
+      "name": "Como diciembre a enero",
+      "url": "https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF"
+    },
+    {
+      "added_at": "2023-05-05 09:36:41",
+      "album": {
         "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
         "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 247614,
       "name": "Mensajes en el Mar",
       "url": "https://open.spotify.com/track/6SGwV4wEmaJ6GNiEcS29Jv"
-    },
-    {
-      "added_at": "2023-05-05 09:36:41",
-      "album": {
-        "name": "Como diciembre a enero",
-        "url": "https://open.spotify.com/album/7qnIiF3WKa6eTdUvodZLzt"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4Z3BhshALJKE4dbK8o7ORb"
-        }
-      ],
-      "duration_ms": 170990,
-      "name": "Como diciembre a enero",
-      "url": "https://open.spotify.com/track/10gN65ff59oz7Sxa1PNDHF"
     },
     {
       "added_at": "2023-05-05 09:36:41",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-05 09:36:41",
       "album": {
-        "name": "Algo Ritmos",
-        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 236361,
-      "name": "Solo Le Dije",
-      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
-    },
-    {
-      "added_at": "2023-05-05 09:36:41",
-      "album": {
         "name": "A 200 mil",
         "url": "https://open.spotify.com/album/0KyqC56ow4ieuE5iH7iNmN"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-05-05 09:36:41",
       "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+        "name": "Algo Ritmos",
+        "url": "https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc"
       },
       "artists": [
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 196984,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
+      "duration_ms": 236361,
+      "name": "Solo Le Dije",
+      "url": "https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH"
     },
     {
       "added_at": "2023-05-05 09:36:41",
@@ -963,6 +947,22 @@
       "duration_ms": 204746,
       "name": "Carta",
       "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2023-05-05 09:36:41",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 196984,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/4y7MogcFeMrp4QXPVHloyB"
     },
     {
       "added_at": "2023-05-05 09:36:41",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-05-05 09:36:41",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-05-05 09:36:41",
-      "album": {
         "name": "Tu Casa",
         "url": "https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-05-05 09:36:41",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
     },
     {
       "added_at": "2023-05-05 09:36:41",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-05-05 09:36:41",
       "album": {
+        "name": "Cuchara Chueca",
+        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Alma Sola",
+      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
+    },
+    {
+      "added_at": "2023-05-05 09:36:41",
+      "album": {
         "name": "Visiones Doradas",
         "url": "https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 166048,
       "name": "Visiones Doradas",
       "url": "https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP"
-    },
-    {
-      "added_at": "2023-05-05 09:36:41",
-      "album": {
-        "name": "Cuchara Chueca",
-        "url": "https://open.spotify.com/album/5kwYIoDdnCytZbWqGkUr4V"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Alma Sola",
-      "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
     },
     {
       "added_at": "2023-05-05 09:36:41",

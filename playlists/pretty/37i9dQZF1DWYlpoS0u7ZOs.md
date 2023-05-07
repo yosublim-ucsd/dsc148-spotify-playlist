@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Delilah Bon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,955 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,961 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 84 | [Worthy](https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ) | [KIDS](https://open.spotify.com/artist/1KuaHyOmy7OyS3BO6u055P) | [Worthy](https://open.spotify.com/album/3YNhAijuyRViQoHGFNVDyC) | 2:39 |
 | 85 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 |
 
-Snapshot ID: `MCw4ZGI2NjY2OWM5YWEyZWJkZTk5M2M1Nzc1OWI4NzcxNjE1ODI0Zjdl`
+Snapshot ID: `MCxlZjUxMzk0YTVhNTVkZTZkOTIyYWIyNjIzNGU3ZDhlNTU5ZjFmY2Iw`

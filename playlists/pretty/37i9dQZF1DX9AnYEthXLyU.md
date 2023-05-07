@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 
 > when things just feel heavy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 31 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 | 46 | [If It Means A Lot To You](https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 4:03 |
 | 47 | [Bad Intentions](https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [The Blue EP](https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS) | 3:35 |
 | 48 | [Petal](https://open.spotify.com/track/6hpd3s4YS7Zn9ky5DyJjmL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Low Teens \(Deluxe Edition\)](https://open.spotify.com/album/6YIQv7ZD6WRY2NM88FBucx) | 2:59 |
-| 49 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | ['\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 4:21 |
+| 49 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 4:21 |
 | 50 | [Coming Down](https://open.spotify.com/track/6k3a5Y044Dm32g3yIo2zhK) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [BOYS DO CRY](https://open.spotify.com/album/7wezeeUZVM2EAzsdqlNzWj) | 3:11 |
 | 51 | [Into The Dark \(feat\. Kellin Quinn\)](https://open.spotify.com/track/7qCzenL7S1onPt6QdRsDsd) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 3:18 |
 | 52 | [Crawling In The Dark](https://open.spotify.com/track/1PJRDeZSoZk7gtisdTYfLi) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Hoobastank \(20th Anniversary Edition\)](https://open.spotify.com/album/0NZrJM8gL8xBCsPR7nZGqR) | 2:55 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AnYEthXLyU.md) - [plain]
 | 55 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
 | 56 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 |
 
-Snapshot ID: `MCwzMjg1ZGYxZjhiZmZlNTVjMzNlZGZjOWQ2MDI2MzY4YzhhYTlhZDgx`
+Snapshot ID: `MCxkODU5MjQwMmI1YjVjZTFmMTNlNWIzN2Y1ZjkxNGZiNDU5ZTFiZDcz`

@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-242 songs - 15 hr 0 min
+243 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/track/6ZrEsTv8IYRg0U0hUoo2j1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Footsteps in the Dark Pts\. 1 & 2](https://open.spotify.com/album/5y5h9Vcm1JejVUJsmxoJld) | 5:17 | 2021-12-03 |  |
 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-20 |
 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 | 2023-04-07 |  |
-| [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 |  |
+| [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-05-07 |
 | [Forgive Them \- Live](https://open.spotify.com/track/52sbd2ZlFF3PLm0wO3EFL6) | [Good Compenny](https://open.spotify.com/artist/4FKlCbh9ZcLpAstEEVsUR1), [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Forgive Them \(Live\)](https://open.spotify.com/album/01HrHhWzdHjnhHzX57HUTa) | 4:03 | 2023-02-03 |  |
 | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Forgot Your Name \(feat\. Cory Henry\)](https://open.spotify.com/album/0mVuw95yTugX4QNeCK5CaL) | 3:38 | 2023-05-05 |  |
 | [Fragile](https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Fragile](https://open.spotify.com/album/05D1HS6QdWPPZCuIDGeRhO) | 4:02 | 2021-12-03 | 2022-07-20 |
@@ -137,6 +137,7 @@
 | [Love Bomb](https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:01 | 2023-04-28 |  |
 | [Love Comes Easy](https://open.spotify.com/track/4hj7jCslc9kgnOhl9fqOsN) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:12 | 2022-08-26 | 2023-04-30 |
 | [Love Is A Losing Game \- Live at Stebbing Studio](https://open.spotify.com/track/36m5Fi9MUE98AtYnOjsYJp) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Love Is A Losing Game \(Live at Stebbing Studio\)](https://open.spotify.com/album/2jN0f3GV5cy6FONlqFkv6O) | 3:18 | 2022-10-28 | 2023-05-06 |
+| [Love Is The Way](https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0) | 2:59 | 2022-10-21 |  |
 | [Love Is The Way](https://open.spotify.com/track/4Z0aGS1P0KxyPlBpqHpJ0F) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Love Is The Way](https://open.spotify.com/album/1WiszSvpOFgvxk1d0pCFMw) | 2:59 | 2022-10-21 | 2023-04-30 |
 | [Love, Love, Love](https://open.spotify.com/track/3Tc6dHggtSaZqlKRhzkeub) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Never My Love: The Anthology](https://open.spotify.com/album/4kINvyMdIqyuXAtpoCKGIO) | 3:24 | 2021-12-03 | 2022-09-24 |
 | [Lying To You](https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:58 | 2023-04-28 |  |

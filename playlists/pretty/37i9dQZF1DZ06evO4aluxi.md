@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 
 > This is Amy Grant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,480 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,494 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4aluxi.md) - [plain]
 | 50 | [Ask Me](https://open.spotify.com/track/5rLGbtNvUB8nqyUNTRC5n9) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:53 |
 | 51 | [Don't Try So Hard](https://open.spotify.com/track/5fZ2P0ja4w82migsuL7QGq) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [How Mercy Looks From Here](https://open.spotify.com/album/0mApGvnrHT9FJE9fbUkcoR) | 3:44 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAwOTc1YWQzNjVkZDk5NDgyZGUyN2YyMzU4OWVhODgxOA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5ZTNmNDFhMTVhYzY3OWM0NThiYzZmNmY5ZGQzYWE4Yw==`

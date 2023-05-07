@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,346 likes - 65 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,403 likes - 65 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 22 | [I Just Want to Make Love to You \- 2016 Remaster](https://open.spotify.com/track/6dYZUX7ClBtpzUE7coynkt) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 4:20 |
 | 23 | [Cheats and Liars](https://open.spotify.com/track/7k0hyVgSg0woUwN1qAuuBf) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Shining in the Half Light](https://open.spotify.com/album/1qXhwQrfr59v0uk5wUOshO) | 3:48 |
 | 24 | [\(I Know\) I'm Losing You](https://open.spotify.com/track/7s7ylhLGL0sV6TU9bzpN5S) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:23 |
-| 25 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
-| 26 | [I Woke up This Morning](https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX) | 5:30 |
+| 25 | [I Woke up This Morning](https://open.spotify.com/track/20yxud4lZiqNzkreGyliiA) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Goin' Home!](https://open.spotify.com/album/22PaF4yYYiTjFpDgeN7zLX) | 5:30 |
+| 26 | [They Don't Make Them Like You Anymore](https://open.spotify.com/track/5bpefadeY6xmGgkXkylqSt) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Tattoo \(Remastered 2017\)](https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg) | 4:04 |
 | 27 | [Delta Lady](https://open.spotify.com/track/0gHjMu0zgdBA0GcaA6B6x0) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker!](https://open.spotify.com/album/3MoIn4co8ZN5vhLNekUqnc) | 2:50 |
 | 28 | [Tell Mama](https://open.spotify.com/track/53g0wWZkXPiQPjqVuZ5TFS) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Street Corner Talking](https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE) | 5:23 |
 | 29 | [Who Do You Love?](https://open.spotify.com/track/4v4zFRDRkXyGPTRyYur26i) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Diamonds In The Dirt](https://open.spotify.com/album/7qev8XrmWI1pqJBkXqLcVT) | 3:07 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 50 | [Thunder in the Sky](https://open.spotify.com/track/0RpaZgPXBD6PbjRaCofTjm) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Thunder in the Sky](https://open.spotify.com/album/0zgK9ZHyTBf2Lxpda6zuBb) | 6:36 |
 | 51 | [Don't Ask Me What I Say](https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Down the Road Apiece \- the Recordings 1963\-1966](https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT) | 3:01 |
 | 52 | [Won't Be Taken Down](https://open.spotify.com/track/5s5hWAZii6ahuLEyVXG2L9) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Eyes Wide Open](https://open.spotify.com/album/64VYTykrTBKltig6Li2JLF) | 5:57 |
-| 53 | [Eccentric Man \- 2003 Remastered Version](https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo) | 5:04 |
-| 54 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
-| 55 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 |
+| 53 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 |
+| 54 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 |
+| 55 | [Eccentric Man \- 2003 Remastered Version](https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5) | [The Groundhogs](https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak) | [Thank Christ for the Bomb \(50th Anniversary Edition\)](https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo) | 5:04 |
 | 56 | [It's Only Love](https://open.spotify.com/track/4N5FQb7LHkSP2tMHdv9rFQ) | [Blodwyn Pig](https://open.spotify.com/artist/0O9Mz12rueCsrgUqItvvnw) | [Pigthology](https://open.spotify.com/album/3niZZYiT58YjUbT4roGEli) | 3:22 |
 | 57 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
 | 58 | [Days Like This](https://open.spotify.com/track/3mMtsmooHmJo6Ciiwo6oPv) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [02:10 The Early Years](https://open.spotify.com/album/1PWmGi9UjaHpHi2p8TBQh9) | 8:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 | 65 | [I Don't Care](https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW) | 2:42 |
 
-Snapshot ID: `MCxkZTU5MmVlMDVkMGY5ZTdkOWUzZGRmZjIwZmFjOGNkMzhlYjkyZDRk`
+Snapshot ID: `MCw4NDA4ZTE2ZmJmMGQ3MWI0NjcxNjQzNTc5MWY5MWIwNWQ1MjFkMTA2`

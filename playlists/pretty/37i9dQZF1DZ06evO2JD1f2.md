@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,234 likes - 51 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,249 likes - 51 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 50 | [Rose Gold \(feat\. EST Gee\)](https://open.spotify.com/track/2SY4ib4Llku3au3gsGPPEW) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:05 |
 | 51 | [Trust Nun \(feat\. EST Gee\)](https://open.spotify.com/track/0D77ULkdHxpfbu0NsDLeRL) | [Lil Jairmy](https://open.spotify.com/artist/2MqvNhgPzUzBXERkh00GDY), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Gas God](https://open.spotify.com/album/2Bz7FAQGKk464rBl9oxaVj) | 2:22 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAzNWQxY2JkOGZiNmU1ZDM3YWU0NmY2MzQ4ZDhhMzlhMQ==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBiOTZiN2NiOTRkZDJmYjRhY2IyMDMxMzMyY2E3NjA4Ng==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, DaBaby, and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,541 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,642 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 33 | [Player](https://open.spotify.com/track/0RDtx51MoVVvzDmiuH1EFl) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Arrogance Is Ignorance \(One Shot Kill\)](https://open.spotify.com/album/7dI1TdNhvlEsiK7uYXA0dE) | 2:33 |
 | 34 | [I Just Might](https://open.spotify.com/track/3d9GqUC0nRSColbokU32S6) | [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [I Just Might](https://open.spotify.com/album/1snWTFJwRCsxaNibtOpySC) | 2:02 |
 | 35 | [Hello](https://open.spotify.com/track/7iL4ZEt5ReMuK61ADBznCw) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Hello](https://open.spotify.com/album/3JPeEBVhCMWmGDHIr9jdjp) | 2:25 |
-| 36 | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/track/7sOORu0eZou6prNUECypLp) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/album/72W1OcKjU2GOSkzrl6qfLX) | 1:52 |
+| 36 | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/track/7sOORu0eZou6prNUECypLp) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/album/72W1OcKjU2GOSkzrl6qfLX) | 1:54 |
 | 37 | [SUMMER HUNGER](https://open.spotify.com/track/3WZQU5LCaypC2JBYgz99o8) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn) | [ME YOU & GOD](https://open.spotify.com/album/2dz401rHd6flMgD42tPSk4) | 3:11 |
 | 38 | [Roses](https://open.spotify.com/track/5ipptFL6m6dKYA1OrVA7rL) | [Katori Walker](https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT) | [Roses](https://open.spotify.com/album/6S2IDBMVq7CfAozkN9zio5) | 2:08 |
 | 39 | [Let The Sample Work](https://open.spotify.com/track/385wQo6gChfl9xP0umt2qu) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [Let The Sample Work](https://open.spotify.com/album/4PwgJiNQDvSubRoDF1o9x5) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Been Here Before](https://open.spotify.com/track/3oSh9cXjrOqKcGXDpWCndn) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Been Here Before](https://open.spotify.com/album/7eXL8w60EH5cpkW4LpqjAM) | 3:52 |
 | 50 | [For a Long Time](https://open.spotify.com/track/4ptNuOJcx7V7FNTxkXCxNz) | [Star Pitchee](https://open.spotify.com/artist/77bGnvwtUdvzBMyo2kqutl), [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [For a Long Time](https://open.spotify.com/album/5xmkG61QhE8AfNxCMrNidR) | 3:29 |
 
-Snapshot ID: `MCw2MmU4OTU1MzkzODdmZGM0MDE2MDY3NTY5OTEwNGYxYmMxZTlkZGU5`
+Snapshot ID: `MCw3MDFlOTg4ODY3OTc2MTgxZDU1NTUwNzc4ZTViNmJhN2I1MjY5OTU2`

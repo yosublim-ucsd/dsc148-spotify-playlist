@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 495092,
+  "num_followers": 495376,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODA3OGJhYzM3ZmM2NDU5NzI1MDcwMmU0YTU0MGE2MmE0ZWMyMzQx",
+  "snapshot_id": "MCxlZjhlNTQ0MjNjNDgxZjEzNzcyYzc3MzJhYmUyZTQyZDdkZjU2NzA0",
   "tracks": [
     {
       "added_at": "2021-01-15 06:25:35",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
-      },
-      "artists": [
-        {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
-        }
-      ],
-      "duration_ms": 237338,
-      "name": "Rescue Story",
-      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "The Father's House",
         "url": "https://open.spotify.com/album/7sEawI0wnDKeXS1cdiXr3M"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 253640,
       "name": "The Father's House - Studio",
       "url": "https://open.spotify.com/track/5GDtkgG9T1BDknHHyDtghv"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+      },
+      "artists": [
+        {
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+        }
+      ],
+      "duration_ms": 237338,
+      "name": "Rescue Story",
+      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -423,6 +423,22 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
         "name": "The Blessing (Live)",
         "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 514664,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "Glory & Wonder",
-        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Tremble - Live",
-      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 297640,
       "name": "Praise You In This Storm",
       "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "I Will Follow",
-        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Christ In Me",
-      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "Majestic (Live)",
         "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
@@ -927,22 +911,6 @@
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
-        "name": "spark. (Live)",
-        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 567093,
-      "name": "Breakthrough - Live",
-      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -963,6 +931,38 @@
       "duration_ms": 230360,
       "name": "Who You Are To Me (feat. Lady A)",
       "url": "https://open.spotify.com/track/1L4MQJhKyrw0XiF0n0C2hL"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "I Will Follow",
+        "url": "https://open.spotify.com/album/6bRMknojXPVfD1hCWUPB8V"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Christ In Me",
+      "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+        "name": "Champion (Studio Version)",
+        "url": "https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
         }
       ],
-      "duration_ms": 404040,
-      "name": "Lord Send Revival - Live",
-      "url": "https://open.spotify.com/track/2bwhBn3W0xFftyRu6mBdDZ"
+      "duration_ms": 237013,
+      "name": "Champion - Studio Version",
+      "url": "https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW"
     }
   ],
   "unique_name": "Songs of Glory",

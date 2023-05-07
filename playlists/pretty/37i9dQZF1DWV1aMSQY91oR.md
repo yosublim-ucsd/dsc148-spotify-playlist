@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,567 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,592 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 34 | [Not Impressed](https://open.spotify.com/track/0g1k77U2g2De9wLqEjDZhu) | [Dimi](https://open.spotify.com/artist/5XZBEzJ9W4UvHVJ5jFD4LY), [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Not Impressed](https://open.spotify.com/album/59XHV59lpE7f5VgEgh6NoO) | 2:00 |
 | 35 | [We Made It](https://open.spotify.com/track/492bm4nJ17Kys0oDJUTJbw) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY) | [We Made It](https://open.spotify.com/album/0rVBwXFJF1H1R80CU3mhnz) | 2:48 |
 | 36 | [Just Relax](https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Just Relax](https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc) | 2:32 |
-| 37 | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/track/7sOORu0eZou6prNUECypLp) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/album/72W1OcKjU2GOSkzrl6qfLX) | 1:52 |
+| 37 | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/track/7sOORu0eZou6prNUECypLp) | [Wisdom](https://open.spotify.com/artist/4eVWDEiBYuUJ7a0INRGFXW), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Master P \(feat\. Rich The Kid\)](https://open.spotify.com/album/72W1OcKjU2GOSkzrl6qfLX) | 1:54 |
 | 38 | [Purge](https://open.spotify.com/track/2ZxJIYns5dyXkvlnbKri3V) | [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [Purge](https://open.spotify.com/album/34MtF6eu3J8CkNsLh8qt93) | 2:46 |
 | 39 | [This Is My Life](https://open.spotify.com/track/5AExfBcYSU810I5oPQzI8l) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns) | [This Is My Life](https://open.spotify.com/album/4JfDmnV954YZm4HaBQX7Ry) | 4:12 |
 | 40 | [Outside](https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 3:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [10 Toes \(Deluxe\)](https://open.spotify.com/track/4zKUQ5tOAOfdAzkvg3zHw4) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Buda & Grandz](https://open.spotify.com/artist/31LbQp39nE6K73prF65Rj3), [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Book of David \(Deluxe\)](https://open.spotify.com/album/3aNQkHJ91AryDozr0STcqO) | 4:32 |
 | 48 | [No Pressure \(feat\. Fivio Foreign & Rah Swish\)](https://open.spotify.com/track/7s0L5WRejHWYBE03EMDQyn) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Splash Brothers](https://open.spotify.com/album/6z7bXzVtYKDzHNeKILSyi8) | 3:06 |
 | 49 | [Striker Music](https://open.spotify.com/track/19opOryJskLabSLp0WLAei) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 3:05 |
-| 50 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
+| 50 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
 
-Snapshot ID: `MCxmZGYwNDJjZGVhYWJlYmViMjFkNDAwZmQyMjBiMDhhYzgwOTI5NTNi`
+Snapshot ID: `MCw0YzBkNjVjODQ1ZGUzYWUyNjQxMDAwNWNlZWM3N2ViZDQzNTQxMTRm`

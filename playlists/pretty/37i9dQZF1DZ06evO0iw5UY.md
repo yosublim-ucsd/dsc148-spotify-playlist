@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,922 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,926 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0iw5UY.md) - [plain]
 | 49 | [In The Water](https://open.spotify.com/track/4CoS0uVLrNQAjCJ586HHev) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:02 |
 | 50 | [Can't Control Myself](https://open.spotify.com/track/16tUjfbOz2vzcOC9KlMMfz) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 3:39 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkM2M3NGEyYWQ3ZjU2MjMzZjAzOTMzYTk2NjgzODExZA==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBhZTE4ZmE0MDdmNWE2N2JmNDMxYzRlY2U0ZDJjYmRlNQ==`

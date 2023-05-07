@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Matuê e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,554,372 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,556,980 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Love Absurdo](https://open.spotify.com/track/7aZnuwpivaj4N7XFhhqBiO) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Love Absurdo](https://open.spotify.com/album/2hHVL6MV4j9ikLC4VDygCS) | 3:04 |
 | 50 | [Altas Loucurinhas \(Uni Duni Tê\) \- Ao Vivo](https://open.spotify.com/track/2kBbHpJTc7MWs8F3XhClBD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [MF No Rio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2P8zuC56lsghvc5KHP4rfQ) | 3:22 |
 
-Snapshot ID: `MCw3M2JhMzgxOTc1YWFiMzNkNmUxNDAyYjYzMjE1OTUyZmI2YTZjOTVj`
+Snapshot ID: `MCw1OWU2Y2NjMTJhMTY2ZmFjOTVlZDc0NGZjNzIyZmIyNTZkY2JmYzBm`

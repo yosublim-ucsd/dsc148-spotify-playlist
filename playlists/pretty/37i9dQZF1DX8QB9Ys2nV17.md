@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,733 likes - 55 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,742 likes - 55 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 17 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 |
 | 18 | [Back To The River](https://open.spotify.com/track/2DMnCy43xnMVX2eglYtn6R) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Back To The River](https://open.spotify.com/album/2VRGI6aGaoCALCJyk0dGdc) | 3:55 |
 | 19 | [She's A Self Made Man](https://open.spotify.com/track/688EzbJ3fiB8zKwArQdZkK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 3:01 |
-| 20 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 |
+| 20 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
 | 21 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 22 | [Ain't Too Worried Yet](https://open.spotify.com/track/0jf5lyDBbgIU7kt5ULc1ZF) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Ain't Too Worried Yet](https://open.spotify.com/album/3ifmjG8tSe2MtZzFpmUKg4) | 3:32 |
 | 23 | [Love on the Rocks](https://open.spotify.com/track/6paMAWG7CCn967OkrIILty) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q) | 3:42 |
 | 24 | [Falling](https://open.spotify.com/track/30h268bCKmGWxFleXGYATy) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Juice Me Up](https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha) | 5:03 |
 | 25 | [Woman Like Me](https://open.spotify.com/track/4apFuI4ptvZBNkPwGr7gpd) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Woman Like Me](https://open.spotify.com/album/2P2PYpBvfCJZO63d24m4Fa) | 4:04 |
 | 26 | [Party at Red's](https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp) | [Fiona Boyes](https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE) | [Voodoo in the Shadows](https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK) | 4:15 |
-| 27 | [Clotilda's On Fire](https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:26 |
+| 27 | [Money Makes You Ugly](https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:36 |
 | 28 | [Ghost](https://open.spotify.com/track/19isNY7Hvhg0Mw7skGLHqT) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 4:03 |
 | 29 | [Fish Outta Water](https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y) | [Karen Lovely](https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5) | [Fish Outta Water](https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg) | 3:50 |
 | 30 | [Fly Away](https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:30 |
@@ -49,19 +49,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 39 | [Leave Me Alone](https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d) | [Eden Brent](https://open.spotify.com/artist/3yRjVn43SpJMjXqt4U2USx) | [Ain't Got No Troubles](https://open.spotify.com/album/6JEnQsmFamUPoYEWn3HW8x) | 3:52 |
 | 40 | [Tricky Thing](https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka) | [Jessy Martens and Band](https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt) | [Tricky Thing](https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz) | 4:31 |
 | 41 | [Handle Me with Care](https://open.spotify.com/track/1aZnAMv9eYxijTOe2sCF4s) | [Jade Macrae](https://open.spotify.com/artist/3m6tQTaPCGclNhgcC0wgOd) | [Handle Me with Care](https://open.spotify.com/album/3JYupWAKHDibbdw4UwWL2x) | 7:15 |
-| 42 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
-| 43 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 |
+| 42 | [Unintended Consequence Of Love](https://open.spotify.com/track/0DSob5ze3sstCI5FFpCRwj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:49 |
+| 43 | [No Riders](https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh) | [Shannon Curfman](https://open.spotify.com/artist/2sn2g4lNGlsAoJm15MOM7x) | [Loud Guitars, Big Suspicions](https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp) | 3:29 |
 | 44 | [Nowhere Left to Go](https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER) | [Layla Zoe](https://open.spotify.com/artist/1vbOVLkD5jGOkMKyYBqzwU) | [Nowhere Left to Go](https://open.spotify.com/album/7mgwnnkUtNugVDwFd2fWsd) | 3:47 |
 | 45 | [Release and Be Free](https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7) | [Kelley Hunt](https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv) | [The Beautiful Bones](https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38) | 4:24 |
-| 46 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
-| 47 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
+| 46 | [Ain't Gonna Hush](https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw) | [Saffire\-The Uppity Blues Women](https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E) | [Ain't Gonna Hush!](https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4) | 2:18 |
+| 47 | [Now You Want Me Back](https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt) | [Ina Forsman](https://open.spotify.com/artist/6YVaWx92qxstwulKJXqN2b) | [Ina Forsman](https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y) | 4:09 |
 | 48 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 |
 | 49 | [It Hurts Me Too](https://open.spotify.com/track/7EFUJYLscAMh62ZkSUhZyc) | [Erja Lyytinen](https://open.spotify.com/artist/73i095FtGSlyCoudRYl6MD) | [The Sky Is Crying](https://open.spotify.com/album/3mQMXVI0HCbJ6yamBHpcBU) | 5:06 |
-| 50 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
-| 51 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
+| 50 | [Open Eyes](https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95) | [Carolyn Wonderland](https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n) | [Moon Goes Missing](https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh) | 5:21 |
+| 51 | [Love's Truly Blind](https://open.spotify.com/track/6Sm45PLFiplvxlQuLnMUMC) | [Anni Piper](https://open.spotify.com/artist/3piOtc3OX0x7Z4rtdDuNBo) | [Texas Hold 'Em](https://open.spotify.com/album/2fUmLqaNyVUIRuIqUFFHui) | 3:27 |
 | 52 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 53 | [Cry for Me](https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv) | [TORA](https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg) | [Girls](https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA) | 3:00 |
 | 54 | [If Trouble Was Money](https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv) | [Sena Ehrhardt](https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg) | [Live My Life](https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp) | 5:49 |
-| 55 | [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 |
+| 55 | [Life Of The Party](https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4) | 3:51 |
 
-Snapshot ID: `MCw4MjAxODg0N2M5ZTk1N2I1NzNjNGE2MWZlMzAzMmFmZTI5MDBkMjJl`
+Snapshot ID: `MCwxNDE1ZjYyZGFkNjdiNTM3MzVkYWQ1MWM4ODAzOTc5ODk0Njg5ZGNk`

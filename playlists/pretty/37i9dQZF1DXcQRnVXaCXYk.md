@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,251 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,258 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 20 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 |
 | 21 | [parachute](https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [love + everything else](https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7) | 2:36 |
 | 22 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 |
-| 23 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
-| 24 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
+| 23 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 |
+| 24 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 |
 | 25 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 |
 | 26 | [Echo](https://open.spotify.com/track/1Gy9Ofi7nPnNf3kGWPjurm) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Echo](https://open.spotify.com/album/1uKVTPgvFZAUZ4Tb4j1P9F) | 3:17 |
 | 27 | [September](https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [September](https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc) | 3:40 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 33 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
 | 34 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 35 | [The Walls Are Way Too Thin](https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:41 |
-| 36 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
-| 37 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
+| 36 | [Little Did I Know](https://open.spotify.com/track/4hkSiyO1zy1scfc4HWMGR4) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/59Zhv6U3Zge8ZFdBvkSpcI) | 3:16 |
+| 37 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
 | 38 | [Liar Liar](https://open.spotify.com/track/7c0tqRk43Y0QXTOYZ5lnkA) | [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [Where I Belong](https://open.spotify.com/album/2drxntzHlsigavFiTWYRvF) | 3:33 |
 | 39 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
 | 40 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 69 | [Beach \- Acoustic](https://open.spotify.com/track/5omA7G0GjJB25avB53akJi) | [Veronica Fusaro](https://open.spotify.com/artist/2Nu9BiGXLIAbTs0mrbsmRW) | [Beach \(Acoustic\)](https://open.spotify.com/album/4lLeaaWEwl7C3Ykjltf8do) | 3:21 |
 | 70 | [If I Don't Love Me](https://open.spotify.com/track/5SXJLqDXUBoWca08NFyVOd) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [If I Don't Love Me](https://open.spotify.com/album/2EJdwuhF2RGZ19TRL4amWt) | 2:57 |
 
-Snapshot ID: `MCw1ZDU2MTNlNzAzNDgxZjRiYWI1NzIxM2E2ZWEwZWMwMDE2ZTk0NzVk`
+Snapshot ID: `MCwyMDk5ZGFlMzM0YzczMzY0MzFkYTU2Y2FiY2U2MDE3Y2M1ZjZhYzc4`

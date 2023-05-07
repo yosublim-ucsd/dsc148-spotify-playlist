@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,063 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,087 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 49 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 |
 | 50 | [Work That](https://open.spotify.com/track/4k0Gpz3QD12vVV6XJF7uOy) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Work That](https://open.spotify.com/album/3wi2k5B4qfXu3EwmTsggjD) | 3:04 |
 | 51 | [Po\-Dunk](https://open.spotify.com/track/4IYnTLWG9mP1MNeFNjZm7T) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Po\-Dunk](https://open.spotify.com/album/3vNP6j3Vc3hg8ftOsbi4gR) | 4:31 |
-| 52 | [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 |
-| 53 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 |
+| 52 | [STICKS](https://open.spotify.com/track/1cuYOdYKx2tWkOdLzqnboR) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [STICKS](https://open.spotify.com/album/08aU8OfWq8Qq3rXQc7NH2S) | 2:37 |
+| 53 | [Trucks Gone Wild](https://open.spotify.com/track/4WjK6vIgUD4vz7MaYOUQNu) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Trucks Gone Wild](https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN) | 1:41 |
 | 54 | [Southern](https://open.spotify.com/track/60TduAd1s7rhsqmzXQxk9m) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Southern](https://open.spotify.com/album/0MyKGDeK3cGq2J2fkSMfhd) | 3:03 |
 | 55 | [The Dream](https://open.spotify.com/track/5TKsfF1CEzUOWe4GDhKKKh) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [The Dream](https://open.spotify.com/album/12sCOUpKUUFF9XS31GKRLN) | 3:12 |
 | 56 | [Country Slide](https://open.spotify.com/track/2WbgJl4hnuimyrJHYEOCz4) | [Chris Hosier](https://open.spotify.com/artist/1ZyPVE0wXLVuEGEYpoFx22) | [Was it Worth the Wait](https://open.spotify.com/album/058BIgTkc6mY12RGU1ylfm) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 74 | [Redneck Rich](https://open.spotify.com/track/24LpH8iRf7m5yHLc2QRnbi) | [Cody Parks and The Dirty South](https://open.spotify.com/artist/0jItMOxRNh3sya33eTx4Nk) | [Redneck Rich](https://open.spotify.com/album/2HPDTl7R8lbS0ixXjq8d0Q) | 4:42 |
 | 75 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
 
-Snapshot ID: `MCxjOTUyMzA2NDZiOGUwNzc3OTQ5M2FjYTlkNGU4MDBkYWJmN2MyOGE3`
+Snapshot ID: `MCw0OTA4YjhiYTNjMjkxNTY3YmQ4Y2Q1NDVjNWUxNDFhYzZhMWFmMzRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,469 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,485 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 50 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
 | 51 | [Borrachos Por Amor](https://open.spotify.com/track/756car8F1QRXlZBmafNRcV) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:22 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBiNWYwYmFkYWJlM2YwNjM4ZTlhNzI3YzVmYzcyYmM0NA==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAyMDBkMGY3ZDFhYzUyYjFhMTYzNGNhYTQzZjg5NTQyOQ==`

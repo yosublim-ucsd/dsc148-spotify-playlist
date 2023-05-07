@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ"> Suté Iwar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,701 likes - 90 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,710 likes - 90 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 26 | [Amnesia](https://open.spotify.com/track/0Ij4NWQPKRTAF6ezfTrG7V) | [Rie Osei](https://open.spotify.com/artist/3zRrAdtO9kUqV0prpNjFsv), [Demmi](https://open.spotify.com/artist/2lF5l1MCyqNj4WyBE4Jopk) | [Amnesia](https://open.spotify.com/album/3ScsH4JeLZYZiUh5uaTu8P) | 2:26 |
 | 27 | [Damaged](https://open.spotify.com/track/54wYnj7FIU0JFIhy0gYZSH) | [Whoisakin](https://open.spotify.com/artist/6ZbeHoJ4RZnyjkHfIWS6Wp) | [Damaged](https://open.spotify.com/album/3c91kFCZ0kjdcnofzgqxj2) | 2:30 |
 | 28 | [Dunia](https://open.spotify.com/track/7ojNfKBmSyIAEIwZWPltL2) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Dunia](https://open.spotify.com/album/1hXshFVVMUj9ezwxRqwYSH) | 2:45 |
-| 29 | [Reset](https://open.spotify.com/track/0Q6jkBbLRzXz4KbsV5UNR3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/73hyqkKdESZxZTmlJ8Per4) | 3:08 |
+| 29 | [Reset](https://open.spotify.com/track/1jTwBWxpS7qBJCRLjBbzQb) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/1TTBkJTbLUBKE8JgKf1Weh) | 3:08 |
 | 30 | [Woman](https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [Woman](https://open.spotify.com/album/4Vdh0ZV9tCh1YKJcy7lnfA) | 2:00 |
 | 31 | [No Room For Love](https://open.spotify.com/track/3UsjXOmKtQhUs9yD9cd05F) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Bitter Sweet](https://open.spotify.com/album/7J6cbhhY4seRJ9d9VUzjnY) | 3:09 |
 | 32 | [Goodbye](https://open.spotify.com/track/67Lq2E12sEv8CpOLFLbvyk) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Stevie.O](https://open.spotify.com/artist/4CBt8ZrIn2bF1347zaA8eG), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Goodbye](https://open.spotify.com/album/5iUK8nyKLjAs2peYQpQfOJ) | 3:03 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Cotton Candy \(Sweet Like\)](https://open.spotify.com/track/04GSGC4vUiRn6cDbsfTBwM) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Cotton Candy \(Sweet Like\)](https://open.spotify.com/album/381HEXGT1tAB97V4cxP0lH) | 2:42 |
 | 90 | [SUMMER 22 \(NOSTALGIA\)](https://open.spotify.com/track/0yzBlyGk6EnQiasWgiQsBK) | [Delé](https://open.spotify.com/artist/1IwJ0937JaQRSOgfkvP2DR) | [SUMMER 22 \(NOSTALGIA\)](https://open.spotify.com/album/15vQ0sZRIzq8S5ZLplzMMk) | 2:21 |
 
-Snapshot ID: `MCxmOTE5NTZiMmI3MDE0ODJlMTljZGRkZTVhNWJhYjIzMzc0MWExZDFl`
+Snapshot ID: `MCxkNWVjN2MzNmY4ODJkZWRlZmFmOWVhNWZiNzcxYWNlMDJhOWM4OGY3`

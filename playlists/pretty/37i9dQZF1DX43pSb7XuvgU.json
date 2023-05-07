@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 103189,
+  "num_followers": 103318,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY1ZTBhYjJiOTVjOTNhMjU1ZjVmYWNmYjYxZTIyODZlZjkwMDYx",
+  "snapshot_id": "MCw4YzA5ZjUwZjUzMWE5YmU4MzBiOGY5NGFiYTcwYzFkMjM0NmZjOWU5",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -827,6 +827,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Siempre Contigo",
+        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "\u00bfY Qui\u00e9n Puede Ser?",
+      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 214053,
       "name": "Yo Te Recuerdo - Version Salsa",
       "url": "https://open.spotify.com/track/5Di8dpmfkDRp8waYbXbohB"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Siempre Contigo",
-        "url": "https://open.spotify.com/album/2zujm7JfVsJPEzgpVHD3Tr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "\u00bfY Qui\u00e9n Puede Ser?",
-      "url": "https://open.spotify.com/track/49eIAccdfjzsKjo7WPuAFJ"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
-        "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 243093,
       "name": "S\u00f3lo S\u00e9 Que Fue en Marzo",
       "url": "https://open.spotify.com/track/4ZbRPcxdIfX7tBuIelyqnj"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga",
+        "url": "https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
         "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 241026,
       "name": "40 y 20 (with Mar\u00eda Jos\u00e9)",
       "url": "https://open.spotify.com/track/7IuRARlFBMeonrCgQ7lKym"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
-        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Ma\u00f1ana Te Acordaras",
-      "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 209186,
       "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitl\u00e1n)",
+        "url": "https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 235906,
+      "name": "Ma\u00f1ana Te Acordaras",
+      "url": "https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP"
     },
     {
       "added_at": "2021-12-29 23:33:57",

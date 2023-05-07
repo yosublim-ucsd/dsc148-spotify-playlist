@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,087 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,094 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 49 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 |
 | 50 | [Sin Ti](https://open.spotify.com/track/12hFgenMwaFHoK2ZqiRh9q) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 0:56 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlYTllMzliOWYxZGM4YjkwNTk4Yjk0ZGFjYjZmMDNhMw==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAyNTQ5OWM2YmI0NDdjZDNmYWFjYTRjZmZlZTc5MTFmZg==`

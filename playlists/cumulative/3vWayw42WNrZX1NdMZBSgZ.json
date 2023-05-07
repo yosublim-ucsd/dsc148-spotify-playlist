@@ -7621,6 +7621,24 @@
     },
     {
       "album": {
+        "name": "Perse",
+        "url": "https://open.spotify.com/album/5kaNsWZ3CKddDlcKsmYRUd"
+      },
+      "artists": [
+        {
+          "name": "Lemuell",
+          "url": "https://open.spotify.com/artist/1K24hVea1ECJAvdH8fuqSB"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Perse",
+      "url": "https://open.spotify.com/track/7gJ2XAEHgwyjneDCy6z38c"
+    },
+    {
+      "album": {
         "name": "Pesadilla",
         "url": "https://open.spotify.com/album/3b2z5O7s1vxHaaTsn1J1Cz"
       },

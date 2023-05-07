@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,713 likes - 37 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,730 likes - 37 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 25 | [GETOUTOFMYHEAD](https://open.spotify.com/track/1bieVCWBwjaV8v5YPw6dOt) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK) | 6:16 |
 | 26 | [Formato Funky](https://open.spotify.com/track/3p5C0TxIxY9nlu4FpwpUfR) | [Omaar](https://open.spotify.com/artist/6HYCLQ4rq3A3VSXBWIMUsW), [Cid Rim](https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s) | [Formato Funky](https://open.spotify.com/album/3pt8O6EDg4ylQEWSC9XWyy) | 5:05 |
 | 27 | [Radioactive](https://open.spotify.com/track/79vX1IZRXami6H0rIkED9T) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Radioactive](https://open.spotify.com/album/047ykT34pfdijw5HeU02cy) | 3:04 |
-| 28 | [\(Work\) No Hips Just Bounce](https://open.spotify.com/track/7qJxPgozjhuMpfgBYaebIe) | [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [MC Vertt](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [President Obandman](https://open.spotify.com/album/6sUHgMQJY6V4kplrYW8NAD) | 2:08 |
+| 28 | [\(Work\) No Hips Just Bounce](https://open.spotify.com/track/7qJxPgozjhuMpfgBYaebIe) | [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [MCVERTT](https://open.spotify.com/artist/5vqMF43W0Sex6zjJJKv7LC) | [President Obandman](https://open.spotify.com/album/6sUHgMQJY6V4kplrYW8NAD) | 2:08 |
 | 29 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 |
 | 30 | [Hardcore \(feat\. Don Toliver\)](https://open.spotify.com/track/7KGxiUpYciBYO4QyG7qq28) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hardcore \(feat\. Don Toliver\)](https://open.spotify.com/album/1gUVSsB2dwpwehdh3HmJVY) | 3:38 |
 | 31 | [Pretty Girl](https://open.spotify.com/track/6wlXFcZnPu5jBHTg67cO9i) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda Vol\. 3](https://open.spotify.com/album/4BbClEFUGxAdwWViJdMDS2) | 2:15 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 36 | [MORTICIA](https://open.spotify.com/track/6v9GnjzU2go5X3Wp12a5mc) | [Amal](https://open.spotify.com/artist/1Ep2wFh7xhFG1qhAa5AyJ8), [Vrando](https://open.spotify.com/artist/4g4Mp5qFF9SjAFSrQ2vl6f), [Samiy](https://open.spotify.com/artist/45IDu7mU0jIVoqnXPHp4iE) | [MORTICIA](https://open.spotify.com/album/4fDViNkqEkDQWi1qVJcIUj) | 2:27 |
 | 37 | [MY DJ](https://open.spotify.com/track/6kkmaDffKF5ZiIyl3CPhbJ) | [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn), [WhySoSerious](https://open.spotify.com/artist/1MSh4iqHmVl5OoNR1Pl8VB) | [MY DJ](https://open.spotify.com/album/425EzEFYJChMQqBqaPfNaA) | 2:14 |
 
-Snapshot ID: `MCw4ZTA1Njk4NDNlZDc4ZTU1MmQ5ZWM4YTQzMWJmODM2OTM5MjM0Yjlk`
+Snapshot ID: `MCwxMjBjZmVlMzYzYTA3MTdhNWU4ODNlNzNlN2FiNmJjZWUwNTQ0ZTFl`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5338623,
+  "num_followers": 5337817,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzFiOWMyNTc3MmY2M2IwOGJhYWM0NzBiZGZiZTI3YzdhYTZhYzc0",
+  "snapshot_id": "MCxlNTkzN2Y2M2FmNTJjMzcwMjk4YWFlNjZmNjlmMzY5NzlkYThkMjFk",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 165666,
+      "name": "Do You Hear What I Hear? - Remastered 2006",
+      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
         "name": "When Christmas Comes Around...",
         "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Do You Hear What I Hear? - Remastered 2006",
-      "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Cozy Little Christmas",
-        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Cozy Little Christmas",
-      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "The Lighthouse Keeper",
         "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 247493,
       "name": "The Lighthouse Keeper",
       "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Cozy Little Christmas",
+        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Cozy Little Christmas",
+      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
     },
     {
       "added_at": "2022-12-22 09:55:37",

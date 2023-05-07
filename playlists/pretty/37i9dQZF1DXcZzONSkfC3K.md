@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 
 > Salsa que representa Puerto Rico\. Portada: El Gran Combo De Puerto Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,971 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,032 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 26 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 27 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
 | 28 | [Cómo Lo Hacen](https://open.spotify.com/track/6pZuVdTpc09YFGEqlu2Npc) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Show](https://open.spotify.com/album/5J4RvXfRjXXSsFEfyPhr0E) | 5:09 |
-| 29 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
-| 30 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
+| 29 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
+| 30 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 31 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
 | 32 | [Aparentemente \- En Vivo](https://open.spotify.com/track/07gAN8AX9sxHolRg9MtFqW) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 7:29 |
 | 33 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZzONSkfC3K.md) - [plain]
 | 49 | [Salsa Pa' Olvidar las Penas \(feat\. Gilberto Santa Rosa\)](https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [25/7](https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG) | 4:58 |
 | 50 | [Casi Te Envidio](https://open.spotify.com/track/14ZtWHRc05sX1qy4dL89ID) | [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Serie Millennium](https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C) | 5:20 |
 
-Snapshot ID: `MCxiNjJkNzNlNmMxOTk2Zjk0N2UwOTViN2MwNTljNmJjMGRkMjIwNWRk`
+Snapshot ID: `MCxlZjhmNzI2YzgzYzllOWNmYzUyMGE5OWE2M2Y5OTM1MTZjZmRkOGQ0`

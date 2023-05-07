@@ -1,12 +1,12 @@
 {
   "description": "our favorite emo cowgirl Megan Moroney is taking over to celebrate her new album \"Lucky\" \ud83e\udd72",
-  "num_followers": 85466,
+  "num_followers": 85821,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI2YWMzMDc5ZTk5NWMzYTAxMzJjNjkyYTJjMmI0NWJiNDNjNTY1",
+  "snapshot_id": "MCxmNmEwOTY3NTUxOTNiODJhMWE5MDE1NmY0MzQ4ZjVjNzE4NDgyYzdk",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -651,22 +651,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+        "name": "Traveller",
+        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+      "duration_ms": 236333,
+      "name": "Whiskey And You",
+      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -687,18 +683,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Traveller",
-        "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Whiskey And You",
-      "url": "https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a"
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,137 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,266 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 31 | [Fire To Fire](https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:25 |
 | 32 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
 | 33 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 |
-| 34 | [Silver Linings](https://open.spotify.com/track/6Ad5TdlevXBRsOsYhCbgb2) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 4:01 |
-| 35 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
-| 36 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
+| 34 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
+| 35 | [Silver Linings](https://open.spotify.com/track/6Ad5TdlevXBRsOsYhCbgb2) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Silver Linings](https://open.spotify.com/album/0JPGUlvwYA8enb1XhaUIbh) | 4:01 |
+| 36 | [Inkeri](https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG) | [Oasis Sky](https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10) | 3:22 |
 | 37 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 |
 | 38 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 |
 | 39 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 43 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 |
 | 44 | [Good Disease](https://open.spotify.com/track/5pA39NQIP1nZgvFxV5Fi7S) | [Aim](https://open.spotify.com/artist/1ILwJ5zliBLMsRARQJjOMp), [Stephen Jones](https://open.spotify.com/artist/5fBNvRbs68IKW1ExBBX1wR) | [Hinterland](https://open.spotify.com/album/0oNNaNluLVDg34wMPuLdNS) | 4:23 |
 | 45 | [It's up to Me](https://open.spotify.com/track/0DKoGYBIfxb7PYz9FKu4fx) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Lee Pearson Jr\. Collective](https://open.spotify.com/artist/49E2C6RG0oMzrYzcBBsTsQ), [K LaDawn](https://open.spotify.com/artist/4mabyxDOpBHXvY2cBe0Bwm), [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5) | [Chaos in the CBD & Friends](https://open.spotify.com/album/52gDijfKDkvRQiqtSmWiq8) | 5:08 |
-| 46 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
-| 47 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
-| 48 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 |
+| 46 | [Hungboo \- DJ\-Kicks](https://open.spotify.com/track/2k9aBWJjIv3onRBIdg7oWm) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [DJ\-Kicks EP](https://open.spotify.com/album/746ZU4riC8a5f4aCrJ5IuE) | 4:35 |
+| 47 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
+| 48 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 49 | [Mustt Mustt \- Massive Attack Remix](https://open.spotify.com/track/0w6kuQOr4jP1w9Kon0Yv4j) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 4:27 |
 | 50 | [Obvs](https://open.spotify.com/track/7HTnBZgjsp1T9uF286kQ7o) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 3:51 |
 
-Snapshot ID: `MCxjMTMzNGYzZWEwMmQ0N2Y1NDU2NDhhZTM3MjFhZThkOWM1NmEwY2I4`
+Snapshot ID: `MCxhZjRlM2ZlZTM4NTdhNTc0YmEwM2Y2NWQzNDk4YWVkOTQxMjAzOGE0`

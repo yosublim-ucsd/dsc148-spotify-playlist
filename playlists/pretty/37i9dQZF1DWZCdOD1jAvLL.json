@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix",
-  "num_followers": 208483,
+  "num_followers": 208648,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmE4N2RkMTQ1Y2ExMjU5NWJmY2VmNWQxNTNlN2VlMWQyYmMyM2Yy",
+  "snapshot_id": "MCwyOGI5OGZkNDY4ODVkZTI1M2M4ZTc2M2NjZjlhNzcxNDEwMTlkZmUy",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 149110,
       "name": "Caught A Body (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
-      },
-      "artists": [
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -967,22 +967,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "All The Girls",
-        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1UqbzhcdKADqcrdOnjZYAj"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         },
         {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
         }
       ],
-      "duration_ms": 197254,
-      "name": "All The Girls",
-      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+      "duration_ms": 158181,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/2F9V0jtc7yvCRxmwCkfVuE"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "All The Girls",
+        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "All The Girls",
+      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/52LZqPQzZHwR0tLq76E1w4"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 204761,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/03GJQ4KeNYCyr2P7N45ajo"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/1UqbzhcdKADqcrdOnjZYAj"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Raga",
-          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/2F9V0jtc7yvCRxmwCkfVuE"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Pa Lante",
+        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ryan Arnold",
+          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        }
+      ],
+      "duration_ms": 130123,
+      "name": "Pa Lante",
+      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Metaphysical",
         "url": "https://open.spotify.com/album/7D5ZdfERUaNqQQmjAHW6CM"
       },
@@ -1175,30 +1199,6 @@
       "duration_ms": 206250,
       "name": "Bongoloco",
       "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Pa Lante",
-        "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ryan Arnold",
-          "url": "https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7"
-        },
-        {
-          "name": "El Chuape",
-          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
-        }
-      ],
-      "duration_ms": 130123,
-      "name": "Pa Lante",
-      "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
-      },
-      "artists": [
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Supersonic",
         "url": "https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 169658,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Don't Miss (The Bloody Beetroots Remix)",
-        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
-      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie"
       },
@@ -1547,6 +1527,26 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Don't Miss (The Bloody Beetroots Remix)",
+        "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        },
+        {
+          "name": "The Bloody Beetroots",
+          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Don\u2019t Miss - The Bloody Beetroots Remix",
+      "url": "https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Heritage",
         "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 153847,
       "name": "Hostile",
       "url": "https://open.spotify.com/track/6LUzj32ZNLC5Ogju5UfSEi"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Chi City",
-          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1599,6 +1579,26 @@
       "duration_ms": 215156,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Chi City",
+          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     }
   ],
   "unique_name": "Bangers",

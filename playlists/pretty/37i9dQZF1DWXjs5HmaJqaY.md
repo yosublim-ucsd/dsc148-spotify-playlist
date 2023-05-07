@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,742 likes - 70 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,862 likes - 70 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 66 | [Now Here No Where](https://open.spotify.com/track/6RghttTzB1OsbSEDuNfvSW) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [While Waiting For Something To Care About / Now Here No Where](https://open.spotify.com/album/0CNv7rjS4MtaFWrCUtgDaU) | 5:46 |
 | 67 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/1afHl4iHfqeQ5U0vnWYRCh) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [The House Of House](https://open.spotify.com/album/6wz1BxyLMqtnziouqFnFtp) | 7:35 |
 | 68 | [Sinner \- Edit](https://open.spotify.com/track/35t7T8LuKoCrjjAu0niN7M) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Sinner](https://open.spotify.com/album/4AG9M2nwdpNWi365BGaGu8) | 4:15 |
-| 69 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
+| 69 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/3EO0GTWEwgVx48VUtj8Wi6) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [90s Summer Hits](https://open.spotify.com/album/2pNtuDfYwYeAKCqT2Ft8gS) | 7:35 |
 | 70 | [2084](https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [2084](https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI) | 6:06 |
 
-Snapshot ID: `MCw5MzYyOTZmZmRmNzcwNjlhYzE0NzEyODcxMDNmYjdmOTk0Y2IxYjli`
+Snapshot ID: `MCw1MTk2MmQ4OTQ4ZDJkYzczNTU4MTUxYjU3NjVkNWIyYTNhYTYyMjg0`

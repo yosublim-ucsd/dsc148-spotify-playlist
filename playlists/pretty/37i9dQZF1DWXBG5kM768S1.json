@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 68261,
+  "num_followers": 68285,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2MwYmU1MDhjZTViYTk3NThiOTRhYjA0MTFmYmFlNDExZTAyMmJh",
+  "snapshot_id": "MCxiNTZiMDVjZDJmNzQ1NGNiNjRjMGMzYmVkMmUzN2Q1OWY5YTMxMDI4",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
+      },
+      "artists": [
+        {
+          "name": "Henning Kvitnes",
+          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
+        }
+      ],
+      "duration_ms": 253100,
+      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
+      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/7mdhA3SaJpAwxthbw2mksg"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 212378,
       "name": "Gressholmen",
       "url": "https://open.spotify.com/track/2wfnh9UNfZPrPKb3PWUOYl"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-        "url": "https://open.spotify.com/album/6pBw9UnwWxVJMw3HXjzLvU"
-      },
-      "artists": [
-        {
-          "name": "Henning Kvitnes",
-          "url": "https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6"
-        }
-      ],
-      "duration_ms": 253100,
-      "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
-      "url": "https://open.spotify.com/track/25dpPTPkyVqtdOqk5Vw7o9"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Har det no \u00e5 si",
+        "url": "https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Himmelbl\u00e5",
+      "url": "https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Imellom to Evigheter",
         "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Har det no \u00e5 si",
-        "url": "https://open.spotify.com/album/3E8We6cjXdqmDnvMTQMmwd"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Himmelbl\u00e5",
-      "url": "https://open.spotify.com/track/3Q6UOOYHFc4ahiGbYdru05"
     },
     {
       "added_at": "2023-04-13 22:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,139 likes - 100 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,214 likes - 100 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 33 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
 | 34 | [Hermosa Laura](https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu) | [Los Loud Jets](https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:42 |
 | 35 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 |
-| 36 | [La Pera Madura](https://open.spotify.com/track/4owGahTFwLeXEwcngODVC4) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:58 |
+| 36 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
 | 37 | [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 |
-| 38 | [Bule Bule](https://open.spotify.com/track/19Ol3nKQvIJJiKBTIOBzwi) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:22 |
+| 38 | [La Pera Madura](https://open.spotify.com/track/4owGahTFwLeXEwcngODVC4) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Los Éxitos de Manolo Muñoz](https://open.spotify.com/album/46tQkwTb6a16ZAyMEoZFeY) | 2:58 |
 | 39 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 |
 | 40 | [Al Final](https://open.spotify.com/track/0KxTwdcV3cdi7KKpkHCPqp) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 3:07 |
 | 41 | [Cuando Era un Jovencito](https://open.spotify.com/track/7B1VlOOC2K4UkWNJNXbG6w) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Amores Incomparables, Vol\. 3](https://open.spotify.com/album/0wl64awQOtkdtCQuZDcY4n) | 2:45 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 71 | [Adios A Jamaica \[Album Version\]](https://open.spotify.com/track/4k9kb8ykwYIlDX3Kvai0tX) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
 | 72 | [Vida](https://open.spotify.com/track/13OJJfM6e3Y3agHJYGUhSZ) | [Los Soñadores](https://open.spotify.com/artist/7eaFKZEoBol2LMdQAmzK8i) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:17 |
 | 73 | [Adan y Eva](https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Grandes Éxitos Vol.2](https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN) | 2:25 |
-| 74 | [La Carrera del Oso](https://open.spotify.com/track/3cVUGijv6ROFeNjsyK8VJY) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:03 |
-| 75 | [Chica Ye Ye](https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
+| 74 | [Chica Ye Ye](https://open.spotify.com/track/6v8pDrOktzNFTpyM2nMIG9) | [Queta Garay](https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:14 |
+| 75 | [La Carrera del Oso](https://open.spotify.com/track/3cVUGijv6ROFeNjsyK8VJY) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:03 |
 | 76 | [Yuyu Mata Juju Jen](https://open.spotify.com/track/7sOyMfAXmMCn78w2ne1DqF) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa) | 2:04 |
 | 77 | [Lanza a tus Penas al Viento](https://open.spotify.com/track/6pLn8A7mhFxegIwTSyNulg) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A) | 3:18 |
 | 78 | [Magia Blanca \(Devil Woman\)](https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:24 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 88 | [Matilda](https://open.spotify.com/track/3ALSAAcAgp6gmWPnvPPRqH) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:46 |
 | 89 | [Dile Adios](https://open.spotify.com/track/4ydLUh2eqGDDgxBU4qquQK) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J) | 2:17 |
 | 90 | [Señor Apache](https://open.spotify.com/track/0YF7BsotVDPT91Q1LpAWty) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 4:43 |
-| 91 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
-| 92 | [Corre Sanson Corre](https://open.spotify.com/track/66kD4Idn0Fva7IaavpoB5I) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Johnny Laboriel / Los Rebeldes Del Rock](https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:22 |
+| 91 | [Corre Sanson Corre](https://open.spotify.com/track/66kD4Idn0Fva7IaavpoB5I) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Johnny Laboriel / Los Rebeldes Del Rock](https://open.spotify.com/artist/1wzLx9DF6VtTfEo4sTotl9) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/6ojYnTtDA5HT5eBxDuPuaP) | 2:22 |
+| 92 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
 | 93 | [El Primer Beso](https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:42 |
 | 94 | [Lagrimas de Cristal](https://open.spotify.com/track/0i02Kc3QwlaLx6bTNaxrl6) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [20 Exitos Colleccion de Oro](https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A) | 2:49 |
 | 95 | [La Respuesta Está En El Viento](https://open.spotify.com/track/50NUNjnzD6sXh54NpMLujS) | [Vianey Valdez](https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 99 | [Las Cerezas](https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Los Grandes Éxitos del Rock & Roll \(En Español\), Vol\. 1](https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV) | 2:55 |
 | 100 | [Por Eso Estamos Como Estamos](https://open.spotify.com/track/3SmJd4t4lu5Dn0LCuIcuWw) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:30 |
 
-Snapshot ID: `MCw4MDAzNTJmMzFiMjcxYmMwNDkyN2ZkMWQ1M2ZmODA1M2UzNzlkOWEw`
+Snapshot ID: `MCw1M2ZkODBlY2VlMzg5Y2MyOWFjZTcwZjI0YmZjN2Q4MjhhZWM4Y2Uy`

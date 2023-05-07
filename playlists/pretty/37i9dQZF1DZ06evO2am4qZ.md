@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,108 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,115 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 50 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
 | 51 | [Look @ That \- Remix](https://open.spotify.com/track/6DsuRfvs19wzZ5Vp26mus1) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Lowkey Superstar \(Deluxe\)](https://open.spotify.com/album/3UGsdfFc2kZBLZhu3YbkF3) | 2:42 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBiMTAzYWIyMmNjMjE0OWE0OTM2YzdlZDg5ZDhiMThiMA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA2MDI4MjhjNzUxYTc3MjQwOTc3NmNiOWVhNDc0MDg3YQ==`

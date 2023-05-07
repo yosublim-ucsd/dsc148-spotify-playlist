@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > ¡Bienvenida Generación RADAR 2023! Los Aptos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,562 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,580 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 31 | [Mi Propuesta](https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Mi Propuesta](https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA) | 3:25 |
 | 32 | [Es Tan Bonita](https://open.spotify.com/track/05lyKjGs0wYxWvoxWnJQju) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Es Tan Bonita](https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY) | 2:39 |
 | 33 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 |
-| 34 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
-| 35 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
-| 36 | [Los Infieles](https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Los Infieles](https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI) | 3:03 |
+| 34 | [Pa Que Te Digo Que No](https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Raro](https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ) | 2:54 |
+| 35 | [Los Infieles](https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Los Infieles](https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI) | 3:03 |
+| 36 | [LMV](https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [Michelle BI](https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM) | [LMV](https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX) | 2:51 |
 | 37 | [Como Intento](https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Como Intento](https://open.spotify.com/album/1ZTJ3I8M7jANe5qBYCU5Ee) | 2:43 |
 | 38 | [Andando Entre la Lumbre](https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ) | [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [Andando Entre la Lumbre](https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J) | 3:03 |
 | 39 | [Fuerza De Voluntad](https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS) | [Fuerza De Voluntad](https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27) | 2:43 |
 | 40 | [Cambio De Canción](https://open.spotify.com/track/3R08fx84aFdqHlKTMWkEvi) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Tres Mundos](https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk) | 2:49 |
 | 41 | [Bonita](https://open.spotify.com/track/7khVfafgV6p2dnJYOXN1S7) | [Retoños Del Rio](https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF) | [Bonita](https://open.spotify.com/album/6R2qa9DVZYEgs7fRwWYgAx) | 3:02 |
-| 42 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
-| 43 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 |
+| 42 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 |
+| 43 | [¿Y que pensabas?](https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh) | [Franco Rey](https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3) | [ASÍ ME ENAMORÉ](https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA) | 2:44 |
 | 44 | [Viajemos al Espacio](https://open.spotify.com/track/60OumNmnrNqc218tPLRAs4) | [Ivan Orozco](https://open.spotify.com/artist/3WG2Qwav9SV56V57SFe92i) | [Viajemos al Espacio](https://open.spotify.com/album/0AvhavhOmQIp3L3LsTg3DL) | 4:19 |
-| 45 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
-| 46 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
+| 45 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
+| 46 | [San Mike](https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [San Mike](https://open.spotify.com/album/49o87APRm62j0t13TMOB4E) | 2:51 |
 | 47 | [Estos Días](https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Estos Días](https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh) | 3:24 |
 | 48 | [Ando al Ciego](https://open.spotify.com/track/0o905squ3VdFpVn5Zlq8hn) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y) | [Ando al Ciego](https://open.spotify.com/album/3oy9PTZQ1DXASStLGYrTK7) | 3:35 |
 | 49 | [Pa' Que Sepas](https://open.spotify.com/track/1zv4GLkzu9aC1LxANPVABR) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Pa' Que Sepas](https://open.spotify.com/album/2v1MC1AaDxXvSg0yU5DKg1) | 2:51 |
 | 50 | [Te Has Convertido](https://open.spotify.com/track/2n5nRP7fcX88f9kkrQJU46) | [Los K\-Bros](https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f) | [Te Has Convertido](https://open.spotify.com/album/7tcYacZtqg7FB1NX0gS1pq) | 3:25 |
 
-Snapshot ID: `MCxkYzlkNzE2ZmE0MTgzOTMyOGQ0YTU1MTZlMTRhMmYwZTZmMzdmMWY4`
+Snapshot ID: `MCxiNjViYzllOTBlNDhkNGEwYWM4ZTU4MzhiYzFiNmVlOTA3MzRiOGUw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Too $hort
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,660 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,953 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 50 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
 
-Snapshot ID: `MCwzYzI1YWM0YWIwM2YyNTU3Njk4MzY5NmM0OGIzYjRlODMwYzA3NWUy`
+Snapshot ID: `MCxkMjIzM2Y3MzNiMmM4NTY3ZWEyMjA1NWY0ZWQzYWFjYzI3NzNmNjNi`

@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Blue In Green",
+        "url": "https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK"
+      },
+      "artists": [
+        {
+          "name": "Lee Davis",
+          "url": "https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Blue In Green",
+      "url": "https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot"
+    },
+    {
+      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -6807,6 +6825,24 @@
     },
     {
       "album": {
+        "name": "Me And You",
+        "url": "https://open.spotify.com/album/6IxkLoGdCNVD2pKLI7F6Uq"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208060,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/0vfe8079vTAVIyluKYXQnt"
+    },
+    {
+      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
       },
@@ -8538,7 +8574,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 217313,
       "name": "Peace",
       "url": "https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl"
@@ -8970,7 +9006,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 229756,
       "name": "Remembering Benny",
       "url": "https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk"

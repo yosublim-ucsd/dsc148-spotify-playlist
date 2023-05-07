@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,905 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,917 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE) | [La Nueva \(feat\. Blessd, Nath & Natan & Shander\)](https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF) | 4:20 |
 | 60 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 
-Snapshot ID: `MCw1ZWEyMzY2ZTE0MmUwOTE3MTgwOWY4MDIwZDI0ZDVhY2Y5NWQ1Zjdi`
+Snapshot ID: `MCwzZmI1MjVhYmJiOTUxNmExYTM3MGI4Mzg1Yzg0NTI0NGYwYjc2MWIw`

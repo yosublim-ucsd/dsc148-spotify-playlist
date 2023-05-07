@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 1880,
+  "num_followers": 2000,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4",
+  "snapshot_id": "MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl",
   "tracks": [
     {
       "added_at": "2023-02-10 16:12:28",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "'Til You Can\u2019t / Longer Than She Did",
-        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 224773,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Borrowed Time",
         "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 197997,
       "name": "Why",
       "url": "https://open.spotify.com/track/40oF62UXziCZaX3S3UtGuZ"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "'Til You Can\u2019t / Longer Than She Did",
+        "url": "https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 224773,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "A Long Way from Your Heart",
-        "url": "https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 187633,
-      "name": "Unrung",
-      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Ain't Nothin' to It",
         "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 254653,
       "name": "Dear Rodeo",
       "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "A Long Way from Your Heart",
+        "url": "https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 187633,
+      "name": "Unrung",
+      "url": "https://open.spotify.com/track/7zrfNVEwO2ig1pGVKh9z66"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Unwanted Man",
-        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "Unwanted Man",
-      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 244429,
       "name": "No Vacancy",
       "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Unwanted Man",
+      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Rider",
-          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "Dos Corazones",
         "url": "https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 249892,
       "name": "A Cowgirl Like You",
       "url": "https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Rider",
+          "url": "https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
     },
     {
       "added_at": "2023-02-10 16:12:28",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "Happier Alone",
+      "url": "https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD"
+    },
+    {
+      "added_at": "2023-02-10 16:12:28",
+      "album": {
         "name": "What It Doesn\u2019t Do",
         "url": "https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
-      },
-      "artists": [
-        {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
-    },
-    {
-      "added_at": "2023-02-10 16:12:28",
-      "album": {
         "name": "First Dirt Road",
         "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
       },
@@ -1615,34 +1615,34 @@
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
       },
       "artists": [
         {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
         }
       ],
-      "duration_ms": 196093,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw"
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     },
     {
       "added_at": "2023-02-10 16:12:28",
       "album": {
-        "name": "Waiting for the Fall",
-        "url": "https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid"
+        "name": "Lightning Fast",
+        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
       },
       "artists": [
         {
-          "name": "Sam Riggs",
-          "url": "https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U"
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
         }
       ],
-      "duration_ms": 217494,
-      "name": "Waiting for the Fall",
-      "url": "https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk"
+      "duration_ms": 190853,
+      "name": "Lightning Fast",
+      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     }
   ],
   "unique_name": "Texas Country Rewind",

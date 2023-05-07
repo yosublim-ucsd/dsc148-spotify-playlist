@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 123561,
+  "num_followers": 123579,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjIzMmE0NmJhYWRiZTM1OTgwYzdkMjg5NzFlODYxYmZiNmQ5ZDQ5",
+  "snapshot_id": "MCwyMDUwNmI0NWNkNWI1YmU5YWEwZjNhZDg4MzQ3OWY2MDlmODE2NDMz",
   "tracks": [
     {
       "added_at": "2023-05-02 15:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "ohashiTrio best Too",
-        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 337898,
-      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
-      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
-    },
-    {
-      "added_at": "2023-05-02 15:00:00",
-      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 153652,
       "name": "last wave",
       "url": "https://open.spotify.com/track/0BrlSE3KRFQITuXZX7HbhW"
+    },
+    {
+      "added_at": "2023-05-02 15:00:00",
+      "album": {
+        "name": "ohashiTrio best Too",
+        "url": "https://open.spotify.com/album/7370BLhXSYfiIJ1S26expM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 337898,
+      "name": "\u8679\u3068\u30ab\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/6wKvOYzi6WBbF4WXC9J7Ey"
     },
     {
       "added_at": "2023-05-02 15:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-02 15:00:00",
       "album": {
-        "name": "This is music too",
-        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
-      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
-    },
-    {
-      "added_at": "2023-05-02 15:00:00",
-      "album": {
         "name": "After the chaos",
         "url": "https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 264786,
       "name": "Stay in the light - reprise",
       "url": "https://open.spotify.com/track/4pxMywoprsTqPXDPkZ1zZh"
+    },
+    {
+      "added_at": "2023-05-02 15:00:00",
+      "album": {
+        "name": "This is music too",
+        "url": "https://open.spotify.com/album/2IPhSOJjl8RyyjCReuJ62Z"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "\u9752\u6708\u6d6e\u304f\u6d77",
+      "url": "https://open.spotify.com/track/3FNY9Bpo5mTirQiodwjJcw"
     },
     {
       "added_at": "2023-05-02 15:00:00",

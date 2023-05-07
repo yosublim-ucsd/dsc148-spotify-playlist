@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,771 likes - 125 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,844 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 26 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 27 | [Highly Unrecommended](https://open.spotify.com/track/78USgwBpKW9D6sspCu5F3D) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [Highly Unrecommended](https://open.spotify.com/album/3u2yBtsdT8ZULEZiIy1Wcx) | 3:22 |
 | 28 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 |
-| 29 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
+| 29 | [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 |
 | 30 | [missin something](https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [orange blood](https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH) | 2:25 |
 | 31 | [Last One Standing](https://open.spotify.com/track/2ZZ4WodBWj4MRVP9Ec8bd6) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Zach Oliver](https://open.spotify.com/artist/3mUGzseAIqVvSM5m3vJ4GX) | [Last One Standing](https://open.spotify.com/album/1DuRlF9tv9aYCRQkNu80or) | 3:04 |
 | 32 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 35 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
 | 36 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 |
 | 37 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
-| 38 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 |
+| 38 | [keep our love alive](https://open.spotify.com/track/5Skpe6bbhoZqJMR6pfQLZr) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:56 |
 | 39 | [Just Another Thursday](https://open.spotify.com/track/6IK8tNU8rayRzWblczyUcp) | [Delorians](https://open.spotify.com/artist/3veLkV7PryzEQXJnFxDhON) | [Just Another Thursday](https://open.spotify.com/album/4pERR8qSsioJ2JwV5WD5Mp) | 3:30 |
 | 40 | [Sucker](https://open.spotify.com/track/6IRZc1ZeglfYbGQENnTUnw) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Sucker](https://open.spotify.com/album/5FfRcwOd5DwsvSZlyAFfFp) | 3:43 |
 | 41 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 124 | [Heartache & LSD](https://open.spotify.com/track/0KA6rBL9yNsGFBmujt1FZy) | [Hauskey](https://open.spotify.com/artist/3xjvEQFNYxMqlh7IAo3MMI) | [Heartache & LSD: Act II](https://open.spotify.com/album/7J5HDaAmLrKiecP8Qb9cGu) | 1:52 |
 | 125 | [Meteorite](https://open.spotify.com/track/6el1gIJ39V0ycFwNLZiKm7) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Meteorite](https://open.spotify.com/album/0fwTvb0Qo1pjmAr82hCE7t) | 3:14 |
 
-Snapshot ID: `MCwwZjBjYjBiODA4YjQyZWMyYTY4MjdlMDIxYzBiNWE1MzZlMTk3MDk5`
+Snapshot ID: `MCw5OWUyYTNlMWZmNGUwYWYyNjFjMjcwMzViNWNlZjBiZjBmOGE3Yzlj`

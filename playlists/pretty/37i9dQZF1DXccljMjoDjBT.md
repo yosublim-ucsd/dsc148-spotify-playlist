@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,572 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,751 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 20 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 |
 | 21 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 22 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
-| 23 | [Angelia](https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 5:17 |
+| 23 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
 | 24 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
-| 25 | [Gypsy \- 2016 Remaster](https://open.spotify.com/track/5J0aNEUTxJWKXnQmyY3vUp) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(Deluxe Edition\)](https://open.spotify.com/album/1dZNgJ3Gh3wp6ohzk29JUG) | 4:27 |
+| 25 | [Angelia](https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Repeat Offender](https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG) | 5:17 |
 | 26 | [Trouble](https://open.spotify.com/track/04ijIUVdT4Qy1SBWFUPROY) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Law and Order](https://open.spotify.com/album/38UhlwlFmxKBRVCUdaY21m) | 3:56 |
 | 27 | [Kiss on My List](https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Voices](https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS) | 4:24 |
 | 28 | [New York Minute](https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 6:35 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 68 | [Anywhere You Run To](https://open.spotify.com/track/6IfZke0ETxtKM0zz5kTyIT) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 3:50 |
 | 69 | [Fool's Paradise](https://open.spotify.com/track/6gX5B6uMDXFiK1qbq3NKlg) | [Randy Goodrum](https://open.spotify.com/artist/1SbKRR7aw8TnLV35xMJvo0) | [Fool's Paradise](https://open.spotify.com/album/7ttmmKXqE5StIAgOvU1V2C) | 3:58 |
 | 70 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
-| 71 | [Never Stop Believing](https://open.spotify.com/track/5FtsMjfhsP5rz7VdQwJlzX) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Back of My Mind](https://open.spotify.com/album/4vBQzW7PH3ZbGPNnmwwzhu) | 4:00 |
+| 71 | [All Right \- 2019 Remaster](https://open.spotify.com/track/0DtJ6l10vlXET3UGZv8rMV) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Another Page \(2019 Remaster\)](https://open.spotify.com/album/3GkUmzCpICEFZ7sZRiHdBV) | 4:18 |
 | 72 | [Bix](https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:15 |
 | 73 | [Heart \(Stop Beating In Time\)](https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [World Radio](https://open.spotify.com/album/1iB6NP7ZJjzG7unciVIbCx) | 4:40 |
 | 74 | [Brooklyn Girls \- Remastered](https://open.spotify.com/track/2yzzxCBnrIq9etWnMsJi27) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Street Corner Heroes](https://open.spotify.com/album/6PUJ57r2I7YinhkfZ6iV6t) | 3:25 |
 | 75 | [It Will Be Alright](https://open.spotify.com/track/2fbQVHBdsNLD6ol4KsUHPM) | [Airplay](https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw) | [Airplay](https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n) | 4:01 |
 
-Snapshot ID: `MCw0MzVlMzdjMmYwY2ZlMGEyNDBiYmNhYTkzOTdlYmU4NTg4MmQyYTU5`
+Snapshot ID: `MCwwZmRhNjQ3YTg2ZmQwNTcxNmI0YTNlYjZkNjQzMjMzMjkzYjBjYzg1`

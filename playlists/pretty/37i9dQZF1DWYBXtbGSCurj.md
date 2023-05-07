@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Xamã
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,635 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,981 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 9 | [Ai Calica](https://open.spotify.com/track/0XoZIz7YdOXRyvVTk9U1B5) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Ai Calica](https://open.spotify.com/album/2GwJhgSrxhdleGeLMQ7Cb2) | 3:30 |
 | 10 | [Nikeboy 2](https://open.spotify.com/track/7DoeVIOZEq4kfpf63Ovb2z) | [Krawk](https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4), [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Nikeboy 2](https://open.spotify.com/album/668pBpBCXcOd0UiIpzi2Gf) | 2:56 |
 | 11 | [Sexo e Dramas](https://open.spotify.com/track/1egbFZtcwx2urbr2q8TsZ5) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Sexo e Dramas](https://open.spotify.com/album/4XzBe109U96T5KXaTRCarR) | 2:32 |
-| 12 | [Prazer, Faço Dinheiro Dormindo](https://open.spotify.com/track/3QQv50cpaReeyJmrVlm0Hb) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Prazer, Faço Dinheiro Dormindo](https://open.spotify.com/album/6hqAhPugsxRT54NsLdeX9K) | 2:57 |
+| 12 | [Prazer, Faço Dinheiro Dormindo](https://open.spotify.com/track/3QQv50cpaReeyJmrVlm0Hb) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Prazer, Faço Dinheiro Dormindo](https://open.spotify.com/album/6hqAhPugsxRT54NsLdeX9K) | 2:57 |
 | 13 | [ILUMINADO](https://open.spotify.com/track/43VNvWM1NMdZ7QU75GMyvD) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [ILUMINADO](https://open.spotify.com/album/5T3gqF35fzUSCHjmULDoVN) | 3:07 |
 | 14 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 |
 | 15 | [Assault \(Joias no Pulso\)](https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB) | [Assault \(Joias no Pulso\)](https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs) | 4:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 | 75 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 
-Snapshot ID: `MCw3MGY1ODJkMmI4MzFjZjhkODhhZTQ1NjFiOTZkMjRkODBlYjdjMzNh`
+Snapshot ID: `MCw1MmY3ZmMwOTBkMjNmYmIxYjgxZmFhMjFkODM3NzRkZGVkYjFjNGNl`

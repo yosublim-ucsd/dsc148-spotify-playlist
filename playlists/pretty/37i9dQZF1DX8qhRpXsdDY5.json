@@ -1,12 +1,12 @@
 {
   "description": "Classic Latin tunes to get you in the Christmas spirit. Cover: Jos\u00e9 Feliciano",
-  "num_followers": 196468,
+  "num_followers": 196460,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWRhNGJjYzhlZGVjNjU3ODMyNGEzN2I5M2I5NWMwZjc2NDQ0NjU2",
+  "snapshot_id": "MCw2NzZiMDNiODY0OWEzOTNmN2MzZGRjZjM3YjQ5YjVmY2IyMTcyZWRm",
   "tracks": [
     {
       "added_at": "2022-12-19 23:50:20",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-19 23:50:20",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 217024,
-      "name": "Viva La Navidad",
-      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
-    },
-    {
-      "added_at": "2022-12-19 23:50:20",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 207320,
       "name": "24 de Diciembre",
       "url": "https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm"
+    },
+    {
+      "added_at": "2022-12-19 23:50:20",
+      "album": {
+        "name": "Love & Christmas",
+        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 217024,
+      "name": "Viva La Navidad",
+      "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
     },
     {
       "added_at": "2022-12-19 23:50:20",

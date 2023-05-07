@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 149910,
+  "num_followers": 150004,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2ZhMGEyMzFmOTMzZDI3OTFlMzFkODgyZWFiMWIyZWQ5ZjlkNGQ2",
+  "snapshot_id": "MCwwMTUwOTZmYjliYzJlNDRhMmM1MWU1MWZiNzMyOTEwNzhhZTA0NGUz",
   "tracks": [
     {
       "added_at": "2022-09-29 00:04:13",
@@ -533,26 +533,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "STORY OF BLOOD",
-        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 451986,
-      "name": "STORY OF BLOOD",
-      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -575,6 +555,26 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "STORY OF BLOOD",
+        "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 451986,
+      "name": "STORY OF BLOOD",
+      "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
     },
     {
       "added_at": "2022-09-11 03:49:06",
@@ -745,26 +745,6 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
       "added_at": "2023-02-13 19:20:06",
       "album": {
         "name": "Invierno (Remix)",
@@ -803,6 +783,26 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/6y7lKUb0w54m0Fx49kzo1p"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -925,6 +925,22 @@
       "url": "https://open.spotify.com/track/2AkzUxAscto4cIeJSl2aBt"
     },
     {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
       "added_at": "2022-05-24 01:31:24",
       "album": {
         "name": "Sun's Signature",
@@ -955,22 +971,6 @@
       "duration_ms": 190812,
       "name": "Tell Somebody",
       "url": "https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt"
-    },
-    {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/5LFjp7uFga0wfF7lOSSYYg"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "As The Love Continues",
+        "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
+      },
+      "artists": [
+        {
+          "name": "Mogwai",
+          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
+        }
+      ],
+      "duration_ms": 310120,
+      "name": "Dry Fantasy",
+      "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1023,22 +1039,6 @@
       "duration_ms": 315213,
       "name": "I KNOW YOU'RE HAPPY",
       "url": "https://open.spotify.com/track/1CqVFbRdk0DbvRsW5Dx5Cr"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "As The Love Continues",
-        "url": "https://open.spotify.com/album/4LjNbxlMmWNn5Yky9bfxRm"
-      },
-      "artists": [
-        {
-          "name": "Mogwai",
-          "url": "https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG"
-        }
-      ],
-      "duration_ms": 310120,
-      "name": "Dry Fantasy",
-      "url": "https://open.spotify.com/track/7lABwF6gabjOLifJFuAaKi"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1249,6 +1249,22 @@
       "url": "https://open.spotify.com/track/3SliuInyApsQsaDwCDbbvY"
     },
     {
+      "added_at": "2022-09-07 01:02:18",
+      "album": {
+        "name": "Fairy Rust",
+        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
+      },
+      "artists": [
+        {
+          "name": "Wombo",
+          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
+        }
+      ],
+      "duration_ms": 157179,
+      "name": "Sour Sun",
+      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Heartlow",
@@ -1263,22 +1279,6 @@
       "duration_ms": 218925,
       "name": "Heartlow - Edit",
       "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
-    },
-    {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1297,6 +1297,22 @@
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
       "added_at": "2022-08-13 01:40:58",
       "album": {
         "name": "NIGHT CRAWLING",
@@ -1311,22 +1327,6 @@
       "duration_ms": 293706,
       "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
-    },
-    {
-      "added_at": "2022-09-07 01:02:18",
-      "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 157179,
-      "name": "Sour Sun",
-      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
     },
     {
       "added_at": "2022-04-20 13:58:09",
@@ -1401,6 +1401,38 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
+      "added_at": "2022-03-16 16:59:09",
+      "album": {
+        "name": "Petunia",
+        "url": "https://open.spotify.com/album/6CjVp0URuekH4fRUQJqJ92"
+      },
+      "artists": [
+        {
+          "name": "Tonstartssbandht",
+          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
+        }
+      ],
+      "duration_ms": 422240,
+      "name": "What Has Happened",
+      "url": "https://open.spotify.com/track/1WM2ObDoxB3QqksZRxpy7w"
+    },
+    {
+      "added_at": "2022-09-03 04:22:45",
+      "album": {
+        "name": "Noon",
+        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
+      },
+      "artists": [
+        {
+          "name": "Nothing for Breakfast",
+          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Noon",
+      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Hildegard",
@@ -1425,22 +1457,6 @@
       "url": "https://open.spotify.com/track/0uV87Zea2zf6ZufAnjdx2V"
     },
     {
-      "added_at": "2022-09-03 04:22:45",
-      "album": {
-        "name": "Noon",
-        "url": "https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi"
-      },
-      "artists": [
-        {
-          "name": "Nothing for Breakfast",
-          "url": "https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Noon",
-      "url": "https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
@@ -1461,6 +1477,22 @@
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     },
     {
+      "added_at": "2023-01-07 04:00:59",
+      "album": {
+        "name": "Prize",
+        "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
+      },
+      "artists": [
+        {
+          "name": "Rozi Plain",
+          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
+        }
+      ],
+      "duration_ms": 253013,
+      "name": "Painted the Room",
+      "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
+    },
+    {
       "added_at": "2022-09-29 01:39:00",
       "album": {
         "name": "Two minutes",
@@ -1475,22 +1507,6 @@
       "duration_ms": 160000,
       "name": "Two minutes",
       "url": "https://open.spotify.com/track/1lwxpEsQQ2GIOg1Ar5rB38"
-    },
-    {
-      "added_at": "2022-03-16 16:59:09",
-      "album": {
-        "name": "Petunia",
-        "url": "https://open.spotify.com/album/6CjVp0URuekH4fRUQJqJ92"
-      },
-      "artists": [
-        {
-          "name": "Tonstartssbandht",
-          "url": "https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW"
-        }
-      ],
-      "duration_ms": 422240,
-      "name": "What Has Happened",
-      "url": "https://open.spotify.com/track/1WM2ObDoxB3QqksZRxpy7w"
     },
     {
       "added_at": "2022-07-14 12:42:06",
@@ -1539,22 +1555,6 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
-    },
-    {
-      "added_at": "2023-01-07 04:00:59",
-      "album": {
-        "name": "Prize",
-        "url": "https://open.spotify.com/album/0EMnfWB37amlYLEuQzoV3k"
-      },
-      "artists": [
-        {
-          "name": "Rozi Plain",
-          "url": "https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x"
-        }
-      ],
-      "duration_ms": 253013,
-      "name": "Painted the Room",
-      "url": "https://open.spotify.com/track/24IXYn8kl7J2E5pByVQHuj"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1609,22 +1609,6 @@
       "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
-      "added_at": "2022-02-09 04:03:27",
-      "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
-      },
-      "artists": [
-        {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
-    },
-    {
       "added_at": "2022-09-29 00:40:57",
       "album": {
         "name": "Pocket Fantasy",
@@ -1639,6 +1623,22 @@
       "duration_ms": 159480,
       "name": "Shining Armor",
       "url": "https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc"
+    },
+    {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2021-10-06 20:23:10",

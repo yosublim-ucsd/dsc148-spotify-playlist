@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Cortes modernos pa' los compas con estilo!",
-  "num_followers": 73024,
+  "num_followers": 73159,
   "original_name": "Barber\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWUxZDgwY2JkZGY1ZmUyNDAyZDIzNmVhYjRmYmIzZDBjNWI4OGNi",
+  "snapshot_id": "MCw4ZWI2OWU5NmZkMmViMTllN2YwNDVkMjIzZWIzYmJhYTY2MTQyNDQ2",
   "tracks": [
     {
       "added_at": "2022-10-04 15:35:20",
@@ -883,6 +883,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "ULTRA SOLO",
         "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Timelezz",
         "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
@@ -1419,18 +1403,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1447,6 +1431,22 @@
       "duration_ms": 187125,
       "name": "Quiere Beber",
       "url": "https://open.spotify.com/track/0FDMH2ahuIVzCybwHJK9zh"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Carteles",
-        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 125818,
-      "name": "El B\u00e9lico",
-      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1795,42 +1795,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Corridos Tumbados",
-        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 142910,
-      "name": "El Drip",
-      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
         "url": "https://open.spotify.com/album/0GkI5Xq0n0McicAumkuGyb"
       },
@@ -1867,6 +1831,42 @@
       "duration_ms": 413110,
       "name": "Cay\u00f3 La Noche (feat. Cruz Cafun\u00e9, Abhir Hathi, Bejo, EL IMA) [Remix]",
       "url": "https://open.spotify.com/track/0Bv7O6fmZk3GrNQFYJaXPn"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Corridos Tumbados",
+        "url": "https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 142910,
+      "name": "El Drip",
+      "url": "https://open.spotify.com/track/5NCBP3ivrIDcHEtzHSW3k0"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -1923,6 +1923,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1947,38 +1963,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "Un Suspir\u00f3",
-        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 184411,
-      "name": "Un Suspir\u00f3",
-      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -1999,18 +1983,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "De Boca En Boca",
-        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
+        "name": "Un Suspir\u00f3",
+        "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },
       "artists": [
         {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 187835,
-      "name": "Se Fue La Pantera",
-      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
+      "duration_ms": 184411,
+      "name": "Un Suspir\u00f3",
+      "url": "https://open.spotify.com/track/3nD8VUJphfkoxSjy4lmeP1"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+        "name": "De Boca En Boca",
+        "url": "https://open.spotify.com/album/01olKgKJsavApHa7QJNT29"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
+      "duration_ms": 187835,
+      "name": "Se Fue La Pantera",
+      "url": "https://open.spotify.com/track/7G3h22znCIwaN07Q2s1ukR"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2071,6 +2055,22 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 190671,
       "name": "Hablando Claro (En Vivo)",
       "url": "https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2587,6 +2587,22 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
+        "name": "SHADYXV",
+        "url": "https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 320626,
+      "name": "Lose Yourself",
+      "url": "https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
         "name": "Te Marqu\u00e9 Pedo",
         "url": "https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX"
       },
@@ -2603,22 +2619,6 @@
       "duration_ms": 216000,
       "name": "Te Marqu\u00e9 Pedo",
       "url": "https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
-        "name": "SHADYXV",
-        "url": "https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 320626,
-      "name": "Lose Yourself",
-      "url": "https://open.spotify.com/track/77Ft1RJngppZlq59B6uP0z"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2739,22 +2739,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "El Chaman",
-        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174405,
-      "name": "El Chaman",
-      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -2799,6 +2783,22 @@
       "duration_ms": 291066,
       "name": "Protect Ya Neck (feat. RZA, Method Man, Inspectah Deck, Raekwon, U-God, Ol' Dirty Bastard, Ghostface Killah & GZA)",
       "url": "https://open.spotify.com/track/1Sgj10byiGzPpI2IrXSFEn"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "El Chaman",
+        "url": "https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174405,
+      "name": "El Chaman",
+      "url": "https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b"
     },
     {
       "added_at": "2022-10-04 15:35:20",
@@ -2963,30 +2963,6 @@
     {
       "added_at": "2022-10-04 15:35:20",
       "album": {
-        "name": "Tendencia Global",
-        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 234402,
-      "name": "Tendencia Global",
-      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
-    },
-    {
-      "added_at": "2022-10-04 15:35:20",
-      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
       },
@@ -3015,6 +2991,30 @@
       "duration_ms": 255000,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8"
+    },
+    {
+      "added_at": "2022-10-04 15:35:20",
+      "album": {
+        "name": "Tendencia Global",
+        "url": "https://open.spotify.com/album/1bYuhFXTzF4CLwGOVQlqKk"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 234402,
+      "name": "Tendencia Global",
+      "url": "https://open.spotify.com/track/2iLegn1UOmpNpQAxcQoGJW"
     }
   ],
   "unique_name": "Barber\u00eda",

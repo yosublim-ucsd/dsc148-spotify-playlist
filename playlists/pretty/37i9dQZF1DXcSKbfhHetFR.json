@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8254,
+  "num_followers": 8258,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjg5ZjRiZGJkMWFhYjI1YTkxNzdmOWZhNDBiMDY0N2U5NmFkMjFh",
+  "snapshot_id": "MCxmNTc5OTA2YjVkNjhmY2U3N2FlZDNiYzg0MTU4MzVhMmYxNDFkNWJi",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -479,22 +479,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Western Romance",
-        "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
-      },
-      "artists": [
-        {
-          "name": "Yann Perreau",
-          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Ma dope \u00e0 moi",
-      "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Minimiser les d\u00e9g\u00e2ts",
         "url": "https://open.spotify.com/album/6WVpajKNQ7RdgDaGl6tTGU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 179186,
       "name": "Sa craque au soleil",
       "url": "https://open.spotify.com/track/1eYkQO5OnEWa2tufpnKX92"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Western Romance",
+        "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Ma dope \u00e0 moi",
+      "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -719,22 +719,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Thermoplastique",
-        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
-      },
-      "artists": [
-        {
-          "name": "Les Secr\u00e9taires Volantes",
-          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Thermoplastique",
-      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Fuck'n'shit baby love!",
         "url": "https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Vent fou",
-        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
+        "name": "Thermoplastique",
+        "url": "https://open.spotify.com/album/16FdV30nHi1fuf5qxVrVyM"
       },
       "artists": [
         {
-          "name": "Jorane",
-          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
+          "name": "Les Secr\u00e9taires Volantes",
+          "url": "https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF"
         }
       ],
-      "duration_ms": 79840,
-      "name": "Vent fou",
-      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
+      "duration_ms": 173626,
+      "name": "Thermoplastique",
+      "url": "https://open.spotify.com/track/4sMBt4g8O2IYQgZrrI0zjM"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -779,6 +763,22 @@
       "duration_ms": 263640,
       "name": "Si j'ai tort",
       "url": "https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Vent fou",
+        "url": "https://open.spotify.com/album/4meRurpCXE1T2EwMM9L02t"
+      },
+      "artists": [
+        {
+          "name": "Jorane",
+          "url": "https://open.spotify.com/artist/6i4QbQrxJaY2aDhTYOYvJ7"
+        }
+      ],
+      "duration_ms": 79840,
+      "name": "Vent fou",
+      "url": "https://open.spotify.com/track/6i3659FPWh4fL7dMCQYYeb"
     },
     {
       "added_at": "2020-06-23 14:47:30",

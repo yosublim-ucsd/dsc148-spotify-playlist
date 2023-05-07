@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,134 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,162 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [La Que Se Fue](https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:19 |
 | 50 | [Teresa](https://open.spotify.com/track/1lXlsGFiG2TD84ldY55Byu) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:31 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBhNTRhYTg1YzAxMmJmNjVlNWJlOWVlNGZlYTg0M2U3Yg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAyMWZkZGE3MjRkNDljNWU1MTNjMDY5MjIzYzdhY2RiNw==`

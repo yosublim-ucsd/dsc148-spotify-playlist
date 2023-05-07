@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46966,
+  "num_followers": 46995,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2JiZThhZTUwODNlOWRjYjRmMGY3MDA4NmU0NmVmOWVkNDZiNzg3",
+  "snapshot_id": "MCwxMWIzY2FkYzQ4YzAxZWMwZWMwNDU1MTI1ZTg0ZWFlMWYwMTM4ZTcw",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Cuando Me Lo Pidas",
-      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+      "duration_ms": 175000,
+      "name": "Cuando Me Lo Pidas",
+      "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Ilha Do Amor",
+        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "duration_ms": 147179,
+      "name": "Ilha Do Amor",
+      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 131209,
       "name": "Siena",
       "url": "https://open.spotify.com/track/6hebly36sQyqXZerurmsuO"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Ilha Do Amor",
-        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
-      },
-      "artists": [
-        {
-          "name": "Ailani Akoni",
-          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
-        }
-      ],
-      "duration_ms": 147179,
-      "name": "Ilha Do Amor",
-      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Just Feeling Great",
-        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
-      },
-      "artists": [
-        {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
-        }
-      ],
-      "duration_ms": 121814,
-      "name": "Just Feeling Great",
-      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "La Fuente",
         "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 162000,
       "name": "La Fuente",
       "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Just Feeling Great",
+        "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 121814,
+      "name": "Just Feeling Great",
+      "url": "https://open.spotify.com/track/6ThIFhiC2QlBlYnM5qgO9k"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
-        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
-      },
-      "artists": [
-        {
-          "name": "Panagiotis Margaris",
-          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Tango en Skai - Instrumental",
-      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bajo La Luna",
         "url": "https://open.spotify.com/album/1udJi8ZsnPP4DeaB0iBhAO"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 231400,
       "name": "Zaralmondi - Colombianas",
       "url": "https://open.spotify.com/track/2g7F6mDctEtgtyJi7QMxuT"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Cafe de l'Art, Vol. 1 (14 Guitar Duets Themes)",
+        "url": "https://open.spotify.com/album/5JpoixLQADUh6VXxqsFXvZ"
+      },
+      "artists": [
+        {
+          "name": "Panagiotis Margaris",
+          "url": "https://open.spotify.com/artist/2UUloMjgTaoxRyWKK9mK0f"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Tango en Skai - Instrumental",
+      "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
-        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
-      },
-      "artists": [
-        {
-          "name": "Escudero,",
-          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
-        },
-        {
-          "name": "Paco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Repiqueteos Flamencos (Zapateado)",
-      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Sones y Danzones de Buena Madera",
         "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
+        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
+      },
+      "artists": [
+        {
+          "name": "Escudero,",
+          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
+        },
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Repiqueteos Flamencos (Zapateado)",
+      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
     },
     {
       "added_at": "2022-10-27 22:01:00",

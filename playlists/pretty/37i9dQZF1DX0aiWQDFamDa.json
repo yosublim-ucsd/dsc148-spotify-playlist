@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 34010,
+  "num_followers": 34091,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODZjMGFkYWIwYmFmZWY5ZTcxZWMwMjlkYWFkNjNlMzhiNGMwYmQy",
+  "snapshot_id": "MCxiODYyZWU0MzliZjY5MTFhMDQwMzJkZDdkODJhNjRjZmVmNGIyZmY4",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "She Steps Into The Frame",
-        "url": "https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD"
-      },
-      "artists": [
-        {
-          "name": "Marc Henley Trio",
-          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
-        }
-      ],
-      "duration_ms": 141848,
-      "name": "She Steps Into The Frame",
-      "url": "https://open.spotify.com/track/5iShMgXWNiRUHc1knNf6QI"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Pristine",
         "url": "https://open.spotify.com/album/315gZl71MLwJo5GwBXgudJ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 236724,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/4wZIBxMTZYbSGzWEAqIwKF"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "She Steps Into The Frame",
+        "url": "https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD"
+      },
+      "artists": [
+        {
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
+        }
+      ],
+      "duration_ms": 141848,
+      "name": "She Steps Into The Frame",
+      "url": "https://open.spotify.com/track/5iShMgXWNiRUHc1knNf6QI"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Warm Valley",
-      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Mindful in Solitude",
         "url": "https://open.spotify.com/album/07ByAjCqjdAvcH64xoPZ7d"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 233323,
       "name": "The Way of the Winds",
       "url": "https://open.spotify.com/track/1hbpryH5fnRhWdE2CeyIjq"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Warm Valley",
+      "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Tammy's Song",
-        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
-      },
-      "artists": [
-        {
-          "name": "The Sweetgreens",
-          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
-        }
-      ],
-      "duration_ms": 260690,
-      "name": "Tammy's Song",
-      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Moon Mist",
         "url": "https://open.spotify.com/album/462dHUs0Xl5H4v1057d2mO"
       },
@@ -455,6 +439,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Tammy's Song",
+        "url": "https://open.spotify.com/album/1WTE1kF4gGBRxZqVg1e6w2"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "duration_ms": 260690,
+      "name": "Tammy's Song",
+      "url": "https://open.spotify.com/track/4I06sodO9XIEDp760gLK9k"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "The Other Side",
         "url": "https://open.spotify.com/album/02y5z1G9EuN0BJRtdqbJRt"
       },
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Cherry Blossom Waltz",
+        "url": "https://open.spotify.com/album/4iZYHdYDWekmsf5tCTfNYy"
+      },
+      "artists": [
+        {
+          "name": "James & LIsa",
+          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "Cherry Blossom Waltz",
+      "url": "https://open.spotify.com/track/1wZsMtOeXbkUQiX6UKZGbY"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "the point above",
         "url": "https://open.spotify.com/album/7EeqlvrMoFYDZjWh1jDyuu"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 164928,
       "name": "Kept running",
       "url": "https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Cherry Blossom Waltz",
-        "url": "https://open.spotify.com/album/4iZYHdYDWekmsf5tCTfNYy"
-      },
-      "artists": [
-        {
-          "name": "James & LIsa",
-          "url": "https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "Cherry Blossom Waltz",
-      "url": "https://open.spotify.com/track/1wZsMtOeXbkUQiX6UKZGbY"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "The Tale of Bon Jean",
-        "url": "https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
       },
       "artists": [
         {
-          "name": "Ornette Haynes",
-          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
         }
       ],
-      "duration_ms": 160109,
-      "name": "The Tale of Bon Jean",
-      "url": "https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG"
+      "duration_ms": 225946,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -711,6 +711,38 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "The Tale of Bon Jean",
+        "url": "https://open.spotify.com/album/0fmgiGhWJG9srZC7nz8mlu"
+      },
+      "artists": [
+        {
+          "name": "Ornette Haynes",
+          "url": "https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6"
+        }
+      ],
+      "duration_ms": 160109,
+      "name": "The Tale of Bon Jean",
+      "url": "https://open.spotify.com/track/0pHeCbLYoBAz88XscPh7XG"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Blueberry Street",
+        "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
+      },
+      "artists": [
+        {
+          "name": "Danny Ryan Jazz Band",
+          "url": "https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j"
+        }
+      ],
+      "duration_ms": 255734,
+      "name": "Blueberry Street",
+      "url": "https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Lazy Steps",
         "url": "https://open.spotify.com/album/2nyieRloloSNbpfwfAoHAj"
       },
@@ -743,22 +775,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Blueberry Street",
-        "url": "https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo"
-      },
-      "artists": [
-        {
-          "name": "Danny Ryan Jazz Band",
-          "url": "https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j"
-        }
-      ],
-      "duration_ms": 255734,
-      "name": "Blueberry Street",
-      "url": "https://open.spotify.com/track/6YeUTstb4pY8jUE3xWhX0d"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 311560,
       "name": "You Don't Know What Love Is",
       "url": "https://open.spotify.com/track/3gKYq33uHC0FKHp8V7yzFi"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 572546,
       "name": "Where Can I Go Without You",
       "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 325400,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Songbook",
-        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 317946,
-      "name": "Before It's Time to Say Goodbye",
-      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Abisko",
         "url": "https://open.spotify.com/album/0Lkn1OWDVLcaxHR9hOmyBp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 168190,
       "name": "Abisko",
       "url": "https://open.spotify.com/track/65zFbHuyUdai6WFwtPAkix"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Songbook",
+        "url": "https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 317946,
+      "name": "Before It's Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Late Night Jazz (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Philip Catherine",
+          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
+        }
+      ],
+      "duration_ms": 329920,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Simplicitas",
         "url": "https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA"
       },
@@ -1659,26 +1679,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Late Night Jazz (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        },
-        {
-          "name": "Philip Catherine",
-          "url": "https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn"
-        }
-      ],
-      "duration_ms": 329920,
-      "name": "Skylark",
-      "url": "https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Search For The New Land (Rudy Van Gelder Edition/2000 Remastered)",
         "url": "https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr"
       },
@@ -1695,18 +1695,26 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Seymour Reads the Constitution!",
-        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
+        "name": "Some Love Songs",
+        "url": "https://open.spotify.com/album/5APvTOjfc9oU7szpZjjLxB"
       },
       "artists": [
         {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        },
+        {
+          "name": "Drew Gress",
+          "url": "https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK"
+        },
+        {
+          "name": "Jochen Rueckert",
+          "url": "https://open.spotify.com/artist/63u4hpQvFiSrFUdrd6g2eV"
         }
       ],
-      "duration_ms": 483280,
-      "name": "Seymour Reads the Constitution",
-      "url": "https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9"
+      "duration_ms": 390013,
+      "name": "Rainy Night House",
+      "url": "https://open.spotify.com/track/1D3IkH8577BH4Erx2vHYUu"
     }
   ],
   "unique_name": "Sad Jazz",

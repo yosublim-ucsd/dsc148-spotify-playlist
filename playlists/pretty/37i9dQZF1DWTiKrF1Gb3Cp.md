@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,688 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,734 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 50 | [Ahora Preguntan](https://open.spotify.com/track/4h4aLuUdPJQehnMCGyefCu) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ahora Preguntan](https://open.spotify.com/album/0otZ6JXJ84JYCXbjAQh8lK) | 3:08 |
 | 51 | [Diente Por Diente](https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Diente Por Diente](https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu) | 2:18 |
 | 52 | [En El Espacio](https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [En el Espacio](https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj) | 4:55 |
-| 53 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 |
+| 53 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 |
 | 54 | [So High](https://open.spotify.com/track/07V6yFnZ8a6N35IzuIsUGl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:49 |
-| 55 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 |
+| 55 | [Ni Miedo Ni Piedad](https://open.spotify.com/track/2hs4FEIVUESVnnRw6xXdq8) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Ni Miedo Ni Piedad](https://open.spotify.com/album/2YmBKaeneRkGmbfUWiiOzg) | 4:38 |
 | 56 | [Sangre De Barrio](https://open.spotify.com/track/3WBmdLBkrl7K1W8CPIFrgX) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Viviendo Recio](https://open.spotify.com/album/4Xnfrq4wc7We7YssTaarVB) | 5:06 |
 | 57 | [Entrada Sin Salida](https://open.spotify.com/track/41ODYgrsIOEW21A3RqB5ZK) | [Mr\. Yosie Locote](https://open.spotify.com/artist/0Dek2t04zGDa5wisG7oYrR) | [Viaje Sin Equipaje](https://open.spotify.com/album/1hMgjMW8QVjaonxMQvyeVw) | 4:15 |
 | 58 | [My Name](https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [My Name](https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji) | 3:02 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 79 | [Mariguana & Tequila](https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Robot Montana](https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P) | 2:55 |
 | 80 | [Derrochando Estilo](https://open.spotify.com/track/4I98VytVQXNTScYphARAGH) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Derrochando Estilo](https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt) | 2:47 |
 
-Snapshot ID: `MCwxMDcxZGIyNzIyNTM4OTllNzk5YjE0YTcwZjZhYjdjNjJhMDNkNDI5`
+Snapshot ID: `MCxkNDA4Zjc1ZDczNGU5NjA0OTMzYzgwMDU0MWI3ZGYxN2U3OTE5MTY1`

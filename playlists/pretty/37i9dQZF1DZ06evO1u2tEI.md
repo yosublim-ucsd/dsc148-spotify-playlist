@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,792 likes - 46 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,819 likes - 46 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1u2tEI.md) - [plain]
 | 45 | [No Name \#2](https://open.spotify.com/track/03Nc7jSUCH99Uy6kcJMSxW) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN) | 3:34 |
 | 46 | [Ostrich And Chirping](https://open.spotify.com/track/25OfkVstO0W60e8OHCggox) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [From A Basement On The Hill](https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq) | 0:33 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA1N2Q3NDM3MThlYjBlMTVlZmI1NDA1Y2Q0NjUyMWI5MQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAxNDkzZWNlNTY1M2QzMDVjMmM2YjAzZWJkMjJhNWU5OA==`

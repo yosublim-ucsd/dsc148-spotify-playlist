@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy rock & alt songs for your workout.",
-  "num_followers": 612907,
+  "num_followers": 612936,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGYxNTRlZTMwOTFlM2Q1YmZjMGUwYjk5ZWZjN2M0ZGVjMWU0ODRi",
+  "snapshot_id": "MCwxN2Q1MzkyZWQyZDJlMjM1MTc5NTA1ZDg1NzM4MmMwMDdjYzFlYTYy",
   "tracks": [
     {
       "added_at": "2023-04-19 15:14:21",
@@ -175,22 +175,18 @@
     {
       "added_at": "2023-04-19 15:14:21",
       "album": {
-        "name": "mainstream sellout",
-        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
       "artists": [
         {
-          "name": "Machine Gun Kelly",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 170133,
-      "name": "maybe (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
     },
     {
       "added_at": "2023-04-19 15:14:21",
@@ -227,18 +223,22 @@
     {
       "added_at": "2023-04-19 15:14:21",
       "album": {
-        "name": "Meteora 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
+      "duration_ms": 170133,
+      "name": "maybe (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/25wdC7CJmCJPgnKw9rYquJ"
     },
     {
       "added_at": "2023-04-19 15:14:21",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-04-19 15:14:21",
       "album": {
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "added_at": "2023-04-19 15:14:21",
+      "album": {
         "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
         "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 155495,
       "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
       "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
-    },
-    {
-      "added_at": "2023-04-19 15:14:21",
-      "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
     },
     {
       "added_at": "2023-04-19 15:14:21",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-19 15:14:21",
       "album": {
-        "name": "Villains",
-        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 274281,
-      "name": "The Way You Used To Do",
-      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
-    },
-    {
-      "added_at": "2023-04-19 15:14:21",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 235613,
       "name": "Bored To Death",
       "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
+    },
+    {
+      "added_at": "2023-04-19 15:14:21",
+      "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 274281,
+      "name": "The Way You Used To Do",
+      "url": "https://open.spotify.com/track/52LL3IFB8N3PaJmoZ8Xii1"
     },
     {
       "added_at": "2023-04-19 15:14:21",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-19 15:14:21",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187140,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv"
-    },
-    {
-      "added_at": "2023-04-19 15:14:21",
-      "album": {
         "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
         "url": "https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 207280,
       "name": "Loved You A Little (with Taking Back Sunday and Charlotte Sands)",
       "url": "https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5"
+    },
+    {
+      "added_at": "2023-04-19 15:14:21",
+      "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     }
   ],
   "unique_name": "Rock Me Up",

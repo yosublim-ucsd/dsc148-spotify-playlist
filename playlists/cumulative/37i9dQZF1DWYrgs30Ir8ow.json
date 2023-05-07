@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 184004,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
@@ -936,6 +936,28 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "album": {
+        "name": "February Stories",
+        "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143346,
+      "name": "February Stories",
+      "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
     },
     {
       "album": {
@@ -2036,10 +2058,36 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R"
+    },
+    {
+      "album": {
+        "name": "Rock My Body (with INNA & Sash!)",
+        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
       "album": {
@@ -2552,7 +2600,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 167244,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
@@ -2782,6 +2830,32 @@
       "duration_ms": 183598,
       "name": "Zij Heeft Alles",
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
+    },
+    {
+      "album": {
+        "name": "Zin In De Zomer Man",
+        "url": "https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG"
+      },
+      "artists": [
+        {
+          "name": "Bizzey",
+          "url": "https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135694,
+      "name": "Zin In De Zomer Man",
+      "url": "https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd"
     },
     {
       "album": {

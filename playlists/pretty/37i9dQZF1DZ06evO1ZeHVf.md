@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,483 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,524 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Blood Medley](https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alone In His Presence](https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ) | 4:37 |
 | 50 | [His Strength Is Perfect](https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Songs Of Emotional Healing](https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A) | 4:38 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlOTgzMmE2NGY4NDYzZWFhYjJjMGRiMjUwNWM1YWFlNQ==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDAyOTU5YjJiNTQ5OWJhMmVlYWI5N2JlY2M1MTAzMjlmZA==`

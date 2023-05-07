@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,603 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,835 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 57 | [Back in Time](https://open.spotify.com/track/7pstX01u6qbKF0tWsTa2Lz) | [Swing Republic](https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX), [Karina Kappel](https://open.spotify.com/artist/31ufWigY0fDQ8p8EJxvaGH) | [Back in Time](https://open.spotify.com/album/6hPAAeiJ8tPWLBo8kpsMzw) | 3:18 |
 | 58 | [You Rascal You](https://open.spotify.com/track/5pnHxi5D0l8FfXVMLW1FhO) | [Tape Five](https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Both Sides of the Moon](https://open.spotify.com/album/3nE3aRcSztx4bLkk5DwtJK) | 2:45 |
 | 59 | [Otto Croy](https://open.spotify.com/track/2t9zpAfTNMZbUrDvYos1us) | [OdjBox](https://open.spotify.com/artist/4R61zLFCe9YgQV9MyfMgi7) | [Otto Croy EP](https://open.spotify.com/album/77OHZo2Dvd4fPVvflGlZKI) | 3:49 |
-| 60 | [Twenties](https://open.spotify.com/track/7FQyzz3MRRyIHB2xuPjQhL) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/7413jwxa7Q2UbGbegbuMBj) | 3:10 |
+| 60 | [Twenties](https://open.spotify.com/track/01LK7AQCrzzdLIU4EYmCr9) | [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Loredana Grimaudo](https://open.spotify.com/artist/1TgSFLGyPHVMMJkEJqZq73) | [Twenties](https://open.spotify.com/album/3SQZ3rgz8N2LOKq4pIyWY8) | 3:10 |
 | 61 | [Ponder \- Betty Booom Remix](https://open.spotify.com/track/0tFzgPOxtXFNScRZ6ePrg8) | [Marina & The Kats](https://open.spotify.com/artist/0XS8JS8Q3wHpxMQQ49Tiyg), [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg) | [Ponder \(Betty Booom Remix\)](https://open.spotify.com/album/3glSK3ZZ9cn74XCkJpSzME) | 3:21 |
 | 62 | [Trouble](https://open.spotify.com/track/0aUP7s7O3m8xFnQ1Ju0xbZ) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Trouble](https://open.spotify.com/album/065YosCANMb3iddT5Dv53h) | 3:15 |
 | 63 | [Take You Right Back](https://open.spotify.com/track/56O8jHWDc5Y2oBUKByKA1M) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Take You Right Back](https://open.spotify.com/album/0EHomYzyqS2xlUCWT1hTvz) | 2:51 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 |
 | 120 | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu) | [Player2](https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy), [A\_A\_RonHD](https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS) | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g) | 3:53 |
 
-Snapshot ID: `MCw0MmM4NDI3MTVhYjQ3ZTFlOGNlOGZhM2UxZjI4ZjA0OTYxODYyZTI3`
+Snapshot ID: `MCw0NTkzZTRhNjk0M2JjMjFmOTFlMWIwOGI0N2IzM2NlYTdlYmVmOTQ3`

@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Sink-Along",
+        "url": "https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT"
+      },
+      "artists": [
+        {
+          "name": "ECHT!",
+          "url": "https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273681,
+      "name": "Mtwk part 2",
+      "url": "https://open.spotify.com/track/0VBQ4OrQPcNdlGf3fqsaok"
+    },
+    {
+      "album": {
         "name": "Mtwk part 2",
         "url": "https://open.spotify.com/album/0zqOtCp5rL7xzJZArDqrr0"
       },
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 273681,
       "name": "Mtwk part 2",
       "url": "https://open.spotify.com/track/7230vgOt7dkrPZUBb70OOd"
@@ -2997,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "Sink-Along",
+        "url": "https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT"
+      },
+      "artists": [
+        {
+          "name": "ECHT!",
+          "url": "https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204493,
+      "name": "Vault-A",
+      "url": "https://open.spotify.com/track/2ipYvvyvT7dDLuu4f73xvE"
+    },
+    {
+      "album": {
         "name": "Mtwk part 2",
         "url": "https://open.spotify.com/album/0zqOtCp5rL7xzJZArDqrr0"
       },
@@ -3026,7 +3062,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 204493,
       "name": "Vault-A",
       "url": "https://open.spotify.com/track/5SSjbO2ApYhfagJkCiaxoA"

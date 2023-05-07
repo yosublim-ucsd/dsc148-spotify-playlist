@@ -4,7 +4,7 @@
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Miya Folick
 
-172 songs - 9 hr 48 min
+173 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 | 2021-06-22 |  |
 | [Soft Spot](https://open.spotify.com/track/30bqNfOgcJOw2EWJJl1w5J) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/0QPFWBu8oVVNtekmNzlVvW) | 3:08 | 2022-06-06 |  |
 | [Soft Spot](https://open.spotify.com/track/7G47Ba9JiHkzl3JLYD0zJ4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 3:08 | 2021-06-22 | 2022-07-29 |
-| [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-06-22 |  |
+| [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-06-22 | 2023-05-07 |
 | [SONGS ABOUT YOU](https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 4:01 | 2022-06-01 |  |
 | [sorry isn't good enough](https://open.spotify.com/track/52EPUO8FCJKXrvH6oPs4Nz) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [sorry isn't good enough](https://open.spotify.com/album/4ND9o4X7nbwLjNGyAtslXE) | 3:07 | 2021-06-22 | 2022-07-28 |
 | [Start up Nation](https://open.spotify.com/track/32fXe6Ppdj45aop3hsqFtK) | [Keep Dancing Inc](https://open.spotify.com/artist/426htfG7DE5S3kgoVCCJUB) | [Embrace](https://open.spotify.com/album/0HdSPq0RQFpkJiEiYAdKGg) | 3:19 | 2021-06-22 | 2022-07-29 |
@@ -166,6 +166,7 @@
 | [True Love](https://open.spotify.com/track/4P8ZXHQkYsHpmz6MDMtoQd) | [Better Person](https://open.spotify.com/artist/0PbRHFtbXsxQfOHl6m86dd) | [Something to Lose](https://open.spotify.com/album/6tJnsbq2C5zamibnV59MMe) | 3:45 | 2021-06-22 | 2022-06-01 |
 | [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 | 2021-06-22 | 2023-01-06 |
 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 | 2021-06-22 |  |
+| [Vacation](https://open.spotify.com/track/5M14yMoGygqBtJCRYmrYSY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/5480CSqv3NyAGV8zZzT0RF) | 3:47 | 2023-03-07 |  |
 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 | 2022-06-01 | 2023-04-30 |
 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 | 2022-06-24 |  |
 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 | 2022-06-01 |  |

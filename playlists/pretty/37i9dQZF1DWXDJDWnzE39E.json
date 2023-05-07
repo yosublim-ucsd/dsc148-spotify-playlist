@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 617301,
+  "num_followers": 617570,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzI3ZmU0Y2UyOTg1NmJiMmQ3ZTc2Njc3MzZiOGMzNmRlNGE2MzRm",
+  "snapshot_id": "MCw0YzUzMzc3YzdhZTc1ZjBjZjFlMmNhYTQ4YzQ1MjY4ZDdmMTVhOWYx",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 129399,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "HUMAN. :II: NATURE.",
-        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 302179,
-      "name": "How's the Heart?",
-      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
+        "name": "HUMAN. :II: NATURE.",
+        "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 302179,
+      "name": "How's the Heart?",
+      "url": "https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
       },
@@ -541,26 +557,10 @@
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
     },
     {
-      "added_at": "2023-01-20 14:00:27",
-      "album": {
-        "name": "METAL KINGDOM",
-        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 211875,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -587,6 +587,22 @@
       "duration_ms": 211045,
       "name": "Entertain You",
       "url": "https://open.spotify.com/track/2yiDAvEEqGrkKZpNYCJ5Wm"
+    },
+    {
+      "added_at": "2023-01-20 14:00:27",
+      "album": {
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -623,22 +639,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "FAIRY METAL",
-        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        }
-      ],
-      "duration_ms": 161318,
-      "name": "FAIRY METAL",
-      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Handshake with Hell",
         "url": "https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV"
       },
@@ -655,18 +655,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk"
+        "name": "FAIRY METAL",
+        "url": "https://open.spotify.com/album/1wIQMs7BAhTlRUS9DIh9UJ"
       },
       "artists": [
         {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/5OF7nhjVV0dmngqYjDrZGw"
+      "duration_ms": 161318,
+      "name": "FAIRY METAL",
+      "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -687,8 +687,8 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
+      "duration_ms": 211875,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -787,22 +787,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+        "name": "The Nexus",
+        "url": "https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Amaranthe",
+          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
         }
       ],
-      "duration_ms": 270226,
-      "name": "And So It Went [Feat. Tom Morello]",
-      "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
+      "duration_ms": 196053,
+      "name": "The Nexus",
+      "url": "https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB"
     },
     {
       "added_at": "2023-03-17 17:53:23",
@@ -839,6 +835,26 @@
       "duration_ms": 218487,
       "name": "BEAVER CAGE",
       "url": "https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "And So It Went [Feat. Tom Morello]",
+      "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -907,22 +923,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Sunset over the Empire",
-        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
-      },
-      "artists": [
-        {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
-        }
-      ],
-      "duration_ms": 243080,
-      "name": "Sunset over the Empire",
-      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Sleeping with the Enemy",
         "url": "https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "The Nexus",
-        "url": "https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki"
+        "name": "Sunset over the Empire",
+        "url": "https://open.spotify.com/album/0Nx1Azswts2lQwxpqtwrL9"
       },
       "artists": [
         {
-          "name": "Amaranthe",
-          "url": "https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa"
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 196053,
-      "name": "The Nexus",
-      "url": "https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB"
+      "duration_ms": 243080,
+      "name": "Sunset over the Empire",
+      "url": "https://open.spotify.com/track/1AtE4xrxLR7nSPWSk1VGqM"
     },
     {
       "added_at": "2023-04-21 15:12:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 300647,
-      "name": "Flux",
-      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Chapter I - Monarchy",
         "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 217173,
       "name": "Colossvs",
       "url": "https://open.spotify.com/track/2UT1QfO4PD8fYaKaZetv2t"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 300647,
+      "name": "Flux",
+      "url": "https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 136156,
-      "name": "molotov [OK]",
-      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Ghost Myself",
         "url": "https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 192000,
       "name": "Ghost Myself",
       "url": "https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 136156,
+      "name": "molotov [OK]",
+      "url": "https://open.spotify.com/track/12aDRsxiroqLKfZSqphsUO"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
     },
     {
-      "added_at": "2023-02-03 00:00:00",
-      "album": {
-        "name": "Off With Your Head",
-        "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 132391,
-      "name": "Off With Your Head",
-      "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
-    },
-    {
       "added_at": "2022-11-18 01:31:53",
       "album": {
         "name": "The Bitter Truth",
@@ -1331,6 +1315,22 @@
       "duration_ms": 289756,
       "name": "Demure",
       "url": "https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB"
+    },
+    {
+      "added_at": "2023-02-03 00:00:00",
+      "album": {
+        "name": "Off With Your Head",
+        "url": "https://open.spotify.com/album/36BR0I2BVvsXsIl0pF4fQ5"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 132391,
+      "name": "Off With Your Head",
+      "url": "https://open.spotify.com/track/0rHCGInwbNkiZk7Etet5KK"
     }
   ],
   "unique_name": "Heavy Queens",

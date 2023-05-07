@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,255 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,277 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 29 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 |
 | 30 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
 | 31 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
-| 32 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
-| 33 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
+| 32 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
+| 33 | [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 |
 | 34 | [Rondini Al Guinzaglio](https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Colpa Delle Favole](https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy) | 4:00 |
 | 35 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 |
 | 36 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 43 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 |
 | 44 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
 | 45 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
-| 46 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
-| 47 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
+| 46 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
+| 47 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 48 | [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 |
 | 49 | [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 |
-| 50 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
+| 50 | [Concedimi](https://open.spotify.com/track/5p47A4tB8VQcsiscTLQi9L) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/0rrAWav2oFWiTk6S19YeM7) | 3:09 |
 
-Snapshot ID: `MCxhMzkxMjNmNTI1ZTIyYmNlNjlmZGQ5OTdiMWNjYjBjMjI2ODljNmVk`
+Snapshot ID: `MCw0MTk1NmQ3YjFkMjYwMjgwYTE0ZmVkZTA1YzU4Nzc1ZWZiMzgyZDBi`

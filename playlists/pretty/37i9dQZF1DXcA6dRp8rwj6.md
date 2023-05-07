@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Armani White\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,845 likes - 92 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,890 likes - 92 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 91 | [Ma Boy \(with JID & Lute\)](https://open.spotify.com/track/3JbFiK22Q0bfFzzIG1pYVy) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:46 |
 | 92 | [Same Problems?](https://open.spotify.com/track/3jpZwYrDbX2lQMhHwXjyUD) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Same Problems?](https://open.spotify.com/album/3MwuzX0j37H9SYVH78Oavt) | 4:22 |
 
-Snapshot ID: `MCxmNmUyMWJmOGRlNmQyMjJiMGY1NGY1NzY1ZjAzMTQ0YjUwNDczNTM3`
+Snapshot ID: `MCxkYmVlYzZiYThiMzBlYjljYTE2ZGE1OWEwMWI0NWY3NTE3YWVhNDdi`

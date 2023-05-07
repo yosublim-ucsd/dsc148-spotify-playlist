@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,612 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,705 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 8 | [A Change Is Gonna Come](https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:11 |
 | 9 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 10 | [Here, There And Everywhere \- Remastered 2009](https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Revolver \(Remastered\)](https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR) | 2:24 |
-| 11 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
-| 12 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
+| 11 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
+| 12 | [Nights In White Satin \- Single Version / Mono](https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Deluxe Version\)](https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM) | 4:29 |
 | 13 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
 | 14 | [Emotions](https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Emotions](https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z) | 2:51 |
 | 15 | [These Arms of Mine](https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Pain in My Heart](https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3) | 2:34 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 19 | [Moon River \(From "Breakfast at Tiffany's"\)](https://open.spotify.com/track/24AIahNHzBxm9S12peXbnG) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [Moon River And Other Great Movie Themes](https://open.spotify.com/album/1RLfn8e4cQvC0WsYJM6rh2) | 2:42 |
 | 20 | [I Can't Stop Loving You](https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Modern Sounds in Country and Western Music, Vols 1 & 2](https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF) | 4:16 |
 | 21 | [Unchained Melody](https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [The Very Best Of The Righteous Brothers \- Unchained Melody](https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6) | 3:36 |
-| 22 | [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 |
-| 23 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
+| 22 | [Ooo Baby Baby](https://open.spotify.com/track/3nsJGZ5RV2ZHkbKvD771gU) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:44 |
+| 23 | [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 |
 | 24 | [A Whiter Shade of Pale \- Original Single Version](https://open.spotify.com/track/78ZqE2tjAxbqEGGlvGnQfT) | [Procol Harum](https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C) | [Hits'n'Flips](https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU) | 4:08 |
 | 25 | [I've Been Loving You Too Long](https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Otis Blue: Otis Redding Sings Soul \(Collector's Edition\)](https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz) | 3:01 |
 | 26 | [Honey](https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww) | [Bobby Goldsboro](https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o) | [Honey](https://open.spotify.com/album/2AKHoOuDzuJ6d75eaDzZmP) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Fame and Fortune \- Remastered](https://open.spotify.com/track/3KIlJMknWs4rgVztAoWUbY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records, Vol\. 3](https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD) | 2:30 |
 | 50 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 
-Snapshot ID: `MCxhZTI2OTI3MGRiNTJlMTVhYzJlYjBlYTk0Yzc4N2E5ODM3Mjg0Nzll`
+Snapshot ID: `MCxiOWI3NjhmNzMxOWUzOWZhMTUzOWJlMzU5MDg3NDFlMDMzNDFjOGE1`

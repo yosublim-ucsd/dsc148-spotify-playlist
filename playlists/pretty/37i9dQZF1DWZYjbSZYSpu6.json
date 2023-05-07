@@ -1,12 +1,12 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: SOLE, Sung Si Kyung)",
-  "num_followers": 386669,
+  "num_followers": 386746,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmFlZjQxMzY3MDNjZWYwYmU5MDQxYWZkMGFjZjliOTA4OGMxZDA1",
+  "snapshot_id": "MCwwODZiODM4ZTczN2JiNzI5MmY0NjY5ODE0ZjA2MzBhYTJjZWRhMGZh",
   "tracks": [
     {
       "added_at": "2023-05-02 06:11:26",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-05-02 06:11:26",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO+",
-          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "Better (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
-    },
-    {
-      "added_at": "2023-05-02 06:11:26",
-      "album": {
         "name": "See you",
         "url": "https://open.spotify.com/album/1KQtu34l1mMpPMYdrQ5Kfx"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 186666,
       "name": "See you",
       "url": "https://open.spotify.com/track/2uzK4GdJ63xhirHwt91FMq"
+    },
+    {
+      "added_at": "2023-05-02 06:11:26",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/65RvaP3P2DdeC0QoL0eean"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Better (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/6JO6fHEpjYE8ILDhweIqQj"
     },
     {
       "added_at": "2023-05-02 06:11:26",

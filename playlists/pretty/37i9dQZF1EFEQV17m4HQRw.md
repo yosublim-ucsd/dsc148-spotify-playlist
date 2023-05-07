@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2AwZEdm5C3ZwyVr3E1j91g">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 44 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 378 likes - 44 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 18 | [Professor Da Fé](https://open.spotify.com/track/1cCeyyYDcmSM0OVuuCq6cs) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Professor Da Fé](https://open.spotify.com/album/0V3eiSD7WJckQ3rYQOizyr) | 5:20 |
 | 19 | [Aventurero](https://open.spotify.com/track/4ZwgnxVK1fxr58BEVo5sZ8) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Aventurero](https://open.spotify.com/album/6bWDNm3rA6TGfOLP9bB0pP) | 3:26 |
 | 20 | [Más Veloz](https://open.spotify.com/track/7h6wsQoTMVmtR0BgZADere) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 3:52 |
-| 21 | [Ele Vem](https://open.spotify.com/track/2OQzta0fwH98eh2n6XGXRK) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:19 |
-| 22 | [Humano](https://open.spotify.com/track/5OnEkb3DlPk155Y9XQvIKG) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:56 |
+| 21 | [Humano](https://open.spotify.com/track/5OnEkb3DlPk155Y9XQvIKG) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:56 |
+| 22 | [Ele Vem](https://open.spotify.com/track/2OQzta0fwH98eh2n6XGXRK) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:19 |
 | 23 | [Sólo en Tu Brazos](https://open.spotify.com/track/6AdKEowNdjZNuoYVl9ZRcA) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Yo Navegaré](https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH) | 6:17 |
-| 24 | [Maravilhoso](https://open.spotify.com/track/2NlMQxiWYX7ZXOYkgi9YFn) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 3:59 |
-| 25 | [Alasca](https://open.spotify.com/track/30xBipXCgDQefGMmVGtODe) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 4:36 |
+| 24 | [Alasca](https://open.spotify.com/track/30xBipXCgDQefGMmVGtODe) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 4:36 |
+| 25 | [Maravilhoso](https://open.spotify.com/track/2NlMQxiWYX7ZXOYkgi9YFn) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 3:59 |
 | 26 | [Sonhos de José](https://open.spotify.com/track/0WStd5zTa892KcxoMAiwMx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
 | 27 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 |
 | 28 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 33 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
 | 34 | [Então Ora, Igreja](https://open.spotify.com/track/06Dt8u7ZFbnPMIWJdmY8QB) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Como o Céu Te Adora](https://open.spotify.com/album/1nx5w8zaBOoihVeszMVpGF) | 5:36 |
 | 35 | [Pájaro de Acero](https://open.spotify.com/track/4ZKcSMonbfKvy9owujzpt9) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:29 |
-| 36 | [Multidão](https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Bulla Beatz](https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:16 |
-| 37 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
+| 36 | [Fantasma](https://open.spotify.com/track/5fx1egy2kKMVGj81oTnaqT) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:01 |
+| 37 | [Multidão](https://open.spotify.com/track/3sSJJfvqp9Lv1CNPWTETsv) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Bulla Beatz](https://open.spotify.com/artist/5KpnynCVA9MKJIqQFPnN7C) | [Noel, Vol\. 1](https://open.spotify.com/album/5Th7I3iwBjTyLLiryvhaqk) | 3:16 |
 | 38 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 |
 | 39 | [15](https://open.spotify.com/track/0uR3XG3utMf03QR2Sg2V6l) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:16 |
 | 40 | [Only Fans](https://open.spotify.com/track/3qsGv2tG8A8HFBkIUwk9Oa) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:11 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 43 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 44 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 
-Snapshot ID: `MjgwNTU1ODEsMDAwMDAwMDBiNGQ4ZDQxNmI4MTQ3YjUzNWJlYTcwZGM4YzNjMjdjMA==`
+Snapshot ID: `MjgwNTcwMjEsMDAwMDAwMDBiZDQ0ZTJkNzg5YjkwMzVlZjcwNWY0MGM3MmMwODY1NQ==`

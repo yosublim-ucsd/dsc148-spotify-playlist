@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 247527,
+  "num_followers": 247770,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODg4ZGE5NWJiNjVmNGVmYjU0OTIyYzNlYjI1ZDllM2U3NWE0Nzdi",
+  "snapshot_id": "MCw4YThkOTk4M2VkYzg4ODdiYTg0MTI2MGM4YjcxZmQzNzY3MjM4M2Uy",
   "tracks": [
     {
       "added_at": "2023-04-28 15:20:33",
@@ -423,22 +423,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
       "artists": [
         {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
         },
         {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Rhi'N'B",
+          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+      "duration_ms": 158400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -455,6 +459,26 @@
       "duration_ms": 434181,
       "name": "Poison",
       "url": "https://open.spotify.com/track/7vTLn0nVmaOjRCc3Xx6NR7"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -575,30 +599,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
-      },
-      "artists": [
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        },
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Rhi'N'B",
-          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Arabian Magic",
         "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Eldorado",
         "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 381639,
       "name": "Eldorado",
       "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "My Useless Life",
-        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
+        "name": "Buddha Bar XVII",
+        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
       },
       "artists": [
         {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
+          "name": "Oum",
+          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
         }
       ],
-      "duration_ms": 141779,
-      "name": "My Useless Life",
-      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
+      "duration_ms": 323720,
+      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
+      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1307,18 +1303,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Buddha Bar XVII",
-        "url": "https://open.spotify.com/album/7LjnEDSRp8hY1TB7fLiuRN"
+        "name": "My Useless Life",
+        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
       "artists": [
         {
-          "name": "Oum",
-          "url": "https://open.spotify.com/artist/4io8n4UJrGAd0T3uf2S72f"
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
+        },
+        {
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
         }
       ],
-      "duration_ms": 323720,
-      "name": "Lik (Mashti & Polyesta Remix for Womex 14)",
-      "url": "https://open.spotify.com/track/6MhJXZwtuGIQ9mIG5hTxrd"
+      "duration_ms": 141779,
+      "name": "My Useless Life",
+      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 269378,
       "name": "Angelic",
       "url": "https://open.spotify.com/track/7kJ6JKPAQOsoMIt1BTQdVC"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "CEWRESAMIN",
+        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
+      },
+      "artists": [
+        {
+          "name": "Sinan Yalcin",
+          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
+        },
+        {
+          "name": "Roni Violinist",
+          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Cewresamin",
+      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Asha",
         "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 334889,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "CEWRESAMIN",
-        "url": "https://open.spotify.com/album/6VcbjdUGUj4Ch0RixouL1Q"
-      },
-      "artists": [
-        {
-          "name": "Sinan Yalcin",
-          "url": "https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW"
-        },
-        {
-          "name": "Roni Violinist",
-          "url": "https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Cewresamin",
-      "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1815,18 +1815,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+        "name": "Mawjou3 Galbi",
+        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
       },
       "artists": [
         {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        },
+        {
+          "name": "Najwa Farouk",
+          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+      "duration_ms": 198200,
+      "name": "Mawjou3 Galbi",
+      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1851,6 +1855,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
       },
@@ -1871,26 +1891,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
       },
@@ -1907,6 +1907,22 @@
       "duration_ms": 260000,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1935,22 +1951,6 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     }
   ],
   "unique_name": "mosaic",

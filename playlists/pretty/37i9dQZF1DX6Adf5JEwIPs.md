@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Luis R Conriquez & Farruko
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,309 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,358 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 10 | [Gatos \(En Vivo\)](https://open.spotify.com/track/4cqdrxjpWi5RCv95NFOfRq) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Gatos \(En Vivo\)](https://open.spotify.com/album/4Aa2BCTkkzwUCoHnJUKSSt) | 2:47 |
 | 11 | [Querida](https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Querida](https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S) | 3:08 |
 | 12 | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/track/5m9nkKTgo3D4vrFG7yVW2Q) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y) | 2:43 |
-| 13 | [El Papel Cambió \- En Vivo](https://open.spotify.com/track/2Vfdag30H4TGSerI8KE9yK) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [El Papel Cambió \(En Vivo\)](https://open.spotify.com/album/4OGEhGVjPZx5cCpsYpUyM1) | 3:10 |
+| 13 | [El Papel Cambió \- En Vivo](https://open.spotify.com/track/2Vfdag30H4TGSerI8KE9yK) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [El Papel Cambió \(En Vivo\)](https://open.spotify.com/album/4OGEhGVjPZx5cCpsYpUyM1) | 3:14 |
 | 14 | [El Chavo \- En Vivo](https://open.spotify.com/track/03sLIskEZjUd2e77MXx9zb) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Frecuencia Cero](https://open.spotify.com/artist/1jwUNh0TTTwSUal1lndl7f) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5UjocM1OMiQ5Xcjcxza8NV) | 3:10 |
 | 15 | [Bien Lo Se \(En Vivo\)](https://open.spotify.com/track/7el0n6BhKq0PMrCBcNYQrr) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [REC23](https://open.spotify.com/album/3YP3tQnEhAbzFHDa4YDIfa) | 2:16 |
 | 16 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [El NZ](https://open.spotify.com/track/1E3SDPG4yUH4dw6w827QrM) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT) | [El NZ](https://open.spotify.com/album/38nRrvb1qaOEIIuQBcvVmI) | 2:38 |
 | 50 | [La Fiesta de Mi Pueblo](https://open.spotify.com/track/0nJYeksZwqNPzcymMnIfN0) | [Julian Torres y Mariachi Cenzontle](https://open.spotify.com/artist/7FrH112fVeuvrzdwtztcUH) | [La Fiesta de Mi Pueblo](https://open.spotify.com/album/6mgwQb5mPL98Oah4vjTBk6) | 2:58 |
 
-Snapshot ID: `MCw3YTFjYWJiYzQwNWI3OGU3NTQyYmNlNmU5MzMxMzc0MzI2Y2YzNzU3`
+Snapshot ID: `MCw3NmQ2OTAxYTRkZTIyMjRkODE3M2MzZjJlNDM4MzY2YjNlNmRkYTAw`

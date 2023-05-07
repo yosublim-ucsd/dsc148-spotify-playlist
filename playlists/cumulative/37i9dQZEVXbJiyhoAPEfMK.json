@@ -144,7 +144,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ"
@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "ANNA",
+        "url": "https://open.spotify.com/album/2QG8jbLMq7vHYyiS2OCCeY"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144199,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/2H4HtOA24KXUYiINpGZ1ju"
+    },
+    {
+      "album": {
         "name": "Long Way Down",
         "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
@@ -3040,7 +3058,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
@@ -3182,7 +3200,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -3428,6 +3446,24 @@
       "duration_ms": 204377,
       "name": "Baradar (feat. Nimo)",
       "url": "https://open.spotify.com/track/6ggAvP0nLXpBKPeHAiM49t"
+    },
+    {
+      "album": {
+        "name": "BAYERN FREESTYLE",
+        "url": "https://open.spotify.com/album/1RrXkimEVj3A7jiB8LDOmX"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143257,
+      "name": "BAYERN FREESTYLE",
+      "url": "https://open.spotify.com/track/5IzQvFuudkPEGIVgZMhpB9"
     },
     {
       "album": {
@@ -4514,6 +4550,24 @@
       "duration_ms": 185675,
       "name": "Boat",
       "url": "https://open.spotify.com/track/55tN1esXmaKoCnAyBTXast"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185675,
+      "name": "Boat",
+      "url": "https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr"
     },
     {
       "album": {
@@ -5743,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "CARRERA",
+        "url": "https://open.spotify.com/album/27yYjI6cmU1Ans0prYJn7e"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243711,
+      "name": "CARRERA",
+      "url": "https://open.spotify.com/track/3cfz2Kt5k1mZ2GLJDY45l2"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
       },
@@ -6004,7 +6076,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -7286,6 +7358,24 @@
       "duration_ms": 157390,
       "name": "Currents",
       "url": "https://open.spotify.com/track/7IaeavdRzXYQWfu2Wt5GlU"
+    },
+    {
+      "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "album": {
@@ -10179,6 +10269,28 @@
     },
     {
       "album": {
+        "name": "EXPENSIVE SHIT",
+        "url": "https://open.spotify.com/album/4vyLq81eCLym8QJtOrtTVP"
+      },
+      "artists": [
+        {
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "EXPENSIVE SHIT",
+      "url": "https://open.spotify.com/track/3FseW47ADDF2DHwad8VvZl"
+    },
+    {
+      "album": {
         "name": "Extasy",
         "url": "https://open.spotify.com/album/17BMEx1PKFdh53eGNPW8D5"
       },
@@ -10249,6 +10361,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg"
+    },
+    {
+      "album": {
         "name": "Eyes Closed (Piano Version)",
         "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
       },
@@ -10260,7 +10390,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 194848,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/4hy7qTxsnyZUZoqo5RtaYq"
@@ -10620,7 +10750,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -12478,6 +12608,28 @@
       "duration_ms": 142554,
       "name": "Gut im Gesch\u00e4ft",
       "url": "https://open.spotify.com/track/7yLsJKvUGkfjg8gkXSJhDF"
+    },
+    {
+      "album": {
+        "name": "Gute Frauen lieben schlechte M\u00e4nner",
+        "url": "https://open.spotify.com/album/5Dju332mpPT5RlP2WbOGB2"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198438,
+      "name": "Gute Frauen lieben schlechte M\u00e4nner",
+      "url": "https://open.spotify.com/track/3F2TVWHPsZoqhN0f3iPif3"
     },
     {
       "album": {
@@ -16064,7 +16216,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -27510,7 +27662,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"

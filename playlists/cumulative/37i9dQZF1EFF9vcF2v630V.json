@@ -567,6 +567,28 @@
     },
     {
       "album": {
+        "name": "HYBRID - SM STATION",
+        "url": "https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb"
+      },
+      "artists": [
+        {
+          "name": "MAX CHANGMIN",
+          "url": "https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS"
+        },
+        {
+          "name": "Ha Hyun Woo",
+          "url": "https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296426,
+      "name": "HYBRID",
+      "url": "https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y"
+    },
+    {
+      "album": {
         "name": "I Belong With You",
         "url": "https://open.spotify.com/album/3fB22NjWfNboC9rGEbBrmG"
       },

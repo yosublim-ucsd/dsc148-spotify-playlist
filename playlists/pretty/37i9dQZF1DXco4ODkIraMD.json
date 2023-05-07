@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: Anuel AA & Bad Bunny",
-  "num_followers": 552630,
+  "num_followers": 553202,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODFmYzdiYjNkYzk2NDhkMDVhNGY4NzY3OTNlMzFkMWYwMDc2ZGUz",
+  "snapshot_id": "MCw1ODE1OWRiZmY0M2QxZjRiNTkyZWIxNzI2MmUwNWEzODA2MjljNDg1",
   "tracks": [
     {
       "added_at": "2023-02-13 15:33:35",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Vaina Loca",
+      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
         "name": "Si Se da Remix",
         "url": "https://open.spotify.com/album/75Y4sJ1vwZfEivbsKPzAx6"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 332240,
       "name": "Si Se Da - Remix",
       "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Vaina Loca",
-      "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -991,8 +991,8 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
       "artists": [
         {
@@ -1000,13 +1000,13 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 205906,
-      "name": "El Perd\u00f3n (with Enrique Iglesias)",
-      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
@@ -1100,13 +1100,13 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 172854,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1251,22 +1251,22 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1303,6 +1303,26 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 204700,
       "name": "Bella y Sensual",
       "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "Vente Pa' Ca (feat. Maluma)",
-        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 259195,
-      "name": "Vente Pa' Ca (feat. Maluma)",
-      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "Pretty Boy, Dirty Boy",
         "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 198706,
       "name": "Hasta el Amanecer",
       "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "Vente Pa' Ca (feat. Maluma)",
+        "url": "https://open.spotify.com/album/1FkaJUwfqLdQdSmRPBlw6l"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 259195,
+      "name": "Vente Pa' Ca (feat. Maluma)",
+      "url": "https://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1999,26 +1999,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "Besalo",
-      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -2035,6 +2015,26 @@
       "duration_ms": 195213,
       "name": "Perro Fiel (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/4v25w5u9JmarAGjE3jcByx"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/6XlBkATW7Gamg4qJXzc6IF"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Chillax (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "Los Que Gustan",
         "url": "https://open.spotify.com/album/303q7Gwd1npoNdMFtoAe9s"
       },
@@ -2327,6 +2307,26 @@
       "duration_ms": 186976,
       "name": "Corazon De Seda (feat. Ozuna)",
       "url": "https://open.spotify.com/track/0uRHot8ml8U8cYVwwzMwNT"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Chillax (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -2403,26 +2403,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "ADN",
-        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Te Quemaste",
-      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "Asesina",
         "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
       },
@@ -2439,6 +2419,26 @@
       "duration_ms": 187312,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Te Quemaste",
+      "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
     },
     {
       "added_at": "2023-02-13 15:33:35",

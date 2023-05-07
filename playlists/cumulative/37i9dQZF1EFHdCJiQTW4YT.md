@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3qxnY549ZIMw4QeJsOC3T6">Stephen Wrabel</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-131 songs - 7 hr 39 min
+135 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Everybody Knows](https://open.spotify.com/track/7KYMs4Y5WwhspkMLApgfCk) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [idina.](https://open.spotify.com/album/3jXpXBlvGdt0LHZ2CqBg3K) | 3:25 | 2022-09-08 |  |
 | [Fabulous](https://open.spotify.com/track/1nLj9iiZr3Bb3e0zYiyDfm) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [DMK](https://open.spotify.com/artist/6Jzb9QsxR4wkdtNxg108Aj) | [Empire: Original Soundtrack, Season 2 Volume 2 \(Deluxe\)](https://open.spotify.com/album/5F63FnyDVZcFljjvVRdPd8) | 2:53 | 2022-09-08 |  |
 | [Fantasy](https://open.spotify.com/track/0uKrDNElljLIvrrSb7zVRu) | [JBJ](https://open.spotify.com/artist/6VJXRJvRRyLv99RZbXJ8RO) | [NEW MOON](https://open.spotify.com/album/3c1qg7O88Wc5wDDJ1YEUzV) | 3:22 | 2022-09-08 |  |
+| [feel it now \(alive\)](https://open.spotify.com/track/6gYnclsFwByD1BxL7z44WD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:31 | 2023-05-06 |  |
 | [first winter](https://open.spotify.com/track/4r7i3Td09NJvgmXotOvi3a) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [first winter](https://open.spotify.com/album/3kDhiltnqo4XvEvAzPU7aI) | 2:56 | 2022-09-08 |  |
 | [flickers](https://open.spotify.com/track/6J3G0HMT4s7JBjntVifHmP) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:50 | 2022-09-08 |  |
 | [Flowers & Superpowers](https://open.spotify.com/track/0qTeYzqoW8qHv4ioYM66XD) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Flowers & Superpowers](https://open.spotify.com/album/1rnWboK5R8laTbVmA9tV3o) | 2:45 | 2022-09-08 |  |
@@ -56,6 +57,7 @@
 | [GIRL ON TV](https://open.spotify.com/track/2EPLg9fa4HKsBzuVR5Hwhn) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Blood Bunny](https://open.spotify.com/album/1nXTxXK5WyXz7cLYYVPhKA) | 3:12 | 2022-09-08 |  |
 | [Give It Time](https://open.spotify.com/track/5FoziGnQmXWy3tm87PVTbb) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Sideways](https://open.spotify.com/album/5XsAy9Iqc4HVotx800ojMA) | 3:10 | 2022-09-08 |  |
 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 | 2022-09-08 |  |
+| [happier](https://open.spotify.com/track/5Imv22PbpWHLDlcetv2EUd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [happier](https://open.spotify.com/album/07Bqqi7M1ck2JR6TllJf9P) | 2:46 | 2023-05-06 |  |
 | [happy people](https://open.spotify.com/track/2d1yL0MZkW1RjB09NHSYXG) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one of those happy people](https://open.spotify.com/album/6j74wKqXdvgPYi5igx6w3h) | 3:12 | 2022-09-08 |  |
 | [Hard Sometimes](https://open.spotify.com/track/0D2xguFRqCF0OUqXCkqrpU) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 4:29 | 2022-09-08 |  |
 | [Healing Hands](https://open.spotify.com/track/5NFkxKc6RO3qGuCdyVvKJb) | [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [LIFE](https://open.spotify.com/album/5NPUViV7mLNEGSsRBsdhpe) | 4:10 | 2022-09-08 |  |
@@ -94,6 +96,7 @@
 | [nothing but the love](https://open.spotify.com/track/6nUwq6jL9AiwzsRDxI0AkN) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:04 | 2022-09-08 |  |
 | [Oh Love](https://open.spotify.com/track/0xsn9P9Z93H3uLRs8r1IAl) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [Oh Love](https://open.spotify.com/album/1itQ8XH3mTPrDcT3QC7iLX) | 3:35 | 2022-09-08 |  |
 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 | 2023-02-26 |  |
+| [one drink away](https://open.spotify.com/track/4adKzUS4pIdNstzST1pt3k) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [one drink away](https://open.spotify.com/album/0fhe0dFZsaAvonOdFg34GT) | 3:10 | 2023-05-06 |  |
 | [pale blue dot](https://open.spotify.com/track/0tSbjI0okQUg2enMiM2iIV) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:22 | 2022-09-08 |  |
 | [Poetry](https://open.spotify.com/track/6F84CqAnWGg6CZiWFNDuQ9) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [We Could Be Beautiful](https://open.spotify.com/album/1knxEStPE5aiGzJDa75Zrf) | 4:09 | 2022-09-08 |  |
 | [Popstar](https://open.spotify.com/track/2Vrmc4lE7P2XDqmGazxS8Y) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:55 | 2022-10-29 |  |
@@ -137,6 +140,7 @@
 | [With You \(feat\. Wrabel\)](https://open.spotify.com/track/7gleE2w0CsjsWCs184n522) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:30 | 2022-09-08 |  |
 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 | 2022-09-08 |  |
 | [Written in the Scars \(feat\. Wrabel\)](https://open.spotify.com/track/0W68dlJ9e4OcVWbECODJDM) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:23 | 2022-09-08 |  |
+| [you got yours](https://open.spotify.com/track/1RC6Yf0W2BA6IkoREAKCP7) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [chapter of me](https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol) | 3:28 | 2023-05-06 |  |
 | [You Know It's About You](https://open.spotify.com/track/0SsRtjLUlAPmUBOWChl1n6) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Ballerina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uK7lryagOhgixWruMVfu1) | 3:43 | 2022-09-08 | 2023-04-17 |
 | [You Know It's About You](https://open.spotify.com/track/3Ta0pQe8LbxK3uvDbRBjbo) | [Magical Thinker](https://open.spotify.com/artist/6gPHdKkaoP152zp04WDdq1), [Stephen Wrabel](https://open.spotify.com/artist/6M3KVfVHZ3Bn7WSNUvETSO) | [Leap! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GGZvXaDSTPxzjSxIOfmPJ) | 3:43 | 2023-04-16 |  |
 

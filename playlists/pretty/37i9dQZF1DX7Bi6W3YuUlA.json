@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 14994,
+  "num_followers": 15087,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWUyZGRlN2JmZWQ3YzJmNGIzMTc0OGRmODBmOTI0ODUxZjUzZTc2",
+  "snapshot_id": "MCwzMmRiODY2ZmM1ODhkNzJkOTZiZjNhNzA2MWNlNzM3MjJlZGJmMjc5",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -119,26 +119,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Graves",
-        "url": "https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 260048,
-      "name": "Graves",
-      "url": "https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Let's Be Honest - EP",
         "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 136384,
       "name": "Long Way (feat. KB)",
       "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Graves",
+        "url": "https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 260048,
+      "name": "Graves",
+      "url": "https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Your Word My Mind",
-        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 149300,
-      "name": "Your Word My Mind",
-      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Your Word My Mind",
+        "url": "https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 149300,
+      "name": "Your Word My Mind",
+      "url": "https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "I Need Peace",
-        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
+        "name": "tylerhateslife",
+        "url": "https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC"
       },
       "artists": [
         {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "tylerhateslife",
+          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
         }
       ],
-      "duration_ms": 201632,
-      "name": "I Need Peace",
-      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
+      "duration_ms": 203478,
+      "name": "in my head.",
+      "url": "https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -787,22 +787,6 @@
       "duration_ms": 204000,
       "name": "LORD FORGIVE ME",
       "url": "https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "tylerhateslife",
-        "url": "https://open.spotify.com/album/1YbrOpsiRbFnXNkvOsqbpC"
-      },
-      "artists": [
-        {
-          "name": "tylerhateslife",
-          "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "in my head.",
-      "url": "https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -839,6 +823,22 @@
       "duration_ms": 144000,
       "name": "MAD 2 THE MAX",
       "url": "https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "I Need Peace",
+        "url": "https://open.spotify.com/album/11EUwsiZq5KFq5uTf94neJ"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 201632,
+      "name": "I Need Peace",
+      "url": "https://open.spotify.com/track/1b9yRZtZfHemIdpHYtpckC"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "God Good",
-        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 153737,
-      "name": "God Good",
-      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Look Up to the Sky",
         "url": "https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 100587,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/6Msy1aF3AU9pBRTAoGT9vK"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "God Good",
+        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 153737,
+      "name": "God Good",
+      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "Jidenna",
-          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 184271,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "No Loss",
         "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 156309,
       "name": "Swerve That",
       "url": "https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 184271,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
       },
       "artists": [
         {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
         }
       ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
         }
       ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "When It Hurts: A Story By Isaiah Hill",
-        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 122392,
-      "name": "I Meant It",
-      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "I Can't Let Up",
         "url": "https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF"
       },
@@ -1755,18 +1739,18 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Woosah",
-        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
+        "name": "When It Hurts: A Story By Isaiah Hill",
+        "url": "https://open.spotify.com/album/5WIYU4Amr1Exj6b79Z1pxe"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
         }
       ],
-      "duration_ms": 157753,
-      "name": "Woosah",
-      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
+      "duration_ms": 122392,
+      "name": "I Meant It",
+      "url": "https://open.spotify.com/track/4e5wpbjFHi4Wu9zTYvuH96"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1787,6 +1771,22 @@
       "duration_ms": 147044,
       "name": "Ashamed",
       "url": "https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Woosah",
+        "url": "https://open.spotify.com/album/6dHdewGLzf3DS7IzYMQ3lX"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 157753,
+      "name": "Woosah",
+      "url": "https://open.spotify.com/track/0E1kivol5RnT49KmePFnYc"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "His Side",
         "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 168003,
       "name": "His Side",
       "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2023-02-18 05:58:41",

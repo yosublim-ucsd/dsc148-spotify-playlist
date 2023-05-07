@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=zE3KUBBnRY\-lmf1RRezgpw">Tyler ICU</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,018 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,967 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 46 | [Thokoza](https://open.spotify.com/track/30sDS4E23SZCd95dhXlGlU) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9) | [Thokoza](https://open.spotify.com/album/2JDTorcc8J7HJS7POONsKd) | 6:22 |
 | 47 | [GHOSTS](https://open.spotify.com/track/5BVdwYjEi95h7kY5GgROh3) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu), [Pablo Le Bee](https://open.spotify.com/artist/3k4QYea3ZZiceM9xClgZyw), [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [GHOSTS](https://open.spotify.com/album/3jnhngIBJ1EOddHv3SQDjA) | 6:01 |
 | 48 | [Bayeke](https://open.spotify.com/track/1yRVrzy3MG0nOePUAyHd1y) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceekay RSA](https://open.spotify.com/artist/2H60RrivWa3EpP4ITgry2m) | [Thought It Was Over](https://open.spotify.com/album/249ZTi5ArtibPOAKkiK0vo) | 6:34 |
-| 49 | [Quantum Sounds](https://open.spotify.com/track/1wRVZ49rN1urWuFgkHRyuF) | [De Tories](https://open.spotify.com/artist/3iY9EMGIsjRayDYl5TvSPk), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr), [To Myztro](https://open.spotify.com/artist/08OSTNpNysYGSgBENf2ofH), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Quantum Sounds](https://open.spotify.com/album/5c4ZZgkPLIk8TASBsXe8Ix) | 4:49 |
+| 49 | [Quantum Sounds](https://open.spotify.com/track/1wRVZ49rN1urWuFgkHRyuF) | [De Tories](https://open.spotify.com/artist/3iY9EMGIsjRayDYl5TvSPk), [Citykingrsa](https://open.spotify.com/artist/2Mudgi66HA90FPyhrTFLNr) | [Quantum Sounds](https://open.spotify.com/album/5c4ZZgkPLIk8TASBsXe8Ix) | 4:49 |
 | 50 | [Uyinkanyezi](https://open.spotify.com/track/4iJ75Zg7NeSo0FhXClZf4F) | [Charlotte\_lyf](https://open.spotify.com/artist/5L6oK8NQKw5bqt7qwWJchP), [Lowsheen](https://open.spotify.com/artist/5lnxhnW7SIbxkkFVmVYEhU) | [Uyinkanyezi](https://open.spotify.com/album/5zcl7kpI46UdvIN0J2Od0L) | 5:48 |
 
-Snapshot ID: `MCwzNTU1ZWFlNTViMDlmMWRhN2U4YjQ4YjUxYWJkODM3NGFlMzljODNi`
+Snapshot ID: `MCxkYWMxMDBkNDRlNjI1N2M1NjFiYmZhOWY2OWVhOGRmYTMyM2MwNGU4`

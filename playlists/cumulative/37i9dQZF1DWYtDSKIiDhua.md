@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover:  Paul Partohap
 
-396 songs - 21 hr 31 min
+397 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Do It Right](https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Do It Right](https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR) | 2:54 | 2022-11-17 | 2022-12-17 |
 | [Do Me Right](https://open.spotify.com/track/419qEKI3RalGHPVzEDQeNY) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Still Blue](https://open.spotify.com/album/5NVdE7fnUNSfJ7Taka31IF) | 3:25 | 2022-12-16 | 2022-12-31 |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-05 | 2023-01-20 |
+| [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-06 |  |
 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 | 2022-06-08 | 2022-12-17 |
 | [Don't Need You](https://open.spotify.com/track/6fPUNOgsI5BPQuu1LqjjS6) | [Ai.Z](https://open.spotify.com/artist/3WskbYlYe2qJrMtYnkIvKk), [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Everything In Between](https://open.spotify.com/album/1FuXu8THCvtATJaaMYLI5i) | 3:36 | 2022-10-13 | 2023-02-10 |
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-20 | 2022-10-29 |
@@ -149,7 +150,7 @@
 | [i believe in you](https://open.spotify.com/track/2c6EvcF1pbrYvMmANTkgsA) | [MKNK](https://open.spotify.com/artist/3ISXbYdy7FZsAZL9rEsI27) | [re\-connecting....](https://open.spotify.com/album/1ogi6AzPjORdSXp11Vv1sg) | 3:42 | 2023-04-14 |  |
 | [i can't](https://open.spotify.com/track/2Bb24adoGNek1rlRSe7HDQ) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [IDFK](https://open.spotify.com/album/4dKJaXsb06kSSo1WUAALD6) | 2:31 | 2022-12-01 | 2022-12-17 |
 | [i don’t mind \- RED](https://open.spotify.com/track/2Tr70FkraG5kJEsEehyRjC) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [i don't mind: RED+BLUE](https://open.spotify.com/album/57042oQZ05m9w5IAbAYN6X) | 2:41 | 2022-06-08 | 2022-10-14 |
-| [I Got You](https://open.spotify.com/track/4l1KcERjKWbbGw36LUza1c) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Got You](https://open.spotify.com/album/0924Bbk86ZdrT2wbR2TaWG) | 3:17 | 2023-04-27 |  |
+| [I Got You](https://open.spotify.com/track/4l1KcERjKWbbGw36LUza1c) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [I Got You](https://open.spotify.com/album/0924Bbk86ZdrT2wbR2TaWG) | 3:17 | 2023-04-27 | 2023-05-07 |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-08 | 2022-06-24 |
 | [i hate u owe me $$](https://open.spotify.com/track/75RainG5pTfpOH1Hj937BU) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u owe me $$](https://open.spotify.com/album/6erAGsVqS76Ei8fu66QoKa) | 2:50 | 2022-09-01 | 2023-03-25 |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-09-08 | 2022-09-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 
 > This is ZZ Top\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,800 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,944 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1uge6k.md) - [plain]
 | 49 | [Planet of Women](https://open.spotify.com/track/6VdlbIPdzJYj35Tq05vsH5) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Afterburner](https://open.spotify.com/album/1YRTFKHD0QDO2QAKvU4mLz) | 4:02 |
 | 50 | [Burger Man](https://open.spotify.com/track/4Nm1dKcDgsacRITdywmeWi) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Recycler](https://open.spotify.com/album/0WbYC0Gc9DFh35DhzDwR1k) | 3:19 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAwNDY0MWFhMTY4ZGVkMmExMGM1NTg4MTAwMTFkNjllYw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwNjc2NjlkOTIyNTNjNzI5OGFiNTg3NThjOGUyNTdjYg==`

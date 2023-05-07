@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 177230,
       "name": "Ach Dani Lik",
       "url": "https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8"
@@ -1290,6 +1290,28 @@
       "duration_ms": 197785,
       "name": "FORSSA",
       "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
+    },
+    {
+      "album": {
+        "name": "Galbi Mazal",
+        "url": "https://open.spotify.com/album/73UXBEpmeRvzFUrbAPielh"
+      },
+      "artists": [
+        {
+          "name": "Mido Belahbib",
+          "url": "https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm"
+        },
+        {
+          "name": "Ily",
+          "url": "https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164532,
+      "name": "Galbi Mazal",
+      "url": "https://open.spotify.com/track/67PdC9pbSDsuZ2YpTCITw0"
     },
     {
       "album": {

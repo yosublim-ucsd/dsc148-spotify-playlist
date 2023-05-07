@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,784 likes - 50 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,835 likes - 50 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [Atomic Garden](https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Generator](https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr) | 3:10 |
 | 50 | [Tiny Voices](https://open.spotify.com/track/1XrTWPYZbc0yLpBLY3rKD9) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:37 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA5YThiYjczMzUyNDUyN2E2MjM4YjllM2MxOGNkOTE5OA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5OTIzNjE4ODA1ZmRlMTBlY2JmMjk4YTY3OTA4YjI0Mg==`

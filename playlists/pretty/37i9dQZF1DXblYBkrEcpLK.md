@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,643 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,972 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 29 | [キミトノミライ](https://open.spotify.com/track/4kWZybr12HVofExyX9zrMT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [キミトノミライ/Invisible stars](https://open.spotify.com/album/6ixLpTe3kb4WJ8Zp7tH9PT) | 4:05 |
 | 30 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
 | 31 | [Dear](https://open.spotify.com/track/6S0iISRQW7TK8OM3gN3NyE) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [5th Anniversary 3rd Full Album Dear](https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z) | 5:01 |
-| 32 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
+| 32 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
 | 33 | [MAGICAL DESTROYER](https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [MAGICAL DESTROYER](https://open.spotify.com/album/7LtA97RybPQ1EJA03SQtzV) | 3:47 |
-| 34 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
+| 34 | [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 |
 | 35 | [Kokorone](https://open.spotify.com/track/43nVvwOh89GG7LXWhmZFkd) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Kokorone](https://open.spotify.com/album/0tmQTiDf8sdswXxCwwyeP5) | 3:10 |
 | 36 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
 | 37 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 46 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 |
 | 47 | [ANIMA](https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [unknown](https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW) | 4:29 |
 | 48 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 |
-| 49 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
-| 50 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
+| 49 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 |
+| 50 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 |
 
-Snapshot ID: `MCxjNGU3NWE4ZjEzZTNjYmFjYTU5NDA1MTQ2Yzc1NzljMzc5ZGNmZjVm`
+Snapshot ID: `MCwzNDc2MzM1OTlmMTczNWVlYjgxMmFlMDNlMTQzNGY3YzNkOGM1OWZm`

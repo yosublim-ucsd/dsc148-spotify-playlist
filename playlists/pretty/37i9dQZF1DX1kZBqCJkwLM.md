@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,889 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,927 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 29 | [Last Day On Earth](https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Last Day On Earth](https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj) | 3:42 |
 | 30 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 |
 | 31 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 |
-| 32 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
-| 33 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 |
+| 32 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 |
+| 33 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
 | 34 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
 | 35 | [damn Right Pt\. 2](https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [damn Right Pt\. 2](https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4) | 3:06 |
 | 36 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 67 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 |
 | 68 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 69 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 |
-| 70 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 |
-| 71 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
-| 72 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
-| 73 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 |
+| 70 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 |
+| 71 | [Selfish](https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Selfish](https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil) | 2:26 |
+| 72 | [I'm a Moth!!](https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [I'm a Moth!!](https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a) | 2:06 |
+| 73 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 |
 | 74 | [Space](https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Space](https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9) | 3:13 |
 | 75 | [Dance Like Nobody's Watching](https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Dance Like Nobody's Watching](https://open.spotify.com/album/1KuHFlATr4aoVahHKY3pzU) | 3:45 |
 | 76 | [Power](https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 4:42 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 78 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 79 | [sardines](https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [chump change](https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE) | 2:12 |
 | 80 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 |
-| 81 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
-| 82 | [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 |
-| 83 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
+| 81 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
+| 82 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
+| 83 | [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 |
 | 84 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
 | 85 | [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 |
-| 86 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
-| 87 | [ALJI](https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x) | [Sam Rui](https://open.spotify.com/artist/3GFO1X5LAHduvR314sXnqI), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [ALJI](https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY) | 3:10 |
+| 86 | [ALJI](https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x) | [Sam Rui](https://open.spotify.com/artist/3GFO1X5LAHduvR314sXnqI), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg) | [ALJI](https://open.spotify.com/album/5NJTTERS5cpOfBH5MKHgpY) | 3:10 |
+| 87 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
 | 88 | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/track/0VxIxeP9LKGnV1SLTDTk4w) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk), [Hans.](https://open.spotify.com/artist/41azuh0IUq4g2UPySoYp8A) | [Weekenders \(feat\. Hans.\)](https://open.spotify.com/album/6Ey4kcZS1m0IQvv7R8ZaXu) | 3:39 |
 | 89 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
 | 90 | [At the Party](https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Nicole Kidman / Anne Hathaway](https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA) | 2:37 |
 
-Snapshot ID: `MCxhZDYzNGRiYjNlMDZhNzZmOGRlZDk3YmU4MjE5OWEzNzBhYTVhZmZi`
+Snapshot ID: `MCw5MThhNTgzMzg1MDI4YjA3YWFkM2E4Y2E4M2FjNjkwNjJiYTRiZDM2`

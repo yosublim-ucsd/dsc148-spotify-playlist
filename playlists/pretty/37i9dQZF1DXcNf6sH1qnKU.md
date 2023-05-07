@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,814 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,440 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 13 | [Lazuli](https://open.spotify.com/track/6HdMeOwJXD3oY1Thn1bsCY) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 5:01 |
 | 14 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
 | 15 | [Kinky Love](https://open.spotify.com/track/5hUCTgttGB1eS4GJdPEQEM) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [Flesh Balloon](https://open.spotify.com/album/57N92LQlPaWjNfxCP98SRx) | 4:04 |
-| 16 | [For Love](https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 3:29 |
+| 16 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 |
 | 17 | [Sugar for the Pill](https://open.spotify.com/track/0eVz3hV2xOXdneGpnWDFpb) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa) | 4:30 |
-| 18 | [Yam Yam](https://open.spotify.com/track/26iu1k7U1NT2i8Sz7mDPGa) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Yam Yam](https://open.spotify.com/album/127WZmGnH2ui60lIJVSEZi) | 3:36 |
+| 18 | [For Love](https://open.spotify.com/track/3KiKpbpJp9QKuTZb9ocfJi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 3:29 |
 | 19 | [Just Like Honey](https://open.spotify.com/track/1CapNlKgeOWlBEE54CRamd) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 3:01 |
 | 20 | [Kick The Tragedy](https://open.spotify.com/track/40ABtf917Ghhi2tkQDNOdn) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Delaware](https://open.spotify.com/album/0kAlEeID2MPd2JYT3Iwegp) | 8:55 |
 | 21 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 29 | [Majorette](https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Thank Your Lucky Stars](https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO) | 4:00 |
 | 30 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
 | 31 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 |
-| 32 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
-| 33 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
+| 32 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
+| 33 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
 | 34 | [Echo's Answer](https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:11 |
 | 35 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
 | 36 | [Crazy for You](https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Breathe in, Breathe Out](https://open.spotify.com/track/06fSbKiMP2Z7vzYG4WOBXB) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/0jolpH4eoj3kSEVg9mvZXr) | 2:50 |
 | 50 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 |
 
-Snapshot ID: `MCxhNmY4MTI3OWZmN2I0Mjc3MjBjNjgyMzFlNjBmZWE4NzE3ZTY1YjRj`
+Snapshot ID: `MCwyNDM1ZGFmOTZjODc1NGNmNzJiZDBkOTE4YTk3ZmMyZDQ0MTFhMTI4`

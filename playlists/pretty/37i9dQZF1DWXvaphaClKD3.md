@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la Música Mexicana\. Banda MS, Ice Cube en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,380 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,486 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 10 | [Gatos \(En Vivo\)](https://open.spotify.com/track/4cqdrxjpWi5RCv95NFOfRq) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Gatos \(En Vivo\)](https://open.spotify.com/album/4Aa2BCTkkzwUCoHnJUKSSt) | 2:47 |
 | 11 | [Querida](https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Querida](https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S) | 3:08 |
 | 12 | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/track/5m9nkKTgo3D4vrFG7yVW2Q) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Fruta Prohibida \(En Vivo\)](https://open.spotify.com/album/6YdurIed4b8G10sqyiRi5Y) | 2:43 |
-| 13 | [El Papel Cambió \- En Vivo](https://open.spotify.com/track/2Vfdag30H4TGSerI8KE9yK) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [El Papel Cambió \(En Vivo\)](https://open.spotify.com/album/4OGEhGVjPZx5cCpsYpUyM1) | 3:10 |
+| 13 | [El Papel Cambió \- En Vivo](https://open.spotify.com/track/2Vfdag30H4TGSerI8KE9yK) | [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Banda Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p) | [El Papel Cambió \(En Vivo\)](https://open.spotify.com/album/4OGEhGVjPZx5cCpsYpUyM1) | 3:14 |
 | 14 | [El Chavo \- En Vivo](https://open.spotify.com/track/03sLIskEZjUd2e77MXx9zb) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Frecuencia Cero](https://open.spotify.com/artist/1jwUNh0TTTwSUal1lndl7f) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5UjocM1OMiQ5Xcjcxza8NV) | 3:10 |
 | 15 | [Bien Lo Se \(En Vivo\)](https://open.spotify.com/track/7el0n6BhKq0PMrCBcNYQrr) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [REC23](https://open.spotify.com/album/3YP3tQnEhAbzFHDa4YDIfa) | 2:16 |
 | 16 | [Para Que No Te Acuerdes](https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Para Que No Te Acuerdes](https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 49 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 |
 | 50 | [Princesa](https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Princesa](https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR) | 2:31 |
 
-Snapshot ID: `MCwzMTBhNTA5YzJmNTA3OTQzMzAwMTZlOGQ2ZjA5NTUyMWU4MjIwYTk4`
+Snapshot ID: `MCw0YWU2MmQ3YTg4ZWE2NjI5YjhjODhiZjU3YzNhODc2ODQ0Yzg0YWU1`

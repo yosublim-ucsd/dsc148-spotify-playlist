@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan
 
-274 songs - 13 hr 46 min
+275 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Redemption](https://open.spotify.com/track/3uM6ylNw8MEwJFITiHe36l) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Redemption](https://open.spotify.com/album/4E2kHb8xB0wTeC4JhyIIOl) | 3:11 | 2023-04-13 |  |
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/59ze8lLaqAIamVOBx46RcQ) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/0FijhrXIqeHShfcww5Smb0) | 2:41 | 2023-02-02 | 2023-02-10 |
 | [River](https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ) | [ATSY x Taner](https://open.spotify.com/artist/5AaJLPsvIhcIx2ZlgGTlvB), [Burnhaze](https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [River](https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK) | 3:35 | 2023-04-13 |  |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-27 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-27 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-04 |  |
 | [Rockstar \- TELEx TELEXs Remix](https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [TELEx TELEXs](https://open.spotify.com/artist/1BHYRsFqV0ON7RUFM9qF2Q) | [Rockstar \(TELEx TELEXs Remix\)](https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq) | 3:43 | 2023-04-06 |  |
 | [Rollin Up](https://open.spotify.com/track/2GtAvkQM9hMpM4mRoSIHwX) | [Wolfpack](https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox), [Van Heden](https://open.spotify.com/artist/7ARg1U4yL7yEnaE3pf1gN0), [A\-Trick](https://open.spotify.com/artist/4IR7Q0Fqnx1jC3oiHz4TBW) | [Rollin Up](https://open.spotify.com/album/3THVd9cRFXnUKP3JLph0ZP) | 2:39 | 2023-02-02 | 2023-02-17 |
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2023-02-02 | 2023-02-17 |

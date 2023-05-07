@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,398 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,411 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 97 | [Qué Lástima](https://open.spotify.com/track/0NvO81WDJmJ1aorQ4Of2i9) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:21 |
 | 98 | [Hasta En Mis Huesos](https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:04 |
 | 99 | [Cien Años](https://open.spotify.com/track/3XeHLWySChbhhvaZFRezpS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 2:54 |
-| 100 | [Acá Entre Nos \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/42sXKjLh6v97XWojhwckLR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 3:56 |
+| 100 | [Regálame Esta Noche](https://open.spotify.com/track/0V0eGJNLJQXPkAp6RTVNmJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 2:53 |
 
-Snapshot ID: `MCw3ZDlkZWMwOTk4MGRhNmJmYmJjYTA2N2E4NDNiMTQ4YTUyZDE5YmRl`
+Snapshot ID: `MCwwNThmOTBhYWJiY2M1NjI5ODFkN2I5YmY4YzEyYzQ1MmY5NWNkY2E2`

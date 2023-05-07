@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 
 > The best and finest '80s Funk\. Cover: Bootsy Collins.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,049 likes - 100 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,239 likes - 100 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJ0TKGKfzgP.md) - [plain]
 | 99 | [Walkin' The Line](https://open.spotify.com/track/32ZRHR67bss5cpB7Dw2kYb) | [Brass Construction](https://open.spotify.com/artist/5jWuVnPLmjABrgCGianzs9) | [Best Of ..Movin' & Changin'](https://open.spotify.com/album/70mFuD9TrIvjUoZN45R4M0) | 5:45 |
 | 100 | [Baby Love](https://open.spotify.com/track/6TyPeZdVWsgnCqHS6azkv5) | [Aurra](https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG) | [Live and Let Live](https://open.spotify.com/album/59mwpuFNItrOg2gAbmdKEJ) | 5:53 |
 
-Snapshot ID: `MCw5ZWY4Y2IwOGU4Y2NmNGUyZmI4ZmQ3NDgyMGI5ZWM3OWUyOWY2MjA5`
+Snapshot ID: `MCxhMmNhMmViYzc0NDAxZjgzMzRjZTIzNGYxNmQ5ZTI2Y2VjMjM0Zjhj`

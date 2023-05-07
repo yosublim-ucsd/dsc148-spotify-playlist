@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: ERRE",
-  "num_followers": 98740,
+  "num_followers": 98754,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw",
+  "snapshot_id": "MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh",
   "tracks": [
     {
       "added_at": "2023-04-21 06:22:36",
@@ -295,7 +295,7 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Corazon Romantico",
+        "name": "Coraz\u00f3n Romantico",
         "url": "https://open.spotify.com/album/3KSSAeH5WvviOZZWXnSMVd"
       },
       "artists": [
@@ -305,7 +305,7 @@
         }
       ],
       "duration_ms": 194822,
-      "name": "Corazon Romantico",
+      "name": "Coraz\u00f3n Romantico",
       "url": "https://open.spotify.com/track/5y4Tuz6zZE0J3tokR8YRLS"
     },
     {
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Perdido en el Tiempo",
         "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 116758,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "El Mago",
-        "url": "https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U"
+        "name": "L\u00e1grimas De Dolor",
+        "url": "https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY"
       },
       "artists": [
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
         }
       ],
-      "duration_ms": 228560,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
+      "duration_ms": 229621,
+      "name": "L\u00e1grimas De Dolor",
+      "url": "https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "L\u00e1grimas De Dolor",
-        "url": "https://open.spotify.com/album/7ltR6C6ExOrExTTkZlRAmY"
+        "name": "El Mago",
+        "url": "https://open.spotify.com/album/17ny6z6kOhqb0sM5P1PA5U"
       },
       "artists": [
         {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         }
       ],
-      "duration_ms": 229621,
-      "name": "L\u00e1grimas De Dolor",
-      "url": "https://open.spotify.com/track/62BFMRJTwMV0ID8Svk3rLD"
+      "duration_ms": 228560,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/64BT7EQGUDDPbDImkOprxS"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "El Jamaico",
-        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 144340,
-      "name": "El Jamaico",
-      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "El Raulito",
         "url": "https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 190480,
       "name": "El Raulito",
       "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "El Jamaico",
+        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 144340,
+      "name": "El Jamaico",
+      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
     },
     {
       "added_at": "2023-04-21 06:22:36",

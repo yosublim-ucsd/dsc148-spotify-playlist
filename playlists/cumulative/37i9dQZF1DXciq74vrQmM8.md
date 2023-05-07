@@ -4,7 +4,7 @@
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. bring me the horizon
 
-518 songs - 1 day 0 hr 26 min
+520 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [hi, my name is lonely.](https://open.spotify.com/track/4TKrQI3vyPH31FdOd4WOve) | [stef](https://open.spotify.com/artist/3Tqps31ekhHVR7ylpNUzSj) | [A Glitch in Our Virtual Reality](https://open.spotify.com/album/0Z982C1sqouyogCsQqkrwx) | 2:50 | 2022-10-13 | 2022-12-01 |
 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 | 2022-09-22 | 2022-11-11 |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-01-20 |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-04 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-05-07 |
 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 | 2023-01-21 |  |
 | [Hëłlœ Kįttÿ](https://open.spotify.com/track/2rgSmMnvuLApibAHhhJ8vI) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Hëłlœ Kįttÿ](https://open.spotify.com/album/688OvyTBMdBL6ckZXeN6Kf) | 2:46 | 2023-01-27 |  |
 | [I Don't Believe in Anything](https://open.spotify.com/track/5AUGTQppAxp03UpaEVZaiD) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Entropy](https://open.spotify.com/album/02k59B671W2g0wbwqFxPL8) | 3:14 | 2022-10-27 |  |
@@ -245,7 +246,8 @@
 | [I Went Too Far \- MK Remix / Radio Version](https://open.spotify.com/track/71GieY2cMEh4s7Unv00gnw) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [I Went Too Far \(MK Remix\)](https://open.spotify.com/album/2nZmJPlEBwQYyVqN46GoHP) | 3:57 | 2022-04-19 | 2022-04-29 |
 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 | 2023-02-03 |  |
 | [i wrote this song for you](https://open.spotify.com/track/6SI6iZF77D0ODO4btUgsmm) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [no more feelings](https://open.spotify.com/album/1sgQcReldcJLiEr8hywVAI) | 2:40 | 2023-02-03 | 2023-03-03 |
-| [I'm A Star](https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7) | 3:19 | 2022-10-13 |  |
+| [I'm A Star](https://open.spotify.com/track/3Vkh7zr3FM9SyHtZLCIYG1) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/5v9GRQGPIWdqfZr3XC9NFf) | 3:19 | 2023-05-04 |  |
+| [I'm A Star](https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7) | 3:19 | 2022-10-13 | 2023-05-07 |
 | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/track/1ES945YJBmADUuIkXr3Mv3) | [SPIDER](https://open.spotify.com/artist/4SKFiKjEPLdlpXSOQZhlsi) | [I'M FINE! I'M GOOD! I'M PERFECT!](https://open.spotify.com/album/70rb6TesKaKl08tBD9L5wo) | 3:15 | 2021-12-27 | 2022-01-06 |
 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 | 2021-12-27 | 2022-02-04 |
 | [IDontFeelTheSame.](https://open.spotify.com/track/0JuzXipMC0pA7dTw6ZWRDh) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [IDontFeelTheSame.](https://open.spotify.com/album/4wsM8oy5MdDrbUye37S6X1) | 2:40 | 2022-06-09 | 2022-09-23 |

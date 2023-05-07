@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 805 likes - 55 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 808 likes - 55 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
-| 2 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 1 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
+| 2 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 |
 | 3 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 |
 | 4 | [Twin Size Mattress](https://open.spotify.com/track/14N3tALR3Mhf7UHpJRKk4L) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Talon Of The Hawk](https://open.spotify.com/album/1Xz5zrDqXetBm5HwNGSqPs) | 4:24 |
 | 5 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 54 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
 | 55 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 
-Snapshot ID: `MCw0NTBjN2VmNWY2MjE4NGVhYWJiN2QzODZmYjRjYWZkMjE5NzE0ZDY0`
+Snapshot ID: `MCw3M2VlYzI1YmY0ZGMwY2IxMWY3YzJiMGVjM2M5MjExMTk4ZWRlNDYy`

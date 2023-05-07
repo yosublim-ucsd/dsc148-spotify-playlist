@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,116 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,139 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 4 | [Nothing](https://open.spotify.com/track/1lORkxEMmsCZqhoxcmk3A3) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 2:42 |
 | 5 | [how r u sleeping](https://open.spotify.com/track/6ntPrjBNZMimqQAYk6tS2r) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [how r u sleeping](https://open.spotify.com/album/3aqDKXvaCeUBAmjdpleUuJ) | 3:48 |
 | 6 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 |
-| 7 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 |
-| 8 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
+| 7 | [Anything You Want](https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Anything You Want](https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY) | 3:56 |
+| 8 | [Blue Jeans](https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Blue Jeans](https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi) | 3:31 |
 | 9 | [SOMEBODY](https://open.spotify.com/track/3iqlzKw1tLt6tXZyKWV0fZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:44 |
 | 10 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
 | 11 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 |
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 13 | [my type](https://open.spotify.com/track/1tvxzDoafjqs4yvjZW4n2K) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [my type](https://open.spotify.com/album/3qhn2VpMdGW7khh0FGXA9F) | 2:12 |
 | 14 | [Best Lover](https://open.spotify.com/track/0iWFz0Q5Qha9bx325ocFWq) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Head In The Clouds Forever](https://open.spotify.com/album/0LxjjZ20pPOakBSYwrmbjv) | 2:32 |
 | 15 | [confidence in me](https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [confidence in me](https://open.spotify.com/album/0UZuzKM4ofQQoQOJdZbjdv) | 2:42 |
-| 16 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
+| 16 | [Whiskey Bottle](https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 2:30 |
 | 17 | [TOUCH](https://open.spotify.com/track/5cgy5vMqVZbd8hYutp2txu) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 3:25 |
 | 18 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 |
-| 19 | [Whiskey Bottle](https://open.spotify.com/track/02lLcrfxGj4XtrpgHGQ66o) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 2:30 |
+| 19 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 20 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 |
 | 21 | [Shortcut To Heaven](https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Shortcut To Heaven](https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ) | 3:04 |
 | 22 | [Call Me](https://open.spotify.com/track/67OZSzWvhMgLzUwYOpt3eY) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Call Me](https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB) | 2:52 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 27 | [Favourite Things](https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Favourite Things](https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg) | 2:53 |
 | 28 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 |
 | 29 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 |
-| 30 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
-| 31 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
+| 30 | [Beautiful Day](https://open.spotify.com/track/2gTLLRw4CBl709U3dRICEh) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Beautiful Day](https://open.spotify.com/album/03ZB5kFwcHIijh2urFzcOV) | 2:55 |
+| 31 | [I Wouldn't Know Any Better Than You](https://open.spotify.com/track/3K8tRD2Prik7FXbD8lZ6DC) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [I Wouldn't Know Any Better Than You](https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj) | 2:31 |
 | 32 | [move](https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [move](https://open.spotify.com/album/1gaYhlmZa4fT0NfH1IiSQ4) | 2:28 |
 | 33 | [Oh It's You](https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY) | [Summertime](https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a) | 3:25 |
 | 34 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 47 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
 | 48 | [do me right](https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 2:58 |
 | 49 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
-| 50 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
-| 51 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
+| 50 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 |
+| 51 | [Bad Haircut \(feat\. JVKE\)](https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [oh to be in love](https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9) | 3:42 |
 | 52 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 |
 | 53 | [my only](https://open.spotify.com/track/15T6FzdI9TMOwKA0iTO44O) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [my only](https://open.spotify.com/album/77THIeUyd2AAlIt6WKryGu) | 2:53 |
 | 54 | [Good For A Time \(feat\. Bea Lorenzo\)](https://open.spotify.com/track/3uan6scrspVI9GQQWdtya2) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Bea Lorenzo](https://open.spotify.com/artist/6IwtJ7xt7qhukLAqLwHvzG) | [Good For A Time \(feat\. Bea Lorenzo\)](https://open.spotify.com/album/3KjBwYUsTtWGFVJ2IjV6qs) | 2:24 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 69 | [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 |
 | 70 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 |
 
-Snapshot ID: `MCxiMjQ2NjMwMzVmMGU2NDQxOWVlZDQ2MWZmNzYyMjQzMmRmNTBkNTJk`
+Snapshot ID: `MCxhODU1MmVlNGE0ODI1OTdjYTYyNjc0MzJlN2I4NjY2YzRhMTU3NmI2`

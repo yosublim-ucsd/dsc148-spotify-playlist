@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 
 > For those cozy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,385 likes - 150 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,540 likes - 150 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 48 | [Mess Is Mine](https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:43 |
 | 49 | [Please Keep Loving Me](https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Please Keep Loving Me](https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64) | 3:15 |
 | 50 | [This I Promise You](https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 4:44 |
-| 51 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 |
+| 51 | [Weak](https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4) | 2:39 |
 | 52 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 |
-| 53 | [Weak](https://open.spotify.com/track/3UnfOb5hmnf4KF7NIgAj9a) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Weak](https://open.spotify.com/album/5iZOesuEQxTbZkvSuyAaK4) | 2:39 |
+| 53 | [Lay By Me](https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Melancholic](https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J) | 2:50 |
 | 54 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 |
 | 55 | [Let It All Go](https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [Let It All Go](https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw) | 4:40 |
 | 56 | [All That Matters](https://open.spotify.com/track/6CLVh9sekZ1p2G8Tfhhj8h) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 3:11 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 76 | [Flashlight \- From "Pitch Perfect 2" Soundtrack](https://open.spotify.com/track/6SkoBaMd0lzoQjID5aV2d9) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Pitch Perfect 2 \- Special Edition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE) | 3:29 |
 | 77 | [It's Gotta Be You](https://open.spotify.com/track/6cAKeFFYW2aClZSUyvqAEW) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [Isaiah](https://open.spotify.com/album/0Mcl4Qm47aTgoJ35CFGsQv) | 3:13 |
 | 78 | [We Ride](https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:56 |
-| 79 | [Chemicals](https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:41 |
-| 80 | [Midnight Train](https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:27 |
+| 79 | [Midnight Train](https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:27 |
+| 80 | [Chemicals](https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:41 |
 | 81 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
 | 82 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
 | 83 | [I Was Made For Loving You](https://open.spotify.com/track/1Xwh83YOFQARZ3QXscP123) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Unbreakable Smile](https://open.spotify.com/album/2mH2TVd6euTmrn9Pcw9XHS) | 3:08 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 85 | [One Call Away \- Acoustic](https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic + Remixes\)](https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q) | 3:09 |
 | 86 | [Place We Were Made](https://open.spotify.com/track/7nZF59EvFUshBQfhHev64D) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Place We Were Made](https://open.spotify.com/album/3lAphThw6i1jHzvXVGXJmE) | 3:05 |
 | 87 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 |
-| 88 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
-| 89 | [Palace](https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:07 |
+| 88 | [Palace](https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:07 |
+| 89 | [Dirty Old Town](https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh) | [Craig Cardiff](https://open.spotify.com/artist/2VMxEtyyo7Jg3jmVDQPHwx) | [Goodnight \(Go Home\)](https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd) | 4:06 |
 | 90 | [Take Me Home](https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 4:25 |
 | 91 | [I Believe in Us](https://open.spotify.com/track/59JtQ8mThUAnRGValaExhc) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Surround Me \- EP](https://open.spotify.com/album/3m61NACPLHynQ8JHZpPXd4) | 3:22 |
 | 92 | [Here With Me](https://open.spotify.com/track/02VOS5QRFc6i1XQVROAeDi) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Here With Me](https://open.spotify.com/album/2Lckft3XE6ElWoCny1h1Xo) | 3:16 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawcx4otNoU1.md) - [plain]
 | 149 | [Song For A Friend](https://open.spotify.com/track/52xQMyCABMvx7nSoPZXeSV) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Song For A Friend](https://open.spotify.com/album/5QSrxF1V37uujwGsZdYy4I) | 3:56 |
 | 150 | [Animals \- Unplugged Version](https://open.spotify.com/track/2B4aEk81BPoL658L1XYG8y) | [Chris Call](https://open.spotify.com/artist/2VG4hPDzupCJX6q4sy1lRg) | [Animals](https://open.spotify.com/album/6DtdsdwOV5h6wG17vSpgn1) | 3:50 |
 
-Snapshot ID: `MCxkYTFiZjVkNjZhNWMwMGM1YTg2NzRmNmJmOTM5ZmQ3ZGZjZDI4NjVj`
+Snapshot ID: `MCxmYjZiNTBjMDhjMTAyNWU0YTgzMmJiODQ3MmU4Y2M3OTQ5ZGJkNmQz`

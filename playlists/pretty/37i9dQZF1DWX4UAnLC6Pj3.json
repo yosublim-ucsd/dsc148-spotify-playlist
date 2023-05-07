@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda El Recodo en portada.",
-  "num_followers": 1112375,
+  "num_followers": 1112718,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjVhODg0ODllMGE2Y2ZjYTk1MjRiNDdmZTMwNzVjNGQ2NDBjMDk4",
+  "snapshot_id": "MCxhNmY2ZjcyODlhNDVjNDdmZmZhNTBhZTA4OTc5NzhjMWEyZTk1OTlh",
   "tracks": [
     {
       "added_at": "2023-05-05 20:39:41",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-05 20:39:41",
       "album": {
-        "name": "Fuerte No Soy",
-        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
-    },
-    {
-      "added_at": "2023-05-05 20:39:41",
-      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2023-05-05 20:39:41",
+      "album": {
+        "name": "Fuerte No Soy",
+        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
     },
     {
       "added_at": "2023-05-05 20:39:41",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-05-05 20:39:41",
       "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 215303,
+      "name": "Sigues Siendo Tu - En vivo",
+      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
+    },
+    {
+      "added_at": "2023-05-05 20:39:41",
+      "album": {
         "name": "24/7 Dolido",
         "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
       },
@@ -1587,24 +1603,8 @@
     {
       "added_at": "2023-05-05 20:39:41",
       "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 215303,
-      "name": "Sigues Siendo Tu - En vivo",
-      "url": "https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3"
-    },
-    {
-      "added_at": "2023-05-05 20:39:41",
-      "album": {
-        "name": "El De Los Collares",
-        "url": "https://open.spotify.com/album/0uf8gfJPV37b5LZaQtoQpi"
+        "name": "Cambiaste Mis Planes",
+        "url": "https://open.spotify.com/album/4AP7kCFERVd5eKxFlbK1pF"
       },
       "artists": [
         {
@@ -1612,13 +1612,13 @@
           "url": "https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY"
         },
         {
-          "name": "Los Luna Oficial",
-          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 150826,
-      "name": "El De Los Collares",
-      "url": "https://open.spotify.com/track/0eomXwhvCUSFUtgrGzSLSX"
+      "duration_ms": 213666,
+      "name": "Cambiaste Mis Planes",
+      "url": "https://open.spotify.com/track/02brBj2eGQVlHXNJzM7Tpk"
     },
     {
       "added_at": "2023-05-05 20:39:41",

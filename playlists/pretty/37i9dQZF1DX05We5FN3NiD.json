@@ -1,12 +1,12 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 37473,
+  "num_followers": 37505,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGIyODE1YjFlODA0YjczNTFmMDAyOGE0Y2JiMTBhYmEyNGE3Y2Yz",
+  "snapshot_id": "MCw3YWRhYjEzNDg1NzY3YjU2NDNhMGJkM2U5YTRmMDg2OThlODk4YTk0",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 211200,
       "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Designer",
-        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 299440,
-      "name": "The Barrel",
-      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Father of the Bride",
         "url": "https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ"
       },
@@ -1147,34 +1163,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Lovestained",
-        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Lovestained",
-      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
+      "duration_ms": 138115,
+      "name": "Doom Days",
+      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "Lovestained",
+        "url": "https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
         }
       ],
-      "duration_ms": 138115,
-      "name": "Doom Days",
-      "url": "https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt"
+      "duration_ms": 175280,
+      "name": "Lovestained",
+      "url": "https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "Ain't Together",
-      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 205026,
       "name": "Summer Girl - Bonus Track",
       "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Ain't Together",
+      "url": "https://open.spotify.com/track/4aGvs7y4hQIbGss7zmEXKf"
     },
     {
       "added_at": "2022-09-16 04:53:36",

@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 34039,
+  "num_followers": 34062,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjM0ZTMyMWFjNGJiMDExMzcyMjZhZTcwZTFmOWQxZTVhODU5NDkz",
+  "snapshot_id": "MCwwZDg0YjNjZDcwODYzZTY1NWFhODk5ZjljYjhhYzZlM2M1ZmY3YTEx",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "A Valentine For You",
         "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 127186,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
         "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 168480,
       "name": "Rudy, A Message To You",
       "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Elegance: The Birth Of The Modern Jazz Quartet",
-        "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Trio Ternura (Compacto 1973)",
         "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 183053,
       "name": "A Gira",
       "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Elegance: The Birth Of The Modern Jazz Quartet",
+        "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 209400,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Para Todo el Mundo, Vol. 2",
-        "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
-      },
-      "artists": [
-        {
-          "name": "Los Destellos",
-          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
-        },
-        {
-          "name": "Enrique Delgado",
-          "url": "https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Elsa",
-      "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Intensified",
         "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
       },
@@ -1147,6 +1127,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Para Todo el Mundo, Vol. 2",
+        "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
+      },
+      "artists": [
+        {
+          "name": "Los Destellos",
+          "url": "https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf"
+        },
+        {
+          "name": "Enrique Delgado",
+          "url": "https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Elsa",
+      "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Gipsy Kings",
         "url": "https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS"
       },
@@ -1159,22 +1159,6 @@
       "duration_ms": 231093,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/1R0GOPjljIJ997WnDXWW88"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/1dx48GQoWg5u6ssXmihkV2"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "L\u00e1grimas negras",
-      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1195,6 +1179,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/1dx48GQoWg5u6ssXmihkV2"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "L\u00e1grimas negras",
+      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Curanderas",
         "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
       },
@@ -1211,18 +1211,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+        "name": "Endangered Species (Bonus Edition)",
+        "url": "https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3"
       },
       "artists": [
         {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O"
         }
       ],
-      "duration_ms": 155773,
-      "name": "Toda una vida",
-      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+      "duration_ms": 222920,
+      "name": "Mi Swing es Tropical",
+      "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1259,26 +1267,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Endangered Species (Bonus Edition)",
-        "url": "https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3"
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
       "artists": [
         {
-          "name": "Nickodemus",
-          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O"
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
         }
       ],
-      "duration_ms": 222920,
-      "name": "Mi Swing es Tropical",
-      "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
+      "duration_ms": 155773,
+      "name": "Toda una vida",
+      "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
-        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Bonfa Burrows Brazil",
         "url": "https://open.spotify.com/album/2FZVahHc8nS73bBKXmsKMq"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 234200,
       "name": "The Shade of the Mango Tree",
       "url": "https://open.spotify.com/track/6gdTVZdQcVN54ynCk38l5U"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia",
+        "url": "https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Sweet and Dandy",
-        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
-      },
-      "artists": [
-        {
-          "name": "The Maytals",
-          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Sweet and Dandy",
-      "url": "https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
         "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
       },
@@ -1595,18 +1579,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+        "name": "Sweet and Dandy",
+        "url": "https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ"
       },
       "artists": [
         {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+          "name": "The Maytals",
+          "url": "https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo"
         }
       ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
+      "duration_ms": 188466,
+      "name": "Sweet and Dandy",
+      "url": "https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1627,6 +1611,22 @@
       "duration_ms": 263266,
       "name": "Um Abraco No Getz",
       "url": "https://open.spotify.com/track/29v0gMFSZ7VmKXWOdywJck"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2021-03-15 16:04:53",

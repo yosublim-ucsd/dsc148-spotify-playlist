@@ -1,12 +1,12 @@
 {
   "description": "beber gin em casa, nada melhor",
-  "num_followers": 109504,
+  "num_followers": 109526,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjI0MTkyMTU5ODVkYWMzOTE0MWUxODM0YzJmZTU4YWQ3N2Y3MThm",
+  "snapshot_id": "MCwwYTJjZDdhN2UyNmUzYTRkNTcxNzI4YjIzMmQ2MWE0NzBjYzkzYWFh",
   "tracks": [
     {
       "added_at": "2023-02-10 12:58:10",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
         "name": "Over Now (with The Weeknd)",
         "url": "https://open.spotify.com/album/3GPiefSRSOxqTrgKJIB7RL"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 210795,
       "name": "Over Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/58AGoOGbwsQMhBbH0eFLRR"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -775,38 +775,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Pearls",
-        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Pearls",
-      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
-        "name": "3:33am",
-        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 214578,
-      "name": "Lose My Cool",
-      "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "Cheesin'",
         "url": "https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh"
       },
@@ -843,6 +811,38 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "3:33am",
+        "url": "https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 214578,
+      "name": "Lose My Cool",
+      "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Pearls",
+        "url": "https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf"
     },
     {
       "added_at": "2023-02-10 12:58:10",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-02-10 12:58:10",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2023-02-10 12:58:10",
-      "album": {
         "name": "Pressure (with SG Lewis)",
         "url": "https://open.spotify.com/album/5SpHQeSQDWZSrpF4axn4jW"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 169411,
       "name": "Pressure (with SG Lewis)",
       "url": "https://open.spotify.com/track/04ToULF2xWTbVtfAUk6K7P"
+    },
+    {
+      "added_at": "2023-02-10 12:58:10",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2023-02-10 12:58:10",

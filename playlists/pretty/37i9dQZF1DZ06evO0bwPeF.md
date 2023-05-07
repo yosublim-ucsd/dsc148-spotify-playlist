@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 
 > This is Helmet\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,516 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,520 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bwPeF.md) - [plain]
 | 41 | [In Person](https://open.spotify.com/track/1eeR14LMpSxl2KjrqHup3p) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Seeing Eye Dog](https://open.spotify.com/album/7yQrF2S1xmVp1iC9HPvn2i) | 3:06 |
 | 42 | [Sinatra](https://open.spotify.com/track/5n4HiXIkGjxlBlbeUbbBsv) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Strap It On](https://open.spotify.com/album/4qx48hhn0A2Xqbv5E9drWl) | 4:23 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA3NWZiZjY0YzhiYzY3MGExMjI0NzVjNjliNDRmZGJhYw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBkNGUzZDI1NTY5NDQxYTkwOTUyZTQ4MDA5M2FhMWI3Nw==`

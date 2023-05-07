@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 347379,
+  "num_followers": 347744,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjA4ODQyYTIxZTUxMDBmYzgyODA5NjRjYzRjNzRlMDljMTUwZDkw",
+  "snapshot_id": "MCw1ZjVlMTVlMzc3YjhjNjY3MzhmNDRlNWNkZmVhYWZkM2NjYjQxZTRk",
   "tracks": [
     {
       "added_at": "2023-04-07 19:15:40",
@@ -1703,18 +1703,18 @@
     {
       "added_at": "2023-04-07 19:15:40",
       "album": {
-        "name": "This Is The End: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
+        "name": "What Is Love (Reloaded)",
+        "url": "https://open.spotify.com/album/0kcpCxlI4CDvbYSBkumV6M"
       },
       "artists": [
         {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
         }
       ],
-      "duration_ms": 224960,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
+      "duration_ms": 176026,
+      "name": "What Is Love - Radio Edit",
+      "url": "https://open.spotify.com/track/1d2O0FAl7OrNNu7Ed3bGrK"
     }
   ],
   "unique_name": "y2k",

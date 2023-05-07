@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 
 > Lovely, pop\-filled, fun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,572 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,586 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,14 +64,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 54 | [Whole](https://open.spotify.com/track/2JZixjPnrQ67VOPQRDKSmH) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Whole](https://open.spotify.com/album/5rITGmazx7CpQZ8N3nTgaW) | 2:54 |
 | 55 | [Giant Feelings](https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 |
 | 56 | [1,000,000 X Better](https://open.spotify.com/track/1wYHNvK8jXzA4TASd5bTMU) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [1,000,000 X Better](https://open.spotify.com/album/0FshbFuKCMWATy0iqIkzWQ) | 3:11 |
-| 57 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
+| 57 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
 | 58 | [Splash](https://open.spotify.com/track/3ZVYZYIOVCwOnSE7WKRjXV) | [PUBLIC](https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex) | [Splash](https://open.spotify.com/album/1AfiyFgWcXPFHRE2xmofea) | 2:50 |
 | 59 | [East End Coast](https://open.spotify.com/track/1ZKDUdvbYRMEhmKIiYuPIr) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:46 |
 | 60 | [Over It](https://open.spotify.com/track/1I42QMyWviQKegiQRGim0S) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Over It](https://open.spotify.com/album/6oeqSsMiS8lxIi1L34ykXM) | 2:49 |
 | 61 | [Nothing Lasts Forever](https://open.spotify.com/track/6IzTSuvoY6w3QAhCfN1Sgb) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Nothing Lasts Forever](https://open.spotify.com/album/0eeLFV76Mnl91MEXf893YQ) | 2:47 |
-| 62 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
-| 63 | [Love You](https://open.spotify.com/track/7lTWrTbrL3BFcc2UZRMSzy) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Love You](https://open.spotify.com/album/52WW7hHCH0hlS77PVWplta) | 2:56 |
-| 64 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
+| 62 | [Sleep Tight](https://open.spotify.com/track/0YAmsr4FqG6on8KNfwxx76) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Sleep Tight](https://open.spotify.com/album/35QXLfwiBbjR2kVNRSKM2R) | 3:38 |
+| 63 | [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 |
+| 64 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 |
 | 65 | [Make It Better](https://open.spotify.com/track/0V1IeCSY8h2Ym2bdnmpvWJ) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 |
 | 66 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 |
 | 67 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 70 | [Grow](https://open.spotify.com/track/3Uqn2j1LiMil9XWr29ykEP) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Grow](https://open.spotify.com/album/7BOBuESz1SKYSUoXF4HDJ3) | 2:51 |
 | 71 | [My 100](https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [My 100](https://open.spotify.com/album/07jiOfso7WpV92RIsd3AEm) | 2:53 |
 | 72 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
-| 73 | [Good Enough](https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 3:08 |
-| 74 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
+| 73 | [everything](https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [everything](https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt) | 2:52 |
+| 74 | [Good Enough](https://open.spotify.com/track/5ZxT38BO7f4f6jsBZuz46z) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Phosphorescent](https://open.spotify.com/album/0GgLzw8RdggLtLjpP4iSIE) | 3:08 |
 | 75 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
 | 76 | [Thinking About You](https://open.spotify.com/track/5qOlWfTdKPafaINlhpVY5V) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Thinking About You](https://open.spotify.com/album/138lSNAApov9p0YikNh5gh) | 3:21 |
 | 77 | [You Give Me More](https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [Meet You There](https://open.spotify.com/album/5r66GVAfMVNigkXwPgCu6e) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiLfJ2acJnZ.md) - [plain]
 | 79 | [Blue](https://open.spotify.com/track/12cytkLzseLMs8EkN0ZdPd) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Blue](https://open.spotify.com/album/2lGgFRHNd2jhbBQm6FzPCL) | 3:16 |
 | 80 | [Runaway](https://open.spotify.com/track/4r4J3MFMcMS13784DnSz6K) | [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Runaway](https://open.spotify.com/album/3bPZWrouEC2p6bB9ddAoR4) | 3:32 |
 
-Snapshot ID: `MCw0ZTJiMjQxOWVhY2RjYWNhZTg1NDQ2ZmUyMjFjMGYwN2M5ODMxMzhi`
+Snapshot ID: `MCwyZTg5M2YyYmY5NDJlZDJkODQwY2YyNzA0MTI3ODVkN2M2Mzk2NWY3`

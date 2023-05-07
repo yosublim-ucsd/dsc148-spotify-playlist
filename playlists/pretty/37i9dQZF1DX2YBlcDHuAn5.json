@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2893,
+  "num_followers": 2901,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDVmZTliNzMxZjA2YmExYzAyNzYzNDNjNzQ5OTg1MDA5ODZiMTZi",
+  "snapshot_id": "MCxmOTA0MGIwMDg3MWY1ZDRlNDcyMmQwY2I5NTE4YTExMWIwMzk5NzNh",
   "tracks": [
     {
       "added_at": "2023-04-27 22:01:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Know Your Demons",
-        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+        "name": "Buck",
+        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
       },
       "artists": [
         {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Know Your Demons",
-      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
+      "duration_ms": 124986,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Know Your Demons",
+        "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
+        }
+      ],
+      "duration_ms": 206773,
+      "name": "Know Your Demons",
+      "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 268293,
       "name": "Built And Broken",
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 124986,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "The Green Stone",
+        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
+      },
+      "artists": [
+        {
+          "name": "Daniel Norgren",
+          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
+        }
+      ],
+      "duration_ms": 204840,
+      "name": "I Waited for You",
+      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
       },
@@ -435,6 +451,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 299306,
+      "name": "Tower Of Song",
+      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
       },
@@ -451,22 +483,6 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "A Beautiful Time",
-        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 299306,
-      "name": "Tower Of Song",
-      "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -503,8 +519,8 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+        "name": "Feel Like Going Home",
+        "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
       },
       "artists": [
         {
@@ -516,25 +532,9 @@
           "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
         }
       ],
-      "duration_ms": 226710,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "The Green Stone",
-        "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
-      },
-      "artists": [
-        {
-          "name": "Daniel Norgren",
-          "url": "https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO"
-        }
-      ],
-      "duration_ms": 204840,
-      "name": "I Waited for You",
-      "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
+      "duration_ms": 228431,
+      "name": "This Time",
+      "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -551,6 +551,26 @@
       "duration_ms": 212139,
       "name": "Lola with the Light Eyes",
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Down Every Road",
+        "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
+      },
+      "artists": [
+        {
+          "name": "Eli \"Paperboy\" Reed",
+          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
+        },
+        {
+          "name": "Sabine McCalla",
+          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
+        }
+      ],
+      "duration_ms": 156021,
+      "name": "Today I Started Loving You Again",
+      "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -587,26 +607,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Down Every Road",
-        "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
-      },
-      "artists": [
-        {
-          "name": "Eli \"Paperboy\" Reed",
-          "url": "https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x"
-        },
-        {
-          "name": "Sabine McCalla",
-          "url": "https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR"
-        }
-      ],
-      "duration_ms": 156021,
-      "name": "Today I Started Loving You Again",
-      "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
       },
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Feel Like Going Home",
-        "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
-      },
-      "artists": [
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "The Resurrectors",
-          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
-        }
-      ],
-      "duration_ms": 228431,
-      "name": "This Time",
-      "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Burning Down the Prairie",
         "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 181466,
       "name": "Burning Down the Prairie",
       "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        }
+      ],
+      "duration_ms": 226710,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Once Upon A Town",
-        "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
-      },
-      "artists": [
-        {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Once Upon A Town",
-      "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Once Upon A Town",
+        "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
+      },
+      "artists": [
+        {
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Once Upon A Town",
+      "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "By My Side",
         "url": "https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT"
       },
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Loose Future",
-        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
+        "name": "Dangers Mood",
+        "url": "https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "Robbert Duijf",
+          "url": "https://open.spotify.com/artist/479RX3LATApuM30lH2cemD"
+        },
+        {
+          "name": "Maud Knubben",
+          "url": "https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV"
         }
       ],
-      "duration_ms": 208933,
-      "name": "Loose Future",
-      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
+      "duration_ms": 192640,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28"
     }
   ],
   "unique_name": "Route Americana",

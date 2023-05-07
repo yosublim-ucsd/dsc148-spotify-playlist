@@ -1,12 +1,12 @@
 {
   "description": "Semplicemente noi.",
-  "num_followers": 94510,
+  "num_followers": 94561,
   "original_name": "Tra Amiche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGQ1MjA3N2UzNTVkOWQyMGVkYzk1NjdiNmYyYWVjMzNmZjE1NWEw",
+  "snapshot_id": "MCxhYWQ3YTU1NjhiYjFmYzVhY2M5NzExOTA2YmI1OWViYzQ0NDE0M2Y5",
   "tracks": [
     {
       "added_at": "2023-02-23 11:14:36",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
-    },
-    {
-      "added_at": "2023-02-23 11:14:36",
-      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-02-23 11:14:36",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2023-02-23 11:14:36",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2023-02-23 11:14:36",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": "2023-02-23 11:14:36",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-02-23 11:14:36",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-02-23 11:14:36",
-      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    {
+      "added_at": "2023-02-23 11:14:36",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2023-02-23 11:14:36",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2023-02-23 11:14:36",
+      "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp"
       },
@@ -727,18 +743,22 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
       },
       "artists": [
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2023-02-23 11:14:36",
@@ -763,26 +783,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2023-02-23 11:14:36",
-      "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2023-02-23 11:14:36",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
-        "name": "IL BENE NEL MALE",
-        "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
-      },
-      "artists": [
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 213143,
-      "name": "IL BENE NEL MALE",
-      "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
-    },
-    {
-      "added_at": "2023-02-23 11:14:36",
-      "album": {
         "name": "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)",
         "url": "https://open.spotify.com/album/3N7eWDCvfWv34xWNohdHjO"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 207904,
       "name": "Back To You - From 13 Reasons Why \u2013 Season 2 Soundtrack",
       "url": "https://open.spotify.com/track/4hQ6UGyWQIGJmHSo0J88JW"
+    },
+    {
+      "added_at": "2023-02-23 11:14:36",
+      "album": {
+        "name": "IL BENE NEL MALE",
+        "url": "https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ"
+      },
+      "artists": [
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 213143,
+      "name": "IL BENE NEL MALE",
+      "url": "https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC"
     },
     {
       "added_at": "2023-02-23 11:14:36",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-02-23 11:14:36",
       "album": {
-        "name": "Be Kind (with Halsey)",
-        "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 172761,
-      "name": "Be Kind (with Halsey)",
-      "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
-    },
-    {
-      "added_at": "2023-02-23 11:14:36",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 162586,
       "name": "i'm so tired...",
       "url": "https://open.spotify.com/track/7LpMG3AEaIJgs62HQhAa91"
+    },
+    {
+      "added_at": "2023-02-23 11:14:36",
+      "album": {
+        "name": "Be Kind (with Halsey)",
+        "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 172761,
+      "name": "Be Kind (with Halsey)",
+      "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
     },
     {
       "added_at": "2023-02-23 11:14:36",

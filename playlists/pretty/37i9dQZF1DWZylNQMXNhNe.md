@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Majur
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,686 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,708 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 33 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
 | 34 | [Parabéns](https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Parabéns](https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd) | 2:16 |
 | 35 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 |
-| 36 | [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 |
-| 37 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 |
+| 36 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 |
+| 37 | [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 |
 | 38 | [Libélula](https://open.spotify.com/track/33IQ1mcWwKe7lyLm5oUrCv) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Libélula](https://open.spotify.com/album/4a5LkqjxtJOAgpyvjogAxe) | 2:36 |
 | 39 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
 | 40 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 | 50 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 
-Snapshot ID: `MCw1ZmIxMmExNDBmOTk5NGE4Y2Y4MTJlNGZkNDZmOTM0NjhhNTg1ODg0`
+Snapshot ID: `MCw2NjE2OTg4NjZkOWNkZTFkZDBjMmUyZWQ0ZTgyZDMzMmU5M2U3MDE5`

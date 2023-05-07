@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 708915,
+  "num_followers": 709172,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzBmMzhlMmQ1ZGI5ZDBhMWMxYTdiY2Y3ZGNlNzZkYWMyMGY5Y2Yz",
+  "snapshot_id": "MCwyOGE1Y2ZlYWY2ZjhmODBiZjljZTlkODUyMGY1YjgxMzA0ZGI3NDMw",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ancestry",
         "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 544250,
       "name": "Osuga",
       "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Astavakra",
         "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
       },
@@ -671,38 +655,6 @@
       "duration_ms": 420215,
       "name": "Astavakra",
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -723,6 +675,54 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
+      },
+      "artists": [
+        {
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
+        }
+      ],
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "RAI",
-        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "RAI",
-      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 187118,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        }
+      ],
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Beli",
         "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Leave the Bones",
+        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 354043,
+      "name": "Kite Zo A",
+      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Eliso",
+        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        }
+      ],
+      "duration_ms": 176839,
+      "name": "Eliso Lyamu Katata",
+      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Voodoo Guitar",
         "url": "https://open.spotify.com/album/1fvW1MQTnRPKT0xqE5cKzI"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Eliso",
-        "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        }
-      ],
-      "duration_ms": 176839,
-      "name": "Eliso Lyamu Katata",
-      "url": "https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1263,22 +1263,6 @@
       "duration_ms": 451375,
       "name": "Mona Ki Ngi Xica - Everything Counts Remix",
       "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Quetzal",
-        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 457843,
-      "name": "Quetzal",
-      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Quetzal",
+        "url": "https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 457843,
+      "name": "Quetzal",
+      "url": "https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Osam",
         "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 482715,
       "name": "Entrecote",
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
-      },
-      "artists": [
-        {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
-        },
-        {
-          "name": "Tim Jules",
-          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
-        }
-      ],
-      "duration_ms": 286392,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1363,6 +1343,26 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Take Me Back",
+        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
+      },
+      "artists": [
+        {
+          "name": "Marcel Vogel",
+          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+        },
+        {
+          "name": "Tim Jules",
+          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+        }
+      ],
+      "duration_ms": 286392,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Na Lagoa (Remixes)",
         "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
       },
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Unsichtbar (Behrooz Zandi Remix)",
-        "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
+        "name": "Plut\u00f3n",
+        "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
       },
       "artists": [
         {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
         },
         {
-          "name": "Behrooz Zandi",
-          "url": "https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0"
+          "name": "Tripoli",
+          "url": "https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46"
         }
       ],
-      "duration_ms": 370196,
-      "name": "Unsichtbar - Behrooz Zandi Remix",
-      "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
+      "duration_ms": 382066,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
     }
   ],
   "unique_name": "Org\u00e1nica",

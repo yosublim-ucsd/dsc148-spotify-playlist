@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 
 > This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,662 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,685 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO180nDR.md) - [plain]
 | 49 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 |
 | 50 | [Amor Eterno \(En Vivo\)](https://open.spotify.com/track/1HrqWh8DBG0eiczpDubCzt) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Amor Eterno \(En Vivo\)](https://open.spotify.com/album/3hKiPu1qULgUMOhHRqHnA1) | 3:55 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlNDhkYWM2NTJjZTNjNDFiNmE4NjEyMTAyODFjYmU2Nw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBiYWUzZmU4ZWQ3MTBiNzc1OWQ5Y2VkNDRkODA0MmFjYw==`

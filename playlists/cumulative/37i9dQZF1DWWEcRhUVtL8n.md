@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,551 songs - 3 day 9 hr 49 min
+1,552 songs - 3 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,8 @@
 | [Dazed & Amused \- Tim Atlas Remix](https://open.spotify.com/track/36NNE2IVJURJeFjsRTi6Fv) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Dazed & Amused \(Tim Atlas Remix\)](https://open.spotify.com/album/36HRUNjlieQW7AMPe8Ei5H) | 2:34 | 2020-11-20 | 2021-06-03 |
 | [Dead Boys](https://open.spotify.com/track/73BS2jwAy8fDgclp7Qmu5H) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Dead Boys](https://open.spotify.com/album/7rpLUfvWHIOzompMJUFwB3) | 3:55 | 2021-02-23 | 2021-02-27 |
 | [Dead Dear \(Deer\)](https://open.spotify.com/track/36tSVRFlsdxAUtWODAAIpx) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Dead Dear \(Deer\)](https://open.spotify.com/album/56QKLIjO5nur7Z4ekgQzwG) | 2:46 | 2021-09-24 | 2022-04-16 |
-| [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 |  |
+| [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-17 | 2023-05-07 |
+| [DEATH](https://open.spotify.com/track/4wFvGKW4jxTgIHLFoOtRMs) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 5:06 | 2023-03-24 |  |
 | [Death Wish](https://open.spotify.com/track/4A11c7LR0Nr2ENq2v6cXri) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Haiva Ru](https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA) | [Death Wish](https://open.spotify.com/album/7b7ry1Asg4hDM5yAsg64UH) | 3:08 | 2022-02-25 | 2022-07-03 |
 | [decide to be happy](https://open.spotify.com/track/4npip0lZeQAbj1epad3oCu) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [decide to be happy](https://open.spotify.com/album/1PO9x34QK39yLrs0zZtOk4) | 3:27 | 2020-10-20 | 2021-06-03 |
 | [Deep End](https://open.spotify.com/track/0fQ6684L4dIVf4lvQ6uiFf) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:38 | 2022-10-28 | 2023-04-13 |

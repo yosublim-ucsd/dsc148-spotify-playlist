@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Juan Carlos Bodoque en Portada. ",
-  "num_followers": 147475,
+  "num_followers": 147734,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjkyNTk5ZTJjNzliZTZhOGM4MDUwZTM4MWQxYWJlYThiNzY1MGE3",
+  "snapshot_id": "MCxlMTc3MDYyZjcxNTYyNTllZGM0MGViMjAzODdhMmM4MDk1YjEzZGE2",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -381,6 +381,26 @@
       "url": "https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj"
     },
     {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+    },
+    {
       "added_at": "2023-04-14 06:00:00",
       "album": {
         "name": "Mamita Santa",
@@ -403,6 +423,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Sonidos De Karm\u00e1tica Resonancia",
+        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Karmadame",
+      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Nada Te Lastima",
         "url": "https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2"
       },
@@ -419,42 +455,6 @@
       "duration_ms": 248750,
       "name": "Nada Te Lastima",
       "url": "https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Sonidos De Karm\u00e1tica Resonancia",
-        "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Karmadame",
-      "url": "https://open.spotify.com/track/1xO5aVaGg8ksIuH1TL9Ba3"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -601,6 +601,26 @@
       "url": "https://open.spotify.com/track/155yF3s6dVDL0azpwlbuuW"
     },
     {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
+    },
+    {
       "added_at": "2023-04-14 06:00:00",
       "album": {
         "name": "Mismo Amor",
@@ -631,26 +651,6 @@
       "duration_ms": 260508,
       "name": "Globos",
       "url": "https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "S\u00f3lo D\u2019Lira",
-        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "Money In The Bank",
-      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -721,38 +721,6 @@
       "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Amantes - Su Majestad La Eternidad",
-        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Su Majestad La Eternidad",
-      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 179024,
-      "name": "Paradoja",
-      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
-    },
-    {
       "added_at": "2023-04-21 06:00:00",
       "album": {
         "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
@@ -771,6 +739,38 @@
       "duration_ms": 208766,
       "name": "Yo Sabr\u00e9 Qu\u00e9 Hacer",
       "url": "https://open.spotify.com/track/0t73UshN8WwtgM6VPxz8Yb"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 179024,
+      "name": "Paradoja",
+      "url": "https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Su Majestad La Eternidad",
+      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -823,18 +823,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
+        "name": "Gal\u00e1ctica",
+        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 288554,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
+      "duration_ms": 207000,
+      "name": "Gal\u00e1ctica",
+      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -871,22 +875,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Gal\u00e1ctica",
-        "url": "https://open.spotify.com/album/7fDeOG3SJLd8kVMwp9J81m"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
       },
       "artists": [
         {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Gal\u00e1ctica",
-      "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+      "duration_ms": 288554,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "De la Orqu\u00eddea y la Avispa",
-        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
-      },
-      "artists": [
-        {
-          "name": "Austin TV",
-          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
-        }
-      ],
-      "duration_ms": 407449,
-      "name": "De la Orqu\u00eddea y la Avispa",
-      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "De la Orqu\u00eddea y la Avispa",
+        "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
+      },
+      "artists": [
+        {
+          "name": "Austin TV",
+          "url": "https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR"
+        }
+      ],
+      "duration_ms": 407449,
+      "name": "De la Orqu\u00eddea y la Avispa",
+      "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "C\u00e1llame",
         "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 177800,
       "name": "Sol@",
       "url": "https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Antes que el sol nos queme",
-        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
-        }
-      ],
-      "duration_ms": 255268,
-      "name": "Antes que el sol nos queme",
-      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/5a2JzNqPfuCnF0WQ3PoL4j"
       },
@@ -1269,20 +1249,40 @@
       "url": "https://open.spotify.com/track/6duCXF5ciZHEEmzEcVIAAK"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
+      "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Naranjita s\u00ed carnal",
-        "url": "https://open.spotify.com/album/6AM6Pzkh4jGokb8gaFnRx1"
+        "name": "Antes que el sol nos queme",
+        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Naranjita s\u00ed carnal",
-      "url": "https://open.spotify.com/track/3tVAj7avOvVpwkmoF2YOha"
+      "duration_ms": 255268,
+      "name": "Antes que el sol nos queme",
+      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "In Between Thoughts...A New World",
+        "url": "https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 209480,
+      "name": "Descending To Nowhere",
+      "url": "https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

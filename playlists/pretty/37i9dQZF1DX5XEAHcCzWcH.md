@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,041 likes - 64 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,079 likes - 64 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 27 | [One For The Highway](https://open.spotify.com/track/02wzvJWTzNPLrqqIamRkgb) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo) | 2:34 |
 | 28 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 | 29 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
-| 30 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
-| 31 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 30 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 31 | [Take It Easy](https://open.spotify.com/track/7LmI63pR8aUSjKNySdbffC) | [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Down In Mississippi](https://open.spotify.com/album/0QWm32Qy7kRhGzhms5EtKH) | 3:43 |
 | 32 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |
 | 33 | [Everytime I Get to Drinking](https://open.spotify.com/track/11YPTpoSLvcOBGB7keHcNi) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [I Didn't Give a Damn If Whites Bought It, Vol\. 4](https://open.spotify.com/album/0bbZ3fsCdmUiKiZwVkY8W8) | 4:15 |
 | 34 | [Anytime, Anyplace, Anywhere](https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW) | [Hadda Brooks](https://open.spotify.com/artist/1NJubf2lWeNdXONuic4fir) | [I've Got News For You](https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl) | 3:09 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 60 | [Dices Blues](https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC) | [Big Chief Ellis](https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW) | [Classic Piano Blues from Smithsonian Folkways](https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL) | 4:58 |
 | 61 | [I'll Be Right Some Day](https://open.spotify.com/track/3OpoVrckZ1J2IhAri7bWKl) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:26 |
 | 62 | [Me and My Gin](https://open.spotify.com/track/5L4sfgGbYh7CgXVBTmUcfz) | [Jimmie Gordon](https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l) | [This Is the Blues! Vol\. 7 \(Mono Version\)](https://open.spotify.com/album/4U9fxJlHlKvp5GwKmenuQ3) | 3:12 |
-| 63 | [Hey Now Baby](https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp) | 5:44 |
-| 64 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 63 | [Hastings Street](https://open.spotify.com/track/25XUg2FiYvjb7lPtwD786d) | [Blind Blake](https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd) | [Presenting Blind Blake](https://open.spotify.com/album/2PWkHBhiBe10JBYFYO4kqd) | 3:10 |
+| 64 | [Hey Now Baby](https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [The Bach of Rock](https://open.spotify.com/album/2vBm562DW1TlS5YpGUblKp) | 5:44 |
 
-Snapshot ID: `MCxhYjVlNTY5MjUzNzQ1NTY5OWEwY2IxMWRjODYyYTZmMTZkOThlN2I0`
+Snapshot ID: `MCxlNjFiYjc1NTI4OTY3NGJjZWYzMjZiMmEyMGI0OGUyOTQwYWE0ZDg4`

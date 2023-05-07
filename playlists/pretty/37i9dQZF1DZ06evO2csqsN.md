@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,825 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,839 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Sorry Not Sorry \- Remix](https://open.spotify.com/track/7AhgEWQWDBalQrdeidAWzR) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Omeretta the Great](https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx) | [Sorry Not Sorry \(Remix\)](https://open.spotify.com/album/6M1ijwO8XZ44VTFxdsPlV2) | 3:15 |
 | 50 | [MMM MMM \(The Remix\) \[feat\. ATL Jacob, Latto & Moneybagg Yo\]](https://open.spotify.com/track/4QpNg4wDBtdevpOZFKYabg) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [ATL Jacob](https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [MMM MMM \(The Remix\) \[feat\. ATL Jacob, Latto & Moneybagg Yo\]](https://open.spotify.com/album/1g56wNgEleOMrM0gYypkZF) | 3:28 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlOTUzZTQ5YzhiOTk4ZTM3NjNhN2FiMGVhNTAyMmZmOA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA4ZjA2MjQ3OTc3ZmYwZGQ4YTA3ODIxMDliMDhlNGI1Nw==`

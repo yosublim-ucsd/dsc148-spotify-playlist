@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13400,
+  "num_followers": 13423,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjdhYmM1MzgxYTRhMGVhOWFiNDE0ZDhhMjJiNjQ4ODY5NDNhNjRj",
+  "snapshot_id": "MCxhZDJiODY0NjJhYmZjY2E3OGUyODBiNWNhZTVlZDllYjM3ZTMzYzcy",
   "tracks": [
     {
       "added_at": "2023-05-05 06:39:45",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Desmond Blue",
-        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 279146,
-      "name": "I've Got You Under My Skin - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 172746,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/3cYAxfeE7rwiF1vjCTYi3i"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Desmond Blue",
+        "url": "https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 279146,
+      "name": "I've Got You Under My Skin - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
+        "name": "A Ballad for Alice",
+        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "A Ballad for Alice",
+      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
         "name": "Moods",
         "url": "https://open.spotify.com/album/6Y5IwmwVNOEp83c5oi5fyU"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 258239,
       "name": "A Beautiful Friendship",
       "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
-        "name": "A Ballad for Alice",
-        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "A Ballad for Alice",
-      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Components",
         "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 311106,
       "name": "Little B's Poem - Remastered 1994",
       "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Let's Face the Music",
-        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
-      },
-      "artists": [
-        {
-          "name": "Reinhardt Winkler",
-          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
-        }
-      ],
-      "duration_ms": 257148,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Same Soul",
         "url": "https://open.spotify.com/album/12a5B02rFVniKvkCs5KrBx"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 240651,
       "name": "Who Needs Paris",
       "url": "https://open.spotify.com/track/5yA1ltXjiTkCaEvYi9nG8y"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Let's Face the Music",
+        "url": "https://open.spotify.com/album/68a61URtiemSLZn6UcHizY"
+      },
+      "artists": [
+        {
+          "name": "Reinhardt Winkler",
+          "url": "https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK"
+        }
+      ],
+      "duration_ms": 257148,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Calendar Girl",
-        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "Melancholy March",
-      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Backlash",
         "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 401226,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Calendar Girl",
+        "url": "https://open.spotify.com/album/17tLyn0tBCYOeKZC2iaFRE"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 141266,
+      "name": "Melancholy March",
+      "url": "https://open.spotify.com/track/2beWW2ss3csNXl9x2wECPh"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Just Us, Just We",
-        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
-      },
-      "artists": [
-        {
-          "name": "Shaymus Hanlin Quartet",
-          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
-        }
-      ],
-      "duration_ms": 202570,
-      "name": "Almost Like Being in Love",
-      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "'Round Midnight",
         "url": "https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 194173,
       "name": "April Come She Will",
       "url": "https://open.spotify.com/track/3onycGcXENXzRke49yNQvI"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Just Us, Just We",
+        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
+      },
+      "artists": [
+        {
+          "name": "Shaymus Hanlin Quartet",
+          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
+        }
+      ],
+      "duration_ms": 202570,
+      "name": "Almost Like Being in Love",
+      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
     },
     {
       "added_at": "2023-05-05 06:39:45",

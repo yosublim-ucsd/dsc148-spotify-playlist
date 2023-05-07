@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Jack Harlow
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,185 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,227 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 40 | [Lemons \(Lemonade\)](https://open.spotify.com/track/6PqdJb18ssWDcROvnsEqy6) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Lemons \(Lemonade\)](https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ) | 4:19 |
 | 41 | [Hustle](https://open.spotify.com/track/4cL6ewTK0FjZKtbajym8zp) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Hustle](https://open.spotify.com/album/76r9uFJKQoU35DH0uVaxoH) | 3:09 |
 | 42 | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/track/3wyfDf57MYVDeGW8qYIWsn) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [blessing me \(with Pa Salieu & Skillibeng\)](https://open.spotify.com/album/4Z3TLFfO6xwXLgInns2gXI) | 2:45 |
-| 43 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 |
-| 44 | [Came In the Scene](https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Came In the Scene](https://open.spotify.com/album/6A4nLaxBv36jA24lb6CmBO) | 3:05 |
-| 45 | [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 |
+| 43 | [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 |
+| 44 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 |
+| 45 | [Came In the Scene](https://open.spotify.com/track/4SkIdCA9Vp7XXSAlYGtohn) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Came In the Scene](https://open.spotify.com/album/6A4nLaxBv36jA24lb6CmBO) | 3:05 |
 | 46 | [Big Energy](https://open.spotify.com/track/4wG7xubJwUdjvdVJvAV1d9) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Big Energy](https://open.spotify.com/album/4ooUYNH9ZD44v6wpIv5huk) | 3:05 |
 | 47 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 |
 | 48 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/36YpCIK6NmhC9i6bvcwcdm) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/2i9q4Ax4pXU62uNOJHy2qo) | 2:58 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 56 | [Fela In Versace](https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:28 |
 | 57 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 |
 | 58 | [Come & Go \- Black Sherif Remix](https://open.spotify.com/track/6LVGUOLhw6b9gayQvQvaqh) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Come & Go \(Black Sherif Remix\)](https://open.spotify.com/album/5fA5w0SjzUnAEaorPRLsht) | 2:59 |
-| 59 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
-| 60 | [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 |
+| 59 | [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 |
+| 60 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 |
 
-Snapshot ID: `MCw1NjRjNzk1OWU5OTg3Yjk4NTYyYTEzNGViZTNlZDI3MDQ5ZjJlNTIx`
+Snapshot ID: `MCxlODk2MTAxNzk1Mjk0NTVjNThlY2I3YTY2OGYyNjhiYWMzMDQxMTFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,440 likes - 61 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,626 likes - 61 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 39 | [Carnaval, Op\. 9: No\. 5\. Eusebius \(Adagio \- Più lento molto teneramente\)](https://open.spotify.com/track/73kFkK74uTO8fy8yBfMrTk) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Emile Naoumoff](https://open.spotify.com/artist/0fRrSOwkvXX4fixN9cdQu2) | [Schumann: Carnaval Op\. 9, Fantasie Op\. 17 & Mondnacht Op\. 39 No\. 5](https://open.spotify.com/album/1kXYfEsNIZJVJF4NDwLQnp) | 2:19 |
 | 40 | [Three Visions: II\. Summerland](https://open.spotify.com/track/61NVGsaU1YXShnv2nwdJ0s) | [William Grant Still](https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA), [Natalie Hinderas](https://open.spotify.com/artist/5QLM2Mh4Uz580PqO6figt2) | [Piano Music by African\-American Composers](https://open.spotify.com/album/6uvdXbMHeBaBis4cGdVadM) | 4:37 |
 | 41 | [The Seasons, Op\. 37b: VI\. June, "Barcarolle"](https://open.spotify.com/track/675uoOAtz3TzuigX3Doe4h) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Yefim Bronfman](https://open.spotify.com/artist/1LMUcg4F3Uv0qeeJXw56uT) | [Tchaikovsky: The Seasons, Op\. 37b, Balakirev: Islamey](https://open.spotify.com/album/0falRTDjRo6qFsfBwUk1Qb) | 4:31 |
-| 42 | [In einer Nacht, Op\. 15: No\. 2, Sehr langsam \- Musical Moments](https://open.spotify.com/track/0b0NXgRU5fX5U6dfjYsgKe) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Hindemith: In einer Nacht, Op\. 15: No\. 2, Sehr langsam \(Musical Moments\)](https://open.spotify.com/album/6MBeNgru816JprogFP7YjD) | 1:24 |
+| 42 | [In einer Nacht, Op\. 15: No\. 2, Sehr langsam](https://open.spotify.com/track/0b0NXgRU5fX5U6dfjYsgKe) | [Paul Hindemith](https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Hindemith: In einer Nacht, Op\. 15: No\. 2, Sehr langsam \(Musical Moments\)](https://open.spotify.com/album/6MBeNgru816JprogFP7YjD) | 1:24 |
 | 43 | [Carnaval, Op\. 9: 5\. Eusebius](https://open.spotify.com/track/0atkoFwfqT5yYPf9e1YFrG) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Carol Comune](https://open.spotify.com/artist/2hwIoWEOfHGHi6FnS5MvvN) | [Homage](https://open.spotify.com/album/3WmUnoV4cHmqHdbKHfuvw3) | 2:27 |
 | 44 | [Premier Nocturne, Op\. 22](https://open.spotify.com/track/1xrz9rJJPVENNP4l4Jvft4) | [Charles\-Valentin Alkan](https://open.spotify.com/artist/07OhqeLloDO7wu0yCaVO2D), [Michael Landrum](https://open.spotify.com/artist/1ZwgmPk7yAW0HsoGlFsBQ0) | [Nocturnes](https://open.spotify.com/album/4W4WygqfXLiIKtaiv1snAc) | 6:09 |
 | 45 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 60 | [Minuet in A major, D\. 334](https://open.spotify.com/track/2FbUitqkfxFhI4An73HzZW) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Schubert: Piano Sonata D.959 & Minuets D\. 334, D\. 335, D\. 600](https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx) | 3:13 |
 | 61 | [Nocturne No\. 2 in C Minor](https://open.spotify.com/track/6cDytuMZ5Z4iMEhK65HiHL) | [John Field](https://open.spotify.com/artist/7vDYlejWEU6Yuw4MxTiv56), [Benjamin Frith](https://open.spotify.com/artist/0g33P9zonyHhsIQJ1LUC8X) | [Field: Piano Music, Vol\. 1](https://open.spotify.com/album/6M8FX7UmvvKWISfxVvxa40) | 3:43 |
 
-Snapshot ID: `MCw4ODY4MTUwOTM1NDBhNjExMGQzYTJjM2M2NDNhODhhYTM1ZjljZGMx`
+Snapshot ID: `MCw5Mjc1MmJjMDUyNzc0ODgwMTg1NWRlNzRjY2MwY2FiZmYxMWY3MTRl`

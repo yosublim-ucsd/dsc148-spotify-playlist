@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,534 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,536 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 50 | [『欲』](https://open.spotify.com/track/69ImxLhTWjSRBl2nGspu9C) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 3:31 |
 | 51 | [俺が君のヒーローになる](https://open.spotify.com/track/4wOATd2ihCOz8Qx662M8uJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 2:59 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyMjY5OGRkNGVkZmQyOGIxODRlNGI4ZTdlY2FhNjc3Mw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBiMWYwYmRjNzAyNmQxZTEwODEwMGE5YzgxM2ExZDI0Mw==`

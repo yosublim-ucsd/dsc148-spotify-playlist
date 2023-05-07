@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
 
-252 songs - 15 hr 11 min
+253 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,8 +155,9 @@
 | [Mientras Tanto](https://open.spotify.com/track/2q8YqrDMb3SHmMQHbkd9tF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Mientras Tanto](https://open.spotify.com/album/5GgeCHEvsDIpUR5AzHkYxK) | 2:15 | 2022-11-03 |  |
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-02-18 | 2022-10-01 |
 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 | 2022-01-14 | 2022-04-23 |
-| [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 |  |
+| [Moody Cumbia](https://open.spotify.com/track/0mmVZa825eh39NNtNcTrFg) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Octopus](https://open.spotify.com/album/59Tec9qk49gfAkKhkniSOy) | 3:36 | 2023-03-28 | 2023-05-07 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-14 |
+| [Moody Cumbia](https://open.spotify.com/track/5FCcgvZE7pUa6qKZasTbd7) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:36 | 2023-05-05 |  |
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-07-11 | 2023-04-14 |
 | [Mujer del Desierto](https://open.spotify.com/track/0mT3gq4INtY9A0sjWCz5ms) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Mujer del Desierto](https://open.spotify.com/album/3wFHt75jtO3M8zdAfN5gDG) | 3:30 | 2022-03-04 | 2023-03-18 |
 | [Mutilado](https://open.spotify.com/track/2nnDYImuOuOoh0OSbAvDlH) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Errores en el extranjero](https://open.spotify.com/album/2aUY4dvUBxp02PgzMMGyNK) | 2:03 | 2022-08-19 | 2023-04-01 |

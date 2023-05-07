@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. bring me the horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,829 likes - 90 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,004 likes - 90 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 44 | [Witch Hunt](https://open.spotify.com/track/4TFXmB2WOm1G5CnVcejVQb) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C), [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Witch Hunt](https://open.spotify.com/album/0lKuTAQI0YyQ7wUghrnX1z) | 2:39 |
 | 45 | [Playboy / Positions](https://open.spotify.com/track/28Wxt7U3ixliz9qsLHeYfY) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Playboy / Positions](https://open.spotify.com/album/55PS8jiGvSsdruBpXzVNDi) | 2:34 |
 | 46 | [Loser Deadbeat](https://open.spotify.com/track/2PyWgTGWMJ8tLygUNZXS09) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [Loser Deadbeat](https://open.spotify.com/album/7fHqMXilgXLPBIj2XbK59g) | 3:05 |
-| 47 | [I'm A Star](https://open.spotify.com/track/7sioQTiTH6V7yAmLiBZcL9) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/2xvaV6HqNvFvyvsAZhJZe7) | 3:19 |
+| 47 | [I'm A Star](https://open.spotify.com/track/3Vkh7zr3FM9SyHtZLCIYG1) | [Sarah Wolfe](https://open.spotify.com/artist/5zWdvnkClBel7vV5kA450m) | [I'm A Star](https://open.spotify.com/album/5v9GRQGPIWdqfZr3XC9NFf) | 3:19 |
 | 48 | [LIKE THAT](https://open.spotify.com/track/1KKVUPOJ70kcOnR9CbjJz2) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [LIKE THAT](https://open.spotify.com/album/6s1beXNSxM2Vz9xbpMmOon) | 2:12 |
 | 49 | [Devils](https://open.spotify.com/track/4IZ7GX68Kn5fvAnGXUf0GT) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [BODY](https://open.spotify.com/album/7FkX7kbfwjZLW5UaoyNODY) | 3:08 |
 | 50 | [SO DUMB](https://open.spotify.com/track/6cKWhWPMqbdO2W85ErvbtG) | [Sleepisformortals](https://open.spotify.com/artist/4T73KMy57G1jagLwARAjdt) | [SO DUMB](https://open.spotify.com/album/30nPofVWEWQwFeqJNzHJvP) | 3:57 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 59 | [FANG DUMMY](https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [FANG DUMMY](https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy) | 3:50 |
 | 60 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
 | 61 | [welcome to my life](https://open.spotify.com/track/19WPwFCDUPdie3IJhv615s) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [welcome to my life](https://open.spotify.com/album/1KMdePaDf6qQcMiWVSQ62E) | 2:15 |
-| 62 | [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 |
+| 62 | [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 |
 | 63 | [Daylight](https://open.spotify.com/track/6SwADEar9alFscVOcPY2eq) | [m4x](https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S) | [Daylight](https://open.spotify.com/album/12tTHLBSApLkacLXdWc3eJ) | 2:09 |
 | 64 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 |
 | 65 | [anxiety](https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf) | [anxiety](https://open.spotify.com/album/4hEfPE1lbqovFYK5sYTpq5) | 3:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 89 | [Toilet](https://open.spotify.com/track/1EwrRgBEsPpL5CWA7kMfr0) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [Toilet](https://open.spotify.com/album/1HwYxJEzTWCv49PGwuJrCd) | 3:49 |
 | 90 | [NEW BOY](https://open.spotify.com/track/4XbW7CRBTy5jCQcN8XAcNS) | [CLT DRP](https://open.spotify.com/artist/0y7VykZdOB8wIsAQfr2S4M) | [NEW BOY](https://open.spotify.com/album/5BsSDGYksYm1ORLKvASAyJ) | 3:46 |
 
-Snapshot ID: `MCw1MmJmMmY0MmI2OGJiMmQ3Y2U4YWI2NDQxMjI0N2JiM2E4YmFkYjZi`
+Snapshot ID: `MCw5NjZlMjI4ZDJjNjk2ZjZkZGJkZDgwZTkxOTc5ZmJhZWUwZTMxZmFm`

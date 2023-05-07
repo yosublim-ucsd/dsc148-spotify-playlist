@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,420 likes - 185 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,545 likes - 185 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 26 | [More or Less](https://open.spotify.com/track/53PCMZmgBA739sanZsNU0x) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [More or Less](https://open.spotify.com/album/3twjUH5CABauFgk6YcRC3u) | 3:09 |
 | 27 | [4 Low High](https://open.spotify.com/track/53H7DtVlIUmXPXbeyT5TnM) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [4 Low High](https://open.spotify.com/album/3JHo0q6CU34kinOunegmgF) | 2:50 |
 | 28 | [She's Got Wings](https://open.spotify.com/track/0T55onEUiLPP9GJ4mCJngr) | [Dipper](https://open.spotify.com/artist/1FlF6uL7RBozryZZKSTOs5) | [She's Got Wings](https://open.spotify.com/album/6ytsoe46SEx2xuQKkb9dGT) | 3:26 |
-| 29 | [To Be Continued...\(feat\. Shaylen\)](https://open.spotify.com/track/5uDdDHlKGLpnDwi6eqrzjr) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Be Continued...\(feat\. Shaylen\)](https://open.spotify.com/album/5SUf4g6rZ80k4KDtMqn69W) | 3:14 |
+| 29 | [To Be Continued...](https://open.spotify.com/track/5uDdDHlKGLpnDwi6eqrzjr) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Be Continued...](https://open.spotify.com/album/5SUf4g6rZ80k4KDtMqn69W) | 3:14 |
 | 30 | [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 |
 | 31 | [Grew Up Country](https://open.spotify.com/track/4rLuT5hLEA3rAvHAFLglze) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Grew Up Country](https://open.spotify.com/album/5IoCgdWyeILZRHF6r2lYHH) | 3:16 |
 | 32 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 |
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 184 | [Missed the Boat](https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Missed the Boat](https://open.spotify.com/album/358todtduHcbUf6KOKzvma) | 3:19 |
 | 185 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCwyNjBjMGI4M2IwMDc4MTgzM2M3ZGI4OTUwMzhhNzc0MWRhY2RjZTYw`
+Snapshot ID: `MCxiNmQ1NGIyNGQ5M2EyMzI5YzY3MTAxMTc4ZTVjODkyMDYxYTI0MjRj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,528 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,533 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F3ObS.md) - [plain]
 | 49 | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ネリヤカナヤ \~美ら奄美\~](https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ) | 5:52 |
 | 50 | [黄金の輝き](https://open.spotify.com/track/6zTUmYzeOn7wd6bfLLjfQV) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [黄金の輝き](https://open.spotify.com/album/0W8cGloQ7NeIybHialOSvh) | 4:59 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBkMzgxZDYyN2M5NGZhNDU0OTdjMWMyY2Y2MGI4MWUyOA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBlMjY1MmE3Y2RmYTVmYWMwNjEyNDdmMTI1ZGJhNmM5OQ==`

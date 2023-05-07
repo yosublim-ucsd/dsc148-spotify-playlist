@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 9695,
+  "num_followers": 9729,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWJlNmNiNGZhZGJmZWVlNDYwZTIzMTNiYzAwOGViOTE5NGU3ODQ3",
+  "snapshot_id": "MCxjYmNjZDU0NDU3ODcxMDNjNmU5MjdjMDk5NzI4OTVmMGY3NDQ1N2Jh",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Softest Touch",
-        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 164282,
-      "name": "Softest Touch",
-      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Be The One (with Khalid)",
         "url": "https://open.spotify.com/album/1K1Tr5tlgU8aCfijFih1zf"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Softest Touch",
+        "url": "https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 164282,
+      "name": "Softest Touch",
+      "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         }
       ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+      "duration_ms": 243539,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Heart On My Sleeve (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
       },
       "artists": [
         {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 206429,
-      "name": "This Is",
-      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Heart On My Sleeve (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "This Is",
+      "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Since I Have A Lover",
         "url": "https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 178333,
       "name": "Temporary (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 243539,
-      "name": "Give It To Me",
-      "url": "https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -591,26 +591,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Float (feat. Seun Kuti & Egypt 80)",
-        "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
         }
       ],
-      "duration_ms": 242166,
-      "name": "Float (feat. Seun Kuti & Egypt 80)",
-      "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -631,18 +623,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+        "name": "Float (feat. Seun Kuti & Egypt 80)",
+        "url": "https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7"
       },
       "artists": [
         {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
         }
       ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
+      "duration_ms": 242166,
+      "name": "Float (feat. Seun Kuti & Egypt 80)",
+      "url": "https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Right My Wrongs",
+        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 140973,
+      "name": "Right My Wrongs",
+      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Lock Up",
         "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 223005,
       "name": "Lock Up",
       "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Right My Wrongs",
-        "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 140973,
-      "name": "Right My Wrongs",
-      "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "NANA",
+        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/2W3m6rjaEfw1sQ6fR6nuYc"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 159000,
       "name": "In The Light - Stripped Version",
       "url": "https://open.spotify.com/track/5mYqU9e8dtRolpcS1FFE5B"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "NANA",
-        "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "NANA",
-      "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1207,6 +1207,30 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "TROUBLE - A COLORS SHOW",
         "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
       },
@@ -1219,22 +1243,6 @@
       "duration_ms": 148800,
       "name": "TROUBLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq"
-      },
-      "artists": [
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 153443,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1259,26 +1267,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/5p5FoOxBxlXv6VjDWJy6Hq"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
+      "duration_ms": 153443,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1SAxAnhOG0xTh0Gm2Qlsoj"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Handle Me (feat. Adekunle Gold)",
-        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
-      },
-      "artists": [
-        {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 167735,
-      "name": "Handle Me (feat. Adekunle Gold)",
-      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Low eyes",
         "url": "https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX"
       },
@@ -1371,6 +1351,42 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "echo: dawn",
+        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+      },
+      "artists": [
+        {
+          "name": "Just a Band",
+          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+        }
+      ],
+      "duration_ms": 187375,
+      "name": "Thank You/Rebel and a Cause - from ech0",
+      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Handle Me (feat. Adekunle Gold)",
+        "url": "https://open.spotify.com/album/3Cd3jHPeIl4euaDfPIccK4"
+      },
+      "artists": [
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 167735,
+      "name": "Handle Me (feat. Adekunle Gold)",
+      "url": "https://open.spotify.com/track/4dLfcjzMHZAVgnmuglRvhY"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "On Yah (Intro)",
         "url": "https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "echo: dawn",
-        "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
       },
       "artists": [
         {
-          "name": "Just a Band",
-          "url": "https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 187375,
-      "name": "Thank You/Rebel and a Cause - from ech0",
-      "url": "https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0"
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 179828,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
     }
   ],
   "unique_name": "Cocoa Butter ",

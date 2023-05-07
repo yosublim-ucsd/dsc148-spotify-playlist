@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Eric IV
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,239 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,277 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me \(Pt\. 2\) \[feat\. Amaria BB\]](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
+| 1 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 |
 | 2 | [Double Back](https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:39 |
 | 3 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
 | 4 | [SWITCH](https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SWITCH](https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW) | 1:44 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 79 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
 | 80 | [Ride](https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic) | [Zay Johnny](https://open.spotify.com/artist/2KMXU26kdchtzGVDW3ahYJ), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Ride](https://open.spotify.com/album/5JdNEDADKC0WVWCa0Gd3GC) | 2:53 |
 
-Snapshot ID: `MCwwYmQ3MTFlNWFlYzZmNjAwYzBiYmMwM2I0Nzk5ZDJlYTc0YmY4YjE5`
+Snapshot ID: `MCxiY2Y5ZjY4YWQ3OWJiNTQ2MzJiZmU0N2E1OTQzZmY2ZDMyOWZkYmI4`

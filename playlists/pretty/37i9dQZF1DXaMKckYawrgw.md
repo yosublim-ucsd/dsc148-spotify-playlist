@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,078 likes - 108 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,083 likes - 108 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Como te extraño mi amor](https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Avalancha de éxitos](https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls) | 3:34 |
-| 2 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
+| 2 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
 | 3 | [Tu nombre](https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk) | [Tu nombre](https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO) | 2:53 |
-| 4 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
+| 4 | [Kumbala](https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [El Circo](https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI) | 4:27 |
 | 5 | [Impermeable](https://open.spotify.com/track/0SrYQV1yFWPMU4i395FUx8) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl), [Bibi Marín](https://open.spotify.com/artist/2WUDNYnIWyyjzPLcXoTKql) | [Impermeable](https://open.spotify.com/album/2Ep365xchKBZC0RtLSKBjw) | 3:54 |
 | 6 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
 | 7 | [Que te vaya bien](https://open.spotify.com/track/6Td4LDJch1EraQYeYN059A) | [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [Que te vaya bien](https://open.spotify.com/album/3kTb1R0C7ENAQdS6ZTbeCp) | 2:54 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 33 | [Suda Mi Cuerpo](https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [15 Años de Fuerza, Corazón y Resistencia](https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu) | 3:57 |
 | 34 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 |
 | 35 | [Mi Corazón Encantado](https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Cesar Franco](https://open.spotify.com/artist/0jPN4FO3F86pPyoa4Pyd3w) | [El Ska No Está en Extinción](https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT) | 3:58 |
-| 36 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
+| 36 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
 | 37 | [Mejores Tiempos](https://open.spotify.com/track/7jBIWPsJJ09O0ffutG92Hw) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [Mejores Tiempos](https://open.spotify.com/album/4XJpYmsQZSIMcvENsWz2Nx) | 4:33 |
 | 38 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 |
 | 39 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 41 | [Me Enamoré En La Cola De Las Torillas](https://open.spotify.com/track/5dQxHCVmt6PNqNsza6XI63) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:59 |
 | 42 | [Tabernero](https://open.spotify.com/track/0NJrwGUbGfuAhdEbvpkvqu) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [The Maskatonians All Stars And Friends](https://open.spotify.com/album/369qblMdVKisn6er3exhcw) | 4:40 |
 | 43 | [Cenizas en el Mar](https://open.spotify.com/track/6W92iAWlEVfiKTr9zZYseg) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [Grandes Éxitos](https://open.spotify.com/album/47IVDbiDtwhwHd1kk4XlDk) | 2:50 |
-| 44 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
+| 44 | [Ay! Ay! Amor!](https://open.spotify.com/track/08JLwvbfZmox8i1hIvjHPp) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Ay! Ay! Amor!](https://open.spotify.com/album/1ANHuEHlwPEf6d5X6suBkM) | 2:45 |
 | 45 | [Veneno](https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:16 |
 | 46 | [La Trucha Capirucha](https://open.spotify.com/track/21JGSiGVqtQHQskfnGcKST) | [K\-ras Citadinas](https://open.spotify.com/artist/6zOR9Ay6qFpaHcOBsbvZ9B) | [El Bailongo](https://open.spotify.com/album/3Y9lwe5TOmKS62CNC2dk1l) | 3:10 |
 | 47 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 60 | [Me Amborracho](https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Entre Marzo Y Abril](https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h) | 3:17 |
 | 61 | [Las Chicas Como Tú](https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec) | [Radio Catoche](https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm) | [Monstruo de Bares](https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ) | 2:22 |
 | 62 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
-| 63 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
+| 63 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
 | 64 | [Ni un paso atras](https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:37 |
-| 65 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
+| 65 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
 | 66 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 67 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
 | 68 | [Sweet Loneliness](https://open.spotify.com/track/2Cn1tMwzh9CIss44E57mwj) | [Travelers All Stars](https://open.spotify.com/artist/7DZB5WWuNnc86cwhzv7Uuj) | [Birth of the Fourth Wave of Ska](https://open.spotify.com/album/2yeVq9vmJ4Xto4Lnqjw6eB) | 4:09 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 107 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 108 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MCw4ZGQ5MWNjODkxY2EwMzZkYjM2OGIyNjgzMWUwNzkwYTg1ODg2OWIz`
+Snapshot ID: `MCxkNjBkZWFlMTIwYTA1ODc1MWJlNmNmZmRkZjYxYzM2YTFlMzAyODVi`

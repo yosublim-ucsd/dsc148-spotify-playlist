@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,447 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,602 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 34 | [Rendezvous](https://open.spotify.com/track/7gspVQa13prQbNABCRacwE) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Rendezvous](https://open.spotify.com/album/089xXTATtiHlkm0VCM0w8q) | 2:12 |
 | 35 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
 | 36 | [アイウエ](https://open.spotify.com/track/7rqYTYi70xZBqEMAtSVhXc) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [アイウエ](https://open.spotify.com/album/1cWeuydo4eS8AwAID5YUGJ) | 3:42 |
-| 37 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
-| 38 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
+| 37 | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/track/0yrHUQ7LReHy0TqPoWoHd8) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [It Might Be Painful, but I Still Love It.](https://open.spotify.com/album/69aL4LJK092UFLmWtFeFFy) | 3:24 |
+| 38 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
 | 39 | [愛を解く](https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9) | 3:01 |
 | 40 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 | 41 | [ピアスを飲む](https://open.spotify.com/track/0MeVGdMTHtVDu9bYS21BcS) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ピアスを飲む](https://open.spotify.com/album/4gELhndqwqi2hJjO7ljuqp) | 2:42 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 44 | [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 |
 | 45 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 |
 | 46 | [Forgery](https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4) | [Yupsilon](https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3) | [Forgery](https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v) | 2:20 |
-| 47 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
-| 48 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
+| 47 | [Neppa](https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn) | [tephe](https://open.spotify.com/artist/6OKfFmQpN6Pfbqu32AyxR9), [Butter](https://open.spotify.com/artist/4OPbOOdRuVXn32mTNF8rZ2) | [Neppa](https://open.spotify.com/album/3ClWZGhs9vgfUyCkHKzbG8) | 1:14 |
+| 48 | [みちづれ](https://open.spotify.com/track/6wmcrRId5aeo7hiEqHAtEO) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Specter](https://open.spotify.com/album/5eQx95EHzDMcPurV2aByeh) | 3:13 |
 | 49 | [Requiem](https://open.spotify.com/track/22EHB5z2GwYNPA1wZ3LtL4) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Requiem](https://open.spotify.com/album/1PwHrnwnlvNg8stBetjmyE) | 2:37 |
 | 50 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 |
 
-Snapshot ID: `MCwyMGE0MjIxNTY2MDUxZDVjOTIzNGRkOThhMzgyYjBhMWVlMDQ4Nzgy`
+Snapshot ID: `MCxhYTE5ZjUzZWUxYzVlZmRkZmQ4YzRhMTliODllYTBkZTU0MzZiNzkw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > La casa dello street rap italiano\. Cover: Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,548 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,665 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 28 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 |
 | 29 | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW), [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Mariè \(feat\. Kassimi\)](https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3) | 2:54 |
 | 30 | [Braquages](https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Braquages](https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ) | 2:38 |
-| 31 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
+| 31 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
 | 32 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 |
 | 33 | [20 ALBANESI](https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [20 ALBANESI](https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q) | 2:27 |
 | 34 | [ALBV](https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ALBV](https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [TEN TEN](https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML) | [MINUR](https://open.spotify.com/artist/7rylbiZO3rabYvIKu4Kcg0), [Manny Troublez](https://open.spotify.com/artist/4zy1P09QNWgC7LvrAbYaDN) | [TEN TEN](https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp) | 3:03 |
 | 50 | [Quarto di Bue](https://open.spotify.com/track/2EE4ytQ5LpuyIjDircmLzQ) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [Quarto di Bue](https://open.spotify.com/album/2cYiDWSENKod8Ht0C13Bya) | 1:46 |
 
-Snapshot ID: `MCw4ZTZhOWRkMTdjODEyMjQ3YWExMzk1ZDQwNmE4YjY1MWJlODkwN2Fm`
+Snapshot ID: `MCw0MDUwNmFhMzZhYTA5MDIwYTMxMGRlNDVhYzE1MzA4OTM1OGM0MDNj`

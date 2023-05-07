@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,308 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,483 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,10 +50,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 40 | [El Embrujo](https://open.spotify.com/track/34ayIgjQsK3f7fJis67UWg) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Sin Fronteras](https://open.spotify.com/album/0yt2s1DPWP8Zm0OtnqJuAB) | 3:56 |
 | 41 | [Nunca me faltes](https://open.spotify.com/track/5XzVdBQbbexpDXQbwzxADj) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [El Maestro](https://open.spotify.com/album/4YZVnqO9i0znF8nk7DI8zK) | 4:13 |
 | 42 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
-| 43 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
-| 44 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 |
-| 45 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
-| 46 | [Después de Ti](https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:21 |
+| 43 | [La Cita](https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Renovado](https://open.spotify.com/album/5N6QaxcMze5HSGfMzhWASC) | 4:18 |
+| 44 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 |
+| 45 | [Después de Ti](https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:21 |
+| 46 | [Chica del Este](https://open.spotify.com/track/3cyZFqR4BxcrDgBCcPHq7s) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [10 Años](https://open.spotify.com/album/1JEqyIHEJ4rXb9yBkWVFo9) | 3:50 |
 | 47 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
 | 48 | [Ella](https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Solo Para Entendidos](https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga) | 3:02 |
 | 49 | [Entre el Cielo Vos y Yo](https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 82 | [Yo Me Estoy Enamorando](https://open.spotify.com/track/2HlkWajTgCkjW8VxAdZCYN) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [La Gata](https://open.spotify.com/album/2HCzXSG2VU7NJ4NabIHYEU) | 3:51 |
 | 83 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
 | 84 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
-| 85 | [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 |
+| 85 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
 | 86 | [Mi Único Amor](https://open.spotify.com/track/5TULG1mm08mEfvJVfC8Zcv) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:01 |
 | 87 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor pirata](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 |
 | 88 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 92 | [Ninguno De Los Dos](https://open.spotify.com/track/2MT5elnRC2PWo7o0S1VcGF) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [Ninguno De Los Dos](https://open.spotify.com/album/48xCti2phjl5t6fbpAO9OU) | 4:08 |
 | 93 | [Mil Lágrimas](https://open.spotify.com/track/3bEjthWPk4EjDuV8vcrP9p) | [Santamarta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Corazón Pecador](https://open.spotify.com/album/6YUSZgWOHLPfsEe92kTCu9) | 3:23 |
 | 94 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 |
-| 95 | [Quitame Ese Hombre](https://open.spotify.com/track/4VmrRnnsNxAQysmVMePzxt) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Éxitos de Oro](https://open.spotify.com/album/0qZMzAHtoxM6aBQlhjCIJ6) | 3:31 |
+| 95 | [Lo Que Son las Cosas](https://open.spotify.com/track/3vvsr13YGLxwTE4wEDSWfq) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ), [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Lo Que Son las Cosas](https://open.spotify.com/album/4QR6fnZkBbstmtTr8q7erK) | 3:55 |
 | 96 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
 | 97 | [Cumbia de los Dos](https://open.spotify.com/track/00IwtGTu7A1SJRs6g2445Q) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Natalia Oreiro](https://open.spotify.com/artist/0Uit4gta4PrT7HvUe8W2Xo) | [Cumbia de los Dos](https://open.spotify.com/album/7L3WNcm7mLtYU2D11t7wXi) | 4:24 |
-| 98 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
+| 98 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 99 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
-| 100 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
+| 100 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 |
 
-Snapshot ID: `MCw2YzNmNmVlODg5MWE4ODliMTIyOWQ5ZTZiODRkMjI5NDMyODk1OWEw`
+Snapshot ID: `MCw0NTljOTVjN2EzNjE0MDM0Yzk1OGRhNjliOWZlMDlmZWE3ZmUyZmQw`

@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 253767,
+  "num_followers": 253840,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzZlNzc1ZjYyODhjZWZjZjg1M2FkOGY2ZGE5MTA0Njg0OWZlMTc4",
+  "snapshot_id": "MCw4NjRiODI4Mjk1ZTM5MTZhMDk4MjdmNmI2ZTNkYjUzYmZlODI5ODE4",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -103,18 +103,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
+        "name": "Fine Line / Eat The Acid",
+        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 144631,
-      "name": "Means Something",
-      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
+      "duration_ms": 242240,
+      "name": "Eat The Acid",
+      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fine Line / Eat The Acid",
-        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Eat The Acid",
-      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
+      "duration_ms": 144631,
+      "name": "Means Something",
+      "url": "https://open.spotify.com/track/5L3FlmnCvJY2SN2jzvUwxL"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 232000,
       "name": "High And Dry",
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 230744,
+      "name": "You At The Table (with Manchester Orchestra)",
+      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Man Who Sees Tomorrow / Lodarore",
         "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 183116,
       "name": "Places/Plans",
       "url": "https://open.spotify.com/track/4FAuCkNkIlQnqfZiu60xd6"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 230744,
-      "name": "You At The Table (with Manchester Orchestra)",
-      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 220060,
-      "name": "More Than You Know - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Held Down",
         "url": "https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 247933,
       "name": "Held Down",
       "url": "https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 220060,
+      "name": "More Than You Know - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Friends With Feelings",
+        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
+      },
+      "artists": [
+        {
+          "name": "Alice Skye",
+          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
+        }
+      ],
+      "duration_ms": 255426,
+      "name": "Friends with Feelings",
+      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Fight",
         "url": "https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Friends With Feelings",
-        "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
+        "name": "Someone New",
+        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
       "artists": [
         {
-          "name": "Alice Skye",
-          "url": "https://open.spotify.com/artist/0vi9khHSAwMRQx1R65dIFR"
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
         }
       ],
-      "duration_ms": 255426,
-      "name": "Friends with Feelings",
-      "url": "https://open.spotify.com/track/6fjLHqumARq82yruyMNE1m"
+      "duration_ms": 229501,
+      "name": "Someone New",
+      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 192106,
       "name": "wish you the best (feat. Jensen McRae)",
       "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Someone New",
-        "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 229501,
-      "name": "Someone New",
-      "url": "https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Infinite Worlds",
-        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 213607,
-      "name": "Fear & Force",
-      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/4pHFtbFFyiccsHgu1NvKQq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/6HahXy57PZHiHTFdSCrW7U"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Infinite Worlds",
+        "url": "https://open.spotify.com/album/45zSvzvSNt1TdTrGKEXwk7"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 213607,
+      "name": "Fear & Force",
+      "url": "https://open.spotify.com/track/18HVJpGSp8imRBOSj4RP8J"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Planet (i)",
         "url": "https://open.spotify.com/album/75tknaKW7JWOySl5X9WjDx"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 256451,
       "name": "Unmoved (A Black Woman Truth)",
       "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to give you that warm, fuzzy feeling.",
-  "num_followers": 2473331,
+  "num_followers": 2465055,
   "original_name": "Warm Fuzzy Feeling",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTc5OGRmMzFkNTMzYTcwZGZlNzcyZThlYjczNjU5YTI4M2I0MDUz",
+  "snapshot_id": "MCw3N2NmNTA0OWQ2MDc5ZmVlMjA2YTNkOWY1ZWFkODdmOTYzZGYzMmQ1",
   "tracks": [
     {
       "added_at": "2023-04-28 04:18:11",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
-        "name": "Glue Song",
-        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 135066,
-      "name": "Glue Song",
-      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
-      "added_at": "2023-04-28 04:18:11",
-      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 285120,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "added_at": "2023-04-28 04:18:11",
+      "album": {
+        "name": "Glue Song",
+        "url": "https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 135066,
+      "name": "Glue Song",
+      "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
     },
     {
       "added_at": "2023-04-28 04:18:11",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 150519,
+      "name": "UNDERSTAND",
+      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
+    },
+    {
+      "added_at": "2023-04-28 04:18:11",
+      "album": {
         "name": "Tennessee Orange",
         "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 228988,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
-    },
-    {
-      "added_at": "2023-04-28 04:18:11",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 150519,
-      "name": "UNDERSTAND",
-      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
     },
     {
       "added_at": "2023-04-28 04:18:11",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "One Man Band",
+      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
+    },
+    {
+      "added_at": "2023-04-28 04:18:11",
+      "album": {
         "name": "IT'S YOU (feat. keshi)",
         "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "One Man Band",
-      "url": "https://open.spotify.com/track/7cA3PnUQDlUyBBwpRozQeo"
-    },
-    {
-      "added_at": "2023-04-28 04:18:11",
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+        "name": "If You Love Her",
+        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
       },
       "artists": [
         {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
         }
       ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+      "duration_ms": 217351,
+      "name": "If You Love Her",
+      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
     },
     {
       "added_at": "2023-04-28 04:18:11",
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
-        "name": "If You Love Her",
-        "url": "https://open.spotify.com/album/5hgwPA78vCrhEDaTazNMyR"
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
       },
       "artists": [
         {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
         }
       ],
-      "duration_ms": 217351,
-      "name": "If You Love Her",
-      "url": "https://open.spotify.com/track/727Z2S2mtNH46CbP9EWPwY"
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
     },
     {
       "added_at": "2023-04-28 04:18:11",
@@ -991,6 +991,26 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 160752,
+      "name": "Quedate Conmigo",
+      "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
+    },
+    {
+      "added_at": "2023-04-28 04:18:11",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 187940,
       "name": "Before You",
       "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
-    },
-    {
-      "added_at": "2023-04-28 04:18:11",
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 160752,
-      "name": "Quedate Conmigo",
-      "url": "https://open.spotify.com/track/2lqHosXoRrzxh42th6Mi7a"
     },
     {
       "added_at": "2023-04-28 04:18:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
-      },
-      "artists": [
-        {
-          "name": "Abe Parker",
-          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
-        }
-      ],
-      "duration_ms": 183937,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
-    },
-    {
-      "added_at": "2023-04-28 04:18:11",
-      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/0gX4aTUhxNbdFTJBXX7OrH"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 196280,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/0rFOs9paloAvEtzwDX1Kmc"
+    },
+    {
+      "added_at": "2023-04-28 04:18:11",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2x3wUvuuBFYY0XEcm3Xp1U"
+      },
+      "artists": [
+        {
+          "name": "Abe Parker",
+          "url": "https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES"
+        }
+      ],
+      "duration_ms": 183937,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/6Xa2rrTpSLkpx887Y115mO"
     },
     {
       "added_at": "2023-04-28 04:18:11",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-04-28 04:18:11",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 168562,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
-    },
-    {
-      "added_at": "2023-04-28 04:18:11",
-      "album": {
         "name": "Save Me, San Francisco (Golden Gate Edition)",
         "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
+    },
+    {
+      "added_at": "2023-04-28 04:18:11",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 168562,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
     },
     {
       "added_at": "2023-04-28 04:18:11",

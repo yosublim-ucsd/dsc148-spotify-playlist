@@ -1,12 +1,12 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 117530,
+  "num_followers": 117597,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTQ4OWM0OTZhNGM1OWY2ZmVjOTU0ZWRiNDUzNGUwOTVmMTQyM2Rj",
+  "snapshot_id": "MCxjYTYyMDc1MmRjNjJmMjg1MzE1ZjQ2YTZkZmI1ZGY4MTAwNzI0MjU1",
   "tracks": [
     {
       "added_at": "2023-02-13 21:24:01",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 221626,
       "name": "\u00c9l Me Minti\u00f3",
       "url": "https://open.spotify.com/track/6lZ2Qk3WcmrG4iDmaEqpvH"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2023-02-13 21:24:01",

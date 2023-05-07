@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Céline Dion, grandson, and MacKenzie Porter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,988 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,015 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
 | 100 | [Sorcery](https://open.spotify.com/track/3HdPQvs6SmerSFSweuwgJk) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Sorcery](https://open.spotify.com/album/28xNTR0Ay7FMqh5PShz1l8) | 3:32 |
 
-Snapshot ID: `MCxiMTRjZGVmZTkyODQxOWZmMTc0MGNlN2EwOTNjNjFiYzYzYjhmNmI0`
+Snapshot ID: `MCw4YzQ2ZjAxZjVlYmVhYTNmMjc0YmM2ZDE4OWZmNWM5MzhkMDk5MTQ2`

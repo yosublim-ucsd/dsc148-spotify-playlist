@@ -4,7 +4,7 @@
 
 > Écoutez en boucle les hits 100% marocains du moment.
 
-246 songs - 13 hr 27 min
+247 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aayane](https://open.spotify.com/track/2LISvI1KPr4EFv90M6x06D) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Tiempo](https://open.spotify.com/album/5OaMylPTG87Y9JrqIH7Vp3) | 3:07 | 2022-08-20 | 2023-02-13 |
 | [Aayane](https://open.spotify.com/track/3MDtvI827zJAWBLqf61bT1) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Aayane](https://open.spotify.com/album/2h4sVIJOUNthoOyxvypci6) | 3:07 | 2022-05-19 | 2022-08-21 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-04-17 |  |
-| [Ach Dani Lik](https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ach Dani Lik](https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy) | 2:57 | 2023-02-02 |  |
+| [Ach Dani Lik](https://open.spotify.com/track/624gb1oOYf0t7RmUmI65L8) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ach Dani Lik](https://open.spotify.com/album/0DkiOYQUtBe7y16it7cuzy) | 2:57 | 2023-02-02 | 2023-05-07 |
 | [Adios](https://open.spotify.com/track/1vKJzr4lZVR0Mc8tAjov7g) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ), [Daffy](https://open.spotify.com/artist/1riWTPKcSkoy6FkEqs1ohC) | [Adios](https://open.spotify.com/album/1KClKLGPj7DvHflfSCE6U5) | 3:06 | 2022-02-17 | 2022-06-10 |
 | [Afrokech](https://open.spotify.com/track/3pPvIIHgfuAPgn9nJ5xW23) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Afrokech](https://open.spotify.com/album/4lXI38vVvwwbmiFB2vEB5o) | 2:18 | 2022-03-24 | 2022-05-27 |
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2023-03-06 |  |
@@ -74,6 +74,7 @@
 | [F'B3ADEK](https://open.spotify.com/track/7qDPLZaZ6gYQ4RU3x66MPR) | [Jamoul](https://open.spotify.com/artist/3exUAiuWlhYuYRG4VjcrTX), [Bilal Africano](https://open.spotify.com/artist/4zmFRtgn99DrWdpZQVHb13) | [F'B3ADEK](https://open.spotify.com/album/0mvKnAGR4DD87qzK59z7iY) | 3:14 | 2022-11-09 | 2022-11-22 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-09 |  |
+| [Galbi Mazal](https://open.spotify.com/track/67PdC9pbSDsuZ2YpTCITw0) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [Galbi Mazal](https://open.spotify.com/album/73UXBEpmeRvzFUrbAPielh) | 2:44 | 2023-05-06 |  |
 | [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2022-04-15 | 2022-08-17 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |

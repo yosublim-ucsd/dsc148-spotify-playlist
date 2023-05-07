@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2H7rfzRpsqXkc2FPOlv123">Chelcee Grimes</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-76 songs - 4 hr 19 min
+77 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Honeymoon](https://open.spotify.com/track/2bzv4zdBugbECUkWU3upM9) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [MASSIVE](https://open.spotify.com/album/4uxJa8tBMhBLA49owkf4gK) | 3:24 | 2022-09-08 | 2023-01-03 |
 | [HONEYMOON](https://open.spotify.com/track/18yMTj71QJwQkybGfhYcaY) | [B.A.P](https://open.spotify.com/artist/6kxCoNfY6U1eP0Yc88phvk) | [BLUE](https://open.spotify.com/album/3rz2cmoTK4j3hpuTfeRSRn) | 3:24 | 2022-09-08 |  |
 | [Hurricane](https://open.spotify.com/track/5Ro4XYBG7ZED9IAWh2v0Qs) | [Morana](https://open.spotify.com/artist/36krahH0YDL5Md6rpRUkP6) | [Hurricane](https://open.spotify.com/album/0l4IrKrrpuV5PMoVLJCjhT) | 3:24 | 2022-09-08 |  |
+| [HYBRID](https://open.spotify.com/track/2DcoPHnwznHQimpVfMXL8Y) | [MAX CHANGMIN](https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS), [Ha Hyun Woo](https://open.spotify.com/artist/5EXYPAGnOxvyTstoykxKd3) | [HYBRID \- SM STATION](https://open.spotify.com/album/3bL1FEeKZTzuTL85rLM0Qb) | 4:56 | 2023-05-06 |  |
 | [I Belong With You](https://open.spotify.com/track/4ZuLCd1A2WRgzNj51thB0M) | [Dada](https://open.spotify.com/artist/03FagtGSQn7UpUflscKmsX), [LIV](https://open.spotify.com/artist/7teUw80MXDDZlELFKbJsuz) | [I Belong With You](https://open.spotify.com/album/3fB22NjWfNboC9rGEbBrmG) | 2:48 | 2022-09-08 |  |
 | [I Need a Night Out](https://open.spotify.com/track/0desJH8bu68LRIzBCe3Cnv) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [I Need a Night Out](https://open.spotify.com/album/0HhYDwhESPSeuyDjVxGRBV) | 3:20 | 2022-09-08 |  |
 | [I Will Fight](https://open.spotify.com/track/0X1bdT5WEYL2wtAvNDsbt9) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v), [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [FACE \- The 1st Album](https://open.spotify.com/album/60ySfrb8zjJooMlVbpWGHG) | 3:58 | 2022-09-08 |  |

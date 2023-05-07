@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 
 > Keep your focus and drown out distracting sounds with white noise from the oceans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,424 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,444 likes - 60 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 12 | [Rocking Waves](https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:40 |
 | 13 | [Waves Crashing](https://open.spotify.com/track/0YuKG1kFgb6vLDiQqmBaM3) | [Underwater Sound](https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq) | [Venice Beach Night Waves](https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD) | 2:27 |
 | 14 | [The Oceanic Beach Sound](https://open.spotify.com/track/5mvw769FihTs6dokvzhosR) | [4D Nature Recordings](https://open.spotify.com/artist/6EAXjip845wircvDzEImru) | [Stereo Waves](https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ) | 2:53 |
-| 15 | [Sea Waves](https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ) | [Relaxation Makers](https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF) | [Relaxation Makers](https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl) | 3:57 |
-| 16 | [Waves Loopable](https://open.spotify.com/track/1MEZXgooG2c5g84uaRbIn6) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [More waves From Scandinavia](https://open.spotify.com/album/6VSjNdgSi4EPpJF4aHIdGB) | 2:53 |
+| 15 | [Waves Loopable](https://open.spotify.com/track/1MEZXgooG2c5g84uaRbIn6) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [More waves From Scandinavia](https://open.spotify.com/album/6VSjNdgSi4EPpJF4aHIdGB) | 2:53 |
+| 16 | [Sea Waves](https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ) | [Relaxation Makers](https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF) | [Relaxation Makers](https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl) | 3:57 |
 | 17 | [Misty Waves](https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 2:54 |
 | 18 | [Waves of Hope](https://open.spotify.com/track/4WShV9ueF0eVdev69kRxyD) | [Waves At Night](https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG) | [Volume 1](https://open.spotify.com/album/457JbvsnuRxeVObXwIemfG) | 3:07 |
 | 19 | [Distant Waves](https://open.spotify.com/track/4Ql30uKSojQ49MCRV7IMV5) | [Michael Pole](https://open.spotify.com/artist/5QOg8xdFwY9ttJgSXlp8Jk) | [Ocean Beach Samples](https://open.spotify.com/album/0rp2448Xx1xBQrHCRGdlcX) | 1:42 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 23 | [Cave Mouth Tide](https://open.spotify.com/track/4reNcBdaouUlAzAtVK5zgC) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Coastal Clifftop Waves](https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj) | 3:07 |
 | 24 | [Daytona Beach Waves](https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD) | [Tailormade Ocean Waves](https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly) | [Nature Sleep](https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG) | 1:23 |
 | 25 | [Heavy Oceans](https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK) | [Hi Freq Samples](https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw) | [Oceanic Samples](https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt) | 2:36 |
-| 26 | [Calm Waves pt\. 3](https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Calm Waves](https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM) | 2:18 |
+| 26 | [Still Thoughts And Wave Sounds](https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves](https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d) | 2:51 |
 | 27 | [Stormy Beach Waves](https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF) | [XLX Library](https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp) | [Stormy Beach Waves](https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc) | 2:10 |
-| 28 | [Still Thoughts And Wave Sounds](https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL) | [KPR Sounds](https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD) | [Moments Of Waves](https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d) | 2:51 |
+| 28 | [Calm Waves pt\. 3](https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh) | [Outside HD Samples](https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ) | [Calm Waves](https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM) | 2:18 |
 | 29 | [Waves: Tranquility Touch](https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg) | [Natural Sample Makers](https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 1:53 |
 | 30 | [Slow Waves](https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp) | [Sleep Factory](https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8) | [Slow Waves](https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d) | 1:47 |
 | 31 | [Relaxing Waves](https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh) | [Epic Soundscapes](https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc) | [Epic Waves \- vol.1](https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9) | 3:49 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3Y0rhKV60l.md) - [plain]
 | 56 | [Sandy Gulf \(Ocean\)](https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM) | [Earth Alliance](https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ) | [Pieces of Paradise \(Nature\)](https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ) | 2:40 |
 | 57 | [Thunderous Ocean \- Seamless](https://open.spotify.com/track/0IY1lXJOW9g5Lt0HiVBqiB) | [Somnography](https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM) | [Thunderous Ocean](https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX) | 2:54 |
 | 58 | [Wandering Waves](https://open.spotify.com/track/5XzujG7g5cV0gEN3mtu1gs) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Ocean Waves for Sleep Volume 3](https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae) | 2:56 |
-| 59 | [Sleepy Rolling Depths \(Ocean\)](https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [The Vast Sea](https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y) | 2:31 |
+| 59 | [Oceanside Waves](https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Oceanside Waves & Outer Channel Waves](https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre) | 4:04 |
 | 60 | [Waves After Midnight](https://open.spotify.com/track/1Zj4Br0NYdvldwqS2vPXOJ) | [Gnees Early Waves](https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s) | [Waves For Sleeping](https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx) | 2:35 |
 
-Snapshot ID: `MCw2MjAyNTIzZGIxYTgzNDVkMTljNzgwNTk0NDhjNDI4OGUyZGQ4MTM2`
+Snapshot ID: `MCw2ZTlhNWE4NjVkZjljNzZiYzhkYzg4NTFmNzhhNWFkZDFmYWFiZjEw`

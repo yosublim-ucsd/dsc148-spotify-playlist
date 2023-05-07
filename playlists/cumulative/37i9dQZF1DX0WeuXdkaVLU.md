@@ -4,7 +4,7 @@
 
 > Music from and inspired by The School for Good and Evil\. Watch now on Netflix.
 
-34 songs - 1 hr 50 min
+35 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Irresponsible](https://open.spotify.com/track/3PIDY9vzQP6U8OLTYlcA50) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Irresponsible](https://open.spotify.com/album/5Mv9dyRbKf8x90M86mibc0) | 3:12 | 2022-10-18 |  |
 | [I’m Sensitive](https://open.spotify.com/track/6SoZSWIEtPyf9C1rh6Ws4j) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Pieces Of You \(25th Anniversary Edition\)](https://open.spotify.com/album/1AKK0MFNHhYhOZGOWePh4o) | 2:56 | 2022-10-18 |  |
 | [Magic Dance](https://open.spotify.com/track/4EHZ571PqEo5hH4HSegSA3) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Labyrinth \(From The Original Soundtrack Of The Jim Henson Film\)](https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74) | 4:12 | 2022-10-18 |  |
-| [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 | 2022-10-18 |  |
+| [mememe](https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [mememe](https://open.spotify.com/album/3zy8FiB9URB4b2yNOwMM36) | 2:46 | 2022-10-18 | 2023-05-07 |
+| [mememe](https://open.spotify.com/track/39Pudjd7JS8NosYN24m7Hc) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:46 | 2022-10-18 |  |
 | [Prelude No\. 1 in C Major, BWV 846: Well\-Tempered Klavier \- From the Well\-Tempered Klavier](https://open.spotify.com/track/6rrPRUbOf3Kvzktz4T5FST) | [Erica Goodman](https://open.spotify.com/artist/1EelcDEygYtkxrPAAK1vG0) | [Heavenly Harp](https://open.spotify.com/album/7wlkMkHsZ79mRM7G5zSOwV) | 2:31 | 2022-10-18 |  |
 | [Puffer](https://open.spotify.com/track/7635hWMCKR3csDnRdON93M) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:32 | 2022-10-18 |  |
 | [Ready for It](https://open.spotify.com/track/29HpBx2DOjT9y6BpBQ4itU) | [Rayelle](https://open.spotify.com/artist/5ZMPpV5VxNpgr3IWOpcc4c) | [Ready for It](https://open.spotify.com/album/1QCGloL6t0yeDLoFA2G0yL) | 2:59 | 2022-10-18 |  |

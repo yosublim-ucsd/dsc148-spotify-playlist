@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 
 > This is Brandi Carlile\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,504 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,549 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1poioV.md) - [plain]
 | 49 | [Keep Your Heart Young](https://open.spotify.com/track/102LKbpOsGAXWYQx9sEd5e) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Bear Creek](https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE) | 3:20 |
 | 50 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyMDVlNmVmYWJmYjcxNWMxMmY5YmNkODM2OGI1ZDVmZg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA3NjdhMmVkMDk2NmU2YzAwODQ3OWQyMTNlYTI1ODM1OQ==`

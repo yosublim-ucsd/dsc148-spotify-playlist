@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,287 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,318 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 35 | [The Quiet Time](https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 5:50 |
 | 36 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
 | 37 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
-| 38 | [Easy Living](https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z) | [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Coop! The Music Of Bob Cooper](https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5) | 4:21 |
-| 39 | [News From Blueport](https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 5:03 |
+| 38 | [News From Blueport](https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 5:03 |
+| 39 | [Easy Living](https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z) | [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Coop! The Music Of Bob Cooper](https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5) | 4:21 |
 | 40 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
 | 41 | [Sid, Ol' Kid](https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI) | [Marty Paich](https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R) | [Take Me Along](https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI) | 5:04 |
 | 42 | [Sunset](https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Bud Powell Quartet](https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:45 |
 | 43 | [Beyond the Blue Horizon](https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Gongs East!](https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q) | 3:05 |
-| 44 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
-| 45 | [We'll Be Together Again](https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 8:43 |
+| 44 | [We'll Be Together Again](https://open.spotify.com/track/3fysSRqg0huNQnjCUS0zo3) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz At The Shrine](https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12) | 8:43 |
+| 45 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
 | 46 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
 | 47 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
 | 48 | [Walkin' With Wally \- live](https://open.spotify.com/track/2jrutFIbGBJqT8FdSRisuJ) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Monterey Concerts](https://open.spotify.com/album/1nIZG4Rb0iAzzqo5UgcF2t) | 10:05 |
 | 49 | [Moon Tan](https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh) | [Bobby Scott](https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD) | [East Coast Jazz, Vol\. 1 \(Remastered 2013\)](https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ) | 3:47 |
 | 50 | [Swingin' The Blues](https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Shorty Rodgers Courts The Count](https://open.spotify.com/album/79crFBHL0AC42MEgShce76) | 4:22 |
 
-Snapshot ID: `MCxjM2ZmYmZlMDBjODM3NjQ3YjI1MDFhZmNmNGVjZDBlM2JiZmI5NTg5`
+Snapshot ID: `MCw4OWNjOGJlZmVmNWZhYTkxMDVhNzU5MmM4MTRhYTNkOWUwNGJiYjEz`

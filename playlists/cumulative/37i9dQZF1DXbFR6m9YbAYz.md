@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2022-08-12 | 2023-04-21 |
+| ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 | 2022-08-12 |  |
 | [5\-1\-5\-0](https://open.spotify.com/track/2WKCH4ISejDV9ad7iPp5XU) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Home](https://open.spotify.com/album/4WYx3Z81yhA09dBIAktauv) | 3:02 | 2022-08-12 | 2022-11-13 |
 | [7 Summers](https://open.spotify.com/track/4obHzpwGrjoTuZh2DItEMZ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 3:30 | 2022-08-12 | 2022-12-06 |
 | [9 to 5](https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 To 5 And Odd Jobs](https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd) | 2:42 | 2022-08-12 |  |
@@ -73,7 +73,7 @@
 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 | 2022-08-12 |  |
 | [Ridin’ Roads](https://open.spotify.com/track/2VPmBOuy7ZAOFSzKwW2IEt) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Tullahoma](https://open.spotify.com/album/2jGU6wUOYlyscEVAh6dtg5) | 3:25 | 2022-08-12 | 2022-11-13 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-12-05 |  |
-| [Runnin' Outta Moonlight](https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:13 | 2022-08-12 |  |
+| [Runnin' Outta Moonlight](https://open.spotify.com/track/6enPOmd3vSFpI4jjms8kXN) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [How Country Feels](https://open.spotify.com/album/4BVzcXLDJ8pRtJttQiU3G6) | 3:13 | 2022-08-12 | 2023-05-07 |
 | [She's Country](https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Wide Open](https://open.spotify.com/album/7k9oif0MqtQ79j8swtZRMS) | 3:40 | 2022-08-12 |  |
 | [Should've Been A Cowboy](https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:28 | 2022-08-12 | 2023-02-22 |
 | [Should've Been A Cowboy](https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:31 | 2023-01-13 |  |

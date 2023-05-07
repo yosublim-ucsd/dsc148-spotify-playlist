@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,374 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,559 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 19 | [Baby What You Want Me To Do](https://open.spotify.com/track/05oMNN5Rbv6rVqyFFG9uTl) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:24 |
 | 20 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
 | 21 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 |
-| 22 | [Blues Before Sunrise](https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 2:57 |
-| 23 | [Red House](https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 3:43 |
+| 22 | [Red House](https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 3:43 |
+| 23 | [Blues Before Sunrise](https://open.spotify.com/track/648g2wFtqqzK8rW0Y2F0T3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 2:57 |
 | 24 | [Boom Boom](https://open.spotify.com/track/6MBlp2Gs9Q9aGWqDDJiNkt) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo) | 4:19 |
 | 25 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 26 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 |
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 43 | [Double Trouble](https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:43 |
 | 44 | [Double Crossing Time \- Mono](https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:00 |
 | 45 | [Born In Chicago](https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Blues Brothers 2000](https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ) | 3:05 |
-| 46 | [Killing Floor](https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT) | [The Electric Flag](https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl) | [A Long Time Comin'](https://open.spotify.com/album/5816bqBdozCXD95olZoLHk) | 4:09 |
-| 47 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
+| 46 | [Wang Dang Doodle](https://open.spotify.com/track/6BRPW9P9EfuesEenxbM6zj) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [What It Takes: The Chess Years](https://open.spotify.com/album/4w1M6BA0n3LB2GhlZXzQbC) | 3:01 |
+| 47 | [Killing Floor](https://open.spotify.com/track/47KjgcMPHmdhZZYJARV8dT) | [The Electric Flag](https://open.spotify.com/artist/6qyfxCyE6JsPkcGVIOPpyl) | [A Long Time Comin'](https://open.spotify.com/album/5816bqBdozCXD95olZoLHk) | 4:09 |
 | 48 | [No Good](https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Completely Well](https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1) | 4:35 |
 | 49 | [The Super\-Natural](https://open.spotify.com/track/5WralwF47zqlIgIzxYburB) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:55 |
 | 50 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
 | 51 | [Coming Home](https://open.spotify.com/track/2ovvpvMVd1ZcvP0qttCnDa) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful \(Deluxe\)](https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh) | 2:41 |
 | 52 | [Sweet Home Chicago](https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Buddy Guy/ Freddie King/ Sonny Boy Williamson](https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9) | 4:24 |
-| 53 | [Ain't Superstitious](https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:30 |
-| 54 | [Wound Up Tight](https://open.spotify.com/track/3a4PKaIVUkFTl2k9PV93yh) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Wound Up Tight](https://open.spotify.com/album/3dvXGTbdS5eesvKcBTOkXM) | 5:18 |
+| 53 | [Wound Up Tight](https://open.spotify.com/track/3a4PKaIVUkFTl2k9PV93yh) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Wound Up Tight](https://open.spotify.com/album/3dvXGTbdS5eesvKcBTOkXM) | 5:18 |
+| 54 | [Ain't Superstitious](https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK) | [Savoy Brown](https://open.spotify.com/artist/17obwOahRWI121iMUZznh2) | [Shake Down](https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb) | 3:30 |
 | 55 | [All for Business](https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes) | [Byther Smith](https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR) | [Chicago Blues Legend](https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI) | 3:19 |
 | 56 | [4:59am](https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Blues 100](https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe) | 4:43 |
 | 57 | [The Stumble](https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 2:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 59 | [Shake Your Moneymaker](https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:13 |
 | 60 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
 
-Snapshot ID: `MCxmMzA2NGY2YmZjODlkYTEzZGZhNDEyNzU2NDMxYmIzZmIxNTU5NDk3`
+Snapshot ID: `MCw4NGIwOTc4YjAyOGEyNTU4MGE3MjljZTkyNjllNGMzOTkzY2M4MDg4`

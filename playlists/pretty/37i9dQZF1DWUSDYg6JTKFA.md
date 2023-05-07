@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,981 likes - 65 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,049 likes - 65 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 2 | [Hope Returns](https://open.spotify.com/track/4tfpo5whNasRR4vLTX5sZD) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:53 |
 | 3 | [Reckless Love](https://open.spotify.com/track/0rH0mprtecH3grD9HFM5AD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 5:33 |
 | 4 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
-| 5 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
+| 5 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
 | 6 | [TOGETHER](https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TOGETHER](https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z) | 3:26 |
-| 7 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
+| 7 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
 | 8 | [One Day](https://open.spotify.com/track/15eJjGIuCDEtF6ph4Hd3eR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:25 |
 | 9 | [Even If](https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 4:15 |
 | 10 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 |
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 14 | [Here Again](https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 6:45 |
 | 15 | [My Lighthouse](https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [The Art Of Celebration](https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b) | 3:44 |
 | 16 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 |
-| 17 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
-| 18 | [Soul On Fire \(feat\. All Sons & Daughters\) \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:17 |
+| 17 | [Soul On Fire \(feat\. All Sons & Daughters\) \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:17 |
+| 18 | [Peace Be Still \- Live](https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [All The Earth \(Live\)](https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h) | 8:06 |
 | 19 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
 | 20 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabereal](https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7) | [Fresh Start](https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk) | 5:31 |
 | 21 | [The River](https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Beloved](https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1) | 3:15 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [We Fall Down](https://open.spotify.com/track/5gnMKEfIyg2zu84vfmfSpa) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 4:40 |
 | 65 | [Hallelujah Here Below](https://open.spotify.com/track/5PY5NbWxkAUkVQuvIuTHkz) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Hallelujah Here Below](https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC) | 7:03 |
 
-Snapshot ID: `MCxhMjBiM2YzN2MzZDRkYmYwZGJjODdiYTM1MDExMjhmMWU4YzMwN2Ji`
+Snapshot ID: `MCwxYzVjNmE3MzMyYTRkMzIxNTcwZjFiMWQ4ZWUyNTBmZTFlNGY0NTgw`

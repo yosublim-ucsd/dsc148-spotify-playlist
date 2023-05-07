@@ -1,12 +1,12 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 255613,
+  "num_followers": 255788,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODIxNDZmZTEzNjUzY2NkYjIxNGRiNjNiNmRmNDNmNzg4Mjg0NTE4",
+  "snapshot_id": "MCxhZjNhNjM0M2FlMzI5NGQ0Mjg0YmM0Y2FlMDhkYjNmNDM2MjhmYWEy",
   "tracks": [
     {
       "added_at": "2022-11-04 06:07:07",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Dragonball Wave",
-        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
-      },
-      "artists": [
-        {
-          "name": "Maitro",
-          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Left to Our Own Devices",
         "url": "https://open.spotify.com/album/1y8vLhvcsBHmFcNB57IZyy"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Midnight Store",
-        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+        "name": "Dragonball Wave",
+        "url": "https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00"
       },
       "artists": [
         {
-          "name": "Donor Lens",
-          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+          "name": "Maitro",
+          "url": "https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np"
         }
       ],
-      "duration_ms": 157974,
-      "name": "Turn the Fridge On",
-      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
+      "duration_ms": 214401,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/37Fla7V94zrIM1Z45J0mx1"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -983,6 +967,22 @@
       "duration_ms": 176015,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/5VaDZOhX8Ma1zAHL0hyz1o"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Midnight Store",
+        "url": "https://open.spotify.com/album/36WA4KamqIuwQZS8n1FZPl"
+      },
+      "artists": [
+        {
+          "name": "Donor Lens",
+          "url": "https://open.spotify.com/artist/0gF93jqUmpFOFEtBKXWFiA"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "Turn the Fridge On",
+      "url": "https://open.spotify.com/track/4Ex9W2heRZub49lRZDveky"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Empty Hiding World",
-        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
-      },
-      "artists": [
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        },
-        {
-          "name": "Gavriel",
-          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
-        }
-      ],
-      "duration_ms": 241836,
-      "name": "Edenic Green Plus",
-      "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Presentere Fine Design (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/6U7SWo42VFTaQS3kvYVqjs"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 208000,
       "name": "Presentere Fine Design - Slowed + Reverb",
       "url": "https://open.spotify.com/track/2G33CEeAZN5RCI7cL4sQGb"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Empty Hiding World",
+        "url": "https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R"
+      },
+      "artists": [
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        },
+        {
+          "name": "Gavriel",
+          "url": "https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ"
+        }
+      ],
+      "duration_ms": 241836,
+      "name": "Edenic Green Plus",
+      "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Wish We Were Sightseers",
-        "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 238213,
-      "name": "True Cyan",
-      "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "No Sugar Added",
         "url": "https://open.spotify.com/album/4olgBAtPoJfrz9wZglnWrX"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Music: Here To Stay",
-        "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
+        "name": "Wish We Were Sightseers",
+        "url": "https://open.spotify.com/album/4g4zuz5IpQJCyPOTf4YBrY"
       },
       "artists": [
         {
-          "name": "3d Blast",
-          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
+          "name": "BVSMV",
+          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
         }
       ],
-      "duration_ms": 242817,
-      "name": "3rD BEST",
-      "url": "https://open.spotify.com/track/11w7UNvU8VAqssbgXqEYpp"
+      "duration_ms": 238213,
+      "name": "True Cyan",
+      "url": "https://open.spotify.com/track/1rcvzktqDE1Xp6u1TWtLlo"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Growing Apart",
+        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+      },
+      "artists": [
+        {
+          "name": "Rayklin",
+          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+        }
+      ],
+      "duration_ms": 217153,
+      "name": "Growing Apart",
+      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "One Hundred Mornings (Bonus Tracks)",
         "url": "https://open.spotify.com/album/1q1iZ1xrAljMcjvjpEFhfa"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Growing Apart",
-        "url": "https://open.spotify.com/album/37bgZiMeNpFqOeHBH2ySzS"
+        "name": "Music: Here To Stay",
+        "url": "https://open.spotify.com/album/3HFjXBJKFh4m3aniQCVQAA"
       },
       "artists": [
         {
-          "name": "Rayklin",
-          "url": "https://open.spotify.com/artist/2FTHXc8okmVhGLBREZUhVA"
+          "name": "3d Blast",
+          "url": "https://open.spotify.com/artist/4dt3uDLF3r287ibId32Ps2"
         }
       ],
-      "duration_ms": 217153,
-      "name": "Growing Apart",
-      "url": "https://open.spotify.com/track/5MJ0dvRaRU2RWdpVFWP4jm"
+      "duration_ms": 242817,
+      "name": "3rD BEST",
+      "url": "https://open.spotify.com/track/11w7UNvU8VAqssbgXqEYpp"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Swing Tournament",
-        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
-      },
-      "artists": [
-        {
-          "name": "US Golf 95",
-          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Nature",
-      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "CYBERIA",
         "url": "https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Swing Tournament",
+        "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
+      },
+      "artists": [
+        {
+          "name": "US Golf 95",
+          "url": "https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Nature",
+      "url": "https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Crystal",
         "url": "https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 181955,
       "name": "TELL ME HOW IT FEELS",
       "url": "https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+      },
+      "artists": [
+        {
+          "name": "oDDling",
+          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+        }
+      ],
+      "duration_ms": 170379,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Vivid",
-        "url": "https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW"
+        "name": "Harlequin",
+        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
       },
       "artists": [
         {
-          "name": "oDDling",
-          "url": "https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE"
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
         }
       ],
-      "duration_ms": 170379,
-      "name": "Vivid",
-      "url": "https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u"
+      "duration_ms": 176086,
+      "name": "Harlequin",
+      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Harlequin",
-        "url": "https://open.spotify.com/album/3cB1LycEBKXgS2OT8z2sPb"
+        "name": "Network Entities",
+        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
       },
       "artists": [
         {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+          "name": "Incorporeal Visions Deluxe",
+          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
         }
       ],
-      "duration_ms": 176086,
-      "name": "Harlequin",
-      "url": "https://open.spotify.com/track/7rDsuv5zejXYlPUkG5nW0p"
+      "duration_ms": 78947,
+      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
+      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Network Entities",
-        "url": "https://open.spotify.com/album/6B8OPdnxgB6NfsHiHTtjtd"
-      },
-      "artists": [
-        {
-          "name": "Incorporeal Visions Deluxe",
-          "url": "https://open.spotify.com/artist/6oN8dTpjc9s7SfQOuTt87e"
-        }
-      ],
-      "duration_ms": 78947,
-      "name": "Ventilation \u30aa\u30d5\u30a3\u30b9",
-      "url": "https://open.spotify.com/track/59T2mZuHyy6yvHhTfZUsLk"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "EMAIL",
         "url": "https://open.spotify.com/album/0KzAgnxkqlgOkpgm7hGqOg"
       },
@@ -1575,26 +1575,6 @@
       "duration_ms": 176269,
       "name": "SOULLL",
       "url": "https://open.spotify.com/track/4NtxadWdlxguhLNsRu2EbN"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
-        "name": "Glass Mind",
-        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
-      },
-      "artists": [
-        {
-          "name": "ev.exi",
-          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
-        },
-        {
-          "name": "Lavera",
-          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Glass Mind",
-      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1623,6 +1603,26 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
+        "name": "Glass Mind",
+        "url": "https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez"
+      },
+      "artists": [
+        {
+          "name": "ev.exi",
+          "url": "https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1"
+        },
+        {
+          "name": "Lavera",
+          "url": "https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Glass Mind",
+      "url": "https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
         "name": "Downpour",
         "url": "https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "143",
-        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
-      },
-      "artists": [
-        {
-          "name": "FrankJavCee",
-          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
-        }
-      ],
-      "duration_ms": 103214,
-      "name": "143",
-      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Quantum Superpositions and Discrete Abstractions (Premium Deluxe Edition)",
         "url": "https://open.spotify.com/album/6KMyqAbBbBaJquLEl9DOEX"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 208831,
       "name": "Epilogue (See You In My Dreams)",
       "url": "https://open.spotify.com/track/3LeiUqAE7RPjX3xoFphw6R"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "143",
+        "url": "https://open.spotify.com/album/6W5Kx3irgVH36Jnzj66BPN"
+      },
+      "artists": [
+        {
+          "name": "FrankJavCee",
+          "url": "https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E"
+        }
+      ],
+      "duration_ms": 103214,
+      "name": "143",
+      "url": "https://open.spotify.com/track/7xOdYxWVzHiQjicqxmiEQt"
     },
     {
       "added_at": "2022-11-04 06:07:07",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2022-11-04 06:07:07",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt"
-      },
-      "artists": [
-        {
-          "name": "A.L.I.S.O.N",
-          "url": "https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0"
-        },
-        {
-          "name": "Hotel Pools",
-          "url": "https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz"
-        }
-      ],
-      "duration_ms": 231745,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX"
-    },
-    {
-      "added_at": "2022-11-04 06:07:07",
-      "album": {
         "name": "Strangers Who Know Every Secret",
         "url": "https://open.spotify.com/album/2HYUqt8hUWWJI1k9Z0ikhk"
       },
@@ -1747,6 +1727,22 @@
       "duration_ms": 156613,
       "name": "Strangers Who Know Every Secret",
       "url": "https://open.spotify.com/track/5QTXHQKxX4fPRJMiHPkGYU"
+    },
+    {
+      "added_at": "2022-11-04 06:07:07",
+      "album": {
+        "name": "Psycho Geography",
+        "url": "https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh"
+      },
+      "artists": [
+        {
+          "name": "Memorex Memories",
+          "url": "https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Psycho Geography",
+      "url": "https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68"
     }
   ],
   "unique_name": "vaporwave",

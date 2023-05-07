@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-344 songs - 19 hr 14 min
+345 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 | 2021-10-31 | 2023-01-14 |
 | [Faith Fall \- dance party](https://open.spotify.com/track/50pQcaZ2w1PVpn5GTiq4OJ) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Faith Fall](https://open.spotify.com/album/1XGzyIA05w1nyRg2MK2qy9) | 4:02 | 2023-01-13 | 2023-02-01 |
 | [Fake It](https://open.spotify.com/track/3pG67SPFvErjQm5sNGD4Zw) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Fake It](https://open.spotify.com/album/4N0w3h50Na3JDMqz4F0NWN) | 3:06 | 2023-01-13 |  |
-| [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2023-01-13 |  |
+| [Fake It \- Warehouse Mix](https://open.spotify.com/track/2bSvz6l48lHHQnluvmNXfS) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [Fake It](https://open.spotify.com/album/6YX6VkBN80s2eHGsqwEsuU) | 2:17 | 2023-01-13 | 2023-05-07 |
 | [Fake Love](https://open.spotify.com/track/5cScwnGYEKlF2TusRewybb) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Fake Love](https://open.spotify.com/album/1O2C6XFhuYh0d5pwsoD5gO) | 3:31 | 2023-01-13 |  |
 | [Father](https://open.spotify.com/track/6WOC0K8SGct3PSB2F8iQJP) | [Branan Murphy](https://open.spotify.com/artist/3dM3K6fpZECycMPbTXqGNo) | [Father](https://open.spotify.com/album/0UJEnFmTPu4Rff2IrrFCsX) | 3:33 | 2023-01-13 |  |
 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart \(Deluxe\)](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 | 2021-10-31 | 2022-07-27 |
@@ -154,6 +154,7 @@
 | [I Got You](https://open.spotify.com/track/6EPoaw4yFv3MvhaN8eygQB) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [How Far](https://open.spotify.com/album/3gLjb9742smlCKDF42g7yy) | 3:01 | 2021-10-31 | 2023-01-14 |
 | [I Know You Can](https://open.spotify.com/track/5IVnZd5m8CRUAYvgPQ5cpU) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [I Know You Can](https://open.spotify.com/album/5YWErHX7eWgsa8ROa4ypGb) | 2:51 | 2023-01-13 |  |
 | [I Trust You \- Radio Edit](https://open.spotify.com/track/5qZREphIiL2VQ4IvuxgRnH) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [I Trust You \(Radio Edit\)](https://open.spotify.com/album/1qE293EsHJeJdx0yNQDNYU) | 3:37 | 2021-10-31 | 2022-07-29 |
+| [I Will Follow You \- Live](https://open.spotify.com/track/3iYqdGDa5Si2ae9A0jEL66) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [I Will Follow You \(Live\)](https://open.spotify.com/album/6cr9tcbIA8U3ZelOcClNR3) | 3:51 | 2023-01-13 |  |
 | [I'm Not Lucky, I'm Blessed](https://open.spotify.com/track/1dArj5ck1vZVgkDh3BskuP) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Only Ever Always](https://open.spotify.com/album/7yNjxXnq9rZH3QFStVKaUH) | 3:31 | 2023-01-13 |  |
 | [I'm Still Breathing](https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [I'm Still Breathing](https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb) | 3:30 | 2021-10-31 | 2023-01-14 |
 | [I'm Yours](https://open.spotify.com/track/0wiYzdVeuQkcfjHArN43Em) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Come Home](https://open.spotify.com/album/0RepEC2kqOu4cHOLfxEmiz) | 3:19 | 2021-10-31 | 2022-06-04 |

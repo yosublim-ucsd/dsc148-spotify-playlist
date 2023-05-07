@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 120866,
       "name": "409",
       "url": "https://open.spotify.com/track/1gWj5OlKlZmBvtkYxluZux"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 130199,
       "name": "Catch A Wave - Stereo/Remastered 2001",
       "url": "https://open.spotify.com/track/6huvhTE5Z5gXnduG3G3nHh"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 174293,
       "name": "Don't Talk (Put Your Head On My Shoulder) - Mono",
       "url": "https://open.spotify.com/track/6gDRRyg6bSODdwbuUBupoU"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 288600,
       "name": "Feel Flows - Remastered 2009",
       "url": "https://open.spotify.com/track/7lNATn8yN0Yjr4KOKDBdW6"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 138906,
       "name": "Fun, Fun, Fun (Mono)",
       "url": "https://open.spotify.com/track/5L0L3RyON6g8avnI20uubN"
@@ -662,6 +662,24 @@
       "duration_ms": 179745,
       "name": "Getcha Back",
       "url": "https://open.spotify.com/track/0gRFT4DkEpiYuSc2KlebWF"
+    },
+    {
+      "album": {
+        "name": "Summer Days (And Summer Nights) [Remastered]",
+        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141200,
+      "name": "Girl Don't Tell Me - Remastered 2001",
+      "url": "https://open.spotify.com/track/3DzmIYxM1rpzGffkVK51cK"
     },
     {
       "album": {
@@ -1238,7 +1256,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 180133,
       "name": "Sloop John B",
       "url": "https://open.spotify.com/track/2ULL3VZf4WwBKO4vjwT7Bg"
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2022-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 126640,
       "name": "Surfin' Safari - Mono/Remastered 2001",
       "url": "https://open.spotify.com/track/4kIYRtgbZyPzAWSFLdlajW"

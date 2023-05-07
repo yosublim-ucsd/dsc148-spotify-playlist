@@ -4,14 +4,14 @@
 
 > The best of today's true alternative rock scene\. Cover: PÆRISH
 
-305 songs - 17 hr 30 min
+307 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [.burymewhole.](https://open.spotify.com/track/3WOkCAnlf3qKYgMQAOb6SN) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.burymewhole.](https://open.spotify.com/album/3f5bcjAetjllpmnRxdBAkS) | 3:08 | 2021-03-31 | 2022-07-29 |
 | [.burymewhole\. \- Single Version](https://open.spotify.com/track/0XBEpnERQaXtEmHHTbPx9k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.burymewhole.](https://open.spotify.com/album/5yHbHpMIX8nHFASdst372R) | 3:08 | 2022-04-29 | 2023-01-28 |
 | [.intoodeep.](https://open.spotify.com/track/0BWv3O0ouhfmc2aAPezRGu) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.CoDA.](https://open.spotify.com/album/3olq31Rex7clxCqI1L897b) | 3:39 | 2022-01-14 | 2023-05-04 |
-| [.intoodeep.](https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | ['\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:39 | 2023-03-17 |  |
+| [.intoodeep.](https://open.spotify.com/track/54jvLVojOWiQRubRfKmZ2k) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:39 | 2023-03-17 |  |
 | [\[Insert Girls Name Here\]](https://open.spotify.com/track/3TXyUyEa1BtBvxuxxh0bW8) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [Room's On Fire](https://open.spotify.com/album/09cAjP3r3Pb0nma7l0wVXM) | 3:08 | 2022-04-29 | 2023-03-18 |
 | [\[Insert Girls Name Here\]](https://open.spotify.com/track/4RPI1ERCTF388uHZMvmRmT) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [\[Insert Girls Name Here\]](https://open.spotify.com/album/2QcoTQU2m6eu4LzcV0eXtT) | 3:08 | 2021-03-31 | 2022-07-29 |
 | [A Painting in Paris](https://open.spotify.com/track/3ONhHmhiFGCmWTtbXAMij8) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [A Painting in Paris](https://open.spotify.com/album/1MisqIk67afqibtiqMOKn0) | 3:33 | 2021-03-31 | 2022-01-15 |
@@ -19,7 +19,7 @@
 | [All Good People](https://open.spotify.com/track/47AxWcM1NsPvFawiY3Izln) | [allusinlove](https://open.spotify.com/artist/30f8y3JNhI5bOis0Sb2kdx) | [allusinlove](https://open.spotify.com/album/4q7aSxhn8fl5qvabivScyH) | 4:44 | 2021-03-31 | 2022-01-15 |
 | [All I Wanna Do Is Hate](https://open.spotify.com/track/62wdj6E0AiXV6rh8tqJTUb) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [All I Wanna Do Is Hate](https://open.spotify.com/album/2A4OPZOkKblkfpMi1zUCfz) | 2:45 | 2023-05-05 |  |
 | [Amsterdam](https://open.spotify.com/track/3meXdlcyYTgukuOfX6VyhJ) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Amsterdam](https://open.spotify.com/album/71KAS6yGlZYDXKhbP5osbP) | 4:32 | 2021-03-31 | 2022-04-29 |
-| [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 | 2023-01-27 |  |
+| [Apologies](https://open.spotify.com/track/5IYHlgFTDYMiXzvYtUxUAK) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Apologies](https://open.spotify.com/album/1nATWShLPekWv0pH4yKrL6) | 2:53 | 2023-01-27 | 2023-05-07 |
 | [Applause](https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Applause](https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4) | 2:44 | 2023-03-17 |  |
 | [Around the Bend](https://open.spotify.com/track/3hDri1KrQbgx8ah3HjysbC) | [Strata](https://open.spotify.com/artist/0MLKfDfrr2LvUqZxBvYLTv) | [Around the Bend](https://open.spotify.com/album/7J2rrD1a9lhnCDqnIM8mFz) | 3:34 | 2021-03-31 | 2023-05-06 |
 | [Back Foot](https://open.spotify.com/track/6hZ11ThYoAHlLJsBK2U3jH) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Back Foot](https://open.spotify.com/album/4q7m6brjyKWXqpvyg3kAdQ) | 3:08 | 2021-03-31 |  |
@@ -129,7 +129,8 @@
 | [High Horse](https://open.spotify.com/track/6RMgjx8n8USSkiXjt0Mzfr) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [High Horse](https://open.spotify.com/album/0O925AVmQdYEUyjd5M2Qfh) | 3:31 | 2021-09-17 | 2022-07-29 |
 | [Hold It Down](https://open.spotify.com/track/0tTxcG6aDLIooKHpchYzyG) | [Island Apollo](https://open.spotify.com/artist/3Q3rDCNnQ6dTaSLmaRf0oZ) | [Hold It Down](https://open.spotify.com/album/3PMvB282ddWlqttIb9aFa3) | 3:58 | 2021-03-31 | 2022-04-29 |
 | [Hold The Line \(feat\. grandson\)](https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:12 | 2021-10-15 |  |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-05-05 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-05 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-05-05 | 2023-05-07 |
 | [hollywood sucks//](https://open.spotify.com/track/1OGVFkHHzgupyil0N386Q5) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [hollywood sucks//](https://open.spotify.com/album/6EIefsY4fYzZZTGdrEEoH1) | 2:33 | 2021-05-07 | 2023-01-28 |
 | [hometown](https://open.spotify.com/track/2kFKIFc5RSTlhuGed6ZNZ7) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/7yjLHSrliMRNIEeh9d02Kg) | 4:16 | 2021-03-31 | 2022-04-29 |
 | [HONEY](https://open.spotify.com/track/7AVf3MdvwHM5CdOdquzu9c) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [HONEY](https://open.spotify.com/album/5xaKQhMQZELvqDgxs8iLyQ) | 2:35 | 2021-03-31 |  |
@@ -140,6 +141,7 @@
 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 | 2021-11-12 | 2023-05-06 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-05-05 |  |
 | [I Like the Way You Die](https://open.spotify.com/track/05HQ6KrftQ0kvnvM1qE5pt) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 3:08 | 2021-04-23 | 2023-03-01 |
+| [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 4:21 | 2023-03-17 |  |
 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\-](https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl) | 4:21 | 2021-03-31 | 2023-05-04 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0OnbiHsuKbbczmvr6p9dHv) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [OMG I MADE IT](https://open.spotify.com/album/64gy701OWZ7JiZiuzDVvmp) | 2:50 | 2022-04-29 | 2023-05-06 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-04-23 | 2022-07-29 |

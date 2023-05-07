@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 179247,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/02nMYbIiYIzaFA3D3Bkn6W"
@@ -164,6 +164,24 @@
       "duration_ms": 204533,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/1MbhZs4ycL1imDEq0Y0iJJ"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/3rWTQxjBSROK4CmqSINoXb"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210486,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/35vySABUNPY1XydF1PTAXp"
     },
     {
       "album": {
@@ -358,7 +376,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 166413,
       "name": "Good 4 U",
       "url": "https://open.spotify.com/track/2WiPuzLGu2LKOjYQ2SMLcf"

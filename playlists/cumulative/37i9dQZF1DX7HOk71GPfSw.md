@@ -4,7 +4,7 @@
 
 > this heylog song is crazy\. Cover: 100 gecs
 
-1,710 songs - 3 day 5 hr 45 min
+1,711 songs - 3 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,7 +704,8 @@
 | [Hold Me](https://open.spotify.com/track/5vCdyrn32WWQ1qDyWBDLkq) | [LÂLKA](https://open.spotify.com/artist/5SY02nt4U0NfX0Xq4H7yMQ), [Evangeline](https://open.spotify.com/artist/4EpMlYG5BnLKrzMQ56SD6r) | [Hold Me](https://open.spotify.com/album/228wEvtQYK5rkTgAfKUSF2) | 3:45 | 2021-10-01 | 2022-01-13 |
 | [holding back](https://open.spotify.com/track/5j3YBe73QK3YxV6RGQCNmb) | [d0llywood1](https://open.spotify.com/artist/2KZogWZPYcACVe4NK80dmc), [thislandis](https://open.spotify.com/artist/0w55l1SoTkaZTig6KFIdk7), [wubz](https://open.spotify.com/artist/306qRQCnv7zVNXw6get3Fc) | [holding back](https://open.spotify.com/album/69FFZenBrE5dWq5IrogLfi) | 3:19 | 2020-11-28 | 2021-02-10 |
 | [hollywood](https://open.spotify.com/track/4W7aYBmw2GHjurzXiXr8nE) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [hollywood](https://open.spotify.com/album/6bu4Z0O2rKZ4spUKDEnBuY) | 2:36 | 2021-10-28 | 2021-11-13 |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-02-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-05-07 |
 | [homesick](https://open.spotify.com/track/2v3yISHLk0QNStai26hvkw) | [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [homesick](https://open.spotify.com/album/05dMayZSFvTtR3vwHeqZCj) | 2:07 | 2023-01-06 |  |
 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 | 2021-03-14 | 2022-07-16 |
 | [Honest](https://open.spotify.com/track/0yKBeWzLv3gnPDPTHojTNF) | [She Loves Boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [Honest](https://open.spotify.com/album/5BcYD4JghzAgbZJ4N74OFL) | 2:15 | 2021-10-26 | 2022-02-24 |

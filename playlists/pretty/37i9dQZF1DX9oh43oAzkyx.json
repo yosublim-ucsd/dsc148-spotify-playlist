@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 1564276,
+  "num_followers": 1556249,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGI5MDdjNGE1ZDZhMGI4NmI0MTZmNDkyZTUwMzdhMjE3NDY3YzY4",
+  "snapshot_id": "MCw3NWM4M2YwNTFiNDk0YTc3MWY5ZjJjYTRmZTZkNjk4ZDE5NTFkZTkw",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Simi",
-        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
-      },
-      "artists": [
-        {
-          "name": "BlocBoy JB",
-          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 181414,
-      "name": "Look Alive (feat. Drake)",
-      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
         "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 227478,
       "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Simi",
+        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 181414,
+      "name": "Look Alive (feat. Drake)",
+      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 135053,
+      "name": "Dua Lipa",
+      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+        "name": "Honey Bun",
+        "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
+      "duration_ms": 134666,
+      "name": "Honey Bun",
+      "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -531,22 +547,6 @@
       "duration_ms": 187453,
       "name": "AIN'T GONNA ANSWER",
       "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Honey Bun",
-        "url": "https://open.spotify.com/album/0a0wSOjD0UQ1IqlcXKbeI7"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 134666,
-      "name": "Honey Bun",
-      "url": "https://open.spotify.com/track/0oWL7FTlaA1YtsRRuiF4Xs"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -675,26 +675,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "King Snipe",
-        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 214593,
-      "name": "King Snipe",
-      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -863,6 +863,22 @@
       "duration_ms": 205893,
       "name": "Hanging With Wolves",
       "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 130979,
       "name": "LEMONHEAD (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/5fbHRCsGpFIOLRtlhCRFDR"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hell Yeah",
-        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
-      },
-      "artists": [
-        {
-          "name": "SoFaygo",
-          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Hell Yeah",
-      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "24 (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 182857,
       "name": "24 (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hell Yeah",
+        "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Hell Yeah",
+      "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "REPEAT IT",
+        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "REPEAT IT (with Gunna)",
+      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
         "url": "https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 195254,
       "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
       "url": "https://open.spotify.com/track/53acd3PVcgGCux58YABBr5"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "REPEAT IT",
-        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "REPEAT IT (with Gunna)",
-      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Paper Route Frank",
-        "url": "https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S"
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
       "artists": [
         {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 186200,
-      "name": "Love For The Streets",
-      "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1379,22 +1383,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+        "name": "Paper Route Frank",
+        "url": "https://open.spotify.com/album/7tXLv9wbiC5Jf1o4nHZY4S"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         }
       ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+      "duration_ms": 186200,
+      "name": "Love For The Streets",
+      "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
     },
     {
       "added_at": "2023-05-05 04:00:00",

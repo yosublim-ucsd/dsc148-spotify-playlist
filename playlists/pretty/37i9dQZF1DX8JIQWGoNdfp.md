@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,563 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,640 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,16 +18,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 8 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
 | 9 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 10 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
-| 11 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
-| 12 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
+| 11 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
+| 12 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
 | 13 | [Birthday Sex](https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Jeremih](https://open.spotify.com/album/5CKAAsmFCdmKq4fTtNdmHc) | 3:46 |
 | 14 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
 | 15 | [I Wanna Know](https://open.spotify.com/track/1m2xMsxbtxv21Brome189p) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:56 |
 | 16 | [Slow Down \- 12" Version](https://open.spotify.com/track/4Ilen0VxPEsVRLpnePji8P) | [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb) | [Disturbing Tha Peace Presents Bobby Valentino](https://open.spotify.com/album/6tiqcLj9TP3qaxWUbNuPYn) | 4:18 |
 | 17 | [Shea Butter Baby \(with J\. Cole\)](https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:31 |
-| 18 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
+| 18 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
 | 19 | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Come Through \(feat\. Chris Brown\)](https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB) | 3:34 |
-| 20 | [Bed](https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM) | [J\. Holiday](https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk) | [Back Of My Lac'](https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI) | 4:35 |
+| 20 | [WFM](https://open.spotify.com/track/1DNA2z7Txysjk3cNz2nDLm) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [WFM](https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp) | 2:16 |
 | 21 | [Yo Love \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Yo Love \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1) | 2:23 |
 | 22 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
 | 23 | [Next Lifetime](https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Baduizm](https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3) | 6:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 49 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
 | 50 | [Fuckin' wit Me](https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:02 |
 
-Snapshot ID: `MCwwYzJlM2ZjOGM2ZWY5MWJjNzFmNjE4ZGI4NzI1NjFiZTQ3MjhhMTA2`
+Snapshot ID: `MCw4MDMzOTYzMDI1NTA2MWQ2YWZhYmQ0OTE1NDMzZGZlMTljMDUyOTA1`

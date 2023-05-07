@@ -1,12 +1,12 @@
 {
   "description": "\u00bfsearma o nosearma?",
-  "num_followers": 910350,
+  "num_followers": 910559,
   "original_name": "Carnita Asada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODY4ZmMyMjIxOTQ5NmVkM2QyN2U3NzM2NzQ2YTU5OGM5MzI1YTAw",
+  "snapshot_id": "MCxiNTc3OWM3YzFlNDllNTAzMmU3YWQ1NTJkYzkxM2NmNzYxYWUxN2Jj",
   "tracks": [
     {
       "added_at": "2023-04-21 19:18:45",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-04-21 19:18:45",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200454,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
-    },
-    {
-      "added_at": "2023-04-21 19:18:45",
-      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 234352,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2023-04-21 19:18:45",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 200454,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
       "added_at": "2023-04-21 19:18:45",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-04-21 19:18:45",
       "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2023-04-21 19:18:45",
-      "album": {
         "name": "Chanel",
         "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 201993,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+    },
+    {
+      "added_at": "2023-04-21 19:18:45",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2023-04-21 19:18:45",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-04-21 19:18:45",
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": "2023-04-21 19:18:45",
+      "album": {
         "name": "Marisola (Remix)",
         "url": "https://open.spotify.com/album/262bymaji1sJPAldR7YyaH"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 237473,
       "name": "Marisola - Remix",
       "url": "https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF"
-    },
-    {
-      "added_at": "2023-04-21 19:18:45",
-      "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "added_at": "2023-04-21 19:18:45",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-21 19:18:45",
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
-    },
-    {
-      "added_at": "2023-04-21 19:18:45",
-      "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2023-04-21 19:18:45",
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
     },
     {
       "added_at": "2023-04-21 19:18:45",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-21 19:18:45",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2023-04-21 19:18:45",
-      "album": {
         "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
         "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 315293,
       "name": "Sali\u00f3 El Sol",
       "url": "https://open.spotify.com/track/48NXpYRuvv9izul4oXhqS9"
+    },
+    {
+      "added_at": "2023-04-21 19:18:45",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2023-04-21 19:18:45",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2023-04-21 19:18:45",
       "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+      "duration_ms": 238746,
+      "name": "Another Brick in the Wall, Pt. 2",
+      "url": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
     }
   ],
   "unique_name": "Carnita Asada",

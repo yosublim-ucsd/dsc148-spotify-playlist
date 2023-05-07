@@ -1,12 +1,12 @@
 {
   "description": "For those who like to party hard!",
-  "num_followers": 310921,
+  "num_followers": 311266,
   "original_name": "Party Hard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODE3YTlmZDRmMjg1OGNiNWI0ZjEyMDFhNzBkOWQwZDY4MzIyYTk2",
+  "snapshot_id": "MCw0NmM2M2U3YmZkNDY0NzYxYmQxYzllMzk0N2RmOTViYjcxMWM3ZjBm",
   "tracks": [
     {
       "added_at": "2023-01-19 13:21:13",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
     },
     {
       "added_at": "2023-01-19 13:21:13",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
         "name": "House of Gold & Bones, Part 1",
         "url": "https://open.spotify.com/album/2nCHgPLLyIgxFKUBYuMKPn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 229840,
       "name": "Absolute Zero",
       "url": "https://open.spotify.com/track/14EORgkbXqIx5K4Haucmnb"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2"
     },
     {
       "added_at": "2023-01-19 13:21:13",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 253317,
       "name": "My Own Grave",
       "url": "https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2023-01-19 13:21:13",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-01-19 13:21:13",
       "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Refuse / Resist",
-      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
-    },
-    {
-      "added_at": "2023-01-19 13:21:13",
-      "album": {
         "name": "Ride The Lightning (Deluxe Remaster)",
         "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 395706,
       "name": "Creeping Death (Remastered)",
       "url": "https://open.spotify.com/track/4q9QVIaLqjbcoqeCfM2zan"
+    },
+    {
+      "added_at": "2023-01-19 13:21:13",
+      "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2023-01-19 13:21:13",

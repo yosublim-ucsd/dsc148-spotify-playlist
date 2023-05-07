@@ -4,7 +4,7 @@
 
 > The most interesting tracks in the current world of pop music.
 
-714 songs - 1 day 12 hr 42 min
+715 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chasing Stars \(feat\. James Bay\)](https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6) | 2:50 | 2021-12-16 | 2022-07-29 |
 | [cheap sunglasses](https://open.spotify.com/track/4E94u3v7VnEFZkaRIYtad7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [cheap sunglasses](https://open.spotify.com/album/0zyZJQmAJqsthlxKNNR8Cp) | 3:19 | 2021-12-16 | 2022-07-07 |
 | [CHICKEN TERIYAKI](https://open.spotify.com/track/3jHYDEB0YUNJCSEMF2um60) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [CHICKEN TERIYAKI](https://open.spotify.com/album/2qspjwNmCSMX89TqAStmQe) | 2:02 | 2022-03-24 | 2022-04-07 |
+| [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-27 |  |
 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 | 2022-07-07 | 2022-08-12 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-03-24 | 2022-04-11 |
 | [City of Gods](https://open.spotify.com/track/4huBDGP4I3S0pYI0EaRN1c) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods](https://open.spotify.com/album/0Nzff60OICCUBrtr980elH) | 4:16 | 2022-02-10 | 2022-04-21 |
@@ -673,7 +674,7 @@
 | [Waving At Cars](https://open.spotify.com/track/1K1j5IkohC4t0S8zjrYbOH) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Waving At Cars](https://open.spotify.com/album/7ywYSOvY2ezZ1w9jVO0F0h) | 2:39 | 2021-12-16 | 2022-07-29 |
 | [We Are The People \(feat\. Bono & The Edge\) \- Official UEFA EURO 2020 Song](https://open.spotify.com/track/2iL0W5qi0ivZ9WRXbZ74cS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Bono](https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP) | [We Are The People \(feat\. Bono & The Edge\) \[Official UEFA EURO 2020 Song\]](https://open.spotify.com/album/06RhAj4FSp8YlDyrxulgbt) | 3:37 | 2022-03-24 | 2022-04-21 |
 | [We Cry](https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Cry](https://open.spotify.com/album/69q3Au1hkKj9eQB7eA7rD0) | 3:47 | 2022-03-24 | 2022-04-18 |
-| [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 |  |
+| [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 | 2023-02-09 | 2023-05-07 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-12-16 | 2022-07-19 |
 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2022-11-24 | 2023-01-20 |
 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 | 2023-03-17 |  |

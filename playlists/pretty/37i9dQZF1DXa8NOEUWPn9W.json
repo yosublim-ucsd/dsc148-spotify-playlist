@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring HUGEL.",
-  "num_followers": 1807320,
+  "num_followers": 1807885,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjIzODNkMWFjMmU2OGQyMTJiNDM3ODYyMDNlOWNjZDdkMWQ1NDgy",
+  "snapshot_id": "MCxmZTNlNDM2ZTRkYWFmZjVkNjEyMWVhZGUzMzg0ZmJlYjgzYzhmZGQ3",
   "tracks": [
     {
       "added_at": "2023-05-05 18:31:09",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "Check Out",
         "url": "https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 174138,
       "name": "Check Out",
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "Guddi Riddim",
         "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 210000,
       "name": "Guddi Riddim",
       "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Miracle (with Ellie Goulding) [Mau P Remix]",
         "url": "https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 217734,
       "name": "Miracle (with Ellie Goulding) - Mau P Remix",
       "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Tina",
         "url": "https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 262500,
       "name": "Tina",
       "url": "https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "Give It to Me",
+        "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Give It to Me",
+      "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 147401,
       "name": "Friends",
       "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "Give It to Me",
-        "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Give It to Me",
-      "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 151428,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Gotta Let You Go",
         "url": "https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 167097,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 151428,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "My Paradise",
+        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "My Paradise",
+      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "Nightjar (feat. SHELLS)",
         "url": "https://open.spotify.com/album/217RKKVaQMcI0f8iOgnjFC"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "My Paradise",
-        "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "My Paradise",
-      "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Show Me (feat. Hannah Boleyn)",
-        "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Show Me (feat. Hannah Boleyn)",
-      "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Lipstick (feat. Robbie Rise)",
         "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 226615,
       "name": "Lipstick (feat. Robbie Rise)",
       "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "Show Me (feat. Hannah Boleyn)",
+        "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Show Me (feat. Hannah Boleyn)",
+      "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1951,22 +1951,18 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Zorro",
-        "url": "https://open.spotify.com/album/7uoEGgQYCAyJ9mWzItcJch"
+        "name": "Let Me Love U",
+        "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
       },
       "artists": [
         {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 216981,
-      "name": "Zorro",
-      "url": "https://open.spotify.com/track/0hKa1iXJRQMcpMELUojgTI"
+      "duration_ms": 189506,
+      "name": "Let Me Love U",
+      "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
     }
   ],
   "unique_name": "Housewerk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,591 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,644 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 18 | [Miss You Bad](https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 2:56 |
 | 19 | [Breaking The Yoke Of Love](https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Breaking The Yoke Of Love](https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6) | 3:18 |
 | 20 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 |
-| 21 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
-| 22 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 |
+| 21 | [Olufunmi](https://open.spotify.com/track/2legF0L9V2l1LHsHl5QZWW) | [Styl\-Plus](https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy) | [Expressions](https://open.spotify.com/album/7AR95iSKAqvXoToRDbWQNX) | 5:20 |
+| 22 | [Wetin No Good](https://open.spotify.com/track/23Fh73OaYgY5cisouEybte) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O) | [Wetin No Good](https://open.spotify.com/album/6v5ZPjk1YsUlWegG5Cxvea) | 2:38 |
 | 23 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 |
 | 24 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 25 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 36 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 |
 | 37 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |
 | 38 | [Walking Away](https://open.spotify.com/track/13KyvwN7nd8c9aqfgsh9co) | [UC Dray](https://open.spotify.com/artist/3bPlJjaqKSgvpka6JbumuP), [Lupo](https://open.spotify.com/artist/22HWq5tUvVLTUORQLxlXMf), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Bad Boy Still](https://open.spotify.com/album/0LQusxf0LY9ntzYm8xMEH3) | 3:12 |
-| 39 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
-| 40 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
+| 39 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 |
+| 40 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
 | 41 | [Dreamer](https://open.spotify.com/track/4HxlXzXwDyhMqxUHCXYD79) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 3:00 |
 | 42 | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC) | 2:48 |
 | 43 | [Miss You](https://open.spotify.com/track/30PjTH4isfHAsIsa9lMVvh) | [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS), [Ycee](https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj), [Outcast Music](https://open.spotify.com/artist/2uNmS44lGiSLAV7R7jjbbh), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Miss You](https://open.spotify.com/album/3mbeypjgiTtwcHZW7uaozL) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 49 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 |
 | 50 | [lonely forever](https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [lonely forever](https://open.spotify.com/album/2mZewkfHwNjs54Yb9tomvv) | 3:45 |
 
-Snapshot ID: `MCxjNWE2ZDhiYmNlYzM4YmNhZWMwYzdmOGM2NzIwNDRkMzY2MmNmODU5`
+Snapshot ID: `MCwxMzgyOGRlNDE3ZWNhMDdmOTI1ZWRjMGZhYTc4NzI4ZDRiOGE1ODIz`

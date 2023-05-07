@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Alvaro Diaz",
-  "num_followers": 276857,
+  "num_followers": 276902,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzQ3MDc5MWUwNzhkNjA1YzFiNWQ4NzFmMzUzZWI1ZTk2NzFjZDIz",
+  "snapshot_id": "MCxjNDFhYTNiZTRlMjhiYTZhZmE2YTczZTk5N2RmZjAwYmI0MWY0Yjgz",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -111,26 +111,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Nunca Tristes (Me Vale Madre)",
-        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
+        "name": "NO voy a llorar :')",
+        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Nunca Tristes (Me Vale Madre)",
-      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+      "duration_ms": 178874,
+      "name": "NO voy a llorar :')",
+      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -307,18 +307,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "NO voy a llorar :')",
-        "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
+        "name": "Nunca Tristes (Me Vale Madre)",
+        "url": "https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 178874,
-      "name": "NO voy a llorar :')",
-      "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
+      "duration_ms": 204826,
+      "name": "Nunca Tristes (Me Vale Madre)",
+      "url": "https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -339,22 +355,6 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -535,6 +535,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 187677,
+      "name": "Jamaica",
+      "url": "https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "No Me Controles",
         "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 187677,
-      "name": "Jamaica",
-      "url": "https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Legendaria",
-        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 179349,
-      "name": "Legendaria",
-      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Conquistar El Planeta",
         "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 163213,
       "name": "Conquistar El Planeta",
       "url": "https://open.spotify.com/track/0PnQyZ2269uNKZjiwwiF9C"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Legendaria",
+        "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 179349,
+      "name": "Legendaria",
+      "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",

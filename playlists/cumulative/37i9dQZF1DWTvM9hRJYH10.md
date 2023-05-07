@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-262 songs - 13 hr 51 min
+263 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Already Drank That Beer](https://open.spotify.com/track/04xV6TrdtlxobADx3FHCii) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/5xic0WEeujIOZ022648SlS) | 3:22 | 2021-12-31 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-31 | 2023-01-14 |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-11 |  |
-| [As Close As I Can Get To You](https://open.spotify.com/track/4gCfshwX0bnt2ZBkz5RWOO) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [As Close As I Can Get To You](https://open.spotify.com/album/68VzH6Py1gE7BXQ0s8Blhx) | 3:17 | 2022-06-10 |  |
+| [As Close As I Can Get To You](https://open.spotify.com/track/3IwpztNJjpH6HOjna5JwuT) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [Country To Me](https://open.spotify.com/album/3BYm0scVPtHamYtO6vqgeV) | 3:17 | 2023-05-03 |  |
+| [As Close As I Can Get To You](https://open.spotify.com/track/4gCfshwX0bnt2ZBkz5RWOO) | [Hayden Joseph](https://open.spotify.com/artist/0sWL8PzVnNs0AOcD4qpZE8) | [As Close As I Can Get To You](https://open.spotify.com/album/68VzH6Py1gE7BXQ0s8Blhx) | 3:17 | 2022-06-10 | 2023-05-07 |
 | [Bar Friends](https://open.spotify.com/track/5NfFDWE3FzgXo0Mg7N4MEm) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends](https://open.spotify.com/album/5Z81UYgt8SNzIRh2emPnPi) | 3:06 | 2021-12-31 | 2022-02-12 |
 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 | 2022-04-08 |  |
 | [Because of You](https://open.spotify.com/track/40721hE3Dr4ciKWSsmL3Sa) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/7eI0RyVZwhaH1MtYgTcKiK) | 3:05 | 2022-04-29 |  |

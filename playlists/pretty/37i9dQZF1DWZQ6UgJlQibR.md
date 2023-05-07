@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,727 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,782 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 17 | [Kellon Aanik Sa'alouni \(Live\)](https://open.spotify.com/track/27olcVaOORgWUjFNC3OOLd) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Ossit Helem](https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH) | 6:05 |
 | 18 | [Wahashtini](https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:16 |
 | 19 | [Hal El Garih](https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi) | 3:21 |
-| 20 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
-| 21 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
+| 20 | [Allaylou ya Layla](https://open.spotify.com/track/0ZEYwnrYjPetRRjK5KJsPo) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Top Wadie Essafi \(The Voice of Lebanon\)](https://open.spotify.com/album/3qTTXTSchXUVsTXBJDUpoo) | 6:01 |
+| 21 | [Talfantelak](https://open.spotify.com/track/2BCWZhkwEhTI7SYNzwdCdu) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Talfantelak](https://open.spotify.com/album/6fEh7EpH7NUQtC8dg2Yldv) | 3:52 |
 | 22 | [Ashka We Ghalbana](https://open.spotify.com/track/20hX2SNY7z2Eesit48jH1p) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Tarab Hits](https://open.spotify.com/album/0OgTQ6y9BY3fZ4RaCsM6wJ) | 3:33 |
 | 23 | [Baghdad Choby](https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF) | [Tarabband](https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA) | [Ya Sidi](https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv) | 4:37 |
 | 24 | [Ma Tehun](https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf) | 4:57 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 37 | [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 |
 | 38 | [Mali \- Live](https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 3:54 |
 
-Snapshot ID: `MCw3ODc1NmM4NWRkZDk1OGI1NDMxMjllMmU4N2YzNjYxZDA1MjA4ZGU1`
+Snapshot ID: `MCw3NTUzMzU2YzZlNzViNDAwZDYwYTRiMDRkM2IwYzAyNDY5MDJhZmUz`

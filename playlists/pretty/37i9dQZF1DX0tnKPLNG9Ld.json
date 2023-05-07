@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 55902,
+  "num_followers": 55976,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDU3MzIyMzM2N2EyZTZjMTNiNzI2OGMxN2Q5M2JlMmM0NjY2ZTUw",
+  "snapshot_id": "MCxjNmEyYmI0YmVhMmRlNjdjNzE1OThjZWI3ZWFhZGNlMzA5NWQzODdk",
   "tracks": [
     {
       "added_at": "2023-05-05 06:40:48",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "On The Street Where You Live - Remastered",
-      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
-    },
-    {
-      "added_at": "2023-05-05 06:40:48",
-      "album": {
         "name": "Twentysomething",
         "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 201400,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+    },
+    {
+      "added_at": "2023-05-05 06:40:48",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "On The Street Where You Live - Remastered",
+      "url": "https://open.spotify.com/track/6qMMQzYTKabamnMPlCmfxb"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "How Glad I Am",
-        "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 134213,
-      "name": "The Boy From Ipanema",
-      "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
-    },
-    {
-      "added_at": "2023-05-05 06:40:48",
-      "album": {
         "name": "Broadway, Right Now!",
         "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
@@ -307,18 +291,18 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "Gone For The Day",
-        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+        "name": "How Glad I Am",
+        "url": "https://open.spotify.com/album/4qgiPr8Wg6HpqtfZBzcKqt"
       },
       "artists": [
         {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 137893,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
+      "duration_ms": 134213,
+      "name": "The Boy From Ipanema",
+      "url": "https://open.spotify.com/track/2chTka18XL8un05Pkb8Lis"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -335,6 +319,22 @@
       "duration_ms": 186466,
       "name": "The More I See You",
       "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+    },
+    {
+      "added_at": "2023-05-05 06:40:48",
+      "album": {
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
-    },
-    {
-      "added_at": "2023-05-05 06:40:48",
-      "album": {
         "name": "May I Come In?",
         "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 124266,
       "name": "Something Happens To Me",
       "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
+    },
+    {
+      "added_at": "2023-05-05 06:40:48",
+      "album": {
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
       },
       "artists": [
         {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+      "duration_ms": 381373,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
         }
       ],
-      "duration_ms": 381373,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/2nik1V49EZiLQd2XkTpR2T"
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
+        "name": "April In Paris (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Corner Pocket",
+      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
+    },
+    {
+      "added_at": "2023-05-05 06:40:48",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 145933,
       "name": "Happy Talk",
       "url": "https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp"
-    },
-    {
-      "added_at": "2023-05-05 06:40:48",
-      "album": {
-        "name": "April In Paris (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gDs61sxoI4By9TKxe8Y0k"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Corner Pocket",
-      "url": "https://open.spotify.com/track/1e16lbqXFdnuTdeJngVBuY"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
-        "name": "The Complete Decca Recordings",
-        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "One O'Clock Jump",
-      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
-    },
-    {
-      "added_at": "2023-05-05 06:40:48",
-      "album": {
         "name": "Chet Baker In Milan",
         "url": "https://open.spotify.com/album/799y7nYS7LqsZhwnU7C3Lz"
       },
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-05-05 06:40:48",
       "album": {
+        "name": "The Complete Decca Recordings",
+        "url": "https://open.spotify.com/album/22oDCpyHsYIYxMGcmieLDY"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "One O'Clock Jump",
+      "url": "https://open.spotify.com/track/6DDhXGwCHmzT3EVoXr9lS2"
+    },
+    {
+      "added_at": "2023-05-05 06:40:48",
+      "album": {
         "name": "Return To Forever",
         "url": "https://open.spotify.com/album/6M0IAJHwQ6dFNtTkFsXCJc"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 266000,
       "name": "What Game Shall We Play Today",
       "url": "https://open.spotify.com/track/0mC8MfVqQ1pHGKCdfhiHye"
+    },
+    {
+      "added_at": "2023-05-05 06:40:48",
+      "album": {
+        "name": "Julie... At Home",
+        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 125946,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
     },
     {
       "added_at": "2023-05-05 06:40:48",
@@ -1323,22 +1339,6 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
-    },
-    {
-      "added_at": "2023-05-05 06:40:48",
-      "album": {
-        "name": "Julie... At Home",
-        "url": "https://open.spotify.com/album/5HZ1xJmZ47Gt9sW4OJMtr0"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 125946,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4cndS1r6nH04gOVaRHVB8U"
     },
     {
       "added_at": "2023-05-05 06:40:48",

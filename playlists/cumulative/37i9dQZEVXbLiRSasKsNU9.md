@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,454 songs - 3 day 5 hr 24 min
+1,455 songs - 3 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Ara](https://open.spotify.com/track/1iEMuRRbD04w92WzHYkJrF) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ara](https://open.spotify.com/album/6gkihcoEoX8nPLbTnzPygL) | 3:00 | 2022-08-23 | 2022-08-25 |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-03-15 | 2022-03-24 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2022-04-12 | 2022-05-02 |
+| [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-05-06 |  |
 | [ARRANCARMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCARMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 | 2022-05-03 | 2022-05-13 |
 | [Arya \(feat\. A$AP Rocky\)](https://open.spotify.com/track/0Rq6JJwpZ9f1SU6Cfhgjv7) | [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Arya](https://open.spotify.com/album/4r58Om6YuN9gjnHim6y6mg) | 2:42 | 2022-02-22 | 2022-03-02 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-06-15 |
@@ -1027,7 +1028,7 @@
 | [Pope Is a Rockstar](https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [SALES LP](https://open.spotify.com/album/7ywSMs3G2OWOGVKMqc7KsE) | 3:07 | 2021-12-27 | 2022-01-12 |
 | [Por Clave el 13](https://open.spotify.com/track/61vEls8FiPl53hu6947W27) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/4LCQCWFTDGmbl93Y9LuXJF) | 3:10 | 2022-07-21 | 2022-07-25 |
 | [Por Clave el 13](https://open.spotify.com/track/5xwP3VbM3eBKOeFF3fwn6Z) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Seguimos Irremediables](https://open.spotify.com/album/40qsMl66nONy9hHLMHATwO) | 3:10 | 2022-07-24 | 2022-08-17 |
-| [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox) | [Jaldo Rodrigues](https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq) | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA) | 2:02 | 2023-04-18 |  |
+| [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox) | [Jaldo Rodrigues](https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq) | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA) | 2:02 | 2023-04-18 | 2023-05-07 |
 | [Porselen Kalbim](https://open.spotify.com/track/7z5rmdisSV8GmWCnrOd1HU) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Porselen Kalbim](https://open.spotify.com/album/2TYt9I16VcjqPaSxJXYTLD) | 5:15 | 2022-06-07 | 2022-07-14 |
 | [Pound Town \(and Tay Keith\)](https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Pound Town \(and Tay Keith\)](https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A) | 2:09 | 2023-04-11 |  |
 | [Powerade](https://open.spotify.com/track/6icjOrzM57QrCAtBeWB5WF) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [SiraOne](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Powerade](https://open.spotify.com/album/0lnLFmdLlavFulmy4l8TmE) | 2:22 | 2022-05-17 | 2022-06-08 |

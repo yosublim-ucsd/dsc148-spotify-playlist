@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx0xog3gN3q.md) - [plain]
 
 > Whenever you need a soulful boost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,800 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,429 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTx0xog3gN3q.md) - [plain]
 | 49 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:46 |
 | 50 | [Move on Up \- Extended Version](https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 8:55 |
 
-Snapshot ID: `MCxmYTAwODM1OWFhZmNlYmYzNzZlMDQxNGY2MGVjOGU1OTEyZGEyODY2`
+Snapshot ID: `MCwzNDgyNTUyZTUzN2JkZjM1ODA1ODY1ZDliMTUxY2M3NTBhOTI1YmRk`

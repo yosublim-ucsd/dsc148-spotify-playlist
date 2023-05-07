@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 119251,
+  "num_followers": 119305,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjNmMzc3NDhlYWJkYTk2YTY3OWVmYTU5MTllN2EyZjg1MDk1NmRj",
+  "snapshot_id": "MCw1NWNmMzU1ZmQ0ZTAxYzdkZTk5YWYwMTFkMmViMzBmOWUwMTdlNmM5",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
     },
     {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
+      },
+      "artists": [
+        {
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+        }
+      ],
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
+    },
+    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Swingin' sounds for the Jungle Jetset !",
@@ -431,22 +447,6 @@
       "duration_ms": 168000,
       "name": "Palace of the Tiger Women",
       "url": "https://open.spotify.com/track/0pApiVPobdC1NR1DhTPWpY"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -515,6 +515,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Primitiva",
+        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 134506,
+      "name": "Llama Serenade",
+      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
         "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Primitiva",
-        "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
       },
       "artists": [
         {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
         }
       ],
-      "duration_ms": 134506,
-      "name": "Llama Serenade",
-      "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -587,22 +603,6 @@
       "duration_ms": 198466,
       "name": "Terry's Theme (From \"Limelight)",
       "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
-    },
-    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "Ultra-Lounge / Bachelor Pad Royale Volume Four",
@@ -687,6 +671,22 @@
       "duration_ms": 128000,
       "name": "Melancholy Serenade - Remastered",
       "url": "https://open.spotify.com/track/32BuDphsq9t2o2j0L4SRrP"
+    },
+    {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2021-01-20 03:50:53",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,704 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,706 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 37 | [chino cada martes](https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [CHINO CADA MARTES](https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ) | 2:43 |
 | 38 | [Prométeme](https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL) | [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Prométeme](https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ) | 2:39 |
 | 39 | [Entre Tú y Yo](https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [Entre Tú y Yo](https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva) | 3:19 |
-| 40 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 |
-| 41 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
+| 40 | [de qué sirve?](https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [ya se me pasará](https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr) | 2:47 |
+| 41 | [Muchas gracias por venir](https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Muchas gracias por venir](https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5) | 3:22 |
 | 42 | [La Broma De Mis Sueños](https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx) | [La Broma De Mis Sueños](https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt) | 2:53 |
 | 43 | [Roma No Es Amor](https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Roma No Es Amor](https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD) | 3:13 |
 | 44 | [J\*DER](https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [J\*DER](https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy) | 2:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 50 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 
-Snapshot ID: `MCw0Yjc5YWFlZGVmZDk3OTAxZTI3MjhhMWM1ZDc0NzA1ZWQ0MzE5MmY0`
+Snapshot ID: `MCxmYjk3ZmVjMGFiZGU0MDRlYzQ5YWQ5YzcxMGJmMjdjYWMzZWRlMjU4`

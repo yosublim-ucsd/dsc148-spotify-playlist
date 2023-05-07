@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients. We bring the flavor. Enjoy la cena!",
-  "num_followers": 381802,
+  "num_followers": 381927,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTdkMDIxMzc4YzkzNDgzYjU1YTQ5NGQzNjc3NzZjYTNiNDE4MGUz",
+  "snapshot_id": "MCxlMzE1ODZjYjQ1Y2E0MjZkYTU3ZDdmMjc3ZTJhMDM5YzNmZDIxOGNm",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 191546,
-      "name": "Cobarde - Spotify Singles",
-      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Lo Mismo Que Usted",
         "url": "https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 189900,
       "name": "Lo Mismo Que Usted",
       "url": "https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0lVcgikFRVzcHtmNCZfgT1"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 191546,
+      "name": "Cobarde - Spotify Singles",
+      "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -471,6 +471,30 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Endangered Species (Bonus Edition)",
+        "url": "https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3"
+      },
+      "artists": [
+        {
+          "name": "Nickodemus",
+          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
+        },
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Mi Swing es Tropical",
+      "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Endangered Species (Bonus Edition)",
-        "url": "https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3"
-      },
-      "artists": [
-        {
-          "name": "Nickodemus",
-          "url": "https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3"
-        },
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Tempo",
-          "url": "https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Mi Swing es Tropical",
-      "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Libre y en Movimiento",
-        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        },
-        {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "Libre y en Movimiento",
-      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Eureka",
         "url": "https://open.spotify.com/album/2LA3Z2VlhMWBAIpaAnJFmf"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 235200,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/3hEMRRpy1AiRma7mlsVqY7"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Libre y en Movimiento",
+        "url": "https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "Libre y en Movimiento",
+      "url": "https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Se\u00f1or Coconut / Around the World",
-        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+        "name": "Bolero Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
       },
       "artists": [
         {
-          "name": "Atom TM",
-          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 167497,
-      "name": "Around the World (Intro)",
-      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
+      "duration_ms": 232960,
+      "name": "Vem Pra Mim",
+      "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1247,6 +1251,22 @@
       "duration_ms": 252397,
       "name": "Pelear",
       "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Se\u00f1or Coconut / Around the World",
+        "url": "https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF"
+      },
+      "artists": [
+        {
+          "name": "Atom TM",
+          "url": "https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL"
+        }
+      ],
+      "duration_ms": 167497,
+      "name": "Around the World (Intro)",
+      "url": "https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1283,26 +1303,6 @@
       "duration_ms": 230877,
       "name": "Somos Hermanas",
       "url": "https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Bolero Apocal\u00edptico",
-        "url": "https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Vem Pra Mim",
-      "url": "https://open.spotify.com/track/1G08rMx7P260eygGC6sbWr"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Songs From The Tin",
-        "url": "https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl"
-      },
-      "artists": [
-        {
-          "name": "Da Lata",
-          "url": "https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN"
-        }
-      ],
-      "duration_ms": 373133,
-      "name": "Pra Manha",
-      "url": "https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Calentura: Toque (Captain Planet Remixes)",
         "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Songs From The Tin",
+        "url": "https://open.spotify.com/album/0zhr7bMdhtlQioU1qDklVl"
+      },
+      "artists": [
+        {
+          "name": "Da Lata",
+          "url": "https://open.spotify.com/artist/4qjTbJHr1i0O0ViKgFgZqN"
+        }
+      ],
+      "duration_ms": 373133,
+      "name": "Pra Manha",
+      "url": "https://open.spotify.com/track/0rvFckXmDJA6XjH1k26OZq"
     },
     {
       "added_at": "2023-04-28 04:00:00",

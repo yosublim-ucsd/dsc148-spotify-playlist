@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,183 likes - 75 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,199 likes - 75 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 24 | [今夜有雨](https://open.spotify.com/track/5hbY9CFK7GNcP28Es36E2c) | [H3R3](https://open.spotify.com/artist/7dCN2w1Hq4EuDvdli56MML) | [今夜有雨](https://open.spotify.com/album/1ucCSWqRAywVSKjoweIALk) | 4:48 |
 | 25 | [傘下 \- 電視劇《歡喜來逗陣》片尾曲](https://open.spotify.com/track/0oydZSHL9DztppHaWJdDaB) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [張宇戲劇主題曲精選 \(2008\-2011\)](https://open.spotify.com/album/5Y7M1SLHMtiZ9WW3TT4ufe) | 4:39 |
 | 26 | [雨櫻花](https://open.spotify.com/track/3ZxKUt8nudvrJbUvX0haHJ) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [飛行部落](https://open.spotify.com/album/4QUDMVhCj9fDvJSyiXzZNy) | 4:31 |
-| 27 | [妳還怕大雨嗎 \- 國語](https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN) | [Pakho Chau](https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1) | [8](https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD) | 4:14 |
-| 28 | [突然一场雨](https://open.spotify.com/track/1Z1c78c36euKv0HM8gRZ3r) | [蓝心羽](https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2) | [突然一场雨](https://open.spotify.com/album/48rqlfLOf9zWKJwNWy1XT8) | 3:50 |
+| 27 | [突然一场雨](https://open.spotify.com/track/1Z1c78c36euKv0HM8gRZ3r) | [蓝心羽](https://open.spotify.com/artist/5IUx51U4VsEk4wGQvZQcf2) | [突然一场雨](https://open.spotify.com/album/48rqlfLOf9zWKJwNWy1XT8) | 3:50 |
+| 28 | [妳還怕大雨嗎 \- 國語](https://open.spotify.com/track/2dFeKAGD3TBcFB9TAjnlfN) | [Pakho Chau](https://open.spotify.com/artist/38t0Qk7AJg7YdrXmOC6TH1) | [8](https://open.spotify.com/album/28obHlyyrD8mHa4PLlccXD) | 4:14 |
 | 29 | [等待雨散](https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5) | [WONFU](https://open.spotify.com/artist/6JQ21JTWuZpfT06VAQObFy) | [旺情歌](https://open.spotify.com/album/2PjCxy7d085P2vQ3Nt3Vg3) | 4:43 |
 | 30 | [大雨將至\(《女醫明妃傳》電視劇主題曲\)](https://open.spotify.com/track/4RT4R9nSSDSYj7lwMVqrDb) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [大雨將至\(《女醫明妃傳》電視劇主題曲\)](https://open.spotify.com/album/1tZhU3WG2fMZniAFC1jqHU) | 3:51 |
-| 31 | [下雨的晚上](https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T) | [Dadado Huang](https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN) | [下雨的晚上](https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS) | 4:54 |
-| 32 | [雨和眼淚](https://open.spotify.com/track/3jpP2BqNA5eh8mtmcaTWet) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [Deep Blue](https://open.spotify.com/album/26VrL8GS1E84JuHQdVqaXQ) | 5:09 |
+| 31 | [雨和眼淚](https://open.spotify.com/track/3jpP2BqNA5eh8mtmcaTWet) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [Deep Blue](https://open.spotify.com/album/26VrL8GS1E84JuHQdVqaXQ) | 5:09 |
+| 32 | [下雨的晚上](https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T) | [Dadado Huang](https://open.spotify.com/artist/3C8yUWotyLh2Kjkood3xYN) | [下雨的晚上](https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS) | 4:54 |
 | 33 | [分手總要在雨天](https://open.spotify.com/track/3J83vhU2i0PQhuBqrRuXS7) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [等你等到我心痛精選](https://open.spotify.com/album/2AY3Vq53r5djnUyL6fo80f) | 4:48 |
 | 34 | [热带雨 \- 《热带雨》电影同名主题曲](https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe) | [NEKO Highway](https://open.spotify.com/artist/2qO2tbo4OI29yMSM3WJ0bX) | [热带雨 \(《热带雨》电影同名主题曲\)](https://open.spotify.com/album/6JHeFZxMEsEbnTAqK8cK2O) | 4:06 |
 | 35 | [你的世界是否也下著雨](https://open.spotify.com/track/0raZgzeB8nEuXu4U7qHSac) | [碧欣](https://open.spotify.com/artist/7iuYotfVYhsyvM48zP31k3) | [你的世界是否也下著雨](https://open.spotify.com/album/1vq7JNI5tfp4haCH0xQmLj) | 4:34 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 37 | [雨沒停過](https://open.spotify.com/track/4CjsfB0jDEgLcAXrlOyFmR) | [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [你所不知道的杜振熙之內部整修](https://open.spotify.com/album/5bQhqKf8GVKyOj7Py0SoIS) | 4:45 |
 | 38 | [你走之后的雨季](https://open.spotify.com/track/4J8vr8PSp5NcGjs1K8sTT1) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [你走之后的雨季](https://open.spotify.com/album/0PxczszuVunBNY7ZM08xpf) | 3:11 |
 | 39 | [藍色雨](https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf) | [Landy Wen](https://open.spotify.com/artist/3yMtvgD2LCo6Ws4Z08fTFj) | [藍色雨](https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU) | 4:55 |
-| 40 | [雨水一盒](https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [時間的歌](https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO) | 4:49 |
-| 41 | [西窗的雨](https://open.spotify.com/track/3H4SYYPnK2hkBtNDG0O6i3) | [好妹妹](https://open.spotify.com/artist/55WwHAHZZasWq8QM0LF5JR) | [西窗](https://open.spotify.com/album/15KBlwp8Ism6KoUQxRHNQd) | 3:59 |
+| 40 | [西窗的雨](https://open.spotify.com/track/3H4SYYPnK2hkBtNDG0O6i3) | [好妹妹](https://open.spotify.com/artist/55WwHAHZZasWq8QM0LF5JR) | [西窗](https://open.spotify.com/album/15KBlwp8Ism6KoUQxRHNQd) | 3:59 |
+| 41 | [雨水一盒](https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [時間的歌](https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO) | 4:49 |
 | 42 | [困在你的雨季](https://open.spotify.com/track/55FH2IppgtrkshTrP5nylB) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [困在你的雨季](https://open.spotify.com/album/5rS5GxnBfGh0FvxFzhviRC) | 4:32 |
 | 43 | [黑風暴雨](https://open.spotify.com/track/4aERDhzOp02MSlYVzUh2I5) | [Ronald Cheng](https://open.spotify.com/artist/66FF9LF0uO3W1zxEN0m8uN) | [怪胎](https://open.spotify.com/album/5EtVeNXucxhZvlz7v8wf7r) | 4:23 |
 | 44 | [雨还是不停地落下](https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [克卜勒](https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn) | 4:49 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 47 | [及時雨](https://open.spotify.com/track/4NWujfXKRiGLv3fPRr4YQo) | [Control T](https://open.spotify.com/artist/6KZPYI3NDCfL1Z3Uxp3Sge) | [及時雨](https://open.spotify.com/album/0DuU7EnkbqIhnXe8CiJsup) | 3:39 |
 | 48 | [寫給雨天的歌](https://open.spotify.com/track/0TTqTxpQLrlKyfjgtowNgP) | [Summer Lei](https://open.spotify.com/artist/1oA59f4Muicrwf7QY5nDqV) | [不想忘記的聲音](https://open.spotify.com/album/1G8hk2VOuuurxdrTpb2rju) | 3:50 |
 | 49 | [又下雨了](https://open.spotify.com/track/0npUYJHXiC8DNLtKI9Ynp5) | [李心潔](https://open.spotify.com/artist/3mdOic6sQLr3yxovwyDoub) | [第三代李心潔 \- 裙擺搖搖](https://open.spotify.com/album/3pORtMDQXQfBTwK5yyCk4a) | 4:43 |
-| 50 | [被雨困住的城市](https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:18 |
-| 51 | [討厭下雨天](https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P) | [慢慢說](https://open.spotify.com/artist/0E0uWMihe8T7CfDO37S3QU) | [驕傲地愛著](https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS) | 4:03 |
+| 50 | [討厭下雨天](https://open.spotify.com/track/7dx5uaLYo8PQluXRPnRk4P) | [慢慢說](https://open.spotify.com/artist/0E0uWMihe8T7CfDO37S3QU) | [驕傲地愛著](https://open.spotify.com/album/3V6FTadVjrWzNFAI8qAcsS) | 4:03 |
+| 51 | [被雨困住的城市](https://open.spotify.com/track/4PdRKbD69HOOSTsB5Q76wk) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:18 |
 | 52 | [微雨](https://open.spotify.com/track/4Xmums18xhKhwgWtOKXnZy) | [邵雨薇](https://open.spotify.com/artist/05PoS1s7QgQDp202WsZ8SP) | [微雨](https://open.spotify.com/album/43wEkgik29K31WN42WmlRr) | 3:53 |
 | 53 | [被雨傷透 \- 幾米音樂劇「向左走,向右走」歌曲](https://open.spotify.com/track/5DzWobny6yP1EzeO9KbqER) | [Dawen Wang](https://open.spotify.com/artist/550OPGAeMz9GF9mkZRL6d3), [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [被雨傷透 \(幾米音樂劇「向左走,向右走」歌曲\)](https://open.spotify.com/album/2gpk0phoZ6Vf4jrw4lPgVl) | 4:12 |
 | 54 | [如果你能到我的雨裡面](https://open.spotify.com/track/6ZIoEvPsWnyun3w3QXBeJN) | [白頻率 White Frequency](https://open.spotify.com/artist/4tREKMNVSLyiI0K6IhgHVc) | [如果你能到我的雨裡面](https://open.spotify.com/album/5nEFRdFxPGdN5M2nSYSznd) | 5:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 74 | [小雨](https://open.spotify.com/track/0bO7061F8NRnHMsZ88tRM3) | [Kumachan](https://open.spotify.com/artist/5DdhWWd83hbrWLXIVx129X) | [∞無限](https://open.spotify.com/album/5R3fhoNuPUPYLh4XSQRXEC) | 4:10 |
 | 75 | [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 |
 
-Snapshot ID: `MCxlNjZhYjQyZmVmMGUyZGY3MGZjZDllYThjNzc3NWFiMWE0YjZhOTU1`
+Snapshot ID: `MCwyYWIzOWFmZGZlZDYzNDUxMGFlNTk2ZjkwYzM1MTQ1Y2M4ODM3MmY4`

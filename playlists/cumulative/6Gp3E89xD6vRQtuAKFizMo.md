@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-171 songs - 8 hr 32 min
+172 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ascent](https://open.spotify.com/track/71R8InTY1qrseVysUhGE8X) | [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV) | [Ascent](https://open.spotify.com/album/4IPhl0uklSlmoSzZpA0yGc) | 3:15 | 2022-10-11 | 2023-03-04 |
 | [Bad For U](https://open.spotify.com/track/6QSJ6YykdSXSXIXEIyXDjz) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Mevil](https://open.spotify.com/artist/1gEv29AYdZDyZxaEZEz1xW), [Enigmix](https://open.spotify.com/artist/4t60Tdbrh9XXcIUVShQbZL) | [Bad For U](https://open.spotify.com/album/5rF6MSD64uT4ylAjpukdXW) | 2:37 | 2023-04-07 |  |
 | [Bassline Phenomena](https://open.spotify.com/track/4Bt3hOOoxEzjOM3crYro4O) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Bassline Phenomena](https://open.spotify.com/album/64fSyVklb0r3Xn0EuezI8A) | 4:03 | 2023-04-07 |  |
+| [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/track/1ZFTwYqAi4QYtZ0AEesGvC) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Bebiendo \(feat\. Ms Nina\)](https://open.spotify.com/album/3ceLFqR6p8w0JlcsAjudsk) | 2:46 | 2023-05-06 |  |
 | [Blade](https://open.spotify.com/track/2xfuUnHrsftleiNvhxrBis) | [Fox Beach](https://open.spotify.com/artist/3oscL02LJvKEkbxByDKRGs) | [Blade](https://open.spotify.com/album/3mfFOwMkEYMwZqKwu7su28) | 2:18 | 2022-09-13 | 2022-11-05 |
 | [Blink](https://open.spotify.com/track/3ivU4AKYS5NgBpodGp61IQ) | [Austin Atlas](https://open.spotify.com/artist/4TkDe8MLTpt4FcOCKxl1WC), [.dru](https://open.spotify.com/artist/3Uhwyjj7LKNzEfWhAT0u9L), [Jackson](https://open.spotify.com/artist/63S5cwgY5HmZyuqKlwP1BE) | [Blink](https://open.spotify.com/album/5dLDAqx33v36RkZ7cg81fl) | 3:21 | 2022-05-06 | 2022-08-13 |
 | [Blow The Socket](https://open.spotify.com/track/3o9c2W2OrQe4i1KE0QjQdW) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [PAV4N](https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK) | [Blow The Socket](https://open.spotify.com/album/6Vg0yJzjpsJdwlrAN0dyzh) | 3:12 | 2022-09-09 | 2023-01-14 |

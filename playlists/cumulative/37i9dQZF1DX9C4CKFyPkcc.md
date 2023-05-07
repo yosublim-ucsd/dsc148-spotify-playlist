@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-185 songs - 10 hr 58 min
+186 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/4oS4cWE5d50Uj1kOjhvf9W) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5UZMSWBi7ppVTQeHm4SlTR) | 3:01 | 2022-12-11 |  |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 | 2023-03-11 |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
+| [Baby Boy](https://open.spotify.com/track/59bmTqt7AFMBGLssuhtkmK) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:50 | 2022-12-11 |  |
 | [Baby Boy](https://open.spotify.com/track/4sSXzAOEYpSK5o5zFtDrnr) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Baby Boy](https://open.spotify.com/album/28UIg788d1C0Q93xwZRDHP) | 3:50 | 2022-12-11 | 2022-12-27 |
 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 | 2021-12-24 | 2023-04-27 |
 | [Being Home for Christmas](https://open.spotify.com/track/1XAYU9pdry0GU7Z5ga4UM5) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq) | [Miracle in a Manger](https://open.spotify.com/album/4lCduOiVpnPIA1CuGn8WgY) | 4:16 | 2021-12-24 | 2023-04-23 |
@@ -161,7 +162,7 @@
 | [Thank You](https://open.spotify.com/track/7w3nVvNQ2bIgK2iQ84MyOs) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [We Need A Little Christmas](https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV) | 3:53 | 2021-12-24 |  |
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-24 |  |
 | [The Christmas Song](https://open.spotify.com/track/00fDNOdlo68hQZkFFCr0Q4) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Motown Christmas](https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w) | 2:38 | 2021-12-24 |  |
-| [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-24 |  |
+| [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-24 | 2023-05-07 |
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-12-24 |  |
 | [The Christmas Waltz](https://open.spotify.com/track/7Fkoq2pfSTpN6Slh05dYYN) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [The Christmas Waltz](https://open.spotify.com/album/6naVRYaRVpdsD9IUJDJcGF) | 3:16 | 2022-12-11 | 2023-03-23 |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |

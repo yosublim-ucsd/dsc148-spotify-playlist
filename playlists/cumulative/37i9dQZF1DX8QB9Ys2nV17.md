@@ -4,7 +4,7 @@
 
 > The greatest female voices in blues today\. Cover: Amythyst Kiah
 
-98 songs - 6 hr 53 min
+99 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Let Me Down Easy](https://open.spotify.com/track/3GxxEvIYLj5GTyia5p29No) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Let Me Down Easy](https://open.spotify.com/album/2zdW2kFqLuJu6nwcAU4u9R) | 4:50 | 2022-02-18 |  |
 | [Let The Tears Roll Down](https://open.spotify.com/track/5jGTsMUMWHXrgcTHyJrLho) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 5:43 | 2021-03-01 | 2022-07-28 |
 | [Life Of The Party](https://open.spotify.com/track/0YdyAqpiuGX1GPocApE83R) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/0jHM5tctOO79BT3POpCSfd) | 3:51 | 2022-03-08 | 2023-04-29 |
+| [Life Of The Party](https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4) | 3:51 | 2022-03-08 |  |
 | [Life Of The Party](https://open.spotify.com/track/6wILqRslB1r6SWtEj4senP) | [Debbie Davies](https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7) | [Love Spin](https://open.spotify.com/album/5wSnSMk4dLaP00nRpIZrfp) | 3:51 | 2021-03-01 | 2022-07-29 |
 | [Lodi](https://open.spotify.com/track/4dEgvYbysxyVEdn6oSupuy) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Change in the Weather: Janiva Magness Sings John Fogerty](https://open.spotify.com/album/18GO2VNtW7TBm0X4Qk0uJ5) | 3:50 | 2021-03-01 |  |
 | [Lodi](https://open.spotify.com/track/50rwJNt8Xnoae1me9yV0ml) | [Janiva Magness](https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg), [Sam Morrow](https://open.spotify.com/artist/5fHiDVbd5c6LzxbjRO8ZZs) | [Lodi](https://open.spotify.com/album/4SXVDrObC1G2cDKsjh6J6P) | 3:50 | 2021-03-01 | 2023-04-02 |
@@ -92,7 +93,7 @@
 | [The Best Thing](https://open.spotify.com/track/0La8iotjyo35Et3kMXf03k) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Reckless Heart](https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG) | 4:52 | 2021-03-01 |  |
 | [The Ice Queen](https://open.spotify.com/track/0NyrDrdwyeRbbS85RdrPFL) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [The Ice Queen](https://open.spotify.com/album/1F9qbN6uJpal8fRBFfOwKh) | 6:23 | 2021-03-01 | 2022-07-29 |
 | [The Ice Queen](https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J) | [Sue Foley](https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS) | [The Ice Queen](https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe) | 6:23 | 2022-03-08 |  |
-| [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2022-03-08 |  |
+| [They Never Pay Me](https://open.spotify.com/track/1o84dOcVPieSWx54D6Vpd2) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/71JBQT7xsnizt4TYu0eUzY) | 3:33 | 2022-03-08 | 2023-05-07 |
 | [They Never Pay Me](https://open.spotify.com/track/4I7exgZnKPQeLgzRAsx77r) | [Gina Sicilia](https://open.spotify.com/artist/5G7a5hIfomqVuXlk4D3WfQ) | [Tug of War](https://open.spotify.com/album/2rc0kuRCruGFP5osvkZp2S) | 3:33 | 2021-03-01 | 2022-07-27 |
 | [Things Have Changed](https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/5WptPw9D94BfcayWYtk76T) | 6:56 | 2021-03-01 | 2022-07-29 |
 | [Things Have Changed](https://open.spotify.com/track/5KPuSBrMgHRIguurOqAi6r) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Things Have Changed](https://open.spotify.com/album/4WrWD47QXsRA5IUZAyZmue) | 6:56 | 2022-03-08 |  |

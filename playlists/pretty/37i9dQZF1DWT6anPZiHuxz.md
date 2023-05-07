@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 466,388 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,541 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 22 | [I Know You \(feat\. Bastille\) \- Vigiland Remix](https://open.spotify.com/track/1byydVLDAt7An5Pk3SuL5j) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds) | [I Know You \(Remixes\) \(feat\. Bastille\)](https://open.spotify.com/album/2WhixOxit7FV5fyM3XQTwo) | 3:03 |
 | 23 | [Your Side Of The Bed \- Steve Reece Remix](https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ), [Steve Reece](https://open.spotify.com/artist/1DQB6eOgTQ8NogvA5C3xYM) | [Your Side Of The Bed \(Remixes\)](https://open.spotify.com/album/52N7HDRAFmmcRlZWHbJXKO) | 2:42 |
 | 24 | [Rain On Me \- Purple Disco Machine Remix \- Edit](https://open.spotify.com/track/0dj5O3Nc6ONKWNd8mErvND) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Rain On Me \(Purple Disco Machine Remix\)](https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5) | 3:58 |
-| 25 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
-| 26 | [New Rules \- KREAM Remix](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [New Rules \(Remixes\)](https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v) | 4:40 |
+| 25 | [New Rules \- KREAM Remix](https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [New Rules \(Remixes\)](https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v) | 4:40 |
+| 26 | [Million Dollar Baby \- Nathan Dawe Remix](https://open.spotify.com/track/5gyrGCIucSPBZdgupcgKHX) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [Million Dollar Baby \(Nathan Dawe Remix\)](https://open.spotify.com/album/2TDpkgdowmz5Vp5tPGl84T) | 3:05 |
 | 27 | [Castles \- Sam Feldt Remix](https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Castles \(Sam Feldt Remix\)](https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh) | 3:24 |
 | 28 | [Ruin My Life \- Steve James Remix](https://open.spotify.com/track/0Fc9QSMX6fgEBgDjUax7t7) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY) | [Ruin My Life \(Remixes\)](https://open.spotify.com/album/6rWRg6yLGcLdG0IRaCB9LN) | 2:57 |
 | 29 | [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [DJ White Shadow](https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1), [Anthony Watts](https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1) | [I Feel Good \(R3HAB Remix\)](https://open.spotify.com/album/0bGTfamwl2XVCrXcWAhx6P) | 2:36 |
 | 50 | [Desperado \- 3LAU Remix](https://open.spotify.com/track/0Pgxi0ePz1CAVRc7xrQTaO) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Desperado \(Dance Remixes\)](https://open.spotify.com/album/788dtBLdLpuWvpX0EDqd4n) | 3:24 |
 
-Snapshot ID: `MCw3M2Y4Njk4NDkwMTcwNDUyYjVhYzkzMzVkOWRkY2JlMzg4YzhhYjAw`
+Snapshot ID: `MCxjMDk4MzlhYWQ1ZGI3OGRmNDRkMjE1MTQ3NzA0Zjk5ZjU2YmZmOTlh`

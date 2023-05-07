@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 
 > The BBMAs – celebrating music’s greatest achievements by honoring the hottest names on the Billboard Charts\. Airing live May 15 on NBC! Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,275 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,268 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGeEU3DbvDJ.md) - [plain]
 | 49 | [RAPSTAR](https://open.spotify.com/track/3YZ5gPYspB2jNZ0KvUvv0m) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Hall of Fame 2.0](https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8) | 2:45 |
 | 50 | [Sour Candy \(with BLACKPINK\) \- Shygirl & Mura Masa Remix](https://open.spotify.com/track/56kudbKiRjWCwiAS3FRHCL) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:45 |
 
-Snapshot ID: `MCw4MWRhN2JiZTdlZmY4NjY2YzNlYjgxNDEzNjJjOTE3ODBkNjBkZmRh`
+Snapshot ID: `MCxjNGUxMTUwNjExODM0OGVkNmJiOWNiOTM0ZTA1ZjJhOGY3Mjg1YTg5`

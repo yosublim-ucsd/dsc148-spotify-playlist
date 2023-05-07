@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 
 > This is Hildur Guðnadóttir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116 likes - 50 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,117 likes - 50 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1l9E1r.md) - [plain]
 | 49 | [Miguel Takes Money](https://open.spotify.com/track/0XnqFCTKLykvgLOgqcJpye) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Sicario: Day of the Soldado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12QFS9IPnlICbESBw96prr) | 1:42 |
 | 50 | [Overcast](https://open.spotify.com/track/0UdssF0wBtkGmbTvCCEQFZ) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [Without Sinking](https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ) | 3:18 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA3ZGYzMjY1Njg1YWU4YmNhYjYyZjIxODMyZWM1ZGUyYQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA1ZTNmNjFhODk0NzVmZmViNzI5M2Q0NzYzYTdlZjU5Nw==`

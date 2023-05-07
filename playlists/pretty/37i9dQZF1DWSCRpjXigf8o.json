@@ -1,12 +1,12 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 84060,
+  "num_followers": 84073,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODczMjFlMzQ1ODhjMDhiMDg2MTI0ZjVhMzNjNWYwYmE2MzU5Mjgx",
+  "snapshot_id": "MCxiNjFjYWEzYzIwNDYzZGZjZWQ0NDcwZWQ4NGEyMGQ1OTU5MGEzOWVm",
   "tracks": [
     {
       "added_at": "2023-05-04 15:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 183466,
-      "name": "Dying Man",
-      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 296800,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
+      "duration_ms": 183466,
+      "name": "Dying Man",
+      "url": "https://open.spotify.com/track/4kvjThnfQIsPOKjxx0aZDu"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
         "name": "beside you",
         "url": "https://open.spotify.com/album/3boOG8cQ8szHDizPKUyBFD"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 166023,
       "name": "beside you",
       "url": "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
+        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 227928,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
         "name": "The La's",
         "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
-        "name": "Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 227928,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "The George Benson Collection",
-        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Give Me the Night",
-      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
         "name": "Walked Through Hell",
         "url": "https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 216864,
       "name": "Walked Through Hell",
       "url": "https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
+        "name": "The George Benson Collection",
+        "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Give Me the Night",
+      "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
       "added_at": "2023-05-04 15:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-05-04 15:00:00",
       "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 171527,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
-    },
-    {
-      "added_at": "2023-05-04 15:00:00",
-      "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 197032,
       "name": "all my ghosts",
       "url": "https://open.spotify.com/track/46BHP7nFOrGQPLW8mCxzZr"
+    },
+    {
+      "added_at": "2023-05-04 15:00:00",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 171527,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
     }
   ],
   "unique_name": "Mid Tempo Magic",

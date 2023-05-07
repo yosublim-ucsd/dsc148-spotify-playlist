@@ -1,12 +1,12 @@
 {
   "description": "Pop favorites from today and yesterday",
-  "num_followers": 91010,
+  "num_followers": 91570,
   "original_name": "Pop Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjVjMzg2MjAwNzFhNGFhNDY4M2RiMmU1YmU0ZDAzNTUxNThmMjlk",
+  "snapshot_id": "MCw0ZjViZGJlNjQxYjNkNmI1N2M1YjQ4YWMzMWEyN2EzZmVlYmU2YjIx",
   "tracks": [
     {
       "added_at": "2021-07-01 23:30:27",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Talk That Talk",
         "url": "https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn"
@@ -475,6 +475,22 @@
     {
       "added_at": "2021-07-01 23:30:27",
       "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
+    },
+    {
+      "added_at": "2021-07-01 23:30:27",
+      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -493,23 +509,7 @@
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
-      "added_at": "2021-07-01 23:30:27",
-      "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Speak Your Mind (Deluxe)",
         "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-07-01 23:30:27",
       "album": {
+        "name": "Lukas Graham",
+        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
+    },
+    {
+      "added_at": "2021-07-01 23:30:27",
+      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 202546,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"
-    },
-    {
-      "added_at": "2021-07-01 23:30:27",
-      "album": {
-        "name": "Lukas Graham",
-        "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "added_at": "2021-07-01 23:30:27",
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -1109,7 +1109,7 @@
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
@@ -1157,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Red (Big Machine Radio Release Special)",
         "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
@@ -1589,7 +1589,7 @@
       "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
@@ -1621,7 +1621,7 @@
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
@@ -1697,7 +1697,7 @@
       "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
@@ -1713,7 +1713,7 @@
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
     },
     {
-      "added_at": "2023-05-06 00:51:19",
+      "added_at": "2023-05-07 00:26:30",
       "album": {
         "name": "Sit Still, Look Pretty",
         "url": "https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt"

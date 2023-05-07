@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > All the indescribable feelings that music gives you\. cover: hemlocke springs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040,203 likes - 107 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,040,618 likes - 107 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 49 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
 | 50 | [I Been Young](https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [I Been Young](https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh) | 4:59 |
 | 51 | [The Blonde](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:47 |
-| 52 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:36 |
+| 52 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:39 |
 | 53 | [fanfiction on the internet](https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm) | [Jake Timothy](https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy) | [fanfiction on the internet](https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1) | 2:51 |
 | 54 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/4hie5sbZpqiMzzZY25dOVp) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [BO Y](https://open.spotify.com/album/0W8gtgyXuQdAHV4xBSUEzU) | 2:50 |
 | 55 | [Glad I Don't Have To \- Demo](https://open.spotify.com/track/3kG7hHmU4GhSr0WnvEUX6C) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Demos 4\-11](https://open.spotify.com/album/4whtRg1zOlh1uuyrsg6kW8) | 2:00 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 106 | [ELECTRIFY TONIGHT](https://open.spotify.com/track/0nifVdzF4R6WT2qITFJKeu) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [ALLIGATOR](https://open.spotify.com/album/2fS7BLnNrjXc9s7WmGmyoH) | 2:34 |
 | 107 | [All That](https://open.spotify.com/track/0dRMqHJre73e9V0wOfwV6u) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Family](https://open.spotify.com/album/7bNubmdfctkLp7ltJE0pLy) | 2:46 |
 
-Snapshot ID: `MCxlZTk3MWIxOGM3Njk2YzAzOTRlZDE0NzQxYjIwYjM1YTY2MTM1N2Zl`
+Snapshot ID: `MCxkZjc4ZDQ2ZDUwMTUxMTdkMDA1ZTAwMzk3ODAwNjNiNjZjY2ZhMDBl`

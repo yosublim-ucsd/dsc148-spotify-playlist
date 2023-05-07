@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15448,
+  "num_followers": 15459,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmI3ZDhiOTlmZDliZWMyYTU5ZjM3NzQxZjU2NTQwYWQ2Y2VkY2Nj",
+  "snapshot_id": "MCxiNTI4ZjU5ZWY2OGY0ZDNhYmM1MjNjNTQyNzcxZDk5YWIwMDljMTg5",
   "tracks": [
     {
       "added_at": "2023-05-05 23:28:35",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Nadie+",
         "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
       },
@@ -411,22 +395,18 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Detonaci\u00f3n (Remix)",
-        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
         }
       ],
-      "duration_ms": 232173,
-      "name": "Detonaci\u00f3n - Remix",
-      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -443,6 +423,26 @@
       "duration_ms": 249638,
       "name": "Might Forgive You",
       "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Detonaci\u00f3n (Remix)",
+        "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Detonaci\u00f3n - Remix",
+      "url": "https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Amor Perfecto (Reprise)",
-        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Amor Perfecto - Reprise",
-      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
         "url": "https://open.spotify.com/album/3Y0ga9ccVWjbbcsz4WbShY"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 232173,
       "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
       "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Amor Perfecto (Reprise)",
+        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Amor Perfecto - Reprise",
+      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Vital",
-        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "es mejor",
         "url": "https://open.spotify.com/album/7CxEhuohjm1rOzuJBszNRZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 176453,
       "name": "es mejor",
       "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Aburrido",
-        "url": "https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B"
-      },
-      "artists": [
-        {
-          "name": "Micaela Salaverry",
-          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
-        },
-        {
-          "name": "Michelle Anzo",
-          "url": "https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Aburrido ;(",
-      "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Valientes",
         "url": "https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 180000,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
       "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Aburrido",
+        "url": "https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B"
+      },
+      "artists": [
+        {
+          "name": "Micaela Salaverry",
+          "url": "https://open.spotify.com/artist/2kihOo2Sxwt99sOHc7KFeo"
+        },
+        {
+          "name": "Michelle Anzo",
+          "url": "https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Aburrido ;(",
+      "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
+      },
+      "artists": [
+        {
+          "name": "Jazm\u00edn Mazzuchelli",
+          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
       },
@@ -1431,38 +1447,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Random No",
-        "url": "https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k"
-      },
-      "artists": [
-        {
-          "name": "Tani",
-          "url": "https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Random No",
-      "url": "https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
-      },
-      "artists": [
-        {
-          "name": "Jazm\u00edn Mazzuchelli",
-          "url": "https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Cr\u00e1neo",
         "url": "https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 200875,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Random No",
+        "url": "https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k"
+      },
+      "artists": [
+        {
+          "name": "Tani",
+          "url": "https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Random No",
+      "url": "https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "soy gris",
-        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
-      },
-      "artists": [
-        {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "soy gris",
-      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Mejor no hablar de ciertas cosas",
         "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 300782,
       "name": "Mejor no hablar de ciertas cosas",
       "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "soy gris",
+        "url": "https://open.spotify.com/album/4V0ZEAtefmZzJYge7N93IC"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "soy gris",
+      "url": "https://open.spotify.com/track/7wpyHcEEQuQnUjZFofSQ12"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Hasta el Final",
-        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
+        "name": "Extra\u00f1o ser",
+        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Uzal",
-          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
         }
       ],
-      "duration_ms": 169227,
-      "name": "Hasta el Final",
-      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
+      "duration_ms": 247798,
+      "name": "Extra\u00f1o ser",
+      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1699,6 +1699,22 @@
       "duration_ms": 215585,
       "name": "Pantano",
       "url": "https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Hasta el Final",
+        "url": "https://open.spotify.com/album/3DTN2Ksb343wBlyYkDYjsY"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Uzal",
+          "url": "https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd"
+        }
+      ],
+      "duration_ms": 169227,
+      "name": "Hasta el Final",
+      "url": "https://open.spotify.com/track/4bfEXoyHC8Yi1sWWvkCV26"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1735,22 +1751,6 @@
       "duration_ms": 211124,
       "name": "Haikus",
       "url": "https://open.spotify.com/track/4FRghceXp9rv6OpVak9d7u"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Extra\u00f1o ser",
-        "url": "https://open.spotify.com/album/4Wk4LntMYRIOVEquWr2HrU"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 247798,
-      "name": "Extra\u00f1o ser",
-      "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
     }
   ],
   "unique_name": "NE\u00d3N",

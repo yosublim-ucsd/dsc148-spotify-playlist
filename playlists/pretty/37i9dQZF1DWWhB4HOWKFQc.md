@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Salma Aliyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,113 likes - 85 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 918,359 likes - 85 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 84 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 | 85 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 
-Snapshot ID: `MCw2ODI0NDI5MWIzNDFkZGU2Nzk3YjIwZmU0YWY2NDg3ZGQ5OTA2ZWMy`
+Snapshot ID: `MCw3OGVmMWE3MGQyNDMwYmM0NGViMTE4MDA1NzE0ZTA1ZmQ0NjE1YzQ1`

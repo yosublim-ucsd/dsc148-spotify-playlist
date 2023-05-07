@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,834 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,948 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 39 | [Mr\. Smiley](https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Big Daddy Multitude \(2010 Re\-Issue\)](https://open.spotify.com/album/5f6bcXHqGeDr5Bp5AaGN8b) | 2:46 |
 | 40 | [We Will Fall Together](https://open.spotify.com/track/0plo6KjgjTcRhj7Fn8oemk) | [Streetlight Manifesto](https://open.spotify.com/artist/1OKOTYGoCE2buxTYMegJp7) | [Somewhere in the Between](https://open.spotify.com/album/0uecz2X2V83TuxOwJv7mgg) | 4:49 |
 | 41 | [Super Rad!](https://open.spotify.com/track/0wZuFLzQhVAJU9JSmdixTE) | [The Aquabats!](https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s) | [The Fury of the Aquabats!](https://open.spotify.com/album/3ytuNr6VyEkILS2PG14LCM) | 3:02 |
-| 42 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
-| 43 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:46 |
+| 42 | [Silence Is Golden But Duct Tape Is Silver](https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:46 |
+| 43 | [Different People](https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 4:35 |
 | 44 | [Wallflower](https://open.spotify.com/track/31RJ1xFMQCGfGniKY4IMdO) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Never Look Back](https://open.spotify.com/album/43YzokVXiyJbfas8y3WSK6) | 2:23 |
 | 45 | [Road Rash](https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Duck and Cover](https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0) | 2:01 |
 | 46 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 54 | [My Town](https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha) | [Buck\-O\-Nine](https://open.spotify.com/artist/1jteNNEz2fLM4pF5ezFr5f) | [Twenty\-Eight Teeth](https://open.spotify.com/album/6vlMw1g1CoKOuVAj80aTe9) | 3:34 |
 | 55 | [Break The Glass](https://open.spotify.com/track/4jH8dxtKxBP9YZcLFGkw09) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 3:08 |
 | 56 | [Free Time](https://open.spotify.com/track/19FG153t1MdozcTZHi8guM) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [Reggae Hit L.A.](https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob) | 3:01 |
-| 57 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
-| 58 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
+| 57 | [Unstoppable](https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW) | [The Planet Smashers](https://open.spotify.com/artist/2wYNzTzigUWAeVLaxeRrg3) | [Unstoppable](https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS) | 3:08 |
+| 58 | [On & On & On](https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61) | [Catch 22](https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT) | [Keasbey Nights](https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a) | 3:14 |
 | 59 | [The World Is New](https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [It Means Everything](https://open.spotify.com/album/1AiVqGWu6HcyLYuB0BMvcS) | 2:11 |
 | 60 | [Random I Am](https://open.spotify.com/track/2XvrtH6BIVyCr6tLhOvIAt) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [For Monkeys](https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE) | 2:40 |
 | 61 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Stupid](https://open.spotify.com/track/3sdMZWhtbfwfazzDPyPUgU) | [Just Friends](https://open.spotify.com/artist/5489Aao4KjbdU9l5CUadOa) | [Stupid](https://open.spotify.com/album/6lqdshNzLu0xUK5ntZkE6c) | 3:13 |
 | 100 | [Sound of a Revolution](https://open.spotify.com/track/5iqoangjJT6emeXzZg2czr) | [Sonic Boom Six](https://open.spotify.com/artist/3ccF37QB6LC4LqUfvtn5qb) | [Arcade Perfect](https://open.spotify.com/album/2ICTXbgW4rWcYWlSG1JtJ9) | 3:14 |
 
-Snapshot ID: `MCw2Y2E5MWFhZDdmODUzNTM1MzQ3NzQ4ZmYzZmVmNWY2ZjI3ZDA2NDFm`
+Snapshot ID: `MCwyNDNjYWEzMGExMjA2YWIwMzc1YTI4NDVmYzE1N2M1YzcwZTM1OTk1`

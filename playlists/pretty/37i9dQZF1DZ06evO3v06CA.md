@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,534 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,611 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 45 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:19 |
 | 46 | [Roll Me Up](https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 3:25 |
 | 47 | [Just to Satisfy You](https://open.spotify.com/track/7dwgvrv1SrryEYG2MMNuXN) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Ultimate Waylon Jennings](https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa) | 2:49 |
-| 48 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
-| 49 | [Devil in a Sleepin' Bag](https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:38 |
-| 50 | [Georgia on My Mind](https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Made in the Usa Collection](https://open.spotify.com/album/2vwhPIDd0WnJO0yuL8vrku) | 4:17 |
+| 48 | [Devil in a Sleepin' Bag](https://open.spotify.com/track/7JSIPdukJ1MCWWa2sOBuWi) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:38 |
+| 49 | [Georgia on My Mind](https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Made in the Usa Collection](https://open.spotify.com/album/2vwhPIDd0WnJO0yuL8vrku) | 4:17 |
+| 50 | [Heaven and Hell](https://open.spotify.com/track/3Ph1o8I4ATHBh15r1XiI9j) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 1:38 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAwNGIyM2RmZDg2ZDhlNTM0MDUzNWI3MGNmNmI0M2JhNw==`
+Snapshot ID: `MjgwNTY1OTgsMDAwMDAwMDBiMWRhMTI1MmYyZjY4ZjUwYTFlZGIxYzZmMjJjYmJmNA==`

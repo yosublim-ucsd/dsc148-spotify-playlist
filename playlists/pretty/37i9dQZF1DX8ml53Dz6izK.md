@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 
 > < insert emo glitter gif here >
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,725 likes - 55 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,760 likes - 55 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 25 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 |
 | 26 | [That's What You Get](https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:40 |
 | 27 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 |
-| 28 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
-| 29 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
-| 30 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
-| 31 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
+| 28 | [The Taste of Ink](https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 3:28 |
+| 29 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 |
+| 30 | [Only One](https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA) | 4:17 |
+| 31 | [My Friends Over You](https://open.spotify.com/track/4pImG3RdbaGfanzQOTFgyr) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:40 |
 | 32 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 |
 | 33 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 |
 | 34 | [The Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Boys Like Girls](https://open.spotify.com/album/47ttGApwQx3iAWz8tFFnNj) | 3:26 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 39 | [Love Drunk](https://open.spotify.com/track/20X9OeC606XNwEtDBOym5u) | [Boys Like Girls](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Love Drunk](https://open.spotify.com/album/7DphDayDRJ1NtRmveflFWD) | 3:46 |
 | 40 | [Everything Is Alright](https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV) | [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [Commit This To Memory](https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT) | 3:27 |
 | 41 | [I Don't Wanna Be In Love \(Dance Floor Anthem\)](https://open.spotify.com/track/36UVZPoK8a1Oxh13cY8kOp) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/5skjlzXO7wZ6OuS9YKdI50) | 4:04 |
-| 42 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
-| 43 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
+| 42 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
+| 43 | [Not Good Enough For Truth In Cliché](https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:51 |
 | 44 | [You're So Last Summer \- Remastered](https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:01 |
 | 45 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
 | 46 | [Here \(In Your Arms\)](https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Zombies! Aliens! Vampires! Dinosaurs!](https://open.spotify.com/album/6caG763FP5oUCdxklebHh6) | 4:00 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ml53Dz6izK.md) - [plain]
 | 54 | [Liar \(It Takes One To Know One\)](https://open.spotify.com/track/5heRy6IDNiQXDJf1tZ6SUc) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:11 |
 | 55 | [Silver And Cold](https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 |
 
-Snapshot ID: `MCw0MGM1ZDkzNGU2ZTdmMWM1NmU0ZDE5ODgyZjBkN2NlM2IyZTBjMzVi`
+Snapshot ID: `MCxjOTk0Mjk3YTFmY2MyMTJhYjJjNTYwYTBkNTFkMDQzODBlOTM0Y2I4`

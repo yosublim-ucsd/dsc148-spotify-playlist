@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,769 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,844 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 51 | [Foreigner \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:41 |
 | 52 | [Somebody](https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Somebody](https://open.spotify.com/album/2tGRWs8mrUVyjgbMIQpWQN) | 2:54 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBlNDk4N2JmYTFmMzdhNjYwOGI5OWJjOGNhYjBiMTc0MA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAwMWEzYTA0NTQzMDgzMmM0OGNkODdhYWZhMzg0YTg3Nw==`

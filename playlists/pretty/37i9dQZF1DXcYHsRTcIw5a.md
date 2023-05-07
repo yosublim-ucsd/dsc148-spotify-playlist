@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 
 > Get ready, to do, do rocksteady
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,425 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,504 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 8 | [Weather Report](https://open.spotify.com/track/2PqKhhwvTagEwlueJYwXa1) | [The Tennors](https://open.spotify.com/artist/55bKEFzORmQDLwL57O3Zz4) | [Cultural Things](https://open.spotify.com/album/0oAZsRHJCvTBgfIIKPQmDO) | 2:25 |
 | 9 | [Save A Bread](https://open.spotify.com/track/5G0P8RIKWn9jVLiBWi9ViH) | [Justin Hinds](https://open.spotify.com/artist/485PbpVEwbo7jAYs8Z3v9J), [The Dominoes](https://open.spotify.com/artist/3zdYjbgCIa2XJWb6Yc325v) | [Early Recordings](https://open.spotify.com/album/0Daz83iFRx526smzsDFbFL) | 2:40 |
 | 10 | [Old Fashioned Way](https://open.spotify.com/track/531hkX8V30OYiB4zfjypy5) | [Ken Boothe](https://open.spotify.com/artist/6jg1EbpTL27toPdfzveorJ) | [Everything I Own \- The Definitive Collection](https://open.spotify.com/album/0fkvv6IpX8t20FO0dlIHY3) | 2:33 |
-| 11 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
-| 12 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
+| 11 | [River of Babylon](https://open.spotify.com/track/7gcelChzsWoGRMwvk6scnQ) | [The Melodians](https://open.spotify.com/artist/23FM5hCHWAODLFGMyk6ETI) | [Legend](https://open.spotify.com/album/1mvWUKXLasKQXNo8iVCnPR) | 3:59 |
+| 12 | [People Get Ready](https://open.spotify.com/track/5g99otFnQZ541aIfHBJWq9) | [Slim Smith](https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41) | [Out Of Love / People Get Ready](https://open.spotify.com/album/2m3g4OamUO3OUGH26mrnVn) | 2:37 |
 | 13 | [Let Your Yeah Be Yeah](https://open.spotify.com/track/2Dm6EGLAZLjk0iBIdUN9qp) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Give and Take \- The Best of The Pioneers](https://open.spotify.com/album/5TwvKc49ROXhjd3oha206q) | 3:07 |
-| 14 | [True True True](https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials \(Platinum Edition\)](https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh) | 2:15 |
-| 15 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
+| 14 | [Love Me Forever](https://open.spotify.com/track/1z0We51LrOGniEJVk9Aid9) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/0EYwBETY5u7V1VpzUmqyLu) | 3:40 |
+| 15 | [True True True](https://open.spotify.com/track/5lhweqIsmtQFNkCkj23nbs) | [Ken Parker](https://open.spotify.com/artist/3VaRnHxXoKH77giznfGDgh) | [Sound Box Essentials \(Platinum Edition\)](https://open.spotify.com/album/1y0DtuLTm22u30LBrgQfmh) | 2:15 |
 | 16 | [Madness](https://open.spotify.com/track/71pBxayPPUWgs99vFMHaCA) | [Prince Buster](https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB) | [Tutti Frutti](https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm) | 2:45 |
 | 17 | [Have Some Mercy](https://open.spotify.com/track/6P4TFTWjdO5iXr8EfQVjqz) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 3:26 |
 | 18 | [Sound and Pressure](https://open.spotify.com/track/0gOB0LAnmJK0IzPudWzi2p) | [Hopeton Lewis](https://open.spotify.com/artist/0mO8aKj6nYryzzlEdPYAPb) | [Take It Easy](https://open.spotify.com/album/0df5wnsgG6FBXXmq4DXe1h) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYHsRTcIw5a.md) - [plain]
 | 49 | [Baby Why](https://open.spotify.com/track/0I6g8aa5qwDmK8g4gUS8LH) | [The Cables](https://open.spotify.com/artist/7w8k2o1qnc2FXFq5o48ZJV) | [What Kind of World](https://open.spotify.com/album/6oCEHWNjXieygQN2mYKL25) | 5:14 |
 | 50 | [Always Together](https://open.spotify.com/track/2GxfID7hBi8rOMyKIJ34sv) | [Bob Andy & Marcia Griffiths](https://open.spotify.com/artist/7q5akGSVEfg0j8IxgbdLN3) | [Collector's Edition: Rare Reggae From Studio One](https://open.spotify.com/album/74Nf0X7UlkT999DGNlae92) | 2:45 |
 
-Snapshot ID: `MCw4YmU2OTkyNDhkNzgwZDgxZjFmNjE2ZjJlN2M4MTgxOWVhMjJhY2Uw`
+Snapshot ID: `MCxjYzhjMjRjMWQwNTA5OTE4MGZlMWQ1MzM5NWE0MDgwNzlhNzkzODU1`

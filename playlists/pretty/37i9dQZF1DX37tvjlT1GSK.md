@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 725,651 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 725,789 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 36 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
 | 37 | [Amor](https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Amor](https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd) | 4:41 |
 | 38 | [Una 45](https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Una 45](https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I) | 1:53 |
-| 39 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
-| 40 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 |
+| 39 | [Seca Tus Lagrimas](https://open.spotify.com/track/54JxxJ2KW8nCeb6ZnroLA0) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 1:56 |
+| 40 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 |
 | 41 | [Híbrido](https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Híbrido](https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv) | 2:54 |
 | 42 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 |
 | 43 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 49 | [El Chaman](https://open.spotify.com/track/0RstZCli3DcyY1LJq38P4b) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Chaman](https://open.spotify.com/album/7v4rU4KEpLAyPG7aGHVYNA) | 2:54 |
 | 50 | [Sencillo Soy](https://open.spotify.com/track/2cVqu4Y1kveK3KuL1aXgNj) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Un Album Sencillo](https://open.spotify.com/album/3v0EO4EsCPW8nZiqwbVVZH) | 2:52 |
 | 51 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 |
-| 52 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
-| 53 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
+| 52 | [Por Enamorarme](https://open.spotify.com/track/1AP1CzTmlJT2Q0IrJVaJbV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:56 |
+| 53 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
 | 54 | [Te Apuesto \- En vivo](https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo EP, Vol\. 1 \(En vivo\)](https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN) | 3:48 |
 | 55 | [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 |
 | 56 | [Y Si Se Quiere Ir](https://open.spotify.com/track/2qWX4mvuOfCvGgHAV1sWQO) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Y Si Se Quiere Ir](https://open.spotify.com/album/6o7M6eInloIKefh7YsXEJR) | 3:19 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 61 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
 | 62 | [Falso](https://open.spotify.com/track/7FF8AgGRyOzjKQ4SpTVJ7D) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Falso](https://open.spotify.com/album/1QATRuRMTlIEzQi9VvRm5m) | 3:54 |
 | 63 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 |
-| 64 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
-| 65 | [Una en Un Millon](https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y) | [Amigos De La Cuadra](https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Niña Fiel](https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV) | 2:09 |
+| 64 | [Una en Un Millon](https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y) | [Amigos De La Cuadra](https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Niña Fiel](https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV) | 2:09 |
+| 65 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
 | 66 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 |
 | 67 | [El Rapido](https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR) | 3:02 |
 | 68 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 99 | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/track/4H0yOcYBXifXCj1T7xvGJJ) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu) | [Si Dios Conmigo, Quién Contra Mí](https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS) | 3:32 |
 | 100 | [Falta de Química](https://open.spotify.com/track/3MuDbrQKyn0MzBlWjQyr4q) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Falta de Química](https://open.spotify.com/album/3MtbsSNUXZBC8WGGsdSIRS) | 3:42 |
 
-Snapshot ID: `MCxiNDE1NGVmN2IwMjNlMDcyNDA0NDcxOWJlNTNkZDA5NmVjMDgxMGFh`
+Snapshot ID: `MCxkZTYwZTE5NjNhMDNhOTllYzQzODViMDZmY2VhNTU1ZWRiYWU0YmU1`

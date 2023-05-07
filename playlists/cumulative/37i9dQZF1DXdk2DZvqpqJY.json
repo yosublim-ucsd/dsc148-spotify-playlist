@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Forever and Always",
+        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238970,
+      "name": "Forever and Always",
+      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
+    },
+    {
+      "album": {
         "name": "Forever Promises",
         "url": "https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx"
       },
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 356263,
       "name": "Love is the answer",
       "url": "https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7"

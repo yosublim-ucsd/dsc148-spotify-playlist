@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Jack Harlow, Drake, Tyler, The Creator, Quavo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,306 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,461 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 49 | [No Role Modelz](https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 |
 | 50 | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/track/1wUpbNyIar4OFPM1Fg3R3j) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Let’s Go \(feat\. Aitch\)](https://open.spotify.com/album/03YnYlkkIiMOjIV9qIjykw) | 2:39 |
 
-Snapshot ID: `MCxhZmQwZDZjNjBiMjkyNzlmYjViZGU0MWY2OWIxNGY2YzVjMDU5YTFh`
+Snapshot ID: `MCwzNjdlMDAwNDRiYTI5OTgyNjk3ZGY3NmQ3NGVmZjExYjNhMGU1ZGJh`

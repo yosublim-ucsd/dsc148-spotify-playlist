@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,235 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,384 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 27 | [Weird Girl](https://open.spotify.com/track/1HVDJhXoyZumT5sezqpkvA) | [Mommy Long Legs](https://open.spotify.com/artist/1cZJetf4bkK5CE3VeU18h0) | [Assholes](https://open.spotify.com/album/5Nd64Y626QAncRetjqNc5H) | 2:24 |
 | 28 | [Valentine](https://open.spotify.com/track/1RcGoniZzjY3oOatGifYK1) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 3:16 |
 | 29 | [Kill Me](https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 4:20 |
-| 30 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
-| 31 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
-| 32 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
-| 33 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 |
+| 30 | [Control](https://open.spotify.com/track/1BrI8GZkG9Rd8Gvx4nBf9Y) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Control](https://open.spotify.com/album/0t735ENMp4UgBzUvD2NCPG) | 3:15 |
+| 31 | [Crust Bucket](https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q) | [The Frights](https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX) | [The Frights](https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0) | 4:19 |
+| 32 | [WHY?](https://open.spotify.com/track/1WCPaQ7zMEMwWbpuTrhM9S) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:54 |
+| 33 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
 | 34 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
 | 35 | [Pedestrian at Best](https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:50 |
 | 36 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 49 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
 | 50 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
 
-Snapshot ID: `MCxhMzk2NTU4YzZiYzg1YmI0YzRiZTA4MWZhZGQwYTFhMTkwZmUyMGQ5`
+Snapshot ID: `MCxmNTQxOWU5MjNkYzY1YzNlY2EzNTQwMzdiMjNjM2M2ZmNkMjQ1MGFh`

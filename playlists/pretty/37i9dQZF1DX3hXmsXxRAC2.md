@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,868 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,904 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 12 | [Abrázame Muy Fuerte](https://open.spotify.com/track/4gTxKZH5RERMhX9H8EnPAX) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Iconos](https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g) | 4:34 |
 | 13 | [No Discutamos](https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 2:19 |
 | 14 | [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 |
-| 15 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
-| 16 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
+| 15 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
+| 16 | [Fue un Placer Conocerte](https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 3:30 |
 | 17 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
 | 18 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
 | 19 | [Amor Eterno](https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 6:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [Fue Tan Poco Tu Cariño](https://open.spotify.com/track/6iU3Z1hIEXctO1xm3JQzfZ) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/7hmSedqLVW3pMXzRPSbJfM) | 3:13 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MCxiOGFjZjAyMWQwYzgyYWNkOTk0NzJlNGRmNzNjYjllNGI0OTE0NzRi`
+Snapshot ID: `MCw1ZmM2MGQ1MGEyNGRjODBmNjMzYTY3MjAxZTFiNjAwMjNkY2Q3MTc5`

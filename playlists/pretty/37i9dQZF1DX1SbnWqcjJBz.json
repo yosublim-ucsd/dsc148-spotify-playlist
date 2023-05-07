@@ -1,12 +1,12 @@
 {
   "description": "Talented, brilliant, incredible, amazing, show-stopping\u2026 See also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 55411,
+  "num_followers": 55548,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDdhNGFmOThjMjNmZGUwYjZmYzQ2ZmY1Y2FjOTlhNTliNzQyZjEy",
+  "snapshot_id": "MCxhYzFlYTIyMWUxNGQ1NjZjMzc3ZGQyMTRjOTVlZDY0MjhkNTU1M2Rj",
   "tracks": [
     {
       "added_at": "2022-12-28 17:02:11",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "BLUE LIPS (lady wood phase II)",
         "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 233173,
       "name": "Neon Lights",
       "url": "https://open.spotify.com/track/34MJ07N9Bhu6iKPaxSVnCT"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2022-12-28 17:02:11",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2022-12-28 17:02:11",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
+    },
+    {
+      "added_at": "2022-12-28 17:02:11",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2022-12-28 17:02:11",
-      "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "What I Need (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
     },
     {
       "added_at": "2022-12-28 17:02:11",

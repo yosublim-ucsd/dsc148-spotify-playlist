@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,597 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,724 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 32 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 |
 | 33 | [Automobile](https://open.spotify.com/track/1bloF1LHgUVvPJLxrzxgu7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:06 |
 | 34 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
-| 35 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 |
-| 36 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
+| 35 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
+| 36 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 |
 | 37 | [Something to Remind You](https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3) | 4:07 |
 | 38 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
 | 39 | [Be Still](https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Landlady](https://open.spotify.com/track/04yNTogtZSbl40k7GVvLuO) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:01 |
 | 70 | [Wild Sun](https://open.spotify.com/track/5MfLVNkxZJ7VZPnNp9vHdl) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:29 |
 
-Snapshot ID: `MCxlYWY2YTM3NDc1YTBlMWY3MDgwZGY3NWE2NzEwMjA4YzdjNjBmYTkz`
+Snapshot ID: `MCwwNjg4OTlhYjJlMTgyN2NmYTM1M2NlY2E5NzFlMmVjYjJhMDc0NjE4`

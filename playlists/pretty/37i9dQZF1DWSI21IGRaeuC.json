@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 19084,
+  "num_followers": 19143,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmRhOGU2YjdlZTEzZWJmNzgzM2Y5NzZmMTI4ZmY3NzAzNDQzZDFk",
+  "snapshot_id": "MCwwZmRkMDI0OTI0ZTE0ZTQ4MjMzYmYwODQzMThhN2ZiYjI4NzQxNDhl",
   "tracks": [
     {
       "added_at": "2023-04-07 16:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Bionic Boy",
-        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 206265,
-      "name": "Bionic Boy",
-      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
+        "name": "Bionic Boy",
+        "url": "https://open.spotify.com/album/3TZ40t04vfJ9MvEZcdoqsg"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 206265,
+      "name": "Bionic Boy",
+      "url": "https://open.spotify.com/track/7byloGFJ8lO5d7cCxFXOIh"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
         "name": "Slim Shady",
         "url": "https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -695,18 +711,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
       },
       "artists": [
         {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
         }
       ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 417145,
       "name": "I Am Somebody",
       "url": "https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "N NIGHT",
-        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
-      },
-      "artists": [
-        {
-          "name": "Wheats",
-          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
-        }
-      ],
-      "duration_ms": 454000,
-      "name": "N NIGHT",
-      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Femme Tech",
         "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 382439,
       "name": "Femme",
       "url": "https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "N NIGHT",
+        "url": "https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "duration_ms": 454000,
+      "name": "N NIGHT",
+      "url": "https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
+      },
+      "artists": [
+        {
+          "name": "Marco Strous",
+          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
+        }
+      ],
+      "duration_ms": 321818,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
         "name": "Hush Hush EP",
         "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 243809,
       "name": "Flashback feat. Forrest",
       "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
-        "name": "LOL",
-        "url": "https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX"
-      },
-      "artists": [
-        {
-          "name": "Marco Strous",
-          "url": "https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i"
-        }
-      ],
-      "duration_ms": 321818,
-      "name": "LOL",
-      "url": "https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY"
     },
     {
       "added_at": "2023-04-07 16:00:00",

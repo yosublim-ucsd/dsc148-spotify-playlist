@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ebony
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,431 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,462 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 |
+| 1 | [5min](https://open.spotify.com/track/27AJfxwJCs8T2BxeVNbniw) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [5min](https://open.spotify.com/album/0TMUGXzv71hCms04QO2b8b) | 2:08 |
 | 2 | [Pensamentos Negativos](https://open.spotify.com/track/5r2ddsRZ5PPCECalOfZBVj) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Pensamentos Negativos](https://open.spotify.com/album/1d1n79fvIMJnUclallzcSj) | 2:20 |
 | 3 | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/track/0yZRkiCSy4ra9EykuYyGo0) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Toledo](https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30) | [Mandona \(Se eu te dissesse\)](https://open.spotify.com/album/2yvtupawElKVIkRkKQJpdK) | 2:07 |
 | 4 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCw2YjQ5MGE0NWZlYTUyOGJhNGI3MzFlM2YzMzkwY2YxZDg2ZTE4ZWQ3`
+Snapshot ID: `MCw4MzMwNjJlMTBkMWE3MmVhNGY5MTdkMTdmODYzMGI5NjgwYmQ3YTUz`

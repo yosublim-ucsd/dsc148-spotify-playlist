@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Niall Horan
 
-843 songs - 2 day 0 hr 55 min
+844 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/track/0pceDOsozyHPaki99kCSJQ) | [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Right Here \(feat\. Benny Sings\)](https://open.spotify.com/album/1FONSSx47AfEC6DBTumU2W) | 2:29 | 2023-02-19 | 2023-02-27 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-12 | 2023-03-27 |
 | [river relief](https://open.spotify.com/track/5LfrLmJ7Mnv9ZJOy3cROKk) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [river relief](https://open.spotify.com/album/4jGKhuY5FPaNYdiYn2KDmA) | 4:00 | 2023-03-05 | 2023-03-13 |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-30 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-30 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-04-30 |  |
 | [RODEO](https://open.spotify.com/track/3TNnABL3T1O4fsF3WU81oM) | [JAY'ED](https://open.spotify.com/artist/3vlAUneucinIokaOUeYbrv) | [RODEO](https://open.spotify.com/album/0FEnQ35sFw2yeSZLy4UQ6D) | 2:29 | 2023-04-30 |  |
 | [Roller Coasters Make Me Sad](https://open.spotify.com/track/15D8qDyRL6NuyxxmQRWosK) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Roller Coasters Make Me Sad](https://open.spotify.com/album/16M3QY0xlHJ1CtnmEwbiy1) | 3:11 | 2023-02-26 | 2023-03-06 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/72DWkd9AazMHYDafzpq4XF) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [mixtape](https://open.spotify.com/album/3kbR4fhps595HxImAmVHvY) | 3:07 | 2023-04-16 | 2023-05-01 |

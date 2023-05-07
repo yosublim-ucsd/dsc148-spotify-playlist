@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Mr. Pig en portada.",
-  "num_followers": 54336,
+  "num_followers": 54340,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODM3NWEyNGZiNzc3MGY3Mzc1MGNmNzQyNmYxMzEyNDBkNmRmNzEx",
+  "snapshot_id": "MCw1ODgwNTBlYmYwNjg1YzgxNTQ2MjU4MDg1MTJiZGQ0YjNhM2Q2NTk4",
   "tracks": [
     {
       "added_at": "2023-02-28 03:47:10",
@@ -783,22 +783,18 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "SWAP",
-        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
+        "name": "This Generation",
+        "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
       },
       "artists": [
         {
-          "name": "SAMMY & LESEN",
-          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
-        },
-        {
-          "name": "S & L",
-          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
+          "name": "Tadeo Fernandez",
+          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
         }
       ],
-      "duration_ms": 153750,
-      "name": "SWAP",
-      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
+      "duration_ms": 172800,
+      "name": "This Generation",
+      "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -823,18 +819,38 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "This Generation",
-        "url": "https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK"
+        "name": "SWAP",
+        "url": "https://open.spotify.com/album/79zRxuTTkqE9NexZ9ds3LH"
       },
       "artists": [
         {
-          "name": "Tadeo Fernandez",
-          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
+          "name": "SAMMY & LESEN",
+          "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
+        },
+        {
+          "name": "S & L",
+          "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 172800,
-      "name": "This Generation",
-      "url": "https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn"
+      "duration_ms": 153750,
+      "name": "SWAP",
+      "url": "https://open.spotify.com/track/2xfHRGswktlqJTfgccrZW4"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Give Me Your Heart (Somos Uno)",
+        "url": "https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1"
+      },
+      "artists": [
+        {
+          "name": "Sisster",
+          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Give Me Your Heart (Somos Uno)",
+      "url": "https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -855,22 +871,6 @@
       "duration_ms": 165250,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0dWg2HiCEYeufMGvJOapX6"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Give Me Your Heart (Somos Uno)",
-        "url": "https://open.spotify.com/album/5lg33u4vnAOXOobeLNqyR1"
-      },
-      "artists": [
-        {
-          "name": "Sisster",
-          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
-        }
-      ],
-      "duration_ms": 209267,
-      "name": "Give Me Your Heart (Somos Uno)",
-      "url": "https://open.spotify.com/track/4EHJhHKvitOo3ULmIzt4hx"
     },
     {
       "added_at": "2023-02-28 03:47:10",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
-      },
-      "artists": [
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        },
-        {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 159359,
       "name": "Covalent Bond",
       "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2022-08-02 18:48:01",

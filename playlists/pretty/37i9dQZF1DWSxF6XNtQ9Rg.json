@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 176245,
+  "num_followers": 176397,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmNjMDRlZjFhYmM0NmM5NjBjNWQ4N2YyNWJhNjNlYTU1YmJjNzM1",
+  "snapshot_id": "MCwyOTM4YzEwNTQ5ZjI0YjNlZDNkMzA0MjMzYzQwNjM5Mjk2NTQzNzYx",
   "tracks": [
     {
       "added_at": "2023-03-06 09:14:27",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3"
     },
     {
-      "added_at": "2023-05-06 00:51:52",
+      "added_at": "2023-05-07 00:13:11",
       "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 174727,
       "name": "10 RAGAZZE (con ERNIA)",
       "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Trap Lovers",
         "url": "https://open.spotify.com/album/4d4Uj2jua4sNA16D3XX6WW"
       },
@@ -1519,30 +1543,6 @@
       "duration_ms": 181866,
       "name": "Mon Cheri (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/66UkKyxN5YbJl9z7YamQOR"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        }
-      ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 151440,
-      "name": "Effe",
-      "url": "https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 245197,
       "name": "Salvador Dal\u00ec",
       "url": "https://open.spotify.com/track/4Dub4JaxFLCeb2NqFsLiZ2"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "Effe",
+      "url": "https://open.spotify.com/track/6RQjUikQBjV183yPTvrUvr"
     },
     {
       "added_at": "2023-03-06 09:14:27",

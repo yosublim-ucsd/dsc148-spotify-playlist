@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: grandson
 
-618 songs - 1 day 11 hr 0 min
+619 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 | 2023-03-24 |  |
 | [Hold Steady](https://open.spotify.com/track/6izZd7444tvwqzWVwR9wUV) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [I Will Destroy The Void In You / Hold Steady](https://open.spotify.com/album/6NucKcIcqnjZj9xutH9j3H) | 2:29 | 2021-12-31 | 2022-07-20 |
 | [Holes](https://open.spotify.com/track/6jauJgJ1vi8GoSnNm0hIh8) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Holes](https://open.spotify.com/album/5Cxjk0T00saPUUL46tQkSp) | 3:18 | 2021-12-31 | 2022-01-29 |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-03 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-05-05 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-03-03 | 2023-05-07 |
 | [Hollywood Hillbilly](https://open.spotify.com/track/0Xr4W3sOlaLU2yZJ28lQRn) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hollywood Hillbilly](https://open.spotify.com/album/4YSVTP1mfval5BPo6qygLf) | 2:35 | 2022-08-05 | 2022-10-08 |
 | [Homesick](https://open.spotify.com/track/19oBJOOS9fHtN8TRDBX6Os) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:13 | 2022-07-22 | 2022-08-06 |
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-18 | 2022-10-15 |

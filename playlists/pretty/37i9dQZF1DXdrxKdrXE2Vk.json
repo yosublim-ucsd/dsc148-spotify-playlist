@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curator, Sadie Roberston. ",
-  "num_followers": 871237,
+  "num_followers": 871319,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMwOWNjMWU3YWQ5ZjFjOWUxYTMyNWZhMzI2NjQyNTJjOGMyZWY1",
+  "snapshot_id": "MCw0NmEzZTk2NjhiMWZhYWEwZWRhMjQwYThhZmEwOWRhODIzNjM2M2Zi",
   "tracks": [
     {
       "added_at": "2023-04-14 05:05:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 522190,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -767,8 +767,8 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "House Of Miracles (Live)",
-        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
+        "name": "Gratitude - LIVE from Miracle Nights",
+        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
       },
       "artists": [
         {
@@ -776,29 +776,9 @@
           "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 453980,
-      "name": "House Of Miracles - Live",
-      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Here (Live)",
-        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 468208,
-      "name": "Come Alive (Resurrection Power) - Live",
-      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
+      "duration_ms": 418333,
+      "name": "Gratitude - LIVE from Miracle Nights",
+      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -819,6 +799,26 @@
       "duration_ms": 598982,
       "name": "I Am Your Beloved - Live",
       "url": "https://open.spotify.com/track/3wNS3dTyxxEQQdfDz3yFeK"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Here (Live)",
+        "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 468208,
+      "name": "Come Alive (Resurrection Power) - Live",
+      "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -911,8 +911,8 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Gratitude - LIVE from Miracle Nights",
-        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
+        "name": "House Of Miracles (Live)",
+        "url": "https://open.spotify.com/album/6XwSI6fu7MRZulAaOqcbwI"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 418333,
-      "name": "Gratitude - LIVE from Miracle Nights",
-      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
+      "duration_ms": 453980,
+      "name": "House Of Miracles - Live",
+      "url": "https://open.spotify.com/track/2Td9w1ZBDw7VPvERVudmDw"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1407,6 +1407,26 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "The Turning",
         "url": "https://open.spotify.com/album/6E9CCZc8nUZqridnjbTAgR"
       },
@@ -1431,26 +1451,6 @@
       "duration_ms": 304000,
       "name": "For My Good - Live",
       "url": "https://open.spotify.com/track/28Gfeq90t2QHflOtkBnWdp"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Bless His Name (Live from Urbana)",
-        "url": "https://open.spotify.com/album/6Paas7aU7k5o05Q1yL4JP2"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Kyle Howard",
-          "url": "https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo"
-        }
-      ],
-      "duration_ms": 582584,
-      "name": "Bless His Name / To Him Who Sits On the Throne - Live",
-      "url": "https://open.spotify.com/track/3wpiepnrK0D74xa4sFqv4a"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Pursuit (As The Deer) [Live]",
         "url": "https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F"
       },
@@ -1655,18 +1635,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Finished Work of Christ",
-        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
+        "name": "Bless His Name (Live from Urbana)",
+        "url": "https://open.spotify.com/album/6Paas7aU7k5o05Q1yL4JP2"
       },
       "artists": [
         {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Kyle Howard",
+          "url": "https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo"
         }
       ],
-      "duration_ms": 258161,
-      "name": "Finished Work of Christ",
-      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
+      "duration_ms": 582584,
+      "name": "Bless His Name / To Him Who Sits On the Throne - Live",
+      "url": "https://open.spotify.com/track/3wpiepnrK0D74xa4sFqv4a"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1707,22 +1691,18 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Belovedness (Live)",
-        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
+        "name": "Finished Work of Christ",
+        "url": "https://open.spotify.com/album/6nu4zmJTD6kQQNDZctv6Xl"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        },
-        {
-          "name": "Nathan Jess",
-          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Belovedness - Live",
-      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
+      "duration_ms": 258161,
+      "name": "Finished Work of Christ",
+      "url": "https://open.spotify.com/track/4dWde71yEtDlp61gLz3IUl"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1747,6 +1727,26 @@
       "duration_ms": 349560,
       "name": "Easy to Worship (Live in New Orleans)",
       "url": "https://open.spotify.com/track/2ZyhFZk3QlNuOkZCRGCITZ"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Belovedness (Live)",
+        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Nathan Jess",
+          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Belovedness - Live",
+      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 335849,
+      "name": "Lamb of God - Live",
+      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "Revival Nights (Pt. 2) [Live]",
         "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
       },
@@ -1863,26 +1883,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 335849,
-      "name": "Lamb of God - Live",
-      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Thin Place (Live)",
         "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
       },
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "Sing! In Christ Alone - Live At The Getty Music Worship Conference",
         "url": "https://open.spotify.com/album/7LieYsVEC7GO1SoImXO4rr"
       },
@@ -1951,18 +1967,26 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+        "name": "Living Breathing Miracle (Live)",
+        "url": "https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J"
       },
       "artists": [
         {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs"
+        },
+        {
+          "name": "Jeremiah Mateola",
+          "url": "https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY"
+        },
+        {
+          "name": "Rozanne Hodgetts",
+          "url": "https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl"
         }
       ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+      "duration_ms": 385574,
+      "name": "Remain - Live",
+      "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1983,22 +2007,6 @@
       "duration_ms": 476599,
       "name": "Leaning - Live",
       "url": "https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Good News (Live)",
-        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 266632,
-      "name": "Good News - Live",
-      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
     }
   ],
   "unique_name": "Best of Live Worship",

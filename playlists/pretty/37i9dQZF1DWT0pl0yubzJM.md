@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,221 likes - 35 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,233 likes - 35 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 21 | [Montañas de Agua](https://open.spotify.com/track/0zwHOcDekNtzpTbQ81dK7G) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trance Zomba](https://open.spotify.com/album/67kcVCT0DElUimIfyZ2MyS) | 3:29 |
 | 22 | [Príncipe Oscuro](https://open.spotify.com/track/3G51NUusBvLtwGOTCGlXzr) | [Carca](https://open.spotify.com/artist/2IepsVr1DGAWIy15lh6sxC) | [A un Millón de Años Blues](https://open.spotify.com/album/4xZBKEor9gCAUBZa3QuAVT) | 2:47 |
 | 23 | [Agujeros Negros](https://open.spotify.com/track/6ezOz2rI1ASy14JcgKZZxK) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Revolución](https://open.spotify.com/album/4ifo89f4dmFGOsB0Exme9O) | 2:38 |
-| 24 | [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 |
-| 25 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 |
+| 24 | [Post Crucifixion](https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 3:48 |
+| 25 | [Rockstar](https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn) | 4:29 |
 | 26 | [Weekend](https://open.spotify.com/track/6cXpVhsp9Ssfg9XuoqwjRK) | [DDT\(Demonios De Tasmania\)](https://open.spotify.com/artist/69jW8iAEWLTAcx7K21bY6v) | [Modelo 96](https://open.spotify.com/album/2ZwjZRXvyLPqhXLM4vkB5b) | 3:23 |
 | 27 | [Eclipse](https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4) | [Jaime Sin Tierra](https://open.spotify.com/artist/4KzLzaLD6kJcOElGcQplR5) | [El Avión Ya Se Estrelló Y Yo Sigo Volando](https://open.spotify.com/album/3KqOKuyjoZO6Ypng9STafB) | 2:23 |
 | 28 | [Lo Que Se Ve No Es Lo Real](https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt) | [Pez](https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh) | [Cabeza](https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F) | 4:00 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 34 | [Microman](https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Emporio Bizarro](https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC) | 3:54 |
 | 35 | [Travesia](https://open.spotify.com/track/2sGSP1vuehQ4B1fOW57j4G) | [Los Siete Delfines](https://open.spotify.com/artist/2xLKT7jhQNGm4lmivpjc1h) | [Los 7 Delfines](https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t) | 5:18 |
 
-Snapshot ID: `MCwzYTY2MTY3ODQ4OTk4MTViM2NmNGUyNWE0Mjg4YzQ1ZjVlZmYwOGU2`
+Snapshot ID: `MCxkOGU5ZmYxZjUyYWFhMjQ4NjAyY2E2MDA0ZWQ3MWI4YTU2MjM1NmM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 
 > This is Alkaline Trio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,480 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,493 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Df5sI.md) - [plain]
 | 49 | [I Can't Believe](https://open.spotify.com/track/0YqdsM9x9NtKUfwqooo6iV) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Is This Thing Cursed?](https://open.spotify.com/album/1qmUB0PQQDdu00WMpro2YC) | 4:01 |
 | 50 | [Fuck You Aurora](https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [Maybe I'll Catch Fire](https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m) | 4:49 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA1YmE3MzNjZmI2N2I3NTYzMTk4M2YxMDljODZmM2Q2Yw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA2NjA5NzdiNzIxNmFiOWMxMGNkZjE2YWUyYjhkZWNiNA==`

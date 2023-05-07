@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Sam Hunt",
-  "num_followers": 500346,
+  "num_followers": 500449,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjc1NWVhNzliYjk3ZDhiODQ4ZGU1N2FkODllOWYyZTkzNWI5MDBi",
+  "snapshot_id": "MCw4MjcwZTAxMzAyNDJhOWVmYjNmNTgxMGE2NTNjNzI5MWRmZjgwOTk4",
   "tracks": [
     {
       "added_at": "2023-05-03 15:56:06",
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 224213,
-      "name": "'Til You Can't",
-      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+      "duration_ms": 221520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
+      "duration_ms": 224213,
+      "name": "'Til You Can't",
+      "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Drinkaby",
-        "url": "https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 182893,
-      "name": "Drinkaby",
-      "url": "https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
         "name": "MACON",
         "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 212030,
       "name": "If I Didn't Love You",
       "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "Drinkaby",
+        "url": "https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 182893,
+      "name": "Drinkaby",
+      "url": "https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "You Didn\u2019t",
-      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+        "name": "Time, Tequila & Therapy",
+        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
       "artists": [
         {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 189306,
-      "name": "That's What Tequila Does",
-      "url": "https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei"
+      "duration_ms": 191360,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Time, Tequila & Therapy",
-        "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "That's What Tequila Does",
+      "url": "https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Sundown Somewhere",
-        "url": "https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e"
-      },
-      "artists": [
-        {
-          "name": "Restless Road",
-          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
-        }
-      ],
-      "duration_ms": 162841,
-      "name": "Sundown Somewhere",
-      "url": "https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "If I Was a Cowboy",
-        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+        "name": "Sundown Somewhere",
+        "url": "https://open.spotify.com/album/5RU0CcztDZ8Qtfy63fwH3e"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
         }
       ],
-      "duration_ms": 195013,
-      "name": "If I Was a Cowboy",
-      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
+      "duration_ms": 162841,
+      "name": "Sundown Somewhere",
+      "url": "https://open.spotify.com/track/3sT4lmGZF9Gy6XaLYvwH7A"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1675,6 +1659,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "If I Was a Cowboy",
+        "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "If I Was a Cowboy",
+      "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
     },
     {
       "added_at": "2023-05-03 15:56:06",

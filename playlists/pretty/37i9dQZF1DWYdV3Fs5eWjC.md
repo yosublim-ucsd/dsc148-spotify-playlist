@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,945 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,943 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 10 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 |
 | 11 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 |
 | 12 | [Material Girl](https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Imma Celebrity](https://open.spotify.com/album/1bdjA6LpTF8vkWLK983MRx) | 3:08 |
-| 13 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
-| 14 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 |
+| 13 | [Bikini Bottom](https://open.spotify.com/track/3ylgJvzFdjbcXNcxj9mXku) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/53cTBnSWosJkQCDPHzumvg) | 1:46 |
+| 14 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 |
 | 15 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 16 | [SWITCH](https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SWITCH](https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW) | 1:44 |
 | 17 | [Bisexual Anthem](https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU) | 3:07 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 35 | [Culture](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 |
 | 36 | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i), [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [Technicolor Love \(feat\. redveil\)](https://open.spotify.com/album/4HTdrR3aylcEuJQlyuH6Pn) | 3:14 |
 | 37 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
-| 38 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
-| 39 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
+| 38 | [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 |
+| 39 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 40 | [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 |
 | 41 | [Aye Day Pay Day](https://open.spotify.com/track/4FRldwNovP8muUNJi0TifE) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Aye Day Pay Day](https://open.spotify.com/album/2nln0OkUaKQIoPrirm15ZY) | 2:12 |
 | 42 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 |
 | 43 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 |
 | 44 | [Crushed Velvet](https://open.spotify.com/track/0OZu6gbkQRc6fNgtvpAB7q) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 3:17 |
 | 45 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 |
-| 46 | [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 |
-| 47 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
+| 46 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
+| 47 | [Down For It](https://open.spotify.com/track/5FhOCIqij24XZePzuJIOOp) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Down For It](https://open.spotify.com/album/7yL4gfHBtc66pNOA3Khs5y) | 3:15 |
 | 48 | [Little Deer](https://open.spotify.com/track/7GkNvyhBawJGjNkmKsyQjP) | [SPELLLING](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [The Turning Wheel](https://open.spotify.com/album/5Dqqrr1dhaZ3BcFthVUCj2) | 5:39 |
 | 49 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 |
 | 50 | [Got Her Own](https://open.spotify.com/track/5s7REbEOo8rf3qeC0A7vVS) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:05 |
 
-Snapshot ID: `MCw4ZTMyNmU4OGQxOWM2ZjUzMDY0YTkyNmNhNzY5MjM2NmU0MjNmZThk`
+Snapshot ID: `MCw5ZThlNTRiMWFkYTFkYTk4MDBhMDQyNDdjODNiNzNhMzkzNTZkYzRm`

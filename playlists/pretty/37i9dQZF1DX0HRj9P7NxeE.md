@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,762,045 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,762,174 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 8 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 |
 | 9 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
 | 10 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
-| 11 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
-| 12 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
+| 11 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
+| 12 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 13 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |
 | 14 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 |
 | 15 | [Throw It! \- Remix](https://open.spotify.com/track/6dWeY6hLC9yuxXG1gyRWIm) | [Spiffy The Goat](https://open.spotify.com/artist/5QKfLwrOBz4E24qpXufU32), [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Throw It! \(Remix\)](https://open.spotify.com/album/60KBQwjhp55GvpHvMbiJ3J) | 2:35 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 45 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 46 | [THICK \(feat\. Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/52ySvuxscDGsXUVsci1Kpa) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [THICK \(feat\. Megan Thee Stallion\) \[Remix\]](https://open.spotify.com/album/7oqb6dNNBKiukDeiaqAo5C) | 3:25 |
 | 47 | [Work Out](https://open.spotify.com/track/4ONoOH59Y95Ro9BrqfwojZ) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Mental Trillness](https://open.spotify.com/album/0n3k7ldAO73nGqiVZJUoZt) | 3:05 |
-| 48 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 |
-| 49 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 |
+| 48 | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [$100 Bill \(feat\. Ciara\)](https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0) | 3:04 |
+| 49 | [Wifey](https://open.spotify.com/track/5lb9WTRIe0geWjt5zRPTpy) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Wifey](https://open.spotify.com/album/37lHNd8jnQhYTOTrT2TC4J) | 2:03 |
 | 50 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
 
-Snapshot ID: `MCwyNzg4ZWU2N2NiODY4NmM0YzI4OTkyNjRhODIwMjg4ZTAzOTU2NTVi`
+Snapshot ID: `MCwzZjJjYjg0OWY5Mzg0YmRmN2IyZDY5Y2IwMTJmZjgyZTA1YjUxMzFi`

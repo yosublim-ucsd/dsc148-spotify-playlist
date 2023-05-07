@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 409268,
+  "num_followers": 409613,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2VkOWVhNGY5MDcyYjg4NzliODBlNDAzNzY3ZTYwNjQ0OTM5MTJk",
+  "snapshot_id": "MCw0MGU0NmE1YjlhNjkwODMxZGM2ZmQ3OGYzZjk5MTQ1NzFkNGJmODc3",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -767,22 +767,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Back to Beginning",
-        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+        "name": "Me Cura",
+        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
       },
       "artists": [
         {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
         },
         {
-          "name": "Talking Dirty",
-          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Ana Muller",
+          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
         }
       ],
-      "duration_ms": 195483,
-      "name": "Back to Beginning",
-      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
+      "duration_ms": 183652,
+      "name": "Me Cura",
+      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -807,26 +811,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Me Cura",
-        "url": "https://open.spotify.com/album/5U7TJkMbWO6bUejLuC5tV8"
+        "name": "Back to Beginning",
+        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
       },
       "artists": [
         {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
         },
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Ana Muller",
-          "url": "https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz"
+          "name": "Talking Dirty",
+          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Me Cura",
-      "url": "https://open.spotify.com/track/5a3IAYtuNWDaOYJfI7P6nZ"
+      "duration_ms": 195483,
+      "name": "Back to Beginning",
+      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Amor Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 158095,
       "name": "Amor Pra Recome\u00e7ar",
       "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/3akUV8y4pLkrrUA1Lbc2x9"
-      },
-      "artists": [
-        {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
-        }
-      ],
-      "duration_ms": 179016,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/6ukDui4jshflTw5yHIwIzE"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1087,26 +1087,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Rap Do Silva (Remix)",
-        "url": "https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7"
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
       "artists": [
         {
-          "name": "J\u00d8RD",
-          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "KOLTENS",
-          "url": "https://open.spotify.com/artist/12N1bl6AvzfnFv1NWDoDnE"
-        },
-        {
-          "name": "Bob Rum",
-          "url": "https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 140625,
-      "name": "Rap Do Silva (Remix)",
-      "url": "https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc"
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1135,22 +1131,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+        "name": "Rap Do Silva (Remix)",
+        "url": "https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "KOLTENS",
+          "url": "https://open.spotify.com/artist/12N1bl6AvzfnFv1NWDoDnE"
+        },
+        {
+          "name": "Bob Rum",
+          "url": "https://open.spotify.com/artist/2QEWAjgciLTeSmTgIL509r"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+      "duration_ms": 140625,
+      "name": "Rap Do Silva (Remix)",
+      "url": "https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Hoje Caminhei (Remix)",
         "url": "https://open.spotify.com/album/64mqFOvIwaPgfBIKw9XIap"
       },
@@ -1339,26 +1359,6 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Que Dia",
-        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
-      },
-      "artists": [
-        {
-          "name": "Zabot",
-          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
-        },
-        {
-          "name": "Serginho Moah",
-          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
-        }
-      ],
-      "duration_ms": 175546,
-      "name": "Que Dia",
-      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Nunca Fui Desse Lugar (DUX Remix) [Daparte feat. Lagum]",
         "url": "https://open.spotify.com/album/7ld1TzHKmvV2kjomArv5vu"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 177560,
       "name": "Nunca Fui Desse Lugar (DUX Remix) [Daparte feat. Lagum]",
       "url": "https://open.spotify.com/track/4e5RkL0LPzqmzlD5tIoWAO"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Que Dia",
+        "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
+      },
+      "artists": [
+        {
+          "name": "Zabot",
+          "url": "https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB"
+        },
+        {
+          "name": "Serginho Moah",
+          "url": "https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1"
+        }
+      ],
+      "duration_ms": 175546,
+      "name": "Que Dia",
+      "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
     }
   ],
   "unique_name": "Festa na Praia",

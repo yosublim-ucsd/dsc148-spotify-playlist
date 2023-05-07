@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 
 > This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292 likes - 16 songs - 24 min 33 sec
+[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 16 songs - 24 min 33 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,4 +25,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Wf5EQ.md) - [plain]
 | 15 | [Kentucky State Championship 1963](https://open.spotify.com/track/5LuS85cUwjH3vXXjUPrbqW) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:12 |
 | 16 | [Whitey](https://open.spotify.com/track/6jLxuzZXNR2XjD91OMJhUX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:23 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAwNDI0MzE0Zjc5ZmRiMDQ1OTI0MDU0NGZkZjNlN2E4Nw==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBhYmYxNmJhMjAxOGFlNGQ1NzFjNTA3MjY5ZjUyYTJjNg==`

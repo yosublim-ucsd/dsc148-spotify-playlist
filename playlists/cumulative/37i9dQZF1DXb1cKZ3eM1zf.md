@@ -4,7 +4,7 @@
 
 > Het beste van meer dan 50 jaar Pinkpop!
 
-506 songs - 1 day 10 hr 30 min
+507 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Blue](https://open.spotify.com/track/62GWjyFCvpuysYTIQ7B0CG) | [The Jayhawks](https://open.spotify.com/artist/2UDplVRprMbazU74Hq8OLl) | [Tomorrow The Green Grass \(Legacy Edition\)](https://open.spotify.com/album/5ExzKfP1rQL45Wy9awxAUx) | 3:09 | 2019-03-11 |  |
 | [Body And Soul?](https://open.spotify.com/track/1KbNgewni1zU25NvDIfWBo) | [Thelonious Monster](https://open.spotify.com/artist/79wfwGHz2ByenSDM0VaB70) | [Beautiful Mess](https://open.spotify.com/album/70NhJckf0Sjh37ZBG1Hvr2) | 3:39 | 2019-03-11 |  |
 | [Bohemian Like You](https://open.spotify.com/track/0yEhNqCwEfy8LHUmnZoHpP) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Thirteen Tales From Urban Bohemia](https://open.spotify.com/album/0vdIT4p5OlKOcEzYKSsqn4) | 3:31 | 2019-03-11 |  |
-| [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 | 2019-03-11 |  |
+| [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 | 2019-03-11 | 2023-05-07 |
+| [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/7kZgIvKhFV57Xo5JGcSLmY) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Sports Anthems](https://open.spotify.com/album/6w0aYme7Q5ewujE59yTSLX) | 4:24 | 2019-03-11 |  |
 | [Boyfriend \(Repeat\)](https://open.spotify.com/track/0iYPKdzOG6zpIE8oYiFVqY) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Confident Music for Confident People](https://open.spotify.com/album/6cFtbFopkNavSUIxxqkLAl) | 4:09 | 2019-03-13 |  |
 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 | 2019-03-11 |  |
 | [Breathing](https://open.spotify.com/track/3ZxYruWUtA4WNlWvO2gDPW) | [Oscar and the Wolf](https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV) | [Breathing](https://open.spotify.com/album/3jOJnLj3EF9OKWsq2wREaL) | 3:50 | 2019-03-11 |  |

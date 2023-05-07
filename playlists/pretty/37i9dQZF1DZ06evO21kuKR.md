@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,813 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,848 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 |
 | 51 | [Wat3va I’m Wit](https://open.spotify.com/track/0Ys4jRPeQWfe4mMmoTgK9r) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 3:15 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAyOGU3ZDRlYTRkMDAzNmEwNjNjM2E2ZGUwYWMzMWQyMg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAxNmI3ZmY5Njk3YWI0MTU5YTYzNjdhN2IwYWIzYzBjZg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,720 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,733 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 49 | [The Stories I Tell Myself](https://open.spotify.com/track/1UJkVw5TWwJDyMQp0VhQxP) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6b008GE6li0fwoIQdjzWpv) | 3:53 |
 | 50 | [Adoration \(Live\)](https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:59 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDBiMzFlYTZiYjI4MDJiZDgzOWNmMTgxZWExYWE3MjU3Zg==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDA5OTRiY2IyOTY1MWNkZjhiOWMwY2VlMjk0NDg4YTE5ZQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 225710,
+  "num_followers": 225995,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzY2MDdmNzU1YTJhZjMwYzU0YWExYWJhNTMzY2MwOGJiM2M0ZWE5",
+  "snapshot_id": "MCw3ODVjYWQwYTlhZjc4Y2MwNGFiNzRkNmI3MTBkOTc4ZGQ5ZmRjMTJk",
   "tracks": [
     {
       "added_at": "2022-08-24 01:39:55",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "Te Mando Flores",
-      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Soy el Mismo",
         "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 206933,
       "name": "Darte un Beso",
       "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Te Mando Flores",
+      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -827,18 +843,34 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 246640,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Millenium Hits",
+        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 281260,
+      "name": "Persona Ideal",
+      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -863,38 +895,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Millenium Hits",
-        "url": "https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 281260,
-      "name": "Persona Ideal",
-      "url": "https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 246640,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/3mx8WfEOjeUB1a0fpFxQmi"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 293106,
-      "name": "Tu Eres Ajena",
-      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
         "name": "Grandes Hits",
         "url": "https://open.spotify.com/album/6Q2UpW0s9cDeZ59bCd5CYL"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 259440,
       "name": "Azul",
       "url": "https://open.spotify.com/track/6pHCJmx9FXnMwEqB0LWUEH"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 293106,
+      "name": "Tu Eres Ajena",
+      "url": "https://open.spotify.com/track/1jD48pmiHMSVHHPzKLi4P3"
     },
     {
       "added_at": "2022-08-24 01:39:55",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2022-08-24 01:39:55",
       "album": {
+        "name": "Pafuera Telara\u00f1as",
+        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
+      },
+      "artists": [
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
+    },
+    {
+      "added_at": "2022-08-24 01:39:55",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 275440,
       "name": "Sue\u00f1os (with Julieta Venegas) - MTV Unplugged",
       "url": "https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV"
-    },
-    {
-      "added_at": "2022-08-24 01:39:55",
-      "album": {
-        "name": "Pafuera Telara\u00f1as",
-        "url": "https://open.spotify.com/album/3B8sRsQWEcVVeo3msMowPB"
-      },
-      "artists": [
-        {
-          "name": "Bebe",
-          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
     },
     {
       "added_at": "2022-08-24 01:39:55",

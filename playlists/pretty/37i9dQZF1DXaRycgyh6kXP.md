@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,376 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,522 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 27 | [Kindness](https://open.spotify.com/track/7mY3gSbmqBfMqKv0cCyXJl) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Kindness](https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV) | 2:36 |
 | 28 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 29 | [Marilyn](https://open.spotify.com/track/75gwWphI9gXlNV0xDyixMw) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/2QlIw88KfFlC3P0nLcWSKs) | 4:11 |
-| 30 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
-| 31 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
+| 30 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
+| 31 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
 | 32 | [Soon It Will Be Cold Enough to Build Fires](https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Soon It Will Be Cold Enough](https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU) | 3:00 |
 | 33 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
 | 34 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 87 | [Natura Sophia](https://open.spotify.com/track/4fvdvPzBIy9FGGqrNCM0lT) | [Isaac Symonds](https://open.spotify.com/artist/7mvHnjqntcNNecYAHHbdM2), [Yaehsun](https://open.spotify.com/artist/2EzEflueqj8hSyiCNSTxbB) | [Natura Sophia](https://open.spotify.com/album/1m9tfsXeu1A6GOh7lzVphq) | 4:03 |
 | 88 | [Holding Hands](https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Holding Hands](https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J) | 2:50 |
 | 89 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
-| 90 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 |
-| 91 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
-| 92 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
-| 93 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
-| 94 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
-| 95 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
-| 96 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
-| 97 | [Light Bodied](https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 3:01 |
+| 90 | [Walking Flames](https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:10 |
+| 91 | [Promise](https://open.spotify.com/track/7tasS3I1UPfb4i1YsNiLst) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Promise](https://open.spotify.com/album/6a6QDSVW69j9RM5o0VqwTv) | 3:29 |
+| 92 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Lost At Sea \(Kelly Moran remix\)](https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE) | 4:56 |
+| 93 | [You're the One](https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG) | [S+C+A+R+R](https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw) | [I Lost My Body \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG) | 2:47 |
+| 94 | [Passing By \- 2019 remaster](https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [Far Away Trains Passing By](https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ) | 6:37 |
+| 95 | [Implosion\-Explosion](https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Tunnel and the Clearing](https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV) | 5:33 |
+| 96 | [Light Bodied](https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 3:01 |
+| 97 | [Talisman](https://open.spotify.com/track/6v6cuaxCnIAnnFrMcJLrc6) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Encores 2](https://open.spotify.com/album/2C2LdCgWMw6MkJ5RGJi5eg) | 4:02 |
 | 98 | [Saccade](https://open.spotify.com/track/4FY4aLVlOZbOs5y9W5LnEh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Dissolvi](https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie) | 4:09 |
 | 99 | [The Feeling \(Of Warmth And Beauty\)](https://open.spotify.com/track/1RHS3g5lqOhVqrPbimpjYD) | [Richard H\. Kirk](https://open.spotify.com/artist/5rxz5YppRuE4L1XH5o6uHr) | [Virtual State](https://open.spotify.com/album/7M5rzBraccybLpiYBSpty0) | 6:08 |
 | 100 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
 
-Snapshot ID: `MCxlYjZkYThhZGM4YTAwNGVlNTNmMDlhZTEyMzExM2RmMjYzZDQxYmZi`
+Snapshot ID: `MCxmZGQ1MjU5OTZmNjZjM2FkMjFiM2Y1NmY5NjY5ZWZmOGI2NzcxMDA3`

@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked tasty jams. Cover: Grateful Dead",
-  "num_followers": 25082,
+  "num_followers": 25242,
   "original_name": "The Lot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZmY2N2QxYmUzYTMzMmI0YjgxNTAwYTgzZmM0OGFiNWMyNWNiZTI0",
+  "snapshot_id": "MCwxYWJlYmM1MmM2ZjkyY2NiZDM5NWFjZmFhNjVhODNhYTVlYjY2MDM5",
   "tracks": [
     {
       "added_at": "2023-04-06 15:04:32",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Funk",
-        "url": "https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X"
-      },
-      "artists": [
-        {
-          "name": "Keller Williams",
-          "url": "https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0"
-        }
-      ],
-      "duration_ms": 379426,
-      "name": "West L.A. Fade Away",
-      "url": "https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Dose",
         "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 407040,
       "name": "Thorazine Shuffle",
       "url": "https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Funk",
+        "url": "https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X"
+      },
+      "artists": [
+        {
+          "name": "Keller Williams",
+          "url": "https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0"
+        }
+      ],
+      "duration_ms": 379426,
+      "name": "West L.A. Fade Away",
+      "url": "https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -543,6 +543,22 @@
       "duration_ms": 740520,
       "name": "Gilbert's Groove (feat. Neal Casal)",
       "url": "https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Free Somehow",
+        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
+      },
+      "artists": [
+        {
+          "name": "Widespread Panic",
+          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -595,6 +611,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Dose",
+        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 417226,
+      "name": "She Said, She Said",
+      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
         "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
       },
@@ -643,38 +675,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dose",
-        "url": "https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "She Said, She Said",
-      "url": "https://open.spotify.com/track/0KOkbfFlR0G2rt6dWOIfLB"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Free Somehow",
-        "url": "https://open.spotify.com/album/3NTvjstNCuHeeFXkOM8wyw"
-      },
-      "artists": [
-        {
-          "name": "Widespread Panic",
-          "url": "https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/3F78T25BJK5VVQN77Rg6Dh"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "After Midnight: Kean College, 2/28/80",
         "url": "https://open.spotify.com/album/1rSxuSgBdp3ErOgCJ0VOcN"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Alive and Well",
-        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
-      },
-      "artists": [
-        {
-          "name": "Goose",
-          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
-        }
-      ],
-      "duration_ms": 1019624,
-      "name": "Hot Tea (8.10.19)",
-      "url": "https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Live Art",
         "url": "https://open.spotify.com/album/4INyHv55ddXe0A2TNvKezm"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 326560,
       "name": "Stomping Grounds - Live Version",
       "url": "https://open.spotify.com/track/2OvXjotV5Ro6NY1lPxXdQY"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Alive and Well",
+        "url": "https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "duration_ms": 1019624,
+      "name": "Hot Tea (8.10.19)",
+      "url": "https://open.spotify.com/track/3vM6d0LGwzhjmpry8GlW6w"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
+        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
+        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+      },
+      "artists": [
+        {
+          "name": "Phil Lesh & Communion",
+          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+        }
+      ],
+      "duration_ms": 1020206,
+      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
+      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
         "name": "There and Back Again",
         "url": "https://open.spotify.com/album/5iiVRYSRpc2DIU1efD3prj"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Dear Jerry: Celebrating The Music Of Jerry Garcia (Live)",
-        "url": "https://open.spotify.com/album/56MqXoKUl5SS1fLEPKttjj"
+        "name": "Where the Fields Grow Green",
+        "url": "https://open.spotify.com/album/7JqbpiUNAaS3todERMHPe4"
       },
       "artists": [
         {
-          "name": "Phil Lesh & Communion",
-          "url": "https://open.spotify.com/artist/1eK2zkZVf7KO6KXsYTgekm"
+          "name": "Ekoostik Hookah",
+          "url": "https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo"
         }
       ],
-      "duration_ms": 1020206,
-      "name": "The Wheel / Uncle John\u2019s Band - Medley / Live",
-      "url": "https://open.spotify.com/track/40UyZ0DIZeZrGRDMyqoS09"
+      "duration_ms": 310160,
+      "name": "Hookahville",
+      "url": "https://open.spotify.com/track/689YCmfvWFL5v07lc8DeCo"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -963,18 +979,18 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Where the Fields Grow Green",
-        "url": "https://open.spotify.com/album/7JqbpiUNAaS3todERMHPe4"
+        "name": "Live From The Fall",
+        "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
       },
       "artists": [
         {
-          "name": "Ekoostik Hookah",
-          "url": "https://open.spotify.com/artist/7cFHCaii8AgdXSOXVf0lAo"
+          "name": "Blues Traveler",
+          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
         }
       ],
-      "duration_ms": 310160,
-      "name": "Hookahville",
-      "url": "https://open.spotify.com/track/689YCmfvWFL5v07lc8DeCo"
+      "duration_ms": 281960,
+      "name": "Regarding Steven",
+      "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -999,22 +1015,6 @@
       "duration_ms": 645680,
       "name": "The Harder They Come (feat. B\u00e9la Fleck) - Live",
       "url": "https://open.spotify.com/track/7LKpi9pOnm3m89jTO8MhJu"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
-        "name": "Live From The Fall",
-        "url": "https://open.spotify.com/album/52LFpW06z2rStTaLi2lLdV"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Regarding Steven",
-      "url": "https://open.spotify.com/track/0gpMBu0S5MXAKWekGWZ1Iy"
     },
     {
       "added_at": "2023-04-06 15:04:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-06 15:04:32",
       "album": {
-        "name": "Live at House of Blues Boston (12/31/2018)",
-        "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
-      },
-      "artists": [
-        {
-          "name": "Twiddle",
-          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
-        }
-      ],
-      "duration_ms": 430066,
-      "name": "Lost in the Cold (Live)",
-      "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
-    },
-    {
-      "added_at": "2023-04-06 15:04:32",
-      "album": {
         "name": "Leftover Salmon: Live",
         "url": "https://open.spotify.com/album/5dtrGyP5IdOUcXXBGRr1yM"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 763266,
       "name": "Railroad Highway",
       "url": "https://open.spotify.com/track/6hYWzQahtAyysqR5ndtvLr"
+    },
+    {
+      "added_at": "2023-04-06 15:04:32",
+      "album": {
+        "name": "Live at House of Blues Boston (12/31/2018)",
+        "url": "https://open.spotify.com/album/6FfVpYu80vNyLyT4mvl8HZ"
+      },
+      "artists": [
+        {
+          "name": "Twiddle",
+          "url": "https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12"
+        }
+      ],
+      "duration_ms": 430066,
+      "name": "Lost in the Cold (Live)",
+      "url": "https://open.spotify.com/track/4e5tDZD2DTIcxa7EmJTUY0"
     },
     {
       "added_at": "2023-04-06 15:04:32",

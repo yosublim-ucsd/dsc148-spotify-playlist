@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 > This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,730 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,754 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Mundo De Papel](https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mundo De Papel](https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR) | 3:42 |
 | 50 | [Chip S \(Metal Version\)](https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Chip S \(Metal Version\)](https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2) | 3:13 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDAzYWIwOWRkODg5Njg5YWUyM2RhMmFjYWM3YTFkMDdmZA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBjZDI1Y2JmNzg0ZDlkYjk5MmE1NmE0NWQ2OWQwMTJmNA==`

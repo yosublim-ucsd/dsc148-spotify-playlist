@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 58331,
+  "num_followers": 58473,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmM5ZDY3MmY0MzY4OGM3YmQwYWFjOTVlMTM2MmZlNTYwOWZkMzQy",
+  "snapshot_id": "MCwxNzY1YzAzODI3ZTIzZDE0M2EzYjM1ZTMwYzExZjVhYWEyOWM3MGZh",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Cassadaga",
-        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 256262,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Wilco (The Album)",
         "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 205240,
       "name": "You and I",
       "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Cassadaga",
+        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 256262,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Music For A French Elevator And Other Oddities",
-        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
-      },
-      "artists": [
-        {
-          "name": "The Books",
-          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Cello Song Feat. Jose Gonzales",
-      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Music For A French Elevator And Other Oddities",
+        "url": "https://open.spotify.com/album/4naPotuOdRMQga4C8ZAm2C"
+      },
+      "artists": [
+        {
+          "name": "The Books",
+          "url": "https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Cello Song Feat. Jose Gonzales",
+      "url": "https://open.spotify.com/track/55Q6Pf0xufUM8MEjbqEfcp"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Convict Pool",
         "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
       },
@@ -1403,6 +1403,22 @@
       "duration_ms": 204480,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 418200,
+      "name": "I Am Trying to Break Your Heart",
+      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1451,22 +1467,6 @@
       "duration_ms": 317173,
       "name": "Knife",
       "url": "https://open.spotify.com/track/2L7DZcRNEA7ZGiaHC6vlJw"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 418200,
-      "name": "I Am Trying to Break Your Heart",
-      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Advisory Committee",
+        "url": "https://open.spotify.com/album/0gQWuaPBjGRe4S4lV7gtlC"
+      },
+      "artists": [
+        {
+          "name": "Mirah",
+          "url": "https://open.spotify.com/artist/5AZHg5fZjuN4FzGUnaiQcj"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "Special Death",
+      "url": "https://open.spotify.com/track/5kRgOJD7wN77OHjiGhkpjL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "The Animal Years",
         "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 250013,
       "name": "Painter in Your Pocket",
       "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Woman King",
-        "url": "https://open.spotify.com/album/5bD1I8I6SMNoysShNdTJa3"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 307013,
-      "name": "Jezebel",
-      "url": "https://open.spotify.com/track/66uRb1ytl0l3PHAAAjqySU"
     }
   ],
   "unique_name": "00s Indie Folk",

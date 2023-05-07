@@ -4,7 +4,7 @@
 
 > Pop para refrescarte los días, featuring Chesca.
 
-69 songs - 3 hr 35 min
+70 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 | 2023-04-04 |  |
 | [Break](https://open.spotify.com/track/7J0JOQbmOm9u78T2esQS5p) | [Pau Mueller](https://open.spotify.com/artist/2o0cdt1TrTZSh2NssVL1ko) | [Break](https://open.spotify.com/album/0ZDZYvpfOogYbs4rTsGOW6) | 3:25 | 2023-04-04 | 2023-04-15 |
 | [Como Tú y Yo](https://open.spotify.com/track/5epkD1MXbSjJTvQexDE3Q9) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Como Tú y Yo](https://open.spotify.com/album/3IsvaEBEofbtXoVRRTK7jT) | 3:12 | 2023-04-04 |  |
-| [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-04-04 |  |
+| [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 | 2023-04-04 | 2023-05-07 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-04-04 |  |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-04-04 |  |
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-04-28 |  |
@@ -44,6 +44,7 @@
 | [LA FALTA QUE ME HACES](https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES](https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT) | 3:00 | 2023-04-21 |  |
 | [La Idea](https://open.spotify.com/track/5hbx6fWt9jt9dWSOHK3uGb) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [La Idea](https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU) | 3:14 | 2023-04-04 |  |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-04-04 |  |
+| [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-05 |  |
 | [Lentamente](https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:04 | 2023-04-21 |  |
 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 | 2023-04-04 |  |
 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 | 2023-04-04 |  |

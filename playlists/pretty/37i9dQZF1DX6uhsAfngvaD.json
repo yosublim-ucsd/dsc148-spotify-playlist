@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 280923,
+  "num_followers": 280981,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzQyMmRmYzAyYmU3NTJhNjIzYWYwYThjY2ZhNWIyMTFlZDg1YjBl",
+  "snapshot_id": "MCxiMmRiOWVmZDllOGIxMDUyZjJmMDAzZjIzMGI3OTM2OWIzYTQ0MjAx",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "The Clouds Cleared the Way",
-        "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
-      },
-      "artists": [
-        {
-          "name": "Shane Tyler",
-          "url": "https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "The Clouds Cleared the Way",
-      "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Deceiver",
         "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 265466,
       "name": "Skin Game",
       "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "The Clouds Cleared the Way",
+        "url": "https://open.spotify.com/album/2GajVRWAWcqYuEcYZTLIn8"
+      },
+      "artists": [
+        {
+          "name": "Shane Tyler",
+          "url": "https://open.spotify.com/artist/05hDnhvWwtQKibC73ksjQS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "The Clouds Cleared the Way",
+      "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+        "name": "Heavy Days",
+        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
       },
       "artists": [
         {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
         }
       ],
-      "duration_ms": 152307,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
+      "duration_ms": 227683,
+      "name": "Heavy Days",
+      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Heavy Days",
-        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
+        "name": "Notice Me",
+        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
         }
       ],
-      "duration_ms": 227683,
-      "name": "Heavy Days",
-      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
+      "duration_ms": 152307,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -847,6 +847,22 @@
       "duration_ms": 258876,
       "name": "Jeune",
       "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Days",
+        "url": "https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc"
+      },
+      "artists": [
+        {
+          "name": "No Vacation",
+          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
+        }
+      ],
+      "duration_ms": 320328,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -935,22 +951,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Days",
-        "url": "https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc"
-      },
-      "artists": [
-        {
-          "name": "No Vacation",
-          "url": "https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq"
-        }
-      ],
-      "duration_ms": 320328,
-      "name": "Days",
-      "url": "https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "What Are You so Afraid Of",
         "url": "https://open.spotify.com/album/3MZSEI7ImutXhDjC7kS7T4"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 147573,
       "name": "What Are You so Afraid Of",
       "url": "https://open.spotify.com/track/5NwyQFaZbL6w8SaFcPFDn8"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Polymorphe",
-        "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Polymorphe",
+        "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Smothered",
         "url": "https://open.spotify.com/album/21zwExLy0H0BDbrIb0J2DC"
       },
@@ -1011,38 +1011,6 @@
       "duration_ms": 166453,
       "name": "What Does It Mean To Me?",
       "url": "https://open.spotify.com/track/0fQMFvcUD9j1SBFRoTHxnL"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Shadam",
-        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
-      },
-      "artists": [
-        {
-          "name": "Camp Claude",
-          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Shadam",
-      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 195225,
-      "name": "Picnic In The Rain",
-      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1079,6 +1047,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 195225,
+      "name": "Picnic In The Rain",
+      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Full Hand",
         "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 166000,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/1n5dQpgnlJaMxg29J2vhW2"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Shadam",
+        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
+      },
+      "artists": [
+        {
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Shadam",
+      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Jay II",
-        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
-      },
-      "artists": [
-        {
-          "name": "Jay Arner",
-          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Earth to Jay",
-      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "You and Me",
         "url": "https://open.spotify.com/album/4WmQIWuFrxPQc7Ae3LKDUQ"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 225618,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/4KE91Xg3FL51yMhnpSqRvE"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Jay II",
+        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
+      },
+      "artists": [
+        {
+          "name": "Jay Arner",
+          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Earth to Jay",
+      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Music for the Future",
-        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
-      },
-      "artists": [
-        {
-          "name": "LANNDS",
-          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Overseas/BACK 2 U",
-      "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Twin Heavy",
         "url": "https://open.spotify.com/album/6LFY3DlCGt04t3LY9NjNIC"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 225732,
       "name": "Damn I'm Tired",
       "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Music for the Future",
+        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Overseas/BACK 2 U",
+      "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
     }
   ],
   "unique_name": "Dreampop",

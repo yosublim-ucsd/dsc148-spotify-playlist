@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ"> Suté Iwar</a>
 
-376 songs - 18 hr 39 min
+377 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,8 @@
 | [REALLY NEED](https://open.spotify.com/track/4GAks9f8yY8OVTChkfmHev) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 2:57 | 2023-02-16 |  |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 | 2023-02-24 |
 | [Relate](https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Relate](https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw) | 2:48 | 2023-03-03 | 2023-03-18 |
-| [Reset](https://open.spotify.com/track/0Q6jkBbLRzXz4KbsV5UNR3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/73hyqkKdESZxZTmlJ8Per4) | 3:08 | 2023-05-04 |  |
+| [Reset](https://open.spotify.com/track/0Q6jkBbLRzXz4KbsV5UNR3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/73hyqkKdESZxZTmlJ8Per4) | 3:08 | 2023-05-04 | 2023-05-07 |
+| [Reset](https://open.spotify.com/track/1jTwBWxpS7qBJCRLjBbzQb) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P) | [Reset](https://open.spotify.com/album/1TTBkJTbLUBKE8JgKf1Weh) | 3:08 | 2023-05-04 |  |
 | [Rest My Case](https://open.spotify.com/track/54I5MSvbijyqMfB0Ci0Lvc) | [Kvngs](https://open.spotify.com/artist/1SxJBIJJbaj2fpni5DNoXU) | [Rest My Case](https://open.spotify.com/album/0ipjnPpQ0CCJneCcZmyyZK) | 3:12 | 2023-03-17 |  |
 | [Role Play](https://open.spotify.com/track/3oUdNYvhRC7DMvohtBvVn9) | [Freddy Hayz](https://open.spotify.com/artist/51RsadtO7G3XBK4yNT78bP) | [Role Play](https://open.spotify.com/album/2JfD9jkyjHiuokDgKTwkgk) | 2:55 | 2023-01-27 | 2023-03-11 |
 | [Royalty](https://open.spotify.com/track/6y5vkAMps3BAnwbzPhFPVT) | [Keziah Mallam](https://open.spotify.com/artist/4mzTknGC25KKZ5zq8vSxAs), [RnB Princess](https://open.spotify.com/artist/0QKFXBU0ZhrSCJIAsOIjgg), [Beezyx](https://open.spotify.com/artist/0r6sAkbsRJkBbmxYlh4cso) | [Royalty](https://open.spotify.com/album/7EHtA9gPUvQqgTS886DeJg) | 3:33 | 2023-03-30 |  |

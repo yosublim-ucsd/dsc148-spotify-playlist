@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,524 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,705 likes - 70 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,22 +61,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 51 | [Lights Up \- Myd Remix](https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Lights Up \(Myd Remix\)](https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR) | 3:35 |
 | 52 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 53 | [porco rosso](https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS) | 3:39 |
-| 54 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
-| 55 | [Sexy Black Timberlake](https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Moses](https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do) | 3:43 |
+| 54 | [Sexy Black Timberlake](https://open.spotify.com/track/5egIRcN7Oq5zx1aZwHKGwi) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Moses](https://open.spotify.com/album/7qVDenYLhKEuQNZnP5h5Do) | 3:43 |
+| 55 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 | 56 | [Everything Is Going To Be Alright](https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Everything Is Going To Be Alright](https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148) | 3:46 |
 | 57 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 |
 | 58 | [Fragments](https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Jodie Knight](https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:03 |
-| 59 | [Better By Your Side](https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm) | [Aeble](https://open.spotify.com/artist/1IqFYT4c7jv5jTNSNKi3ig), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Better By Your Side](https://open.spotify.com/album/75ElI0tETDWBJksIrZlFD0) | 5:19 |
-| 60 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
-| 61 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
-| 62 | [Voyage](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 |
+| 59 | [Voyage](https://open.spotify.com/track/7ochILP42boyfaJITMUMGF) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Voyage](https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA) | 4:45 |
+| 60 | [Better By Your Side](https://open.spotify.com/track/33lTQD1Pyh4AFlj7avgfWm) | [Aeble](https://open.spotify.com/artist/1IqFYT4c7jv5jTNSNKi3ig), [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Better By Your Side](https://open.spotify.com/album/75ElI0tETDWBJksIrZlFD0) | 5:19 |
+| 61 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 |
+| 62 | [TEMPO](https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [TEMPO](https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu) | 3:59 |
 | 63 | [One of Those Nights](https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC) | [Didier Armeni](https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka) | [One of Those Nights](https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq) | 3:43 |
-| 64 | [IT WON’T DO \- MAFRO Remix](https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [IT WON’T DO \(MAFRO Remix\)](https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS) | 5:10 |
-| 65 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
+| 64 | [Burnt Orange \- Edit](https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 4:31 |
+| 65 | [IT WON’T DO \- MAFRO Remix](https://open.spotify.com/track/597VPWWuiNG3IrtcSmuf5a) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [IT WON’T DO \(MAFRO Remix\)](https://open.spotify.com/album/1FykaudvXZXg1Iaq8WvfSS) | 5:10 |
 | 66 | [Are U Down \- Remix](https://open.spotify.com/track/0GyPmdjs3YBPCfWccCBxPD) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us / Are U Down](https://open.spotify.com/album/73rAUSm45jVN9L5oAtUaIV) | 4:00 |
 | 67 | [Moonbeam, Midnight, Howl](https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:41 |
 | 68 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 |
 | 69 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
 | 70 | [Interior \- Edit](https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Interior](https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML) | 3:48 |
 
-Snapshot ID: `MCwwZWJiMjEwOThjNmUzZjI5YTRiMmFjMjJjNDBmOGU0MmFjNTU4MTVm`
+Snapshot ID: `MCxkMTVmNTNjYWUyNjE1MDI5OTVkN2JlNDg0YmQzNDA1YzkxNjBkODYw`

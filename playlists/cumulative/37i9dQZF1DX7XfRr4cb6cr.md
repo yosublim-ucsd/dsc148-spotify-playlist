@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-213 songs - 18 hr 49 min
+214 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 | 2022-01-21 | 2023-04-30 |
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4IHPv1BTBH3wvYTskeN1dA) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/0qE9e3IrcAUln0LiXUcB14) | 3:41 | 2022-01-28 | 2022-07-29 |
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4w0hEOSam21FwnUteS9rxl) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/1lsP6JqNGnwuSRhb5eYBfK) | 3:41 | 2022-08-05 |  |
+| [Dark Winter](https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Dark Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0htBWUZ75jV9nmlcqVOXwE) | 1:47 | 2023-04-21 |  |
 | [Dead People's Things](https://open.spotify.com/track/1jQhHBdhnaZv5q67sHA1uK) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5V3rLsAGpM63kE3SLPAMDW) | 18:35 | 2022-01-21 | 2022-07-29 |
 | [Dead People's Things](https://open.spotify.com/track/26slB6pfz5F8T723pMq32K) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z) | 18:35 | 2022-07-22 |  |
 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 | 2022-01-21 |  |
@@ -150,7 +151,7 @@
 | [Rakas](https://open.spotify.com/track/55Lz2Y0x9gu0Vh7yTIk6Dj) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Rakka II](https://open.spotify.com/album/5y0y4UtptE7P7p8SZFgAZT) | 3:42 | 2022-01-21 | 2022-07-29 |
 | [Rendering Intuitions](https://open.spotify.com/track/1JsRDrH5qt8QV5wqMOjQfk) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Born Again In The Voltage](https://open.spotify.com/album/357UFd2FDdnDRYS3IdyhJs) | 6:36 | 2022-01-28 | 2022-07-17 |
 | [Retrato](https://open.spotify.com/track/4i3zoVPfErzbpCtqplEDPL) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Remembranza](https://open.spotify.com/album/7daEEsVemtGgl9NONjmBZk) | 2:26 | 2022-10-14 | 2023-05-01 |
-| [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 |  |
+| [Ribbon](https://open.spotify.com/track/16lUfemInxpAtAdj6pP9YM) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 2:06 | 2023-01-27 | 2023-05-07 |
 | [River Whispering Run](https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 5:08 | 2022-01-21 |  |
 | [Rushes Recede](https://open.spotify.com/track/4LldU6Isq6ecYkaNISaDDc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Rushes Recede](https://open.spotify.com/album/1uQvJ6TmCHQV6bdRdDIkrq) | 6:34 | 2022-01-21 | 2022-07-28 |
 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 | 2023-04-07 |  |

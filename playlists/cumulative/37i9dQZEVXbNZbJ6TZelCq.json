@@ -1760,7 +1760,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 136875,
       "name": "Banii",
       "url": "https://open.spotify.com/track/7l1amnUcwOBdJQtLEmMKNi"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Brasileira - From \u201cTEAMBUILDING\u201d The Movie",
       "url": "https://open.spotify.com/track/1oanM8lNb88L5ZuKkVp9va"
@@ -4792,7 +4792,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -10628,7 +10628,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 190801,
       "name": "La nevedere",
       "url": "https://open.spotify.com/track/2Eh3mKeLBrmiyAQUOLI0bW"
@@ -11030,7 +11030,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 174246,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN"
@@ -14737,6 +14737,24 @@
     },
     {
       "album": {
+        "name": "PACHETE",
+        "url": "https://open.spotify.com/album/7vXKminYzk3G1NhyKJ3lQs"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "PACHETE",
+      "url": "https://open.spotify.com/track/2GH3qovtX07peehotrxoxA"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -16314,7 +16332,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 81014,
       "name": "Regii NFT",
       "url": "https://open.spotify.com/track/2JqiJCN3C9QPcD3baxZYyN"
@@ -18498,7 +18516,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 170285,
       "name": "Stai",
       "url": "https://open.spotify.com/track/0yssm9ttK7TvO7QymKJlVT"

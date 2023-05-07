@@ -4,7 +4,7 @@
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Bebe Rexha
 
-2,703 songs - 5 day 20 hr 37 min
+2,704 songs - 5 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1965,7 +1965,8 @@
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-11 | 2022-07-19 |
 | [Ritual](https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:25 | 2022-11-28 | 2022-12-06 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-13 | 2023-03-21 |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-01 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-05-01 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-05-01 |  |
 | [Rockstar](https://open.spotify.com/track/538txyi52ZOwzWxIQsCT12) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Rockstar](https://open.spotify.com/album/3jhePBQL0zg0dXac7CUAvf) | 3:13 | 2023-02-13 | 2023-02-22 |
 | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/track/27ooJRSmsdwshBQGoUZE3p) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rockstar Baby \(feat\. Mougleta\)](https://open.spotify.com/album/6Kamhcf55KpgHpbAMvQqp5) | 2:54 | 2022-09-26 | 2022-10-04 |
 | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Rocky Road \(with Kodak Black\)](https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer) | 2:58 | 2022-05-23 | 2022-05-31 |

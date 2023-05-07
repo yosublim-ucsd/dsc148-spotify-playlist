@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Bassjackers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,868 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,726,300 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 17 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 18 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 | 19 | [Lay Low](https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Lay Low](https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn) | 2:33 |
-| 20 | [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 |
+| 20 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 | 21 | [What It Feels Like](https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [What It Feels Like](https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5) | 2:15 |
 | 22 | [Eternity](https://open.spotify.com/track/0G9Ldtv1cf41Kv6JGu2GSS) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Eternity](https://open.spotify.com/album/1XuhyO1v0R4ylQFQ7Vw1jD) | 2:17 |
 | 23 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Diamond Sky](https://open.spotify.com/track/4RGTwTk5Vd5uzDshtlYwW7) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Diamond Sky](https://open.spotify.com/album/7v6VMKg4Q3L3jbHGqjt0KK) | 2:23 |
 | 50 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
 
-Snapshot ID: `MCxmOTMyYTVmNjAxZTY5MjgwMDQzMWUzMjVlNmQzOWZkODA2OTgzYjY5`
+Snapshot ID: `MCxhMzk0MzZmYzQ2N2FkOGJlY2M2Njc4ZmMxZjljMTQ5ZjQ2YTI5Yjlk`

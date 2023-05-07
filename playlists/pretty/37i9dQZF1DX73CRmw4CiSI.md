@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,367 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,466 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 73 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
 | 74 | [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1vcZt7qwR9bgVSh7obMjFd) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World](https://open.spotify.com/album/1vXo40YW3uDom5F3OifM1z) | 3:13 |
 | 75 | [Una Lagrima](https://open.spotify.com/track/0PoUyBBEghT7ufac3soDiB) | [Peret](https://open.spotify.com/artist/2bhNZ8x8k2VfVhNRKESlcj) | [Orígenes](https://open.spotify.com/album/4moi9DmSUydEzm7N8VbbeT) | 1:54 |
-| 76 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
-| 77 | [Avisa a tu madre \(feat\. Tarque\)](https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Adelantando](https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I) | 3:13 |
+| 76 | [Avisa a tu madre \(feat\. Tarque\)](https://open.spotify.com/track/2aj7C3LL3ZrJX2dHiskmaP) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p) | [Adelantando](https://open.spotify.com/album/28LFs98k7cTrXm2S2Xc65I) | 3:13 |
+| 77 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
 | 78 | [Bonito Es](https://open.spotify.com/track/3F7LwUGXeXIm7Br3QCxvd5) | [Los Sencillos](https://open.spotify.com/artist/4tckU58lAHcyNaWWswLubb) | [Doctor Amor](https://open.spotify.com/album/2ll1b7hDO1Js4I9cMukxBx) | 2:59 |
 | 79 | [Joselito](https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 3:50 |
 | 80 | [Al Son Del Tambor](https://open.spotify.com/track/6KpEeLn57CE8rw3yg8HtdQ) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Muchas Flores](https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg) | 3:57 |
@@ -92,11 +92,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 82 | [Sarandonga](https://open.spotify.com/track/4ER9YbR8kOke5g2vpanmq7) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Takatá, a toda rumba](https://open.spotify.com/album/5ilGbKanSfk9Q4cOctfe3D) | 4:00 |
 | 83 | [Milonga del marinero y el capitán](https://open.spotify.com/track/1Q6mhXFfkpa4C9dyMsSaxW) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Hasta luego](https://open.spotify.com/album/17zbU7662bSZyECndKCYio) | 3:26 |
 | 84 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
-| 85 | [El Toro y la Luna \- 20 Aniversario](https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [El Toro y la Luna \(20 Aniversario\)](https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN) | 3:38 |
-| 86 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
+| 85 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
+| 86 | [El Toro y la Luna \- 20 Aniversario](https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [El Toro y la Luna \(20 Aniversario\)](https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN) | 3:38 |
 | 87 | [Mi Gato](https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Esencial Rosario](https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo) | 3:20 |
 | 88 | [Que Puedo Pedir](https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile Al Sol](https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux) | 3:02 |
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \(Kalikeno\)](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 
-Snapshot ID: `MCwzN2UzOWE5NDRlYjQzMDY4Y2M5MjE4ODgzNDI1OTdlN2VmNDhlYzhl`
+Snapshot ID: `MCwzZjRhODUxMTkwZjE5NWU1NzBhZDQ3MzYwMjYzY2I1ZWZlY2UyZmQw`

@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-337 songs - 23 hr 25 min
+338 songs - 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,12 +237,13 @@
 | [Porgy \(I Loves You Porgy\) \- Outtake](https://open.spotify.com/track/3NmLBig4t7RZWbLT3U2eBb) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 6:00 | 2022-01-26 | 2022-11-11 |
 | [Prisoner Of Love](https://open.spotify.com/track/6gwOTHR7B1YyWlnAiMBoT0) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Teddy Wilson Quartet](https://open.spotify.com/artist/4BeuZiSWQWLybvkCiBos0c) | [Pres & Teddy](https://open.spotify.com/album/7BsTlBs92PJa4mTPKTi8Nq) | 7:40 | 2022-01-26 | 2022-11-11 |
 | [Put Out The Lights](https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Put Out The Lights](https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN) | 2:54 | 2023-01-12 | 2023-04-14 |
-| [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-23 |  |
+| [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-23 | 2023-05-07 |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-11 | 2022-12-20 |
 | [Ribeira da Barca](https://open.spotify.com/track/3dyVfsrux5dQgrDxur7KFn) | [Mário Laginha](https://open.spotify.com/artist/4HIXm4z9ioPkIgCjK7EQlZ) | [Jangada](https://open.spotify.com/album/2XD00ztTgSIRXGB0uxLgXG) | 5:13 | 2022-02-24 | 2022-11-11 |
 | [Right Or Wrong](https://open.spotify.com/track/0zs9711xhfumwBgJek5UHN) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Right Or Wrong](https://open.spotify.com/album/1OXyiyyrxclDaFNMiS4f3J) | 3:29 | 2022-11-17 | 2023-04-24 |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-11-11 |  |
 | [Ruby My Dear](https://open.spotify.com/track/4UsWPDI7ztp83qi9QVLp0C) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Ruby My Dear](https://open.spotify.com/album/5oTmFu8GHDDeSIr1ui7opy) | 3:51 | 2023-03-16 | 2023-04-07 |
+| [Rumours](https://open.spotify.com/track/4BGzJEHAeKKQTomYTveG9n) | [Zoe Rei](https://open.spotify.com/artist/6edzT8AseYcyi1yGJZXHdq) | [Rumours](https://open.spotify.com/album/3su5gCbreTh9gZXPGK0JLZ) | 3:20 | 2023-05-04 |  |
 | [Ruth's Theme](https://open.spotify.com/track/1bzYSxJAGfKdB3POuvBfrB) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Ruth's Theme](https://open.spotify.com/album/5JQoYZU0vfBT3N2IDdR6I8) | 2:51 | 2023-03-23 |  |
 | [Sails](https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz) | [Manor Blue](https://open.spotify.com/artist/01ZpfNTUsz8qKnnobquC1q) | [Sails](https://open.spotify.com/album/5XHGdBZXgVYsADNLTH19Fm) | 3:27 | 2022-11-11 | 2023-01-17 |
 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 | 2021-12-16 | 2022-11-11 |

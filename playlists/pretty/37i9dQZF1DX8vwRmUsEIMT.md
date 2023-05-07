@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Tom Grennan
 
-[Spotify](https://open.spotify.com/user/spotify) - 543,153 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 543,141 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 54 | [Round 2](https://open.spotify.com/track/3zIU7arseZc1XXoI9Ag0Qc) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Round 2](https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab) | 2:20 |
 | 55 | [ceilings \- Spotify Singles](https://open.spotify.com/track/3SQxzzu41bjlCGGDCb83JY) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 2:44 |
 | 56 | [Give It To Me](https://open.spotify.com/track/676xTEyKfYBOGYD0EuVrTq) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Give It To Me](https://open.spotify.com/album/26O1NsCrNRAVXBbHaNgkGn) | 4:03 |
-| 57 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
+| 57 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
 | 58 | [Self\-Portrait](https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Self\-Portrait](https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0) | 2:21 |
 | 59 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 |
 | 60 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 79 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 |
 | 80 | [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 |
 
-Snapshot ID: `MCw5MTNkYTE1NTBjOGQ3YzFjYjM1NDdlNzJiYzQ0YjFkZTFlNWE4NTc1`
+Snapshot ID: `MCw4NzY4MTlmY2RhODdmNjhhNjE5OTFiYzdjNDY4Yjk0NmM3YzRhODI2`

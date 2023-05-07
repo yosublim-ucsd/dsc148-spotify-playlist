@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19167,
+  "num_followers": 19185,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGNlN2U0MDE0YmUwMmU0Y2U4ZWVhNzgyZGI4NDZkYWU3N2RlODdi",
+  "snapshot_id": "MCwzNTMyZmZmOTY2OWEwY2MzZjExZjAyYmM0Mjk1MDZmZGFiY2E2YTcx",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 6",
-        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
-      },
-      "artists": [
-        {
-          "name": "La Gran Banda",
-          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
-        }
-      ],
-      "duration_ms": 227813,
-      "name": "Mandele Gas",
-      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "El Otro Yo",
         "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 195578,
       "name": "Sopa de Caracol (Remix)",
       "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
+      },
+      "artists": [
+        {
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+        }
+      ],
+      "duration_ms": 227813,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
     },
     {
       "added_at": "2020-05-26 15:53:13",

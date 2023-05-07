@@ -1187,6 +1187,24 @@
     },
     {
       "album": {
+        "name": "Satchmo Serenades",
+        "url": "https://open.spotify.com/album/17fcllu2aPjrx4ZCm05jMc"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "La vie en rose - Single Version",
+      "url": "https://open.spotify.com/track/0zDVclPMSsjeyvbnqhWOmt"
+    },
+    {
+      "album": {
         "name": "All Time Greatest Hits",
         "url": "https://open.spotify.com/album/16niuq7vcf4QvnnrJO7yFc"
       },
@@ -2358,7 +2376,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 342586,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB"

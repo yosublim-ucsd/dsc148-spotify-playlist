@@ -4,7 +4,7 @@
 
 > The world's biggest dance hits\. Cover: Snakehips
 
-576 songs - 1 day 8 hr 33 min
+577 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -409,7 +409,8 @@
 | [Real Love \(feat\. Aleyna Tilki\)](https://open.spotify.com/track/7BxIvkfVSgoUUlDcBVff61) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/11EidE2Zs9YaYmgMoydewV) | 2:15 | 2021-12-17 | 2022-02-26 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-12-17 | 2022-02-12 |
 | [Redlight](https://open.spotify.com/track/08Ecw0ItPxGeHS9Mexr8cs) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Redlight](https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0) | 4:02 | 2022-02-25 | 2022-06-04 |
-| [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-24 |  |
+| [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-05-05 |  |
+| [Reflection](https://open.spotify.com/track/67dg2dYPGza76ZEnp7k00d) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Reflection EP](https://open.spotify.com/album/4Qqe2c9VgbdnbFO2F7AyGe) | 6:46 | 2023-03-24 | 2023-05-07 |
 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-03-03 | 2023-04-15 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-14 |  |
 | [Rely On Me](https://open.spotify.com/track/0x381izXRwXLdOTe1diiPS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d) | [Rely On Me](https://open.spotify.com/album/6m4i0iINwOq7w4jMwFerV2) | 2:54 | 2022-11-11 | 2023-02-04 |

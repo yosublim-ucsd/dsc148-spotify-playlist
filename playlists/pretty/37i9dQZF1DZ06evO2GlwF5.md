@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 
 > This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,422 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,424 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2GlwF5.md) - [plain]
 | 49 | [千里の道 \-studio live\-](https://open.spotify.com/track/0XDm0Nqa2jkyAxbn6tGwNs) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 3:26 |
 | 50 | [月の話](https://open.spotify.com/track/03LvFzj8MoA37q1vGllFY9) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ハロー、ハロー](https://open.spotify.com/album/1GqbTrL7DRHberfR9WXUTp) | 5:32 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA0MTA0MGM3ZjZkYWZmNzY1YjM0NzMwYWFjNmJhMjhhOA==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBjZGU4NTA0MGFmMTZjMmNmYzI3YzZhZjZjYzkxZjIxNg==`

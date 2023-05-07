@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 18346,
+  "num_followers": 18569,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDI0NTRmYmU4YTdkNzIzN2YxMDVmOTNiODEyYmM4Mzg3NTNhYWI5",
+  "snapshot_id": "MCxjOWVmOGQxMWRiYTRmZjQxZjc1NDgzNDY2Zjc4OGUxYWViNTZiODBm",
   "tracks": [
     {
       "added_at": "2022-11-04 04:00:00",
@@ -247,18 +247,22 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+      "duration_ms": 208293,
+      "name": "10 Freaky Girls (with 21 Savage)",
+      "url": "https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -299,22 +303,18 @@
     {
       "added_at": "2022-11-04 04:00:00",
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         }
       ],
-      "duration_ms": 208293,
-      "name": "10 Freaky Girls (with 21 Savage)",
-      "url": "https://open.spotify.com/track/0AluA5RNsa4Cx6XRhf2hWZ"
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
       "added_at": "2022-11-04 04:00:00",

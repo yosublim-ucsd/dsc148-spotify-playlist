@@ -4,7 +4,7 @@
 
 > get into your feels with some r&b magic
 
-331 songs - 17 hr 27 min
+332 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,11 +192,12 @@
 | [Lovely](https://open.spotify.com/track/5Hk1e4wp12VfOkdfHdpeBy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Lovely](https://open.spotify.com/album/4kzqBT7MnaHJkX0LjfDHay) | 3:24 | 2021-12-16 | 2022-01-21 |
 | [Luxury Love](https://open.spotify.com/track/1jdqxweALuTOa9qZbX9FVG) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Luxury Love](https://open.spotify.com/album/2dz5hwoX3FKFswT6hZ5sXX) | 2:42 | 2021-12-16 | 2023-01-13 |
 | [Magic](https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 4:44 | 2023-01-12 |  |
-| [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 | 2023-01-12 |  |
+| [Make Me Wanna](https://open.spotify.com/track/5PvgFjmrALevsoP09K9HNW) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:54 | 2023-04-23 |  |
+| [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 | 2023-01-12 | 2023-05-07 |
 | [Miles Away](https://open.spotify.com/track/6k3zHXsdycz5gyflIX67Ca) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Miles Away](https://open.spotify.com/album/1kcDeSYrhZJryDO2nWqLk5) | 1:35 | 2023-04-06 |  |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-12-16 | 2022-01-21 |
 | [Minefields](https://open.spotify.com/track/1OU4E4HiVjdak0mL4blVWT) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Minefields](https://open.spotify.com/album/6Pp5U1A6z6OogrtQEL5Q89) | 3:10 | 2021-12-16 | 2023-01-13 |
-| [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 |  |
+| [Miss My Dawgs \(with 6LACK\)](https://open.spotify.com/track/7L2Nh4EsaETigImpQKvSoc) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Miss My Dawgs](https://open.spotify.com/album/3yeL1kWdc6fCSLzefpQC4r) | 3:25 | 2023-01-12 | 2023-05-07 |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-03-01 | 2023-03-23 |
 | [Motelroom](https://open.spotify.com/track/0emBQxoWVuIZVOhp6Q2fq4) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Motelroom](https://open.spotify.com/album/1XNOwpXeam0cEpuOBGODm9) | 3:41 | 2021-12-16 | 2022-07-29 |
 | [Motelroom](https://open.spotify.com/track/6LVHn4DZxdd3G8RspektRm) | [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [All That We Are](https://open.spotify.com/album/6O8TYTxtP9MWYGNwTd7MyX) | 3:41 | 2022-07-22 | 2023-01-13 |
@@ -236,7 +237,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-12-16 | 2023-02-03 |
 | [Perfect](https://open.spotify.com/track/0iiKH9FbsFKlh7QjmJtYAf) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Perfect](https://open.spotify.com/album/6GNFZBEpeXZq5zMMIVzCmh) | 2:48 | 2022-03-25 | 2022-07-23 |
 | [Petty](https://open.spotify.com/track/0crGQ19YYzGgFYLSw0UdrG) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Breezy \(Deluxe\)](https://open.spotify.com/album/79WcTJuCulopfqul1awYJk) | 3:03 | 2023-01-12 |  |
-| [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 | 2023-01-12 | 2023-04-24 |
+| [Petty](https://open.spotify.com/track/3cjYOZUurwOP4Sit4BEJSo) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Petty](https://open.spotify.com/album/6SxSaX71mFqP2bpoReWFGq) | 3:15 | 2023-01-12 |  |
 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 | 2023-01-12 | 2023-03-09 |
 | [Plot Twist](https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:32 | 2023-01-12 |  |
 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 | 2023-01-26 |  |

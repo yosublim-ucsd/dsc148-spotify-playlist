@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 198666,
       "name": "CAIRO",
       "url": "https://open.spotify.com/track/16dUQ4quIHDe4ZZ0wF1EMN"
@@ -4439,6 +4439,28 @@
     },
     {
       "album": {
+        "name": "Avida Dollars",
+        "url": "https://open.spotify.com/album/7Dl3kd377FvNAEVHHOMSTM"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        },
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150141,
+      "name": "Estrecho / Alvarado (feat. pablopablo)",
+      "url": "https://open.spotify.com/track/2f1PmEYmrl3a2ys44q3IeF"
+    },
+    {
+      "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
       },
@@ -4774,7 +4796,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
@@ -8115,6 +8137,32 @@
     },
     {
       "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
+    },
+    {
+      "album": {
         "name": "MICRODOSIS",
         "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
       },
@@ -8214,7 +8262,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 163240,
       "name": "MI DROGA",
       "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
@@ -14006,7 +14054,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 194400,
       "name": "YANKEE",
       "url": "https://open.spotify.com/track/0FirgnvrpCkkhdaq64Gfen"

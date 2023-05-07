@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 248064,
+  "num_followers": 248329,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzE2YzdiNjhkZGU1MzcxZDg1NDMwNmRhMjIxMTk2ZTMzZWJhM2M5",
+  "snapshot_id": "MCw1YjI1ZGQzOGVmYTFjZmIzNWEwNDljYzQwYjQzNjc1M2NhOTFjZDAx",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -203,18 +203,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -383,22 +387,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Ol' Waylon",
-        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -499,22 +499,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "One Piece At A Time",
-        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "Tennessee Three",
-          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 241813,
-      "name": "One Piece at a Time",
-      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+        "name": "One Piece At A Time",
+        "url": "https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Tennessee Three",
+          "url": "https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+      "duration_ms": 241813,
+      "name": "One Piece at a Time",
+      "url": "https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -615,22 +615,6 @@
       "duration_ms": 182080,
       "name": "'Til I Can Make It on My Own",
       "url": "https://open.spotify.com/track/0aJHZYjwbfTmeyUWF7zGxI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Coat Of Many Colors",
         "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+      "duration_ms": 126666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I Love",
-      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "By The Time I Get To Phoenix (Remastered)",
         "url": "https://open.spotify.com/album/29tTA46kurlOioRkjBqOMS"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 164200,
       "name": "By The Time I Get To Phoenix - Remastered 2001",
       "url": "https://open.spotify.com/track/1tZKsxgKebVQX9s6oiojG9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Let Me Be There",
+      "url": "https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Good 'N' Country",
         "url": "https://open.spotify.com/album/2OT5kYQuoqLb4ZPsDHZzMu"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 139466,
       "name": "Don't Let Me Cross Over",
       "url": "https://open.spotify.com/track/6d0peKL7ZyWiRipp0bq8Ls"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 181733,
-      "name": "Let Me Be There",
-      "url": "https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Every Time Two Fools Collide",
         "url": "https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 180906,
       "name": "Every Time Two Fools Collide",
       "url": "https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Till The End",
-        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
-      },
-      "artists": [
-        {
-          "name": "Vern Gosdin",
-          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Till the End",
-      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Phases And Stages",
         "url": "https://open.spotify.com/album/2UUGvJBpRoOQFwDLtq8KCP"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 168933,
       "name": "Bloody Mary Morning",
       "url": "https://open.spotify.com/track/5paRS95sOPkOVQlmUIUF4B"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F"
+      },
+      "artists": [
+        {
+          "name": "Vern Gosdin",
+          "url": "https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE"
     },
     {
       "added_at": "2023-02-24 05:00:00",

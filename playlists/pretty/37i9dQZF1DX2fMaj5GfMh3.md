@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Tom Grennan deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,758 likes - 89 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,766 likes - 89 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 83 | [free flow](https://open.spotify.com/track/1UxiPpx3EC2SqFmGoqlXOy) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [free flow](https://open.spotify.com/album/01Fg6wIgT1NDXys8UPTJsK) | 3:23 |
 | 84 | [Roles Reversed](https://open.spotify.com/track/7iinMLIDWw5QA7d6x0d5HJ) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Roles Reversed](https://open.spotify.com/album/2RFdnVvLdNioN4fw42fPfr) | 3:45 |
 | 85 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 |
-| 86 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 |
+| 86 | [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 |
 | 87 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 |
 | 88 | [Ice Cream Man.](https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:08 |
 | 89 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 |
 
-Snapshot ID: `MCxmNTQ3NGQ5MGIyM2M4YjJjN2UzNGJlODA2NGMxNjA5M2IzYjYxYmNk`
+Snapshot ID: `MCw2MmRhY2FhNDVkYmIyZmUzMDEyMWZhOTBhYmMyODVkMGNkZTFmMWI3`

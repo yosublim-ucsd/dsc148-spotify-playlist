@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,619 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,991 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 13 | [Turn The Page](https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC) | 6:06 |
 | 14 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
 | 15 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 |
-| 16 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
-| 17 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
+| 16 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
+| 17 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
 | 18 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
 | 19 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 |
 | 20 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 24 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
 | 25 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
 | 26 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
-| 27 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
-| 28 | [Dirty Diana](https://open.spotify.com/track/2fKkgRY3RtqsTg2TB33qeW) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Smokin' Hearts & Broken Guns \(Deluxe Edition\)](https://open.spotify.com/album/1xZ0Fd1RXbeXrHGsBKd8oH) | 4:01 |
+| 27 | [Dirty Diana](https://open.spotify.com/track/2fKkgRY3RtqsTg2TB33qeW) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Smokin' Hearts & Broken Guns \(Deluxe Edition\)](https://open.spotify.com/album/1xZ0Fd1RXbeXrHGsBKd8oH) | 4:01 |
+| 28 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
 | 29 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
 | 30 | [Personal Jesus](https://open.spotify.com/track/4gZYw4chUdkjumdu0ODJ9t) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Personal Jesus](https://open.spotify.com/album/3YvC5RaRG42fAd6VGqWR0R) | 4:06 |
 | 31 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 47 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 48 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 |
 | 49 | [Voyage Voyage](https://open.spotify.com/track/4LINHMbBmU74hxAENodgh3) | [Sirenia](https://open.spotify.com/artist/5FXMcILCOMjljRTV6cLoiE) | [Riddles, Ruins & Revelations](https://open.spotify.com/album/3nsfNu84qheLQ4GeJ8XSUm) | 4:18 |
-| 50 | [No More Mr\. Nice Guy](https://open.spotify.com/track/48xclRgatXaAZQVIc6DYcT) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Hidden Treasures](https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY) | 3:03 |
+| 50 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
 
-Snapshot ID: `MCw1NmEwMWJhODkwNjRhY2ZjMjQ2MDI2N2QxMGU4YTE0MTRjOWNmODE5`
+Snapshot ID: `MCxiMTU5NTcxODY5ZjVjMjVhZTYxY2EzNTRiYTQ3OWY1Y2E3NzIxZjJi`

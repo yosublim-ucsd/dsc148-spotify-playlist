@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,198 songs - 5 day 6 hr 17 min
+2,199 songs - 5 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1310,6 +1310,7 @@
 | [My Baby Just Cares for Me](https://open.spotify.com/track/6PAyaH9TtZ0yGzfTm4U6GV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Mood Indigo: The Complete Bethlehem Singles](https://open.spotify.com/album/5TvOSNchafJsaVyopsG1j0) | 3:39 | 2021-11-18 | 2023-02-12 |
 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 | 2020-08-20 | 2021-07-12 |
 | [My Bella](https://open.spotify.com/track/0OuGcaERH4qPtFrWOaaNYK) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [My Bella](https://open.spotify.com/album/7uHcYf4zEWTUGm3r4RStlZ) | 2:39 | 2021-10-08 | 2021-10-23 |
+| [My Bestie \(Anxiety\)](https://open.spotify.com/track/5b32quYchxdWwIIoIhUNQI) | [Kia Rose](https://open.spotify.com/artist/4pVR78BCBKQ4pVuYJyvgWw) | [My Bestie \(Anxiety\)](https://open.spotify.com/album/4xMZGdK4MsvJ4nFG3FN3Iw) | 3:18 | 2023-05-06 |  |
 | [My Butterfly](https://open.spotify.com/track/50oTL5mEriTEAsplOiP2QW) | [KidBess](https://open.spotify.com/artist/2ibSATQzF35XpMmqUtFDe1) | [Pearls](https://open.spotify.com/album/5y1snnoCrQF7ryZHYXKwNW) | 2:50 | 2023-01-20 | 2023-02-11 |
 | [My Favorite Song](https://open.spotify.com/track/7e3PU3ddyrtQ4aQL09tXpn) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [My Favorite Song](https://open.spotify.com/album/6pfmQzcmMQBpzrdbm82MG7) | 3:31 | 2023-02-11 | 2023-03-11 |
 | [My Fire](https://open.spotify.com/track/0GpwjUTJLfwJRGnBpmSsG6) | [Yon Idy](https://open.spotify.com/artist/4D92NZA9x3RLim0Ap6p8hr) | [My Fire](https://open.spotify.com/album/1xZT0U8TpmwWzUc4sTch8G) | 3:13 | 2021-09-24 | 2021-10-10 |

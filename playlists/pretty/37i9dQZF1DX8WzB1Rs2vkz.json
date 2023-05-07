@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 118770,
+  "num_followers": 118911,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGJiOTgzNDllZWVmOGFjMWNmYWQ3MGE4YTMzMmUwZGViYzQ3YjMz",
+  "snapshot_id": "MCw3OTE5MTFkN2Q4YWY1OTI2YmI5Nzg0ZTlmYzRmNjUxOWM4MTM5Mzhh",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 183048,
       "name": "Binikini",
       "url": "https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
     },
     {
       "added_at": "2023-04-28 04:00:00",

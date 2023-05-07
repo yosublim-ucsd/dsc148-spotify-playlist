@@ -4,7 +4,7 @@
 
 > The sounds of LGBTQ+ punk\. Cover: Witch Fever
 
-124 songs - 6 hr 7 min
+126 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Big Shouty](https://open.spotify.com/track/2JDMX69HvkeJuoNmFoj1Lz) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [Big Shouty](https://open.spotify.com/album/1pWMoHSZKWMnr4zYmG4NvH) | 1:26 | 2022-03-03 |  |
 | [Binary](https://open.spotify.com/track/310OmUKAvBV8hHZQxXZsIu) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/1RKrCP38UismUZ1NnC9sjc) | 3:15 | 2022-05-31 |  |
 | [Binary](https://open.spotify.com/track/612neH3gcy0ke7jLRRca53) | [The Spook School](https://open.spotify.com/artist/1K9hZ7uYbiVLEYhV4SFrOA) | [Try to Be Hopeful](https://open.spotify.com/album/0ooSpzz4zOyP9nKl02dDye) | 3:15 | 2022-03-03 | 2022-07-29 |
+| [Bird in Space](https://open.spotify.com/track/4PYyyaASFb3gZ9Jh4zisiz) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1AamkKRYew16QStHIhgY1A) | 4:51 | 2023-01-24 |  |
 | [Bird in Space](https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 4:51 | 2023-01-24 | 2023-04-30 |
 | [Bitchboy](https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG) | 1:47 | 2022-05-31 |  |
 | [Bitchboy](https://open.spotify.com/track/4c2S2MELHhh3nspK1Rmef7) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Bitchboy](https://open.spotify.com/album/1dLzdrQ9uVcUqv6PMHNQ9z) | 1:47 | 2022-03-03 | 2022-12-24 |
@@ -87,12 +88,13 @@
 | [Precious & Perfect](https://open.spotify.com/track/4j95oNNiUfHNf95fqEvE4D) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/1lM5KEAmZ7plduqtJnITJv) | 3:00 | 2022-03-03 | 2022-07-29 |
 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 | 2022-05-31 |  |
 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 | 2022-03-03 |  |
+| [Quitter](https://open.spotify.com/track/2ekn27DjITVI4vSudrxpdX) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/59PEcpy0wVxQJLcrdFTVwn) | 3:02 | 2023-01-24 |  |
 | [Quitter](https://open.spotify.com/track/2zGcxwWJNdCSb3fd9RLOLg) | [Weakened Friends](https://open.spotify.com/artist/3GA7XHdtdiTpR4gDWgADwK) | [Quitter](https://open.spotify.com/album/0yMlzaVdHvftptlZ3E8Mor) | 3:02 | 2023-01-24 | 2023-04-30 |
 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 | 2022-03-03 |  |
 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 | 2022-03-03 |  |
 | [Save the Planet, You Dumb Shit](https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o) | [Joe & The Shitboys](https://open.spotify.com/artist/1LQe0AlqV1e2GD3Ry1UFTg) | [The Reson For Hardcore Vibes Again](https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI) | 0:55 | 2022-03-03 |  |
 | [Seashore](https://open.spotify.com/track/6kQ3W5LMxh6ftjEBssYgAd) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 3:28 | 2022-03-03 |  |
-| [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 | 2022-05-31 |  |
+| [Severed Ties](https://open.spotify.com/track/5CmsEEFPi3p4mb0waJTszK) | [Pleasure Venom](https://open.spotify.com/artist/7ldGhpbw4LYeHWa02LiENR) | [Severed Ties](https://open.spotify.com/album/1E2jxSmvjYSgbCanpeBZfZ) | 3:44 | 2022-05-31 | 2023-05-07 |
 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 | 2022-03-03 |  |
 | [Sick Sad World](https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ) | [Nervus](https://open.spotify.com/artist/4vApur54D4XetXX1xnIAKv) | [Everything Dies](https://open.spotify.com/album/3AyoeLix6xbioDX8eLf1JS) | 3:11 | 2022-03-03 |  |
 | [Sissy Fists](https://open.spotify.com/track/1KHFqFiuV5KNyHjtjTKBbJ) | [Queen Zee](https://open.spotify.com/artist/4Fu68byHFGEiID8pHyYxFL) | [Queen Zee](https://open.spotify.com/album/2wbap4Wf20Dbp2kLrZFkHk) | 2:23 | 2022-05-31 |  |
@@ -100,7 +102,7 @@
 | [Snowball](https://open.spotify.com/track/30MPTi1NdJlN4WeEiXWmPC) | [Royal Brat](https://open.spotify.com/artist/2nsqDdnAg6Wlgkfxv5MlKC) | [Eyesore](https://open.spotify.com/album/17ayOXluk76ZIBqAtyCk4g) | 1:15 | 2022-03-03 | 2023-01-08 |
 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 | 2022-03-03 |  |
 | [Sorry](https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p) | [LIINES](https://open.spotify.com/artist/1JfKFoNd6l125tY9uJcd4f) | [Sorry](https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5) | 2:24 | 2022-03-03 |  |
-| [Spaceman](https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7) | [Bitch Hunt](https://open.spotify.com/artist/1pRVOuiW4YsZD1vlVPIgbU) | [Space Armadillo](https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2) | 2:50 | 2022-03-03 |  |
+| [Spaceman](https://open.spotify.com/track/1CtIrwQLU6s0UZgbn5cwH7) | [Bitch Hunt](https://open.spotify.com/artist/1pRVOuiW4YsZD1vlVPIgbU) | [Space Armadillo](https://open.spotify.com/album/1kmqlVDVxcMG4L5xXniZD2) | 2:50 | 2022-03-03 | 2023-05-07 |
 | [Standing In the Way of Control](https://open.spotify.com/track/7B6jxcVkJTHMUE83ZndMjl) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW) | 4:16 | 2022-05-31 |  |
 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 | 2022-05-31 | 2023-04-29 |
 | [Staplegun](https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql) | [Baby Guts](https://open.spotify.com/artist/0n7Xc7tVMZdgrQgNoVyqIR) | [gasoline](https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh) | 1:54 | 2022-03-03 |  |

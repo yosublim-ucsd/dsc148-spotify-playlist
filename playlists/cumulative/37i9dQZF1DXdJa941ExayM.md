@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: 100 gecs
 
-218 songs - 11 hr 16 min
+219 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Hey Big Man](https://open.spotify.com/track/6jgkLS7ADwuNskZyQ4cNbm) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:42 | 2022-12-08 |  |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2021-12-20 | 2022-02-16 |
 | [Hold My Hand](https://open.spotify.com/track/6SvllC0AxXwxxFHmzq6WRO) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Take the Cake](https://open.spotify.com/album/5xEN5e223k5edWl5RQcVqU) | 1:30 | 2021-12-20 | 2022-08-06 |
-| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:07 | 2023-02-17 |  |
+| [Hollywood Baby](https://open.spotify.com/track/48ElaQLYuOaybqagIlPxpU) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [Hollywood Baby](https://open.spotify.com/album/1jI6gq10WSeAv4MdTaRq7N) | 3:07 | 2023-02-17 | 2023-05-07 |
 | [I Hate The Radio](https://open.spotify.com/track/6bbO183bi7BtzE9ceSccwu) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [I Hate The Radio](https://open.spotify.com/album/2MRtZPeGjxPLsf6YiD10n4) | 3:34 | 2021-12-20 | 2022-02-16 |
 | [I just wanna be silent](https://open.spotify.com/track/4jCvCe2MAaPuzERi8Dzqng) | [fish narc](https://open.spotify.com/artist/1IxZyCzEKTCm8z7gSgyfTU) | [I Just Wanna Be Silent](https://open.spotify.com/album/19cnCnUEYHC3rj71L1VgnQ) | 2:40 | 2022-01-21 | 2022-03-19 |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-15 |  |

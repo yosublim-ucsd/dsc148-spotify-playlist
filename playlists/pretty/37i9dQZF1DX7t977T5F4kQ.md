@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs?si=zxfZPV6EQNan\_NsMi928PQ"> D Jay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,808 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,823 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 |
 | 80 | [Waiting](https://open.spotify.com/track/4GfP6pgJtCpov1AH3DzCuf) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Waiting](https://open.spotify.com/album/6pAQ4Fxuk9b4uymswdIJ3z) | 3:23 |
 
-Snapshot ID: `MCwxOTA2YjdiZjk0NDg1ZDMzNDFiNDY3NDlmOGZjNGZkMzM2Y2Q0OWE4`
+Snapshot ID: `MCw4MTliZjUyMjIyNDA4NDM5ZGMzYmFlZTUzMjc0ODc0MWQ4NzAzYzZj`

@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ACRAZE.
 
-2,150 songs - 5 day 5 hr 25 min
+2,151 songs - 5 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1570,7 +1570,8 @@
 | [Rise Again](https://open.spotify.com/track/3ddJUAVAo7b1AnNWi7jtZX) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe) | [Rise Again](https://open.spotify.com/album/5UfdUIgYKPTc6g35my6tfi) | 3:03 | 2022-08-19 | 2022-11-05 |
 | [Ritmo](https://open.spotify.com/track/15223sfwoQj4IAJL8GSnfO) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5) | [Ritmo](https://open.spotify.com/album/6LIsvePgAs2LVJHcWub3Sj) | 3:03 | 2022-05-27 | 2022-06-04 |
 | [River](https://open.spotify.com/track/6vyYiUliVaGVnv5nDnM93F) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Ladyhawke](https://open.spotify.com/artist/5TfnQ0Ai1cEbKY5katFK14) | [River](https://open.spotify.com/album/2BwhZaYdOd12lBFPATDOpl) | 3:20 | 2020-12-12 | 2021-02-19 |
-| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 |  |
+| [Rock My Body](https://open.spotify.com/track/2o97OhRvkc1WGbV20QkB0R) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body](https://open.spotify.com/album/732igpb1mrqh5K5i1fXfSO) | 2:17 | 2023-04-28 | 2023-05-07 |
+| [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 | 2023-04-28 |  |
 | [Rock The Casbah](https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Rock The Casbah](https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo) | 3:05 | 2023-04-21 |  |
 | [Rock The House](https://open.spotify.com/track/51C2icKkwWdJRBErc2qno3) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Rock The House EP](https://open.spotify.com/album/3IDGAi5SfiLS2HAGCpDmCA) | 2:59 | 2021-08-21 | 2021-09-18 |
 | [Roll Play](https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [Roll Play](https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s) | 3:23 | 2022-02-25 | 2022-04-09 |

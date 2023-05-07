@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-675 songs - 2 day 1 hr 26 min
+677 songs - 2 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Bleak Days](https://open.spotify.com/track/5fJgmA4jkcqoJBnLPC3AX7) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Bleak Days](https://open.spotify.com/album/6mOQtEqWlYUEFa6UIy2QYB) | 3:57 | 2022-12-22 | 2023-05-02 |
 | [Blue And Sentimental](https://open.spotify.com/track/78ntGe4xyecZHg9exQWwK6) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Count Basie](https://open.spotify.com/album/7ETDHJ9yletBCxNx0ipr1x) | 2:26 | 2022-04-14 |  |
 | [Blue Eyes Crying In The Rain](https://open.spotify.com/track/4QJ4UWKHSgqPEofSerNqZI) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Blue Eyes Crying In The Rain](https://open.spotify.com/album/7GOaAr9XegEcOqgkL4NqNq) | 4:12 | 2022-12-22 |  |
+| [Blue In Green](https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Blue In Green](https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK) | 4:02 | 2023-05-04 |  |
 | [Blue in Green \(feat\. John Coltrane & Bill Evans\)](https://open.spotify.com/track/0aWMVrwxPNYkKmFthzmpRi) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 5:37 | 2022-04-14 | 2022-05-14 |
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-01-26 |  |
 | [Blue Moon](https://open.spotify.com/track/5HP9LwDRT5FGOokrN1HnZ3) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Blue Moon](https://open.spotify.com/album/3BOJmn1f6TkOB1hNCvCnth) | 3:18 | 2023-01-20 |  |
@@ -369,6 +370,7 @@
 | [May Dance](https://open.spotify.com/track/2daoiHZab1n6yJPQjTEDap) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 3:51 | 2022-06-14 | 2023-02-03 |
 | [Maybe Some Other Time](https://open.spotify.com/track/1ih4edYGz6a5bP9vuabZM4) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [As Life Turns Around](https://open.spotify.com/album/5HRiUoutO21xfdWMOhv7X3) | 3:43 | 2022-04-14 | 2023-03-28 |
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2022-08-29 |  |
+| [Me And You](https://open.spotify.com/track/0vfe8079vTAVIyluKYXQnt) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Me And You](https://open.spotify.com/album/6IxkLoGdCNVD2pKLI7F6Uq) | 3:28 | 2023-05-04 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-03-09 |  |
 | [Mean to Me](https://open.spotify.com/track/6Q7U4bTozx5kfLjWT81u7P) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan In Hi\-Fi](https://open.spotify.com/album/3atCVYmLjlC6j3duEB6XuN) | 2:52 | 2022-04-14 | 2022-09-23 |
 | [Measures](https://open.spotify.com/track/6jwlziYjqQXHxFRKHDItHy) | [Nostalgia 77](https://open.spotify.com/artist/3U5oimD8ITVHMJQoxypQPN), [The Monster](https://open.spotify.com/artist/3l08OYoeuhxPi8npdww6rn) | [Measures](https://open.spotify.com/album/59zzehn8UfZuvCi8HYwQWo) | 4:17 | 2022-08-29 | 2022-09-21 |
@@ -461,7 +463,7 @@
 | [Our Love Story](https://open.spotify.com/track/1FW1U15nbWIAteWTI2Iy9L) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Our Love Story](https://open.spotify.com/album/3G7vIhBdcwdmKTMdr4NcYt) | 2:40 | 2023-04-14 |  |
 | [Out Of The Blue](https://open.spotify.com/track/6pGvi1k9FL1p27JwYDuB8S) | [Tyrone Coates & Friends](https://open.spotify.com/artist/2XSpojB87LHkWSrF4yBNmC) | [Out Of The Blue](https://open.spotify.com/album/6emBxjRNaXLFFBJUtzpUQI) | 2:58 | 2023-03-09 |  |
 | [Out of Wilma](https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Out of Wilma](https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y) | 2:49 | 2022-12-22 |  |
-| [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-10-13 |  |
+| [Peace](https://open.spotify.com/track/7pDRAykBM45AObXmk2L4Cl) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Peace](https://open.spotify.com/album/6XvZZIudci1eKSN43SNnwn) | 3:37 | 2022-10-13 | 2023-05-07 |
 | [Pearl\-button](https://open.spotify.com/track/6BNIemd2679Bg6BbNjP9Ko) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [Pearl\-button](https://open.spotify.com/album/2YLC9erulM0m04cnteK4lb) | 3:18 | 2023-03-09 |  |
 | [Pensativa](https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [I'm Glad There's You](https://open.spotify.com/album/77AOGNjcrBXivWuex9jHmc) | 4:47 | 2022-09-20 |  |
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-08 |  |
@@ -483,7 +485,7 @@
 | [Refuge](https://open.spotify.com/track/4IYvcGknkyjnKcMHoEfrPi) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Becoming](https://open.spotify.com/album/5w50XdqFePL9GDng7ZhQIh) | 3:41 | 2022-04-14 | 2022-07-29 |
 | [Refuge](https://open.spotify.com/track/72X5bmQUJ9bCDDFqFszNy2) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Becoming](https://open.spotify.com/album/7HGwyBH3MDWbWjzlQfdti0) | 3:41 | 2022-06-30 | 2022-09-23 |
 | [Remember \- Remastered](https://open.spotify.com/track/2BhU0Hl5OatWiCW93pE2b8) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:42 | 2022-04-14 | 2022-04-30 |
-| [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 |  |
+| [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-11 | 2023-05-07 |
 | [Remembering The Rain](https://open.spotify.com/track/3YMMHEfRPihLMV9L2BKrWT) | [Wonder Eve](https://open.spotify.com/artist/2UWIuNSfLubqitB2Kf0rAa) | [Remembering The Rain](https://open.spotify.com/album/1OIGPx7tRAreD3TfIVbMTT) | 3:22 | 2023-04-20 |  |
 | [Remembrance](https://open.spotify.com/track/0kbWuiN6FdHJXu1xCBVxvW) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Remembrance](https://open.spotify.com/album/6aO2ui4ldnUa338vXUkMGz) | 3:10 | 2022-11-10 |  |
 | [Retrato em Branco e Preto](https://open.spotify.com/track/1xVkHfbwx5bJlB1D2dTXtH) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx) | [Retrato em Branco e Preto](https://open.spotify.com/album/543v6uPTErc9gMOQJaBhRP) | 7:54 | 2022-08-29 | 2022-09-23 |

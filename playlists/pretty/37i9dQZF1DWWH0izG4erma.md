@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS! Cover: Ashley McBryde
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,452 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,369 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 76 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 |
 | 77 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
 | 78 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 |
-| 79 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 |
+| 79 | [Get There First](https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz) | 3:46 |
 | 80 | [Born To Run To You](https://open.spotify.com/track/5HIjLTk1Yvkw9CtTXGeWtP) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Born To Run To You](https://open.spotify.com/album/0VBl3jdg3LcoMfUGbWw9uF) | 3:01 |
-| 81 | [Get There First](https://open.spotify.com/track/3qPyGq482dSHJhuLXeHqgu) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Get There First](https://open.spotify.com/album/0yWPPQExIRCNu4vl43YFQz) | 3:46 |
+| 81 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 |
 | 82 | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv), [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Jason Hook](https://open.spotify.com/artist/1Nm7n07ydhbE1jjagpvJQQ) | [Blame It On The Double \(feat\. Tyler Connolly of Theory of a Deadman & Jason Hook\)](https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv) | 3:27 |
-| 83 | [Wrong Turns](https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:28 |
-| 84 | [Sleeve](https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 4:21 |
+| 83 | [Sleeve](https://open.spotify.com/track/586I425aeO3QMzvSZcUOEd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 4:21 |
+| 84 | [Wrong Turns](https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:28 |
 | 85 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 |
 | 86 | [Shoot From The Hip](https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Brothers Osborne](https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi) | 3:33 |
 | 87 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
 | 100 | [No Reservations](https://open.spotify.com/track/79AEKFhmY4nu5sdPYBWxMy) | [Alex Williams](https://open.spotify.com/artist/5cbi8Etv86wgoqJW2jfSyl) | [No Reservations](https://open.spotify.com/album/62g1Wa2a6lKjl4wRvzTyqq) | 3:44 |
 
-Snapshot ID: `MCwzYWRmZTQ1MTgyNjRmZWU0ODc5MWZhMDE5YzlkNDUyZGMxYWZmZjlj`
+Snapshot ID: `MCxkNWFlMjhmYzk2ZWZkN2NjZWM2MWUwODAwZWY2MWY5N2Q0Y2ZlODJl`

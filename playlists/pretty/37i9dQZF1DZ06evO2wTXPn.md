@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,322 likes - 46 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,330 likes - 46 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 45 | [La Mujer Perfecta \- En Vivo](https://open.spotify.com/track/4tCrl2uIZgACyuGTSvPcbM) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:30 |
 | 46 | [Loup](https://open.spotify.com/track/0vlAgGb9uEggSg6UEE7tME) | [RAISAIN](https://open.spotify.com/artist/1gdqmzAlBBZ2HL078KlSGt), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Hoods](https://open.spotify.com/album/4UjA9gB2ct0Tyiy9ryI15d) | 2:33 |
 
-Snapshot ID: `MjgwNTUzMjIsMDAwMDAwMDA5OGVhMTkzNDYyYjc4MzNmZmVkNDQ0YTQ3ZTcxZGRiOQ==`
+Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDAxZDc1OTAwYTZlYTY3YWFiMjBjOWI0ZGExNGFhOTRjMw==`

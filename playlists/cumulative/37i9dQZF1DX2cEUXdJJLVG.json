@@ -520,10 +520,28 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 172289,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/0dc7vqP0w2kLg39jk2kVhU"
+    },
+    {
+      "album": {
+        "name": "The Juice: Vol. III",
+        "url": "https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172289,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3qptm6j356NV9FOJri6OgZ"
     },
     {
       "album": {

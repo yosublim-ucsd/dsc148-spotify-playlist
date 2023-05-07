@@ -4,7 +4,7 @@
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-212 songs - 15 hr 37 min
+213 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Bliss](https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe) | 5:14 | 2022-07-18 |  |
 | [Bliss](https://open.spotify.com/track/14nineYjZGD2m3cfuKFzJ6) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Bliss](https://open.spotify.com/album/60RmyYKqgLG4caGGd1IBZ7) | 5:14 | 2021-12-27 | 2022-07-29 |
 | [BLUE MOON](https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Blue Moon](https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO) | 3:44 | 2021-12-27 | 2022-07-29 |
-| [BLUE MOON](https://open.spotify.com/track/4Nq3SI3SNpsnxwlkaHYL94) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Blue Moon](https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15) | 3:44 | 2022-08-15 |  |
+| [BLUE MOON](https://open.spotify.com/track/4Nq3SI3SNpsnxwlkaHYL94) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Blue Moon](https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15) | 3:44 | 2022-08-15 | 2023-05-07 |
 | [Blues for Jeff](https://open.spotify.com/track/4Euzf13sMD4iGIMmYxdrlW) | [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Uptown Blues](https://open.spotify.com/album/1i5pM3abvuA6Kgw6eCjr0U) | 3:43 | 2022-04-11 |  |
 | [Bluewave Bossanova](https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [True North](https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm) | 4:24 | 2021-12-27 |  |
 | [Brazz Street](https://open.spotify.com/track/5zicMKlbOqwkKr3iCuVJnS) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Crossroads](https://open.spotify.com/album/3NUmzmDKiJpN2I0Jznj6zS) | 4:42 | 2021-12-27 | 2022-07-29 |
@@ -44,6 +44,7 @@
 | [Charlemagne](https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV) | [Brian Tarquin](https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2) | [Smooth Operators: Great Smooth Jazz Moments](https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv) | 3:48 | 2022-04-11 | 2022-04-20 |
 | [Chasing the Dream](https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q), [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Sexy Somethin](https://open.spotify.com/album/3bmCfOCQF2wsR7L7XwvMwa) | 4:34 | 2021-12-27 | 2022-07-28 |
 | [Chill AF](https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:05 | 2022-04-11 | 2022-04-20 |
+| [Chill Or Be Chilled](https://open.spotify.com/track/7zpT0LfNeHx8arSeRTh7NZ) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's The Sky](https://open.spotify.com/album/2xcJyQDNQKtypYZ260AJ4x) | 3:43 | 2023-05-03 |  |
 | [Chill or Be Chilled](https://open.spotify.com/track/5gAbksSWP6H2gzdWpN21w9) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [The Limit's the Sky](https://open.spotify.com/album/3YFixNZQruKFSuXhd3W69S) | 3:43 | 2022-01-17 | 2022-07-29 |
 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 | 2021-12-27 | 2022-07-03 |
 | [Co\-Motion](https://open.spotify.com/track/7aCzaOsXIRC28tE7bjJ7JK) | [Lemek](https://open.spotify.com/artist/52LGkbSlh5X2HM5hRnL83v) | [Co\-Motion](https://open.spotify.com/album/5nQi9bFWOclcf9zFzJi1qs) | 4:07 | 2022-11-14 | 2023-03-02 |
@@ -138,7 +139,7 @@
 | [My Song for You](https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Shake It](https://open.spotify.com/album/0fxC7twA5PZ0J5LngaiZbP) | 4:38 | 2021-12-27 |  |
 | [Never Enough](https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 3:59 | 2021-12-27 |  |
 | [New Bounce](https://open.spotify.com/track/3AFEIfMWHsjjv89DhFmS8G) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/1KO2CGLFnWltGv9mRwc22y) | 4:47 | 2021-12-27 | 2022-07-29 |
-| [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 | 2022-08-15 |  |
+| [New Bounce \(feat\. Vincent Ingala\)](https://open.spotify.com/track/0Oy7FMqWqf5ksonP766CNc) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [6](https://open.spotify.com/album/0GPisGzDAPEDwEcFn3f4kZ) | 4:47 | 2022-08-15 | 2023-05-07 |
 | [New Hope](https://open.spotify.com/track/1Sg5r4ji96C4GoKc7koDgz) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Tony Guerrero](https://open.spotify.com/artist/37kkt99kbf7StXED3Nip9W) | [Let's Ride](https://open.spotify.com/album/50NyCk4oDOFJTTuBvxv3fL) | 5:18 | 2022-04-11 | 2022-04-20 |
 | [On The One](https://open.spotify.com/track/0NL4WODOFyg5qcbcNQ4MaJ) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Risin' Up](https://open.spotify.com/album/3fNuTnYGJ1rQmhnPvlqa8t) | 4:49 | 2022-07-11 | 2022-07-21 |
 | [Only 4 One Moment](https://open.spotify.com/track/1G7QHZpMheDi2hrriqALma) | [Thom Rotella](https://open.spotify.com/artist/72FbTlHE6bOKc7HLQoa7pm) | [A Day In The Life](https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn) | 4:24 | 2022-01-10 | 2022-06-12 |
@@ -180,7 +181,7 @@
 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 | 2021-12-27 |  |
 | [Soulfood Sunday](https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ) | [Ben Tankard](https://open.spotify.com/artist/60nfj9O2pKtlqIPfxp3FEg) | [Shine!](https://open.spotify.com/album/1TFKjCxkfw8XVb6nh7o9VY) | 4:02 | 2022-01-03 | 2022-10-03 |
 | [Soulfully](https://open.spotify.com/track/6QIv6nsWBk84KgNbN618O8) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Soulfully](https://open.spotify.com/album/4bRm3UKAKAmfLJ6bWuDigT) | 4:10 | 2021-12-27 |  |
-| [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 | 2023-05-05 |
+| [Southern Style](https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Smooth Grooves, Vol\. 2](https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm) | 6:05 | 2022-08-29 |  |
 | [Spray Bay](https://open.spotify.com/track/3KHLV5FTalpbnNmmznJcVk) | [Jeremy Sean Hector](https://open.spotify.com/artist/1akYcPyDtIQAN54HFVHbWR) | [Ascension](https://open.spotify.com/album/5wZPP4EBzRTbOltJNGPdDi) | 4:47 | 2022-04-11 | 2022-04-20 |
 | [Static in the Attic](https://open.spotify.com/track/69cpqIccenZsg4tO3lYgrK) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Sunlight](https://open.spotify.com/album/0kx7WayUflfeiYpDKhsbnB) | 4:49 | 2022-04-11 | 2022-12-24 |
 | [Steppin' Out](https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [All For Love](https://open.spotify.com/album/2DmMf1bOCZniiHjBNPlTyt) | 4:05 | 2021-12-27 | 2022-07-28 |

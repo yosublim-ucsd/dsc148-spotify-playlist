@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 
 > cute moments in fields and on dancefloors \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,437 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,664 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,18 +30,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 20 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/3wJrBiiTIRRfKSL2TQWR60) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 4:10 |
 | 21 | [Falling](https://open.spotify.com/track/79FEKK0AZpiQoC2KejLQ4k) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 1:12 |
 | 22 | [LET’S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET’S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 |
-| 23 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 |
-| 24 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
+| 23 | [Sonder](https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [More Content](https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ) | 3:01 |
+| 24 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 |
 | 25 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 26 | [Love Reigns](https://open.spotify.com/track/7CGkR8BkFkvzrEXWYWB9gw) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [What I Breathe](https://open.spotify.com/album/4Xt7IVNtLEjVjetUBufoyw) | 4:54 |
 | 27 | [I Go \- DJ Koze Remix](https://open.spotify.com/track/3GHJ47kr5h2nisPvaRGBFT) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 5:29 |
 | 28 | [Danielle \(smile on my face\)](https://open.spotify.com/track/4HStxm6wtRzoAyOacAlHUG) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/4O0noIPlmEkVFvyj7TOKpA) | 3:21 |
 | 29 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 |
 | 30 | [Burning In My Arms \- Edit](https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Burning In My Arms \(Edit\)](https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B) | 3:31 |
-| 31 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
-| 32 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
-| 33 | [Arms](https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Arms](https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ) | 4:04 |
-| 34 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 |
+| 31 | [Can We Still Be Friends?](https://open.spotify.com/track/57UOWrbEXa4wrcfuOs7Xuj) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Can We Still Be Friends?](https://open.spotify.com/album/0KcN7nF5IZu4x90dwmxBDC) | 4:03 |
+| 32 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
+| 33 | [Never Gonna Stop](https://open.spotify.com/track/216LOkWfwFC0oI2ffMApMc) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Must Be Nice](https://open.spotify.com/album/6OofM4R1bZLZXrU1Pwr09L) | 3:59 |
+| 34 | [Arms](https://open.spotify.com/track/4NSe5EhRScbUpixWwojp7o) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Arms](https://open.spotify.com/album/3tIcgx98A4fcBEwvIoH7EQ) | 4:04 |
 | 35 | [Turning Away](https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Turning Away](https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c) | 4:04 |
 | 36 | [To Feel Again / Trois](https://open.spotify.com/track/4ho6jJU2nbX0NbiF33i4tX) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [To Feel Again / Trois](https://open.spotify.com/album/1g4YD9mlCiDznl0upnFbrI) | 4:53 |
 | 37 | [I Just Want To Love You](https://open.spotify.com/track/2wi0QZ8SagYzfSeAee6Rm4) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You](https://open.spotify.com/album/4hofhgHoBQXquGsuaELmx4) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJzwfJo7atz.md) - [plain]
 | 49 | [Lose Your Senses](https://open.spotify.com/track/4UGtoN1j6i8gtMb64Y2cDY) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Lose Your Senses](https://open.spotify.com/album/6yLyY2UFppJXFz2jVXTKUM) | 6:28 |
 | 50 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 |
 
-Snapshot ID: `MCwzNjM0NTM3Mjc3MzdkNjMzYzBlMDhlZTVkNGY0YzJkZmRkZjIwNWQ5`
+Snapshot ID: `MCw4ZTExYjA4MjQ2NDdiMzE2N2RhOWU1NDBkNDUzYTE1N2U0YzJhZmJm`

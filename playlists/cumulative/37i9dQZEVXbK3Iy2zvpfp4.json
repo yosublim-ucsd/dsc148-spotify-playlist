@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 407714,
       "name": "Bo\u017e\u00ed Ml\u00fdny Melou Furt",
       "url": "https://open.spotify.com/track/4uFaGNP4ei0VK7VC7BVbZ2"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 134719,
       "name": "Cig\u00e1n v meste",
       "url": "https://open.spotify.com/track/2f1eQ2Dt2r31ntmAGeDvKy"
@@ -3644,7 +3644,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 174253,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
@@ -7015,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "HOJE EU VOU COMER NOVINHA 02 (Sped Up)",
+        "url": "https://open.spotify.com/album/7JKin5ZR7xTn1zM9MYrACF"
+      },
+      "artists": [
+        {
+          "name": "DJ AG O GRINGO",
+          "url": "https://open.spotify.com/artist/5x5QpMsxPAaMgm0bxQyKJC"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107128,
+      "name": "HOJE EU VOU COMER NOVINHA 02",
+      "url": "https://open.spotify.com/track/0KYBIYOwiQbu8gOjNVzhsQ"
+    },
+    {
+      "album": {
         "name": "HOJE EU VOU COMER NOVINHA",
         "url": "https://open.spotify.com/album/7FNd2yodzN9NDZTBJhI2Eh"
       },
@@ -7026,7 +7044,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 107128,
       "name": "HOJE EU VOU COMER NOVINHA 02",
       "url": "https://open.spotify.com/track/1vKRuWNMzYKX2MxdQawM0N"
@@ -7795,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "If Looks Could Kill",
+        "url": "https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194213,
+      "name": "if looks could kill",
+      "url": "https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u"
+    },
+    {
+      "album": {
         "name": "if looks could kill",
         "url": "https://open.spotify.com/album/1LOxsRxzEcPeYQSNQuQEbv"
       },
@@ -7994,6 +8030,24 @@
       "duration_ms": 119111,
       "name": "Intro",
       "url": "https://open.spotify.com/track/7Hv3RbeEI9ynt6S7dIm3iT"
+    },
+    {
+      "album": {
+        "name": "Memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169841,
+      "name": "Introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
     },
     {
       "album": {
@@ -10848,7 +10902,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 153238,
       "name": "Montagem - Conga Conga (Remix)",
       "url": "https://open.spotify.com/track/4h3IQVSBs8lbFCvwMjGp83"
@@ -14634,7 +14688,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-07",
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -17054,6 +17108,24 @@
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
+        "name": "The Lost Soul Down",
+        "url": "https://open.spotify.com/album/2xZcQc81RlVfriqzvw7ROF"
+      },
+      "artists": [
+        {
+          "name": "Suzi Chavo",
+          "url": "https://open.spotify.com/artist/1VNQJiKGjToroNY0f6b38h"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211279,
+      "name": "The Lost Soul Down",
+      "url": "https://open.spotify.com/track/2bEInKneObrKkuvUPtBs9O"
     },
     {
       "album": {

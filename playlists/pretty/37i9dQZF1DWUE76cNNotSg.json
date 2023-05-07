@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 435197,
+  "num_followers": 435376,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGQ2N2E4NmI1YWUzYjY1OTQ0YjI4MmMyNzAyOGJkNWJkOGRjNWJl",
+  "snapshot_id": "MCw2MTZlNTVhMGU3MWNlOTlkYWRlYTY1NmJhN2IxMjhjZWQwMWJjZDdh",
   "tracks": [
     {
       "added_at": "2023-03-20 18:32:59",
@@ -317,6 +317,22 @@
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
       "added_at": "2023-03-20 18:32:59",
       "album": {
         "name": "Thrill of the Arts",
@@ -335,22 +351,6 @@
       "duration_ms": 181259,
       "name": "Back Pocket",
       "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 194594,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -383,6 +383,26 @@
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        },
+        {
+          "name": "Alex Maher",
+          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -431,26 +451,6 @@
       "duration_ms": 238183,
       "name": "Vanille fraise",
       "url": "https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        },
-        {
-          "name": "Alex Maher",
-          "url": "https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Someone\u2019s EP II X",
         "url": "https://open.spotify.com/album/6tUqkoCwuE4NffYRmMPVNR"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 266289,
       "name": "go with u - Louis La Roche Remix",
       "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -735,18 +735,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Chika (scared)",
-        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
+        "name": "Hesitate",
+        "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Golden Vessel",
+          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
+        },
+        {
+          "name": "Emerson Leif",
+          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
         }
       ],
-      "duration_ms": 168245,
-      "name": "Chika (scared)",
-      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
+      "duration_ms": 251279,
+      "name": "Hesitate",
+      "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Hesitate",
-        "url": "https://open.spotify.com/album/5yCaCrHtiOhgbdBAupRJJM"
+        "name": "Chika (scared)",
+        "url": "https://open.spotify.com/album/0BacQ1J2UePRp2gE7zGk2z"
       },
       "artists": [
         {
-          "name": "Golden Vessel",
-          "url": "https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS"
-        },
-        {
-          "name": "Emerson Leif",
-          "url": "https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 251279,
-      "name": "Hesitate",
-      "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+      "duration_ms": 168245,
+      "name": "Chika (scared)",
+      "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Collage 1",
-        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 191253,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Collage 1",
+        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "About A Feeling",
+        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
+      },
+      "artists": [
+        {
+          "name": "Summer Heart",
+          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
+        }
+      ],
+      "duration_ms": 247572,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Bodies",
         "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 209293,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "About A Feeling",
-        "url": "https://open.spotify.com/album/2GkkprMhl4L0TyIyRvfRwX"
-      },
-      "artists": [
-        {
-          "name": "Summer Heart",
-          "url": "https://open.spotify.com/artist/0JlTFsR41vwvQTppOR3yio"
-        }
-      ],
-      "duration_ms": 247572,
-      "name": "I Wanna Go",
-      "url": "https://open.spotify.com/track/3EA4HwrlLdDJ3b4cX7JfqC"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1091,6 +1091,46 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Woodstock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "On the Quiet (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Far Away Place",
+      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Old Bone (Jim-E Stack Remix)",
         "url": "https://open.spotify.com/album/0N4gagOhj0I1XT9jLwKV6t"
       },
@@ -1151,42 +1191,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "On the Quiet (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
+        "name": "What Falling in Love Is For",
+        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
       },
       "artists": [
         {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Vaarwell",
-          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 259146,
-      "name": "Far Away Place",
-      "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Woodstock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 194434,
-      "name": "Feel It Still - Medasin Remix",
-      "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+      "duration_ms": 174791,
+      "name": "What Falling in Love Is For",
+      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "What Falling in Love Is For",
-        "url": "https://open.spotify.com/album/7FFeFU5wRax5sTF3LurA68"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 174791,
-      "name": "What Falling in Love Is For",
-      "url": "https://open.spotify.com/track/6TYT1WKmZXZOkZDqDoNuAX"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 336867,
       "name": "Taking Over",
       "url": "https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Do You Love Her Now / He",
+        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+      },
+      "artists": [
+        {
+          "name": "Jai Paul",
+          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "He",
+      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1271,38 +1287,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Do You Love Her Now / He",
-        "url": "https://open.spotify.com/album/5mpECz4TMWAEkAUSp7FIUO"
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
       },
       "artists": [
         {
-          "name": "Jai Paul",
-          "url": "https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc"
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
         }
       ],
-      "duration_ms": 268000,
-      "name": "He",
-      "url": "https://open.spotify.com/track/3sV8Y8weWHxBbDa4rGGL9a"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
-        "name": "Low Season",
-        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Kinda Lovely",
-      "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1327,18 +1323,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+        "name": "Low Season",
+        "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
         }
       ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+      "duration_ms": 237560,
+      "name": "Kinda Lovely",
+      "url": "https://open.spotify.com/track/3g3lqFthZ9yjNhcCjUDzFW"
     },
     {
       "added_at": "2023-03-20 18:32:59",

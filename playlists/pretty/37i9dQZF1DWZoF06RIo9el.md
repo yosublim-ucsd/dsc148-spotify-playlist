@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de abril 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,522,661 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,522,742 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 14 | [FLA](https://open.spotify.com/track/3v3nabIFa3PxGCL4w1NiHp) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [511](https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X) | 2:14 |
 | 15 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
 | 16 | [Mexico](https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Mexico](https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6) | 2:33 |
-| 17 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
-| 18 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
+| 17 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
+| 18 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
 | 19 | [Tu Recuerdo](https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Tu Recuerdo](https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy) | 3:29 |
 | 20 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 |
 | 21 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 28 | [Conquistar El Planeta](https://open.spotify.com/track/6cOGBvdT0RY3UUtEP7vRHs) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 2:42 |
 | 29 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 |
 | 30 | [X Tu Casa](https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:43 |
-| 31 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/4pX4VTKooLaSRLkESPyR8N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/album/6wCKX9vCPoynrnv6fmaKaP) | 3:07 |
-| 32 | [Esa Nena](https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Esa Nena](https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6) | 3:17 |
+| 31 | [Esa Nena](https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Esa Nena](https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6) | 3:17 |
+| 32 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/4pX4VTKooLaSRLkESPyR8N) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/album/6wCKX9vCPoynrnv6fmaKaP) | 3:07 |
 | 33 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
 | 34 | [mi maná](https://open.spotify.com/track/0zhV7fyFkmRz69TzajWjdO) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [mi maná](https://open.spotify.com/album/1fevpnl0PSdkl08iVkxh4m) | 2:52 |
 | 35 | [Ben & Jerry´s](https://open.spotify.com/track/2k8O5ZlRwsPnWSP2ZqSZRf) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:23 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 44 | [OH NO](https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [OH NO](https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu) | 2:48 |
 | 45 | [TRES SHOT](https://open.spotify.com/track/4hNCIzbwo0ljZWjHy2nk4k) | [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [TRES SHOT](https://open.spotify.com/album/65am4H2fAGBw03YrDdqCTT) | 2:32 |
 
-Snapshot ID: `MCw5ZDUyODk3NTA3YmIwZTM5OTE3MjY4MWIyYWJmMTFiNmVjNGQ4MTIy`
+Snapshot ID: `MCw0NmQzYjU2OTgyYzEwOGExZDQxMGY4YzIzOGVjMzA5MjZkYmFmNDk2`

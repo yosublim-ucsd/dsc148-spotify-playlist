@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 
 > Relaxing Jazz guitar for focus, study or unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,111 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,185 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYY963019MQr.md) - [plain]
 | 77 | [Waltz for Debbie](https://open.spotify.com/track/51Nyi9QizVyl5W9WViPPBp) | [CJ Smalls](https://open.spotify.com/artist/1kU7znDIPF92VLFCg7VAq1) | [Waltz for Debbie](https://open.spotify.com/album/11Ejo3kH23ajb1h4PFsXga) | 3:04 |
 | 78 | [Thankful](https://open.spotify.com/track/3S0H62Wg9uTe1QRZsUL4H7) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 5:09 |
 
-Snapshot ID: `MCxlYmMwZDdiMTgwMjI3NGNlYTNlYWM1ZjI5ZTVjNzhjNjQ2ZmQ0MTJi`
+Snapshot ID: `MCwwYzY1YmFmN2NkMjFhMjhlYzZmZGYwZjBmMDcwYTI2ODkyNGI3ZGRm`

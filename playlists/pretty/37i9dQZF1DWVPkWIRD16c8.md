@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,135 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,437 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 45 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
 | 46 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
 | 47 | [Live Like That](https://open.spotify.com/track/6QbbxQtijqLfUV90Vlm1Xh) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Live Like That](https://open.spotify.com/album/7FahRUE20rBZZuaR7pVk38) | 3:57 |
-| 48 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
-| 49 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
+| 48 | [Glory](https://open.spotify.com/track/0tHv0wC2xV5j7r4e2dxwuW) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Glory](https://open.spotify.com/album/5bzKE2XzZchn40hTnpa2bu) | 4:41 |
+| 49 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
 | 50 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
 | 51 | [Never Lost](https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Never Lost](https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt) | 5:15 |
 | 52 | [Look Up Child \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4riVBa7E3aPBsQVeDBBWGy) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 3:34 |
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 54 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
 | 55 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 |
 | 56 | [Ready Set Go \(feat\. Capital Kings\) \(feat\. Capital Kings\)](https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl) | [Royal Tailor](https://open.spotify.com/artist/1CmWVjnzTRTqZqdVIlZSSY), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Royal Tailor](https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa) | 3:29 |
-| 57 | [When We Fall Apart](https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 4:27 |
-| 58 | [Unfinished](https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 3:32 |
+| 57 | [Unfinished](https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 3:32 |
+| 58 | [When We Fall Apart](https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 4:27 |
 | 59 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 |
 | 60 | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/track/0XMQuzgUJu7AjruBHzTg4Z) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [God Only Knows \(Timbaland Remix\)](https://open.spotify.com/album/1EVzer4Sth6dDaSXxZRuR0) | 3:35 |
 | 61 | [Who We Are](https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Who We Are](https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r) | 3:19 |
 | 62 | [It's Gonna Get Better](https://open.spotify.com/track/2FAe8dckXKBLgKoiDEkdi8) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Better](https://open.spotify.com/album/4nrfC2KI741CXHq1wqvHoY) | 3:22 |
-| 63 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
-| 64 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
+| 63 | [Song In My Soul \(feat\. Hollyn\)](https://open.spotify.com/track/3T8WYztdZWL6mItjWc4F6v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hollyn](https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 3:51 |
+| 64 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 65 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
 | 66 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
-| 67 | [You Are I Am](https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Hurt & The Healer](https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx) | 4:20 |
-| 68 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
+| 67 | [Miracle](https://open.spotify.com/track/0jJgHF533Wakrjt1lt6zwz) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Citizen of Heaven](https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us) | 3:42 |
+| 68 | [You Are I Am](https://open.spotify.com/track/1E0iYqr9YYu3HBXtplKLli) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Hurt & The Healer](https://open.spotify.com/album/3LDSK725XPaoV9Gg1f94gx) | 4:20 |
 | 69 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
 | 70 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
 | 71 | [Something in the Water](https://open.spotify.com/track/2NCYYlzzRKyX24hyyKPMeW) | [Brooke Fraser](https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN) | [Flags](https://open.spotify.com/album/1uyQnFBlGNgJEMpj7LOyyR) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 74 | [This Is the Stuff](https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Hundred More Years](https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E) | 3:03 |
 | 75 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
 
-Snapshot ID: `MCw1YTMyYTI4MGRjNWY3ZTQ3OWQwN2MzZTlkOGVlNzMyYmE4ZmJhZWQx`
+Snapshot ID: `MCwzOTg1MmQ2NDNhNWVmOTEwYWZiNjA3MjJkNTI5YzgyZGMzNGY0Yjc2`

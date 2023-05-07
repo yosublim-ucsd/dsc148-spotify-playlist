@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 165525,
+  "num_followers": 165591,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTg2ZTRhZTZmYTRkYmQxZTM5Yjg4YmJmODk3MTdkNTE1MGZjMzlh",
+  "snapshot_id": "MCw3MjIwZTJiMmNiZGE2NTA0OTEwMzNkZGRiNTQyZDk1MmFhM2M3NTFm",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -891,6 +891,30 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "Color de Alegr\u00eda",
+        "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
+      },
+      "artists": [
+        {
+          "name": "Andy Alemany",
+          "url": "https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q"
+        },
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
+        },
+        {
+          "name": "Samuel ASH",
+          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Color de Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Palpitaciones (Remix)",
         "url": "https://open.spotify.com/album/7arSsVZ5zYOxQakXbw73cv"
       },
@@ -927,30 +951,6 @@
       "duration_ms": 206527,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/3WDHbrD3rJ8nKJPEQxPLNK"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Color de Alegr\u00eda",
-        "url": "https://open.spotify.com/album/26GpKQW06AsnepVCjOwpy9"
-      },
-      "artists": [
-        {
-          "name": "Andy Alemany",
-          "url": "https://open.spotify.com/artist/40dnXSgTz12SdzNYNGTb8Q"
-        },
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75"
-        },
-        {
-          "name": "Samuel ASH",
-          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Color de Alegr\u00eda",
-      "url": "https://open.spotify.com/track/0BL3azhmJZTDtS7frP6rGV"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1407,22 +1407,34 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Sigo Aqui",
-        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
+        "name": "Dios, Familia & Rap",
+        "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
       },
       "artists": [
         {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "El Philippe",
+          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
         }
       ],
-      "duration_ms": 194986,
-      "name": "Sigo Aqu\u00ed",
-      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
+      "duration_ms": 257506,
+      "name": "Dios, Familia & Rap",
+      "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Yo Te Mir\u00e9",
+        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Yo Te Mire",
+      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1451,34 +1463,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Yo Te Mir\u00e9",
-        "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
+        "name": "Sigo Aqui",
+        "url": "https://open.spotify.com/album/36MMZx2vedP0khIxSOCOVV"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Yo Te Mire",
-      "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "Dios, Familia & Rap",
-        "url": "https://open.spotify.com/album/05PDURtilpwyZp5ciEwwTa"
-      },
-      "artists": [
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
         {
-          "name": "El Philippe",
-          "url": "https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 257506,
-      "name": "Dios, Familia & Rap",
-      "url": "https://open.spotify.com/track/2ngZ7gQyyo2im1EUatTNnz"
+      "duration_ms": 194986,
+      "name": "Sigo Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4dUdfs1G76bVLc7OTqTaHA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+        "name": "Todo Por Ti",
+        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
       },
       "artists": [
         {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
         }
       ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+      "duration_ms": 148988,
+      "name": "Todo Por Ti",
+      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Todo Por Ti",
-        "url": "https://open.spotify.com/album/5KHAGL0OxrGg86ZSivOMAh"
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
       "artists": [
         {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 148988,
-      "name": "Todo Por Ti",
-      "url": "https://open.spotify.com/track/7tDhgdffL4fH46zRnWvCox"
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 184138,
       "name": "Latidos",
       "url": "https://open.spotify.com/track/6okYVMIELsaHstd49DaQME"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
+      },
+      "artists": [
+        {
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
+        },
+        {
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
+        }
+      ],
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     }
   ],
   "unique_name": "Flow Cristiano",

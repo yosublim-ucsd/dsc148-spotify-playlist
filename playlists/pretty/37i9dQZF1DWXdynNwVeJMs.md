@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: ECHT!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 80 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,528 likes - 80 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 4 | [The Call of the Quagga Quagga](https://open.spotify.com/track/3mKokrtZqNAPfiAg0Jo30P) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Call Of The Quagga Quagga](https://open.spotify.com/album/2EvdjR9ghHhHNtypwGB8S8) | 6:50 |
 | 5 | [Pajo](https://open.spotify.com/track/27hWUgRmRzZXK4xpWhdhAj) | [Super Gum](https://open.spotify.com/artist/6PscJJheK9Sic9olDY2S6J) | [Pajo](https://open.spotify.com/album/73rgmLL4GgY3IgT6wdRw9a) | 5:58 |
 | 6 | [Buraq](https://open.spotify.com/track/5eEVndJMdH8YKwByOHY3ef) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:58 |
-| 7 | [Mtwk part 2](https://open.spotify.com/track/7230vgOt7dkrPZUBb70OOd) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Cheesecake](https://open.spotify.com/album/5fxo3OiIaTYNtr6v2I5XBn) | 4:33 |
+| 7 | [Mtwk part 2](https://open.spotify.com/track/0VBQ4OrQPcNdlGf3fqsaok) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 4:33 |
 | 8 | [Fair Enough](https://open.spotify.com/track/3JCgJv9obC3FmP0uyrDlEr) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:56 |
 | 9 | [Bossa dolce](https://open.spotify.com/track/5tkqbAUvxJ3hkvqRfIoEAE) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Bossa dolce](https://open.spotify.com/album/34HZEX6AwbnbGCdqJ5BUtZ) | 5:08 |
 | 10 | [Bee Jive](https://open.spotify.com/track/0b41FogpMfqTEgGjmPjecc) | [Echoes of Zoo](https://open.spotify.com/artist/6aYyo8CRlyAGNa9KNYzxRf) | [Bee Jive](https://open.spotify.com/album/2REXT0lKTL8rPIuim1Nycd) | 6:00 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 15 | [Alice](https://open.spotify.com/track/7IKA8BGPhbUlypRWFAHmXv) | [Stellar Legions](https://open.spotify.com/artist/0OVerCSCBhKBEXrCLPxxJO) | [Stellar Legions](https://open.spotify.com/album/4Q0An9lSHLeqIiZTDy8VeD) | 4:47 |
 | 16 | [Macadam](https://open.spotify.com/track/04KWVisYgJMlhO2iGRC162) | [schroothoop](https://open.spotify.com/artist/2gbO1WIhdYAqbwwh6LaASF) | [MACADAM](https://open.spotify.com/album/0MmXLzMi3nrfO0lec3drjK) | 3:10 |
 | 17 | [Polder](https://open.spotify.com/track/4XZ8K11KnsFFEMhHSQe3Ip) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Polder](https://open.spotify.com/album/5Knwv3rVbbwrXdRxAFwlVv) | 5:35 |
-| 18 | [Vault\-A](https://open.spotify.com/track/5SSjbO2ApYhfagJkCiaxoA) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Cheesecake](https://open.spotify.com/album/5fxo3OiIaTYNtr6v2I5XBn) | 3:24 |
+| 18 | [Vault\-A](https://open.spotify.com/track/2ipYvvyvT7dDLuu4f73xvE) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Sink\-Along](https://open.spotify.com/album/79jbHO5dq9dkn0TvqbHBdT) | 3:24 |
 | 19 | [Time Faded](https://open.spotify.com/track/55pmNeWiqkuqFel6lDcQA8) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Time Faded](https://open.spotify.com/album/4hcyzkUSY9tpmjnVLJpTHr) | 3:47 |
 | 20 | [Smooch](https://open.spotify.com/track/0mxkPFP9OWqJNdqq5TlmzQ) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Coaxial](https://open.spotify.com/album/0PjZnc3CdgsMYG9w0TxuH6) | 5:10 |
 | 21 | [Solace In Solitude](https://open.spotify.com/track/1lc91yToT1IMkmcJ6TzFXd) | [Profound Observer](https://open.spotify.com/artist/0dvxvZTqgUjgROTCBoF4NR) | [Solace In Solitude](https://open.spotify.com/album/6ciVgd0syuPG2hOzA3wu6P) | 5:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 80 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MCxiNzhiYjQ2YzExN2E1NDkxZTg0YzQ3Y2U2YTM0NzAxMTA2YWJmN2Ix`
+Snapshot ID: `MCxkYzVhYWRhMmJlMTgxNzk1OGNlNDc3OWNkOGNlOTQ2ODVkMDkyMzQz`

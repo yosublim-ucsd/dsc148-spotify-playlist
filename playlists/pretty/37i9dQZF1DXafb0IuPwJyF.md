@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  MAN WITH A MISSION & milet
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,663 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 779,082 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 |
 | 50 | [sinister](https://open.spotify.com/track/7tR03ofElFzll0dVIgnIAm) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [sinister](https://open.spotify.com/album/2sYMWQ3gsmhz8waGwYpGCq) | 3:38 |
 
-Snapshot ID: `MCwxZjgxYjIzMDg3ZWUxZjM5Yzg2NGZmNjdhY2FkNTZkYjdkN2U2OTVk`
+Snapshot ID: `MCxiYjkwZjE4ZDQ5MjJhMzIzZWVjY2M1NzlmNDdiZWMzZGYyZWIwMjky`
