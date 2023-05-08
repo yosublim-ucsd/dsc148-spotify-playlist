@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25793,
+  "num_followers": 25797,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODI3OGQ3NDZhYTNkZDE2NmQ1YjQxOGQ2ZjM0MDUwNjE5ZTAxNTJj",
+  "snapshot_id": "MCwxMDIwMTNhYTk1MzY4ZmE1MzQxOGUwMGU2Mzc2MDZjMjY5ZThkZDVi",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "N\u00e4r vindarna viskar mitt namn - Single",
-        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
-      },
-      "artists": [
-        {
-          "name": "Roger Pontare",
-          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
-        }
-      ],
-      "duration_ms": 184786,
-      "name": "N\u00e4r vindarna viskar mitt namn",
-      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 186453,
       "name": "Bra vibrationer",
       "url": "https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "N\u00e4r vindarna viskar mitt namn - Single",
+        "url": "https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H"
+      },
+      "artists": [
+        {
+          "name": "Roger Pontare",
+          "url": "https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG"
+        }
+      ],
+      "duration_ms": 184786,
+      "name": "N\u00e4r vindarna viskar mitt namn",
+      "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+        "name": "Genom Eld & Vatten",
+        "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "Sarek",
+          "url": "https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp"
         }
       ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
+      "duration_ms": 199253,
+      "name": "Genom Eld & Vatten",
+      "url": "https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "En helt vanlig Svensson",
+        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
+      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Bail\u00e1 Bail\u00e1",
         "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "En helt vanlig Svensson",
-        "url": "https://open.spotify.com/album/5yFU2tACu1Fp4dwSLY6NAO"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
       },
       "artists": [
         {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/4oOULCfbuFxwC1Bv2PSR7F"
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
         }
       ],
-      "duration_ms": 194933,
-      "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
-      "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -427,6 +443,22 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+      },
+      "artists": [
+        {
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+        }
+      ],
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -443,18 +475,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
+        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Bobbysocks",
+          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 176213,
+      "name": "La det swinge",
+      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -479,22 +511,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Genom Eld & Vatten",
-        "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
-      },
-      "artists": [
-        {
-          "name": "Sarek",
-          "url": "https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Genom Eld & Vatten",
-      "url": "https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Ashes To Ashes",
         "url": "https://open.spotify.com/album/3PdI7t8cuGziQ76P2ooFpR"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 180883,
       "name": "Ashes To Ashes",
       "url": "https://open.spotify.com/track/1iqxk51n6yyc6OIXu7dX8o"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "H\u00f6gt \u00f6ver havet",
-        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
-      },
-      "artists": [
-        {
-          "name": "Arja Saijonmaa",
-          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
-        }
-      ],
-      "duration_ms": 169226,
-      "name": "H\u00f6gt \u00f6ver havet",
-      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bobbysocks / Let It Swing - The Best Of Bobbysocks",
-        "url": "https://open.spotify.com/album/1Y5N3dPwHgubECWrFqpG5T"
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
       },
       "artists": [
         {
-          "name": "Bobbysocks",
-          "url": "https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs"
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
         }
       ],
-      "duration_ms": 176213,
-      "name": "La det swinge",
-      "url": "https://open.spotify.com/track/1D5JiCspnkQx8L57R3qpAb"
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Masquerade",
-        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
-      },
-      "artists": [
-        {
-          "name": "Eric Saade",
-          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
-        }
-      ],
-      "duration_ms": 180893,
-      "name": "Manboy",
-      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Diggiloo Diggiley",
         "url": "https://open.spotify.com/album/1aeO2MJZFZhk3E57aaYGlg"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 187520,
       "name": "Diggiloo Diggiley",
       "url": "https://open.spotify.com/track/4NzirQ4BrNkVaPEla2ipG4"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp"
+      },
+      "artists": [
+        {
+          "name": "Eric Saade",
+          "url": "https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG"
+        }
+      ],
+      "duration_ms": 180893,
+      "name": "Manboy",
+      "url": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
-      },
-      "artists": [
-        {
-          "name": "Fame",
-          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Give Me Your Love",
-      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -739,34 +723,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Gamla Stan (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk"
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/6iG5QUazlcxTw6Inkf6DHR"
       },
       "artists": [
         {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+          "name": "Fame",
+          "url": "https://open.spotify.com/artist/4cFizl8RUZEfXnkzw1Fiz6"
         }
       ],
-      "duration_ms": 183051,
-      "name": "M\u00f6t mig i Gamla Stan",
-      "url": "https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
-      },
-      "artists": [
-        {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
+      "duration_ms": 182320,
+      "name": "Give Me Your Love",
+      "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -787,18 +755,34 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "A",
-        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
       },
       "artists": [
         {
-          "name": "Anton Ewald",
-          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
         }
       ],
-      "duration_ms": 182106,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
+      "duration_ms": 185239,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Gamla Stan (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 183051,
+      "name": "M\u00f6t mig i Gamla Stan",
+      "url": "https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -815,6 +799,22 @@
       "duration_ms": 181586,
       "name": "Min k\u00e4rlek",
       "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "A",
+        "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
+      },
+      "artists": [
+        {
+          "name": "Anton Ewald",
+          "url": "https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb"
+        }
+      ],
+      "duration_ms": 182106,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1"
     },
     {
       "added_at": "2023-02-26 01:59:39",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: De Jeugd Van Tegenwoordig
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,841 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,843 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 33 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 |
 | 34 | [Leren Jas](https://open.spotify.com/track/1GxnZQ0OBHRuxXUD6Z8kSu) | [Bob uit Zuid](https://open.spotify.com/artist/4L0tWcECUNXMKnUWNQ1bNv), [Izzy Izzy](https://open.spotify.com/artist/7eHYJjxTWJvHmGGPJs8xpz) | [Leren Jas / Vind Je Ook Niet](https://open.spotify.com/album/1nk6Yb2L7Ij4JzpclbNCXr) | 3:06 |
 | 35 | [Day One](https://open.spotify.com/track/3OLSNsjLlDxMIBCrGQSnJv) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Day One](https://open.spotify.com/album/6Yj1mLYVWdQWTIgix1YYfi) | 2:28 |
-| 36 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
+| 36 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 | 37 | [Taart in Huis](https://open.spotify.com/track/3rXlLBE5OngNUiyGcp0n0F) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Taart in Huis](https://open.spotify.com/album/3hl6I6EHJZycWViFFkUzrt) | 3:47 |
 | 38 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 |
 | 39 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 95 | [In The Sun](https://open.spotify.com/track/2DqZObXWfHLGWalcDN4zn7) | [Fargro](https://open.spotify.com/artist/0hMNjPwxOmRNtIl2kh16sj) | [In The Sun](https://open.spotify.com/album/3HhsCZvLsfd4zPhIl6im0P) | 2:31 |
 | 96 | [Vitamina](https://open.spotify.com/track/75x6UjIyasLu8PW3EEE8ee) | [Lani Manila](https://open.spotify.com/artist/0g7NWpl1IogB4zosDPZ4Eu) | [Vitamina](https://open.spotify.com/album/5VpJA18IJ3Ij9MHZvfJN5k) | 2:23 |
 | 97 | [Buy My Round](https://open.spotify.com/track/2MhTrtRPIIZoVuXQFjyeSx) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Buy My Round](https://open.spotify.com/album/2IWnXOBRdLybyCc4HgogCu) | 4:24 |
-| 98 | [Special Occasion](https://open.spotify.com/track/45l1Z0SmOABXwgJnswlpoQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/3spsJSmv6raOberLtMg6mJ) | 4:31 |
+| 98 | [Special Occasion](https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 4:31 |
 | 99 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 |
 | 100 | [Hey Zonnebloem](https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Zonnebloem](https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN) | 3:27 |
 
-Snapshot ID: `MCxiNjRiNzhkM2JmNTM0YWVlYjVhZWNkNzAyMGU0OTQwMDg4MTk1YjIx`
+Snapshot ID: `MCw5M2M2ZGI3ODExMTVjY2QwN2U5YmYxNjYyMjc1OTE5MTM0OGYyODlm`

@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Sigo En Prisi\u00f3n",
+        "url": "https://open.spotify.com/album/7DMzDeren09X0cTH2riSNt"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157161,
+      "name": "Sigo En Prisi\u00f3n",
+      "url": "https://open.spotify.com/track/47N02SRDyk1438N5pFaPi9"
+    },
+    {
+      "album": {
         "name": "Somos Arrieros",
         "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 242260,
       "name": "Ya Pa' Que",
       "url": "https://open.spotify.com/track/5zYhfNeQYi7lMmTbQBXJjM"

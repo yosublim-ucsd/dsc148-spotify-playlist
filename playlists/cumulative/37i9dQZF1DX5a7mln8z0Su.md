@@ -4,7 +4,7 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-219 songs - 12 hr 22 min
+220 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Star Is Falling](https://open.spotify.com/track/0GBC7xNTLl6d0I3RGSdf0V) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Fatal Album Ⅲ](https://open.spotify.com/album/5I2IjvBDa9nJ9F5GOLZIyy) | 1:58 | 2022-05-11 | 2022-07-28 |
 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 | 2022-05-11 | 2022-07-27 |
 | [After Tonight](https://open.spotify.com/track/1gvwigq4WUiVIusjtj69PE) | [Joy o'clock](https://open.spotify.com/artist/60oTGYNSgRlDlYqsNUtDKf) | [After Tonight](https://open.spotify.com/album/15ujTiasrrYEQoNZ1bt7ez) | 3:48 | 2022-05-11 | 2022-06-13 |
+| [Airplane Mode](https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Track 03](https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg) | 2:51 | 2023-05-05 |  |
 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-24 |  |
 | [All I Have](https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo) | [All I Have](https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ) | 2:48 | 2022-06-09 |  |
 | [Alone](https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [Alone](https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1) | 3:03 | 2023-02-24 |  |
@@ -95,7 +96,7 @@
 | [I don’t want to](https://open.spotify.com/track/5BCbtI9gGtE0vD2btEgDha) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [childhood of the sea](https://open.spotify.com/album/6azHgQ3LbUgkGXmYnAwtET) | 3:49 | 2022-05-11 | 2022-07-28 |
 | [I had a dream](https://open.spotify.com/track/4XExkAorTzzT1SZbwtM1Ua) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Drawing](https://open.spotify.com/album/36bYb8t0HlEwhVqgfd4iBF) | 2:46 | 2022-05-11 | 2022-07-28 |
 | [I Mean You](https://open.spotify.com/track/3Ad0HzkD1pTXqlgpLEE7AI) | [Diana](https://open.spotify.com/artist/7Mq5nwlqlvFGoDu3pPtq3E) | [I Mean You](https://open.spotify.com/album/5kXiA6qyQ6Lym4TqPUcXXo) | 3:15 | 2023-01-25 | 2023-03-11 |
-| [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 |  |
+| [I thought it was love.](https://open.spotify.com/track/37dIoyzhDmVq4Zz1Ps1SgU) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [I thought it was love.](https://open.spotify.com/album/6FFH6bITUXYfH1NFnQa4DW) | 4:00 | 2022-05-11 | 2023-05-08 |
 | [Ican'tfeelmaface](https://open.spotify.com/track/4R6g9qPlM0eE0w5Awr8PXR) | [Cherry Coke](https://open.spotify.com/artist/7EuKZk7nDtXrYI6QNTmtKi) | [every flower you gave me](https://open.spotify.com/album/3JRoq6nJRd2PyvKVhJj4TU) | 2:56 | 2022-05-11 | 2022-06-02 |
 | [If It's Not You](https://open.spotify.com/track/4fAXE9nsJzUaw4UFs2uvAy) | [Limit](https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1) | [If It's Not You](https://open.spotify.com/album/4KOaX6kkTP3SQ2emD2ir0P) | 2:59 | 2022-05-11 | 2022-07-19 |
 | [In My Dream](https://open.spotify.com/track/7cqRIDtEEOTXbwoIzAK40z) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [In My Dream](https://open.spotify.com/album/4Al4Mk1fC8FrF9l5uuaPuy) | 2:49 | 2022-05-11 | 2022-07-29 |

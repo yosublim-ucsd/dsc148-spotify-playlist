@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-751 songs - 1 day 19 hr 58 min
+752 songs - 1 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Chúng Ta Sau Này](https://open.spotify.com/track/4Wdwvi2C5MD8zDi9Kg3x4X) | [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Chúng Ta Sau Này](https://open.spotify.com/album/7xWIiLIMicso31AA6umVjI) | 3:31 | 2021-03-27\* | 2021-07-11 |
 | [Chơi Vơi](https://open.spotify.com/track/5BL9QQTJNIuME3RE9Tgv3W) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [Trung Quân](https://open.spotify.com/artist/5Cf9nBDNc99UFkq9Yqap7Q) | [Chơi Vơi](https://open.spotify.com/album/3KgYdMSQ3nmsub26Tw28s9) | 4:38 | 2022-04-21 | 2022-05-25 |
 | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/track/3hxfMsWQOcS2o68G62SpuU) | [Ha Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Chưa Quên Người Yêu Cũ](https://open.spotify.com/album/4bs6KH6sFnt1Y08VtKBB0q) | 5:02 | 2023-02-04 | 2023-02-12 |
-| [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-02 | 2023-05-07 |
+| [Chạy Khỏi Thế Giới Này](https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Chạy Khỏi Thế Giới Này](https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ) | 4:15 | 2022-07-02 |  |
 | [Chạy Về Khóc Với Anh](https://open.spotify.com/track/7hzVxbVA6Y5t9YDzpSgdRS) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [Chạy Về Khóc Với Anh](https://open.spotify.com/album/7JOa0R0TMdg40E6s7gtlx4) | 3:43 | 2022-02-06 | 2022-03-26 |
 | [Chậm Lại](https://open.spotify.com/track/067J8jL5iPDzVBH0jClJpI) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Chậm Lại](https://open.spotify.com/album/4sGS3UYEjJtBi4MuiOwGKV) | 3:43 | 2022-08-27 | 2022-09-11 |
 | [Chậm Lại](https://open.spotify.com/track/4fBZ8DOoxcZeEl7GyQdnUF) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Một Vạn Năm](https://open.spotify.com/album/4nfpHvg7KFcAUTg6yajpvN) | 3:43 | 2022-09-10 | 2022-09-30 |
@@ -267,7 +267,7 @@
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-07-15 |
 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 | 2022-11-22 | 2023-01-17 |
 | [Give It to Me](https://open.spotify.com/track/1Y84lXBGSuri3tDPUkFwXT) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [Agust D](https://open.spotify.com/album/2hmdAuhyFedjZOYfBJe3ec) | 2:29 | 2022-03-09 | 2022-03-11 |
-| [Giấc Mơ Khác](https://open.spotify.com/track/5YiqPAVbiFUj1G1qvbXo0X) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Giấc Mơ Khác](https://open.spotify.com/album/7Es5a5gTXIzJVZTw5wG8rM) | 3:43 | 2023-02-11 |  |
+| [Giấc Mơ Khác](https://open.spotify.com/track/5YiqPAVbiFUj1G1qvbXo0X) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Giấc Mơ Khác](https://open.spotify.com/album/7Es5a5gTXIzJVZTw5wG8rM) | 3:43 | 2023-02-11 | 2023-05-08 |
 | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/track/1MQ97OxIEAMm5BUHbS6yHv) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Giữa Đại Lộ Đông Tây](https://open.spotify.com/album/3sd1Ni5crypjsq5VuVYaK1) | 3:46 | 2021-04-14 | 2021-07-28 |
 | [Giữa Đại Lộ Đông Tây \(Live at XHTĐRLX\)](https://open.spotify.com/track/0acdAdw5IXzurgC9DiugKy) | [Uyên Linh](https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP) | [Giữa Đại Lộ Đông Tây \(Live at XHTĐRLX\)](https://open.spotify.com/album/28VK1hnCXCiY2ZwxxoR45Y) | 3:27 | 2021-03-31 | 2021-04-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-12 | 2022-09-13 |
@@ -457,6 +457,7 @@
 | [Một Mình Có Buồn Không](https://open.spotify.com/track/6qojhjr9LHJOvLDzK5yBHP) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Một Mình Có Buồn Không](https://open.spotify.com/album/2QDSFMA1EylK5Qm1AB0nHh) | 4:26 | 2021-03-31 | 2021-04-20 |
 | [Một Mình Có Buồn Không](https://open.spotify.com/track/7ne0bfecn1o29bXC0Xblj2) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl) | [Một Mình Có Buồn Không](https://open.spotify.com/album/5Qhr6HOeRelMxCFk04Rxtb) | 4:26 | 2021-03-27\* | 2021-03-31 |
 | [Một Ngàn Nỗi Đau](https://open.spotify.com/track/05X3a0YGmS1rbH50aL8lGF) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Một Ngàn Nỗi Đau](https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz) | 5:21 | 2022-06-25 | 2023-02-10 |
+| [Một Ngày Chẳng Nắng](https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Một Ngày Chẳng Nắng](https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX) | 3:12 | 2023-05-07 |  |
 | [Một Năm Mới Bình An](https://open.spotify.com/track/5sV1co5LRGscLaMibfdD1Y) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [m\-tp M\-TP](https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M) | 4:08 | 2022-02-01 | 2023-01-26 |
 | [N.O](https://open.spotify.com/track/47zs6e5M9Tsr7HhK45Gh6a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:32 | 2022-06-11 | 2022-06-13 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-17 |
@@ -603,7 +604,7 @@
 | [Strangers By Nature](https://open.spotify.com/track/13CVSGLSFl4UxpDVR6u3dq) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:02 | 2021-11-21 | 2021-11-25 |
 | [Sugar Rush Ride](https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 | 2023-01-28 | 2023-01-30 |
 | [Suit & Tie](https://open.spotify.com/track/38MI5LpTajiO3A0DQGcCmu) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:58 | 2023-03-04 | 2023-03-10 |
-| [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-26 |  |
+| [Super](https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:20 | 2023-04-26 | 2023-05-08 |
 | [Super Tuna](https://open.spotify.com/track/5EaVikAxSRponyifRP6Fhp) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Super Tuna](https://open.spotify.com/album/7vreT3Vciy3cTiidhsw9Y2) | 1:08 | 2022-10-29 | 2022-11-10 |
 | [Sweet Night](https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 12](https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93) | 3:34 | 2022-12-28 | 2023-05-05 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-27 |

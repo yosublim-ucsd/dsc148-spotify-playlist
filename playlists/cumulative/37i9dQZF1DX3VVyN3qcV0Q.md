@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix to keep the party going!
 
-25 songs - 1 hr 0 min
+26 songs - 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [I Want Cha Back \- Mixed](https://open.spotify.com/track/2HH3sj6aYqZD0MLZQeGK4K) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [I Want Cha Back \(Mixed\)](https://open.spotify.com/album/36HoHeKNVu43BYf39Y8d0o) | 1:32 | 2022-08-03 |  |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\) \- Mixed](https://open.spotify.com/track/5cjzXa0VmlKIGidiEMWlfB) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\) \[Mixed\]](https://open.spotify.com/album/5vKUztMyua6zck2ZsdvbNS) | 2:40 | 2022-08-03 |  |
 | [Little L \- Mixed](https://open.spotify.com/track/5GcPSgyrmcHq2UkAduKw7m) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Little L \(Mixed\)](https://open.spotify.com/album/6rOhVDzDILexe5mR7d0Azs) | 2:37 | 2022-08-03 |  |
-| [Magic \- Mixed](https://open.spotify.com/track/6Wq3MunUO61qwvStSDzDX1) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Magic \(Mixed\)](https://open.spotify.com/album/6wCUwMEDOGZW2zMvDBanWf) | 3:16 | 2022-08-03 |  |
+| [Magic](https://open.spotify.com/track/0s42NoPFUHcDOIARW3kusg) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/0CRl7sDgkjyht3JTVbIe2Z) | 3:15 | 2022-08-03 |  |
+| [Magic \- Mixed](https://open.spotify.com/track/6Wq3MunUO61qwvStSDzDX1) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Magic \(Mixed\)](https://open.spotify.com/album/6wCUwMEDOGZW2zMvDBanWf) | 3:16 | 2022-08-03 | 2023-05-08 |
 | [Memory \- Mixed](https://open.spotify.com/track/1M2k0X5demPWw1IH9B9B0p) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Memory \(Mixed\)](https://open.spotify.com/album/7xizosSS9HOSdN2sTj2I71) | 2:26 | 2022-08-03 |  |
 | [Must Be Love \- Mixed](https://open.spotify.com/track/0Nu7WKMOdUjqPXsYtjcwlw) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Must Be Love \(Mixed\)](https://open.spotify.com/album/3kfV5oGkLlo9BQt8YGfVWa) | 2:07 | 2022-08-03 |  |
 | [PROBLEMZ \- Mixed](https://open.spotify.com/track/0EX28c6hXYasg6PUjznRRZ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [PROBLEMZ \(Mixed\)](https://open.spotify.com/album/3ZakUEHGTgzqZUayuEVs3h) | 2:53 | 2022-10-06 |  |

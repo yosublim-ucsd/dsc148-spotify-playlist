@@ -4,7 +4,7 @@
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-147 songs - 11 hr 33 min
+148 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-09-13 |  |
 | [Can't Buy Me Love](https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Jazz Plays The Beatles](https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i) | 2:37 | 2022-09-13 |  |
 | [Car Wash](https://open.spotify.com/track/6esuuSi7EMHUUpAwiE2su4) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Live at the Village Vanguard](https://open.spotify.com/album/3UJbQf5jRzsa1B6mad1gVB) | 7:12 | 2022-09-13 | 2023-03-02 |
+| [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 | 2023-05-03 |  |
 | [Chelsea Morning](https://open.spotify.com/track/0KIqkIvNZcS5pBzkHHvFt1) | [Sara Colman](https://open.spotify.com/artist/4PfopQBQZtuDd8NmCvOBXa) | [Ink on a Pin \- A Celebration of Joni Mitchell](https://open.spotify.com/album/62dQ3hNEiWLBOCJLHILChk) | 3:52 | 2022-09-13 | 2022-12-13 |
 | [Comfortably Numb](https://open.spotify.com/track/0aQZxKrtx2JhXQfT4TD23E) | [The Bad Plus](https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6) | [For All I Care](https://open.spotify.com/album/3CGYqqKu94N6TBohkL35OV) | 6:41 | 2022-09-13 | 2022-10-08 |
 | [Conversation](https://open.spotify.com/track/2OsL9OwffBpmb4YlrEpxxB) | [Aubrey Johnson](https://open.spotify.com/artist/6WRb9e3LohpJwr0aA13eRi), [Randy Ingram](https://open.spotify.com/artist/1I1RsZSV9pEW8Zpz7feqpG) | [Play Favorites](https://open.spotify.com/album/18PqcQgK9HM9N3NaLnPc9H) | 4:23 | 2022-11-24 | 2023-03-14 |
@@ -144,7 +145,7 @@
 | [Viva la Vida](https://open.spotify.com/track/6PsbpkLgClv0zb8l5PM6zz) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Viva la Vida](https://open.spotify.com/album/0eCt4jdobrtQrWnR3dKy8G) | 2:39 | 2023-03-28 |  |
 | [We Don´t Need Another Hero](https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [What Took You so Long](https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt) | 4:31 | 2022-09-13 |  |
 | [When a Man Loves a Woman](https://open.spotify.com/track/4tag1OCBjKXVAcfBpL6Fn7) | [Michael Stephenson](https://open.spotify.com/artist/2hLykFY0OkRxdzJAaidlzk), [Alexander Claffy](https://open.spotify.com/artist/68A73mdUJaTyVodPFbfDnG), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [When a Man Loves a Woman](https://open.spotify.com/album/7HXO2Y7G36z8v9E2aO2ouW) | 4:18 | 2022-09-13 |  |
-| [When Most I Wink \- Sonnet 43](https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb) | [Birgit Minichmayr](https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl), [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Bernd Lhotzky](https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR) | [As an Unperfect Actor \(Nine Shakespeare Sonnets\)](https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ) | 3:30 | 2022-09-13 |  |
+| [When Most I Wink \- Sonnet 43](https://open.spotify.com/track/7Lo8oj9nSXy6DWCpbd4mGb) | [Birgit Minichmayr](https://open.spotify.com/artist/0AmppM0rypylyKScAYazvl), [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Bernd Lhotzky](https://open.spotify.com/artist/2McJefV5ZI8QkQHoQUU4PR) | [As an Unperfect Actor \(Nine Shakespeare Sonnets\)](https://open.spotify.com/album/28TO5COQrry3X4i8amGonZ) | 3:30 | 2022-09-13 | 2023-05-08 |
 | [Wichita Lineman](https://open.spotify.com/track/4ytxg5HNzbG1Y8CdZLtQj2) | [Alan Pasqua](https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80) | [My New Old Friend](https://open.spotify.com/album/2jvq28Yfjk0Wal4cH5xUtr) | 5:58 | 2023-02-15 |  |
 | [Wind Cries Mary](https://open.spotify.com/track/3jUSBrXmLIYVdlXbHIcTzm) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:36 | 2022-09-13 |  |
 | [Wonderwall](https://open.spotify.com/track/0qjQ47pkjxL9Oodg8lp0os) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Rock Swings](https://open.spotify.com/album/68hTTrAwPFA0dWrxkAUMVl) | 3:36 | 2022-09-20 | 2022-10-06 |

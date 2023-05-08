@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Ed Sheeran
 
-5,801 songs - 13 day 6 hr 5 min
+5,802 songs - 13 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4795,7 +4795,8 @@
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-05-05 |
 | [The First](https://open.spotify.com/track/0bTFrDQuTTAhddo73AxHot) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [HEARTBREAK\. REVENGE\. DISCO.](https://open.spotify.com/album/63N9Dtw5YIeZYcXol1menH) | 3:56 | 2023-03-16 | 2023-03-25 |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-02-23 | 2023-03-03 |
-| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-04 |  |
+| [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-04 |  |
+| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-04 | 2023-05-08 |
 | [The Fortress](https://open.spotify.com/track/3s4AM7XIgcDqYD2IVdTs3Z) | [Owe Money Pay Money \(O$P$\)](https://open.spotify.com/artist/5PzjEh3s7vE7AHyNe8Ib1k), [Mickeyleano](https://open.spotify.com/artist/6F5Rx2IqlhNXoIRLrVb9bH), [OmarKENOBI](https://open.spotify.com/artist/6tyWHsrN1ximnTg5SmQgYr) | [Condo & The Fortress](https://open.spotify.com/album/15Ls5zCZU8MqwAwraR45Pa) | 3:30 | 2022-10-27 | 2022-11-04 |
 | [The Foundations of Decay](https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Foundations of Decay](https://open.spotify.com/album/28SHC2Kn35Nl9yd94CbF3q) | 6:00 | 2022-05-12 | 2022-05-20 |
 | [The Function](https://open.spotify.com/track/0hNBnbIJjHFaLcEHbFyl4e) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sky Sky](https://open.spotify.com/artist/1qHWLwufRLQk2pVywVbBBp) | [The Function](https://open.spotify.com/album/4TH7qCdf6828E9rwQ7WFe5) | 2:54 | 2022-02-03 | 2022-02-11 |

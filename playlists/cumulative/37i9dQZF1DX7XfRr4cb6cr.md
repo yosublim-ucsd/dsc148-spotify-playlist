@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-214 songs - 18 hr 51 min
+215 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 | 2022-01-21 | 2023-04-30 |
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4IHPv1BTBH3wvYTskeN1dA) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/0qE9e3IrcAUln0LiXUcB14) | 3:41 | 2022-01-28 | 2022-07-29 |
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4w0hEOSam21FwnUteS9rxl) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/1lsP6JqNGnwuSRhb5eYBfK) | 3:41 | 2022-08-05 |  |
-| [Dark Winter](https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Dark Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0htBWUZ75jV9nmlcqVOXwE) | 1:47 | 2023-04-21 |  |
+| [Dark Winter](https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Dark Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0htBWUZ75jV9nmlcqVOXwE) | 1:47 | 2023-04-21 | 2023-05-08 |
 | [Dead People's Things](https://open.spotify.com/track/1jQhHBdhnaZv5q67sHA1uK) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5V3rLsAGpM63kE3SLPAMDW) | 18:35 | 2022-01-21 | 2022-07-29 |
 | [Dead People's Things](https://open.spotify.com/track/26slB6pfz5F8T723pMq32K) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z) | 18:35 | 2022-07-22 |  |
 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 | 2022-01-21 |  |
@@ -218,6 +218,7 @@
 | [Where Lonely Embers Glow](https://open.spotify.com/track/2wnL9GReYcMbMA29ILdhdS) | [Dead Melodies](https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu) | [Memento](https://open.spotify.com/album/1ZbO6GlyoIo9nXdHe7dPZH) | 6:51 | 2022-04-01 |  |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/1nxNCdh7SLOxFny6EmmzL3) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/1daolYgECDn9hgAKsWuX2n) | 2:36 | 2022-07-22 | 2023-04-29 |
 | [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/2fIGv43HCZ6tilfVfovu2e) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/2gOZAH0hCwU3Zl8Ohm9YCA) | 2:36 | 2022-02-04 | 2022-07-19 |
+| [Wingbeats Source III: Piano and Wings](https://open.spotify.com/track/6iqq6toY0z6qzTLBSMNOrr) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Wingbeats](https://open.spotify.com/album/3nDGt0nkTrs5ApCxb2FucN) | 2:36 | 2023-04-21 |  |
 | [With Eyes Unclouded By Longing](https://open.spotify.com/track/6Bm1HcsOBtJEwxjnVQ7yE7) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp) | [Two Autumns](https://open.spotify.com/album/2UjsMXSHYW6oBzucy7Guqi) | 2:45 | 2022-01-21 | 2022-08-18 |
 | [Woods of Admittance](https://open.spotify.com/track/7BEizNL6QesTGhUY7znR1B) | [Sebastian Mullaert](https://open.spotify.com/artist/5cKPK8DCxX1R5PwQOU1huv), [Tonhalle\-Orchester Zürich](https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg) | [Natthall](https://open.spotify.com/album/7u22N4Jgi0wp8Qb2B6FtxI) | 5:09 | 2022-01-21 |  |
 | [Your Shadow Tells the Story of What We Could Have Been](https://open.spotify.com/track/0Gz0Dui1sOIEMBq5R0ZJoD) | [Frönäs](https://open.spotify.com/artist/23IOctRIyDVxUQWmKrufGk) | [That Light, As the Door Closed](https://open.spotify.com/album/4XUsuXNUUuuCTIDjeUhjNL) | 11:34 | 2022-01-21 |  |

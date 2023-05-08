@@ -1,12 +1,12 @@
 {
   "description": "On a pas pu appeler \u00e7a Qu\u00e9bec Shiny Tunes. Photo: EXTERIO",
-  "num_followers": 8258,
+  "num_followers": 8260,
   "original_name": "Je me souviens: alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTc5OTA2YjVkNjhmY2U3N2FlZDNiYzg0MTU4MzVhMmYxNDFkNWJi",
+  "snapshot_id": "MCxkYjg5ZjRiZGJkMWFhYjI1YTkxNzdmOWZhNDBiMDY0N2U5NmFkMjFh",
   "tracks": [
     {
       "added_at": "2020-06-23 14:47:30",
@@ -191,22 +191,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Le d\u00e9lire du savant fou",
-        "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
-      },
-      "artists": [
-        {
-          "name": "eXterio",
-          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
-        }
-      ],
-      "duration_ms": 199066,
-      "name": "Le savant fou",
-      "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "L'oeil Du Zig",
         "url": "https://open.spotify.com/album/6scH7horuxSKf8d0cu7WJe"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 207653,
       "name": "R'viens Pas Trop Tard",
       "url": "https://open.spotify.com/track/03JOOBLgi1qBNy2rt5wjGS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Le d\u00e9lire du savant fou",
+        "url": "https://open.spotify.com/album/5U0ic2IdlLwMhRI328aU1J"
+      },
+      "artists": [
+        {
+          "name": "eXterio",
+          "url": "https://open.spotify.com/artist/3wF6f7YFIwgmtD3daujyeF"
+        }
+      ],
+      "duration_ms": 199066,
+      "name": "Le savant fou",
+      "url": "https://open.spotify.com/track/2LHoVyY2KYcbvtyhiX90LN"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Western Romance",
-        "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
-      },
-      "artists": [
-        {
-          "name": "Yann Perreau",
-          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Ma dope \u00e0 moi",
-      "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "D\u00e9jeuner sur l'herbe",
         "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 192093,
       "name": "J'pourrais pas vivre avec toi",
       "url": "https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "Western Romance",
+        "url": "https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX"
+      },
+      "artists": [
+        {
+          "name": "Yann Perreau",
+          "url": "https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Ma dope \u00e0 moi",
+      "url": "https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -591,6 +591,22 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
+        "name": "La Chango Family",
+        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
+      },
+      "artists": [
+        {
+          "name": "La Chango Family",
+          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
         "name": "Le Chihuahua",
         "url": "https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe"
       },
@@ -603,6 +619,22 @@
       "duration_ms": 279160,
       "name": "Le teint de Linda",
       "url": "https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS"
+    },
+    {
+      "added_at": "2020-06-23 14:47:30",
+      "album": {
+        "name": "D\u00e9jeuner sur l'herbe",
+        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
+      },
+      "artists": [
+        {
+          "name": "Les Breastfeeders",
+          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Mini-jupe et watusi",
+      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -623,22 +655,6 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "La Chango Family",
-        "url": "https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd"
-      },
-      "artists": [
-        {
-          "name": "La Chango Family",
-          "url": "https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Joyeus'ment d\u00e9sesp\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
         "name": "Sur quelle plan\u00e8te",
         "url": "https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 323400,
       "name": "Dans les airs",
       "url": "https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I"
-    },
-    {
-      "added_at": "2020-06-23 14:47:30",
-      "album": {
-        "name": "D\u00e9jeuner sur l'herbe",
-        "url": "https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4"
-      },
-      "artists": [
-        {
-          "name": "Les Breastfeeders",
-          "url": "https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Mini-jupe et watusi",
-      "url": "https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb"
     },
     {
       "added_at": "2020-06-23 14:47:30",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-06-23 14:47:30",
       "album": {
-        "name": "Elyzabeth Diaga",
-        "url": "https://open.spotify.com/album/3Ryel4PeIcsaOcaIhTrB1d"
+        "name": "De la nature des foules",
+        "url": "https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds"
       },
       "artists": [
         {
-          "name": "Elyzabeth Diaga",
-          "url": "https://open.spotify.com/artist/0KIJUMvTUQiTNulWUpBIbj"
+          "name": "Bonjour Brumaire",
+          "url": "https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Touche pas",
-      "url": "https://open.spotify.com/track/1T3vIR5SmlUt0pkm1huM2V"
+      "duration_ms": 244986,
+      "name": "Brooklyn",
+      "url": "https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp"
     }
   ],
   "unique_name": "Je me souviens: alternatif",

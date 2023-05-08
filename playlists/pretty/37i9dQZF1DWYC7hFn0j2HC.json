@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 158211,
+  "num_followers": 158427,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2IyMTY2MmEzYzMzNGJjNTZiMWM0M2JmYTg3YWY3MTY4MTQwMmNl",
+  "snapshot_id": "MCxiMDk5Yzc5NjU1NTg2MTcyMDQwMzA4M2JlOTM4NmU3MDYyMGI2MzA1",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -223,8 +223,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Fiesta Mexicana",
-        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
+        "name": "Jorge Negrete, Vol II.",
+        "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
       },
       "artists": [
         {
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 191293,
-      "name": "M\u00e9xico Lindo",
-      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
+      "duration_ms": 237426,
+      "name": "Coplas de dos tipos de cuidado",
+      "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -383,8 +383,8 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Jorge Negrete, Vol II.",
-        "url": "https://open.spotify.com/album/0EdYht3AXlnmT4saeMDjFN"
+        "name": "Fiesta Mexicana",
+        "url": "https://open.spotify.com/album/5evoUvZVyXXtsf6JJxfaQw"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Coplas de dos tipos de cuidado",
-      "url": "https://open.spotify.com/track/3IBIwsWrPv2mpJa4SSfNGc"
+      "duration_ms": 191293,
+      "name": "M\u00e9xico Lindo",
+      "url": "https://open.spotify.com/track/6bhfLLRWSg1TrkHrhJDazV"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Cuando Sale la Luna",
-      "url": "https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 187506,
       "name": "Pa' Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Cuando Sale la Luna",
+      "url": "https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "35 Exitos",
-        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 125906,
-      "name": "La cama de piedra",
-      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 209133,
       "name": "Tata Dios",
       "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "35 Exitos",
+        "url": "https://open.spotify.com/album/4LprcUZtNvYJZTSdX2Dhim"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 125906,
+      "name": "La cama de piedra",
+      "url": "https://open.spotify.com/track/21dyD7LnH9NNRha9v0rjGL"
     },
     {
       "added_at": "2022-01-25 23:38:31",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Un Pu\u00f1o de Tierra",
-        "url": "https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 156548,
-      "name": "Albur De Amor",
-      "url": "https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 195337,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/2yAbDJYqqZDxM399YpQy8U"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Un Pu\u00f1o de Tierra",
+        "url": "https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 156548,
+      "name": "Albur De Amor",
+      "url": "https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB"
     }
   ],
   "unique_name": "Charros de Oro",

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-204 songs - 15 hr 37 min
+205 songs - 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Abtal El Kalam](https://open.spotify.com/track/3Op5brYrFPZHljQcN1gB4W) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Abtal El Kalam](https://open.spotify.com/album/4g50d0yt0icA3PVjx0ceez) | 3:26 | 2021-12-16 |  |
 | [Adda El Ghazal](https://open.spotify.com/track/3eJ92MzqYA4Soioei4U1kd) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Adda El Ghazal](https://open.spotify.com/album/72YmO51aloNpRjYQ3U0ZXz) | 3:23 | 2021-12-16 | 2022-12-21 |
 | [Adewak Ebn Karak](https://open.spotify.com/track/72nHkHaTVcM5iEbRVSlWvI) | [Ahmed Ezzat](https://open.spotify.com/artist/3i896v9Q9dwbQA5d9ShgwF), [Naaoum](https://open.spotify.com/artist/3pnV3zaWjl7WpOVmTWLxW9), [Ali Samara](https://open.spotify.com/artist/5Jtavon9JHpZ8unaJu6mUm) | [Adewak Ebn Karak](https://open.spotify.com/album/1xTTnWMbK8ktrWD15l1BYY) | 3:55 | 2021-12-16 |  |
+| [Ah Ya Hanan](https://open.spotify.com/track/0p990x9z1sVdYhetTP2x4i) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hatzahzah](https://open.spotify.com/album/6UjPk9Jk9GmfAMi0kottOz) | 4:11 | 2023-04-20 |  |
 | [Ah Ya Hanan](https://open.spotify.com/track/5Kx8kfU7OdfgMAiPwcBT7a) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hatzahzah](https://open.spotify.com/album/1x3DGZIVQ86TG7idTkn8WO) | 4:11 | 2021-12-16 | 2022-07-29 |
 | [Aheb El Mobtasmin](https://open.spotify.com/track/34f1MVGYf0HBC9TjLxRKnW) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [Aheb El Mobtasmin](https://open.spotify.com/album/63UScCyYWwnAd7mAj33LsM) | 2:59 | 2021-12-16 |  |
 | [Akhbar El Taqs](https://open.spotify.com/track/5WCSGy5KS8EbVAiZCWRKF5) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Akhbar El Taqs](https://open.spotify.com/album/7aKYBduFhKUyAobvNGScmb) | 4:29 | 2021-12-16 | 2022-07-29 |
@@ -40,7 +41,7 @@
 | [Ana Mesh Arefny](https://open.spotify.com/track/5zEy0QZouNwg7ZtqSs6M54) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Darbt Maalem](https://open.spotify.com/album/73dc4gBSKPXVBTY9UTpEsy) | 5:41 | 2021-12-16 |  |
 | [Ana Mesh Hafya](https://open.spotify.com/track/6wkLyntrkilzCmarir4r8k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:28 | 2021-12-16 | 2022-12-21 |
 | [Ashamy Fe Rabena](https://open.spotify.com/track/24cag0e6MUffIW9zTQLnIn) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ashamy Fe Rabena](https://open.spotify.com/album/0U9cWogBOZo04lTWxW3ZU2) | 5:08 | 2021-12-16 | 2022-12-21 |
-| [Bein Narein](https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ah Menak](https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw) | 3:43 | 2021-12-16 |  |
+| [Bein Narein](https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ah Menak](https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw) | 3:43 | 2021-12-16 | 2023-05-08 |
 | [Bena2es](https://open.spotify.com/track/50L0cjBEGiEuxA15kQw850) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Bena2es](https://open.spotify.com/album/3r6ulG2SGCqROirKSqdetn) | 4:08 | 2021-12-16 | 2022-12-21 |
 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 | 2021-12-16 |  |
 | [Beshweish Alaya](https://open.spotify.com/track/1e41x6mKFcFNCWx4jolBuB) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Beshweish Alaya](https://open.spotify.com/album/61XCudIdITOYqycdnHI34j) | 4:29 | 2021-12-16 | 2023-02-17 |
@@ -84,7 +85,7 @@
 | [Haissah](https://open.spotify.com/track/2tTFS58N5Fk58s2qJ8E3zK) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 3:15 | 2021-12-16 | 2021-12-31 |
 | [Hatgawez](https://open.spotify.com/track/1Vb51CRZbbS333bMwA0csQ) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/4LZuc3vs0btgKFiVczS2zi) | 4:35 | 2021-12-16 |  |
 | [Hatgawez Tany](https://open.spotify.com/track/3EdA1dPSjYxVSXEqbUGP1O) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Bosy](https://open.spotify.com/artist/5qLw7iz4Ttj3cR07fE3gBZ) | [Hatgawez Tany](https://open.spotify.com/album/5lL7ZvSulnMBdVCMLsZRrA) | 3:29 | 2021-12-16 | 2022-07-28 |
-| [Haty Bosa Ya Beet](https://open.spotify.com/track/6uGJrcFOMI6Z2PIh1i8F3x) | [Osama Ghaly](https://open.spotify.com/artist/3Qlvqpn3QapW1ZZwbvoAxz) | [Osama Ghaly Collection](https://open.spotify.com/album/4jBwuzCtVOJisHosxBu9oN) | 3:53 | 2021-12-30 | 2022-07-28 |
+| [Haty Bosa Ya Beet](https://open.spotify.com/track/6uGJrcFOMI6Z2PIh1i8F3x) | [Osama Ghaly](https://open.spotify.com/artist/3Qlvqpn3QapW1ZZwbvoAxz) | [Osama Ghaly Collection](https://open.spotify.com/album/4jBwuzCtVOJisHosxBu9oN) | 3:53 | 2021-12-30 |  |
 | [Hayel](https://open.spotify.com/track/3M6afnLlWJX36aEWnQoRoj) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Hayel](https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW) | 5:55 | 2021-12-16 | 2022-07-29 |
 | [Hayfout Alek](https://open.spotify.com/track/7hRVdE7Ta0wNiYHIySnUOZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Hayfout Alek](https://open.spotify.com/album/6SQj9WllIr9VpJdx4umi6u) | 4:12 | 2021-12-16 |  |
 | [Hob Meen](https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Hob Meen](https://open.spotify.com/album/5e5OLpxaXSoDHsRTDjdUZw) | 3:41 | 2022-07-01 | 2023-03-30 |
@@ -121,7 +122,7 @@
 | [Togar Saada](https://open.spotify.com/track/5VWGBXKbb8xrAjwcbmAxtv) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Togar Saada](https://open.spotify.com/album/0tp0RCyY4MU5KdmQsZSt0T) | 4:27 | 2021-12-16 |  |
 | [TooT Pary](https://open.spotify.com/track/6W2N4jzO7OspZe1awu6zPH) | [Hoda Bondoq](https://open.spotify.com/artist/7N1jZbsOz4SC1shdg87eMY), [Naaoum](https://open.spotify.com/artist/3pnV3zaWjl7WpOVmTWLxW9) | [توت برى](https://open.spotify.com/album/3aCUEAIozhVmuhFPZeF3SL) | 3:24 | 2021-12-16 |  |
 | [Wallahy Ma Yanfaa](https://open.spotify.com/track/3AnnlxYSltiDIey3R4IRZK) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Wallahy Ma Yanfaa](https://open.spotify.com/album/2REtyeLZsoheWYqgJ3Oij4) | 3:09 | 2021-12-16 | 2023-03-31 |
-| [Wallahy Ma Yanfaa](https://open.spotify.com/track/3a1hHwnITWPMW8ynj24JgH) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Wallahy Ma Yanfaa](https://open.spotify.com/album/38BlK3oSLFV5HcCK2nS1Fb) | 3:09 | 2023-04-20 |  |
+| [Wallahy Ma Yanfaa](https://open.spotify.com/track/3a1hHwnITWPMW8ynj24JgH) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Wallahy Ma Yanfaa](https://open.spotify.com/album/38BlK3oSLFV5HcCK2nS1Fb) | 3:09 | 2023-04-20 | 2023-05-08 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-06 | 2022-07-09 |
 | [Ya Bay](https://open.spotify.com/track/01UNrIexMipixuxs3rsgU2) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay 2022](https://open.spotify.com/album/0p4kpGpxg5vjnvMX7ndZGp) | 3:07 | 2023-04-11 |  |
 | [Ya Bay](https://open.spotify.com/track/1tIjCjZggwGIIviiOn4qkB) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Ya Bay](https://open.spotify.com/album/3pLAjS8pQIbluq04CPZMVB) | 3:07 | 2021-12-16 | 2023-03-30 |

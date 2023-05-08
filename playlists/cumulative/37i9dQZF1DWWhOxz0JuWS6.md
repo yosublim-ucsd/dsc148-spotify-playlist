@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-518 songs - 1 day 13 hr 27 min
+519 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/7JFMf61pdg8H8NEMgxdHYx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:22 | 2020-12-08 | 2022-07-28 |
 | [One World](https://open.spotify.com/track/0JuUUYTAmBOVCkMni6keT8) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms](https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs) | 3:38 | 2020-12-08 | 2022-05-25 |
 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [All Four One \(Remastered 1999\)](https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz) | 3:16 | 2022-03-28 | 2022-07-19 |
-| [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/3hJmN0RlUK8F7grOt3nW0a) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 3:16 | 2022-11-17 |  |
+| [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/3hJmN0RlUK8F7grOt3nW0a) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80's Rock Power Ballads](https://open.spotify.com/album/3hx4DBiw6CIvIIonZzQ1gp) | 3:16 | 2022-11-17 | 2023-05-08 |
 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/7v3dSsVMPy7jd4hcx6sKb0) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80s Alternative](https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf) | 3:16 | 2022-03-28 | 2023-01-14 |
 | [Only Time Will Tell](https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6) | [Asia](https://open.spotify.com/artist/6uw47cwsTd4YZPsRO2e0Oo) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:44 | 2020-12-08 |  |
 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 | 2020-12-08 |  |
@@ -498,6 +498,7 @@
 | [When It's Love](https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe) | 5:39 | 2020-12-08 | 2022-07-29 |
 | [When Love Comes To Town](https://open.spotify.com/track/2cpUudtTX7OU6DcoNTuxwB) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 4:14 | 2020-12-08 |  |
 | [When The Lady Smiles](https://open.spotify.com/track/6RGmi17H0xpHb7hpMxFwip) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [N.E.W.S.](https://open.spotify.com/album/3PKz1Tn3o3cKnIj1GzfFT3) | 5:40 | 2020-12-08 |  |
+| [When The Smoke Is Going Down](https://open.spotify.com/track/1Cc1kD0xeMXZpdUinsH1mP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:50 | 2022-11-17 |  |
 | [When the Smoke Is Going Down \- 2015 Remaster](https://open.spotify.com/track/5CdbSPuZdIKFm5e0TUDJD8) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 3:51 | 2020-12-08 | 2022-07-22 |
 | [When You Come](https://open.spotify.com/track/3inU2bLDJluBCUhDvpGFxv) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Temple Of Low Men](https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m) | 4:45 | 2020-12-08 | 2022-07-20 |
 | [Where Are You Now](https://open.spotify.com/track/082KyGrUIooHcyyElugozU) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Sound Elixir](https://open.spotify.com/album/5rtW1DEsBzYQp9kpB4t1W7) | 3:53 | 2020-12-08 |  |

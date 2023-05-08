@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 
 > <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix to keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,973 likes - 25 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,975 likes - 25 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 | 2 | [You've Got Me \- Mixed](https://open.spotify.com/track/29fci3xkqcFFscFKcO0VDY) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [You've Got Me \(Mixed\)](https://open.spotify.com/album/0syYS0AjfHckVubNWhxLvw) | 1:48 |
 | 3 | [Yebisu \- Yung Bae Edit \- Mixed](https://open.spotify.com/track/5iWybCAizDEx9Hv3alAjMC) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Yebisu \- Yung Bae Edit \(Mixed\)](https://open.spotify.com/album/0t9rSvG7DlmbI343ItZyrM) | 1:36 |
 | 4 | [I Can Tell \- Mixed](https://open.spotify.com/track/42icWKGZQCuJv8SAil7OZn) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [I Can Tell \(Mixed\)](https://open.spotify.com/album/5o7EVtrdWPTjpIWXOz3Xtp) | 1:42 |
-| 5 | [Magic \- Mixed](https://open.spotify.com/track/6Wq3MunUO61qwvStSDzDX1) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Magic \(Mixed\)](https://open.spotify.com/album/6wCUwMEDOGZW2zMvDBanWf) | 3:16 |
+| 5 | [Magic](https://open.spotify.com/track/0s42NoPFUHcDOIARW3kusg) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [B4E](https://open.spotify.com/album/0CRl7sDgkjyht3JTVbIe2Z) | 3:15 |
 | 6 | [Memory \- Mixed](https://open.spotify.com/track/1M2k0X5demPWw1IH9B9B0p) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Memory \(Mixed\)](https://open.spotify.com/album/7xizosSS9HOSdN2sTj2I71) | 2:26 |
 | 7 | [There It Is \- Mixed](https://open.spotify.com/track/5ksjmjoAWsTgW9c1Zyzswd) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [There It Is \(Mixed\)](https://open.spotify.com/album/4FmyP1u5YzfNG10TdwwWeF) | 1:25 |
 | 8 | [Must Be Love \- Mixed](https://open.spotify.com/track/0Nu7WKMOdUjqPXsYtjcwlw) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Must Be Love \(Mixed\)](https://open.spotify.com/album/3kfV5oGkLlo9BQt8YGfVWa) | 2:07 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VVyN3qcV0Q.md) - [plain]
 | 24 | [Slam Jam! \- Mixed](https://open.spotify.com/track/2dR44FCzMehnQCkBHG1O3e) | [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Slam Jam! \(Mixed\)](https://open.spotify.com/album/5TUa9tqhZHCE8kOMw4YnXa) | 2:53 |
 | 25 | [Welcome to the Disco \- Mixed](https://open.spotify.com/track/4I651E7H02tRIETieN5M8T) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [Welcome to the Disco \(Mixed\)](https://open.spotify.com/album/5U2hgGLISCF4UWhGzVtrt5) | 3:13 |
 
-Snapshot ID: `MCwwMjQ5NmY5Yzc5Y2RmZWQ5OWQyYzQzNjgyYjg3ODlkODAzZDM3MDRl`
+Snapshot ID: `MCxlZjJmNzFlYmYzYzRjNGNlYzg1ZWUxYzgzZmM5MmViNzlkMzg0OThh`

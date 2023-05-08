@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72708,
+  "num_followers": 72706,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2E3YjhlNGNmZWQxMzMwZDU1MzQ4MzE2NmQwMmQ5MmVjMDM4OTJl",
+  "snapshot_id": "MCw2MzAyYjMyYWZlZTk3ZGQ1OWZkOTZlZGRmOGE0MWQ4ZGFiNzc5NGZk",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/2290QOqExnVHp302b4zYaF"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 223712,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 213276,
+      "name": "After the Sun",
+      "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Still Care (feat. NASAYA)",
         "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 198000,
       "name": "Still Care (feat. NASAYA)",
       "url": "https://open.spotify.com/track/4m5Kgsr6ZL9RtPTiRptOof"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "I AM",
-        "url": "https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0"
-      },
-      "artists": [
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 213276,
-      "name": "After the Sun",
-      "url": "https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -885,22 +885,6 @@
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
     },
     {
-      "added_at": "2023-05-07 01:42:49",
-      "album": {
-        "name": "Higher Now",
-        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
-      },
-      "artists": [
-        {
-          "name": "Seph Cove",
-          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
-        }
-      ],
-      "duration_ms": 258532,
-      "name": "Higher Now",
-      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
-    },
-    {
       "added_at": "2023-01-12 13:00:00",
       "album": {
         "name": "this is how you fall in love",
@@ -915,6 +899,22 @@
       "duration_ms": 161632,
       "name": "this is how you fall in love",
       "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
+    },
+    {
+      "added_at": "2023-05-08 01:27:52",
+      "album": {
+        "name": "Higher Now",
+        "url": "https://open.spotify.com/album/5i3Tf3KdABftYRkYmauRwg"
+      },
+      "artists": [
+        {
+          "name": "Seph Cove",
+          "url": "https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff"
+        }
+      ],
+      "duration_ms": 258532,
+      "name": "Higher Now",
+      "url": "https://open.spotify.com/track/7MCAqys9I5XyEnFJL24wz1"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Love Shack",
-        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
-      },
-      "artists": [
-        {
-          "name": "Luke Morris",
-          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "Outside Kinda Kids",
         "url": "https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 195299,
       "name": "Outside Kinda Kids",
       "url": "https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "Love Shack",
+        "url": "https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C"
+      },
+      "artists": [
+        {
+          "name": "Luke Morris",
+          "url": "https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG"
     }
   ],
   "unique_name": "Summer Daze",

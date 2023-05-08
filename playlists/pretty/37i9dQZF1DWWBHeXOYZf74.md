@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,291 likes - 105 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,316 likes - 105 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 104 | [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 |
 | 105 | [No L's](https://open.spotify.com/track/12CNybio0Bxean3F3uYugU) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:55 |
 
-Snapshot ID: `MCw4NGM0ZTMzNDM3ZjgxMWY4MjFiYzBmZWM3YzE2MDcyYTk4ZGI1OWIy`
+Snapshot ID: `MCxhYTk0NzEwNzExZDM0ZTE1MmJhYTdhOGI5ZjI3YmJlZjczMTg1ODQ0`

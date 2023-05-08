@@ -1,12 +1,12 @@
 {
   "description": "Classic soul music for the perfect dinner.",
-  "num_followers": 57112,
+  "num_followers": 57130,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWQwNDE2Y2E5NDgzMzk1NjBiMGYyMWZhMTdhYWY3YTY2ZDk0MDk0",
+  "snapshot_id": "MCxjMzMwNWQ4NzFkOGY3ZWFjNGJmNGMxYjhmYTZiMjNjMTFjZDc5MmIy",
   "tracks": [
     {
       "added_at": "2023-01-09 13:10:50",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
       "artists": [
         {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
         }
       ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
       },
       "artists": [
         {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "The First Family of Soul: The Best of The Five Stairsteps",
+        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+      },
+      "artists": [
+        {
+          "name": "The Five Stairsteps",
+          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "O-o-h Child",
+      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "One Eighty",
         "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The First Family of Soul: The Best of The Five Stairsteps",
-        "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
       },
       "artists": [
         {
-          "name": "The Five Stairsteps",
-          "url": "https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 197160,
-      "name": "O-o-h Child",
-      "url": "https://open.spotify.com/track/74JdR9aXE6I74oS1BVRsvb"
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -843,22 +859,6 @@
       "duration_ms": 255066,
       "name": "Lovely Day",
       "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Signed, Sealed And Delivered",
         "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
       },
@@ -1011,22 +995,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 205906,
-      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+      "duration_ms": 242573,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1043,6 +1023,26 @@
       "duration_ms": 160000,
       "name": "Another Saturday Night",
       "url": "https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 205906,
+      "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Very Best Of The Dramatics",
-        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "I Want You (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 274400,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/2gmWJA9oF4GD2Vw5QoRqu1"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Very Best Of The Dramatics",
+        "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/5lYpHO6ZO4Shys3GD8rav6"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Givin' It Back",
-        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Love the One You're With",
-      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "I've Got So Much To Give",
         "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Givin' It Back",
+        "url": "https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Love the One You're With",
+      "url": "https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Think (About It)",
-        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
-      },
-      "artists": [
-        {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Think (About It)",
-      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Supernatural Thing",
         "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 251560,
       "name": "Supernatural Thing, Pt. 1",
       "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 279413,
       "name": "Yah Mo B There",
       "url": "https://open.spotify.com/track/5edioRF5SIeNzZafgd1Py1"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1755,18 +1755,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
         }
       ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+      "duration_ms": 254880,
+      "name": "How Do You Keep The Music Playing",
+      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1787,22 +1791,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "It's Your Night",
-        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 254880,
-      "name": "How Do You Keep The Music Playing",
-      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Betcha by Golly Wow (Live)",
-        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 253004,
-      "name": "Betcha by Golly Wow (Live)",
-      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "All The Great Love Songs",
         "url": "https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 224866,
       "name": "Still",
       "url": "https://open.spotify.com/track/2LdtluFBgL8cuSo9nkvJ57"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Betcha by Golly Wow (Live)",
+        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Betcha by Golly Wow (Live)",
+      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2127,22 +2127,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+        "name": "Funky Nassau",
+        "url": "https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "The Beginning Of The End",
+          "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR"
         }
       ],
-      "duration_ms": 332866,
-      "name": "Feel the Fire",
-      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+      "duration_ms": 186301,
+      "name": "Funky Nassau, Pt. 1",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2163,18 +2159,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Express Yourself (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
         {
-          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
-          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        },
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
         }
       ],
-      "duration_ms": 229653,
-      "name": "Express Yourself - Remastered Version",
-      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
+      "duration_ms": 332866,
+      "name": "Feel the Fire",
+      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2191,6 +2191,22 @@
       "duration_ms": 211733,
       "name": "Harvest for the World, Pt. 1 - Single Version",
       "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Express Yourself (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3"
+      },
+      "artists": [
+        {
+          "name": "Charles Wright & The Watts 103rd Street Rhythm Band",
+          "url": "https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ"
+        }
+      ],
+      "duration_ms": 229653,
+      "name": "Express Yourself - Remastered Version",
+      "url": "https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2223,22 +2239,6 @@
       "duration_ms": 200626,
       "name": "Try A Little Tenderness",
       "url": "https://open.spotify.com/track/50W9PJjr1Euo9FFoqw90eL"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Funky Nassau",
-        "url": "https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab"
-      },
-      "artists": [
-        {
-          "name": "The Beginning Of The End",
-          "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Funky Nassau, Pt. 1",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Soul Agenda",
-        "url": "https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq"
-      },
-      "artists": [
-        {
-          "name": "Chairmen Of The Board",
-          "url": "https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Give Me Just A Little More Time",
-      "url": "https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Best Of Bobby Womack - The Soul Years",
         "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 224546,
       "name": "Across 110th Street",
       "url": "https://open.spotify.com/track/3E0dHzJ1WIkm58RhJAe13n"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Soul Agenda",
+        "url": "https://open.spotify.com/album/3bsK8mvliXMvVPPiMgeIYq"
+      },
+      "artists": [
+        {
+          "name": "Chairmen Of The Board",
+          "url": "https://open.spotify.com/artist/69g2TelswPN1IiFDKvaoSL"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Give Me Just A Little More Time",
+      "url": "https://open.spotify.com/track/6qbtTps7ZebLrWtqtu1joj"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Smooth Soul",
-        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 204055,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "R&B: From Doo-Wop To Hip-Hop",
         "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
       },
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Best Of Bobby Womack - The Soul Years",
-        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
+        "name": "Smooth Soul",
+        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
       },
       "artists": [
         {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         }
       ],
-      "duration_ms": 210453,
-      "name": "Woman's Gotta Have It",
-      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
+      "duration_ms": 204055,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/53ZRlP6Vv96bG0mc25DW2u"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2467,6 +2451,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "The Best Of Bobby Womack - The Soul Years",
+        "url": "https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 210453,
+      "name": "Woman's Gotta Have It",
+      "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "The Masters Series: Mellow Groove",
         "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
       },
@@ -2483,38 +2483,6 @@
       "duration_ms": 283053,
       "name": "New York Eyes",
       "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 441889,
-      "name": "Blood Is Thicker Than Water",
-      "url": "https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Part Time Love",
-        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
-      },
-      "artists": [
-        {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
-        }
-      ],
-      "duration_ms": 174973,
-      "name": "Part Time Love",
-      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2539,6 +2507,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 441889,
+      "name": "Blood Is Thicker Than Water",
+      "url": "https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Sparkle",
         "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 381826,
       "name": "Something He Can Feel",
       "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Part Time Love",
+        "url": "https://open.spotify.com/album/5dTnlc6k7eE0JNXAu8ANSf"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 174973,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/30lLlmQZBHsiVLNcTKpqjd"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2619,18 +2619,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Stax Chartbusters, Vol. 1",
-        "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
+        "name": "Playlist: The ATCO Singles",
+        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
       },
       "artists": [
         {
-          "name": "Mel & Tim",
-          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
+          "name": "Al Hudson",
+          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
+        },
+        {
+          "name": "Soul Partners",
+          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
         }
       ],
-      "duration_ms": 230920,
-      "name": "Starting All Over Again",
-      "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
+      "duration_ms": 174706,
+      "name": "I'm About Loving You",
+      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2655,22 +2659,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Playlist: The ATCO Singles",
-        "url": "https://open.spotify.com/album/0zkLCUERzDJPllFrpPWCDG"
+        "name": "Stax Chartbusters, Vol. 1",
+        "url": "https://open.spotify.com/album/4oEYZnyz2yqpWjjBcq7xLk"
       },
       "artists": [
         {
-          "name": "Al Hudson",
-          "url": "https://open.spotify.com/artist/0t0DDUj3ZxuVZBhlOCmGVS"
-        },
-        {
-          "name": "Soul Partners",
-          "url": "https://open.spotify.com/artist/1IaU8ZKYYiWy4WSDR9lFNY"
+          "name": "Mel & Tim",
+          "url": "https://open.spotify.com/artist/2ubLClBEuddw29m7QRx4IL"
         }
       ],
-      "duration_ms": 174706,
-      "name": "I'm About Loving You",
-      "url": "https://open.spotify.com/track/6pR8Q9MsvqEs4xXyig4mR4"
+      "duration_ms": 230920,
+      "name": "Starting All Over Again",
+      "url": "https://open.spotify.com/track/7kFRgT3KKxU1y7USF8ZzIX"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2839,6 +2839,26 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Push",
+        "url": "https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA"
+      },
+      "artists": [
+        {
+          "name": "Noriko Miyamoto",
+          "url": "https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk"
+        },
+        {
+          "name": "Isao Suzuki",
+          "url": "https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb"
+        }
+      ],
+      "duration_ms": 369866,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Boss Man",
         "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
       },
@@ -2871,38 +2891,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Push",
-        "url": "https://open.spotify.com/album/5CXBCsYUVcbeFHisHsBfnA"
+        "name": "The Essential Patti LaBelle",
+        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
       },
       "artists": [
         {
-          "name": "Noriko Miyamoto",
-          "url": "https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk"
-        },
-        {
-          "name": "Isao Suzuki",
-          "url": "https://open.spotify.com/artist/19Jnq7URlFKcxRPe9cm1pb"
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
         }
       ],
-      "duration_ms": 369866,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/62TzmJFxjBN8CjXfxN2P4n"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Patches",
-        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
-      },
-      "artists": [
-        {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
-        }
-      ],
-      "duration_ms": 159040,
-      "name": "Your Love Lifted Me",
-      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
+      "duration_ms": 300120,
+      "name": "Love, Need And Want You",
+      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2923,18 +2923,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Essential Patti LaBelle",
-        "url": "https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3"
+        "name": "Patches",
+        "url": "https://open.spotify.com/album/2AcHC18egTq63cyBagwINA"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
         }
       ],
-      "duration_ms": 300120,
-      "name": "Love, Need And Want You",
-      "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+      "duration_ms": 159040,
+      "name": "Your Love Lifted Me",
+      "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2987,18 +2987,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Only For The Lonely",
-        "url": "https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m"
+        "name": "Chronicle: The 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
       },
       "artists": [
         {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+          "name": "Johnnie Taylor",
+          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
         }
       ],
-      "duration_ms": 254800,
-      "name": "I Have Learned To Do Without You",
-      "url": "https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx"
+      "duration_ms": 208133,
+      "name": "Steal Away",
+      "url": "https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3019,18 +3019,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Chronicle: The 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
+        "name": "Only For The Lonely",
+        "url": "https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m"
       },
       "artists": [
         {
-          "name": "Johnnie Taylor",
-          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 208133,
-      "name": "Steal Away",
-      "url": "https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB"
+      "duration_ms": 254800,
+      "name": "I Have Learned To Do Without You",
+      "url": "https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Holding the Losing Hand Hotlanta Soul 3",
-        "url": "https://open.spotify.com/album/3mm79Dcs5BqNaH4EeV6EyZ"
-      },
-      "artists": [
-        {
-          "name": "ROSZETTA JOHNSON",
-          "url": "https://open.spotify.com/artist/0CP7yKkslqES37eF1XGArP"
-        }
-      ],
-      "duration_ms": 214626,
-      "name": "A Woman's Way",
-      "url": "https://open.spotify.com/track/02UzkKpbiibdXtoczM0V2l"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "A Nickel And A Nail And Ace Of Spades",
         "url": "https://open.spotify.com/album/1RF1M8KE0XofOsRutwqLmK"
       },
@@ -3079,6 +3063,22 @@
       "duration_ms": 222533,
       "name": "A Nickel And A Nail",
       "url": "https://open.spotify.com/track/7y7r4FS4Uw5T0IfTraNlnE"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Holding the Losing Hand Hotlanta Soul 3",
+        "url": "https://open.spotify.com/album/3mm79Dcs5BqNaH4EeV6EyZ"
+      },
+      "artists": [
+        {
+          "name": "ROSZETTA JOHNSON",
+          "url": "https://open.spotify.com/artist/0CP7yKkslqES37eF1XGArP"
+        }
+      ],
+      "duration_ms": 214626,
+      "name": "A Woman's Way",
+      "url": "https://open.spotify.com/track/02UzkKpbiibdXtoczM0V2l"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3163,22 +3163,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Love And Beauty\u2026plus (The Complete Invictus Masters)",
-        "url": "https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh"
-      },
-      "artists": [
-        {
-          "name": "Brian Holland",
-          "url": "https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "I\u2019m So Glad (Part 1)",
-      "url": "https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Black Gold (Expanded Edition)",
         "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
       },
@@ -3191,6 +3175,22 @@
       "duration_ms": 170146,
       "name": "To Be Young, Gifted and Black - Single Version",
       "url": "https://open.spotify.com/track/33TDAUeConyLclvr9GyvmZ"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Love And Beauty\u2026plus (The Complete Invictus Masters)",
+        "url": "https://open.spotify.com/album/4vnnYkH9s4srcV5hHImJqh"
+      },
+      "artists": [
+        {
+          "name": "Brian Holland",
+          "url": "https://open.spotify.com/artist/4XPpkQyvnxglukLPiqL3bp"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "I\u2019m So Glad (Part 1)",
+      "url": "https://open.spotify.com/track/1IibRWHZZj3piR7fHM1wyd"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3439,6 +3439,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "My Melody (Expanded)",
+        "url": "https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 275946,
+      "name": "Silly - Single Version",
+      "url": "https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "25 Best Of...",
         "url": "https://open.spotify.com/album/7eurwOvLFAKYcWlzlGTofF"
       },
@@ -3467,22 +3483,6 @@
       "duration_ms": 212026,
       "name": "If",
       "url": "https://open.spotify.com/track/0tJeElFFnWkCqG3bihF2Vz"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "My Melody (Expanded)",
-        "url": "https://open.spotify.com/album/29qGTutavRfDv7gAcUC9pz"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 275946,
-      "name": "Silly - Single Version",
-      "url": "https://open.spotify.com/track/4f8sTGdbepee0EIFve7G2s"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3615,6 +3615,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Another Beginning",
+        "url": "https://open.spotify.com/album/4yuryhhwDSU0DVnJyLfe8q"
+      },
+      "artists": [
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "The Morning Song",
+      "url": "https://open.spotify.com/track/6BSECshmR4kqWDnd0hI9Ox"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "William Devaughn EP",
         "url": "https://open.spotify.com/album/65w5dNsN0Dgi2JH7iiHAjy"
       },
@@ -3643,22 +3659,6 @@
       "duration_ms": 169600,
       "name": "Crumbs Off The Table",
       "url": "https://open.spotify.com/track/4VjFt8o94AMF8UGP0KTMjq"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Another Beginning",
-        "url": "https://open.spotify.com/album/4yuryhhwDSU0DVnJyLfe8q"
-      },
-      "artists": [
-        {
-          "name": "Les McCann",
-          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "The Morning Song",
-      "url": "https://open.spotify.com/track/6BSECshmR4kqWDnd0hI9Ox"
     },
     {
       "added_at": "2023-01-09 13:10:50",

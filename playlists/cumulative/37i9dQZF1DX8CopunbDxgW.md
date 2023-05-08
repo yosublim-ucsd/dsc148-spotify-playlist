@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: SBTRKT
 
-786 songs - 2 day 3 hr 38 min
+787 songs - 2 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -458,6 +458,7 @@
 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 | 2021-10-01 | 2022-01-03 |
 | [Melt!](https://open.spotify.com/track/1f4cKwcKfNiLbQr8x2tZ3C) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [Inner Song](https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz) | 3:34 | 2022-09-17 | 2022-10-06 |
 | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/track/00ls7PYMtiyuqnrji9yKta) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Messin' Me Up \(feat\. EVAN GIIA\)](https://open.spotify.com/album/4mFMa4VmNqExwNQ54L1XTS) | 3:01 | 2021-10-29 | 2022-01-01 |
+| [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 |  |
 | [Millennium](https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [The Mattson 2](https://open.spotify.com/artist/3YoL2CCR3wyqJndcEDBwBH) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 3:01 | 2022-04-29 | 2023-04-09 |
 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 | 2023-02-24 | 2023-03-04 |
 | [Mindless](https://open.spotify.com/track/63JuomZqCbDTgZ4lect9T2) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [Under The Weather](https://open.spotify.com/album/5qwVn38pLMvOFSki8dbRrp) | 2:49 | 2021-09-10 | 2022-02-02 |
@@ -502,7 +503,7 @@
 | [Nobody Scared](https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Nobody Scared](https://open.spotify.com/album/3ssYNO0NqPUMYJFjk9qtAW) | 3:39 | 2021-06-25 | 2022-07-26 |
 | [Nobody Scared](https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1) | 3:39 | 2021-06-25 | 2022-10-13 |
 | [Nobody Scared](https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe) | 3:39 | 2022-09-09 | 2023-04-01 |
-| [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 |  |
+| [Noise](https://open.spotify.com/track/2aVmzjkwJyTWxuUUu7aMIf) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [Noise](https://open.spotify.com/album/1nxDKrCB3QOB3nKPQQMofF) | 4:42 | 2023-03-31 | 2023-05-08 |
 | [Not My Girl \- Yuksek Remix](https://open.spotify.com/track/6Hkr4K98wyBiphwh8oMDNi) | [Ishi](https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo), [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Not My Girl \(Yuksek Remix\)](https://open.spotify.com/album/1fC2o7HEalSglSvmNRE6Y8) | 3:53 | 2021-04-20 | 2022-02-03 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-13 |  |
 | [Nothing On Me](https://open.spotify.com/track/2xVQdYjh1Lul8dHAlas6W2) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Nothing On Me](https://open.spotify.com/album/6Fs2nzfKvHQTtUy00L7slL) | 2:34 | 2022-03-11 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 
 > All your favorite Disney Hits, including songs from The Little Mermaid.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,990,822 likes - 127 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,992,193 likes - 127 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C9xQcOrE6T.md) - [plain]
 | 126 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 |
 | 127 | [Main Title / Once Upon A Dream / Prologue \- From "Sleeping Beauty"/Soundtrack Version](https://open.spotify.com/track/4qKDjmz094Bu2wMepNuwVN) | [Chorus \- Sleeping Beauty](https://open.spotify.com/artist/1c4ltuRXEIo20Y9UOPxiA0) | [Sleeping Beauty](https://open.spotify.com/album/3U3I9TY7on88tPvM1guh54) | 2:57 |
 
-Snapshot ID: `MCxiNTRiZDgzNWQxZTI1NmQ4ZDQ1NmRiNjdkNzJkMGYzOWY2Mjk0OWIy`
+Snapshot ID: `MCwxM2QxZDNlOTAzNzk4NzY0MDYyNGMwNmZhNTI3ZGU5YTMwNGE2MzIw`

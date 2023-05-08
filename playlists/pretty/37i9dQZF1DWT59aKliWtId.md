@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Joseph
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,020 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,028 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 50 | [Miami](https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Miami](https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n) | 4:44 |
 | 51 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
 | 52 | [Inside Outside](https://open.spotify.com/track/1CZvp1wwxWHgSJfXg3awqB) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Inside Outside](https://open.spotify.com/album/7HegRbqCwUI5z3Nq572KqK) | 3:33 |
-| 53 | [This Year](https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [This Year](https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd) | 3:14 |
+| 53 | [This Year](https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 3:14 |
 | 54 | [ARE YOU GONNA RUN?](https://open.spotify.com/track/4HwIuasC2EVtHxXYPEn3wu) | [Low Cut Connie](https://open.spotify.com/artist/4taNHtYxfIWIHu07FBw7ih) | [ARE YOU GONNA RUN?](https://open.spotify.com/album/2nsmz1bJby3yQsCd706y7l) | 2:55 |
 | 55 | [Don't Be Another](https://open.spotify.com/track/7jAYGGdjarBtjI8PkCgQI7) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Hardly The Same Snake](https://open.spotify.com/album/5YGnYey5QR9gXmgpxTV6Uw) | 3:39 |
 | 56 | [Go Down River](https://open.spotify.com/track/4V4wsqkdFEQ4weme7FlnNC) | [The Heavy Heavy](https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q) | [Life and Life Only](https://open.spotify.com/album/6DeM7Vy5gmjq9FbLUcZFMr) | 4:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 99 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 100 | [Easier Said Than Done](https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 2:54 |
 
-Snapshot ID: `MCw2M2FiZGVkNTY4Njg2YjRjYzNmMTMyNjc4MmUwNmY4MTc2YmFkMzYz`
+Snapshot ID: `MCxjMDBiZDE3YjBiOGQ5MTg0ZWQzMjBjY2JjNTE1ZTFiMzNmYmRlNzQ3`

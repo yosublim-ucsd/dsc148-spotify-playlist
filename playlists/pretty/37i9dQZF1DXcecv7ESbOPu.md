@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,782 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,805 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 69 | [Something Like This](https://open.spotify.com/track/2Xn7cHKdRP0hBXaUr38J7R) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Something Like This](https://open.spotify.com/album/614lKhTpvtyBqnU7C5w5e4) | 3:18 |
 | 70 | [How to Start A Garden](https://open.spotify.com/track/6pyWPwXCQqB4FcRrcefzmU) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [How To Start A Garden](https://open.spotify.com/album/5Cq8LjM4wG9tQdo8ynIC5g) | 5:02 |
 | 71 | [Every Fucking Time](https://open.spotify.com/track/3pcl1nwM7BkNaNcsojvPCz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Every Fucking Time](https://open.spotify.com/album/5ZivRaxbqlajWwrhA92jAS) | 2:47 |
-| 72 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
+| 72 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 | 73 | [I Ain't Gonna Lie](https://open.spotify.com/track/1Veo0ZlzBOAahySb4Cicwm) | [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [I Ain't Gonna Lie](https://open.spotify.com/album/5Nqfj7u3b4wTkFjfqKvDJK) | 4:24 |
 | 74 | [Obsessions](https://open.spotify.com/track/65hzqzprmYxJ1olSZADFVe) | [Flora Summers](https://open.spotify.com/artist/2H1j4xP3py0kUdSCCCNlUg) | [Obsessions](https://open.spotify.com/album/1N2HetEp8vPto80N1LeXU7) | 3:08 |
 | 75 | [Stop Calling](https://open.spotify.com/track/09JhSbew1W0vlnqiTPCfUb) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Stop Calling](https://open.spotify.com/album/3N4UJuLsAA8qh2rKRUlNX6) | 4:15 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 108 | [LosT](https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [LosT](https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA) | 3:25 |
 | 109 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 |
 
-Snapshot ID: `MCxlMmQxMDQ3YTNhZGY4YzZjMjlhZjgwY2EyNGRjYzU3YzMxMGI0OGQ5`
+Snapshot ID: `MCxkZDJiMjU0Y2RlYjhlZmQzNDg3ODI3OGMwMmNiOGEyYTQzYWJmZjZk`

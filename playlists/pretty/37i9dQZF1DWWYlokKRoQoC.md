@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 
 > Celebrating the life and legacy of the songwriting legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,538 likes - 94 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,583 likes - 94 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYlokKRoQoC.md) - [plain]
 | 93 | [Souvenirs \- Live](https://open.spotify.com/track/3EfjcUzovzECxN7OYOk8CW) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine \(Live\)](https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ) | 3:33 |
 | 94 | [Living in the Future \- Live](https://open.spotify.com/track/1rv6XgCscmrysVUX5IRz4n) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine \(Live\)](https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ) | 3:45 |
 
-Snapshot ID: `MCw0ZmQ5NTY3ZTgwY2RjZDNkODhjODM5NzFjMDIyMjI5MzE5Y2VjNjFj`
+Snapshot ID: `MCw4ODU5OWE0YzQwNWUyZWVhZDc0NGFiYmRhNWMzNDFjZTE0MTVhZGZk`

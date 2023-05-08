@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,748 likes - 200 songs - 15 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,990 likes - 200 songs - 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 2 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 |
 | 3 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Kenneka Cook](https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Tennishu](https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg), [R4nd4zzo](https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0) | 4:13 |
 | 4 | [Not Here / Not Now](https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Not Here / Not Now](https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N) | 4:15 |
-| 5 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
+| 5 | [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 |
 | 6 | [Is This Jazz?](https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Is This Jazz?](https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8) | 3:01 |
 | 7 | [Why?](https://open.spotify.com/track/6nIueLCyNxBUM941WQ2v7l) | [Jonas Wall](https://open.spotify.com/artist/2Fawi4h6lz8tvYaHRkq7fo), [Umbaji](https://open.spotify.com/artist/6cMhraoNdQ4lybdCG6veYz) | [Why?](https://open.spotify.com/album/3JmS19rIU04H05i02H6YsZ) | 4:18 |
 | 8 | [Spread Love](https://open.spotify.com/track/0N7yfvd5tfP3kschFBfhss) | [Riot Jazz Brass Band](https://open.spotify.com/artist/1txSIgiNjE6LpvkxP7sYyP) | [Riot Jazz Makes People Happy](https://open.spotify.com/album/7z61j8SPcOgzo6R8D2m6Tn) | 4:38 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 14 | [Jimmy's Groove](https://open.spotify.com/track/2sSi5vdL5eEpg3I53oa9Xx) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Jimmy's Groove](https://open.spotify.com/album/3lmBmGEnn642E7Zs3F9fH2) | 6:17 |
 | 15 | [Fleet Streak](https://open.spotify.com/track/4NoeaUoJv9u8cuopFuVedF) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Fleet Streak](https://open.spotify.com/album/5vDEj1kU0gpIOw34y19iuj) | 3:57 |
 | 16 | [Street Sweeper](https://open.spotify.com/track/6eTrGiHJS6kvmifI3sIkPn) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Street Sweeper](https://open.spotify.com/album/12zuK73zE5d3pxYoqspSZB) | 3:54 |
-| 17 | [Astral\-Desia](https://open.spotify.com/track/3nw1ENzEAOM20W9mlCzdi4) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Astral\-Desia](https://open.spotify.com/album/6w6rcjZvz04Rd8i4Y6OzYQ) | 3:09 |
+| 17 | [Astral\-Desia](https://open.spotify.com/track/3aVrq7StWOPGwFS0SV2qkN) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Palace Of A Thousand Sounds](https://open.spotify.com/album/3G13hsNxAyjz5FVQO0Si4G) | 3:09 |
 | 18 | [For Horace](https://open.spotify.com/track/2zZS3p0MsOdYmS3EgcLctX) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [For Horace](https://open.spotify.com/album/73zM7vJshZxXvREGVVbo7Q) | 5:38 |
 | 19 | [SoulMine](https://open.spotify.com/track/0C5cMnVFPyZwpc20oSMeLL) | [Ari Joshua](https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV), [Skerik](https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md), [Grant Schroff](https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii), [Delvon Lamarr](https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR) | [SoulMine](https://open.spotify.com/album/4JnT8sjhZB19Wc0t4OV15N) | 4:34 |
 | 20 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 |
 
-Snapshot ID: `MCwxYzBkMDU0YWIxZTdmNDlhZjUyNjE3ZDZmNDI4YWY4ODAxZWQ2NGZh`
+Snapshot ID: `MCxiOTFmNTE1ZDY1YWE3ZWQ3YWNkYTc4Yjg5YWY1ODExNjhiMTQwYzU5`

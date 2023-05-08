@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,570 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,608 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 13 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 14 | [Mengejar Matahari](https://open.spotify.com/track/55LpgW7AiFypgySkJIt78v) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Mengejar Matahari](https://open.spotify.com/album/7ELAkZsswJqe8siFBoHh6U) | 4:07 |
 | 15 | [Langit Yang Sama](https://open.spotify.com/track/2CJvBRL5ZevYir3mbFdcm6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg) | [Langit Yang Sama](https://open.spotify.com/album/6K1IgEqIElbpdvorDrwEkZ) | 4:05 |
-| 16 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
+| 16 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
 | 17 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
-| 18 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
+| 18 | [Inilah JalanNya](https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Inilah JalanNya](https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH) | 2:40 |
 | 19 | [Untukmu Aku Bertahan](https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:08 |
 | 20 | [Kubahagia](https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 2:59 |
 | 21 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 41 | [Lagu Untuk Hari Ini](https://open.spotify.com/track/18FWPrC6EO02vBKI29F1N9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Lagu Untuk Hari Ini](https://open.spotify.com/album/7Kp8QzGujjdNQdYFrPCKwf) | 3:38 |
 | 42 | [Ku Mohon](https://open.spotify.com/track/6ZypUMclVIm3YziM9cDCVR) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ku Mohon](https://open.spotify.com/album/5maxDRWhSlXbln4effsPPD) | 4:37 |
 | 43 | [Heal](https://open.spotify.com/track/6UFpWtfMuJLgWZIqrB049f) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7), [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Jona](https://open.spotify.com/artist/7LVPSD4kabI5LiXIVPI8tn), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28), [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Rinni Wulandari](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [Shalma Eliana](https://open.spotify.com/artist/1FTe3sL0JqQ7ncd7fXvakq), [Xela](https://open.spotify.com/artist/1W058QfMEfehk2NClZH18h) | [Heal](https://open.spotify.com/album/4H5GSTSAa6kdkUSb7hTQWo) | 4:45 |
-| 44 | [Aku Tanpa CintaMu 2021](https://open.spotify.com/track/5946XCpAYjK0trq7naJE0S) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Mirwana](https://open.spotify.com/artist/6uA98wUGp8HJMZwIIPp4GE) | [QIBLA](https://open.spotify.com/album/1XxPZGV1e93gGSwnso00cV) | 2:45 |
-| 45 | [Santai](https://open.spotify.com/track/3VdEnnRIfnDaKKq4xjlMCn) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [NonaRia](https://open.spotify.com/album/4v8NgbV1DNNItOJzT7Tywu) | 2:32 |
+| 44 | [Santai](https://open.spotify.com/track/3VdEnnRIfnDaKKq4xjlMCn) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [NonaRia](https://open.spotify.com/album/4v8NgbV1DNNItOJzT7Tywu) | 2:32 |
+| 45 | [Aku Tanpa CintaMu 2021](https://open.spotify.com/track/5946XCpAYjK0trq7naJE0S) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Mirwana](https://open.spotify.com/artist/6uA98wUGp8HJMZwIIPp4GE) | [QIBLA](https://open.spotify.com/album/1XxPZGV1e93gGSwnso00cV) | 2:45 |
 | 46 | [Hadir](https://open.spotify.com/track/3ZOnflxIUFZLokxZo87cpA) | [Rudeen](https://open.spotify.com/artist/7rbGFN00tHyGCKXH3ctR0f), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [Hadir](https://open.spotify.com/album/1euwE2avAJ4w1hUS0UpQmz) | 2:13 |
 | 47 | [33x](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 7:14 |
 | 48 | [Bawalah Cintaku](https://open.spotify.com/track/0QZEPCT8uhyADw74umgwMT) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Sheila Majid](https://open.spotify.com/artist/6ccyDNcfDQR2yDbF3JV0xl) | [DEKADE](https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym) | 5:16 |
 | 49 | [Cinta Sederhana](https://open.spotify.com/track/5srmbaORKvTMUYpYME1fuy) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 3:23 |
 | 50 | [Pulih](https://open.spotify.com/track/1T7NMrWDpNQ25wm4druuHN) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW) | [Pulih](https://open.spotify.com/album/3qtnTp6JYFCij89TNpH5cq) | 3:46 |
 
-Snapshot ID: `MCwwZWUwN2M4YmYxODdiZGRkMGZjZDYyZjZkMTg2MTczNmEzYTU1YjU4`
+Snapshot ID: `MCxkMmZiMDM5NmU4NjlmMGI1MjEyY2Q5YTg4OTdiMzk3OTRjNDUyOTll`

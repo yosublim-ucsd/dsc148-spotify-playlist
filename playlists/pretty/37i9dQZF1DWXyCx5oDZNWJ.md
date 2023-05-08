@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,378 likes - 62 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,401 likes - 62 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 61 | [Leave](https://open.spotify.com/track/2KaMBqn9UBbWkl4Ky7ORVp) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl), [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7) | [Leave](https://open.spotify.com/album/692P5jdZFc1S27zguBg5dd) | 4:30 |
 | 62 | [Herzan](https://open.spotify.com/track/3P3f5t7hVpRSX6YSX64WrV) | [Soapkills](https://open.spotify.com/artist/6PRGhDtDWSgyw60WSfna8v) | [Enta Fen](https://open.spotify.com/album/58A0G1FfTqJGig0TWUjcU3) | 3:21 |
 
-Snapshot ID: `MCw0MzI3NWVmN2UyMDk2YTlkYzMwZGVhODY4Yjk4MzZmZTZiZWI0N2U5`
+Snapshot ID: `MCxhYjE5NzY4Nzc4NGNhMjlmZTkzZDcwOWVkMjVlNTE2OTU5ZmEzZmFk`

@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1509401,
+  "num_followers": 1510073,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODhkZWUxNzljNTJiOGIwMDY4ZjA5MTYwMDY0YWM5M2FkNjhjOWI3",
+  "snapshot_id": "MCwyNjczMWQ1OTFlYWEzOThhMGZmYWUyOWFmOGU1MTQ2MzE5ZjIyMzdj",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "A Fever You Can't Sweat Out",
-        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
-      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "A Mark, A Mission, A Brand, A Scar",
         "url": "https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 186866,
       "name": "Hands Down",
       "url": "https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "A Fever You Can't Sweat Out",
+        "url": "https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off",
+      "url": "https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "American Football",
         "url": "https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 268333,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/6kZqCqD1r08sJAQ1TjuEpM"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
     },
     {
-      "added_at": "2023-05-07 01:29:39",
+      "added_at": "2023-05-08 00:37:36",
       "album": {
         "name": "Discovering The Waterfront",
         "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
     },
     {
-      "added_at": "2023-05-07 01:29:39",
+      "added_at": "2023-05-08 00:37:36",
       "album": {
         "name": "Deja Entendu",
         "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
     },
     {
-      "added_at": "2023-05-07 01:29:39",
+      "added_at": "2023-05-08 00:37:36",
       "album": {
         "name": "Is a Real Boy",
         "url": "https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7"
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
       },
       "artists": [
         {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
         }
       ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
     },
     {
       "added_at": "2022-08-02 18:47:58",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Reach For The Sun",
-        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
       },
       "artists": [
         {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
         }
       ],
-      "duration_ms": 203560,
-      "name": "The Permanent Rain",
-      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2022-08-02 18:47:58",

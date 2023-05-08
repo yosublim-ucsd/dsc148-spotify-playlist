@@ -282,6 +282,24 @@
     {
       "album": {
         "name": "Prologue : Love",
+        "url": "https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282680,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R"
+    },
+    {
+      "album": {
+        "name": "Prologue : Love",
         "url": "https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo"
       },
       "artists": [
@@ -5254,7 +5272,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 78106,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO"

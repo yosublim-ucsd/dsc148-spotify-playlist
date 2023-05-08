@@ -4906,7 +4906,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 144025,
       "name": "Late Winter",
       "url": "https://open.spotify.com/track/4Qk7rCJOzPOE8daWO1rJgg"
@@ -7126,6 +7126,24 @@
       "duration_ms": 199287,
       "name": "Piha",
       "url": "https://open.spotify.com/track/28JVD0j9MIraxyvP7j60uy"
+    },
+    {
+      "album": {
+        "name": "Place to Remember",
+        "url": "https://open.spotify.com/album/57IkfgPpu5NwSW1AKeV9c8"
+      },
+      "artists": [
+        {
+          "name": "Rich Mortimer",
+          "url": "https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98403,
+      "name": "Place to Remember",
+      "url": "https://open.spotify.com/track/235xEvc5AelB56CsNzYew3"
     },
     {
       "album": {

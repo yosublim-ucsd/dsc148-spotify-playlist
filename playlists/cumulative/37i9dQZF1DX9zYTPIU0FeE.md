@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a>
 
-106 songs - 11 hr 23 min
+107 songs - 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 | 2022-04-28 |  |
 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 | 2022-04-28 |  |
 | [Wynter Time](https://open.spotify.com/track/14MNWR9L2Hm62cwZTj0lBM) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/2KmDzNsGlhCzEjV49krJGp) | 9:27 | 2023-03-17 | 2023-04-30 |
-| [Wynter Time](https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh) | 9:27 | 2023-04-21 |  |
+| [Wynter Time](https://open.spotify.com/track/2SkeHeWnmngeVuukJc4QVl) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Turbulence and Pulse](https://open.spotify.com/album/09P4xEQuIgveCiY4vGQHrZ) | 9:27 | 2023-04-21 |  |
+| [Wynter Time](https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh) | 9:27 | 2023-04-21 | 2023-05-08 |
 | [Yaka Yaka](https://open.spotify.com/track/3guSqYCPy6GidiSgklshzX) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Yaka Yaka](https://open.spotify.com/album/2bBnV2FWnWJx76qvvlAMcn) | 6:54 | 2023-03-17 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Ruby Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,925 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,934 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 33 | [Left Me Out To Die](https://open.spotify.com/track/5A40rzOHlMBPZ5Typ7kxjb) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [PRINCE OF THE UNDERGROUND](https://open.spotify.com/album/2VIABGmLDRn9twkThfT8Yz) | 2:53 |
 | 34 | [Internet Official](https://open.spotify.com/track/15tD9GvqAyY15buCuUa2IK) | [CRAY](https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K) | [Internet Official](https://open.spotify.com/album/4tkSjaAxhfsUCG67qqpgeY) | 2:25 |
 | 35 | [Le temps des morts](https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl) | [Hippie Hourrah](https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj) | [Exposition individuelle](https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X) | 3:26 |
-| 36 | [Powers of Darkness](https://open.spotify.com/track/6IHhQHC7tM7ufx88QhSQiL) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [Powers of Darkness](https://open.spotify.com/album/6B29hK9hfWj1PIwfoPQAIv) | 3:15 |
+| 36 | [Powers of Darkness](https://open.spotify.com/track/5XCvz2S2dJMq9srLw2Wy8r) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [The Old Ways Remain](https://open.spotify.com/album/6vEFCw8dNZdCCbHVQKLqzX) | 3:15 |
 | 37 | [The Love Still Held Me Near](https://open.spotify.com/track/3cNyJCm0nf1DPr6hvSLu8Q) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:23 |
 | 38 | [Inquisitor](https://open.spotify.com/track/2TndRA6UZPQc5vItqSvJqB) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Roy](https://open.spotify.com/album/5XdrMtjSQhbpiUl6ApvdvD) | 2:48 |
 | 39 | [Awake](https://open.spotify.com/track/0UPLh2XSDDUcZfMv2CUG4j) | [Ninety Foot Stone](https://open.spotify.com/artist/1Cs8hg9atNHO56HXrXoDTM) | [Awake](https://open.spotify.com/album/18Gufd0soWltaf5njkOFMf) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Heartbreaker by Design](https://open.spotify.com/track/5ueLZYReaiLhYrqLrRhpkh) | [Your ex and I](https://open.spotify.com/artist/46bnuozfnzrXzASP9d8XlZ) | [Your ex and I](https://open.spotify.com/album/1SK5c2RidvtRh8Q0ILFqvr) | 4:07 |
 | 100 | [Sink or Swim](https://open.spotify.com/track/6MiF03krOmzIQcyKQz4whv) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Sink or Swim](https://open.spotify.com/album/6V2dEuft1RlLzJ1CFPANQm) | 3:51 |
 
-Snapshot ID: `MCw0ZTc4ZGI5MzI5NDhmYzg4ZmRkMThmNGM0ZWQwNmIxZWM5YTIwNjI3`
+Snapshot ID: `MCw4Yjg1OWM0YjE1NmE1ZGY2MWFiZTNkYzQ5OGNiM2ZmMGMzZTM5MGU1`

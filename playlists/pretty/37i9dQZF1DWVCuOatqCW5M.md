@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Shaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,778 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,889 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Tu Mera](https://open.spotify.com/track/530f9k05sgzkKs2RVhrb0G) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Prasoon Srivastava](https://open.spotify.com/artist/2WtV7IeOgedqbC6ckJiv1v) | [Tu Mera](https://open.spotify.com/album/0MnYB8f16tqgsEBxxh7mDI) | 3:03 |
 | 50 | [Future Mehbooba](https://open.spotify.com/track/5jBE3yzmTRIkyZXZEQoCAf) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Future Mehbooba](https://open.spotify.com/album/0kY6CC28isk20qj1macqKI) | 3:12 |
 
-Snapshot ID: `MCw2ODZlMmM2M2IwMGE5Y2Q0MDIzODI1YzliZjA3YTFmMDBkZWRkZDY2`
+Snapshot ID: `MCxkNDViZWI1NzM2MmU2ZmFlNDg3MjA2ZDE4OGU4MTE5OWI0NDY3Yjk0`

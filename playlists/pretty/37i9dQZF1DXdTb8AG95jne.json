@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Choi Seong(\ucd5c\uc131)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 436038,
+  "num_followers": 436092,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGUzNWE3M2Q4NjExZjY5NmJmMTEyYmZiOThkM2M1ZjUzOThlOTFj",
+  "snapshot_id": "MCwyYWIxOWFlOTNmMmVlZWVjODkxODA2MTEwMjc2OTg4Y2MyYTIwNzMy",
   "tracks": [
     {
       "added_at": "2023-05-04 03:49:54",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
+        "name": "Dear My All",
+        "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Dear My All",
+      "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
+    },
+    {
+      "added_at": "2023-05-04 03:49:54",
+      "album": {
         "name": "Baby I Need You",
         "url": "https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
-        "name": "Dear My All",
-        "url": "https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf"
-      },
-      "artists": [
-        {
-          "name": "Mingginyu",
-          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Dear My All",
-      "url": "https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur"
-    },
-    {
-      "added_at": "2023-05-04 03:49:54",
-      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -215,6 +215,22 @@
       "duration_ms": 201280,
       "name": "Gradation",
       "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-05-04 03:49:54",
+      "album": {
+        "name": "GAUSSIAN",
+        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "MIMI",
+      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
     },
     {
       "added_at": "2023-05-04 03:49:54",
@@ -243,18 +259,18 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
-        "name": "GAUSSIAN",
-        "url": "https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4"
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 207413,
-      "name": "MIMI",
-      "url": "https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5"
+      "duration_ms": 232000,
+      "name": "Winter \ub208",
+      "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
     },
     {
       "added_at": "2023-05-04 03:49:54",
@@ -275,22 +291,6 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
-    },
-    {
-      "added_at": "2023-05-04 03:49:54",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Winter \ub208",
-      "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
     },
     {
       "added_at": "2023-05-04 03:49:54",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
-        "name": "Rawww",
-        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Rawww",
-      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-05-04 03:49:54",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-05-04 03:49:54",
-      "album": {
         "name": "The night we parted",
         "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 229665,
       "name": "The night we parted",
       "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2023-05-04 03:49:54",
+      "album": {
+        "name": "Rawww",
+        "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Rawww",
+      "url": "https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K"
     },
     {
       "added_at": "2023-05-04 03:49:54",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx"
+      },
+      "artists": [
+        {
+          "name": "ALEPH",
+          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+        }
+      ],
+      "duration_ms": 223480,
+      "name": "No One Told Me Why",
+      "url": "https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA"
+    },
+    {
+      "added_at": "2023-05-04 03:49:54",
+      "album": {
         "name": "A Long Dream",
         "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
       },
@@ -531,18 +547,18 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
-        "name": "1",
-        "url": "https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx"
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0"
       },
       "artists": [
         {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
         }
       ],
-      "duration_ms": 223480,
-      "name": "No One Told Me Why",
-      "url": "https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA"
+      "duration_ms": 331000,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU"
     },
     {
       "added_at": "2023-05-04 03:49:54",
@@ -559,22 +575,6 @@
       "duration_ms": 194546,
       "name": "Closely Far Away",
       "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
-    },
-    {
-      "added_at": "2023-05-04 03:49:54",
-      "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/0MY78gb6h0RWwO43g921z0"
-      },
-      "artists": [
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 331000,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/3XPD2voMhtskeDqtClsbaU"
     },
     {
       "added_at": "2023-05-04 03:49:54",

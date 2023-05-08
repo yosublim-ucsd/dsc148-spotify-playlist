@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: The War and Treaty
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,646 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,716 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 24 | [A Thousand Heartaches](https://open.spotify.com/track/3M4wqYQdjjQMEtEVprBflj) | [Mike Zito](https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4), [Albert Castiglia](https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blood Brothers](https://open.spotify.com/album/5KE2nGwb7wlAw4DdwlMXV4) | 5:00 |
 | 25 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 |
 | 26 | [Sunshine](https://open.spotify.com/track/1InEnV5LtvOlIi5tSp17vA) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Sunshine](https://open.spotify.com/album/6l9WiIy8A7MvFZvNNGJuxY) | 5:09 |
-| 27 | [Lethal Love](https://open.spotify.com/track/2XaI8f23CJfJRn4L6xuA0o) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0rWfwWI4AQrmwQ2RcrDxy4) | 3:06 |
+| 27 | [Lethal Love](https://open.spotify.com/track/4sRtw94MxDLjdnqAzvrNuL) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 3:06 |
 | 28 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 |
 | 29 | [Tin Cups](https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Tin Cups](https://open.spotify.com/album/6OJY1tKwM6ZCTsWANfRT1e) | 3:02 |
 | 30 | [Grass Is Greener](https://open.spotify.com/track/2rNVmfuyXAfmvZfg8O9D92) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Half The City](https://open.spotify.com/album/6BN0KczNzSrfmKoQzd6lMS) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 99 | [I'll Come Running Back To You](https://open.spotify.com/track/6dxXeEvVdW6WocdZGEDFLh) | [The Nighthawks](https://open.spotify.com/artist/3Q2L3fR3hmzSTxE5Sf9Y60) | [Established 1972](https://open.spotify.com/album/0trs4EF7qmHMw6qzUPTvwk) | 4:11 |
 | 100 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 |
 
-Snapshot ID: `MCxmNTA3NGM3NGZkM2QzNTM2YzhmYzEzMmYyNzVjNGYxOWVkOWVhMGY1`
+Snapshot ID: `MCxlYTljNmM1MDM1ZjE4NzExMGZhNmM0MmM0NTMzNmFjZTIyZGE1YmE4`

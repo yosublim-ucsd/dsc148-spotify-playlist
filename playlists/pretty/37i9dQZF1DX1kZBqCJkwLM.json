@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 76927,
+  "num_followers": 76953,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MThhNTgzMzg1MDI4YjA3YWFkM2E4Y2E4M2FjNjkwNjJiYTRiZDM2",
+  "snapshot_id": "MCxhZDYzNGRiYjNlMDZhNzZmOGRlZDk3YmU4MjE5OWEzNzBhYTVhZmZi",
   "tracks": [
     {
       "added_at": "2023-05-01 19:56:46",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
         "name": "I Like What I Like",
         "url": "https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 147685,
       "name": "I Like What I Like",
       "url": "https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
+        "name": "That XX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 289618,
+      "name": "That XX - Spotify Singles",
+      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 231986,
       "name": "Flower (In Full Bloom)",
       "url": "https://open.spotify.com/track/7hDwJ1WwXkFgznw0ip6kIg"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
-        "name": "That XX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 289618,
-      "name": "That XX - Spotify Singles",
-      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
         "name": "Can you (Galcher Lustwerk Remix)",
         "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 146727,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
-        "name": "I'm a Moth!!",
-        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 126545,
-      "name": "I'm a Moth!!",
-      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1295,6 +1295,22 @@
       "duration_ms": 282110,
       "name": "Power",
       "url": "https://open.spotify.com/track/7hDxkJFn3UsZgoWzDkyubD"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
+        "name": "GORGEOUS",
+        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
+      },
+      "artists": [
+        {
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "GORGEOUS",
-        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
+        "name": "Off the Rails",
+        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
       },
       "artists": [
         {
-          "name": "BODUR",
-          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
         }
       ],
-      "duration_ms": 149973,
-      "name": "GORGEOUS",
-      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
+      "duration_ms": 175123,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "Off the Rails",
-        "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 175123,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
         "name": "Racist, Sexist Boy (Live at LA Public Library)",
         "url": "https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 125695,
       "name": "Racist, Sexist Boy - Live at LA Public Library",
       "url": "https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
-        "name": "Chatter",
-        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
-      },
-      "artists": [
-        {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
-        }
-      ],
-      "duration_ms": 173686,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1467,6 +1451,22 @@
       "duration_ms": 190000,
       "name": "ALJI",
       "url": "https://open.spotify.com/track/2xpspKF1YO6RaOFonVZ36x"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
+        "name": "Chatter",
+        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
+      },
+      "artists": [
+        {
+          "name": "Jess Connelly",
+          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+        }
+      ],
+      "duration_ms": 173686,
+      "name": "Chatter",
+      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
     },
     {
       "added_at": "2023-05-01 19:56:46",

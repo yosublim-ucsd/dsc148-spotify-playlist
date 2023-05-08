@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Didik Budi
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,772 likes - 91 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,990 likes - 91 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 39 | [Tewas Tertimbun Masa Lalu \(TTM\)](https://open.spotify.com/track/1ohxeVZ0pg6PJThlvgUAVN) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 4:04 |
 | 40 | [Rungkad](https://open.spotify.com/track/7ykyqUPZMYu6ElknvIOr31) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Rungkad](https://open.spotify.com/album/2A8oczlX1p5VEYqyz03Btf) | 4:19 |
 | 41 | [Piye Kabare \- Keroncong](https://open.spotify.com/track/2NQtWhnnrkvlqmIGoZ0RSl) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Piye Kabare \(Keroncong\)](https://open.spotify.com/album/3ZDTkBf67dCJgwuDVZmgxP) | 5:39 |
-| 42 | [Kangen Bali Ndeso](https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU) | 3:19 |
+| 42 | [Kangen Bali Ndeso](https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Kangen Bali Ndeso](https://open.spotify.com/album/0sp7XtTa4O9BqJIDBi8FhQ) | 3:19 |
 | 43 | [Kudu Nangis](https://open.spotify.com/track/1W6dPS3Fko21XHOkKQ2rMI) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ), [Dewa Budjana](https://open.spotify.com/artist/1DvbGHKUGTOIns3BXzyKhB) | [Kudu Nangis](https://open.spotify.com/album/4aFca7kL4Hp1y0hzYFZpBv) | 5:04 |
 | 44 | [Eman Eman](https://open.spotify.com/track/5yxFTVy9MdtCmk3uXBys9f) | [Hendra Kumbara](https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa) | [Eman Eman](https://open.spotify.com/album/2fjgyWXWk8FZnlqZm14HCB) | 3:54 |
-| 45 | [Ojo Di Bandingke](https://open.spotify.com/track/2NvVDlX2O30KMPZJWQX2aO) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3NnCgOd2TE8RboolLulBuj) | 5:47 |
+| 45 | [Ojo Di Bandingke](https://open.spotify.com/track/6tpkCrZvH82EEZxTSacKQy) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Ojo Di Bandingke](https://open.spotify.com/album/3H9FfPSwJ739QV3nO7BhJ8) | 5:47 |
 | 46 | [Ojo Dibandingke \- Live Ska Reggae](https://open.spotify.com/track/70q1PoJ9YqsBLsNPZV2rtE) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Ojo Dibandingke \(Live Ska Reggae\)](https://open.spotify.com/album/6Nbdj8qApRQv0gHvWSFYYF) | 5:20 |
 | 47 | [satru 2](https://open.spotify.com/track/06mmODvS7e6gFPoz0Y52Gj) | [dike sabrina](https://open.spotify.com/artist/0vhFLxTbKdPwp4sB66ctRY) | [satru 2](https://open.spotify.com/album/575vP6DZdLtJiMBTPMo5Hq) | 4:45 |
 | 48 | [Tak Sayang Sayang](https://open.spotify.com/track/1vVjg77MMEVeSof20y1ox4) | [TWD PROJECT](https://open.spotify.com/artist/1G1lVLwxIAavdqOb8Vzhyl) | [Tak Sayang Sayang](https://open.spotify.com/album/7KKQQc6CdeyzUi89rZZNX6) | 4:29 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 56 | [Wayahe Hiling](https://open.spotify.com/track/5DO6h6YjA9531IA8B0ahBa) | [Endank Soekamti](https://open.spotify.com/artist/0sde8hCXe4RhPihKuFmxhk), [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Wayahe Hiling](https://open.spotify.com/album/2jwNOfR7Jv9UcmozbFrvib) | 4:34 |
 | 57 | [Akhire Lungo](https://open.spotify.com/track/2LbtLp004yRHORSdL1uTwF) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Akhire Lungo](https://open.spotify.com/album/7wMhXRZvERrbp1MBpzcjK4) | 5:13 |
 | 58 | [Kelangan 3](https://open.spotify.com/track/4sKISuQb1KssjLUu1BagA1) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP) | [Kelangan 3](https://open.spotify.com/album/1vf8SZEJNP0SBArwBW32pd) | 6:52 |
-| 59 | [Satru 2](https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/2tqDHQURR2zMy5Pb6eOQRN) | 4:48 |
+| 59 | [Satru 2](https://open.spotify.com/track/6iKnMyr7TkZxlHZD8ILew9) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Satru 2](https://open.spotify.com/album/3PTPnXKrRbEtMIDuqTQd4c) | 4:48 |
 | 60 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 |
 | 61 | [Korban Janji](https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Korban Janji](https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX) | 4:15 |
 | 62 | [Ninggal Cerito \(Purwokerto\) \[Live Orchestra\]](https://open.spotify.com/track/6Jgs44v1wA7KIenP41TXUo) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Guyon Waton \(Live Orchestra\)](https://open.spotify.com/album/5VdM1so7eacofy8pbM14Vg) | 5:20 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 90 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 | 91 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
 
-Snapshot ID: `MCw1YmMwYjk5NGQ5ZjdhNGQ2M2Y1YjRlODAwNWNhZTMwZGQ0M2ZlMGRi`
+Snapshot ID: `MCw2ZDEzNjUwZjNhZDAzYmFiNzIzNjAwZjIyMjhjM2YyYjdjNDNkNmNh`

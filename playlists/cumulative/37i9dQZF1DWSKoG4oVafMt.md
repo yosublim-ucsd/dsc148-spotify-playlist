@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Guru Randhawa & Shehnaaz Gill
 
-743 songs - 1 day 16 hr 17 min
+744 songs - 1 day 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -526,6 +526,7 @@
 | [QUEEN](https://open.spotify.com/track/6RwJPJVrPqi734Rg8syWFM) | [A Kay](https://open.spotify.com/artist/4ZPiabRclxJHc90C0eY8xh) | [QUEEN](https://open.spotify.com/album/1XhqqmtDLfZPh2BiJYygcc) | 3:42 | 2022-05-04 | 2022-05-11 |
 | [Queen](https://open.spotify.com/track/4xgtIHxjxYP33N4KBiTQay) | [Tera Sahib](https://open.spotify.com/artist/0r5sAOkjWfAbTbev99azaS) | [Queen](https://open.spotify.com/album/4FOXrgqdNcFI4AgxmyZVoC) | 2:51 | 2022-01-27 | 2022-02-01 |
 | [Raah](https://open.spotify.com/track/06SSvSFz7Bu1WXVw42M9lN) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:33 | 2022-02-17 | 2022-04-29 |
+| [Raah Warga](https://open.spotify.com/track/16nRLGxHk3OCvDtkBmBi0M) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Raah Warga](https://open.spotify.com/album/2zFYFKuWZU3Ypo5SbXyVo0) | 3:40 | 2023-05-07 |  |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-05-06 |
 | [Raanjhe Ki Baaraat](https://open.spotify.com/track/2y1fMZZDDA9RFK4EUZcVul) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Raanjhe Ki Baaraat](https://open.spotify.com/album/795V3OXkEsDcaZQoVpHv4j) | 3:39 | 2022-03-10 | 2022-04-06 |
 | [Raatan Teriyan](https://open.spotify.com/track/5zYQ1uyhtDR64cJXX8iElB) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Pragati](https://open.spotify.com/artist/0DbVzPStkbvSMq7LQCHdUQ) | [Raatan Teriyan](https://open.spotify.com/album/2NsZM8ZbWRuA6MOSWdx6UW) | 3:13 | 2022-01-19 | 2022-02-01 |

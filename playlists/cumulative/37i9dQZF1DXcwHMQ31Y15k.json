@@ -800,6 +800,24 @@
     {
       "album": {
         "name": "Kangen Bali Ndeso",
+        "url": "https://open.spotify.com/album/0sp7XtTa4O9BqJIDBi8FhQ"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "Kangen Bali Ndeso",
+      "url": "https://open.spotify.com/track/1hr1xhmLrwPKee1YT5Z9US"
+    },
+    {
+      "album": {
+        "name": "Kangen Bali Ndeso",
         "url": "https://open.spotify.com/album/0hFBIgQMYvU0blNCEkoPGU"
       },
       "artists": [
@@ -810,7 +828,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 199800,
       "name": "Kangen Bali Ndeso",
       "url": "https://open.spotify.com/track/2PrN2IROTrrA2ykkEuRWHt"
@@ -1590,10 +1608,32 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 347916,
       "name": "Ojo Di Bandingke",
       "url": "https://open.spotify.com/track/2NvVDlX2O30KMPZJWQX2aO"
+    },
+    {
+      "album": {
+        "name": "Ojo Di Bandingke",
+        "url": "https://open.spotify.com/album/3H9FfPSwJ739QV3nO7BhJ8"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        },
+        {
+          "name": "Abah Lala",
+          "url": "https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347916,
+      "name": "Ojo Di Bandingke",
+      "url": "https://open.spotify.com/track/6tpkCrZvH82EEZxTSacKQy"
     },
     {
       "album": {
@@ -2278,10 +2318,28 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 288692,
       "name": "Satru 2",
       "url": "https://open.spotify.com/track/1lYE7sWxl6fBUJejyubpSv"
+    },
+    {
+      "album": {
+        "name": "Satru 2",
+        "url": "https://open.spotify.com/album/3PTPnXKrRbEtMIDuqTQd4c"
+      },
+      "artists": [
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288692,
+      "name": "Satru 2",
+      "url": "https://open.spotify.com/track/6iKnMyr7TkZxlHZD8ILew9"
     },
     {
       "album": {

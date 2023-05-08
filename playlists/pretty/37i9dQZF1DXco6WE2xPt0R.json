@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 90219,
+  "num_followers": 90324,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDNhZGE4ZTQ4YzlhNzRmMzJiZWIyNThkZTc3MzYzMDE1OWQzNzk4",
+  "snapshot_id": "MCxkNGRmZjM1ZDY2NTgzOWMzYTJkNjVjOTJmYWRhZGNiM2Q0YTAwN2Rh",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -439,22 +439,18 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
       },
       "artists": [
         {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -491,18 +487,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
       "artists": [
         {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "beat of a slow dance",
-        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        },
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        }
-      ],
-      "duration_ms": 234799,
-      "name": "beat of a slow dance",
-      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Empathy",
         "url": "https://open.spotify.com/album/7bVTqWD27L2VhdudJ46Dpm"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 256310,
       "name": "Anytime (feat. Kehlani & ROMderful)",
       "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "beat of a slow dance",
+        "url": "https://open.spotify.com/album/6QWYbXVAi3YgX7ei2ktF3d"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        }
+      ],
+      "duration_ms": 234799,
+      "name": "beat of a slow dance",
+      "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 205720,
+      "name": "You Got One",
+      "url": "https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 271453,
       "name": "Come To My Room",
       "url": "https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 205720,
-      "name": "You Got One",
-      "url": "https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "chuu",
-        "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        },
-        {
-          "name": "Topaz Jones",
-          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
-        }
-      ],
-      "duration_ms": 253346,
-      "name": "chuu",
-      "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Make Me (Remix)",
         "url": "https://open.spotify.com/album/5mtHKQCQXayMQo3XzmsPaG"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 221768,
       "name": "Make Me - Remix",
       "url": "https://open.spotify.com/track/0K6ffjkgxKnkLlWV1XLLzP"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "chuu",
+        "url": "https://open.spotify.com/album/2DiDH1MgKKSS6NhEPLrVuU"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        },
+        {
+          "name": "Topaz Jones",
+          "url": "https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l"
+        }
+      ],
+      "duration_ms": 253346,
+      "name": "chuu",
+      "url": "https://open.spotify.com/track/6KBafFD2vzzXjMLSBISNNw"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 161573,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/1se4RSxZWhrAyguuWKZxgJ"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Look At You",
         "url": "https://open.spotify.com/album/2dZvOTKtZXs9v8AzdnO9pZ"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 165962,
       "name": "Look At You",
       "url": "https://open.spotify.com/track/2OzMvSU0CuklnI7tsoMUDO"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Starfruit",
-        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
-      },
-      "artists": [
-        {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
-        }
-      ],
-      "duration_ms": 161573,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/1se4RSxZWhrAyguuWKZxgJ"
     },
     {
       "added_at": "2023-04-28 03:01:00",

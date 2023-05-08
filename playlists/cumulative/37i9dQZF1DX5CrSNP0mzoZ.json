@@ -568,6 +568,24 @@
     {
       "album": {
         "name": "The Man In The Bowler Hat",
+        "url": "https://open.spotify.com/album/6506akPUH5hXx4ZlSzOeaF"
+      },
+      "artists": [
+        {
+          "name": "Stackridge",
+          "url": "https://open.spotify.com/artist/3ZxLjJocCVjyyKQLJH8eEa"
+        }
+      ],
+      "date_added": "2018-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156440,
+      "name": "Fundamentally Yours",
+      "url": "https://open.spotify.com/track/0skrLKGiUpiznXU8l0Q1lc"
+    },
+    {
+      "album": {
+        "name": "The Man In The Bowler Hat",
         "url": "https://open.spotify.com/album/4nwi9eT0SClfzBOsVd4x44"
       },
       "artists": [
@@ -596,7 +614,7 @@
       ],
       "date_added": "2018-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 156440,
       "name": "Fundamentally Yours",
       "url": "https://open.spotify.com/track/61aiIFxsOayP4NIU0azmsv"

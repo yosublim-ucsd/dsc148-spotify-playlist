@@ -168,6 +168,24 @@
     {
       "album": {
         "name": "Acrobatic Tenement",
+        "url": "https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167959,
+      "name": "Ebroglio",
+      "url": "https://open.spotify.com/track/4qMyKQDubWAiQWOGGX2aaw"
+    },
+    {
+      "album": {
+        "name": "Acrobatic Tenement",
         "url": "https://open.spotify.com/album/7xnsCIwWMRVaVGFORsRfxP"
       },
       "artists": [
@@ -178,7 +196,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 167959,
       "name": "Ebroglio",
       "url": "https://open.spotify.com/track/6lXXFgQwctMBep5lEWX7Ei"
@@ -520,10 +538,28 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 168972,
       "name": "Schaffino",
       "url": "https://open.spotify.com/track/1dYBzV2cObLLx8SLqx4hWT"
+    },
+    {
+      "album": {
+        "name": "Acrobatic Tenement",
+        "url": "https://open.spotify.com/album/2VHpCS4RKmaIHoaIBZFeip"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168972,
+      "name": "Schaffino",
+      "url": "https://open.spotify.com/track/7uBeV3Eep9rwpz4VJlsGS8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-286 songs - 18 hr 32 min
+287 songs - 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Pony](https://open.spotify.com/track/2tqfby2Fedl25lsJN7mRjV) | [Far](https://open.spotify.com/artist/0GQXHlIz6zMT0IeXQq26Pt) | [At Night We Live](https://open.spotify.com/album/4LIfgVdwEdyK0O8nyX0CgD) | 4:22 | 2022-03-25 | 2022-04-19 |
 | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/track/5ppPV0hCtwt5TMTKF1xY57) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs), [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy), [Matthew Caws](https://open.spotify.com/artist/2euOhDrnToDMpxBiCPf72Z) | [Popular \(feat\. Matthew Caws of Nada Surf\)](https://open.spotify.com/album/7nvPKeZxfHFgbKTrRWqvCo) | 3:26 | 2021-12-17 | 2022-04-17 |
 | [Radioactive](https://open.spotify.com/track/2okeBtFNVJ4n33NEV1RxBm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/2beLSssJ0YzmRbExW9IreE) | 3:13 | 2020-12-16 | 2023-05-04 |
+| [Radioactive](https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:13 | 2023-04-07 |  |
 | [Ramble On](https://open.spotify.com/track/0OQLMQBKeaFuA2PJRdMuik) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Ramble On](https://open.spotify.com/album/6wFpk4lFTAhrmfkvZxf6Gg) | 4:22 | 2020-12-16 | 2022-07-29 |
 | [Ramble On](https://open.spotify.com/track/6j5zFSiZO1BZmTl9RZ0Xc0) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Does Led Zeppelin II](https://open.spotify.com/album/5V8EDmYhUJLNkq7g74NtIL) | 4:22 | 2022-10-26 | 2022-11-13 |
 | [Reach Out I'll Be There](https://open.spotify.com/track/6R37NiT3mXUqY9op3H5SRD) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Nic Cester](https://open.spotify.com/artist/43e7l1zzucI3mcM69nNpYP) | [We'll Meet Again / Reach Out I'll Be There](https://open.spotify.com/album/5NVd5iw4FLWuyohR5WHmHa) | 3:06 | 2020-12-16 | 2022-07-29 |
@@ -274,7 +275,7 @@
 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 | 2022-03-25 |  |
 | [Walk](https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Walk](https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT) | 5:21 | 2020-12-16 |  |
 | [War Pigs](https://open.spotify.com/track/2vCnEuoc65PXAdx33Y7syW) | [Faith No More](https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5) | [The Real Thing](https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0) | 7:45 | 2020-12-16 |  |
-| [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 | 2020-12-16 |  |
+| [Watching The Wheels](https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [No One Sings Like You Anymore](https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45) | 3:14 | 2020-12-16 | 2023-05-08 |
 | [What a Wonderful World](https://open.spotify.com/track/04cdEVbQPb8BJb7593e5fO) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/4QkB5FT0hN3KWQeeF5Bih5) | 2:23 | 2022-06-17 |  |
 | [What a Wonderful World](https://open.spotify.com/track/5UvspVN88FScdaUjfcIfhD) | [Joey Ramone](https://open.spotify.com/artist/7dxF7y4hlGFazdArMsxbEx) | [Don't Worry About Me](https://open.spotify.com/album/3yYqXOqczAfP6mDoMkbiga) | 2:23 | 2020-12-16 | 2022-07-29 |
 | [When Doves Cry](https://open.spotify.com/track/7umzok5rx1Lctwa2pb03OR) | [Everyone Loves A Villain](https://open.spotify.com/artist/4v9rMwiF0d2Fh7bStHloi1), [Brock Lindow](https://open.spotify.com/artist/7xit3T7EhNTFeEZ2RSRJV3) | [When Doves Cry](https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ) | 3:16 | 2020-12-16 | 2022-07-28 |

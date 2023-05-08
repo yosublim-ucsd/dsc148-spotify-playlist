@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 136586,
       "name": "10 AF 10",
       "url": "https://open.spotify.com/track/504OgplAqStvOQuwnlI9lp"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -8877,6 +8877,24 @@
     },
     {
       "album": {
+        "name": "Garg",
+        "url": "https://open.spotify.com/album/6iw2nPSojDVNCULFudEtSr"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1lin hans J\u00f3ns m\u00edns",
+          "url": "https://open.spotify.com/artist/2l19aqbqP2H5aKEUYCVM9h"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207911,
+      "name": "Hj\u00e1 \u00fe\u00e9r",
+      "url": "https://open.spotify.com/track/6bMexmPJgSkZyNDV0QZGsI"
+    },
+    {
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/0rRDqExu5jTJRRZtxJc3Ao"
       },
@@ -9648,7 +9666,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 155064,
       "name": "H\u00e1spenna",
       "url": "https://open.spotify.com/track/0zgUPgvZY3TSBJSXDFmnsL"
@@ -9746,6 +9764,24 @@
       "duration_ms": 148485,
       "name": "I Ain't Worried",
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "album": {
+        "name": "I AM HiM",
+        "url": "https://open.spotify.com/album/60JBjwPmWvKDIS2UngZouM"
+      },
+      "artists": [
+        {
+          "name": "Duchi Da Vinchi",
+          "url": "https://open.spotify.com/artist/5v6g2s2SlQJX9cQ9ogEj9s"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129802,
+      "name": "I AM HiM",
+      "url": "https://open.spotify.com/track/2J4n7gDyygM33Y9QAzY0Fh"
     },
     {
       "album": {
@@ -16810,7 +16846,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 183750,
       "name": "POWER",
       "url": "https://open.spotify.com/track/7wD30C4OrUzpj8ycl4PeSt"
@@ -17462,7 +17498,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 245064,
       "name": "RASS CYPHER",
       "url": "https://open.spotify.com/track/0mzHGCLc2hhdsF4KMec2nm"
@@ -18142,7 +18178,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"

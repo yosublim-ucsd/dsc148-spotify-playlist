@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 56759,
+  "num_followers": 56794,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTNkY2E4NjVjMzZjZWY2NTVjNjdiMTdiY2U0YjM3NjkyN2JhZGRi",
+  "snapshot_id": "MCxkNzM5NGIxZTY2YmRlOGQ1NjNiMmZhY2FjNzFlZjkyMDRjM2U2NTg2",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Momenty",
-        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
+        "name": "Zawsze tam gdzie Ty",
+        "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
       },
       "artists": [
         {
-          "name": "Grzegorz Hy\u017cy",
-          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 178893,
-      "name": "O Pani!",
-      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
+      "duration_ms": 258586,
+      "name": "Zawsze tam gdzie Ty",
+      "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Zawsze tam gdzie Ty",
-        "url": "https://open.spotify.com/album/4nvLyoLUbyrn0kB0sNzxIu"
+        "name": "Momenty",
+        "url": "https://open.spotify.com/album/1JZJaY1HGGVOpui0YhFsMr"
       },
       "artists": [
         {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+          "name": "Grzegorz Hy\u017cy",
+          "url": "https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm"
         }
       ],
-      "duration_ms": 258586,
-      "name": "Zawsze tam gdzie Ty",
-      "url": "https://open.spotify.com/track/1f3C0tSFKsjcflvMCa3X27"
+      "duration_ms": 178893,
+      "name": "O Pani!",
+      "url": "https://open.spotify.com/track/12BwVTLEvpQREU9mmb8H3C"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+      },
+      "artists": [
+        {
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Ostatni (Rojst '97 | Netflix)",
         "url": "https://open.spotify.com/album/5XALEJKY8XmE190rk2NWgQ"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Zacznij od Bacha (The Best)",
-        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
-      },
-      "artists": [
-        {
-          "name": "Zbigniew Wodecki",
-          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
-        }
-      ],
-      "duration_ms": 262293,
-      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
-      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Piosenki o mi\u0142o\u015bci (Muzyka z filmu)",
         "url": "https://open.spotify.com/album/7qZdfKzSm1AnFHVUJxoJOJ"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
-      },
-      "artists": [
-        {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Ma\u0142omiasteczkowy",
         "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 342000,
       "name": "Nie P\u0142acz Ewka",
       "url": "https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Zacznij od Bacha (The Best)",
+        "url": "https://open.spotify.com/album/28orFXW0fOsrXHRnhFyNoo"
+      },
+      "artists": [
+        {
+          "name": "Zbigniew Wodecki",
+          "url": "https://open.spotify.com/artist/4WNxiqxAHcXWK9jWdevCIn"
+        }
+      ],
+      "duration_ms": 262293,
+      "name": "Lubi\u0119 wraca\u0107 tam gdzie by\u0142em",
+      "url": "https://open.spotify.com/track/4sHTqR2RQGsH5pSFqtXroU"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Bez Ciebie",
-        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
-      },
-      "artists": [
-        {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        }
-      ],
-      "duration_ms": 198222,
-      "name": "Bez Ciebie",
-      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Omamy",
         "url": "https://open.spotify.com/album/4izFXcjIxPzX86R1hRAUbD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 230826,
       "name": "Nie mam dla Ciebie mi\u0142o\u015bci - Kayax XX Rework",
       "url": "https://open.spotify.com/track/5hOFfDyhM9kSFyMBCmgAk5"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Bez Ciebie",
+        "url": "https://open.spotify.com/album/2XX6T9V5MPE35hZRDrBJgR"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "duration_ms": 198222,
+      "name": "Bez Ciebie",
+      "url": "https://open.spotify.com/track/28rASnN07Gun1cXpOsbCHo"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Wielki Odlot 2 - Najlepsze 80-te",
-        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
-      },
-      "artists": [
-        {
-          "name": "Urszula",
-          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Dmuchawce, Latawce, Wiatr",
-      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Poganie! Kochaj i Obra\u017caj",
         "url": "https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 369200,
       "name": "Jedwab",
       "url": "https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Wielki Odlot 2 - Najlepsze 80-te",
+        "url": "https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI"
+      },
+      "artists": [
+        {
+          "name": "Urszula",
+          "url": "https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Dmuchawce, Latawce, Wiatr",
+      "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
     },
     {
       "added_at": "2023-04-03 09:53:55",

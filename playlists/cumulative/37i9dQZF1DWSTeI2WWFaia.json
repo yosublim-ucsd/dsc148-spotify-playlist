@@ -1243,6 +1243,32 @@
     },
     {
       "album": {
+        "name": "To See A Sunset (Deluxe)",
+        "url": "https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180049,
+      "name": "Brick By Brick (feat. Blu)",
+      "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
+    },
+    {
+      "album": {
         "name": "The Versace Tape",
         "url": "https://open.spotify.com/album/7eMijynbgcHmgGsuo2uthI"
       },
@@ -3266,7 +3292,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 126114,
       "name": "Good Wine",
       "url": "https://open.spotify.com/track/16QxSt81FZSUynjfopa8pv"

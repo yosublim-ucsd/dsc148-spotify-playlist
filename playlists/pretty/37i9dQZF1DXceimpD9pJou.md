@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI?si=d8f9df5f1b244fad">Pescao Vivo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,561 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,599 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 86 | [Aumenta mi fe](https://open.spotify.com/track/6UF6YGyDANSmxdBWxoLiRS) | [Dani Machine](https://open.spotify.com/artist/6TeuImCe2URuzZG1GoETm3), [Chesary](https://open.spotify.com/artist/42nFYKDPtvTu6pJyl5KOVa) | [Aumenta mi fe](https://open.spotify.com/album/0ez9txEF4YQ5mLXgpuWLtK) | 3:11 |
 | 87 | [Dios Ofrece](https://open.spotify.com/track/6IlUWmIQvm8UR6y1ANEfrx) | [Jackson Martinez](https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx) | [Dios Ofrece](https://open.spotify.com/album/6a2ZS6EHVQo5P5Z8B97nSu) | 3:17 |
 | 88 | [Su Vida Me Dio](https://open.spotify.com/track/5trBZuRbQ7vY9DRJ3T4sth) | [Samuel Adrián](https://open.spotify.com/artist/0lm4wflLUt13aruvOi8WDu) | [De Vuelta En Casa](https://open.spotify.com/album/7w7hAL4GH2Km9ZcT99Bx5S) | 4:55 |
-| 89 | [Me Rendí](https://open.spotify.com/track/31QmCF7GTYtm2da7dY8L68) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Me Rendí](https://open.spotify.com/album/78f0HFUcWCxZb7dgXMRktx) | 3:27 |
+| 89 | [Me Rendí](https://open.spotify.com/track/2IDdRPsbxhgbEIwKcwup6S) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Wise "the Gold Pen"](https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Chosen Few Fe](https://open.spotify.com/album/51sJNM3cAlnFJ7OoviSDWi) | 3:27 |
 | 90 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 |
 | 91 | [No Miro Atrás](https://open.spotify.com/track/2BzBN33Z21qJQeS0rl4Dcm) | [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS), [KALEIN](https://open.spotify.com/artist/0DiLT3ZzfShgLq4s551R3a) | [No Miro Atrás](https://open.spotify.com/album/3a0lTHJ2KutzA5PXm0EE20) | 3:30 |
 | 92 | [Misericordia](https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ) | [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Misericordia](https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [No Hay Otro Dios](https://open.spotify.com/track/61JeAQp4ND7t2o6GIrzuOr) | [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Lowsan Melgar](https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw) | [No Hay Otro Dios](https://open.spotify.com/album/5SMNLeHVF5PgQrT6nKsToy) | 6:18 |
 | 100 | [Seré](https://open.spotify.com/track/4i5aNIHaiANNFN6x6I9BaM) | [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [De Corazón a Corazón](https://open.spotify.com/album/5LLQhiskyiTEAvwB9CBnVp) | 3:45 |
 
-Snapshot ID: `MCxlMzhiNTZkZjI0YTBhOWMyNDRjNDFiNDRlY2Q2YWRiNmU5NjY2Mjgz`
+Snapshot ID: `MCw1MDYwMzY5YTZkMGY4YWNlOTgzYmIwNWJjYjQyMzZiZDhhY2ZkODhj`

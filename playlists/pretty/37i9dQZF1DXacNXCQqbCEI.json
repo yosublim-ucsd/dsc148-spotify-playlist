@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 344511,
+  "num_followers": 344601,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZhOGQ4OTE1ZGQ3ODQ1Mjg0MTdlNWYyZjUxZTAwNDIzMmFmYTUx",
+  "snapshot_id": "MCw4ZDQwMzdkMjM5NDkzNTQ2NWJhODExMTUxNGU3MTI2NGEyZDY5M2Ix",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ma\u00f1ana Tepotzlan",
-      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
       },
@@ -427,6 +427,42 @@
       "duration_ms": 254163,
       "name": "Pura Flor (El B\u00faho Remix)",
       "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Amansara Remixed",
+        "url": "https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 241338,
+      "name": "Sueno en Paraguay - El B\u00faho Remix",
+      "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -515,42 +551,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Amansara Remixed",
-        "url": "https://open.spotify.com/album/1QKIcCF0KmiDmRbGMnZvDZ"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 241338,
-      "name": "Sueno en Paraguay - El B\u00faho Remix",
-      "url": "https://open.spotify.com/track/7xh6JEfbdCF25vDPFCv2hW"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
-      },
-      "artists": [
-        {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
-        }
-      ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Ahomale",
         "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
       },
@@ -587,18 +603,38 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Bye Bye",
-        "url": "https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir"
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC"
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
+        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
+      },
+      "artists": [
+        {
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 260504,
+      "name": "Tarpuricusum Sarata - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -639,22 +675,42 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
-        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
+        "name": "Azulejos",
+        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
       "artists": [
         {
-          "name": "Luzmila Carpio",
-          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+          "name": "Populous",
+          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
         },
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
         }
       ],
-      "duration_ms": 260504,
-      "name": "Tarpuricusum Sarata - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
+      "duration_ms": 206895,
+      "name": "Azul Oro",
+      "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Escape Plan",
+        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        },
+        {
+          "name": "Benjam\u00edn Vanegas",
+          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
+        }
+      ],
+      "duration_ms": 221925,
+      "name": "Mama Clo",
+      "url": "https://open.spotify.com/track/1yOhCkYRiXZF8eB4JhJvx5"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -679,18 +735,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
       },
       "artists": [
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
         }
       ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
+      "duration_ms": 206148,
+      "name": "Quema",
+      "url": "https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -771,6 +827,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Enter the San",
         "url": "https://open.spotify.com/album/0jq4DsqKo31D8iRKXqfXxY"
       },
@@ -823,6 +895,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/0sdzZh61bpEFsBSDQ5G8GA"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Kuru Kuru",
         "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
       },
@@ -835,46 +923,6 @@
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Azulejos",
-        "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
-      },
-      "artists": [
-        {
-          "name": "Populous",
-          "url": "https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU"
-        },
-        {
-          "name": "Ela Minus",
-          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
-        }
-      ],
-      "duration_ms": 206895,
-      "name": "Azul Oro",
-      "url": "https://open.spotify.com/track/3KgLKqA9FGDXXhhxHHgZvX"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Escape Plan",
-        "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        },
-        {
-          "name": "Benjam\u00edn Vanegas",
-          "url": "https://open.spotify.com/artist/3iH5J5um1uCq8fEXkuF5hF"
-        }
-      ],
-      "duration_ms": 221925,
-      "name": "Mama Clo",
-      "url": "https://open.spotify.com/track/1yOhCkYRiXZF8eB4JhJvx5"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -963,42 +1011,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Sutileza",
-        "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
-      },
-      "artists": [
-        {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
-        },
-        {
-          "name": "Coladera",
-          "url": "https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ"
-        }
-      ],
-      "duration_ms": 220725,
-      "name": "Sutileza",
-      "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 206148,
-      "name": "Quema",
-      "url": "https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Marimba Tamb\u00f3",
         "url": "https://open.spotify.com/album/1v7K6zvUatsiKwpZ98vyhB"
       },
@@ -1015,18 +1027,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/6pvu589LBprC7VAaUh4Q7y"
+        "name": "Sutileza",
+        "url": "https://open.spotify.com/album/7bL0fzAw1LV0pTptJOtoX1"
       },
       "artists": [
         {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Coladera",
+          "url": "https://open.spotify.com/artist/7FNBqkMNkiNpP5w9WY4WHQ"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD"
+      "duration_ms": 220725,
+      "name": "Sutileza",
+      "url": "https://open.spotify.com/track/4eALrRnySVDdjAlWHYjrOX"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1063,34 +1079,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
       },
       "artists": [
         {
           "name": "El B\u00faho",
           "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Didacte",
+          "url": "https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT"
         }
       ],
-      "duration_ms": 300000,
-      "name": "La Cumbia De La Ansiedad",
-      "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
+      "duration_ms": 400826,
+      "name": "Nevar",
+      "url": "https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

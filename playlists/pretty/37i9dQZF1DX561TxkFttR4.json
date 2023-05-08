@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 331069,
+  "num_followers": 331115,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzhiYzMzMTRlZWVlNWMwMjc3MDg1NTQ5Njk4NDNlZGYwZjM3M2E3",
+  "snapshot_id": "MCwyNTI1YWQ3NDI4M2ZkNDk2NzYxZWIxNGUyMzc3MzYyNDRlZjkxYjM3",
   "tracks": [
     {
       "added_at": "2022-09-20 13:39:53",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "New Dawn",
-        "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
-      },
-      "artists": [
-        {
-          "name": "Edvard Kravchuk",
-          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Felt Improv No. 31",
         "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 144042,
       "name": "Felt Improv No. 31",
       "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "New Dawn",
+        "url": "https://open.spotify.com/album/4Q4y359fAmO9CBcx1ocGyK"
+      },
+      "artists": [
+        {
+          "name": "Edvard Kravchuk",
+          "url": "https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/1rHBp9J1NvnLW7nk2Xi4Zy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Scent Of New Days",
-        "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 142625,
-      "name": "The Scent Of New Days",
-      "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Open Window",
         "url": "https://open.spotify.com/album/3Ihliq76Oc21o68PAURoES"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 126000,
       "name": "Open Window",
       "url": "https://open.spotify.com/track/2vRsp5AMbl1bex8OGuT1Ox"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Scent Of New Days",
+        "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
+      },
+      "artists": [
+        {
+          "name": "Comet Blue",
+          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
+        }
+      ],
+      "duration_ms": 142625,
+      "name": "The Scent Of New Days",
+      "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Ave",
-        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
-      },
-      "artists": [
-        {
-          "name": "Kristoffer Wallin",
-          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Ave",
-      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Hour Glass",
         "url": "https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 171615,
       "name": "Hour Glass",
       "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Ave",
+        "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
+      },
+      "artists": [
+        {
+          "name": "Kristoffer Wallin",
+          "url": "https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Ave",
+      "url": "https://open.spotify.com/track/6iqPjDn7pJdccaaFsvTfc2"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -807,18 +807,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Across Borders",
-        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
       },
       "artists": [
         {
-          "name": "Jozef De Schutter",
-          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Across Borders",
-      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -839,34 +839,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+        "name": "Across Borders",
+        "url": "https://open.spotify.com/album/5oPkzRuPTN5DIkX3lYNjpG"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Jozef De Schutter",
+          "url": "https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o"
         }
       ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "The Window",
-        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
-      },
-      "artists": [
-        {
-          "name": "Itoko Toma",
-          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Leaves and Light",
-      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
+      "duration_ms": 156000,
+      "name": "Across Borders",
+      "url": "https://open.spotify.com/track/5oLuC8okxBZVnhwQBtKvKA"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -883,6 +867,38 @@
       "duration_ms": 171608,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Song For Katie",
+        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
+      },
+      "artists": [
+        {
+          "name": "Elliott Jack Sansom",
+          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
+        }
+      ],
+      "duration_ms": 146960,
+      "name": "Song For Katie",
+      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Window",
+        "url": "https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu"
+      },
+      "artists": [
+        {
+          "name": "Itoko Toma",
+          "url": "https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Leaves and Light",
+      "url": "https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -915,22 +931,6 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Song For Katie",
-        "url": "https://open.spotify.com/album/5fJn5QQf4lwwuLubflqLKZ"
-      },
-      "artists": [
-        {
-          "name": "Elliott Jack Sansom",
-          "url": "https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K"
-        }
-      ],
-      "duration_ms": 146960,
-      "name": "Song For Katie",
-      "url": "https://open.spotify.com/track/5Zpsc6bmptDWbiwf4Wsnhb"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
-      },
-      "artists": [
-        {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
-        }
-      ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Sleepwalk",
         "url": "https://open.spotify.com/album/3FsV1IdXbwJ5JRMV0Ujron"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 212000,
       "name": "Any",
       "url": "https://open.spotify.com/track/6z4775Liq6qK4ClYvv4P19"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "River Path",
+        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Silent Dusk",
+      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Untouched Rainforest, Pt.3",
-        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 193529,
-      "name": "Untouched Rainforest, Pt.3",
-      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
-        "name": "Sand and Stars",
-        "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie J Perry",
-          "url": "https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2"
-        }
-      ],
-      "duration_ms": 269904,
-      "name": "Sand and Stars",
-      "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Life in Process",
         "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
       },
@@ -1107,6 +1075,22 @@
       "duration_ms": 199400,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1127,22 +1111,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "The Shards",
-        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
+        "name": "Sand and Stars",
+        "url": "https://open.spotify.com/album/6gdHgdmbmulzODzpyQIgdJ"
       },
       "artists": [
         {
-          "name": "Hiroko Murakami",
-          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
-        },
-        {
-          "name": "Hiroco.M",
-          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+          "name": "Charlie J Perry",
+          "url": "https://open.spotify.com/artist/1VWajIIypSGHx88czR0Ji2"
         }
       ],
-      "duration_ms": 138890,
-      "name": "The Shards",
-      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
+      "duration_ms": 269904,
+      "name": "Sand and Stars",
+      "url": "https://open.spotify.com/track/53KeW0mvxr57ha4crsCTmT"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1163,6 +1143,26 @@
       "duration_ms": 141602,
       "name": "145 - Revisited",
       "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "The Shards",
+        "url": "https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR"
+      },
+      "artists": [
+        {
+          "name": "Hiroko Murakami",
+          "url": "https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13"
+        },
+        {
+          "name": "Hiroco.M",
+          "url": "https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of"
+        }
+      ],
+      "duration_ms": 138890,
+      "name": "The Shards",
+      "url": "https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
-      },
-      "artists": [
-        {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
-        }
-      ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
-    },
-    {
-      "added_at": "2022-09-20 13:39:53",
-      "album": {
         "name": "Col",
         "url": "https://open.spotify.com/album/7CybYrwzUaEwQCP1qvClZP"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 142041,
       "name": "Col",
       "url": "https://open.spotify.com/track/5o90qZDtuGZfJn5Wphwzgu"
+    },
+    {
+      "added_at": "2022-09-20 13:39:53",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "duration_ms": 129209,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
     },
     {
       "added_at": "2022-09-20 13:39:53",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-09-20 13:39:53",
       "album": {
-        "name": "9-Feb-2022 \"All For E\"",
-        "url": "https://open.spotify.com/album/6bVLgvKVMlouhbBNMSOjFj"
+        "name": "Asunder",
+        "url": "https://open.spotify.com/album/5yexAB7diAilKX5c3DcKvc"
       },
       "artists": [
         {
-          "name": "Sebastian Morawietz",
-          "url": "https://open.spotify.com/artist/2jaLRoXNNJXcNiUMROSRIT"
+          "name": "Glenn Natale",
+          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
         }
       ],
-      "duration_ms": 244937,
-      "name": "9-Feb-2022 \"All For E\"",
-      "url": "https://open.spotify.com/track/5eojzOHGSzUuOK4jbKo59e"
+      "duration_ms": 152200,
+      "name": "Asunder",
+      "url": "https://open.spotify.com/track/0eGyesQQqxL1niUnIAH1gi"
     }
   ],
   "unique_name": "Soft Piano",

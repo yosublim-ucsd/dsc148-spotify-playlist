@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 199489,
+  "num_followers": 199571,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzcxNzlhMTAzNGYyMDJjNTMyNWFkODRiZjk0YjA1MjU2NjcxMmYz",
+  "snapshot_id": "MCxhYjIwOGY1YTJiOGNjNzE4ZjI5OGEyYWI3Nzg0YjFiNGFjODRlNmM2",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -159,22 +159,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 256839,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Christopher Cross",
         "url": "https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 258866,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/4ogaI0XfmAunA0LyjveMSF"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 256839,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -495,6 +495,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 261826,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 219506,
       "name": "Souvenir - Remastered 2003",
       "url": "https://open.spotify.com/track/4i4QN9Zs5s7OZRRLIYHMmP"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Tunnel Of Love",
-        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "One Step Up",
-      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -723,18 +723,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Music for the Masses (2006 Remaster)",
-        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 239720,
-      "name": "The Things You Said - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
+      "duration_ms": 165773,
+      "name": "And Dream Of Sheep",
+      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -755,18 +755,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 165773,
-      "name": "And Dream Of Sheep",
-      "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
+      "duration_ms": 239720,
+      "name": "The Things You Said - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
     },
     {
       "added_at": "2018-12-12 11:36:39",

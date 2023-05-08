@@ -4,7 +4,7 @@
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-269 songs - 20 hr 21 min
+270 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blasphemous Rumours](https://open.spotify.com/track/7oQX82XgUBDhSbpMSksG12) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 6:21 | 2021-10-15 | 2022-07-29 |
 | [Blasphemous Rumours \- 2006 Remaster](https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(2006 Remaster\)](https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ) | 6:21 | 2021-10-15 |  |
 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 | 2022-09-29 | 2022-11-29 |
+| [Break the Chain](https://open.spotify.com/track/6kKRKC9D910aeIwvvsQ4us) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/2PH0lFIOpfK13q72nnP5Fn) | 4:46 | 2021-10-15 |  |
 | [Break the Chain](https://open.spotify.com/track/4pzso9h6xrYcthbQHdaeOq) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [The Best Of Gene Loves Jezebel \- Voodoo Dollies](https://open.spotify.com/album/0dyidFH3g6JfRNNfhjilf4) | 4:46 | 2021-10-15 | 2023-02-06 |
 | [Break the Chain](https://open.spotify.com/track/77YOzvmOdCpB7PH0Uji5od) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [The Best Of Gene Loves Jezebel \- Voodoo Dollies](https://open.spotify.com/album/68sEF2g8cRMtrhcbR0Pf6d) | 4:46 | 2021-10-15 | 2022-04-21 |
 | [Break The Chain](https://open.spotify.com/track/19ZQ1EOicYOZn5eamUrWFQ) | [Gene Loves Jezebel](https://open.spotify.com/artist/4Egyhh5C7MvfJaWXFx1qc4) | [Heavenly Bodies](https://open.spotify.com/album/0xJ8E1zEm9QBkzfEXP3agI) | 4:48 | 2021-10-15 | 2022-12-02 |
@@ -243,7 +244,7 @@
 | [The Passion of Lovers](https://open.spotify.com/track/3BnW7igjh4qezy645pckgX) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [The Right Moment](https://open.spotify.com/track/02u5KdFqXyYJlNXwEd0Ujf) | [Coreysan](https://open.spotify.com/artist/2xczNVLB4Ihs3PhlMAkwqf) | [Deeper Than Skin](https://open.spotify.com/album/6xUJymzxlkYQ3epdQ0Z3r6) | 4:02 | 2021-10-15 | 2022-04-18 |
 | [The Sanity Assassin](https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Burning From The Inside](https://open.spotify.com/album/7f94C8L3mdtdSZzQ0rH8nV) | 4:05 | 2021-10-15 | 2022-07-29 |
-| [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 | 2021-10-15 |  |
+| [The Shadow Of Love](https://open.spotify.com/track/4QaOESIMfFp1MYOOOBHXrE) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria](https://open.spotify.com/album/1uLToBhDc3RDVXJhhZ0yK2) | 3:49 | 2021-10-15 | 2023-05-08 |
 | [The Shadow Of Love](https://open.spotify.com/track/5RpauKfTbXLIbFVvYH0Z8e) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Phantasmagoria \(Remastered & Expanded\)](https://open.spotify.com/album/2dKQ3SMVtgHps9Tu6sIpDQ) | 3:52 | 2021-10-15 | 2022-07-29 |
 | [The Silver Threshold](https://open.spotify.com/track/4Xak0spxf9QBSwlTEOsrbA) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [The Silver Threshold](https://open.spotify.com/album/3i6cLbRGGEVJbvAkjUAnVv) | 4:16 | 2022-03-11 | 2022-07-29 |
 | [The Sword](https://open.spotify.com/track/2uDpY9vg6jkqN4lnx7ObmA) | [In Excelsis](https://open.spotify.com/artist/29Wti6UQemrnFlnV4qNu96) | [Gothic Rock 3 \- Black on Black](https://open.spotify.com/album/4BHezhva1YJlprHRgdssPp) | 4:48 | 2021-10-15 | 2022-07-16 |

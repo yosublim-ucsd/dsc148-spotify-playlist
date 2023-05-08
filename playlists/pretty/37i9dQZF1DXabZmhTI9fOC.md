@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,564 likes - 262 songs - 14 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,579 likes - 262 songs - 14 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 75 | [All Eyes on Me](https://open.spotify.com/track/47DbTdYkVB4r6Ua29Yo1kY) | [LaLa Rose](https://open.spotify.com/artist/4sKgxCn1r8DiKCUGO6gyHo) | [Like It, Love It](https://open.spotify.com/album/3YqDFPeG8Gh8jiveN1L8u3) | 2:41 |
 | 76 | [Let Me Love You](https://open.spotify.com/track/7wv7QHjICh5DoqJupFVYR0) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Let Me Love You](https://open.spotify.com/album/078kjH79SQ5BlhirDxdHOE) | 3:06 |
 | 77 | [Little Bit Like Me](https://open.spotify.com/track/1UeDhrVjPcEJABLpXoTPJk) | [Taki Waki](https://open.spotify.com/artist/5rpid11AeK74y5d5zsQmqG) | [Level Up](https://open.spotify.com/album/1lZiC6DzOwcHCFxLFo9u3R) | 2:28 |
-| 78 | [Summer '22](https://open.spotify.com/track/2vPyeSKivhenR8bbJqsnMY) | [Scott the Pisces](https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc), [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Summer '22](https://open.spotify.com/album/6wYq700mPyqZyRHEd7m7u1) | 3:29 |
+| 78 | [Summer '22](https://open.spotify.com/track/4QEGimGO5Ets77HzWfbYO4) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0), [Scott the Pisces](https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc) | [Summer '22](https://open.spotify.com/album/17KyXsxSfksC4sKNVCUx03) | 3:29 |
 | 79 | [I Want It That Way \- Acoustic Version](https://open.spotify.com/track/2RtuzqIHrvIgcby8M5Pros) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [I Want It That Way \(Acoustic Version\)](https://open.spotify.com/album/3wiOoi63n8WNaDKf7DvXOI) | 3:22 |
 | 80 | [God Only Knows \- Piano Version](https://open.spotify.com/track/1Xch6mhRTcjlea9JCsDPOU) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [God Only Knows \(Piano Version\)](https://open.spotify.com/album/7dJHISWGS9CHzc9Wko7pFc) | 2:02 |
 | 81 | [The Games We Play](https://open.spotify.com/track/2iEajLJnM0UrGymhJiP54F) | [Astyria](https://open.spotify.com/artist/2BgtLzBS8FjGC3P3kLCI76) | [From the Ashes](https://open.spotify.com/album/5Ty71h6QEJa7uN5mi42t1Y) | 3:31 |
@@ -271,4 +271,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 261 | [Bad Dream](https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Bad Dream](https://open.spotify.com/album/4rDxEB6OJqbYb38hY083qw) | 3:22 |
 | 262 | [Everybody Get Up](https://open.spotify.com/track/1N33YOi540BN6xXXiP0WjL) | [Yes Yes No Maybe](https://open.spotify.com/artist/125Kdt1Do4mnDhFALzs0LT) | [Start the Fire](https://open.spotify.com/album/4c3ehhboJ1XlgNSvpFKNh1) | 3:32 |
 
-Snapshot ID: `MCxmOGI1ODhmNTM4Yzk4ZmE5NTQ4NWIzZjU3NDA2YTk2OTkxNmI5ODg2`
+Snapshot ID: `MCxjNWY1M2EzZmEwMjdhMWFiODA3ODFjZDIxMzhkMzczZTE2ZmFhZjY4`

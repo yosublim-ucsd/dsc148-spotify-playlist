@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 20344,
+  "num_followers": 20468,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTA1NGFlODFjNDA0NjM2MjA0N2Q1NDI4NGY4ZTdmMDNmMmEwYzU1",
+  "snapshot_id": "MCw3M2UyNjZjMTg0YmU5NTUyMDUyMjQyYjcyYWFlZTg5YWE2OWEwYTZl",
   "tracks": [
     {
       "added_at": "2022-10-01 20:14:07",
@@ -775,26 +775,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 197413,
-      "name": "Find A Way (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 171970,
       "name": "CANDY (feat. Nipsey Hussle)",
       "url": "https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 197413,
+      "name": "Find A Way (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3CtfBYewF9YoIj4tN1Xuh6"
     },
     {
       "added_at": "2022-10-01 20:14:07",

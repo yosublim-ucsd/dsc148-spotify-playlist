@@ -4,7 +4,7 @@
 
 > Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K\-Anthony
 
-198 songs - 12 hr 45 min
+199 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Amen \(The Lord's Prayer\)](https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Heaven's on the Move \(Deluxe\)](https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc) | 5:50 | 2022-05-27 | 2022-10-30 |
 | [Amens and Hallelujahs](https://open.spotify.com/track/5AaN1OOez8L5uWQcLIL8W4) | [Nick Kish](https://open.spotify.com/artist/2Gixlcu4U2BRVEPHLIlzx9) | [Amens and Hallelujahs](https://open.spotify.com/album/6Mi4DjSQbIKECqLOdk5wGI) | 4:01 | 2022-05-27 | 2022-10-30 |
 | [Anyway](https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Anyway](https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW) | 5:13 | 2022-05-27 |  |
-| [Arms of Jesus](https://open.spotify.com/track/4b0MZa0sxGyKgvY7W2rZq1) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Arms of Jesus](https://open.spotify.com/album/1OcJ1cepVZ0UPbqCeLxKPc) | 3:21 | 2022-10-29 |  |
+| [Arms of Jesus](https://open.spotify.com/track/4b0MZa0sxGyKgvY7W2rZq1) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Arms of Jesus](https://open.spotify.com/album/1OcJ1cepVZ0UPbqCeLxKPc) | 3:21 | 2022-10-29 | 2023-05-08 |
+| [Arms of Jesus](https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Empty Room](https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu) | 3:21 | 2022-10-29 |  |
 | [Authentic Love](https://open.spotify.com/track/4h9HwkyNhVc8A0XyEIjMWr) | [Caleb Carroll](https://open.spotify.com/artist/6mZAjse1AXySWlMyGIxzqf) | [Authentic Love](https://open.spotify.com/album/7l6LQWt8V0gd2kKvGc8aT3) | 4:42 | 2022-05-27 | 2022-10-30 |
 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 | 2022-05-27 |  |
 | [Before I Knew Jesus](https://open.spotify.com/track/656oooz2McvWe0TezAzkDL) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Before I Knew Jesus](https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo) | 3:16 | 2022-10-29 |  |

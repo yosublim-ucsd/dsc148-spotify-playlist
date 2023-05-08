@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Baby, DaBaby, and more\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,642 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,726 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 21 | [Tiimmy Turner 2](https://open.spotify.com/track/0eoVAYAp4mq7UjT3WW8QMP) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner 2](https://open.spotify.com/album/6Bgdg8odR8SfvQMZ6lptXQ) | 2:30 |
 | 22 | [Day Date](https://open.spotify.com/track/5hpVI4uROr6e4RBQJzBwB7) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Day Date](https://open.spotify.com/album/5LfkJKCmnjUktm83PrYbMq) | 3:02 |
 | 23 | [Sorry I'm Late](https://open.spotify.com/track/6t81NqNE5JngNI1CdMVl8v) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Sorry I'm Late](https://open.spotify.com/album/6PlzJeUmCm4Zd1b2CzPdG1) | 2:41 |
-| 24 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
+| 24 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 | 25 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
 | 26 | [Sweeter Scars](https://open.spotify.com/track/5gqsRd3x46C7dkVDNPIQ6H) | [Just Juice](https://open.spotify.com/artist/4s0K7Gh1qCZCXB5OuMF1VT), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Sweeter Scars](https://open.spotify.com/album/7atAlfldLb0ZTAptZlSaeC) | 3:40 |
 | 27 | [Ambiance](https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Ambiance](https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Been Here Before](https://open.spotify.com/track/3oSh9cXjrOqKcGXDpWCndn) | [YSN Fab](https://open.spotify.com/artist/4e7DLHD3L0VvT1ubv5oq0w) | [Been Here Before](https://open.spotify.com/album/7eXL8w60EH5cpkW4LpqjAM) | 3:52 |
 | 50 | [For a Long Time](https://open.spotify.com/track/4ptNuOJcx7V7FNTxkXCxNz) | [Star Pitchee](https://open.spotify.com/artist/77bGnvwtUdvzBMyo2kqutl), [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL) | [For a Long Time](https://open.spotify.com/album/5xmkG61QhE8AfNxCMrNidR) | 3:29 |
 
-Snapshot ID: `MCw3MDFlOTg4ODY3OTc2MTgxZDU1NTUwNzc4ZTViNmJhN2I1MjY5OTU2`
+Snapshot ID: `MCw2MmU4OTU1MzkzODdmZGM0MDE2MDY3NTY5OTEwNGYxYmMxZTlkZGU5`

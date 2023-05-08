@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTQzMjAsMDAwMDAwMDBmOTllNzZmNzI5ZTY1ZWI2NzRiMGQwZjBjYjdlNmZlMA==",
+  "snapshot_id": "MjgwNTQzMjAsMDAwMDAwMDBkNzQxZWFmZWQyMTA0ZTc1MzM4MjY2YjU0NDcxMzMyNg==",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -303,22 +303,6 @@
       "duration_ms": 159527,
       "name": "Booty Remix",
       "url": "https://open.spotify.com/track/2eF7TPPkvk9ZCxbctuldxo"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Rarezas (En Vivo)",
-        "url": "https://open.spotify.com/album/2R45ItirW91Y876uT6RzQA"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 187804,
-      "name": "Diabla - En Vivo",
-      "url": "https://open.spotify.com/track/2BpBai63B5TzLRsGXjNpWy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -867,6 +851,22 @@
       "duration_ms": 180493,
       "name": "The Streets of Kinsale",
       "url": "https://open.spotify.com/track/4zQFRW56vEl571q6C3Z7YB"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "No es Cierto (En Vivo)",
+        "url": "https://open.spotify.com/album/2jdKbG0k8Zf6hy0rW3mCIN"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "No es Cierto - En Vivo",
+      "url": "https://open.spotify.com/track/5mitMUXEL601v0QcG8aTUU"
     },
     {
       "added_at": "2023-05-05 04:00:00",

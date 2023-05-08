@@ -200,7 +200,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 189219,
       "name": "Betwixt and Between",
       "url": "https://open.spotify.com/track/0tdimMLnn1H7BflkGgYD1R"
@@ -1268,6 +1268,24 @@
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
+    },
+    {
+      "album": {
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9"
+      },
+      "artists": [
+        {
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168386,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm"
     },
     {
       "album": {

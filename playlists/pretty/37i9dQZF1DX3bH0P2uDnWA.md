@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 
 > Bringing the roaring 20s into the 2020s
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,835 likes - 120 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,081 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 7 | [Morning Light](https://open.spotify.com/track/3m3qjAfKtCJTl6vKBPyquU) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Octavia Rose](https://open.spotify.com/artist/3jT2Zl57kYDK5qI8fkl1L9) | [Morning Light](https://open.spotify.com/album/5rDo1Yws2qDy7lCRQJLjkW) | 3:01 |
 | 8 | [Black Betty](https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Black Betty \- Single](https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX) | 3:09 |
 | 9 | [Small Town](https://open.spotify.com/track/6YbPQJkQVSNiXy0b1O49W6) | [DJ Mibor](https://open.spotify.com/artist/7wkjhjRAaChOE0hMghtlvc) | [Electro Swing Sound System](https://open.spotify.com/album/0RRXuqJLde0suW2gLiBOtw) | 3:20 |
-| 10 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp) | 2:18 |
+| 10 | [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/29K8K3iI82HwRSJZmcIhhQ) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/55PsgqZ0zgrP0xJmKx8ZrR) | 2:18 |
 | 11 | [Still Dancing](https://open.spotify.com/track/39R88egli2YgXq1omv1Io7) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Still Dancing](https://open.spotify.com/album/6eOQ7cXX85wKgIx5S69Ma3) | 3:18 |
 | 12 | [Demon Kitty Rag \- Electro Swing Version](https://open.spotify.com/track/5Ms84twRHZKnUvF30BN5WR) | [Tori & Dean](https://open.spotify.com/artist/4YjNLeVeRmLimuQeY412jX) | [Demon Kitty Rag \(Electro Swing Version\)](https://open.spotify.com/album/7hyb5bepcY7rlOoG6RV9rJ) | 3:35 |
 | 13 | [Upside Down](https://open.spotify.com/track/2pAkvdCFORWTiFJHVjojdC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Do You Want the Truth or Something Beautiful?](https://open.spotify.com/album/7zzHLsTPVTgBLXHbZFve33) | 3:09 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bH0P2uDnWA.md) - [plain]
 | 119 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 |
 | 120 | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/track/6p8pkvMqOcS3UGVIPsSdhu) | [Player2](https://open.spotify.com/artist/7vho3tUevFOENFU0lL4Ufy), [A\_A\_RonHD](https://open.spotify.com/artist/6gwyyI517ABMaZm75bpsOS) | [Trainwreck of Electro Swing \(from "A Hat In Time"\)](https://open.spotify.com/album/2DSGQ59YAs1Mm9EoIqNK2g) | 3:53 |
 
-Snapshot ID: `MCw0NTkzZTRhNjk0M2JjMjFmOTFlMWIwOGI0N2IzM2NlYTdlYmVmOTQ3`
+Snapshot ID: `MCw0MmM4NDI3MTVhYjQ3ZTFlOGNlOGZhM2UxZjI4ZjA0OTYxODYyZTI3`

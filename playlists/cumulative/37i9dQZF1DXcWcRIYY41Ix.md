@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Valeria Castro.
 
-373 songs - 22 hr 45 min
+374 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 | 2021-12-24 |  |
 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 | 2021-12-24 |  |
 | [Dame Más \(Acústico\)](https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5) | 3:39 | 2021-12-24 | 2023-04-26 |
+| [Dame Más \(En Acústico\)](https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB) | [RIOLA](https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9), [Borja Picó](https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ) | [Versiones Desnudas](https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo) | 3:39 | 2023-05-05 |  |
 | [De balde](https://open.spotify.com/track/0ByOfMa6l6XcnlQAkAsACF) | [Gecko Turner](https://open.spotify.com/artist/3vGEIjEdCD0TeZDOMkoaFg) | [De balde](https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN) | 4:43 | 2022-11-11 |  |
 | [De carne y hueso](https://open.spotify.com/track/4hf9GhpfyuLsksKOBkpdD2) | [Volver al Mar](https://open.spotify.com/artist/29VStMD9gyW6PxNqpZAd2M) | [De carne y hueso](https://open.spotify.com/album/2ZKeYMXqNOxgJhnevS4Kqu) | 3:15 | 2022-04-08 | 2022-04-23 |
 | [De No Haberte Conocido](https://open.spotify.com/track/3AQkfvH36YJnp3hdBfhj7C) | [Cheo](https://open.spotify.com/artist/1P6xk2vcFnmOZRKqujdpCj), [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH) | [Dónde](https://open.spotify.com/album/5LSssy7XGPGIiWlK6y5UtY) | 3:16 | 2021-12-24 | 2022-04-23 |
@@ -98,7 +99,7 @@
 | [Derecho de Nacimiento \(feat\. Los Macorinos\)](https://open.spotify.com/track/5XkqOjBws8qpEkBW7X5Ppy) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos\), Vol\. 2](https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy) | 5:48 | 2021-12-24 |  |
 | [Descalza Camino](https://open.spotify.com/track/7LK2PfcUYSbdQC0WxiJ96F) | [Marisa Valle Roso](https://open.spotify.com/artist/0OvQ1xWnrw2B3aPrDMayLL) | [Descalza Camino](https://open.spotify.com/album/54isI5NDdNqfce82qGHXJK) | 2:51 | 2022-01-14 | 2022-01-22 |
 | [Desesperado](https://open.spotify.com/track/4IaNtVTCcgQvD4fOpR41b5) | [Fermi](https://open.spotify.com/artist/3zKTjOf7vGQrcu3mJQMMA0) | [Desesperado](https://open.spotify.com/album/24UmqGrqCtuEXFCpebYT54) | 3:12 | 2022-01-27 | 2022-02-05 |
-| [Despiértame Cuando Llegues](https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [El Mundo y la Nada](https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1) | 2:02 | 2023-02-03 |  |
+| [Despiértame Cuando Llegues](https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [El Mundo y la Nada](https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1) | 2:02 | 2023-02-03 | 2023-05-08 |
 | [Despiértame Cuando Llegues](https://open.spotify.com/track/4YgfqwmFPUyRighlXA9kLa) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Despiértame Cuando Llegues](https://open.spotify.com/album/59rjllBcpSAVjwlPGeqD8z) | 2:08 | 2021-12-24 | 2022-07-29 |
 | [Después](https://open.spotify.com/track/6l4r2gBOi41cdcoIsmitZD) | [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [Después](https://open.spotify.com/album/50doKsl9xuqih3vc0ogq7L) | 3:09 | 2021-12-24 | 2022-01-15 |
 | [Destino](https://open.spotify.com/track/0Tvel29tfH38v5q9CXQC3y) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Destino](https://open.spotify.com/album/1ryt69ZHjBPDS9ytMxxh3g) | 3:25 | 2022-03-07 | 2022-03-12 |

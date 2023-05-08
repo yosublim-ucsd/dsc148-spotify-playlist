@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: De Jeugd Van Tegenwoordig
 
-1,128 songs - 2 day 11 hr 39 min
+1,130 songs - 2 day 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,7 +883,8 @@
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-04 |  |
 | [Space](https://open.spotify.com/track/1e6PNxI4pymbrv25cmKX9T) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Space](https://open.spotify.com/album/4JfgTYw8nZBgNycTB97Zpp) | 2:56 | 2023-03-30 | 2023-04-07 |
 | [Space Traveler](https://open.spotify.com/track/5WGHMmG5Tz4hI4fefZBHvo) | [Dragonfruit](https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy), [Hudson](https://open.spotify.com/artist/5WAXPWsUHGj5T4qu7ZL8eX) | [Honeymoon Phase EP](https://open.spotify.com/album/5MfxlE3QtAJ6T7YoSHk8Rr) | 4:20 | 2023-04-13 | 2023-04-21 |
-| [Special Occasion](https://open.spotify.com/track/45l1Z0SmOABXwgJnswlpoQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/3spsJSmv6raOberLtMg6mJ) | 4:31 | 2023-05-04 |  |
+| [Special Occasion](https://open.spotify.com/track/129zuMM1WITbYkbljPlxaJ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 4:31 | 2023-05-05 |  |
+| [Special Occasion](https://open.spotify.com/track/45l1Z0SmOABXwgJnswlpoQ) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/3spsJSmv6raOberLtMg6mJ) | 4:31 | 2023-05-04 | 2023-05-08 |
 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 | 2023-03-30 | 2023-04-07 |
 | [Spiegel](https://open.spotify.com/track/0DxK6Nmlk2Kqp65beXr6eG) | [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R) | [Spiegel](https://open.spotify.com/album/37PdJZZHCHXgT2JvGEnOrw) | 2:29 | 2023-02-24 | 2023-03-03 |
 | [STA JE OPEN](https://open.spotify.com/track/1BJlfMd7eptEKsuWRlL7XY) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM), [Grummel](https://open.spotify.com/artist/3TIa7EJMXTQ5OKiDJiD6Tp) | ["ITS TOMMY"](https://open.spotify.com/album/4vFwmAMysPGjoYyHXZXHq8) | 2:01 | 2023-03-24 | 2023-03-31 |
@@ -947,7 +948,8 @@
 | [The Birds Of Van Gogh](https://open.spotify.com/track/2EQ3wRVyWUfiLVTQOCMalb) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [The Birds Of Van Gogh](https://open.spotify.com/album/02oEWQu39Y0K5QAoirUMjb) | 3:48 | 2023-05-04 |  |
 | [The Dumb Song](https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Dumb Song](https://open.spotify.com/album/1W2Srir1JwdyDQMrN66CF5) | 3:46 | 2023-04-20 | 2023-04-28 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-05-05 |
-| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-04 |  |
+| [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-05 |  |
+| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-04 | 2023-05-08 |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-17 | 2023-03-25 |
 | [The Hard Way](https://open.spotify.com/track/5Zn95uMcSkg22ScxTEVmRz) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/5fa88tKdjPDtHp8njn8hXE) | 3:03 | 2023-03-09 | 2023-03-11 |
 | [The Hard Way](https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Hard Way](https://open.spotify.com/album/71SGKuKTbtqYsf0hcjugff) | 3:03 | 2023-03-09 | 2023-03-18 |

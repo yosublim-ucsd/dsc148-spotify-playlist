@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: Bîdar Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,070 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,080 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Demans](https://open.spotify.com/track/26o15qQBqRZ8YLmO88K5jt) | [Sophisticaesear](https://open.spotify.com/artist/0Ntkc1rMHAuXmIk9to9jnj), [Jaxuzistan](https://open.spotify.com/artist/2UqET7PLFIVpOHEMtXhubi), [Perdus](https://open.spotify.com/artist/5yeFLJizREo5H6NciW45Ft) | [Demans](https://open.spotify.com/album/5UQ36d8i1AthayvOztvqgL) | 7:07 |
 | 75 | [Okyanus Kadar](https://open.spotify.com/track/6dRwh62pB52N6TELfQEnkb) | [Harun C.](https://open.spotify.com/artist/2KLb6svKlNziNFRFj5XeDD) | [OKYANUS KADAR](https://open.spotify.com/album/0DllTvl7vtOhdrA8i5KgLM) | 4:14 |
 
-Snapshot ID: `MCxiN2MxMTI3MjI0ZDA0OTM2M2FmNzhkOWRhYzNiNTYzMmI0M2IzYzA4`
+Snapshot ID: `MCw4ZGRiM2E1OTk3YTU4MzFkYmM4OTYwZmQyMjE4NGQyMjYxY2ZkZTNi`

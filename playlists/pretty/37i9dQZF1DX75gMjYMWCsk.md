@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75gMjYMWCsk.md) - [plain]
 
 > Explore the unforgettable melodies of the greatest LGBTQ+ composers\. Cover: Nico Muhly
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,275 likes - 49 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,302 likes - 49 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX75gMjYMWCsk.md) - [plain]
 | 48 | [Minuet](https://open.spotify.com/track/5CXhK6CFVKjClOY1mbI7P4) | [Michael Finnissy](https://open.spotify.com/artist/2tsOm9CPRD4SbZagsqAhj4), [The Smith Quartet](https://open.spotify.com/artist/5ezYVqpTT1oJ9iCsPD1HjH) | [Dance](https://open.spotify.com/album/2H82JDReOTBEGSATt0nzBz) | 2:04 |
 | 49 | [Candide: Overture](https://open.spotify.com/track/47r7pm0fWKmneTjjbVKlCW) | [Leonard Bernstein](https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn), [New York Philharmonic](https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI) | [Bernstein Conducts Bernstein](https://open.spotify.com/album/0vFkJP7yWMK0ADx9bjoYYz) | 4:10 |
 
-Snapshot ID: `MCxiYjYzZDkyZTcxMGY5NmNhNjdiYmU3MmE0MTUzNmJjN2E5Y2U0MzZm`
+Snapshot ID: `MCw5OWEyMTZiMzRiYWI0MWI0NTc2MzRmZWE0ODI4ZDY2ODBhNTUxM2Y1`

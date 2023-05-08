@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: WOS",
-  "num_followers": 280157,
+  "num_followers": 280176,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjAyNDY2YmRhNTlmNzI1OTVkOTRjOTgxMTFjM2ZkMzcwNmZkZDQ1",
+  "snapshot_id": "MCw5N2RkMTU1ZTk0OTMyYTExNmZkYWE1YjJjN2E5Y2YwMWUwNTU1MGM5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -339,6 +339,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "S\u00f3lo D\u2019Lira",
+        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 234416,
+      "name": "Money In The Bank",
+      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Gris",
         "url": "https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG"
       },
@@ -391,26 +411,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "S\u00f3lo D\u2019Lira",
-        "url": "https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 234416,
-      "name": "Money In The Bank",
-      "url": "https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Cuenta conmigo",
-        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 166717,
-      "name": "Cuenta conmigo",
-      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Ocho",
         "url": "https://open.spotify.com/album/4jie4ait51UVZs4khjF1CP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 199000,
       "name": "Toda Mi Fe",
       "url": "https://open.spotify.com/track/4xv8YtHeOHydpg3Y6OYkUQ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Cuenta conmigo",
+        "url": "https://open.spotify.com/album/5Ye1rS5xOhdCcuV2NLiCP6"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 166717,
+      "name": "Cuenta conmigo",
+      "url": "https://open.spotify.com/track/7ptVOPFEmaytmzNzlFZw4A"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -487,6 +487,22 @@
       "duration_ms": 180428,
       "name": "La Tormenta",
       "url": "https://open.spotify.com/track/09j88EP4RqMgLMYfjN7gRn"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -527,18 +543,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
+      "duration_ms": 193567,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "La Petite Mort",
-        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "La Petite Mort",
-      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Llama Gemela",
         "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
@@ -607,18 +607,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+        "name": "La Petite Mort",
+        "url": "https://open.spotify.com/album/6urO9ecFFR0oQV39kicYRd"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
         }
       ],
-      "duration_ms": 193567,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/56f2EfGZQyygTlqfstY7yU"
+      "duration_ms": 291106,
+      "name": "La Petite Mort",
+      "url": "https://open.spotify.com/track/7iMayPLY1pzjCNMfq6lDfd"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bajo Los \u00c1rboles",
+        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 247947,
+      "name": "Bajo Los \u00c1rboles",
+      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -671,42 +687,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "No me preguntes por qu\u00e9",
-        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
-      },
-      "artists": [
-        {
-          "name": "Rouss",
-          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
-        },
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "No me preguntes por qu\u00e9",
-      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Bajo Los \u00c1rboles",
-        "url": "https://open.spotify.com/album/32MOe6Z6OuJePKUszFbo8M"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 247947,
-      "name": "Bajo Los \u00c1rboles",
-      "url": "https://open.spotify.com/track/4PyUNDyAuEtw8LWv1Cd6uV"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "San Saltar\u00edn",
         "url": "https://open.spotify.com/album/3ieQg9CKwvnOG4eJbc0Idk"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 162758,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "No me preguntes por qu\u00e9",
+        "url": "https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu"
+      },
+      "artists": [
+        {
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        },
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "No me preguntes por qu\u00e9",
+      "url": "https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Con los Pies en el Techo",
-        "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
-      },
-      "artists": [
-        {
-          "name": "Noan",
-          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
-        }
-      ],
-      "duration_ms": 207645,
-      "name": "Con los Pies en el Techo",
-      "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 184838,
       "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Con los Pies en el Techo",
+        "url": "https://open.spotify.com/album/72aS3wri62UToYS68QLUn4"
+      },
+      "artists": [
+        {
+          "name": "Noan",
+          "url": "https://open.spotify.com/artist/5FTh7whdpVYqv00Gi0w5GM"
+        }
+      ],
+      "duration_ms": 207645,
+      "name": "Con los Pies en el Techo",
+      "url": "https://open.spotify.com/track/6nMllahSeGPicYXH61ray7"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Multiverso",
-        "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
+        "name": "Celosa",
+        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
       },
       "artists": [
         {
-          "name": "Rayden",
-          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+          "name": "SERBIA",
+          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
         }
       ],
-      "duration_ms": 181340,
-      "name": "Multiverso",
-      "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
+      "duration_ms": 262293,
+      "name": "Celosa",
+      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Celosa",
-        "url": "https://open.spotify.com/album/7GAcSbOAokzBKUrW6ORmSB"
+        "name": "Multiverso",
+        "url": "https://open.spotify.com/album/0nrT7FTdjR4xS3DJrRzY6X"
       },
       "artists": [
         {
-          "name": "SERBIA",
-          "url": "https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj"
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
         }
       ],
-      "duration_ms": 262293,
-      "name": "Celosa",
-      "url": "https://open.spotify.com/track/5A20apPrPKV8sNfUzrIQV7"
+      "duration_ms": 181340,
+      "name": "Multiverso",
+      "url": "https://open.spotify.com/track/7JaqtJbkdwqREniRjBTAaD"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Soy Un Guapo",
-        "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
-      },
-      "artists": [
-        {
-          "name": "The Guapos",
-          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
-        }
-      ],
-      "duration_ms": 182780,
-      "name": "Soy Un Guapo",
-      "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Maldivas",
         "url": "https://open.spotify.com/album/51dVROPWemf4IOiRHVDMrE"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Soy Un Guapo",
+        "url": "https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu"
+      },
+      "artists": [
+        {
+          "name": "The Guapos",
+          "url": "https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh"
+        }
+      ],
+      "duration_ms": 182780,
+      "name": "Soy Un Guapo",
+      "url": "https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Astronom\u00eda Interior",
         "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
       },
@@ -1115,22 +1115,6 @@
       "duration_ms": 203880,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "El Ding Dong",
-        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 159829,
-      "name": "El Ding Dong",
-      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1167,34 +1151,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Ha Sido",
-        "url": "https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK"
+        "name": "El Ding Dong",
+        "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
       },
       "artists": [
         {
-          "name": "Los Blenders",
-          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 251177,
-      "name": "Ha Sido",
-      "url": "https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "CABI",
-        "url": "https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 121968,
-      "name": "CABI",
-      "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
+      "duration_ms": 159829,
+      "name": "El Ding Dong",
+      "url": "https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1211,6 +1179,54 @@
       "duration_ms": 126000,
       "name": "Regalao",
       "url": "https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ha Sido",
+        "url": "https://open.spotify.com/album/5d8kc4RkQim1IXtL3QwxnK"
+      },
+      "artists": [
+        {
+          "name": "Los Blenders",
+          "url": "https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai"
+        }
+      ],
+      "duration_ms": 251177,
+      "name": "Ha Sido",
+      "url": "https://open.spotify.com/track/5rF9YXAcAAOPzdaCe1fFhj"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 206615,
+      "name": "Plaza en el cielo",
+      "url": "https://open.spotify.com/track/7gaonWEr5gnYx27N3JxZ2o"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "CABI",
+        "url": "https://open.spotify.com/album/5anonHgPUxe9l7aMIdwC3N"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 121968,
+      "name": "CABI",
+      "url": "https://open.spotify.com/track/5LZWpaShpyGMIohH8kU0aK"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 168977,
       "name": "Zero",
       "url": "https://open.spotify.com/track/3zOHI5gwoN5juUNhnVpuwP"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Transcender",
-        "url": "https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "EL PUENTE",
-      "url": "https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ"
     }
   ],
   "unique_name": "Rock Total",

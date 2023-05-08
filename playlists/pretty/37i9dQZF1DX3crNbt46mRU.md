@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,749 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,763 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 64 | [Disrespect](https://open.spotify.com/track/4lDGya5EWNcpcPi6VBzY0L) | [Jordan Parat](https://open.spotify.com/artist/4QHGxRolrlEEfAOdvhx0ko) | [Disrespect](https://open.spotify.com/album/3ICexRfTeTlkfWLfxoghJd) | 2:34 |
 | 65 | [Ja ich weiß](https://open.spotify.com/track/0KzMKVa7n63hl3GQM90cwy) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [nimmdichnichtsoernst \- EP](https://open.spotify.com/album/35UU914sq7Q5fGBqwzC1px) | 2:48 |
 | 66 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 |
-| 67 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
+| 67 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 | 68 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 |
 | 69 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 |
 | 70 | [Tiimmy Turner 2](https://open.spotify.com/track/0eoVAYAp4mq7UjT3WW8QMP) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner 2](https://open.spotify.com/album/6Bgdg8odR8SfvQMZ6lptXQ) | 2:30 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 |
 | 110 | [Electric](https://open.spotify.com/track/3PuPU4fgsuBJMfXQ2mXyNc) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [Electric Horsemen](https://open.spotify.com/album/7j3sm2ctSeCf2DHB3b5OkW) | 3:27 |
 
-Snapshot ID: `MCw5Y2RmYTFmZWZlNmQ3ZjZkZGU5YzllYzBlMWQ4OTc3NGNjOGIxYmQ1`
+Snapshot ID: `MCw4YmM4MzY0ZjI3N2U0MDRkYjBlYmI0OWM5MjQ3YjRmODc1M2ZmMDk1`

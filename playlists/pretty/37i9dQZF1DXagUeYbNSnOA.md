@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Juli Gervasoni\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,792 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,801 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,13 +13,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 3 | [Ahi Estaré](https://open.spotify.com/track/2aEDaXZ9YCUxXyYVkCJGp0) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ahi Estaré](https://open.spotify.com/album/6LbdFuVzlRSGiAAebnnhiS) | 3:00 |
 | 4 | [Mírame A Los Ojos](https://open.spotify.com/track/4WAXcK0n5Thc1DD2f3pv9O) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:08 |
 | 5 | [Un Pulmón](https://open.spotify.com/track/6AYnkty42TUyN6RW7lkgRe) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Un Pulmón](https://open.spotify.com/album/7yaFTYiVVPjEhgJi4YW78v) | 3:13 |
-| 6 | [Zona de Fumadores](https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Zona de Fumadores](https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM) | 1:31 |
+| 6 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 |
 | 7 | [Cuando Te Veo](https://open.spotify.com/track/3hrIiU2vGDTczLvKeJiX3S) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Cuando Te Veo](https://open.spotify.com/album/7tG2kTpjBjfR1EO2ESCI56) | 2:21 |
-| 8 | [Hoy Solo Quiero Odiar](https://open.spotify.com/track/6d4TnEhdm5ohWkhhV6D7zy) | [Vacíos Cuerpos](https://open.spotify.com/artist/4wyyhGJyiUqJ2LFtjBjEV6) | [Hoy Solo Quiero Odiar](https://open.spotify.com/album/026JhDvcnQ7E77tQZQFCbw) | 4:21 |
+| 8 | [Zona de Fumadores](https://open.spotify.com/track/3cHpV6qi0i8ql2gSivsv6f) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Zona de Fumadores](https://open.spotify.com/album/46cYcC9YUPIEe1CpuSi5CM) | 1:31 |
 | 9 | [Quiero Bailar Contigo](https://open.spotify.com/track/3iIvuDuC4ZdP2RqWHCSP3p) | [Truzman](https://open.spotify.com/artist/7qFuA1DT1Ubb1iMPnWKMIr) | [Quiero Bailar Contigo](https://open.spotify.com/album/42W88xG8y9WfcqdarnA1uO) | 2:35 |
-| 10 | [Que Me Devuelvan la Tierra](https://open.spotify.com/track/3LgRKLoX60g83BxiBdH0Ol) | [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Que Me Devuelvan la Tierra](https://open.spotify.com/album/6tBeJGXmW6ya6N7af6gkh6) | 4:13 |
+| 10 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Chemistry](https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa) | 3:54 |
 | 11 | [La Misma Parte](https://open.spotify.com/track/7tvzDe9TUITscXi6CM1mz7) | [Mya Duran](https://open.spotify.com/artist/04mTmlOLtgP50vhcoAkB2o) | [La Misma Parte](https://open.spotify.com/album/2RQRROmxEwP8fo8uowhldV) | 2:39 |
-| 12 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/3mkaL7kfoWFrsnSnvSRMH3) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Chemistry](https://open.spotify.com/album/6wVUHdsG7M9g8vFq7yGmUa) | 3:54 |
+| 12 | [Que Me Devuelvan la Tierra](https://open.spotify.com/track/3LgRKLoX60g83BxiBdH0Ol) | [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Que Me Devuelvan la Tierra](https://open.spotify.com/album/6tBeJGXmW6ya6N7af6gkh6) | 4:13 |
 | 13 | [MALANDRA](https://open.spotify.com/track/1GNfZ80XXzxy6t8PZhgBNy) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [MALANDRA](https://open.spotify.com/album/4q8dxXTDgSictwPmpvfcv3) | 2:36 |
 | 14 | [AAP](https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW) | [Cosmic Brothers](https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba) | [AAP](https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ) | 5:41 |
 | 15 | [Paño De Lágrimas](https://open.spotify.com/track/4OyJijqmk5Hs38c51UrFbM) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Paño De Lágrimas](https://open.spotify.com/album/6VnMzKj6rU8EVFC76h9KzA) | 2:49 |
@@ -27,23 +27,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 17 | [Q Si Q No](https://open.spotify.com/track/7vjl6zhzyrSxVA1d7R7Ii5) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Q Si Q No](https://open.spotify.com/album/1Q5tRQjjM9OGctqVocQ9z1) | 2:33 |
 | 18 | [Mejor Odiarnos](https://open.spotify.com/track/2B6Omk6vjD27Ip1sfpNFLt) | [Daniel Mejia](https://open.spotify.com/artist/47h3s5hCP06yHYpmtegIt4) | [Mejor Odiarnos](https://open.spotify.com/album/2MLS0uq4I82WpwMn7Nxpfe) | 3:16 |
 | 19 | [suave acento](https://open.spotify.com/track/0B1XBUQQp9JDkT74z3TQo2) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [suave acento](https://open.spotify.com/album/4YPqbmI28tGEYzs2fV96LS) | 3:54 |
-| 20 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
+| 20 | [Euterpe](https://open.spotify.com/track/4ZGpzcXZe73n0mx4BHdAFi) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Euterpe](https://open.spotify.com/album/0sjKiWPHWeMIhHRVYBOPf4) | 4:09 |
 | 21 | [Seres](https://open.spotify.com/track/4Frl3G7vrrio9Wkf3WI7c6) | [Sueño Tsunami](https://open.spotify.com/artist/3t3BhxRxSzyOBq9vQKKWr6) | [Seres](https://open.spotify.com/album/4KWPrqOmDSp8wbRChTRVFf) | 4:13 |
-| 22 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 |
+| 22 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 23 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
-| 24 | [Euterpe](https://open.spotify.com/track/4ZGpzcXZe73n0mx4BHdAFi) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Euterpe](https://open.spotify.com/album/0sjKiWPHWeMIhHRVYBOPf4) | 4:09 |
+| 24 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 |
 | 25 | [Candela](https://open.spotify.com/track/683OupaDPQs73s58zY2Aup) | [Lalezka](https://open.spotify.com/artist/1QORf7tbxagwS8t06BuHaY) | [Candela](https://open.spotify.com/album/0oAKvpLkEE5SDJZSC2I5uN) | 2:24 |
 | 26 | [No Hay Veneno](https://open.spotify.com/track/7lhzEm9GClkeO6f853sMVa) | [Kathy Palma](https://open.spotify.com/artist/5cEPsNEucruatKACcIdktb) | [Sola \[Parte I\]](https://open.spotify.com/album/1jlqnNX45GMIeexHFJsWOy) | 3:19 |
 | 27 | [Paraíso](https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Paraíso](https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD) | 2:40 |
-| 28 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
+| 28 | [Aves Negras](https://open.spotify.com/track/5YZkhQmnSunYYRCd3dtgUH) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z) | [Aves Negras](https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU) | 2:45 |
 | 29 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
-| 30 | [Aves Negras](https://open.spotify.com/track/5YZkhQmnSunYYRCd3dtgUH) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z) | [Aves Negras](https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU) | 2:45 |
+| 30 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
 | 31 | [ETERNOS](https://open.spotify.com/track/6WJEzm3yMbJ0qI1qvfOqXR) | [MVLDITOS HOMBRES](https://open.spotify.com/artist/6FbUVVleVVOhgdyarEIVba) | [ETERNOS](https://open.spotify.com/album/0xUdJJa6uoKH8CZV3lzRYd) | 3:33 |
 | 32 | [Noche de Ronda](https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7) | [Thony Neal](https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR) | [Noche de Ronda](https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf) | 3:29 |
 | 33 | [Vienen y Van](https://open.spotify.com/track/0wkPwoD6fV7WndMpIBWcQa) | [Eduardo Campa](https://open.spotify.com/artist/10lvIDZuD2JUF3Jo5XAGg4), [Jona](https://open.spotify.com/artist/72UNRKUxOypoMdIOsUgeA1) | [Vienen y Van](https://open.spotify.com/album/1973kia33gsHtB3LtuTaBh) | 3:01 |
 | 34 | [Fuimos](https://open.spotify.com/track/44TiJHnzGE1VbKf3GXBf5j) | [Cata Claro](https://open.spotify.com/artist/4fn4Adu7mtG06Ysp1wzw6F) | [Fuimos](https://open.spotify.com/album/74YrRIvRIkjP70l2ru57rG) | 3:17 |
-| 35 | [BIEN RARO](https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [BIEN RARO](https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2) | 2:00 |
-| 36 | [Veracruz \- en bolero](https://open.spotify.com/track/3hSCWAqHeF9PX2hZJD7t5B) | [jawli](https://open.spotify.com/artist/7lFZo33jgeKsrkfkT38vJ4) | [Veracruz \(en bolero\)](https://open.spotify.com/album/0oufEYk2YWA6bVPqI4CQCF) | 3:44 |
+| 35 | [Veracruz \- en bolero](https://open.spotify.com/track/3hSCWAqHeF9PX2hZJD7t5B) | [jawli](https://open.spotify.com/artist/7lFZo33jgeKsrkfkT38vJ4) | [Veracruz \(en bolero\)](https://open.spotify.com/album/0oufEYk2YWA6bVPqI4CQCF) | 3:44 |
+| 36 | [BIEN RARO](https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [BIEN RARO](https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2) | 2:00 |
 | 37 | [Un Veneno \- Tigre Den Session](https://open.spotify.com/track/6EiQaPHDsK8LNFBgHabIZl) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Miluhska \(Tigre Den Session\)](https://open.spotify.com/album/0NEH1iZEps2ak8mSculbL3) | 4:24 |
 | 38 | [Broken](https://open.spotify.com/track/3jK2YFWNGYLxhftEc8cir5) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Broken](https://open.spotify.com/album/1KtghRkKmOebcAlzxsnzE4) | 2:43 |
 | 39 | [El Ruido](https://open.spotify.com/track/1LOTIjL9i9kXhcMhJDNUCQ) | [Humano En Tránsito](https://open.spotify.com/artist/5NEHbkbEfjsmzdpXDKXIxb) | [El Ruido](https://open.spotify.com/album/65t3KHlWmwMMBvmOiMMai8) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [So Bad](https://open.spotify.com/track/0Bv41AllBqvKGzyOAOS4PH) | [Pezk](https://open.spotify.com/artist/5c7D1CAnaECx5upe6kjfAW) | [So Bad](https://open.spotify.com/album/03GJmaxCoDhr1Lyli3F4vr) | 3:58 |
 | 50 | [Nina Flowers](https://open.spotify.com/track/3uzfNVfGwWnLUwv5bE71et) | [Ladrones de Bicicletas](https://open.spotify.com/artist/6nNkhgWX9xu8T3s9h1Bu65) | [Nina Flowers](https://open.spotify.com/album/0C3x6sgrHvN8VUlhgitnUC) | 3:35 |
 
-Snapshot ID: `MCw1ZGI0MDZlMjFiNTZiMzU4NWJjZmM2NzE4NTkxYjBmZWIyMGFmZmVi`
+Snapshot ID: `MCxlZjZhZDI3MGQxYTk2ZmZmMmZhMTJjN2ZhM2ZiNmM3ZDY5MjE3Nzcy`

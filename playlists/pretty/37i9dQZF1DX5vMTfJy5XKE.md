@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,578 likes - 166 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,549 likes - 166 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 21 | [Almost Too Early For Christmas \(with Dolly Parton\)](https://open.spotify.com/track/68FoOz11KDYaK2MITDwHkG) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Almost Too Early For Christmas](https://open.spotify.com/album/6L73BGZiFb0G5bhAQGy9Mf) | 3:03 |
 | 22 | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Ain't Christmas \(with Laufey\)](https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL) | 3:09 |
 | 23 | [Don't Let the Light Go Out](https://open.spotify.com/track/39TF6ArINM2kpvc8aMG31C) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL), [Small Boss](https://open.spotify.com/artist/47LWrJWQOA1Zw9ZxcOTEex) | [Don't Let the Light Go Out](https://open.spotify.com/album/653dA3SfNrYraUUIYa6BwI) | 3:49 |
-| 24 | [This Year](https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [This Year](https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd) | 3:14 |
+| 24 | [This Year](https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 3:14 |
 | 25 | [Jingle Bell Rock](https://open.spotify.com/track/5N0Up3WjnB1J3gjsto1HFz) | [CuteBad](https://open.spotify.com/artist/09FEhj90tAtYK9WDdWfgeP) | [Jingle Bell Rock](https://open.spotify.com/album/5DfOJeapdyl8iXkNZiZxEC) | 2:38 |
 | 26 | [Single On The 25th](https://open.spotify.com/track/3hTSUqyG6ntAYXjgYOjS16) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Single On The 25th](https://open.spotify.com/album/3dQ9PkqMkvgcjvEnKWEL3n) | 2:41 |
 | 27 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 165 | [Last Christmas](https://open.spotify.com/track/2ADlV7RigsZc3Lo6kzGczk) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Last Christmas](https://open.spotify.com/album/6gWCpXtACkNTSchRJtD3oo) | 2:48 |
 | 166 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
 
-Snapshot ID: `MCxlODRhZjY5MGI0NTMwYTA0ZTFhM2ZlNjEzNGI4N2Y1OGQ0Mjc0MWM3`
+Snapshot ID: `MCw3MThiNmNlMTgxMTJiMjdmM2Y1NzQxYTU0NWViMmY0NGI2M2FjZDkw`

@@ -2528,7 +2528,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 223154,
       "name": "Gi\u1ea5c M\u01a1 Kh\u00e1c",
       "url": "https://open.spotify.com/track/5YiqPAVbiFUj1G1qvbXo0X"
@@ -8739,6 +8739,24 @@
     },
     {
       "album": {
+        "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
+        "url": "https://open.spotify.com/album/5KOH4cewrrp8flJpIAmeoX"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e1o",
+          "url": "https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192997,
+      "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
+      "url": "https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA"
+    },
+    {
+      "album": {
         "name": "m-tp M-TP",
         "url": "https://open.spotify.com/album/5hxm3ulOLVvjFdZNFO3n4M"
       },
@@ -11590,7 +11608,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 200386,
       "name": "Super",
       "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"

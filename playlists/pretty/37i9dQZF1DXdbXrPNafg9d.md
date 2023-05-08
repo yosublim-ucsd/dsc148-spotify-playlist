@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: BETWEEN FRIENDS ft Teezo Touchdown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,266 likes - 175 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,257 likes - 175 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 153 | [Little Lies](https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Little Lies](https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix) | 4:14 |
 | 154 | [Bruise](https://open.spotify.com/track/26NhDr8bfNqIkmkFCoFdeI) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Bruise](https://open.spotify.com/album/0pzoYtS7zcG2kd7g4NUbrx) | 2:59 |
 | 155 | [Steamroller](https://open.spotify.com/track/3y2WGxpoUCvEzuSfbsDA5q) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Steamroller](https://open.spotify.com/album/68nQzRa9NE4R2mFPPgPwWk) | 3:25 |
-| 156 | [False Start](https://open.spotify.com/track/4A1Nvp5QT3ImzRVEfZzxc5) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [False Start](https://open.spotify.com/album/5594EnVFgb6SCinyZcd40V) | 5:17 |
+| 156 | [False Start](https://open.spotify.com/track/1lLfBcjZMwLVYlDlDw0CLY) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 5:17 |
 | 157 | [Fiona](https://open.spotify.com/track/1EuYQdVoeK9q5NuuhIkwgO) | [The Hails](https://open.spotify.com/artist/3g65HWtAf8uyVmpR4sRbrT) | [Fiona](https://open.spotify.com/album/1f0mIM0PKUccGYr68Inlhy) | 3:20 |
 | 158 | [I Been Young](https://open.spotify.com/track/54rNIPcl3M51J42P1C7NNX) | [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [I Been Young](https://open.spotify.com/album/02uBAyWPtbh8XDDjn7kUUh) | 4:59 |
 | 159 | [KEEP IT COOL!](https://open.spotify.com/track/1H4sbFieU2PFUMYugcGNlb) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [KEEP IT COOL!](https://open.spotify.com/album/1H0zkjJIFUVuOPn1Jr6NdF) | 2:50 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
 | 175 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
 
-Snapshot ID: `MCwwMGJlM2FlYWVkYWQ3Y2ZhZjdhMmI0OWE1ZDhlZGU5NDU4M2I0Mzg4`
+Snapshot ID: `MCw1NWVkZjk5MWRiYWQzODI5NmMwNWI0NmFmOWMyNTE5ODk1MzQ0Y2Rm`

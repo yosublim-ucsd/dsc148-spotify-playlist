@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Gucci Mane
 
-466 songs - 22 hr 18 min
+467 songs - 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,7 +421,8 @@
 | [Thankhful \(feat\. Kota The Friend\)](https://open.spotify.com/track/0nhUBU7gODdXBEsZ4BaEbS) | [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Thankhful \(feat\. Kota The Friend\)](https://open.spotify.com/album/3SvMAJ7boORELF85x6nklK) | 4:49 | 2023-04-07 | 2023-04-15 |
 | [The Chosen](https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [The Chosen](https://open.spotify.com/album/1Xbrko0o19AaO2GzsNbWRE) | 2:55 | 2023-04-28 | 2023-05-06 |
 | [The Fan](https://open.spotify.com/track/7en18lOvylt7uZo3vTrRfl) | [Cousin Stizz](https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O) | [The Fan](https://open.spotify.com/album/0zrhNmvEYi4Uz0fxqPJtcU) | 4:23 | 2023-03-03 | 2023-03-11 |
-| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-05 |  |
+| [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-05 |  |
+| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-05 | 2023-05-08 |
 | [The Game](https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [The Game](https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH) | 3:53 | 2023-04-14 | 2023-04-29 |
 | [The Jungle](https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [The Jungle](https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF) | 2:47 | 2023-04-21 | 2023-04-29 |
 | [The Precipice](https://open.spotify.com/track/5c5Jkj5WUgkfTF0X6me831) | [WISE](https://open.spotify.com/artist/5Jw6zr5U4jNtFzDQvtjNSH) | [The Precipice](https://open.spotify.com/album/1EbcffzlAU2zKbDQEkSWqY) | 2:25 | 2023-03-24 | 2023-04-01 |

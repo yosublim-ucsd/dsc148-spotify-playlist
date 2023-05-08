@@ -4,7 +4,7 @@
 
 > A blend of new songs and new artists in the soul space\. Cover: Masego
 
-324 songs - 19 hr 11 min
+325 songs - 19 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 | 2021-12-16 | 2022-04-09 |
 | [Butterflies](https://open.spotify.com/track/5TtScuQyPfQcuMZLTPMoj8) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Butterflies](https://open.spotify.com/album/4NwwcRb0xQweX7ovcwDqVi) | 3:00 | 2021-12-16 | 2022-07-07 |
 | [CALL](https://open.spotify.com/track/4v6gnS0Bnsw8JL8fx101fP) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [CALL](https://open.spotify.com/album/7gKlFyYvBQDPrq5lrarUuJ) | 2:56 | 2022-06-16 | 2022-08-25 |
-| [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-08-23 |  |
+| [Call](https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Call](https://open.spotify.com/album/5S1HHEHZqYEuCd7X0HKLPa) | 2:56 | 2022-08-23 | 2023-05-08 |
+| [Call](https://open.spotify.com/track/743RarKaAOMYFjGkZ44Mct) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:56 | 2023-04-26 |  |
 | [Call My Name](https://open.spotify.com/track/53aDfowVZKHLzAzoT0iNPS) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Change](https://open.spotify.com/album/43xnjyeAd0PNhpZjl3BdAX) | 3:28 | 2021-12-16 | 2022-07-07 |
 | [Calm Down](https://open.spotify.com/track/0ZXYwAPTlh86VP3SuOk3n7) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK), [Romana de Meneges](https://open.spotify.com/artist/3PD9tayVKAKJAphkmvCDsP) | [Calm Down](https://open.spotify.com/album/01N6XGD5m6cKJZ8w99kwV0) | 3:54 | 2022-10-28 | 2023-02-18 |
 | [Camden Free Public Library](https://open.spotify.com/track/6Oxc4nkfR3SPJjBUNtf87r) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [Camden Free Public Library](https://open.spotify.com/album/3WzSD6AH1XQW6DYcNcXfki) | 5:04 | 2022-07-24 | 2022-10-15 |

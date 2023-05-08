@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: The Hives
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,796 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,897 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 59 | [I Need You](https://open.spotify.com/track/1wnGJKdiuoi3UL5FxyXypN) | [Olivia Jean](https://open.spotify.com/artist/4elV7QXSkvQNskYUEc5SFe) | [Raving Ghost](https://open.spotify.com/album/381q4MbSXI4QBKA7YcfADA) | 3:39 |
 | 60 | [Shallow](https://open.spotify.com/track/2oxTPwAwritjHE4kEozC6s) | [Ivory Daze](https://open.spotify.com/artist/0gtcrCkCaPgofVRe0oF1wV) | [Doing Just Great](https://open.spotify.com/album/2rS8iIB8gyTHmUwElQWu42) | 5:02 |
 
-Snapshot ID: `MCwwZGU2MGFlZWU3NzA1NGRiNzVjMGNmM2IyYzVmYTg2ZmQwYzU1NWZk`
+Snapshot ID: `MCw5NjNjNzYwMmRkOGU5NTU2NDE5NjYxMmRlMjBhZjY0ZDAwM2JhMzNm`

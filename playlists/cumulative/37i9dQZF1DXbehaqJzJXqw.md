@@ -4,7 +4,7 @@
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-158 songs - 8 hr 41 min
+159 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Les yeux ouverts \(dream a little dream of me\)](https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Very Thought of You](https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP) | 4:46 | 2022-01-20 |  |
 | [Lettre A P](https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Attraction](https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS) | 3:42 | 2022-01-20 |  |
 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 | 2022-06-14 | 2022-07-29 |
-| [Liberté](https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs](https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m) | 3:37 | 2022-06-28 |  |
+| [Liberté](https://open.spotify.com/track/6aqNZAOITFShgcpg66Gatm) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs](https://open.spotify.com/album/6ZBquZ3qyIkf5pIX8w6j7m) | 3:37 | 2022-06-28 | 2023-05-08 |
 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 | 2022-01-20 |  |
 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 | 2022-06-10 |  |
 | [Mes pas dans la neige \(Spanish Song Bird\)](https://open.spotify.com/track/7cM8i0m3As7TY3twK5867L) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [LA DISPARITION](https://open.spotify.com/album/6p2Mn3SnLuqX0HzzPh5zUV) | 4:17 | 2022-01-20 | 2022-07-29 |
@@ -153,6 +153,7 @@
 | [Sympathique](https://open.spotify.com/track/2QkpfEIj3Ox8Tqfio7OTMh) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hôtel Costes \- La Suite \(Mixed by Stéphane Pompougnac\) \[Bonus Track Version\]](https://open.spotify.com/album/0dR6oNfg1pqmBrm9IAQNjD) | 2:34 | 2022-01-20 | 2022-07-29 |
 | [Sympathique](https://open.spotify.com/track/1sKpay0q1lsH8RgafNzdI1) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 2:48 | 2022-01-20 | 2022-08-11 |
 | [Tous mes rêves](https://open.spotify.com/track/5sQK4hRGnTu7ULJe93YiTr) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Tous mes rêves \- Single](https://open.spotify.com/album/2LnPHT59gTTvgTdWTVhPbT) | 2:35 | 2022-01-20 | 2022-06-10 |
+| [Tous mes rêves](https://open.spotify.com/track/2yL5SiTTbnLeddxS3mbt3v) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Tous mes rêves](https://open.spotify.com/album/4QKe2jts0wXrjtSjhUW974) | 2:35 | 2023-05-03 |  |
 | [Tous mes rêves](https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Tous mes rêves](https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw) | 2:35 | 2022-06-28 | 2023-04-30 |
 | [Tout Doucement](https://open.spotify.com/track/0OGo0CHKYXBzb9A9KdtQLz) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:23 | 2022-01-20 |  |
 | [Tu t'laisses aller](https://open.spotify.com/track/1zv0wKzFiSguxypzw67DgN) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Les deux guitares](https://open.spotify.com/album/6boO8YNFqiJfu8IQUDCKAC) | 3:41 | 2022-06-28 |  |

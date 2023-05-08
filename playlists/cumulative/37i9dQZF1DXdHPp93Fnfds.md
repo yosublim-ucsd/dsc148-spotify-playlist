@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-488 songs - 1 day 4 hr 0 min
+489 songs - 1 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/20sa61LS3BS3dhOmedmC1A) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/2VaAyaBAQAqVsodcz3iebX) | 3:29 | 2022-04-20 | 2022-10-03 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-07-15 | 2022-09-15 |
 | [Clara](https://open.spotify.com/track/63q0vbXjdpzMS6EIUuv77R) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Clara](https://open.spotify.com/album/3Urx6Gf2iN5NPaaswZCpdq) | 3:52 | 2022-05-20 | 2022-10-15 |
-| [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2022-01-21 |  |
+| [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Membrillo](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2022-01-21 | 2023-05-08 |
 | [Colibrí](https://open.spotify.com/track/02ljHIYqGXIER46ZCpNOmB) | [Camil Camil](https://open.spotify.com/artist/1H0KmGEMkJ9SAuR0F2kD1N) | [Colibrí](https://open.spotify.com/album/0hJgHuPGHOkfB0StGc8bM2) | 3:27 | 2022-02-11 | 2022-07-06 |
 | [Cometa](https://open.spotify.com/track/5juaKlJp9RtJ12EOTz4NHK) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Cometa](https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww) | 4:00 | 2022-03-18 | 2022-07-29 |
 | [Como Yo Quiero](https://open.spotify.com/track/6QcbtHMt6gDQ79Muv0AZoH) | [Fernanda Aleman](https://open.spotify.com/artist/7j59f8sBApT07ZgGuKgoDK) | [Nogoya](https://open.spotify.com/album/4fhYwvAoULyvveXGG9Kgu7) | 2:54 | 2022-04-01 | 2022-04-17 |
@@ -370,6 +370,7 @@
 | [Pájaro Azul](https://open.spotify.com/track/7xbgb7qQ8T7YtxIrWGZC8U) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Pájaro Azul](https://open.spotify.com/album/4ngc4LwYHR2wAEIgdAJtNB) | 4:29 | 2022-01-14 | 2022-07-27 |
 | [que tanto](https://open.spotify.com/track/5nshGFVBrUf3doA6FTVJzT) | [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [Tade Fonk](https://open.spotify.com/artist/7dXN6fbKgGlax00ZgnE73j) | [que tanto](https://open.spotify.com/album/3dyDQYo0vvFWEdJw8wyo4H) | 2:40 | 2022-03-04 | 2022-04-14 |
 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 | 2022-10-14 | 2023-04-30 |
+| [Quema](https://open.spotify.com/track/6A6cCw7LCB5ob9LRsQwc7I) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX) | 3:26 | 2023-04-21 |  |
 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 | 2022-01-14 | 2022-10-14 |
 | [Quien](https://open.spotify.com/track/4Yggxw9G0xi3GgHrCuvAJs) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 2:42 | 2022-01-21 | 2023-03-18 |
 | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/track/7LReYLKTIJF7hbRyOuxPvl) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Quiéreme \(aunque no es tu estilo\)](https://open.spotify.com/album/5CjuC09KYMi7FqbVBJHYSc) | 3:47 | 2022-01-21 | 2022-07-25 |

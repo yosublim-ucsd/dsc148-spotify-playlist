@@ -306,7 +306,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 140933,
       "name": "Doctor Who (Original Theme) [From \"Doctor Who\"]",
       "url": "https://open.spotify.com/track/5dxWU9epbOtZ0XHv60tydp"
@@ -1172,6 +1172,24 @@
       "duration_ms": 64773,
       "name": "Liquid Energy - Underscore Version",
       "url": "https://open.spotify.com/track/12nkGYRuBT6ewgn1w7Ygxr"
+    },
+    {
+      "album": {
+        "name": "Workshop",
+        "url": "https://open.spotify.com/album/2KEElgsJpDoi4BiEUMXoy8"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150039,
+      "name": "Lure of the Space Goddess",
+      "url": "https://open.spotify.com/track/2799P6BYTMwnrYPqKuVLxr"
     },
     {
       "album": {

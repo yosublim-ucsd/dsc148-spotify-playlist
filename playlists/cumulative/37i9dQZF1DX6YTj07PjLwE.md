@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-639 songs - 1 day 22 hr 53 min
+640 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [Hey Stoopid](https://open.spotify.com/track/7gvFV0ndhy4s79EZSGIFXe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 4:33 | 2022-04-28 | 2022-07-27 |
 | [Hit Or Miss](https://open.spotify.com/track/3nviljxwgZPAb3VLgDPM3F) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Nothing Gold Can Stay](https://open.spotify.com/album/4PK8Q8HHprwJlo5LS5foJI) | 3:15 | 2022-04-28 | 2022-05-25 |
 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 | 2022-04-28 | 2022-07-29 |
-| [Hole Hearted](https://open.spotify.com/track/1cItNpcJskTVETprljc7HV) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 3:39 | 2022-11-17 |  |
+| [Hole Hearted](https://open.spotify.com/track/1cItNpcJskTVETprljc7HV) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 3:39 | 2022-11-17 | 2023-05-08 |
 | [Hole Hearted](https://open.spotify.com/track/454prfBh6yhYBJ05NUGHJ4) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7GOk2a0toWcEMGEm8uKLyz) | 3:39 | 2022-04-28 | 2022-07-29 |
 | [Hole In My Soul](https://open.spotify.com/track/7kPuCwBWgXy5TGfgwNUKwV) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ) | 6:10 | 2022-04-28 | 2023-01-13 |
 | [Hole In My Soul](https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 6:10 | 2022-11-17 |  |
@@ -407,6 +407,7 @@
 | [Pure](https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Cloudcuckooland](https://open.spotify.com/album/7gjtAtqpEZhYLCUnJvbzOn) | 3:47 | 2022-04-28 | 2022-06-12 |
 | [Pure Massacre](https://open.spotify.com/track/7qCIP5KHYy9HuXbEEWzmC7) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 4:58 | 2022-04-28 | 2022-07-28 |
 | [Pure Morning](https://open.spotify.com/track/1TqmZVIyeD4aN4Wa0wbnfy) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/2cDDG5rnwEgjNL8Q0cO9Zd) | 4:14 | 2022-04-28 | 2022-10-13 |
+| [Pure Morning](https://open.spotify.com/track/32F0zqsDgqpIEYApk2b8sr) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Without You I'm Nothing](https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT) | 4:14 | 2023-01-18 |  |
 | [Push It](https://open.spotify.com/track/4bK77apewWVpCzZRiruhtO) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Version 2.0](https://open.spotify.com/album/66oRYombEmQmugi8uWuans) | 4:02 | 2022-04-28 | 2022-07-27 |
 | [Put Your Lights On \(feat\. Everlast\)](https://open.spotify.com/track/3uRaD26t3RkJ8n549udQ83) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Everlast](https://open.spotify.com/artist/14ZxDAK6ITtZZqPdiWrvSn) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:47 | 2022-04-28 | 2022-07-28 |
 | [Queer](https://open.spotify.com/track/39EiewBOjNSygetLhv43nA) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage](https://open.spotify.com/album/7FH4wo4ceRR39By76ONfuw) | 4:36 | 2022-04-28 | 2022-07-29 |

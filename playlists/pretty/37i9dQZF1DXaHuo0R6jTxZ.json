@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 83319,
+  "num_followers": 83371,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2ExNzNjZDVkOWQ0NTc3NWYzNTE3YjE5NzhkNTBjZWQ2MzNlY2Rl",
+  "snapshot_id": "MCw3YzQ1MzBiODNlNTUxNTdhZjkxOGM0NjFkZmNhNzZkMjIyNjAzZWQ4",
   "tracks": [
     {
       "added_at": "2023-04-12 09:27:22",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Sahra",
-        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
-      },
-      "artists": [
-        {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
-        }
-      ],
-      "duration_ms": 259666,
-      "name": "A\u00efcha - Version Mixte",
-      "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Rege'et Wahdi",
         "url": "https://open.spotify.com/album/6I8DNMW2zCWzt0JM2lSOzx"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 193375,
       "name": "Al Yadi El Yadi",
       "url": "https://open.spotify.com/track/5hiKdaRmjW8fIGECdVnFfe"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Sahra",
+        "url": "https://open.spotify.com/album/0XID5D29qdqciKjMBsySwH"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        }
+      ],
+      "duration_ms": 259666,
+      "name": "A\u00efcha - Version Mixte",
+      "url": "https://open.spotify.com/track/59TEwguuXqdtjUrdG5trEa"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -399,6 +399,30 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
+        "name": "1, 2, 3 Soleils",
+        "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
+      },
+      "artists": [
+        {
+          "name": "Khaled",
+          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
+        },
+        {
+          "name": "Rachid Taha",
+          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
+        },
+        {
+          "name": "Faudel",
+          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
+        }
+      ],
+      "duration_ms": 368933,
+      "name": "Didi",
+      "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
         "name": "Efred",
         "url": "https://open.spotify.com/album/65MdcRzosUdJ58PtZWBqCI"
       },
@@ -427,30 +451,6 @@
       "duration_ms": 184946,
       "name": "Tallou Hbabna",
       "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
-        "name": "1, 2, 3 Soleils",
-        "url": "https://open.spotify.com/album/6z2xalLZtysIZqpQJNkRUO"
-      },
-      "artists": [
-        {
-          "name": "Khaled",
-          "url": "https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX"
-        },
-        {
-          "name": "Rachid Taha",
-          "url": "https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV"
-        },
-        {
-          "name": "Faudel",
-          "url": "https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ"
-        }
-      ],
-      "duration_ms": 368933,
-      "name": "Didi",
-      "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
     },
     {
       "added_at": "2023-04-12 09:27:22",

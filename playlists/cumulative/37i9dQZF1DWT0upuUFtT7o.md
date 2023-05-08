@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Walter The Producer
 
-1,465 songs - 3 day 8 hr 8 min
+1,466 songs - 3 day 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,8 @@
 | [Don't Mention It](https://open.spotify.com/track/248Fzx78gOAjXqcATD8jI8) | [Aaron Percy](https://open.spotify.com/artist/1OCGT4W29rXiHvDzMHkJyu), [Ackerman](https://open.spotify.com/artist/5eYDxNdq1HD6iZj1NNLGZC) | [Don't Mention It](https://open.spotify.com/album/4XEzMWmgtU6k4tJaWevI3F) | 2:16 | 2022-07-20 | 2022-08-04 |
 | [don't u even cry?](https://open.spotify.com/track/7ARdtYq12d2dDYgGUUJtmr) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [don't u even cry?](https://open.spotify.com/album/0ZQOYZEcEJGez6HtkMCmXl) | 4:05 | 2023-02-08 | 2023-02-16 |
 | [Don't You Ever Give Me Up!](https://open.spotify.com/track/4aU3T2nevnWJjiexY19nou) | [eisenach](https://open.spotify.com/artist/0RO451V3eGOiatc3IQXtG7) | [Don't You Ever Give Me Up!](https://open.spotify.com/album/2egXAYU39p8EfQl9TXV1yA) | 2:43 | 2022-05-04 | 2022-05-26 |
-| [Done With the Day](https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6) | 3:30 | 2023-04-12 |  |
+| [Done With the Day](https://open.spotify.com/track/2ohsDgZQM0W3FamOXVUCXK) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Bird Hour](https://open.spotify.com/album/0WIlE8U5KX5gjNj5i8J5Ae) | 3:30 | 2023-04-12 |  |
+| [Done With the Day](https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6) | 3:30 | 2023-04-12 | 2023-05-08 |
 | [Done With the Day](https://open.spotify.com/track/46YuNuyJLXXSxA7kWDe5ns) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/0L1TKfZ2ARx1Izb7aeKa7Q) | 3:30 | 2023-04-12 | 2023-04-30 |
 | [DONT FEEL A THING](https://open.spotify.com/track/2HGDq8PHoEPMBPDwKgkyJW) | [L\. Martin](https://open.spotify.com/artist/7FaK75sCygoTpw3RE9F9e8) | [DONT FEEL A THING](https://open.spotify.com/album/4q7Y7byKkZFi9rgK7T5rtN) | 1:14 | 2022-10-05 | 2022-11-10 |
 | [Dorothy Bay](https://open.spotify.com/track/7G5oTNVGDW8GfxGZIzyg5O) | [Tiny Ruins](https://open.spotify.com/artist/4G4W57CTe85hPEGZ6hJ0Du) | [Dorothy Bay](https://open.spotify.com/album/7EL8nb9GJjHuubRXbEKJR5) | 4:52 | 2023-03-01 | 2023-03-23 |

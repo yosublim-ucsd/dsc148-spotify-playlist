@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-225 songs - 13 hr 48 min
+226 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 | 2022-02-04 |  |
 | [Delitos](https://open.spotify.com/track/4FP4YStyd83RQ8VDcKe5RC) | [Mel Duarte](https://open.spotify.com/artist/5wOU7lOA5Iyeamfae4bgSZ), [DIA](https://open.spotify.com/artist/5OjQ0K5UhpDQml39NqjPtJ) | [MORMAÇO \- Entre outras formas de calor](https://open.spotify.com/album/6BOWiETycgk2bxGzSMZJTf) | 4:13 | 2022-02-04 | 2022-04-24 |
 | [Dentro Ali \- Remix](https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Mundo \(Remix\)](https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA) | 5:40 | 2022-02-04 | 2022-04-18 |
-| [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 | 2022-03-22 |  |
+| [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 | 2022-03-22 | 2023-05-08 |
 | [Desafio](https://open.spotify.com/track/3hft4CnJUz54rJcJY5mw22) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Desafio](https://open.spotify.com/album/2gdQzcvu00rbuwtOFefWxc) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [Deu Bossa](https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd) | [André Bellini](https://open.spotify.com/artist/389NRQvEXJKmucw2RIR2fC), [Bira Fernandez](https://open.spotify.com/artist/2DTGjI8UW3h8CK3g7H4avw) | [Deu Bossa](https://open.spotify.com/album/6JUbFtuF3sxxPKcFdCFujl) | 2:55 | 2022-02-04 | 2022-07-29 |
 | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 | 2022-03-22 |  |
@@ -199,6 +199,7 @@
 | [Sereia](https://open.spotify.com/track/713dG06QFp61DE5RTaNW2B) | [Ana Muller](https://open.spotify.com/artist/7L1Xcga52ld20VEmDzE6Hz) | [Ternura](https://open.spotify.com/album/3RBsKbfJGxvCDOXrCzdDn4) | 3:00 | 2022-03-22 | 2022-07-29 |
 | [Seu Fim em Mim](https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [Seu Fim em Mim](https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC) | 3:38 | 2022-02-04 | 2023-05-03 |
 | [Seu Pensamento](https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Maré](https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l) | 3:23 | 2022-03-22 | 2022-06-26 |
+| [sexto sentido](https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T) | [sexto sentido](https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg) | 2:36 | 2023-04-15 |  |
 | [Sfca](https://open.spotify.com/track/0ylOjGzgNhelB5fYp62hN0) | [Gavi](https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw) | [Rebarba](https://open.spotify.com/album/7pKlsuwbTK9rU0sps4UJgB) | 3:45 | 2022-03-22 | 2022-05-20 |
 | [SIGNOS](https://open.spotify.com/track/7FKxm21YtCTJpDYSFdcpwH) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [SIGNOS](https://open.spotify.com/album/6pkIJadkp2QVwqNGqwF7u4) | 3:03 | 2022-03-22 | 2022-07-26 |
 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 | 2022-02-04 |  |

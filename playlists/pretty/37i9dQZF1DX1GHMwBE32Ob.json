@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Zlatan",
-  "num_followers": 7473,
+  "num_followers": 7543,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWU1NmQ2YjQzZTgxNmYwNDYwYThkZTZiY2UzODg4YmM4MjUwNGJk",
+  "snapshot_id": "MCwwYjc3OGUzZTEyNjFjZWZlYjcxNGZkNTkyMDFmYWMxYTJmZjAwNjYw",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Good Bad Boy",
-        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
-      },
-      "artists": [
-        {
-          "name": "Lil Kesh",
-          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
-        }
-      ],
-      "duration_ms": 163158,
-      "name": "Good Bad Boy",
-      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Soapy",
         "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 174043,
       "name": "Soapy",
       "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Good Bad Boy",
+        "url": "https://open.spotify.com/album/6aneMaptAsMI6EwKwQva1E"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        }
+      ],
+      "duration_ms": 163158,
+      "name": "Good Bad Boy",
+      "url": "https://open.spotify.com/track/3ZRee35yTrQLeck0yWBYep"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Caution (Remix)",
-        "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        }
-      ],
-      "duration_ms": 146951,
-      "name": "Caution (Remix)",
-      "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "ZaZoo Zehh",
         "url": "https://open.spotify.com/album/06y2KN7ZkZZ05vVxTTwCM8"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 123870,
       "name": "Don't Hype Me",
       "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Caution (Remix)",
+        "url": "https://open.spotify.com/album/7nbqUtDbv8SvVWmwN2Pqig"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        }
+      ],
+      "duration_ms": 146951,
+      "name": "Caution (Remix)",
+      "url": "https://open.spotify.com/track/0SO4p98PikYlEcZKa6YXv9"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "NI NIGERIA",
+        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
+      },
+      "artists": [
+        {
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "NI NIGERIA",
+      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Bolanle",
         "url": "https://open.spotify.com/album/4hLok7Z2jx1zBCVIy35LiL"
       },
@@ -919,18 +939,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "No Advise Me",
-        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
+        "name": "Oga Mi Sir",
+        "url": "https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM"
       },
       "artists": [
         {
-          "name": "Orezi",
-          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 178661,
-      "name": "No Advise Me",
-      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
+      "duration_ms": 160031,
+      "name": "Oga Mi Sir",
+      "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -955,22 +975,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Oga Mi Sir",
-        "url": "https://open.spotify.com/album/0zxuEYK7xzifxOwf2KVltM"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "Oga Mi Sir",
-      "url": "https://open.spotify.com/track/7aAvNhf385lLD9WABzMqST"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "A True Champion",
         "url": "https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk"
       },
@@ -987,6 +991,22 @@
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "No Advise Me",
+        "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
+      },
+      "artists": [
+        {
+          "name": "Orezi",
+          "url": "https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD"
+        }
+      ],
+      "duration_ms": 178661,
+      "name": "No Advise Me",
+      "url": "https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "NI NIGERIA",
-        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
-      },
-      "artists": [
-        {
-          "name": "Tomi Tribe",
-          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
-        },
-        {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "NI NIGERIA",
-      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Ikebe Supa",
         "url": "https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6"
       },
@@ -1059,26 +1059,6 @@
       "duration_ms": 141068,
       "name": "Ikebe Supa",
       "url": "https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Fididi",
-        "url": "https://open.spotify.com/album/0TOOHS6cwW4RE2Wxdm3ynj"
-      },
-      "artists": [
-        {
-          "name": "Flash",
-          "url": "https://open.spotify.com/artist/4YpdJj3xKNzKiLjowqoi0p"
-        },
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        }
-      ],
-      "duration_ms": 206041,
-      "name": "Fididi",
-      "url": "https://open.spotify.com/track/2rJas09J1tQEIhHZEmTsjv"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1107,6 +1087,26 @@
       "duration_ms": 188000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Caro (Remix)",
+        "url": "https://open.spotify.com/album/2LAhZSO0Zcnp1NsrdyashT"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 188734,
+      "name": "Caro (Remix)",
+      "url": "https://open.spotify.com/track/0q4b2aZRhZMRD3HvLy45s7"
     }
   ],
   "unique_name": "Street Energy ",

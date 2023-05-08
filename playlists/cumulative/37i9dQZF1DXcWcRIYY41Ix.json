@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "Versiones Desnudas",
+        "url": "https://open.spotify.com/album/1YDdzdMjyLYx6C9bRA3sJo"
+      },
+      "artists": [
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Dame M\u00e1s (En Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6F5SXSuvyv21i1fnFwvrSB"
+    },
+    {
+      "album": {
         "name": "De balde",
         "url": "https://open.spotify.com/album/0LaoeEQSv79cXnhG5RgdSN"
       },
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 122821,
       "name": "Despi\u00e9rtame Cuando Llegues",
       "url": "https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl"

@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1207601,
+  "num_followers": 1207772,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmM0NzU0NmZjNTA4YmY3ZThhNjVmMWY3N2VmZDQwMDkzOTI1NGIy",
+  "snapshot_id": "MCxkNDUxNmUyM2JhYjJiY2JjYTcyNGIzYmY1MWQxNTk1MWViZGJjMDBk",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -667,22 +667,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Relish",
-        "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
-      },
-      "artists": [
-        {
-          "name": "Joan Osborne",
-          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "One Of Us",
-      "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Hijas del Tomate",
         "url": "https://open.spotify.com/album/5Fs94v1xXPl8Q1mTMWMTLO"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Love For The Streets",
-        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
-      },
-      "artists": [
-        {
-          "name": "Caesars",
-          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Jerk It Out",
-      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Would I Lie To You?",
         "url": "https://open.spotify.com/album/3fdyhYkAKnfNIDSNUwZIPR"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 223706,
       "name": "Would I Lie To You? - Album Edit",
       "url": "https://open.spotify.com/track/1XFyebjye69ZVGR2WOze2U"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Relish",
+        "url": "https://open.spotify.com/album/1qgjfFOO3IMDimAuAWZLLt"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/1xNmF1Uep5OGutizZSbKvd"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Love For The Streets",
+        "url": "https://open.spotify.com/album/2ucS4apziMY7gaBIQc2tal"
+      },
+      "artists": [
+        {
+          "name": "Caesars",
+          "url": "https://open.spotify.com/artist/4rGrN4XDYhP6dUAZMvcuHr"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Jerk It Out",
+      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV"
     },
     {
       "added_at": "2018-12-12 11:34:22",

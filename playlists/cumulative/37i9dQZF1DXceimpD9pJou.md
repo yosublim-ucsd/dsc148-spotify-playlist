@@ -4,7 +4,7 @@
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI?si=d8f9df5f1b244fad">Pescao Vivo</a>
 
-930 songs - 2 day 18 hr 19 min
+931 songs - 2 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,8 @@
 | [Me Has Sostenido](https://open.spotify.com/track/6GY4wfvIwp846nBcZCKSKJ) | [Locuaz](https://open.spotify.com/artist/0pV61JxkqvjPzRvyVAmCVk), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Me Has Sostenido](https://open.spotify.com/album/1ac4tiokv7D0R2KyFAu5iV) | 3:02 | 2022-04-29 | 2022-06-18 |
 | [Me Levantaré](https://open.spotify.com/track/2DzE6FCCFGBRfqubz7pRbX) | [William Pérez](https://open.spotify.com/artist/3O49tY9u0aM9cZZesic5Zn) | [Me Levantaré](https://open.spotify.com/album/6YfRVFqBhEFF1iWAJm57WF) | 4:49 | 2022-06-10 | 2022-08-13 |
 | [Me Llamas \(Remix\)](https://open.spotify.com/track/7p4I6CdGqTVmYXVIsv7MVV) | [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Me Llamas \(Remix\)](https://open.spotify.com/album/561fRSEWQAbItLmgHukdkj) | 3:19 | 2022-02-25 | 2022-04-08 |
-| [Me Rendí](https://open.spotify.com/track/31QmCF7GTYtm2da7dY8L68) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Me Rendí](https://open.spotify.com/album/78f0HFUcWCxZb7dgXMRktx) | 3:27 | 2023-04-07 |  |
+| [Me Rendí](https://open.spotify.com/track/31QmCF7GTYtm2da7dY8L68) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Me Rendí](https://open.spotify.com/album/78f0HFUcWCxZb7dgXMRktx) | 3:27 | 2023-04-07 | 2023-05-08 |
+| [Me Rendí](https://open.spotify.com/track/2IDdRPsbxhgbEIwKcwup6S) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Wise "the Gold Pen"](https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Chosen Few Fe](https://open.spotify.com/album/51sJNM3cAlnFJ7OoviSDWi) | 3:27 | 2023-05-05 |  |
 | [Me Salvaste](https://open.spotify.com/track/6Kv31K0bsskf3cbWrxQE0I) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Averly Morillo](https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S) | [Me Salvaste](https://open.spotify.com/album/5YPV6e4HH78wLOO6MDKAvE) | 13:31 | 2022-03-04 | 2022-04-29 |
 | [Me Sedujiste](https://open.spotify.com/track/02QkYuomjiIfpM7xtBKRpw) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Ariel Worship](https://open.spotify.com/artist/7FD9un3idnHiSCJCmZrii0), [Matty Martinez](https://open.spotify.com/artist/5NHgDh5dj1Nkm6FmSZovTs) | [Me Sedujiste](https://open.spotify.com/album/4XQkLKSWy7Kyuv5zeC37A8) | 4:31 | 2022-07-01 | 2022-09-10 |
 | [Medicina](https://open.spotify.com/track/0XYtuaH9Okgk4ukrea6a1J) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [Medicina](https://open.spotify.com/album/5YA0A93iPTXk5poS3x49XF) | 3:06 | 2022-02-25 | 2022-03-26 |

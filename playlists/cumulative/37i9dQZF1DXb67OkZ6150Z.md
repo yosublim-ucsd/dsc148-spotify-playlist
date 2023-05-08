@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-389 songs - 23 hr 54 min
+390 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Archie, Marry Me](https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [The Loved Ones](https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng) | 2:29 | 2021-03-12 | 2022-08-09 |
 | [Are You Gonna Be My Girl](https://open.spotify.com/track/3PSSHsPh9ar1bvawML5NhE) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Are You Gonna Be My Girl](https://open.spotify.com/album/7BciFlE3SZ0oqQwFk8irRv) | 3:35 | 2021-07-21 | 2022-05-31 |
 | [Army Of Me](https://open.spotify.com/track/0rh8bLXJAlI0irKiTvuQS8) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g), [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Army Of Me](https://open.spotify.com/album/53M85Bxmxb8t7tga0XOp6c) | 4:06 | 2021-07-21 | 2022-07-08 |
+| [As I Rise](https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9) | 2:20 | 2023-05-05 |  |
 | [As I Rise](https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [As I Rise](https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG) | 2:20 | 2021-08-20 | 2023-04-30 |
 | [As It Was](https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU) | 3:46 | 2022-09-27 |  |
 | [As It Was](https://open.spotify.com/track/6TPOq3tmGF2lD5eyIAUWor) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [As It Was](https://open.spotify.com/album/3mm1CLkpLTOlggRZBCV03q) | 3:46 | 2022-09-27 | 2022-10-16 |
@@ -364,7 +365,7 @@
 | [Waterfalls](https://open.spotify.com/track/2Yw2YF0bnoYnqviXWSBEjg) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Waterfalls](https://open.spotify.com/album/6l33cvRau5lAHzmgfAe4Xu) | 4:26 | 2021-03-12 | 2022-07-29 |
 | [Watermelon Sugar](https://open.spotify.com/track/3HuDP04EGt9J2aOYMo1cp0) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Watermelon Sugar](https://open.spotify.com/album/3OzQZtbkfRfir7LueAUh1i) | 3:34 | 2021-07-21 | 2022-04-16 |
 | [We've Only Just Begun](https://open.spotify.com/track/7k5HyCB5x9NSJenU1jWV6n) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [We've Only Just Begun](https://open.spotify.com/album/3ADljSEaWZ0rWgy97vNqbZ) | 4:19 | 2021-03-12 | 2022-04-17 |
-| [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2021-03-12 |  |
+| [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2021-03-12 | 2023-05-08 |
 | [Weird Fishes/ Arpeggi](https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Weird Fishes/ Arpeggi](https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1) | 5:25 | 2022-08-08 | 2022-08-17 |
 | [West Coast](https://open.spotify.com/track/3JjqTp1P1igYmNHFPb6SDH) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [West Coast](https://open.spotify.com/album/3XZP9FEuWaS66Gquo2cKaa) | 3:15 | 2023-02-10 | 2023-04-12 |
 | [West Coast \(I'm In Love\)](https://open.spotify.com/track/3ktl9MwJgnAanqqkcTXue8) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [West Coast \(I'm In Love\)](https://open.spotify.com/album/0R3khnzqHN3bLsoZk1y36m) | 3:32 | 2023-03-17 | 2023-04-07 |

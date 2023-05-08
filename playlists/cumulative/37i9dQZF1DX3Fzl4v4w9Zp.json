@@ -8018,10 +8018,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 257087,
       "name": "Winnemucca",
       "url": "https://open.spotify.com/track/0uXjEfhvRFjnxjjI8laaIx"
+    },
+    {
+      "album": {
+        "name": "Get Behind the Wheel",
+        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+      },
+      "artists": [
+        {
+          "name": "Eilen Jewell",
+          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257087,
+      "name": "Winnemucca",
+      "url": "https://open.spotify.com/track/4nl1hkf6OVqYRNioo2pyXk"
     },
     {
       "album": {

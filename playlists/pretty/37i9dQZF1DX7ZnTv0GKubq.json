@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 342178,
+  "num_followers": 342209,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGViOWE0OGYzNDA3ZWY5ZjUyYzNjYmVhMTFiNDNjNGJiMjkyODQ1",
+  "snapshot_id": "MCxhZWJmMDMxOGM0YzRhNjRiODNmMjU0NGRhMjI1OWU1NWVmNGNmMjE5",
   "tracks": [
     {
       "added_at": "2023-03-03 12:47:34",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-03-03 12:47:34",
       "album": {
+        "name": "The Art of Conversation",
+        "url": "https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
+    },
+    {
+      "added_at": "2023-03-03 12:47:34",
+      "album": {
         "name": "Fair",
         "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 180723,
       "name": "Speed Of Plight",
       "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
-    },
-    {
-      "added_at": "2023-03-03 12:47:34",
-      "album": {
-        "name": "The Art of Conversation",
-        "url": "https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J"
-      },
-      "artists": [
-        {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
     },
     {
       "added_at": "2023-03-03 12:47:34",

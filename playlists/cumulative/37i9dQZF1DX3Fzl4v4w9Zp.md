@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: The Wood Brothers
 
-445 songs - 1 day 3 hr 32 min
+446 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,8 @@
 | [Wild Turkey](https://open.spotify.com/track/2U2zfWWmmrdm3rld8CVwIZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:32 | 2022-04-01 | 2022-05-14 |
 | [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 | 2021-12-17 | 2022-02-23 |
 | [Wildest Dream](https://open.spotify.com/track/5YmEX0jmnkxNNg8vJsvbPN) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [A Few Stars Apart](https://open.spotify.com/album/3n8WHHm1XYXFsGMjY6v84D) | 2:49 | 2021-12-17 | 2022-08-06 |
-| [Winnemucca](https://open.spotify.com/track/0uXjEfhvRFjnxjjI8laaIx) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Winnemucca](https://open.spotify.com/album/7o28gHtiqx3L857OLKsjiN) | 4:17 | 2023-04-28 |  |
+| [Winnemucca](https://open.spotify.com/track/0uXjEfhvRFjnxjjI8laaIx) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Winnemucca](https://open.spotify.com/album/7o28gHtiqx3L857OLKsjiN) | 4:17 | 2023-04-28 | 2023-05-08 |
+| [Winnemucca](https://open.spotify.com/track/4nl1hkf6OVqYRNioo2pyXk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 4:17 | 2023-05-05 |  |
 | [Winnemucca](https://open.spotify.com/track/6Rm3L6bg7z8tUAI3FUZ4Fe) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Winnemucca](https://open.spotify.com/album/7J4UvLsAsjwPv80Xx5bqke) | 4:17 | 2023-04-14 | 2023-04-30 |
 | [Wise River](https://open.spotify.com/track/4vWyfagrb0TMBLrdm0ppT9) | [Kitchen Dwellers](https://open.spotify.com/artist/5JiwO4LnQq3F6MGCRh3D31) | [Wise River](https://open.spotify.com/album/6mO5zwMf0C8msEZSP8P05P) | 3:53 | 2022-02-04 | 2022-06-18 |
 | [Wish for You](https://open.spotify.com/track/3vcWkX0FKNN2bMuFVsSCVi) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Wish for You](https://open.spotify.com/album/0QgUjMT60yrIhWhEppXHkg) | 3:24 | 2022-01-21 | 2022-05-14 |

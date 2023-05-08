@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,375 likes - 110 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,493 likes - 110 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtcnE4xlCDS.md) - [plain]
 | 109 | [NANAIRO STAGE \- gu^2 REMIX](https://open.spotify.com/track/5oZC9VXHkiJr24qoLqqtho) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [gu^2](https://open.spotify.com/artist/43TU7U6al7Qt8VCwtgnXZX), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [DENONBU \(SHIBUYA New Year REMIX\)](https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc) | 2:44 |
 | 110 | [Inverted Pyramid \- kors k REMIX](https://open.spotify.com/track/2rqO7JgyULb1YuK86fTfyB) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [DENONBU \(SHIBUYA New Year REMIX\)](https://open.spotify.com/album/2wsCiA3HAaYG8Du98pBmyc) | 4:25 |
 
-Snapshot ID: `MCwwY2FlNGIwMzIyOWQxNjgzNGJkMDNlM2JjYzM4MDQxZWU1NjdkOWVi`
+Snapshot ID: `MCxlZDk4YjQyNTVjN2U4OTAyMmJmYmE2YjYyNTgxNjJiZTBmMTQ4MWQ1`

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Ascendancy",
+        "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257399,
+      "name": "Drowned and Torn Asunder",
+      "url": "https://open.spotify.com/track/2LsIPnH5zWaIO5CLCcKXUE"
+    },
+    {
+      "album": {
         "name": "In Waves (Special Edition)",
         "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
       },
@@ -916,7 +934,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 291213,
       "name": "Pull Harder on the Strings of Your Martyr",
       "url": "https://open.spotify.com/track/0UXaslpoA81no74N7U56U9"

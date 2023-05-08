@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ed Sheeran \(pictured\), Bring Me The Horizon, Lava La Rue and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,510 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,530 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 63 | [Don't Live in Oblivion, It's Cold Down There](https://open.spotify.com/track/4OdYcHs1SNceLXslZSPXuW) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [Don't Live In Oblivion, It's Cold Down There](https://open.spotify.com/album/7aGJzgabsr8GFl0MhQL6Uj) | 3:35 |
 | 64 | [Open Up](https://open.spotify.com/track/7CQ65pJJyym5gsmOmv3i0C) | [kwes.](https://open.spotify.com/artist/2vvaBnZLZh65JFyWp67Mhn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Rye Lane \(Suite\)](https://open.spotify.com/album/5yV77i9HJr32Wv6TbIw3ob) | 4:49 |
 | 65 | [BUMMER!](https://open.spotify.com/track/2kI3DIQk5TZNRhwQxDlAC3) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [BUMMER!](https://open.spotify.com/album/6GqD7THNXRsasEGuDZ6wpL) | 2:39 |
-| 66 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
+| 66 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 | 67 | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW) | 3:22 |
 | 68 | [I'll Be](https://open.spotify.com/track/7DtlKJZoks3dmk6RXDM0yG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [I'll Be \(from the Motion Picture Soundtrack Love Again\)](https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB) | 3:03 |
 | 69 | [Terminator](https://open.spotify.com/track/1oq33HJBs0rDmjjZ2rVFyG) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Terminator](https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ) | 3:54 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 126 | [Floating Up](https://open.spotify.com/track/3Af5zhW5h50D6cXP1sMHWe) | [ESSIRAY](https://open.spotify.com/artist/0N6VYBSkR7fV8OsAsm3uk9) | [Floating Up](https://open.spotify.com/album/0d7hn4pMkkWbXK9Cu79Hk3) | 3:42 |
 | 127 | [Greatest Day \(feat\. Calum Scott\) \- Robin Schulz Rework](https://open.spotify.com/track/1Oae67sHC45sBQMrYhMiWF) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Greatest Day \(feat\. Calum Scott\) \[Robin Schulz Rework\]](https://open.spotify.com/album/66L6pO8awweuEwUBn0cLdS) | 2:44 |
 
-Snapshot ID: `MCw0YmFmOThhZTgyNjVhYjkxZmFjZmQxMGExNjI4OWY1YjY4ZmYxYTQ1`
+Snapshot ID: `MCwyN2Q1ZmIyZTg0OTlhNGZmNjcyNmYwODBlZTFlN2RmZGEyZDY1Yzk4`

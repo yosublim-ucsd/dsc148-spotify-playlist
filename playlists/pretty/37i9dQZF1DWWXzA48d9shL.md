@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,844 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,298 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 10 | [Big Shot Cream Soda](https://open.spotify.com/track/3wHRgXJJTTwS2CkusTpn56) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [Big Shot Cream Soda](https://open.spotify.com/album/4XASZ5lxkyqeks39BJIMKb) | 3:15 |
 | 11 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 |
 | 12 | [Burn The Ships](https://open.spotify.com/track/40Cy8LtWOHos6pdMmpDTCF) | [Warlord Colossus](https://open.spotify.com/artist/5gYimn2wODaiKOTFJlzVnn), [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [Burn The Ships](https://open.spotify.com/album/1RiRHZZDxMmEZ6ZKk5FmRY) | 1:49 |
-| 13 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:17 |
+| 13 | [Split](https://open.spotify.com/track/12Uc8hH4rw2Lb0598pqBtL) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Split](https://open.spotify.com/album/3G53RrtTfbUtUUhqqSFBAk) | 2:16 |
 | 14 | [Wicked](https://open.spotify.com/track/6AYJKBH8ndAzqcT2IBJ15o) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Eddy Baker](https://open.spotify.com/artist/26HvjJ7ni9UWX4p7QhrXV6) | [Jones Peak](https://open.spotify.com/album/1b3DpLcZpNhj4soopPeojE) | 1:48 |
 | 15 | [Diamonds](https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk) | [Chris Travis](https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5) | [Side Effects EP](https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx) | 3:26 |
 | 16 | [Six Lines, Two Dragons, and a Messiah](https://open.spotify.com/track/4Xid2bPvFoMcwp6NeUT2Ap) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [Candy Flip](https://open.spotify.com/track/38ChjlYHZ0lNeCtjHspZhX) | [XZARKHAN](https://open.spotify.com/artist/0ekK352BUEA00cnbGeOLkO), [STXRZ](https://open.spotify.com/artist/64IEvdOG2d4FAHDR4pNYQ4), [L U N A](https://open.spotify.com/artist/2e6JwrcJbzHnFPaSYofN4U) | [Candy Flip](https://open.spotify.com/album/4itcYsTVUHcZA6ii8Hogz5) | 1:52 |
 | 100 | [TYRANT](https://open.spotify.com/track/1TdvR1RJGlEIGXLA1IXYi0) | [TVSTELESS](https://open.spotify.com/artist/0fW2IGCuzMtYSToamwOAHS), [Mvko](https://open.spotify.com/artist/1VaxrIeH9UUBdXlJ9wBQ9P) | [TYRANT](https://open.spotify.com/album/0R16n2AAbIfpifjHnL3Zun) | 1:56 |
 
-Snapshot ID: `MCw5ZWRlYTJkMmFlYTg3OWFjYjEwYTQ5ZGY1MTQ5MjRhNWRlYTc4NmU1`
+Snapshot ID: `MCwzM2FlNDlhYTJiNDFiMWEzMWMwYWI4ZDkzMzYxM2FlNGM5ZTNiMjYz`

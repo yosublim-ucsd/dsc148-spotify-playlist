@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Alex Anwandter
 
-349 songs - 19 hr 35 min
+351 songs - 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/track/3NeXCMnUryDbrNq5lTXzN0) | [Fuel Fandango](https://open.spotify.com/artist/1MbqzxZvHtdClX1cBKU2OG), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Las Manos \(feat\. Leo Rizzi\)](https://open.spotify.com/album/3cYcINLCZbHjgvuGgNxiFk) | 3:53 | 2022-09-06 | 2023-04-22 |
 | [Lava](https://open.spotify.com/track/0itpe8ossR5xjg9gd9NyyI) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Lava](https://open.spotify.com/album/0P7BNrKeRNCFyuUHtmK5KY) | 3:22 | 2023-04-14 | 2023-05-06 |
 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 | 2023-03-10 | 2023-03-12 |
-| [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 | 2023-03-10 |  |
+| [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 | 2023-03-10 | 2023-05-08 |
 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 | 2022-10-27 | 2023-04-22 |
 | [Life](https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3) | [bearly](https://open.spotify.com/artist/4XKXIcyfPHauW8KznG2isn), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Life](https://open.spotify.com/album/5H3owcMi5LPfGvZUaD4ek3) | 4:00 | 2021-11-18 | 2022-07-29 |
 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 | 2021-11-18 | 2022-11-25 |
@@ -332,6 +332,7 @@
 | [Uh](https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Uh](https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt) | 3:31 | 2023-03-10 |  |
 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 | 2023-03-03 | 2023-04-29 |
 | [un día en París](https://open.spotify.com/track/4qGSb2elUwIqbe4Psomxxs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [un día en París](https://open.spotify.com/album/5yhz5asZRCa5dceBZBicmo) | 4:02 | 2022-11-24 |  |
+| [Un día más](https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO) | [Paul Alone](https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE) | [Un día más](https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT) | 3:22 | 2023-05-05 |  |
 | [Un lazo rojo, un agujero \(feat\. Kase O\)](https://open.spotify.com/track/4tHXURNyAQZewk2LQI0YCE) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [¿Revolución?](https://open.spotify.com/album/2P3uyYjwyMjoVborBCWxEi) | 5:29 | 2023-03-10 |  |
 | [Un Momento](https://open.spotify.com/track/4k1wOvis4BrvbkOT6jmaJ9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Un Momento](https://open.spotify.com/album/6rObLR3OfwtAkft3WuEuTI) | 3:09 | 2022-08-19 | 2022-10-28 |
 | [un poco más](https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [un poco más](https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ) | 2:18 | 2022-06-29 | 2022-09-20 |
@@ -343,6 +344,7 @@
 | [Verte Otra Vez](https://open.spotify.com/track/3cDfdnyHHHjjJGifdTaToT) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Verte Otra Vez](https://open.spotify.com/album/0VQOxV4o6TPKxF7oePOIAi) | 3:49 | 2023-02-03 |  |
 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 | 2021-11-18 | 2022-09-07 |
 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 | 2022-09-06 | 2023-02-18 |
+| [Volves](https://open.spotify.com/track/5uvobs7WJRW691LBLX3oxM) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Volves](https://open.spotify.com/album/4W0sH5fMAH2NYYGopA8pr9) | 4:02 | 2023-05-05 |  |
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2021-11-18 | 2022-09-07 |
 | [Waterproof](https://open.spotify.com/track/3n9kLQTgbU3JIBEe44QyKm) | [Camila Orantes](https://open.spotify.com/artist/4SuUIMrRCRGq38QUiXCpuv), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Waterproof](https://open.spotify.com/album/5C6qFvIfAku7LCBCd0z8ka) | 3:05 | 2023-04-07 |  |
 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 | 2022-01-10 | 2022-08-20 |
@@ -354,7 +356,7 @@
 | [¡párate!](https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP) | 2:33 | 2022-01-10 | 2022-09-07 |
 | [¿Para dónde vamos?](https://open.spotify.com/track/51Eock8moiROVuwifuovBF) | [Madame Récamier](https://open.spotify.com/artist/2rNCZVyZwtSaTI1HGj8LFD), [Andrik](https://open.spotify.com/artist/2EQprQtkdtAXyg6PsQl4Wp) | [¿Para dónde vamos?](https://open.spotify.com/album/66Juh4grDFoKjsWAoRbJLL) | 3:34 | 2023-03-10 | 2023-03-12 |
 | [¿que cambió?](https://open.spotify.com/track/0einRYyqNaaJZrsAmOnPL8) | [Ferri](https://open.spotify.com/artist/4yIT3O6MPXb85oEhkMadwT), [Imfinenow](https://open.spotify.com/artist/4VegDdugwCSdbyoHdObFEy) | [¿que cambió?](https://open.spotify.com/album/0PuY267ArjYIrTCYTDY7wy) | 1:55 | 2023-04-07 | 2023-04-15 |
-| [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 |  |
+| [¿QUIÉN TE MANDA?](https://open.spotify.com/track/4kXb8O44mxvAA6XqiVIz1m) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [¿QUIÉN TE MANDA?](https://open.spotify.com/album/2SrokchsNgnhE7pR5nKKIb) | 3:38 | 2023-02-17 | 2023-05-08 |
 | [¿Qué Ha Sido De Ti?](https://open.spotify.com/track/10DVaINeZkqXwjWCdwNtVh) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [¿Qué Ha Sido De Ti?](https://open.spotify.com/album/7yVCek4s4M23xJKENetKQL) | 3:17 | 2023-03-17 |  |
 | [Último Adiós](https://open.spotify.com/track/7lBhTIVEhFmuptaX7Cs1vD) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf), [Baltazar Clusellas](https://open.spotify.com/artist/37hRvfW8T7lfdU7XdpZ6nX) | [Último Adiós](https://open.spotify.com/album/3NypapKHKGVY92ONbBSy3M) | 3:57 | 2023-03-10 | 2023-03-23 |
 

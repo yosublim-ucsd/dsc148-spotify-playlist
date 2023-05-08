@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 899272,
+  "num_followers": 888225,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzNlM2Q3NWY2ODcxMDdhMzI1MWZlZmZlZmU0MTRkYTJjMTgxNGNl",
+  "snapshot_id": "MCxjNWRiYzY1MTI0NWFhMTkzOWE3OWIzNzE4MTUwN2ZhMTgwNjg0ZDQ3",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -623,38 +639,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+        "name": "We Are Deadbeats (Vol. 4)",
+        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The One (The Remixes)",
-        "url": "https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
         },
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 160000,
-      "name": "The One - NGHTMRE Remix",
-      "url": "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
+      "duration_ms": 173413,
+      "name": "Stars Tonight",
+      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -679,22 +679,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "We Are Deadbeats (Vol. 4)",
-        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
+        "name": "The One (The Remixes)",
+        "url": "https://open.spotify.com/album/1pZ4Bycse2Ck26SkSZHNGS"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         },
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         }
       ],
-      "duration_ms": 173413,
-      "name": "Stars Tonight",
-      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
+      "duration_ms": 160000,
+      "name": "The One - NGHTMRE Remix",
+      "url": "https://open.spotify.com/track/0z6BBM8lek2dzvnuIOX1Wx"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
-      },
-      "artists": [
-        {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
-        }
-      ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Jungle Juice",
         "url": "https://open.spotify.com/album/3ZWcx0FGgPqxpxcQ87cuZM"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 274966,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/1VxQboO0KAsIm8MjSShBJv"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Left Is Right",
-        "url": "https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "ili",
-      "url": "https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Tanglewood",
         "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 158961,
       "name": "Spanish Moss",
       "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Left Is Right",
+        "url": "https://open.spotify.com/album/7nYaSlVUHMNvSRzc0guLYy"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "ili",
+      "url": "https://open.spotify.com/track/59QmjU5K8XQTfj9JjFNb4Z"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "I Love You.",
+      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Came Up",
         "url": "https://open.spotify.com/album/1UKFMf12OfFIpeRFLvgfqD"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 214929,
       "name": "Came Up",
       "url": "https://open.spotify.com/track/7f4Pjqs3XHSfV1UwX5vjxo"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/007IZz4ZFvWVKiFW1bgON9"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "I Love You.",
-      "url": "https://open.spotify.com/track/3TmTEN2zy0cyYMjiviWbMK"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Animal Vegetable Mineral Pt. 1",
+        "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
+      },
+      "artists": [
+        {
+          "name": "Doctor P",
+          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Flying Spaghetti Monster",
+      "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "I Admit It (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/2pHkZymG4rqjYfIP5GfeDO"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Animal Vegetable Mineral Pt. 1",
-        "url": "https://open.spotify.com/album/702FoCcG41G7wzj1xmiu0w"
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
       },
       "artists": [
         {
-          "name": "Doctor P",
-          "url": "https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ"
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Flying Spaghetti Monster",
-      "url": "https://open.spotify.com/track/4VzDr8H5SCS1P14tyguB1a"
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1355,22 +1371,6 @@
       "duration_ms": 273600,
       "name": "Lions - Doctor P Remix",
       "url": "https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Ur Body",
-        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "Hex Cougar",
-          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Ur Body",
-      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Atom + Eve",
         "url": "https://open.spotify.com/album/2VbJQEfwTnFLzFL3WQ8coK"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 246967,
       "name": "Hmu (feat. Clay Parnell & Rory \"Sweet Boy\" Dolan)",
       "url": "https://open.spotify.com/track/5F3t5WgLyBX2W7un8IXiLD"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ur Body",
+        "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "Hex Cougar",
+          "url": "https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Ur Body",
+      "url": "https://open.spotify.com/track/4KD6CYSCX2m3rxYdQQuyYP"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Apocalyptic",
+        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Apocalyptic",
+      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Pour All Night",
         "url": "https://open.spotify.com/album/1r9fcqdsiCyRZJPuTUTG9e"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 209016,
       "name": "Pour All Night",
       "url": "https://open.spotify.com/track/3SgNqKp4pugZ4k1vuyRcew"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Apocalyptic",
-        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Apocalyptic",
-      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Moving Points",
-        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
-      },
-      "artists": [
-        {
-          "name": "Jerry Folk",
-          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
-        }
-      ],
-      "duration_ms": 121007,
-      "name": "Red Ish",
-      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Twitter",
         "url": "https://open.spotify.com/album/1Wx5ndC4uft7G0V3DwY9Cu"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 165350,
       "name": "Twitter",
       "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Moving Points",
+        "url": "https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE"
+      },
+      "artists": [
+        {
+          "name": "Jerry Folk",
+          "url": "https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv"
+        }
+      ],
+      "duration_ms": 121007,
+      "name": "Red Ish",
+      "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
     },
     {
       "added_at": "2023-05-05 04:00:00",

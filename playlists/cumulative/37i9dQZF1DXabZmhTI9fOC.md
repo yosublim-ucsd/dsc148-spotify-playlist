@@ -4,7 +4,7 @@
 
 > Turn up the heat with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2205orglvisldexterndeml5360&utm\_campaign=2205orglvisld&utm\_source=sptfy\_sptfy\_na&utm\_medium=ernd\_eml\_awa\_eml&utm\_term=prtnrcust\_spotifysubs&utm\_content=loveisland">Peacock</a>.
 
-310 songs - 16 hr 56 min
+311 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,8 @@
 | [Stay All Night](https://open.spotify.com/track/3PTndrx2moIMajxq5NMBPJ) | [Summerdrive](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Wild In Our Ways](https://open.spotify.com/album/5MU1rYYbP0CAaCYGRcgVjv) | 4:01 | 2022-08-12 |  |
 | [Stay With Me, Spend The Night](https://open.spotify.com/track/3G1lYObCYV7einMRefZilg) | [Chew Fu](https://open.spotify.com/artist/6XdUl9SNdiDBbZhZ1B9ubn), [Jimmy Castor](https://open.spotify.com/artist/3snDbXCNwmoFk1MAbhsJal) | [Stay With Me, Spend The Night](https://open.spotify.com/album/5JGQtC0pTrCA5IhXJxJicG) | 3:03 | 2022-08-08 |  |
 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 | 2022-08-19 |  |
-| [Summer '22](https://open.spotify.com/track/2vPyeSKivhenR8bbJqsnMY) | [Scott the Pisces](https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc), [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Summer '22](https://open.spotify.com/album/6wYq700mPyqZyRHEd7m7u1) | 3:29 | 2022-07-15 |  |
+| [Summer '22](https://open.spotify.com/track/4QEGimGO5Ets77HzWfbYO4) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0), [Scott the Pisces](https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc) | [Summer '22](https://open.spotify.com/album/17KyXsxSfksC4sKNVCUx03) | 3:29 | 2022-08-19 |  |
+| [Summer '22](https://open.spotify.com/track/2vPyeSKivhenR8bbJqsnMY) | [Scott the Pisces](https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc), [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Summer '22](https://open.spotify.com/album/6wYq700mPyqZyRHEd7m7u1) | 3:29 | 2022-07-15 | 2023-05-08 |
 | [Summer of Love](https://open.spotify.com/track/7pMCfAwVZilwuwyGkva2mz) | [Tom Ferry](https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA), [Anassa](https://open.spotify.com/artist/09p3sjSfBEDE6f9WUwEEgf) | [Summer of Love](https://open.spotify.com/album/60nbV9r6kl2AE64qFBG4d7) | 2:37 | 2022-08-29 |  |
 | [Summer Thing](https://open.spotify.com/track/5UbJD3lat3SVDDBXmf8gLc) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Summer Thing](https://open.spotify.com/album/73mBahc4gVUnOclWX8Zt5j) | 2:29 | 2022-08-26 |  |
 | [sun keeps on shining](https://open.spotify.com/track/5OAEQKfQzIB3X4K7TtviZf) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sun keeps on shining](https://open.spotify.com/album/4LBGeeTC8GUcMSTM8Aesm8) | 2:47 | 2022-08-01 |  |

@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。Ed Sheeran,  Galantis, XG, Tyga and more! Cover: Ed Sheeran
 
-1,249 songs - 2 day 22 hr 42 min
+1,251 songs - 2 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -999,7 +999,8 @@
 | [The Edge](https://open.spotify.com/track/1YQ6997r5wOIYmYBkDer2i) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/38tSiz1dWutOylg4K0b1WF) | 2:43 | 2023-02-23 | 2023-03-03 |
 | [The Edge](https://open.spotify.com/track/7ErnaYalt2rUa9TZbq5fwU) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/2HnbfPdTfU6ALbVGxE7xID) | 2:43 | 2023-02-23 | 2023-02-25 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-27 | 2023-05-05 |
-| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-04 |  |
+| [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 | 2023-05-04 |  |
+| [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 | 2023-05-04 | 2023-05-08 |
 | [The Freaks](https://open.spotify.com/track/1cTHUMdInmZvxVCHnzHOj2) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [The Freaks](https://open.spotify.com/album/1AZC2QcPfpS3Dn0Fpoodwb) | 4:16 | 2023-02-16 | 2023-02-24 |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-03-17 | 2023-03-25 |
 | [The Gym](https://open.spotify.com/track/6lKIAhKMaGiLJkqAdbz6vB) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [The Gym](https://open.spotify.com/album/1aGB1YZ8nU8AciTJwe9uks) | 3:19 | 2023-04-20 | 2023-04-28 |
@@ -1170,7 +1171,8 @@
 | [Young, Dumb, Stupid](https://open.spotify.com/track/2s2PGt2yeQly8auhPuHGIn) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/5JdSdoglRlxgJDWiprRtY0) | 3:10 | 2023-03-17 | 2023-03-25 |
 | [your eyes](https://open.spotify.com/track/279j7K8VbSq0U5PJQhQGB1) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [your eyes](https://open.spotify.com/album/2aGk8wIIXSqtIntU9E7GFv) | 2:13 | 2023-03-31 | 2023-04-07 |
 | [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 | 2023-04-28 |
-| [Yukkuri Odoru Hito](https://open.spotify.com/track/6ig5IpelRO0773SN3cW7Ij) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [Yukkuri Odoru Hito](https://open.spotify.com/album/4YJSbpcCgVBIaCrP9Y14EM) | 4:23 | 2023-05-04 |  |
+| [Yukkuri Odoru Hito](https://open.spotify.com/track/6ig5IpelRO0773SN3cW7Ij) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [Yukkuri Odoru Hito](https://open.spotify.com/album/4YJSbpcCgVBIaCrP9Y14EM) | 4:23 | 2023-05-04 | 2023-05-08 |
+| [Yukkuri Odoru Hito](https://open.spotify.com/track/6BP9EXZA5pOECMpVI71PcY) | [kumagusu](https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ) | [Yukkuri Odoru Hito](https://open.spotify.com/album/3JXX80DcdCx1V4A5vKFm00) | 4:23 | 2023-05-04 |  |
 | [Yume wa Sametemo](https://open.spotify.com/track/2rqgyouAVrWeRjGvFKnqLm) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Yume wa Sametemo](https://open.spotify.com/album/6Ohpoh84DNmZLaW6aTGuhP) | 3:41 | 2023-04-06 | 2023-04-14 |
 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 | 2023-04-06 | 2023-04-14 |
 | [Últimamente](https://open.spotify.com/track/51nSvDGXM7G9kVKlptO6Id) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz) | [Últimamente](https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC) | 3:53 | 2023-02-02 | 2023-02-10 |

@@ -4,7 +4,7 @@
 
 > عيش أجمل حاله حب 🫶
 
-149 songs - 9 hr 32 min
+150 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Awel Kalam](https://open.spotify.com/track/1XBy6TaSydf6DE6lN5wW5X) | [Hanady Mehanna](https://open.spotify.com/artist/5v3hMjviVKzTsRKjiUFiGT) | [Awel Kalam](https://open.spotify.com/album/2DLAkdjiXZf40bn7xAJAay) | 3:26 | 2023-05-04 |  |
 | [Ayam W Fato](https://open.spotify.com/track/7tcjTfUu9C0NkK4K6b6VPQ) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Ayam W Fato](https://open.spotify.com/album/2RJnwiAQysRePsT5FdWbbD) | 4:33 | 2023-02-13 |  |
 | [Ayez Atamen Alik](https://open.spotify.com/track/2mgEO4mUU06op9yPYMwAO3) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Kol Deea Shakhseya](https://open.spotify.com/album/1WMzdqwfrhScm5z0cVUwPF) | 4:04 | 2023-02-13 |  |
+| [Baad Sneen](https://open.spotify.com/track/613tFlzrS2BfYZ1zqcTHqZ) | [Hiba Tawaji](https://open.spotify.com/artist/2CitZjt8DI9S447r6GBGAX) | [Baad Sneen](https://open.spotify.com/album/6GIUWZvRkFJyjgLwXak8Md) | 3:42 | 2023-05-04 |  |
 | [babat salamy](https://open.spotify.com/track/6OB98f5Aj7otXeLBBn7JoF) | [Adham Seliman](https://open.spotify.com/artist/4xV6q5fDx5Mx73IZEugzHF) | [babat salamy](https://open.spotify.com/album/6X9Nx5KCj2Zsr8W0CiNftG) | 3:41 | 2023-02-13 |  |
-| [Baheb Maak](https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Baheb Maak](https://open.spotify.com/album/6QyDtk57A58TX6kwbC5048) | 3:56 | 2023-02-13 |  |
+| [Baheb Maak](https://open.spotify.com/track/6u87eCMHElMpOF9XREyIQk) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Baheb Maak](https://open.spotify.com/album/6QyDtk57A58TX6kwbC5048) | 3:56 | 2023-02-13 | 2023-05-08 |
 | [Bahebak](https://open.spotify.com/track/6ma9Xd53y0elLkH1KfiSU5) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Bahebak](https://open.spotify.com/album/5uPTWqnAfnZrrGi4Kxnes0) | 3:19 | 2023-02-13 |  |
 | [Bahebak](https://open.spotify.com/track/1GBQ5VQR4ChtMwFnsOKbzt) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [122 Movie](https://open.spotify.com/album/0PPtTuYZNbsTJl5bnMXwkb) | 3:20 | 2023-02-13 |  |
 | [Bahebak](https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Bahebak](https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW) | 3:26 | 2023-02-13 |  |

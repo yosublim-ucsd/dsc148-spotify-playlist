@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-306 songs - 23 hr 43 min
+307 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Anomynous \(Bonus Track\) \- 2020 Remaster](https://open.spotify.com/track/1r7si2LuTgMM5vmKePACHK) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Anomynous \(Bonus Track\) \(2020 Remaster\)](https://open.spotify.com/album/5g2HKNHRh10nEVCKT41b9I) | 6:26 | 2020-10-09 | 2022-07-24 |
 | [Anomynous \(Bonus Track\) \- 2020 Remaster](https://open.spotify.com/track/7CrWyrb9ueT6koXfBABJJJ) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Tell Your Friends \(Remixed & Remastered\)](https://open.spotify.com/album/7nyOdcTNJfbRJsDSKcJfDe) | 6:26 | 2020-10-09 | 2023-03-25 |
 | [Aspects \- Greg Wilson Mix](https://open.spotify.com/track/55JdE1v103dWXnZk8FYkBy) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Greg Wilson](https://open.spotify.com/artist/5b8TksKkFbG2NoVG8d8YDN) | [Aspects \(Greg Wilson Mix\)](https://open.spotify.com/album/7IQCFeNZDIHk6TuRICdaB4) | 6:35 | 2021-11-05 | 2022-07-29 |
-| [Astral\-Desia](https://open.spotify.com/track/3nw1ENzEAOM20W9mlCzdi4) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Astral\-Desia](https://open.spotify.com/album/6w6rcjZvz04Rd8i4Y6OzYQ) | 3:09 | 2023-04-21 |  |
+| [Astral\-Desia](https://open.spotify.com/track/3aVrq7StWOPGwFS0SV2qkN) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Palace Of A Thousand Sounds](https://open.spotify.com/album/3G13hsNxAyjz5FVQO0Si4G) | 3:09 | 2023-04-21 |  |
+| [Astral\-Desia](https://open.spotify.com/track/3nw1ENzEAOM20W9mlCzdi4) | [Whatitdo Archive Group](https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO) | [Astral\-Desia](https://open.spotify.com/album/6w6rcjZvz04Rd8i4Y6OzYQ) | 3:09 | 2023-04-21 | 2023-05-08 |
 | [Ay Uh!](https://open.spotify.com/track/5yCsr35UpkI3zd9lss5GQh) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Ay Uh!](https://open.spotify.com/album/3oQh9kb1PqOGke7qzy25tj) | 2:03 | 2021-07-09 | 2023-05-06 |
 | [Back to the Future](https://open.spotify.com/track/2DJRXtc51sD6tC1qOLiQLl) | [Ludivine Issambourg](https://open.spotify.com/artist/7nuphNSch4dZshJyLgNixV), [Antiloops](https://open.spotify.com/artist/7xpNzqZV8QdDRSNA53fUAb) | [Back to the Future](https://open.spotify.com/album/1Prun5wLBaM7tfTEyJe2ap) | 3:24 | 2022-04-08 |  |
 | [Banana](https://open.spotify.com/track/35bQsQU2V38JJIIajM2khO) | [Basement Membrane](https://open.spotify.com/artist/269m1rza23RVLQ0ZeQApaL) | [Punk Funk](https://open.spotify.com/album/6YoyiensRcFI8eC9ryDPJE) | 4:06 | 2021-10-08 |  |
@@ -196,7 +197,7 @@
 | [Rat Trap](https://open.spotify.com/track/4KOGgDXLOooL50Wrd3fd1p) | [Black Market Brass](https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW) | [Rat Trap](https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr) | 3:58 | 2023-04-07 |  |
 | [Red Baron](https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd) | [Billy Cobham](https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j) | [Spectrum](https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA) | 6:36 | 2020-10-09 |  |
 | [Refractions](https://open.spotify.com/track/4kGeTtfhN3ZecOvYslCvpn) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Refractions](https://open.spotify.com/album/67UvTPsX32twc79CdnIWxe) | 3:37 | 2021-11-26 | 2023-03-11 |
-| [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 | 2023-05-05 |  |
+| [Regular](https://open.spotify.com/track/1CB6xP74LkZ9JuSf0Qsbfy) | [Wax](https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT) | [MOLLO](https://open.spotify.com/album/24DWKZEAoDHxLLYaXgJ7SD) | 4:15 | 2023-05-05 |  |
 | [Revival](https://open.spotify.com/track/5hg5J0FMtHsk2KpOvRWWuG) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Revival](https://open.spotify.com/album/6cAPKsxDX0FrdK3doIhJ8F) | 2:57 | 2022-04-01 | 2022-07-25 |
 | [Rock and Clap \- Instrumental](https://open.spotify.com/track/3oEgsFby908LnVyx0rbvgc) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ), [Darian Gray](https://open.spotify.com/artist/3PPmXLzzOi8bqxo4Mqs4ec) | [Rock and Clap \(Instrumental\)](https://open.spotify.com/album/0Xvzr8Et5NfflTsYLGF7q8) | 5:18 | 2023-01-20 | 2023-02-11 |
 | [Rock Creek Park](https://open.spotify.com/track/6XN8bM4WMBdzSM76gLoEGN) | [Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Happy Music: The Best Of The Blackbyrds](https://open.spotify.com/album/12RQWFvVDEZg36eisATjmK) | 4:36 | 2020-10-09 | 2022-04-21 |

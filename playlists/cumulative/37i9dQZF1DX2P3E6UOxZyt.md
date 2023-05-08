@@ -4,7 +4,7 @@
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY
 
-332 songs - 19 hr 47 min
+333 songs - 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [在打在](https://open.spotify.com/track/3Kl6J9XdFk0nWnHIaevtjw) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:20 | 2021-12-30 | 2022-04-22 |
 | [在未來的日子 綻放笑容\(曙光祭2019 宣傳曲\)](https://open.spotify.com/track/02OUR1QUXvTiTw9fZ5eGG5) | [李芯芮](https://open.spotify.com/artist/77eVQSK9FXACn7zyTencHL), [Gail](https://open.spotify.com/artist/6l81JeOQ3usizemdSG6mP7) | [在未來的日子 綻放笑容\(曙光祭2019 宣傳曲\)](https://open.spotify.com/album/5xcWcXSh53Qhg0M18BVAvZ) | 2:44 | 2021-12-30 | 2023-01-20 |
 | [壞人](https://open.spotify.com/track/5H5HkvfDOyBrW4KbfSFtiJ) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [別擔心!我不是壞人](https://open.spotify.com/album/5RPKmf0HbLR3vYFaU0x0dA) | 4:43 | 2021-12-30 | 2022-03-25 |
-| [夏夜最后的烟火](https://open.spotify.com/track/6qYPcLow4RcPbYBUC2qPq0) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [夏夜最后的烟火](https://open.spotify.com/album/0GNyYkCvDDd6OmF2ngKD1w) | 4:39 | 2022-10-13 |  |
+| [夏夜最后的烟火](https://open.spotify.com/track/3C62VWrA6IRhoLAX4NXXua) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [夏夜最后的烟火](https://open.spotify.com/album/3xyStVqccZxf2AU5qudAUQ) | 4:39 | 2023-05-04 |  |
+| [夏夜最后的烟火](https://open.spotify.com/track/6qYPcLow4RcPbYBUC2qPq0) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [夏夜最后的烟火](https://open.spotify.com/album/0GNyYkCvDDd6OmF2ngKD1w) | 4:39 | 2022-10-13 | 2023-05-08 |
 | [多一天](https://open.spotify.com/track/1kggUvwX52CzVjNbTe1zLF) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa), [Rose Liu](https://open.spotify.com/artist/1LGJHpsAhfP1QX26plFrFn) | [規定情境](https://open.spotify.com/album/3xlEyPCruVZ58Z9KYKL1Du) | 4:22 | 2023-02-16 |  |
 | [多久才懂妳的心](https://open.spotify.com/track/3bKO2AM761yeB65LFdVcK4) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [多久才懂妳的心](https://open.spotify.com/album/1SGOcsiww6DSQj6OL6FA0U) | 4:33 | 2022-03-24 |  |
 | [失重前幸福](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 | 2021-12-30 | 2022-09-02 |

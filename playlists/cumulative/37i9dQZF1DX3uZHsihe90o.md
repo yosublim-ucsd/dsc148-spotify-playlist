@@ -4,7 +4,7 @@
 
 > A down to earth collection of new and classic folk tunes for kids.
 
-146 songs - 6 hr 21 min
+147 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Can You Canoe?](https://open.spotify.com/track/0WhyyOzUomECzP2vkSLmJC) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd) | 3:04 | 2023-01-31 |  |
 | [Can You Canoe?](https://open.spotify.com/track/2pot9T6V7bZQ8EQ6PzpjC9) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Can You Canoe? A Mississippi River Adventure Album](https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v) | 3:04 | 2022-04-15 | 2023-04-29 |
 | [Chickadee](https://open.spotify.com/track/5mNprCau1UgykTPIZqVojF) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Chickadee](https://open.spotify.com/album/3cGyGZu63TQkWt9MXZetw1) | 1:57 | 2021-12-16 |  |
-| [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 | 2021-12-16 |  |
+| [Chicken Dinner Song](https://open.spotify.com/track/0RR5ogfmCy25MTo95n5kLA) | [Angie Who](https://open.spotify.com/artist/6Uz3KziV0932zrV4awUYtE) | [Littlefolk](https://open.spotify.com/album/674KI3TgFhWEbUfOa36IqT) | 2:19 | 2021-12-16 | 2023-05-08 |
 | [Cloud Watching \(Sky's the Limit\)](https://open.spotify.com/track/66GZrUvch1MIDHrfQfIFSw) | [Tiptoe Giants](https://open.spotify.com/artist/7MBs915vZuGiDTEl9GKApR) | [Colour the World](https://open.spotify.com/album/56M2NxnFNjYbFC5NTiHPmb) | 3:15 | 2021-12-16 |  |
 | [Coming Down](https://open.spotify.com/track/3R0OeErDymaNnBvNq03CLb) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Greg Corneille](https://open.spotify.com/artist/1SjyQMac76iYkEuE5UeLCw), [Yesenia Mejia Herrera](https://open.spotify.com/artist/3ixshQOQKADeEqYgCNA4lG) | [Coming Down](https://open.spotify.com/album/6zMi1PeB02qZseY3nIeQFr) | 4:39 | 2021-12-16 | 2022-07-29 |
 | [Cotton Eyed Joe](https://open.spotify.com/track/02Z2gq39hAcWux2Cbhfjsg) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [More Please!](https://open.spotify.com/album/4IjjmD5S292op49x0kc677) | 2:23 | 2021-12-16 |  |
@@ -87,6 +87,7 @@
 | [Jellyman Kelly](https://open.spotify.com/track/1njKyn7dVZiZ7vVU4IA6gA) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Sesame Street Kids](https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G) | [Sesame Street: Songs From The Street, Vol\. 2](https://open.spotify.com/album/1bIKI6ajT4EeP9249GhTI1) | 2:00 | 2022-04-15 |  |
 | [Jellyman Kelly \(feat\. James Taylor\)](https://open.spotify.com/track/2wfAgSoTDtvykYKfbxxQoe) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P), [The Kids](https://open.spotify.com/artist/5pNezX2Th1lI82rxybwIsN) | [Sesame Street: Songs from the Street, Vol\. 2](https://open.spotify.com/album/6bGpYDKODHu1L65bNbYdtI) | 2:00 | 2021-12-16 | 2022-07-29 |
 | [Kind Words](https://open.spotify.com/track/5ivT7uNynzs2VJomWxlnMu) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through The Year \- A Little Wild Childhood](https://open.spotify.com/album/4KJd068CAuYYeiENNj7y1e) | 4:03 | 2021-12-16 | 2023-04-30 |
+| [Kind Words](https://open.spotify.com/track/7wDBk2wRzyJsx97QVbeVCq) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing Through the Year \- A Little Wild Childhood](https://open.spotify.com/album/5o4FHVHGV736Qz4O9W7LUp) | 4:03 | 2023-01-31 |  |
 | [Kindness Grows](https://open.spotify.com/track/1KjAXvISuEKlMvVWgpon3k) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Kindness Grows](https://open.spotify.com/album/2nuTu6RZ9lf8uq3CHAhlbX) | 1:32 | 2022-01-13 |  |
 | [La Le Too Dum Day](https://open.spotify.com/track/4MNLnqzsdMNcycrR3h5Lf5) | [Barbara Dane](https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf) | [Folk Songs For Kids](https://open.spotify.com/album/2ZWjJ7VI5aU7fxLbeV73TB) | 3:18 | 2021-12-16 | 2022-07-27 |
 | [La Lee Too Dum](https://open.spotify.com/track/0b3CmrcbWujd1kD0NOzg0u) | [Barbara Dane](https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf) | [Anthology of American Folk Songs](https://open.spotify.com/album/2sFob1tuFTJbay9Hp6urj5) | 3:16 | 2022-04-15 | 2023-04-18 |

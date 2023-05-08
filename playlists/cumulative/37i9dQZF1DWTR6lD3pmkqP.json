@@ -408,7 +408,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 324692,
       "name": "All The Memories That Objects Carry",
       "url": "https://open.spotify.com/track/0rdFlicMEENER7yTfqI6wu"
@@ -828,7 +828,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 401213,
       "name": "Banished",
       "url": "https://open.spotify.com/track/2NFsYMr8BuxJDJOAAc6sr4"
@@ -1882,6 +1882,32 @@
       "duration_ms": 295733,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/2ehV1aHQC92xL9T7X5NDeq"
+    },
+    {
+      "album": {
+        "name": "Gary Bartz JID006",
+        "url": "https://open.spotify.com/album/0T1a9YKLmxsu7MwituMMqP"
+      },
+      "artists": [
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295733,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/2kTiF9CAcAXAHBfsF58O0N"
     },
     {
       "album": {
@@ -6058,7 +6084,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 227986,
       "name": "N\u00f6rvenich Lounge",
       "url": "https://open.spotify.com/track/5beXQMyanezwQHWfTJptHq"

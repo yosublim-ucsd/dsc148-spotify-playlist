@@ -4,7 +4,7 @@
 
 > 150%
 
-212 songs - 9 hr 21 min
+213 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Gone \(sped up\)](https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ardeycat](https://open.spotify.com/artist/34Nu2mFDOVCEab7z18ceOo) | [Gone \(sped up\)](https://open.spotify.com/album/1p6EfDB7huUNYmQE9EDCwl) | 1:51 | 2023-03-17 | 2023-04-04 |
 | [Hayloft \- Sped Up](https://open.spotify.com/track/3Fxzt2jUtfQIHteMinz7ZD) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Hayloft \(Sped Up, Slowed Down\)](https://open.spotify.com/album/2zAlGLa3iOIM90u6y7TqNp) | 2:36 | 2023-04-28 |  |
 | [Hell N Back \- Sped Up](https://open.spotify.com/track/2kjdWC3cn0xYJ3Hg8Wo6DR) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 2:44 | 2023-04-03 |  |
-| [Her Way \- Sped Up](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 | 2023-01-24 |  |
+| [Her Way \(Sped Up\)](https://open.spotify.com/track/0T7dLau2Ccr9CbeXtOB4vU) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Her Way \(Sped Up\)](https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0) | 3:02 | 2023-01-24 |  |
 | [HMU](https://open.spotify.com/track/60U1w8wJMlPvXRdPaLAYqi) | [Tobias Dray](https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W) | [HMU](https://open.spotify.com/album/7ARY8uh4CSM067QGCluIiT) | 1:58 | 2022-06-09 | 2023-02-04 |
 | [home](https://open.spotify.com/track/0fAuuR5hoWZtTMpuqqxAGy) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [home](https://open.spotify.com/album/1mjbcrgdY8PNeFDGBLsa55) | 4:05 | 2022-06-09 | 2022-10-01 |
 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 | 2022-07-08 |  |
@@ -88,11 +88,12 @@
 | [I Can't \- Sped Up](https://open.spotify.com/track/62jwQiRfhqGR6GcbahCDWq) | [Montana99](https://open.spotify.com/artist/4b3DUSYA69Wfn0AmgD0Zaj) | [I Can't \- Sped Up](https://open.spotify.com/album/3AzbVwgBNAE49TZ86U4MoG) | 2:01 | 2022-12-13 |  |
 | [I Know \- PR1SVX Edit Sped Up](https://open.spotify.com/track/1CHGJtIsl2TcoWUR42jxjS) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:04 | 2023-04-25 |  |
 | [I Know \- sped up](https://open.spotify.com/track/6PjklVE4C9aBZkqTR3ATob) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:16 | 2023-03-20 |  |
-| [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 | 2023-01-03 |  |
+| [I WANNA BE SAVED](https://open.spotify.com/track/5kRgiWvIozTZn9thKMsrHf) | [Nightocore Songs](https://open.spotify.com/artist/2nz194eBkvIzwRfdps1VPe) | [I WANNA BE SAVED](https://open.spotify.com/album/605ztgNljQNUeUeG835IQS) | 4:02 | 2023-01-03 | 2023-05-08 |
 | [I WANNA BE SAVED](https://open.spotify.com/track/5kCo9LVZrux26h9rGPSumc) | [Tkasi](https://open.spotify.com/artist/0vFylVX8JZ2m5BQULazlzY) | [I WANNA BE SAVED](https://open.spotify.com/album/0TI01an4MBa4111Mc70ag6) | 4:02 | 2023-01-18 | 2023-01-25 |
 | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/track/7oGbiBAh5LiAoHVZZLyweS) | [ExotiiC\-](https://open.spotify.com/artist/3t98cVjC4AW3IPjCNsc3em) | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/album/6Zu5FIic4qYK8bqZ1Kdq64) | 4:02 | 2023-01-18 | 2023-05-06 |
 | [I Wanna Be Saved \- Remix](https://open.spotify.com/track/7cTWKLGU20JeK01dTHJKTk) | [DJ Davion](https://open.spotify.com/artist/3hqsR0iIPaT2kcGKRATaMl) | [I Wanna Be Saved \(Remix\)](https://open.spotify.com/album/4jNCfTsT4tWB1bbrKLwI7V) | 4:02 | 2023-04-11 | 2023-04-17 |
 | [I WANNA BE SAVED \- Remix](https://open.spotify.com/track/4Csr6QhRfKAHAm54mt2ZWY) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0) | [I WANNA BE SAVED \(Remix\)](https://open.spotify.com/album/4F0pMgh6o6y3LrHxmAHMfu) | 4:02 | 2023-01-18 | 2023-04-01 |
+| [I WANNA BE SAVED \- REMIX](https://open.spotify.com/track/3b1635xagibchjaavUiuVZ) | [ENDarchive](https://open.spotify.com/artist/7imGSQjHembdkWoB4iGOMG) | [I WANNA BE SAVED \(REMIX\)](https://open.spotify.com/album/4CSEOyxJQY7W0U2pa3OE8K) | 4:02 | 2023-04-25 |  |
 | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS) | [Hiko](https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX) | [I Wanna Ride I Wanna Ride \(Sped Up\): Vegas](https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c) | 2:45 | 2022-06-09 |  |
 | [I'm Not The Only One \- Sped Up](https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr) | [I’m Not The Only One \(Sped Up\)](https://open.spotify.com/album/43lXCtIm8O4DcxgWUJPJQM) | 3:27 | 2022-09-09 |  |
 | [I'm so crazy for youuu </3](https://open.spotify.com/track/6coeqSdD7VvHELbvs6tPZX) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno) | [I'm so crazy for youuu </3](https://open.spotify.com/album/4XRmjNQKaVj8iozVnubrip) | 1:50 | 2022-06-09 | 2022-07-29 |

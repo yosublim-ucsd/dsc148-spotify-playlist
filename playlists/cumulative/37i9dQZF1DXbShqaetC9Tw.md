@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-180 songs - 10 hr 7 min
+181 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,8 @@
 | [We Used To Do](https://open.spotify.com/track/59nxkv5pmpW6ZfNQslCqTm) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [Josef Lee](https://open.spotify.com/artist/1eIlcrCUKI76tTKFGtPUT3) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/46yXA9eD43ql1b5BqYlzMw) | 4:12 | 2022-04-18 | 2022-04-21 |
 | [What Should I Do](https://open.spotify.com/track/0OtCo7IjBx2aE9phZ1l4vw) | [OVN](https://open.spotify.com/artist/0E4q1wpuPwtqbDr6Okw304), [chrln](https://open.spotify.com/artist/5R1KD32YuMNzZszCHlZsHg), [Young Man](https://open.spotify.com/artist/2SSpfdX4jBPgddaNFLKO3l) | [What Should I Do](https://open.spotify.com/album/607Mk7tLKNkwVe8klTfteZ) | 3:06 | 2022-05-11 | 2022-07-27 |
 | [When Dawn Comes Again](https://open.spotify.com/track/3wrw9wHpk6Fy298p5ISgii) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again](https://open.spotify.com/album/0qUXhzokHrK2wzei5UYBuM) | 4:00 | 2022-04-18 | 2022-07-29 |
-| [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj) | 4:00 | 2022-07-25 |  |
+| [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0mrgAyhYrP2JWT9yoUUFRj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:56 | 2023-05-05 |  |
+| [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [When Dawn Comes Again \(feat\. BAEKHYUN\)](https://open.spotify.com/album/7wgyRpzVueGdjV9yozlIYj) | 4:00 | 2022-07-25 | 2023-05-08 |
 | [when i was your man \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6XKKfWOUqyx3HpEKvIF6Vy) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:33 | 2022-04-18 | 2022-07-16 |
 | [When it rains \(Feat\. sogumm\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/5dhIalMumQFewgozEupkPi) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 4:32 | 2022-04-18 | 2022-10-07 |
 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 | 2022-04-18 | 2023-05-03 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 3052,
+  "num_followers": 3193,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDQ4ODUxOGVjOTllZTgwN2ViOGQzN2ViZmUzYTc2ZGIxYTBhODU4",
+  "snapshot_id": "MCxlYmQ3M2U1NmIxNjNiMzg1MzcxMTIyMzg0MDk3MGU1MmQ2YjAyN2Jk",
   "tracks": [
     {
       "added_at": "2023-05-04 20:32:14",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-04 20:32:14",
       "album": {
-        "name": "Jupiter & Mars",
-        "url": "https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Jupiter & Mars",
-      "url": "https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA"
-    },
-    {
-      "added_at": "2023-05-04 20:32:14",
-      "album": {
         "name": "Everywhere We Go Single",
         "url": "https://open.spotify.com/album/69Vz9WpIGsDwUU8Czqapy2"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 198520,
       "name": "Everywhere We Go",
       "url": "https://open.spotify.com/track/0vdbvgggS673fhvHdrU34E"
+    },
+    {
+      "added_at": "2023-05-04 20:32:14",
+      "album": {
+        "name": "Jupiter & Mars",
+        "url": "https://open.spotify.com/album/4ncZCdSB9YcHmmK51P2ld1"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Jupiter & Mars",
+      "url": "https://open.spotify.com/track/6YwwmcamIeDCOBQC8yrgxA"
     },
     {
       "added_at": "2023-05-04 20:32:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-04 20:32:14",
       "album": {
-        "name": "BECAUSE WE'RE ALIVE",
-        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 151310,
-      "name": "KING OF THE TOWN",
-      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
-    },
-    {
-      "added_at": "2023-05-04 20:32:14",
-      "album": {
         "name": "Rastar",
         "url": "https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 173932,
       "name": "Netflix & Chill (feat. Fenix Flexin)",
       "url": "https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB"
+    },
+    {
+      "added_at": "2023-05-04 20:32:14",
+      "album": {
+        "name": "BECAUSE WE'RE ALIVE",
+        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 151310,
+      "name": "KING OF THE TOWN",
+      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
     },
     {
       "added_at": "2023-05-04 20:32:14",

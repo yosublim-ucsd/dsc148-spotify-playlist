@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,049 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,048 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 29 | [Catching Eyes](https://open.spotify.com/track/22Vsz6sIdD97KROSX7oAyq) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3rR9PxHvLdjXtOsBGUwWHD) | 4:09 |
 | 30 | [Car Crash in G Major](https://open.spotify.com/track/5CKMxyl7q4p0QdpYTesuCZ) | [fanclubwallet](https://open.spotify.com/artist/1NJUWqbiNAk1BPOyQhb2qe) | [Car Crash in G Major](https://open.spotify.com/album/6tPokYHf7g0Jex07f04d7M) | 2:12 |
 | 31 | [blocked](https://open.spotify.com/track/2SkipftGTsn9rj44V1Lsg0) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [blocked](https://open.spotify.com/album/6pZIjP0eETD7I1TlGgwQgt) | 2:23 |
-| 32 | [Maple Syrup Tears](https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [Apocalypse Wow](https://open.spotify.com/album/2enxw36RLbDfhKytuzHbOJ) | 3:13 |
+| 32 | [Maple Syrup Tears](https://open.spotify.com/track/0XWMXn1zLeJOtcF2HZfsQG) | [Huron John](https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v) | [aw / ct: Andy's Journey](https://open.spotify.com/album/191c1XBlsEYN4NyAqRFcgE) | 3:13 |
 | 33 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
 | 34 | [eighty\-five](https://open.spotify.com/track/3QqdwK6b3QTRIWkT9oNYb1) | [again&again](https://open.spotify.com/artist/3CIq9N0VQGWfBpCAMzMZZN), [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [Colliding With Mars](https://open.spotify.com/artist/2K7iE9Z2ySIBKsG8UnG8PR), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY), [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [eighty\-five](https://open.spotify.com/album/7CsSVXp6GWGA7kTaqbUxm2) | 3:12 |
 | 35 | [Darcy](https://open.spotify.com/track/0GS5GAoxVPeTWa8fV8j1mq) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Darcy](https://open.spotify.com/album/3QfHn3nLiI8UQyqGjfFDYL) | 3:24 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 101 | [Bass Jumpin](https://open.spotify.com/track/1T6PwHz0L4zdTyGInqG4xd) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Bass Jumpin](https://open.spotify.com/album/5REn5qlzivqOk4dqhwZZWo) | 2:36 |
 | 102 | [Black Cat](https://open.spotify.com/track/4TpGdf05nm8lYiBPbXjwv2) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [Thursday Friday](https://open.spotify.com/album/0ZlhBMFfYUooCNL3QMVDzN) | 2:56 |
 
-Snapshot ID: `MCw0MWM2NGQzZDg1YTRiMmZlOWU3ZDg4MDBiNDgzNWM2ZTFlOTFmN2U1`
+Snapshot ID: `MCw2N2QwZTdiODdkYjQxN2ViZGJlNWZkYWY2Y2I4NTUzYWU1YWVmYzE1`

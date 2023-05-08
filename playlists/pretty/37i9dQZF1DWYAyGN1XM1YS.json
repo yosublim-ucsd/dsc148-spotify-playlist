@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 100602,
+  "num_followers": 100757,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmQzZjUwMDZhNjhkMzE3MTcwNzZhMTA1OTY5NTc4MDk3ZDRmN2M5",
+  "snapshot_id": "MCw4YjQwMGY1ZWRkMjhkYWE3MThjYzY2MmFhNTRhYmNlODcwNjEyYWNm",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd"
     },
     {
-      "added_at": "2023-05-07 01:05:08",
+      "added_at": "2023-05-08 00:59:54",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "Relationship Of Command",
+        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 260306,
+      "name": "One Armed Scissor",
+      "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "Rites of Spring",
         "url": "https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "In / Casino / Out",
-        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 288066,
-      "name": "Napoleon Solo",
-      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Do You Know Who You Are?: The Complete Collection",
-        "url": "https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7"
-      },
-      "artists": [
-        {
-          "name": "Texas Is The Reason",
-          "url": "https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Back And To The Left",
-      "url": "https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "The Shape Of Punk To Come (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 250520,
       "name": "Liberation Frequency",
       "url": "https://open.spotify.com/track/6aM4iOuWyRQShk8uRaLNqN"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "Tip Your Bartender",
+      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+        "name": "Do You Know Who You Are?: The Complete Collection",
+        "url": "https://open.spotify.com/album/3NXykL2XzIRmMEiMKjTkN7"
       },
       "artists": [
         {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+          "name": "Texas Is The Reason",
+          "url": "https://open.spotify.com/artist/7rXo5QTwwFBYZ5Z3veUVg8"
         }
       ],
-      "duration_ms": 179493,
-      "name": "Tip Your Bartender",
-      "url": "https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER"
+      "duration_ms": 235466,
+      "name": "Back And To The Left",
+      "url": "https://open.spotify.com/track/7f3tPmsyBQc0sua0SAINlZ"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
+        "name": "In / Casino / Out",
+        "url": "https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv"
+      },
+      "artists": [
+        {
+          "name": "At the Drive-In",
+          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
+        }
+      ],
+      "duration_ms": 288066,
+      "name": "Napoleon Solo",
+      "url": "https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
         "name": "Parting the Sea Between Brightness and Me",
         "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 245840,
       "name": "Action & Action",
       "url": "https://open.spotify.com/track/3rNRmQETcPHauTPFqS7z3T"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Relationship Of Command",
-        "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
-      },
-      "artists": [
-        {
-          "name": "At the Drive-In",
-          "url": "https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5"
-        }
-      ],
-      "duration_ms": 260306,
-      "name": "One Armed Scissor",
-      "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -715,38 +715,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "For Your Own Special Sweetheart",
-        "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
-      },
-      "artists": [
-        {
-          "name": "Jawbox",
-          "url": "https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Savory",
-      "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
-        "name": "Giving Birth to Thunder",
-        "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
-      },
-      "artists": [
-        {
-          "name": "Indian Summer",
-          "url": "https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf"
-        }
-      ],
-      "duration_ms": 445293,
-      "name": "Woolworm",
-      "url": "https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Everything You Ever Wanted To Know About Silence Remaster",
         "url": "https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8"
       },
@@ -759,6 +727,22 @@
       "duration_ms": 229826,
       "name": "Siberian Kiss - 2009 Remaster",
       "url": "https://open.spotify.com/track/3g2F3buifPxmzFrIf0PMGm"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "For Your Own Special Sweetheart",
+        "url": "https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt"
+      },
+      "artists": [
+        {
+          "name": "Jawbox",
+          "url": "https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Savory",
+      "url": "https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -791,6 +775,22 @@
       "duration_ms": 207906,
       "name": "Dine Alone",
       "url": "https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Giving Birth to Thunder",
+        "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
+      },
+      "artists": [
+        {
+          "name": "Indian Summer",
+          "url": "https://open.spotify.com/artist/1qRC7tQ3VepRoC8q0lB9Rf"
+        }
+      ],
+      "duration_ms": 445293,
+      "name": "Woolworm",
+      "url": "https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp"
     },
     {
       "added_at": "2023-03-14 22:36:58",

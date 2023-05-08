@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 80592,
+  "num_followers": 80710,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmYzZDEzN2E1MDI3OTA1YTBkNWZhOGNjODliYjI1NGU3YjIyYjE5",
+  "snapshot_id": "MCxkNjg2MjYyMDBjYjA3NTg2OGJiYTc3NmZlZjc0NGEzZDg0NDkxNWI3",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -191,6 +191,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 384093,
+      "name": "In Jesus Name",
+      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 365190,
       "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
       "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "Covered: Alive In Asia (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 384093,
-      "name": "In Jesus Name",
-      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
     },
     {
       "added_at": "2020-06-03 14:33:10",

@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-388 songs - 1 day 1 hr 59 min
+390 songs - 1 day 2 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Afternoon](https://open.spotify.com/track/3IMXmXPHtklRaY0gYBYX0B) | [KEISUKE SAITO](https://open.spotify.com/artist/6MsrYdBT9y6pGZmQeavVUv) | [Afternoon](https://open.spotify.com/album/20GR8W8JeGHIgoILkLZ7WL) | 3:22 | 2023-02-14 | 2023-03-01 |
 | [Alone](https://open.spotify.com/track/1lD3lmjSZKsCQAvp5bvBiS) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [CeaseTone](https://open.spotify.com/artist/2FfS4tGbyODPI92Baw7Ys8) | [Alone](https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW) | 4:33 | 2022-11-24 | 2022-12-16 |
 | [An Ocean](https://open.spotify.com/track/6G6W3MWjKYMNpKo88KIsgf) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [An Ocean](https://open.spotify.com/album/1FEfRYCD9GvAeYUBG3ysIU) | 4:19 | 2023-02-23 | 2023-03-01 |
+| [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 | 2023-05-04 |  |
 | [Antar \(After N\. Rimsky\-Korsakov\): No\. 7\. Ravel: Allegretto](https://open.spotify.com/track/0Ee9oam0N0ZzxZSN9nogTQ) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Andre Dussollier](https://open.spotify.com/artist/4V1N8TlOwHVIw7INEEQnT3), [Orchestre National De Lyon](https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo), [Leonard Slatkin](https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua) | [Ravel: Orchestral Works, Vol\. 5](https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr) | 1:05 | 2022-10-20 | 2023-01-27 |
 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-02 |  |
 | [Asamoya](https://open.spotify.com/track/2mZNBSaa3bssYRAXYzlDMU) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:18 | 2022-11-29 | 2023-01-27 |
@@ -47,7 +48,8 @@
 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 | 2022-12-01 | 2023-02-01 |
 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Chopin Legacy](https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN) | 4:43 | 2022-12-01 | 2023-04-21 |
 | [Blossom](https://open.spotify.com/track/1XJ9dmifyRgs0eN6V4Wa6n) | [Fima](https://open.spotify.com/artist/29Vu42XvXrpPxhBVLQvEaM) | [Blossom](https://open.spotify.com/album/5HA9AMO3DcZyoC4QHClC6l) | 3:07 | 2022-11-15 | 2022-12-02 |
-| [Blu](https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Best of 'Playing the Orchestra 2014'](https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I) | 5:19 | 2023-04-06 |  |
+| [Blu](https://open.spotify.com/track/4Tzycx6a4Dew2UyqMjJzKJ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 5:16 | 2023-05-04 |  |
+| [Blu](https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Best of 'Playing the Orchestra 2014'](https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I) | 5:19 | 2023-04-06 | 2023-05-08 |
 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 | 2022-12-01 |  |
 | [bookmark](https://open.spotify.com/track/4NhoEQs4w05qi3zVcdV3NZ) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [bookmarks \(I can be \*\*\* with some chalky candys.\)](https://open.spotify.com/album/43ZRPyuX7FsWolN8XtMOyz) | 2:52 | 2022-12-13 | 2023-01-18 |
 | [Borderland](https://open.spotify.com/track/7dbcgrQiZGB1kTXzevBEen) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Borderland](https://open.spotify.com/album/4Oj5YTqVP7ZyiYnpnY9ntA) | 3:22 | 2022-10-20 | 2022-12-02 |
@@ -139,7 +141,7 @@
 | [I'll take it](https://open.spotify.com/track/4AHLzWKtDb1eBIdHpOCOmz) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [DESSERTS](https://open.spotify.com/album/4fPMQPu5tsW7LxXrunroaD) | 3:28 | 2023-03-28 |  |
 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-25 | 2023-04-14 |
 | [Idaho Alien](https://open.spotify.com/track/7rFf9Pj2Td5lckif90QQkP) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Idaho Alien](https://open.spotify.com/album/7734YWKxouZ4bqar1pn8uY) | 3:23 | 2023-03-02 | 2023-03-25 |
-| [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 | 2023-02-28 |  |
+| [Ieta](https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Ieta](https://open.spotify.com/album/5mbez8ICuEDgkSgmbCy899) | 3:19 | 2023-02-28 | 2023-05-08 |
 | [in a bad mood](https://open.spotify.com/track/2DYV8CJNubnEoC9SDW02FV) | [Saki Ideshima](https://open.spotify.com/artist/1EyeJihPNpFqi21fhxEvkh) | [in a bad mood](https://open.spotify.com/album/5oAiPDiYRt7Io4TjGU2WMi) | 5:05 | 2023-01-31 | 2023-03-01 |
 | [In a Landscape](https://open.spotify.com/track/394t75ucK7WwTOrpQRRP7r) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS) | [In a Landscape](https://open.spotify.com/album/4q0ZalAdIxVz61oN8QScNP) | 14:00 | 2023-02-28 | 2023-03-08 |
 | [In the Mist](https://open.spotify.com/track/3UrztnIFSszMogk91JNlci) | [Tico Moon](https://open.spotify.com/artist/0VHY3elnwBIM0w4VxT7NPz) | [Arietta](https://open.spotify.com/album/6h9VfhYdxzNbCtoKWmnkYX) | 1:33 | 2022-12-01 | 2023-02-22 |

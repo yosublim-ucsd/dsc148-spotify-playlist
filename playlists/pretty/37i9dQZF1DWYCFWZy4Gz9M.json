@@ -1,12 +1,12 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 47221,
+  "num_followers": 47277,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTNkMGU2M2EzMGViOWUyOGExMTMxZjk1YTgwMGE1MmI2ZDY1Zjk5",
+  "snapshot_id": "MCw5ZmVjNmJmNjVmOGFjODExMWJmZjg0MWU0MWM2OTJiN2Y2ZDY0Yjk0",
   "tracks": [
     {
       "added_at": "2022-03-10 07:10:03",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
+      },
+      "artists": [
+        {
+          "name": "Gnawa de Marrakech",
+          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
+        },
+        {
+          "name": "Maalem Mahjoub",
+          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
+        }
+      ],
+      "duration_ms": 397333,
+      "name": "Chalaba",
+      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
         "name": "Assala",
         "url": "https://open.spotify.com/album/0naKDiFvjhAcy1IWy2QiyS"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 473588,
       "name": "44",
       "url": "https://open.spotify.com/track/5PoYydFEND0uinZ6tSHn10"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Lila",
-        "url": "https://open.spotify.com/album/5XlcfpWHHRfDRBFi2AbBPq"
-      },
-      "artists": [
-        {
-          "name": "Gnawa de Marrakech",
-          "url": "https://open.spotify.com/artist/2SLcRSkoV09lFKUoG32Xzj"
-        },
-        {
-          "name": "Maalem Mahjoub",
-          "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
-        }
-      ],
-      "duration_ms": 541653,
-      "name": "Salat al Nabi",
-      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Aicha",
-        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 513816,
-      "name": "Youbati - Boulila",
-      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Gnawa Fusion, Vol. 1",
         "url": "https://open.spotify.com/album/1KYi4Hx9USuRDd8Ruu2Rap"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 254275,
       "name": "Baba Al Arabi",
       "url": "https://open.spotify.com/track/6kRpgupBsfIV93FpfA8p72"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Aicha",
+        "url": "https://open.spotify.com/album/4zkfvTWN4y2oEm6uF6ayZD"
+      },
+      "artists": [
+        {
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
+        }
+      ],
+      "duration_ms": 513816,
+      "name": "Youbati - Boulila",
+      "url": "https://open.spotify.com/track/36SFAw8cptxZYvWd33kMa6"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/36j8zpmXkr47mHVDHwqmzp"
         }
       ],
-      "duration_ms": 397333,
-      "name": "Chalaba",
-      "url": "https://open.spotify.com/track/3nHrBe0EYJtIPZJkMKlT0E"
+      "duration_ms": 541653,
+      "name": "Salat al Nabi",
+      "url": "https://open.spotify.com/track/57dsHlSXgzqePeESJdVJcT"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -611,6 +611,26 @@
       "duration_ms": 546400,
       "name": "Moussa bahri",
       "url": "https://open.spotify.com/track/0ATAbhw6ntNOd1KK5yZ82O"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Oulad Lghaba",
+        "url": "https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5"
+      },
+      "artists": [
+        {
+          "name": "Asmaa Hamzaoui",
+          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
+        },
+        {
+          "name": "Bnat Timbouktou",
+          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+        }
+      ],
+      "duration_ms": 220160,
+      "name": "Sandia",
+      "url": "https://open.spotify.com/track/7DwKbx07uDOy7J42BSn0uF"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -659,22 +679,6 @@
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 481255,
-      "name": "Foulani Hiriza / Soye",
-      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -731,22 +735,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Oulad Lghaba",
-        "url": "https://open.spotify.com/album/2doOEuBNDHH53QhBwDwxL5"
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
       },
       "artists": [
         {
-          "name": "Asmaa Hamzaoui",
-          "url": "https://open.spotify.com/artist/4iEtGBOlBJ37F2R3NhEq3k"
-        },
-        {
-          "name": "Bnat Timbouktou",
-          "url": "https://open.spotify.com/artist/7DuLVX2oXpF6BZdyy9VgwC"
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 220160,
-      "name": "Sandia",
-      "url": "https://open.spotify.com/track/7DwKbx07uDOy7J42BSn0uF"
+      "duration_ms": 481255,
+      "name": "Foulani Hiriza / Soye",
+      "url": "https://open.spotify.com/track/6UohbeuW7Oe8aufbEyLogk"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Innov Gnawa",
-        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
-      },
-      "artists": [
-        {
-          "name": "Innov Gnawa",
-          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
-        }
-      ],
-      "duration_ms": 323615,
-      "name": "Bangara",
-      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
-    },
-    {
-      "added_at": "2022-03-10 07:10:03",
-      "album": {
         "name": "Gnawa Njoum Experience",
         "url": "https://open.spotify.com/album/7Cm96QYMUYWs0naMBeqpPh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 375120,
       "name": "Baba Arabi",
       "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
+    },
+    {
+      "added_at": "2022-03-10 07:10:03",
+      "album": {
+        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
+        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
+      },
+      "artists": [
+        {
+          "name": "The Sons of the Moon-Ouled Kamar",
+          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
+        }
+      ],
+      "duration_ms": 569226,
+      "name": "Bilaji",
+      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
     },
     {
       "added_at": "2022-03-10 07:10:03",
@@ -831,18 +831,18 @@
     {
       "added_at": "2022-03-10 07:10:03",
       "album": {
-        "name": "Marrakech Undermoon: The Black Album, Vol. 2b",
-        "url": "https://open.spotify.com/album/6fBcXZbJb43gFxIpztjnzP"
+        "name": "Innov Gnawa",
+        "url": "https://open.spotify.com/album/1RqdOZF4O0ll3gOn98mgfF"
       },
       "artists": [
         {
-          "name": "The Sons of the Moon-Ouled Kamar",
-          "url": "https://open.spotify.com/artist/0RZ8EW3Dl3knNPp8IbrIHl"
+          "name": "Innov Gnawa",
+          "url": "https://open.spotify.com/artist/6FUsQ3dkSd27KwQ1iCugSV"
         }
       ],
-      "duration_ms": 569226,
-      "name": "Bilaji",
-      "url": "https://open.spotify.com/track/6Ozohbpy5mYF0pX8HxfIxv"
+      "duration_ms": 323615,
+      "name": "Bangara",
+      "url": "https://open.spotify.com/track/2ivi6WyEuYfOmlNnr0DGV3"
     },
     {
       "added_at": "2022-03-10 07:10:03",

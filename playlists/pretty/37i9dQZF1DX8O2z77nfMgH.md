@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Emilia y Ludmilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,196 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,237 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 74 | [PUESTO PA´L MONEY](https://open.spotify.com/track/4EPYVkNr0DvsUdQfuy6GuJ) | [Ghetto Living](https://open.spotify.com/artist/0UpALfYoIQmSdTuRkI2HJR) | [PUESTO PA´L MONEY](https://open.spotify.com/album/5xlppWxHS3l75U5ou3t120) | 3:12 |
 | 75 | [Coisas do Amor \- Ao Vivo](https://open.spotify.com/track/6qITMbvJsUCRbSplE6Ca9B) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [TDP20 \- Nossa História \(Ao Vivo\)](https://open.spotify.com/album/5jy0SRd09cU87HeQgJ9BAQ) | 3:39 |
 
-Snapshot ID: `MCw3Zjc1MTBkMjBjMDM0ZmM0YWY5NWEyNzk5Y2U5MzdkMDgwNGQ3Zjkz`
+Snapshot ID: `MCxhNDI4OTg1MDU4NDhiN2I2NTQ0MDg1YzgwNzFmNTE0MzMwODk2NGUy`

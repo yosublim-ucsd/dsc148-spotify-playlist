@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Latvia.
 
-1,316 songs - 2 day 22 hr 46 min
+1,317 songs - 2 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -725,6 +725,7 @@
 | [N95](https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:15 | 2022-06-07 | 2022-06-16 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-06-08 |
 | [Nakts](https://open.spotify.com/track/6L9dtMNX2QrY7Tuif7OwSg) | [Bet Bet](https://open.spotify.com/artist/7s2VdSlsOjIesOjjC2Ty0Q) | [20 Labākās Dziesmas](https://open.spotify.com/album/3aKtLk8jB0JQWLslUGFNTw) | 4:40 | 2021-12-25 | 2022-12-28 |
+| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-07 |  |
 | [narenes ir klāt](https://open.spotify.com/track/2wijOKMP3ccgtfO6Idhfns) | [rolands če](https://open.spotify.com/artist/35liSWoGK1NcMBLNQqamHZ), [Steps](https://open.spotify.com/artist/6RqVzuPaClLObg598kQEn7) | [visurgājējs](https://open.spotify.com/album/359NpKcAHBDr1bD3jdqOMe) | 3:12 | 2022-04-30 | 2022-05-02 |
 | [Natural](https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:09 | 2022-06-02 | 2022-06-08 |
 | [Naukšēnu Disko](https://open.spotify.com/track/3ujJ6h5ElONBUw4vPJj3o4) | [Labvēlīgais Tips](https://open.spotify.com/artist/6lCjsH7dRjXIbYHdRJHAc1) | [Naukšēnu Disko](https://open.spotify.com/album/47Glqmc2RE0i2qZmk9zOXm) | 3:32 | 2021-06-25 | 2021-06-26 |
@@ -754,7 +755,7 @@
 | [NOMINALO](https://open.spotify.com/track/1C0UmBm1nyXdjiek3nQKAz) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:11 | 2021-05-30 | 2021-05-31 |
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2023-01-23 | 2023-01-29 |
 | [Not My Responsibility](https://open.spotify.com/track/4T2zre0jqstNJ5Gt0WG9lz) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:47 | 2021-08-01 | 2021-08-02 |
-| [Notiesāts](https://open.spotify.com/track/42R1I1lmJriwy7zfsxxYyi) | [Deniss](https://open.spotify.com/artist/7Buj3BepqTe1ACFEa8x93l), [Bacha](https://open.spotify.com/artist/3Uv5wmBZ699q1CxW9RPTJb), [Adriana Miglane](https://open.spotify.com/artist/1uld95tz2ODigjCA00XxTf) | [Notiesāts](https://open.spotify.com/album/6z9GK4S5gC4Xl5zQU80lMX) | 2:36 | 2023-05-03 |  |
+| [Notiesāts](https://open.spotify.com/track/42R1I1lmJriwy7zfsxxYyi) | [Deniss](https://open.spotify.com/artist/7Buj3BepqTe1ACFEa8x93l), [Bacha](https://open.spotify.com/artist/3Uv5wmBZ699q1CxW9RPTJb), [Adriana Miglane](https://open.spotify.com/artist/1uld95tz2ODigjCA00XxTf) | [Notiesāts](https://open.spotify.com/album/6z9GK4S5gC4Xl5zQU80lMX) | 2:36 | 2023-05-03 | 2023-05-08 |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-02 | 2022-04-14 |
 | [Now \(feat\. Luh geeky\)](https://open.spotify.com/track/4j3sLMVOMeJKnW7dhSBbJZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Luh geeky](https://open.spotify.com/artist/5HkVNXsvk9Nvt0eoWF9v4C) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 4:32 | 2023-02-25 | 2023-02-27 |
 | [Number 2 \(feat\. Future & 21 Savage\)](https://open.spotify.com/track/5qR6mlCWqzHMi1b1S8TrBB) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/3WgAFg6y9jmNYLdC4xzHBF) | 2:53 | 2021-07-18 | 2021-07-19 |

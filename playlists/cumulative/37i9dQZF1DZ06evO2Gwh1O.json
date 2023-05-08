@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 210480,
       "name": "Front Row Seats to the End of the World",
       "url": "https://open.spotify.com/track/48nnqzcHX9m1Vr0OONtRaB"
@@ -920,6 +920,24 @@
       "duration_ms": 304000,
       "name": "The Jade Tree Years Were My Best",
       "url": "https://open.spotify.com/track/5mN1F8DxZNByfHuXY11uOP"
+    },
+    {
+      "album": {
+        "name": "Welcome Home Armageddon",
+        "url": "https://open.spotify.com/album/6R8x24cl5q8aUP19bkPZdR"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44080,
+      "name": "This Side of Brightness",
+      "url": "https://open.spotify.com/track/0u02R9SibsR1umIC9pIH2w"
     },
     {
       "album": {

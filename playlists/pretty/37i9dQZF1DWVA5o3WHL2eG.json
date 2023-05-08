@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Pretty Pink",
-  "num_followers": 26202,
+  "num_followers": 26208,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjg2YmY4OGM3YzNiNzEyMjk5MTkyZDU4MTQxNDlhMTQ3ZjFhMjQz",
+  "snapshot_id": "MCxlM2RmOTdkOTJlY2I3M2ZmOGQxNGMyMDQzNjY0OGM2Yzg3NmEzMTdj",
   "tracks": [
     {
       "added_at": "2023-05-02 22:00:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Lost in Paradise",
+        "url": "https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl"
+      },
+      "artists": [
+        {
+          "name": "Alicia Awa",
+          "url": "https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS"
+        }
+      ],
+      "duration_ms": 163505,
+      "name": "Lost in Paradise",
+      "url": "https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "b.a.d.",
         "url": "https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 176191,
       "name": "uff, nein",
       "url": "https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Lost in Paradise",
-        "url": "https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl"
-      },
-      "artists": [
-        {
-          "name": "Alicia Awa",
-          "url": "https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS"
-        }
-      ],
-      "duration_ms": 163505,
-      "name": "Lost in Paradise",
-      "url": "https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "I want it bad",
-        "url": "https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1"
-      },
-      "artists": [
-        {
-          "name": "Dottie Andersson",
-          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "I want it bad",
-      "url": "https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "ocean drive",
         "url": "https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 151736,
       "name": "ocean drive",
       "url": "https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "I want it bad",
+        "url": "https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1"
+      },
+      "artists": [
+        {
+          "name": "Dottie Andersson",
+          "url": "https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "I want it bad",
+      "url": "https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "All Ears on Me",
+        "url": "https://open.spotify.com/album/0Umpl1GnQLFvAPWlXDWykm"
+      },
+      "artists": [
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6xFDR4HD7uLGWhdV9vF9qP"
+        }
+      ],
+      "duration_ms": 131968,
+      "name": "All Ears on Me",
+      "url": "https://open.spotify.com/track/1zblKer9LkCk9P33KXnZrs"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Titanic",
         "url": "https://open.spotify.com/album/6YxTUTfGHKmpOMqlruyxSN"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 278438,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/1f5iEY0FhKFTJzlELuyaaY"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "All Ears on Me",
-        "url": "https://open.spotify.com/album/0Umpl1GnQLFvAPWlXDWykm"
-      },
-      "artists": [
-        {
-          "name": "Vita",
-          "url": "https://open.spotify.com/artist/6xFDR4HD7uLGWhdV9vF9qP"
-        }
-      ],
-      "duration_ms": 131968,
-      "name": "All Ears on Me",
-      "url": "https://open.spotify.com/track/1zblKer9LkCk9P33KXnZrs"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Alleine",
-        "url": "https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD"
-      },
-      "artists": [
-        {
-          "name": "DenniJasmin",
-          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
-        }
-      ],
-      "duration_ms": 148990,
-      "name": "Alleine",
-      "url": "https://open.spotify.com/track/62Dmi359e09S58Srti5kmz"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "Augen zu",
         "url": "https://open.spotify.com/album/4quko6tSRQ2bAZlZxTCtHU"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 262225,
       "name": "Before We Meet Again",
       "url": "https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Alleine",
+        "url": "https://open.spotify.com/album/4Rflv14CiIqiMxXTBDoLQD"
+      },
+      "artists": [
+        {
+          "name": "DenniJasmin",
+          "url": "https://open.spotify.com/artist/5yJut22NfYJpzq6vxvtOpE"
+        }
+      ],
+      "duration_ms": 148990,
+      "name": "Alleine",
+      "url": "https://open.spotify.com/track/62Dmi359e09S58Srti5kmz"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
+        "name": "Loose Lips (Original and Jody Wisternoff & James Grant Mixes)",
+        "url": "https://open.spotify.com/album/32udrYYGz0lkvE7F50asV1"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 227193,
+      "name": "Loose Lips",
+      "url": "https://open.spotify.com/track/4EPqqtmYj7gOmIRw6boqKs"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
         "name": "Curtain Call",
         "url": "https://open.spotify.com/album/5Nj0vXMJBFUTAKI1tcINP8"
       },
@@ -619,34 +635,18 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Loose Lips (Original and Jody Wisternoff & James Grant Mixes)",
-        "url": "https://open.spotify.com/album/32udrYYGz0lkvE7F50asV1"
+        "name": "Consciousness As A State Of Matter",
+        "url": "https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI"
       },
       "artists": [
         {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+          "name": "Terr",
+          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
         }
       ],
-      "duration_ms": 227193,
-      "name": "Loose Lips",
-      "url": "https://open.spotify.com/track/4EPqqtmYj7gOmIRw6boqKs"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
-        "name": "Ich steh auf meinem Kopf",
-        "url": "https://open.spotify.com/album/5SMkRhiNqzobHfJUMLkXmU"
-      },
-      "artists": [
-        {
-          "name": "Pippa",
-          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
-        }
-      ],
-      "duration_ms": 192687,
-      "name": "Ich steh auf meinem Kopf",
-      "url": "https://open.spotify.com/track/0CiSWLxxLidOcp3jutXN2o"
+      "duration_ms": 265496,
+      "name": "Tale Of Devotion - Sunny Version",
+      "url": "https://open.spotify.com/track/786xUYv8djinGFUze6WGpX"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "Consciousness As A State Of Matter",
-        "url": "https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        }
-      ],
-      "duration_ms": 265496,
-      "name": "Tale Of Devotion - Sunny Version",
-      "url": "https://open.spotify.com/track/786xUYv8djinGFUze6WGpX"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "Watching Strangers Smile",
         "url": "https://open.spotify.com/album/0zpSsEuwv5VbuiyuvfpjmZ"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 133280,
       "name": "Motorola",
       "url": "https://open.spotify.com/track/0vEVGIB0WqzWRD5D8dfxAw"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "Ich steh auf meinem Kopf",
+        "url": "https://open.spotify.com/album/5SMkRhiNqzobHfJUMLkXmU"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        }
+      ],
+      "duration_ms": 192687,
+      "name": "Ich steh auf meinem Kopf",
+      "url": "https://open.spotify.com/track/0CiSWLxxLidOcp3jutXN2o"
     },
     {
       "added_at": "2023-05-02 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-02 22:00:00",
       "album": {
-        "name": "K\u00fcnstlerische Freiheit II",
-        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
-      },
-      "artists": [
-        {
-          "name": "Annett Gapstream",
-          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
-        }
-      ],
-      "duration_ms": 397891,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
-    },
-    {
-      "added_at": "2023-05-02 22:00:00",
-      "album": {
         "name": "My Time",
         "url": "https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 167335,
       "name": "My Time",
       "url": "https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH"
+    },
+    {
+      "added_at": "2023-05-02 22:00:00",
+      "album": {
+        "name": "K\u00fcnstlerische Freiheit II",
+        "url": "https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs"
+      },
+      "artists": [
+        {
+          "name": "Annett Gapstream",
+          "url": "https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD"
+        }
+      ],
+      "duration_ms": 397891,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG"
     },
     {
       "added_at": "2023-05-02 22:00:00",

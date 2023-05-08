@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del norte\u00f1o en vivo. Remmy Valenzuela en portada.",
-  "num_followers": 27455,
+  "num_followers": 27546,
   "original_name": "Norte\u00f1o en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk0MTk1MWVlMDU0YzE5ZDFhOTFmMDU2MWU5NDQyOGRjNzljZWEw",
+  "snapshot_id": "MCw5MmVhODY2ZGFhOWUwYTQxMWJmNTEyZDY3NDg5NzgwZDdmNmRjMmYx",
   "tracks": [
     {
       "added_at": "2023-01-19 00:18:44",
@@ -981,20 +981,20 @@
       "url": "https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS"
     },
     {
-      "added_at": "2022-03-11 06:00:00",
+      "added_at": "2023-01-19 00:18:44",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
+        "name": "En Vivo, Vol. 3",
+        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Comando \u00danico",
+          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
         }
       ],
-      "duration_ms": 233106,
-      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
-      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
+      "duration_ms": 162050,
+      "name": "Por Las Calles De Chihuahua",
+      "url": "https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx"
     },
     {
       "added_at": "2023-01-19 00:18:44",
@@ -1017,20 +1017,20 @@
       "url": "https://open.spotify.com/track/5zNLwE72V2aXQAbMIG3Szp"
     },
     {
-      "added_at": "2023-01-19 00:18:44",
+      "added_at": "2022-03-11 06:00:00",
       "album": {
-        "name": "En Vivo, Vol. 3",
-        "url": "https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74"
       },
       "artists": [
         {
-          "name": "Comando \u00danico",
-          "url": "https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 162050,
-      "name": "Por Las Calles De Chihuahua",
-      "url": "https://open.spotify.com/track/4dZBaYkhSzYta7sbWjftLx"
+      "duration_ms": 233106,
+      "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
+      "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
     },
     {
       "added_at": "2022-03-11 06:00:00",
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 214517,
-      "name": "La Pasadita - En Vivo",
-      "url": "https://open.spotify.com/track/5drGB8Ndu2UNBzx6lxssKF"
+      "duration_ms": 236747,
+      "name": "Mi Ranchito Querido - En Vivo",
+      "url": "https://open.spotify.com/track/3vibRA79JnuCOLyQXBsWXX"
     },
     {
       "added_at": "2022-03-11 06:00:00",
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 236747,
-      "name": "Mi Ranchito Querido - En Vivo",
-      "url": "https://open.spotify.com/track/3vibRA79JnuCOLyQXBsWXX"
+      "duration_ms": 214517,
+      "name": "La Pasadita - En Vivo",
+      "url": "https://open.spotify.com/track/5drGB8Ndu2UNBzx6lxssKF"
     }
   ],
   "unique_name": "Norte\u00f1o en Vivo",

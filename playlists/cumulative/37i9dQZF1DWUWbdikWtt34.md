@@ -4,7 +4,7 @@
 
 > Dendang Dangdut teratas\. Cover: Maulana Ardiansyah, Ochi Alvira
 
-90 songs - 6 hr 56 min
+91 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/track/18MnWJxYUKfI3UQfemPCyJ) | [Via Vallen](https://open.spotify.com/artist/6vnVPM49Yl9LSGqhnLAh1f) | [Via Vallen \- Kopi Dangdut](https://open.spotify.com/album/79KEBVLIcSYF1L9fjIBsQT) | 4:20 | 2021-08-23 |  |
 | [Wegah Kelangan](https://open.spotify.com/track/3FtPcb4xIlwsGkX3PWIhtf) | [Nella Kharisma](https://open.spotify.com/artist/2GwILMQr37VYZiTgC5fXUq) | [Wegah Kelangan](https://open.spotify.com/album/75qiVGtr5iSPAr380gShrq) | 5:37 | 2021-08-23 |  |
 | [Wes Tatas](https://open.spotify.com/track/4BuCCdzxWtVgNQkJxpKhkP) | [Happy Asmara](https://open.spotify.com/artist/34gYdObZcKonPinzlnE8gK) | [Wes Tatas](https://open.spotify.com/album/4Ar7OycNonjvKxrlG6Tqbu) | 4:07 | 2022-10-27 | 2022-11-13 |
-| [Wes Tatas](https://open.spotify.com/track/6lj2zxgzTxHixfcJEXVXU4) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/7GyQBS8Do8vA5j2o4l1pqK) | 4:07 | 2021-08-23 |  |
+| [Wes Tatas](https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz) | 4:07 | 2023-05-04 |  |
+| [Wes Tatas](https://open.spotify.com/track/6lj2zxgzTxHixfcJEXVXU4) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/7GyQBS8Do8vA5j2o4l1pqK) | 4:07 | 2021-08-23 | 2023-05-08 |
 | [Wes Tatas](https://open.spotify.com/track/7rOAImf8ZV913bfYAFIZR8) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Wes Tatas](https://open.spotify.com/album/28ofPOImvuGZ2DyVX0mOzb) | 4:07 | 2021-08-23 | 2022-07-29 |
 | [Widodari](https://open.spotify.com/track/6NboFmEGgwlzpVG7dFfJUV) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Widodari](https://open.spotify.com/album/43jrtZTMIedkZMxTpfWCxa) | 4:56 | 2021-08-23 |  |
 | [Yang Penting Cuan](https://open.spotify.com/track/7bwVg8db6uNYJbfkFZIy2g) | [Sandhy Sondoro](https://open.spotify.com/artist/4sZCNSc9bpEa6bjM8Z3NOu), [Selvi Kitty](https://open.spotify.com/artist/2jIyLDlzSclVybd69NUfkv) | [Yang Penting Cuan](https://open.spotify.com/album/6MQgYhLKnAWvssYiCD0QCS) | 3:10 | 2023-01-20 | 2023-05-05 |

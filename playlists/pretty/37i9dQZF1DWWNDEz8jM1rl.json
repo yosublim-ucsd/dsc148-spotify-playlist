@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 109979,
+  "num_followers": 110019,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzgwMTJlZTk1NjM0ZjVjNTllYmFiOTc2OWIxZmNhNDQxNmQ4ZGY1",
+  "snapshot_id": "MCwxNzM0ZWE5YzY2NDkwMWM4NTdiM2VkZDQ3OTc1NjJiOWFmMDFhYjUx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -295,26 +295,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Alegr\u00eda y Gozo 2020",
-        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
-      },
-      "artists": [
-        {
-          "name": "Banda Alternativa",
-          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
-        },
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 229272,
-      "name": "Una Se\u00f1al",
-      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Conmigo",
         "url": "https://open.spotify.com/album/46HG8FO29WHwKukGqGVrKs"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 170614,
       "name": "Conmigo",
       "url": "https://open.spotify.com/track/7G6FUIGJigrZrDKYO3uhGG"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Alegr\u00eda y Gozo 2020",
+        "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
+      },
+      "artists": [
+        {
+          "name": "Banda Alternativa",
+          "url": "https://open.spotify.com/artist/5pNLS31QCGDruKrezxNrpo"
+        },
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        }
+      ],
+      "duration_ms": 229272,
+      "name": "Una Se\u00f1al",
+      "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Soldados",
+        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 224817,
+      "name": "Yo Tierra, T\u00fa Semilla",
+      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 194018,
       "name": "Fue Por Ti",
       "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Soldados",
-        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 224817,
-      "name": "Yo Tierra, T\u00fa Semilla",
-      "url": "https://open.spotify.com/track/0S79RX2oFmRsD1gjbwdXVC"
     },
     {
       "added_at": "2020-09-18 05:02:00",

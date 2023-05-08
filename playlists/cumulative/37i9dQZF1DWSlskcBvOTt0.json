@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Cuatro Vientos (HUGEL Version)",
+        "url": "https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v"
+      },
+      "artists": [
+        {
+          "name": "Danit",
+          "url": "https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185624,
+      "name": "Cuatro Vientos (HUGEL Version)",
+      "url": "https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x"
+    },
+    {
+      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8"
       },
@@ -1858,7 +1880,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 412605,
       "name": "Don't Push",
       "url": "https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3"

@@ -4,7 +4,7 @@
 
 > The reputable supergroup, <a href="spotify:artist:2exkZbmNqMKnT8LRWuxWgy">Moderat</a>, build a special & eclectic experience with their downtempo electronic mix.
 
-18 songs - 51 min 11 sec
+20 songs - 55 min 58 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,12 +15,14 @@
 | [Decay \- Mixed](https://open.spotify.com/track/4h3C6vHQRtihmnCBzIoAKy) | [Rolando Simmons](https://open.spotify.com/artist/5XSQ5dF4nF19W9HT2kIx2P) | [Decay \(Mixed\)](https://open.spotify.com/album/3cfcUWzW631QPh5wVaPcYt) | 4:15 | 2022-11-30 |  |
 | [FAST LAND \- Mixed](https://open.spotify.com/track/2yYnFlm665kl3BY6uBcJ7y) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [FAST LAND \(Mixed\)](https://open.spotify.com/album/6HtuyaPKHdzXFfj7veCXVB) | 2:55 | 2022-11-30 |  |
 | [Gray Area \- Instrumental \- Mixed](https://open.spotify.com/track/5b9N4y3WS1scKABc5sdurM) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Gray Area \- Instrumental \(Mixed\)](https://open.spotify.com/album/2x1dpNOAh4FvdggU6afvtO) | 1:59 | 2022-11-30 |  |
-| [If \[redacted\] Thinks He's Having This As A Remix He Can Frankly Do One \- Mixed](https://open.spotify.com/track/5Dn5noEyoiXLnLV8srgtiF) | [aya](https://open.spotify.com/artist/1KJKcFKAAf2pvKVjQteEyU) | [If \[redacted\] Thinks He's Having This As A Remix He Can Frankly Do One \(Mixed\)](https://open.spotify.com/album/5xqPOnDSy9JgADxpYeAA1v) | 1:53 | 2022-11-30 |  |
+| [If \[redacted\] Thinks He's Having This As A Remix He Can Frankly Do One \- Mixed](https://open.spotify.com/track/3nkhZW7RvJQ2nYnbsCwK8K) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [If \[redacted\] Thinks He's Having This As A Remix He Can Frankly Do One \(Mixed\)](https://open.spotify.com/album/0QKjqvtuMtSnmkyXRw6iYS) | 1:53 | 2022-11-30 |  |
+| [If \[redacted\] Thinks He's Having This As A Remix He Can Frankly Do One \- Mixed](https://open.spotify.com/track/5Dn5noEyoiXLnLV8srgtiF) | [aya](https://open.spotify.com/artist/1KJKcFKAAf2pvKVjQteEyU) | [If \[redacted\] Thinks He's Having This As A Remix He Can Frankly Do One \(Mixed\)](https://open.spotify.com/album/5xqPOnDSy9JgADxpYeAA1v) | 1:53 | 2022-11-30 | 2023-05-08 |
 | [messy kafka world \- Mixed](https://open.spotify.com/track/6A6W4oCwFITdvPp5oEZMeZ) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [messy kafka world \(Mixed\)](https://open.spotify.com/album/3WhMsT25AygsPNK5KwpukN) | 3:05 | 2022-11-30 |  |
 | [Rayhana \- Mixed](https://open.spotify.com/track/1joujWdzQXBoyRFyS6Y4n4) | [Ploy](https://open.spotify.com/artist/3mYbIK47UNTYkexhqoJOBN) | [Rayhana \(Mixed\)](https://open.spotify.com/album/0qG77QtRG95DpaP95vgSR1) | 2:04 | 2022-11-30 |  |
 | [Regional \- Mixed](https://open.spotify.com/track/1GScPU9oHC4wMgQsYogJ4C) | [FFT](https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6) | [Regional \(Mixed\)](https://open.spotify.com/album/2xp0t5xjYFNR2KG4tAs3mo) | 3:22 | 2022-11-30 |  |
 | [SsSsSsSsSs \- Mixed](https://open.spotify.com/track/1El9YmoX1YRf49gpeTZAPo) | [SHXCXCHCXSH](https://open.spotify.com/artist/6s1SjCXRjeNAa3aRNiYROK) | [SsSsSsSsSs \(Mixed\)](https://open.spotify.com/album/6wUeuqSBaN6TsFrEegAKIl) | 1:58 | 2022-11-30 |  |
-| [the only solution i have found is to simply jump higher \- Mixed](https://open.spotify.com/track/5M5LQhw3RfKMah7BK3J2oV) | [aya](https://open.spotify.com/artist/1KJKcFKAAf2pvKVjQteEyU) | [the only solution i have found is to simply jump higher \(Mixed\)](https://open.spotify.com/album/54tklX3XdbciLOE25Jsg8R) | 2:54 | 2022-11-30 |  |
+| [the only solution i have found is to simply jump higher \- Mixed](https://open.spotify.com/track/1DSMwizNQqQ14eCWjQ09sw) | [aya](https://open.spotify.com/artist/0NKaRcyqHnynkv7UMsOhEH) | [the only solution i have found is to simply jump higher \(Mixed\)](https://open.spotify.com/album/6y2omzXxqCwtZUmIEsoob2) | 2:54 | 2022-11-30 |  |
+| [the only solution i have found is to simply jump higher \- Mixed](https://open.spotify.com/track/5M5LQhw3RfKMah7BK3J2oV) | [aya](https://open.spotify.com/artist/1KJKcFKAAf2pvKVjQteEyU) | [the only solution i have found is to simply jump higher \(Mixed\)](https://open.spotify.com/album/54tklX3XdbciLOE25Jsg8R) | 2:54 | 2022-11-30 | 2023-05-08 |
 | [Ventriloquist Chant \- Mixed](https://open.spotify.com/track/3saSQ1aDjo0RE9JHahXz0P) | [Mattheis](https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj), [Amandra](https://open.spotify.com/artist/0rQNrF6amURGSFkECQhpfv) | [Ventriloquist Chant \(Mixed\)](https://open.spotify.com/album/0WLO2X5vz3TkHfHRqHOgIq) | 4:05 | 2022-11-30 |  |
 | [Vex Oh \- Instrumental \- Mixed](https://open.spotify.com/track/1tf9QGot9yJ14j7eK0ZeTX) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Vex Oh \- Instrumental \(Mixed\)](https://open.spotify.com/album/3q6vWvayb0NxiJ2azJbmSP) | 2:35 | 2022-11-30 |  |
 | [VVVVV \- Mixed](https://open.spotify.com/track/5ukCVc1f5nmn8AUjFrH7CL) | [Bambounou](https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX) | [VVVVV \(Mixed\)](https://open.spotify.com/album/6BdSDMaAi6SDnmGzNsnvjp) | 1:03 | 2022-11-30 |  |

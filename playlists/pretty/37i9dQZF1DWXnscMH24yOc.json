@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 432791,
+  "num_followers": 432859,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZiY2Y1ZjMyOTdmMmMyZjEwNzhkZjY0NjI5NGQ5OGVjMGEzZjFi",
+  "snapshot_id": "MCwzZWZlZDljOTIxNDJkYzZhNDg5MjU4NDY5ODMzNGNiMWQwMmYwOTM3",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 166762,
-      "name": "I Follow Rivers",
-      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Knocking On Heavens Door - EP",
         "url": "https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 264389,
       "name": "Knocking on Heavens Door",
       "url": "https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+      },
+      "artists": [
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        }
+      ],
+      "duration_ms": 166762,
+      "name": "I Follow Rivers",
+      "url": "https://open.spotify.com/track/3Cs4g3w33H9YEptmg34DQc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -467,54 +467,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "I Can't Make You Love Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Tennis Court",
-        "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 222362,
-      "name": "Swingin Party",
-      "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
-      },
-      "artists": [
-        {
-          "name": "Chromatics",
-          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
-        }
-      ],
-      "duration_ms": 223236,
-      "name": "Girls Just Wanna Have Some",
-      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Giralunas, Un Homenaje a L.E.Aute",
         "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
@@ -535,6 +487,54 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Tennis Court",
+        "url": "https://open.spotify.com/album/7EUGqK1EQw2k02BFR1hu47"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 222362,
+      "name": "Swingin Party",
+      "url": "https://open.spotify.com/track/3YYwrOdeMEvmHBWHJ0TmB6"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "I'll Stand by You",
-        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
-      },
-      "artists": [
-        {
-          "name": "Jake Wesley Rogers",
-          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
-        }
-      ],
-      "duration_ms": 204854,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "I'll Stand by You",
+        "url": "https://open.spotify.com/album/6CsQEUwnLOXJMlRW5uiGnE"
+      },
+      "artists": [
+        {
+          "name": "Jake Wesley Rogers",
+          "url": "https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9"
+        }
+      ],
+      "duration_ms": 204854,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/7zdaLRVLJJSXjdQB1tFZRJ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
       },
       "artists": [
         {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -919,6 +903,22 @@
       "duration_ms": 229604,
       "name": "Thank you for the happiest year of my life",
       "url": "https://open.spotify.com/track/3H1K7ZuDdWGqQYVKhDcSo6"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Barton Hollow",
+        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 185053,
+      "name": "Dance Me to the End of Love (Bonus)",
+      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Barton Hollow",
-        "url": "https://open.spotify.com/album/4uWgDFxGAp7XlVSHuVBv4E"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 185053,
-      "name": "Dance Me to the End of Love (Bonus)",
-      "url": "https://open.spotify.com/track/6WoJzSRQeROe5MNpf7cPDu"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Sound Of A Woman",
-        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
-      },
-      "artists": [
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Transfiguration of Vincent",
         "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 300186,
       "name": "Let\u2019s Dance",
       "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Sound Of A Woman",
+        "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
+      },
+      "artists": [
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
+        "name": "Whatever You Like [Digital 45]",
+        "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
+      },
+      "artists": [
+        {
+          "name": "Anya Marina",
+          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
+        }
+      ],
+      "duration_ms": 228907,
+      "name": "Whatever You Like - Single Version",
+      "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 266863,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/4WFdNbQtBQxY9rM7d3E6XC"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
-        "name": "Whatever You Like [Digital 45]",
-        "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
-      },
-      "artists": [
-        {
-          "name": "Anya Marina",
-          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
-        }
-      ],
-      "duration_ms": 228907,
-      "name": "Whatever You Like - Single Version",
-      "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Avant Gardener",
-        "url": "https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4"
-      },
-      "artists": [
-        {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
-        }
-      ],
-      "duration_ms": 259749,
-      "name": "Avant Gardener",
-      "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 154360,
       "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Avant Gardener",
+        "url": "https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 259749,
+      "name": "Avant Gardener",
+      "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1647,18 +1647,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
+        "name": "Feel Good Inc.",
+        "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
       "artists": [
         {
-          "name": "Korey Dane",
-          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
         }
       ],
-      "duration_ms": 274185,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+      "duration_ms": 236129,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
     }
   ],
   "unique_name": "Chill Covers",

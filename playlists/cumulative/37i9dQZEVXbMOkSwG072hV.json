@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 130909,
       "name": "Australiana",
       "url": "https://open.spotify.com/track/1vSi0uIXyYgI35vWkpHZDx"
@@ -10766,7 +10766,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 231475,
       "name": "High Infidelity",
       "url": "https://open.spotify.com/track/4356PL6jkERzJouVfQQkZo"
@@ -12066,7 +12066,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 119182,
       "name": "J\u00e1 Ouviu Aquele Ditado",
       "url": "https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY"
@@ -14888,7 +14888,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "Minha Vida \u00e9 um Filme",
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
@@ -19018,6 +19018,28 @@
       "duration_ms": 121777,
       "name": "Plof Plof",
       "url": "https://open.spotify.com/track/4x3k2qGavSgtIw6dKu7zLz"
+    },
+    {
+      "album": {
+        "name": "Plof Plof - Fudel\u00e2ncia no Carro",
+        "url": "https://open.spotify.com/album/34XrHuMcJzpH4HBNRomn18"
+      },
+      "artists": [
+        {
+          "name": "MC BEATRIZ",
+          "url": "https://open.spotify.com/artist/4lLwHokiP9fqkPpq9YCDEB"
+        },
+        {
+          "name": "Dj Laranjinha",
+          "url": "https://open.spotify.com/artist/3x8BX06j1f2CuEgihUvoNM"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "Plof Plof - Fudel\u00e2ncia no Carro",
+      "url": "https://open.spotify.com/track/03laKxZEA4oIEw79VoDmKO"
     },
     {
       "album": {
@@ -24670,7 +24692,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 175000,
       "name": "Tudo Pra Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a"

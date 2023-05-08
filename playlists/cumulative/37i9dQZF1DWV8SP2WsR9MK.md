@@ -4,7 +4,7 @@
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-122 songs - 11 hr 2 min
+123 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Straight No Chaser](https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \[And Other Songs\]](https://open.spotify.com/album/1DNCkNNowfEz9towiU2PDo) | 5:24 | 2022-05-24 | 2022-07-29 |
 | [Straight No Chaser](https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Standards \(And Other Songs\)](https://open.spotify.com/album/6Az63x71f79GUhcyccTomF) | 5:24 | 2022-05-24 |  |
 | [Sunny](https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [Cream](https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy) | 10:28 | 2022-05-24 |  |
-| [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 | 2022-05-24 |  |
+| [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 | 2022-05-24 | 2023-05-08 |
 | [The Big Push](https://open.spotify.com/track/2mUNdaOnnxat38a7DlpV9l) | [Mike Moreno](https://open.spotify.com/artist/5RGLzQ8KQBC9bQPQQlDrEf), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq), [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [Three for Three](https://open.spotify.com/album/6vnLFHgoaHsM0M1rkVv8O1) | 6:54 | 2022-05-24 |  |
 | [The Heat of the Day](https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Imaginary Day](https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf) | 9:44 | 2022-05-24 |  |
 | [The Moon Is A Harsh Mistress](https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 4:04 | 2022-08-26 |  |
@@ -125,6 +125,7 @@
 | [Windy](https://open.spotify.com/track/2dUCI2pj2CmMem7v8Ul8BO) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [A Day In The Life](https://open.spotify.com/album/5Z6DQMOjrC5DK1pQ3RBdZ5) | 2:22 | 2022-05-24 | 2022-10-07 |
 | [Yesterdays](https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 7:26 | 2022-05-24 |  |
 | [You Are My Sunshine](https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Bill Frisell, Ron Carter, Paul Motian](https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz) | 5:56 | 2022-05-24 |  |
+| [You Are Too Beautiful](https://open.spotify.com/track/7dOfAphsqSBeYQWtBPa8xO) | [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX), [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA) | [At the Garden Party](https://open.spotify.com/album/2GHEmpg1poRNNgLSh8Q81q) | 6:34 | 2023-05-04 |  |
 | [You Are Too Beautiful](https://open.spotify.com/track/3Kersuib3CNo2CzQZg52M3) | [Ed Bickert](https://open.spotify.com/artist/28OasCag6MpcSYdG8blWHA), [Don Thompson](https://open.spotify.com/artist/1l2y80b850BRWQ3Y6YhLaX) | [At the Garden Party](https://open.spotify.com/album/4ChUpCuXYNw2pYN9xNyFAc) | 6:34 | 2022-05-24 | 2023-04-20 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC) | [Pat Martino](https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz) | [We'll Be Together Again](https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL) | 4:46 | 2022-05-24 |  |
 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 | 2022-05-24 |  |

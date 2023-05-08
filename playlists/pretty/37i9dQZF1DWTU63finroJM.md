@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > From across the globe\. New artists on the horizon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,213 likes - 155 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,252 likes - 155 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 154 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/39dekO8ZmqocCrKeBaBFty) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/2l7qyKFV7mDoDfZ3xS5luZ) | 2:38 |
 | 155 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 |
 
-Snapshot ID: `MCw4NWNjMzA1YmZkNDAwNDNiZGM2MTJlNjdlZjZkYzYyNmY4NzZiM2U5`
+Snapshot ID: `MCwzYWFkNGY2MDA5OWVlMzRkNzQ0ZTliMzJlMDdkYjUwMTFmN2Q5YzFj`

@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "RawayanaLand",
+        "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Ay Ay Ay",
+      "url": "https://open.spotify.com/track/0qScOEiQOLaucPMy6W9jDL"
+    },
+    {
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0AYOXJV9OzRPDNhWnrMXeL"
       },
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 361253,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/79Ri3SefpPjDQXFMYfGghm"

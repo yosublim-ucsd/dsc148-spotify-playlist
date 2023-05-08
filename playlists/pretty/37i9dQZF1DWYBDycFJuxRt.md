@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/317879?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,096 likes - 49 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,094 likes - 49 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 48 | [好](https://open.spotify.com/track/0NcRwdSdoDIZku1Zs5Yz16) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [好](https://open.spotify.com/album/5Pm4gQZFTTWzN02Q8SuNkl) | 3:48 |
 | 49 | [Beside](https://open.spotify.com/track/63KJH2jYH1bKTqXd6v4ccq) | [CONFVSE](https://open.spotify.com/artist/0jHrkfttn8U65SC5fNYxZT) | [Beside](https://open.spotify.com/album/658P9Mns16YHWleM9DoZLz) | 4:58 |
 
-Snapshot ID: `MCxhMDk0OWQ4Y2ZkYTRiMmMzMGU0ODVmNzM3NTlhYjg3ZDY1ZDJlOWQ3`
+Snapshot ID: `MCw2NjQzZDY2Mjc5OTA1YmUyMjY1Mzk1N2Q0Mzg0YmQ4ODU3NjhjZTcz`

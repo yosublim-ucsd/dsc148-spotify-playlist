@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Luqman Podolski, Tish Errda
 
-206 songs - 12 hr 59 min
+207 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Seandainya](https://open.spotify.com/track/6QGyP2oyiOKHzh87rokO7d) | [Ariff Bahran](https://open.spotify.com/artist/2ZDEFZjcNiDOiCgQpixGBI) | [Seandainya](https://open.spotify.com/album/72nZrRNWpZsfbVmlxhBX98) | 3:48 | 2022-11-24 | 2023-01-12 |
 | [Sejuta Maaf](https://open.spotify.com/track/2dNl9852kqrSurEtz1WsyQ) | [Liza Hanim](https://open.spotify.com/artist/0TQk8sb9bPIMKGbvbkB51O) | [Sejuta Maaf](https://open.spotify.com/album/4Ku3zmF2wR54POfcnj36ty) | 3:52 | 2023-01-25 | 2023-03-02 |
 | [Selagi Ku Ada](https://open.spotify.com/track/4kX5RbJXuWYnNk5Nk1LSMv) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Selagi Ku Ada](https://open.spotify.com/album/6gJfFD4B9RRPUtyeCzFKcv) | 4:10 | 2023-01-18 | 2023-03-23 |
-| [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-12-14 |  |
+| [Semata Karenamu](https://open.spotify.com/track/1SWBzZg6n9JZq7bnXxPPai) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/00Gd00OvRY6pKawXA1iCKs) | 4:38 | 2023-05-03 |  |
+| [Semata Karenamu](https://open.spotify.com/track/4z6FksNI6MLCDTHrNJXhO0) | [Mario G klau](https://open.spotify.com/artist/17d3zotBDOZtuWnZPxTf8v) | [Semata Karenamu](https://open.spotify.com/album/7Cc4mRgFWAomMajhwO0xr6) | 4:38 | 2022-12-14 | 2023-05-08 |
 | [Sempurna](https://open.spotify.com/track/67C6LHREqmytK923Ak6R0I) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [Sempurna](https://open.spotify.com/album/4sigvBSInHo1GXR6UUYTVm) | 4:11 | 2022-05-25 |  |
 | [Sengkek](https://open.spotify.com/track/5UVKm78nMoKQgLj66IR36j) | [Yonnyboii](https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Sengkek](https://open.spotify.com/album/34mBrSppMy6BDbB6YT8JMj) | 3:05 | 2023-03-01 |  |
 | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/track/5ZJmUtcIlpIdxiruIENBO7) | [Amir Masdi](https://open.spotify.com/artist/4D3e1gNcNkycsMtOSo8Z2J) | [Sepi Sekuntum Mawar Merah](https://open.spotify.com/album/1GkBzveJ8lNLXTgnJzHr8W) | 3:45 | 2022-08-10 | 2023-02-16 |

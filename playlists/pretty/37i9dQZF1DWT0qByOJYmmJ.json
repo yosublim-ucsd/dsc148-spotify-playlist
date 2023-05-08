@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 613238,
+  "num_followers": 613400,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTc4ZWQzMmQ4MjljYWFmZmIxZDEwYjgyMzQzZGM1MWI0NmNiYmRl",
+  "snapshot_id": "MCw0ZGZkNTRlYmQ4ZDVlN2MwNmEzNTFlZmJiZjg3MDMxYTIyYzNlYTUw",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 144215,
-      "name": "Qu\u00e9 bonito fue",
-      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Eres Diamante",
         "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 240295,
       "name": "Ojos Noche",
       "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144215,
+      "name": "Qu\u00e9 bonito fue",
+      "url": "https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+        "name": "Mi Despedida",
+        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
+      "duration_ms": 196064,
+      "name": "Mi Despedida",
+      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Mi Despedida",
-        "url": "https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv"
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 196064,
-      "name": "Mi Despedida",
-      "url": "https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O"
+      "duration_ms": 209013,
+      "name": "Sonre\u00edr - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Sin Final Feliz",
-        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
-      },
-      "artists": [
-        {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
-        }
-      ],
-      "duration_ms": 171978,
-      "name": "Vino Tinto",
-      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7yjeHjZ43TiOl65KvSEwnL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 150315,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3baHPHIKvDuugzoowvdJBo"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Sin Final Feliz",
+        "url": "https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 171978,
+      "name": "Vino Tinto",
+      "url": "https://open.spotify.com/track/5ONAA8z6SvFBniu8zXz1Ax"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Si Nos Volvemos A Encontrar",
-        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Si Nos Volvemos A Encontrar",
-      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 182966,
       "name": "Solo Aqu\u00ed",
       "url": "https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "2 A.M.",
-        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
-      },
-      "artists": [
-        {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Linda Coincidencia",
+        "url": "https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW"
+      },
+      "artists": [
+        {
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Linda Coincidencia",
+      "url": "https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Es Verdad",
         "url": "https://open.spotify.com/album/4Qc0askJoxDncULR0F22NX"
       },
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Linda Coincidencia",
-        "url": "https://open.spotify.com/album/1YAAJCcCgxL4bPwu08KJeW"
+        "name": "2 A.M.",
+        "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
       "artists": [
         {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
         }
       ],
-      "duration_ms": 215998,
-      "name": "Linda Coincidencia",
-      "url": "https://open.spotify.com/track/0JS42avpIsAxFmkYjnbSkq"
+      "duration_ms": 132000,
+      "name": "Elefante Rosado",
+      "url": "https://open.spotify.com/track/0N4BGb7WrI2INcxrxRbnNG"
     },
     {
       "added_at": "2023-02-24 17:40:22",

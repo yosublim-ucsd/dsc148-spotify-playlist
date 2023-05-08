@@ -1728,6 +1728,24 @@
     {
       "album": {
         "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
+    },
+    {
+      "album": {
+        "name": "Flower of Devotion",
         "url": "https://open.spotify.com/album/0kn1V8vpoxtEw69CcMDlik"
       },
       "artists": [
@@ -3816,7 +3834,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 375626,
       "name": "Paddling",
       "url": "https://open.spotify.com/track/7FXWKJGKhGrsaiYdMbWJdj"

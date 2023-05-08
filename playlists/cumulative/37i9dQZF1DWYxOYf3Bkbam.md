@@ -4,7 +4,7 @@
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-155 songs - 8 hr 3 min
+156 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Lloviendo Estrellas](https://open.spotify.com/track/5yVfdKJZguW0weseChuXeo) | [Potencia Chamamecera](https://open.spotify.com/artist/0m0HwLd0YVfDO5rxGpWfUK) | [La Juventud Romántica](https://open.spotify.com/album/1NYSKVbrcZ0xdTadj7GaVt) | 4:12 | 2021-11-19 | 2022-07-29 |
 | [Lluvia](https://open.spotify.com/track/433tgTjS9hL0yL58s6nCUM) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR) | [Lluvia](https://open.spotify.com/album/7Cst086ZWREiL7EBlfUKFb) | 4:45 | 2021-11-19 | 2022-07-29 |
 | [Lluvia Correntina](https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU) | [Mateo Villalba](https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc) | [Antología](https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM) | 3:19 | 2021-11-19 |  |
+| [Lázaro Blanco/Como Zapato en la Tapera/Por Llegar de Madrugada/Como Calandria Pal Cebo/barrio Unión/devuelta a Mi Ranchito/a Cachencho Federal](https://open.spotify.com/track/26Q2T1D7kFDDPs7aoJcgpQ) | [Los Chamameceros de Federal](https://open.spotify.com/artist/1iBMoh8uDvIOzP72LbmF9O) | [La Diferencia](https://open.spotify.com/album/2L7t3aR7OIj7YdRiYmEd9O) | 4:58 | 2023-05-05 |  |
 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 | 2021-11-19 |  |
 | [Meta lonja y chamamé](https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Pastor Luna \- Chamemecero de Ley](https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C) | 2:57 | 2021-11-19 |  |
 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 | 2021-11-19 | 2022-07-28 |
@@ -158,7 +159,7 @@
 | [Tiempo](https://open.spotify.com/track/1qQ2k6WRvClfd6e1BDjjtG) | [Hernán Crespo](https://open.spotify.com/artist/2SJyFDxAZamYqxC7tN2WeR), [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Tiempo](https://open.spotify.com/album/4VAmOJquewlCgACkqB6DgL) | 4:30 | 2021-11-19 |  |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/4A2Gnw92jmcEWpFba6i7x9) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo en el Teatro Colón\)](https://open.spotify.com/album/502Tc6vY1fm9WQ9ceBhsZg) | 4:48 | 2022-07-05 |  |
 | [Tierra Colorada \- En Vivo en el Teatro Colón](https://open.spotify.com/track/54Z1VfgxdIW0n19Df9r9Sy) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Tierra Colorada en el Teatro Colón: Chango Spasiuk en Concierto \(En Vivo\) \[En Vivo en el Teatro Colón\]](https://open.spotify.com/album/7x6C47bUm4asmVz4UIvl2l) | 4:48 | 2021-11-19 | 2022-07-29 |
-| [Troja de Amor](https://open.spotify.com/track/4oaloCE4Y8QL1wMyaIIo8s) | [Omar Pineda](https://open.spotify.com/artist/5H0JGPUzSOvn793JjTy90E), [Pitín Zalazar](https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW) | [Pura Sangre](https://open.spotify.com/album/30xKVoMy4ivn5IgYBvwXO7) | 2:28 | 2021-11-19 |  |
+| [Troja de Amor](https://open.spotify.com/track/4oaloCE4Y8QL1wMyaIIo8s) | [Omar Pineda](https://open.spotify.com/artist/5H0JGPUzSOvn793JjTy90E), [Pitín Zalazar](https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW) | [Pura Sangre](https://open.spotify.com/album/30xKVoMy4ivn5IgYBvwXO7) | 2:28 | 2021-11-19 | 2023-05-08 |
 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 | 2021-11-19 |  |
 | [Vieja Canoita](https://open.spotify.com/track/59vynfRyWX8XFYCZHZFLDf) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Estefanía Morand](https://open.spotify.com/artist/6I9ucOWNcE59ZepDGWGCus) | [Noche de Tormenta](https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Viejo Jinete Argentino](https://open.spotify.com/track/7m2GKaEFQoPPkbmzI3VVPX) | [Hipolito Sosa y su conjunto](https://open.spotify.com/artist/3SuHLrqH1ksOTmtnQtDEnL) | [Bodas de Oro Con el Chamamé](https://open.spotify.com/album/6lnOG2dw5KnuMSW7av7Gq3) | 2:16 | 2021-11-19 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Sir George Martins most essential work, all in one playlist.
 
-108 songs - 5 hr 48 min
+109 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,9 @@
 | [From Russia with Love](https://open.spotify.com/track/2iM5xuFmyzhTQql4lbB4ao) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [In the Mood for Easy Listening](https://open.spotify.com/album/2MzdhaYw4NNA23KscFxOia) | 2:34 | 2018-08-21 | 2022-11-14 |
 | [From Russia With Love](https://open.spotify.com/track/5BAHAfFiz8NbgTHf9MgleH) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Great Gentlemen Of Song / Spotlight On Matt Monro](https://open.spotify.com/album/37OQPuhA2crGPP7Yk3yIzR) | 2:35 | 2018-08-21 | 2022-07-29 |
 | [From Russia with Love \- Single Version](https://open.spotify.com/track/5dWu3rtTytLVDSkOkTaBVl) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Essential](https://open.spotify.com/album/4JDGHeK69u3Yosp8BvUFJh) | 2:35 | 2018-08-21 |  |
+| [Fundamentally Yours](https://open.spotify.com/track/0skrLKGiUpiznXU8l0Q1lc) | [Stackridge](https://open.spotify.com/artist/3ZxLjJocCVjyyKQLJH8eEa) | [The Man In The Bowler Hat](https://open.spotify.com/album/6506akPUH5hXx4ZlSzOeaF) | 2:36 | 2018-08-21 |  |
 | [Fundamentally Yours](https://open.spotify.com/track/2OqhYF740xzvmq6egLOWTX) | [Stackridge](https://open.spotify.com/artist/3ZxLjJocCVjyyKQLJH8eEa) | [The Man In The Bowler Hat](https://open.spotify.com/album/4nwi9eT0SClfzBOsVd4x44) | 2:36 | 2018-08-21 | 2022-07-29 |
-| [Fundamentally Yours](https://open.spotify.com/track/61aiIFxsOayP4NIU0azmsv) | [Stackridge](https://open.spotify.com/artist/3ZxLjJocCVjyyKQLJH8eEa) | [The Man In The Bowler Hat](https://open.spotify.com/album/4PuhrjdER0ER5pl8UKVT9e) | 2:36 | 2018-08-21 |  |
+| [Fundamentally Yours](https://open.spotify.com/track/61aiIFxsOayP4NIU0azmsv) | [Stackridge](https://open.spotify.com/artist/3ZxLjJocCVjyyKQLJH8eEa) | [The Man In The Bowler Hat](https://open.spotify.com/album/4PuhrjdER0ER5pl8UKVT9e) | 2:36 | 2018-08-21 | 2023-05-08 |
 | [Goldfinger](https://open.spotify.com/track/7r0EUONfPUZ8SD1vu4ro27) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Diamonds: The Best of Shirley Bassey](https://open.spotify.com/album/47CseYTjSFPkxo9SDFQoot) | 2:48 | 2018-08-21 |  |
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/77wOpffkkQtZpdrvhPKbFq) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Wired](https://open.spotify.com/album/0vo9nZNFMaFASINLCzmzcU) | 5:30 | 2018-08-21 |  |
 | [Hello Little Girl](https://open.spotify.com/track/32KC4OfjkSU8xdXO4T6pmq) | [The Fourmost](https://open.spotify.com/artist/6B90OW5Tz38W97TVB6stEm) | [The Best Of The Fourmost](https://open.spotify.com/album/4QpBxDBX4h9grCJ1tAIFZx) | 1:52 | 2018-08-21 |  |

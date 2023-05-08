@@ -521,6 +521,24 @@
     },
     {
       "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x"
+    },
+    {
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 5",
         "url": "https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr"
       },
@@ -779,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Traves\u00eda",
+        "url": "https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316746,
+      "name": "Blu",
+      "url": "https://open.spotify.com/track/4Tzycx6a4Dew2UyqMjJzKJ"
+    },
+    {
+      "album": {
         "name": "The Best of 'Playing the Orchestra 2014'",
         "url": "https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I"
       },
@@ -790,7 +826,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 319524,
       "name": "Blu",
       "url": "https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8"
@@ -2582,7 +2618,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 199784,
       "name": "Ieta",
       "url": "https://open.spotify.com/track/7zgizTrRXUNJ67FRxKElml"

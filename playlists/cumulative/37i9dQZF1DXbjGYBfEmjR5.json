@@ -5082,7 +5082,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 250344,
       "name": "Monstruo Japon\u00e9s",
       "url": "https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU"
@@ -8472,6 +8472,24 @@
       "duration_ms": 177479,
       "name": "Waterbed",
       "url": "https://open.spotify.com/track/4soDPlAc6aPCu5V6k8xmMn"
+    },
+    {
+      "album": {
+        "name": "Waterbed (Deluxe)",
+        "url": "https://open.spotify.com/album/7mcfqMQNLeoYBiEqwJvgW7"
+      },
+      "artists": [
+        {
+          "name": "Tendencies",
+          "url": "https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "Waterbed",
+      "url": "https://open.spotify.com/track/7o8SoQa3426I2kgHMAybTr"
     },
     {
       "album": {

@@ -830,7 +830,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 107720,
       "name": "Not Fade Away - Mono Version",
       "url": "https://open.spotify.com/track/0C7w4XnkIGu11MpNWbiTLB"
@@ -1378,6 +1378,24 @@
       "duration_ms": 448720,
       "name": "You Can't Always Get What You Want",
       "url": "https://open.spotify.com/track/6lFZbCc7pn6Lme1NP7qQqQ"
+    },
+    {
+      "album": {
+        "name": "Voodoo Lounge (Remastered 2009)",
+        "url": "https://open.spotify.com/album/3oyjbpNQs5Qm5DNVJW4AlV"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "You Got Me Rocking",
+      "url": "https://open.spotify.com/track/0JTrB3fXGdyGcwxFFECsm1"
     },
     {
       "album": {

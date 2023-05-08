@@ -4,7 +4,7 @@
 
 > The summer needs dance hits 😎☀️
 
-250 songs - 12 hr 45 min
+251 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Only One](https://open.spotify.com/track/6ipiRXjKsTcqLAigNmnbmv) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Only One](https://open.spotify.com/album/7CGYzuw78v8gVvaMyVedPd) | 3:11 | 2022-05-02 | 2022-07-13 |
 | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\)](https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8) | 2:42 | 2022-05-02 |  |
 | [Over You \(feat\. Moss Kena\)](https://open.spotify.com/track/5nMILCCyJX41ARcYhewC9c) | [Sharam Jey](https://open.spotify.com/artist/0k4tYg6N84bhZcd6tfNWXt), [Celestal](https://open.spotify.com/artist/2AEpvZkBjqbmEiojWgZmub), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv) | [Over You \(feat\. Moss Kena\)](https://open.spotify.com/album/2BWENBjeZDJHgUHikuzTXX) | 2:56 | 2022-10-27 | 2022-12-13 |
-| [Paper Planes](https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Paper Planes](https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4) | 3:06 | 2022-05-02 |  |
+| [Paper Planes](https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Paper Planes](https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4) | 3:06 | 2022-05-02 | 2023-05-08 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2022-05-02 | 2023-04-07 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2022-05-02 |  |
 | [Problems](https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Problems](https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG) | 2:59 | 2022-05-02 | 2022-08-01 |
@@ -183,6 +183,7 @@
 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-04-07 | 2023-04-15 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-04-12 |  |
 | [Remember](https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Remember](https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF) | 2:40 | 2022-05-02 |  |
+| [Rich In Love](https://open.spotify.com/track/424bdPXDmsR1WgZoCUwxt4) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rich In Love](https://open.spotify.com/album/1ZJuNaxvUtHns8WCpIaAh9) | 3:25 | 2023-04-27 |  |
 | [Ricochet](https://open.spotify.com/track/6tGXmjNXIZ0AHvmQzeApaj) | [Low Steppa](https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Ricochet](https://open.spotify.com/album/3FBiuG25koQiNpp39km7g1) | 3:25 | 2022-05-19 | 2022-05-26 |
 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 | 2022-05-02 |  |
 | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Rise Up \(feat\. Vamero\)](https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8) | 3:02 | 2022-05-02 | 2023-01-13 |

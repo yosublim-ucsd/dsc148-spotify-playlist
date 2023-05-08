@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 171742,
+  "num_followers": 171749,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNDE1ZjYyZGFkNjdiNTM3MzVkYWQ1MWM4ODAzOTc5ODk0Njg5ZGNk",
+  "snapshot_id": "MCw4MjAxODg0N2M5ZTk1N2I1NzNjNGE2MWZlMzAzMmFmZTI5MDBkMjJl",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Ain't Gonna Hush!",
-        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
-      },
-      "artists": [
-        {
-          "name": "Saffire-The Uppity Blues Women",
-          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
-        }
-      ],
-      "duration_ms": 138066,
-      "name": "Ain't Gonna Hush",
-      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Ina Forsman",
         "url": "https://open.spotify.com/album/2jlehXrLv0Ry0QaugJYx6Y"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 249760,
       "name": "Now You Want Me Back",
       "url": "https://open.spotify.com/track/5dd769kGy644G8xYkdJJZt"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Ain't Gonna Hush!",
+        "url": "https://open.spotify.com/album/3MIXDhkjD5nJEKqmmJWEh4"
+      },
+      "artists": [
+        {
+          "name": "Saffire-The Uppity Blues Women",
+          "url": "https://open.spotify.com/artist/0mOWWTxAbxY6z9WAoxkQ3E"
+        }
+      ],
+      "duration_ms": 138066,
+      "name": "Ain't Gonna Hush",
+      "url": "https://open.spotify.com/track/62Zws2ATx9MYalkQ5O5Jvw"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -855,38 +855,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/2itCiWDyCrtpV6FuHzLxVA"
-      },
-      "artists": [
-        {
-          "name": "TORA",
-          "url": "https://open.spotify.com/artist/7wml1FKnTWVEj05OrqIVUg"
-        }
-      ],
-      "duration_ms": 180583,
-      "name": "Cry for Me",
-      "url": "https://open.spotify.com/track/2LGB8fWyHBw8ENzD9qH1Gv"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
-        "name": "Live My Life",
-        "url": "https://open.spotify.com/album/7iK2ce3jz7brShoDM4I9Dp"
-      },
-      "artists": [
-        {
-          "name": "Sena Ehrhardt",
-          "url": "https://open.spotify.com/artist/4I2MGRZw35d0HkoOad38tg"
-        }
-      ],
-      "duration_ms": 349066,
-      "name": "If Trouble Was Money",
-      "url": "https://open.spotify.com/track/5C7R3FWg4eG04eAdmu5XNv"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love Spin",
         "url": "https://open.spotify.com/album/4mvFBBjUbJm2WQx59Jlkq4"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 231080,
       "name": "Life Of The Party",
       "url": "https://open.spotify.com/track/6GWulv1RwkqTN5Ak2BCRa5"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Heavy Hearts Hard Fists",
+        "url": "https://open.spotify.com/album/0fo7S7VAXlvSnmApHKJ2if"
+      },
+      "artists": [
+        {
+          "name": "Nikki Hill",
+          "url": "https://open.spotify.com/artist/28Vn4HKpcOqzagc7tiAxNz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Heavy Hearts Hard Fists",
+      "url": "https://open.spotify.com/track/3s4ZPDlawFagjAr5yMRSMx"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Shut Your Mouth and Do Something",
+        "url": "https://open.spotify.com/album/7iMlb5kEboQwsdOjbaa6of"
+      },
+      "artists": [
+        {
+          "name": "Ali Handal",
+          "url": "https://open.spotify.com/artist/5JG9RkDazTt64kyVpQDc5N"
+        }
+      ],
+      "duration_ms": 200449,
+      "name": "Shut Your Mouth and Do Something",
+      "url": "https://open.spotify.com/track/5rbX4du6LNRAvMm0zCIPCV"
     }
   ],
   "unique_name": "EQUAL Blues",

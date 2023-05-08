@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-480 songs - 1 day 3 hr 16 min
+481 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Modus](https://open.spotify.com/track/3bPAEgGdK9FyXM1HVFb9ub) | [Android52](https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG) | [Future Groove Product](https://open.spotify.com/album/10pbAphezzKrxAPk4G9OSf) | 4:52 | 2022-01-25 | 2022-04-16 |
 | [Mono](https://open.spotify.com/track/7rs3NuYZ7uQlEISOEKEu5x) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO) | [Mono](https://open.spotify.com/album/5kqOnB2l0sCByH4Makzsbn) | 3:07 | 2021-12-08 | 2022-07-26 |
 | [Mono \- Remix](https://open.spotify.com/track/557jUql0HOowUJNOeH2Dpv) | [Mere Notilde](https://open.spotify.com/artist/2d3wstlwe427Q7CamLXlpO), [MORLO](https://open.spotify.com/artist/29sJuUxrwcoScHDr2BMaDV) | [Mono \(Remix\)](https://open.spotify.com/album/20nZith2DuaQrq5XxBc40N) | 2:56 | 2022-01-25 | 2022-07-04 |
-| [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 | 2022-11-04 |  |
+| [Monstruo Japonés](https://open.spotify.com/track/3pNedfeY9kQLcsmMHrJoGU) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/4MogjIP4rcQCoxMXN7yMZP) | 4:10 | 2022-11-04 | 2023-05-08 |
 | [Monstruo Japonés](https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2) | 4:10 | 2022-08-12 | 2023-01-02 |
 | [Moonside](https://open.spotify.com/track/6fWWJ80UqYqVY2y9Acy2uz) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Moonside](https://open.spotify.com/album/2EOR7Yb1vYdtFk4jl9ckir) | 2:54 | 2022-06-08 | 2022-07-27 |
 | [Morale](https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Morale](https://open.spotify.com/album/1azX1aHJrqVGWqikHgXsRY) | 3:18 | 2021-12-08 | 2022-07-29 |
@@ -455,6 +455,7 @@
 | [Wasted Time](https://open.spotify.com/track/28irNbHZ0zC9XdfyxhQXGq) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [Wasted Time](https://open.spotify.com/album/3Ure9KlsMKrSto7dpNUcEX) | 6:03 | 2022-06-08 | 2022-07-29 |
 | [Waterbed](https://open.spotify.com/track/15CiCRHe9xxosbyf6S2Q60) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/1cjuAssWUepRNTprygXosp) | 2:57 | 2022-07-15 | 2022-10-18 |
 | [Waterbed](https://open.spotify.com/track/4soDPlAc6aPCu5V6k8xmMn) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed](https://open.spotify.com/album/20VeQi3QZOA3URSFqUUA7d) | 2:57 | 2022-04-12 | 2022-06-18 |
+| [Waterbed](https://open.spotify.com/track/7o8SoQa3426I2kgHMAybTr) | [Tendencies](https://open.spotify.com/artist/3HDU9AvCEdAsDIOX6BtgqK) | [Waterbed \(Deluxe\)](https://open.spotify.com/album/7mcfqMQNLeoYBiEqwJvgW7) | 2:57 | 2022-11-04 |  |
 | [We The People \- Skeleton Lipstick Remix](https://open.spotify.com/track/75L0L7Ke5OISvwX0RoONtI) | [Superflat](https://open.spotify.com/artist/5b4stUHH8NXrg63fgtzbT0), [Skeleton Lipstick](https://open.spotify.com/artist/05MvGEWQ5WcQVKnaQNzjdG), [Skeleton Lipstick Skeleton Lipstick Remix](https://open.spotify.com/artist/5IW717Qr8Ze9BEKFfHkfWD) | [We The People \(Skeleton Lipstick Remix\)](https://open.spotify.com/album/1xClQNgoXlHk5VMElYZvMK) | 3:28 | 2021-12-08 | 2022-07-17 |
 | [Welcome to the Disco](https://open.spotify.com/track/1aKRACWeXW0kXMhCWo35ub) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae 5](https://open.spotify.com/album/5FLLpTsSlcnlwrChf2LCWM) | 3:15 | 2021-12-08 | 2023-04-30 |
 | [Welcome to the Disco](https://open.spotify.com/track/4idgNC6Y7rd2XRfzPphIBw) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae 5](https://open.spotify.com/album/6UJAG0MN18jejyZTf4oDQj) | 3:15 | 2021-12-08 | 2022-03-22 |

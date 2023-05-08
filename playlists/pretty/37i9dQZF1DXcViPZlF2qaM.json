@@ -1,12 +1,12 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 43236,
+  "num_followers": 43282,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWM5MWI3MmUwNTU0OTQxZDdkMzE4N2RmNjc2MzFiN2MwOGM2YTA2",
+  "snapshot_id": "MCxmMjE2MGE0ZDBjNTZhNzI3NzUzY2FhNzJlODVmMDY2NzI1NjdkMjk3",
   "tracks": [
     {
       "added_at": "2022-04-25 16:15:40",
@@ -197,22 +197,6 @@
       "url": "https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf"
     },
     {
-      "added_at": "2022-04-04 18:08:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 155480,
-      "name": "DELIRIO DE GRANDEZA",
-      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
-    },
-    {
       "added_at": "2022-12-16 01:36:22",
       "album": {
         "name": "LQRA Session #9",
@@ -235,6 +219,22 @@
       "duration_ms": 188387,
       "name": "LQRA Session #9",
       "url": "https://open.spotify.com/track/33haHnjG4O7Jk0s4RpovFI"
+    },
+    {
+      "added_at": "2022-04-04 18:08:00",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "DELIRIO DE GRANDEZA",
+      "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
     },
     {
       "added_at": "2023-03-22 17:37:15",
@@ -417,6 +417,38 @@
       "url": "https://open.spotify.com/track/1xNi99xP8ioHUGXB5HrpNb"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Charanga Moderna",
+        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 160115,
+      "name": "El Watusi",
+      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+    },
+    {
+      "added_at": "2023-03-16 17:20:13",
+      "album": {
+        "name": "Ecos del Sur - 30 Aniversario (M\u00fasica Tradicional de Guerrero)",
+        "url": "https://open.spotify.com/album/7meW8Pb2g85SBNyUMewSUR"
+      },
+      "artists": [
+        {
+          "name": "Yolotecuani",
+          "url": "https://open.spotify.com/artist/66RQbOdMgC1I7Asw3Xy89g"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Son Guerrerense",
+      "url": "https://open.spotify.com/track/4iHtwXUsijjXjDyWIfGkem"
+    },
+    {
       "added_at": "2022-11-15 07:41:03",
       "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
@@ -437,36 +469,36 @@
       "url": "https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH"
     },
     {
-      "added_at": "2023-03-16 17:20:13",
+      "added_at": "2022-04-17 20:11:32",
       "album": {
-        "name": "Ecos del Sur - 30 Aniversario (M\u00fasica Tradicional de Guerrero)",
-        "url": "https://open.spotify.com/album/7meW8Pb2g85SBNyUMewSUR"
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE"
       },
       "artists": [
         {
-          "name": "Yolotecuani",
-          "url": "https://open.spotify.com/artist/66RQbOdMgC1I7Asw3Xy89g"
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
         }
       ],
-      "duration_ms": 344000,
-      "name": "Son Guerrerense",
-      "url": "https://open.spotify.com/track/4iHtwXUsijjXjDyWIfGkem"
+      "duration_ms": 173202,
+      "name": "Canci\u00f3n de Ba\u00f1ar la Luna",
+      "url": "https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-12-20 21:43:10",
       "album": {
-        "name": "Charanga Moderna",
-        "url": "https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 160115,
-      "name": "El Watusi",
-      "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
+      "duration_ms": 308346,
+      "name": "Pajarito colibr\u00ed",
+      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
     },
     {
       "added_at": "2022-12-07 04:48:22",
@@ -489,22 +521,6 @@
       "url": "https://open.spotify.com/track/0cb9Ov9eC2eFxac6bCcUZl"
     },
     {
-      "added_at": "2022-12-20 21:43:10",
-      "album": {
-        "name": "De Todas las Flores",
-        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 308346,
-      "name": "Pajarito colibr\u00ed",
-      "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Sicod\u00e9licos",
@@ -519,22 +535,6 @@
       "duration_ms": 212466,
       "name": "Guajira Sicod\u00e9lica",
       "url": "https://open.spotify.com/track/0oucyVmfZtpU608vpYA1rs"
-    },
-    {
-      "added_at": "2022-04-17 20:11:32",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Canci\u00f3n de Ba\u00f1ar la Luna",
-      "url": "https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb"
     },
     {
       "added_at": "2023-01-02 21:51:32",
@@ -675,18 +675,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
       },
       "artists": [
         {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
         }
       ],
-      "duration_ms": 146133,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 231653,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI"
     },
     {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Cumbias Imaquinarias - EP",
+        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "La Cumbia Del Cafe Martinez",
+      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
+    },
+    {
       "added_at": "2022-09-16 04:53:10",
       "album": {
         "name": "traguito",
@@ -947,22 +963,6 @@
       "duration_ms": 160306,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Cumbias Imaquinarias - EP",
-        "url": "https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "La Cumbia Del Cafe Martinez",
-      "url": "https://open.spotify.com/track/7IuUjEcv8BWqnUSIqWJP8O"
     },
     {
       "added_at": "2021-10-16 00:59:30",

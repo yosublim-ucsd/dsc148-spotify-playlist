@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Zuchu
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,568 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,639 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EbcelyrZPd.md) - [plain]
 | 69 | [Whine 4 Me \(feat\. Vanillah\)](https://open.spotify.com/track/6o8Ah4wcVQw88DN8O5RsR8) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Vanillah](https://open.spotify.com/artist/2KFj5D3aDGmnAyHrvLegtI) | [Whine 4 Me \(feat\. Vanillah\)](https://open.spotify.com/album/6Qf9oIZtf7Gxf1SGfCSf81) | 2:42 |
 | 70 | [Weed Language](https://open.spotify.com/track/5ahL0qjX0KAU237OlSb490) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Weed Language](https://open.spotify.com/album/5Bzj4LfwaK9ngS4Kbrv4De) | 4:05 |
 
-Snapshot ID: `MCwzOGI5OGZlZjdmMjA0MThkYjMxNDI3MDczZjM3MzEwMTcyNjRjYzFj`
+Snapshot ID: `MCxmNjg5YzU1MTI2NjMwMGE0M2JhZDJhYTRkMGIzOGYyOWRhMTNkYmYw`

@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Shironamhin
 
-217 songs - 18 hr 49 min
+218 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Sheishob Din Raatri](https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:30 | 2023-02-28 |  |
 | [Shey Amare](https://open.spotify.com/track/0nkJfYDa3wb28oWuR29Qi3) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/3iFjGwNdRHb4xv8Pz0Wx9s) | 6:02 | 2023-02-17 |  |
 | [Shey Amare](https://open.spotify.com/track/5Wf3eV9Y0WI8kBRR6RgJcD) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Shey Amare](https://open.spotify.com/album/4zdE65VrMlQnCHEyDqRQnX) | 6:02 | 2023-02-17 | 2023-02-28 |
+| [Shobi Bhul](https://open.spotify.com/track/1vik7PwReRv1NDQwzaTPGl) | [Bashundhara Digital](https://open.spotify.com/artist/4hgPeiCHDXO4pfLHC3nEpS), [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Shobi Bhul](https://open.spotify.com/album/4EGYQILxGlrlZVOXh8fTve) | 4:38 | 2023-05-07 |  |
 | [Shoinik](https://open.spotify.com/track/0bFIj6j8BGoGr4F7lMxpbz) | [Hallucination](https://open.spotify.com/artist/19KFB4cmXVPZKalVqcmYwc) | [Krittrim Prithibi Deluxe Edition](https://open.spotify.com/album/5M6AUAozRRgCbtISw3gRCI) | 4:28 | 2022-09-23 | 2022-12-01 |
 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 | 2022-06-16 | 2023-03-08 |
 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 | 2022-07-15 | 2023-03-16 |

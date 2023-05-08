@@ -1,12 +1,12 @@
 {
   "description": "All the Punk Rock that you need in your life. Cover: Rancid",
-  "num_followers": 878064,
+  "num_followers": 878232,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTUwOTJiNDY5N2RkMWE4YjRiNDgyZDYwZmQ5ZjJhOTU1ZWUyODQ4",
+  "snapshot_id": "MCw5MTJjYjA3M2RlZjFkMTA0ZGM5NjA0ZDU5YWU2MDZiZjBlY2Y3ZTI1",
   "tracks": [
     {
       "added_at": "2022-12-12 13:46:07",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "Pennywise (2005 Remaster)",
         "url": "https://open.spotify.com/album/5NHEi9LvFF2IEOct2BTUMt"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 180893,
       "name": "Bro Hymn - 2005 Remaster",
       "url": "https://open.spotify.com/track/1ybhXkz4S8k9fdBZNBan7L"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
     },
     {
-      "added_at": "2023-05-07 01:42:00",
+      "added_at": "2023-05-08 01:37:46",
       "album": {
         "name": "The Meanest Of Times",
         "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "Crimson",
         "url": "https://open.spotify.com/album/1nbbNU8TtGkPtYlLpmP1ZY"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 169497,
       "name": "Mercy Me",
       "url": "https://open.spotify.com/track/2YrB3vM3H7TcXZ0rAq4X8Y"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
+        "name": "New Wave (U.S. Version)",
+        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
+      },
+      "artists": [
+        {
+          "name": "Against Me!",
+          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
+        }
+      ],
+      "duration_ms": 254200,
+      "name": "Thrash Unreal",
+      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 194960,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
-        "name": "New Wave (U.S. Version)",
-        "url": "https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq"
-      },
-      "artists": [
-        {
-          "name": "Against Me!",
-          "url": "https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl"
-        }
-      ],
-      "duration_ms": 254200,
-      "name": "Thrash Unreal",
-      "url": "https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "They Came From The Shadows",
-        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
-      },
-      "artists": [
-        {
-          "name": "Teenage Bottlerocket",
-          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Skate or Die",
-      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
-    },
-    {
-      "added_at": "2022-12-12 13:46:07",
-      "album": {
         "name": "How I Spent My Summer Vacation",
         "url": "https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2022-12-12 13:46:07",
       "album": {
-        "name": "Cool to Be You",
-        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+        "name": "They Came From The Shadows",
+        "url": "https://open.spotify.com/album/3ly3cAdJJ0anuETQ6HFkde"
       },
       "artists": [
         {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+          "name": "Teenage Bottlerocket",
+          "url": "https://open.spotify.com/artist/0mGyXXKzoR5KAAh4Mkef2W"
         }
       ],
-      "duration_ms": 111200,
-      "name": "'Merican",
-      "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
+      "duration_ms": 110800,
+      "name": "Skate or Die",
+      "url": "https://open.spotify.com/track/1dkGTWxlpBpcFl3AfAPCcj"
     },
     {
       "added_at": "2022-12-12 13:46:07",
@@ -793,7 +777,7 @@
       "url": "https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV"
     },
     {
-      "added_at": "2023-05-07 01:42:00",
+      "added_at": "2023-05-08 01:37:46",
       "album": {
         "name": "White Crosses",
         "url": "https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ"
@@ -807,6 +791,22 @@
       "duration_ms": 195160,
       "name": "I Was a Teenage Anarchist",
       "url": "https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1"
+    },
+    {
+      "added_at": "2022-12-12 13:46:07",
+      "album": {
+        "name": "Cool to Be You",
+        "url": "https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "'Merican",
+      "url": "https://open.spotify.com/track/2BY2O9OybmxpND0DqNgx97"
     }
   ],
   "unique_name": "Punk Essentials",

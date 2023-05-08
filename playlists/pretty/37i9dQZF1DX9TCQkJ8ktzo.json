@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 60s! Cover: Roc\u00edo D\u00farcal",
-  "num_followers": 23546,
+  "num_followers": 23574,
   "original_name": "60s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODY5MzFjOTVlYTcyNzcxM2IzMjRiNWQwNGFmZTcyYTA2NWJjMzUz",
+  "snapshot_id": "MCw5ZmQ4MWVkOGNlY2QxOTBhY2RkN2M5ZjE3MzQwZDZhYjczNzEzZDQy",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:27",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "El Tango",
-        "url": "https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF"
+        "name": "Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
       },
       "artists": [
         {
-          "name": "Astor Piazzolla",
-          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
         }
       ],
-      "duration_ms": 298773,
-      "name": "Adios Nonino",
-      "url": "https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1"
+      "duration_ms": 186533,
+      "name": "Lleg\u00f3 Borracho el Borracho",
+      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf"
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/6rbmGTxk35qKQFE3MAXrgF"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Alfredo Jimenez",
-          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
         }
       ],
-      "duration_ms": 186533,
-      "name": "Lleg\u00f3 Borracho el Borracho",
-      "url": "https://open.spotify.com/track/6ozLQ1wSAPmS7LVsHA0CdX"
+      "duration_ms": 298773,
+      "name": "Adios Nonino",
+      "url": "https://open.spotify.com/track/5Ue0yZP0pmesWTQMvZmqL1"
     },
     {
       "added_at": "2023-02-17 20:56:27",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-02-17 20:56:27",
       "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 126096,
-      "name": "Chica Alborotada",
-      "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
-    },
-    {
-      "added_at": "2023-02-17 20:56:27",
-      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 141240,
       "name": "Muchacha Bonita",
       "url": "https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2"
+    },
+    {
+      "added_at": "2023-02-17 20:56:27",
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 126096,
+      "name": "Chica Alborotada",
+      "url": "https://open.spotify.com/track/0W62JgZBk3ViiqOxypCyoC"
     },
     {
       "added_at": "2023-02-17 20:56:27",

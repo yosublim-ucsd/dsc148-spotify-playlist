@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "The ZZ Top Sixpack",
+        "url": "https://open.spotify.com/album/7qiuWLGm20GqQ19ykHbGAF"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184293,
+      "name": "Tube Snake Boogie",
+      "url": "https://open.spotify.com/track/0KbtyQ2oKJWiFJz5wY4HBX"
+    },
+    {
+      "album": {
         "name": "RAW ('That Little Ol' Band From Texas' Original Soundtrack)",
         "url": "https://open.spotify.com/album/2sXtcMxeUDyYrGZ6hiYWBh"
       },
@@ -1190,7 +1208,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 186146,
       "name": "Tube Snake Boogie",
       "url": "https://open.spotify.com/track/7fuEQbsUxgUpnvwuHl2S0Q"

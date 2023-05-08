@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-156 songs - 13 hr 44 min
+157 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Resta cu' 'mme](https://open.spotify.com/track/1D764Rj1VMCMXagvqYPhKi) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Bella](https://open.spotify.com/album/5je9NSA5d4IxGAfWqDemlA) | 3:50 | 2022-02-11 | 2022-02-23 |
 | [San Lorenzo](https://open.spotify.com/track/4URvOqZEpHoluNp7haMeOL) | [Kocleo](https://open.spotify.com/artist/4cwrq8imMfkANc1FtHhtpp) | [San Lorenzo](https://open.spotify.com/album/1QOo8G0mlEPqqpYtm0VHwP) | 6:25 | 2022-02-11 | 2022-07-29 |
 | [San Salvador \- Single Version](https://open.spotify.com/track/1bbKMyqOonDvx4DWGowoMD) | [Azoto](https://open.spotify.com/artist/6vjdSVEAtbHLzrVbyLeGVn) | [Disco Fizz \(Expanded Edition\)](https://open.spotify.com/album/7Bq1EVEcBfVDP7rUQn10gk) | 3:05 | 2022-02-11 |  |
+| [Sciura Milanese](https://open.spotify.com/track/5YTv2jGYKy2TUpKvTgvYuY) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Sciura Milanese](https://open.spotify.com/album/249ujnw9iFNdxE4FlFCvJ2) | 3:10 | 2023-04-19 |  |
 | [Self Control](https://open.spotify.com/track/42FUNUTTu4dhDhca834rd6) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self Control](https://open.spotify.com/album/21b81zT8l4tMrhlpA52Nev) | 3:58 | 2022-07-01 |  |
 | [Self Control](https://open.spotify.com/track/70VXILTu9LqZNDc1VmqDGg) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Self control](https://open.spotify.com/album/7AYodrNIhuRvYAsMcfzBdP) | 3:58 | 2022-02-11 | 2022-07-29 |
 | [Sequenzer Dream](https://open.spotify.com/track/7fdfRaVdkyheun62BMDLth) | [Aldo Bergamachine](https://open.spotify.com/artist/61xxNR0VR7Nz0sI5FyXy66) | [Astromoog](https://open.spotify.com/album/0jta0ryUn1qVuaqlteavhp) | 4:36 | 2022-02-11 | 2022-07-14 |
@@ -160,7 +161,7 @@
 | [Walking On Music \- Edit Version](https://open.spotify.com/track/394DVN16mMLKhGmCQNGPoT) | [Peter Jacques Band](https://open.spotify.com/artist/3obOTYzd1x51MamVaLYVmm) | [Fire Night Dance \(Original Album and Rare Tracks\)](https://open.spotify.com/album/24kjiIUBOUE3UX6Llc1WKS) | 3:46 | 2022-02-11 | 2022-05-14 |
 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 | 2022-10-07 |  |
 | [Wind of Change](https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1) | [Fred Ventura](https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC) | [Disco Modernism \(1983 \- 2008\)](https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu) | 6:11 | 2022-02-11 |  |
-| [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 | 2022-02-11 |  |
+| [Wojtila 5\. Disco Dance](https://open.spotify.com/track/3VzAUp9l8EnSyFml7qcfGX) | [Freddy The Flying Dutchman](https://open.spotify.com/artist/1Drn479MaleSdzEHRlS8pb), [The Sistina Band](https://open.spotify.com/artist/4npk6Y0jtPoRiqNg3n2LDL) | [Italo Disco \- Essential Italian Disco Classics 1977\-1985](https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA) | 4:26 | 2022-02-11 | 2023-05-08 |
 | [Ça va? Je T'aime! \(feat\. EMMANUELLE\) \- Club Domani Remix](https://open.spotify.com/track/7nQcp3MktbBxhHLiM1skdY) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/04MDrNhNNtY4Rj506ZTHAo) | 3:45 | 2022-06-17 | 2022-07-29 |
 | [Ça va? Je t’aime! \(feat\. EMMANUELLE\)](https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça Va? Je t'aime! \(Feat\. EMMANUELLE\)](https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua) | 3:28 | 2022-07-01 |  |
 | [Ça va? Je t’aime! \- Feat\. EMMANUELLE](https://open.spotify.com/track/5FOhiZAJlPOIGBsIsnbNRC) | [Protopapa](https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [Ça va? Je t’aime! \(Feat\. Emmanuelle\)](https://open.spotify.com/album/4mn91zVzcoYysheAEd4bYJ) | 3:28 | 2022-04-26 | 2022-07-30 |

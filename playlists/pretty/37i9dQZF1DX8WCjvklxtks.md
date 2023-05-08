@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WCjvklxtks.md) - [plain]
 
 > A raspar las botas con las más bailables de la banda\. La Adictiva Banda San José de Mesillas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,087 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,168 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WCjvklxtks.md) - [plain]
 | 49 | [Pequeña De Ojos Brujos](https://open.spotify.com/track/11tKgwnryAHa6om6OjIZhX) | [Los Elegantes de la Banda](https://open.spotify.com/artist/1eDU6zze1IhtqUGcLu026H) | [Comandos de Michoacán](https://open.spotify.com/album/6fV1noTc4bEO1CfW8wkoFA) | 3:02 |
 | 50 | [Quítate El Zapato](https://open.spotify.com/track/0NSg3mf1Zjvf4PafCQCB2Q) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [Me Hacían Falta Huevos](https://open.spotify.com/album/1VcgV7OkxAxXLKTpnSBGJI) | 3:18 |
 
-Snapshot ID: `MCw5MzQ4YTgwZTVmNmEzMmViMmIxMDdhYTQ2N2E1NzM0MWZmZDJkMzFh`
+Snapshot ID: `MCxmNDFlYzk5MGQxZDg2ZjRiMmIwOGExODhhYjY1ZGQ5ZmNhZmQ4ODgw`

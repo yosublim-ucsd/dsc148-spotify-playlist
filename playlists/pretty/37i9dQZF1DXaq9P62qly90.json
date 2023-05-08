@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTRiNzdiMDNlOTdhMTg1M2FhNTg0M2MxMjg0MjIyNTczNGJmNTI5",
+  "snapshot_id": "MCw0YzczZjM2YmU1ZTNiYzUzYmIyYTVkNmU0ZDhjYjljYzc5NjcxZTRi",
   "tracks": [
     {
       "added_at": "2023-01-03 17:09:40",
@@ -587,38 +587,6 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "You're It!",
-        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
-      },
-      "artists": [
-        {
-          "name": "Wookiefoot",
-          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Don't Hold Your Breath",
-      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
-        "name": "The Fruitful Darkness",
-        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 239312,
-      "name": "Moon / Sun",
-      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
-    },
-    {
-      "added_at": "2023-01-03 17:09:40",
-      "album": {
         "name": "Sugarshack Sessions Selects, Vol. 1",
         "url": "https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS"
       },
@@ -647,18 +615,50 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Low Tide",
-        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
+        "name": "The Fruitful Darkness",
+        "url": "https://open.spotify.com/album/4ahv1YI2hpYOtXZsTIqYyG"
       },
       "artists": [
         {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Warm Under the Light",
-      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
+      "duration_ms": 239312,
+      "name": "Moon / Sun",
+      "url": "https://open.spotify.com/track/6Nr0StlllyYFmJoIYFVAsr"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "You're It!",
+        "url": "https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S"
+      },
+      "artists": [
+        {
+          "name": "Wookiefoot",
+          "url": "https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Don't Hold Your Breath",
+      "url": "https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te"
+    },
+    {
+      "added_at": "2023-01-03 17:09:40",
+      "album": {
+        "name": "My Name Is Bear",
+        "url": "https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor"
+      },
+      "artists": [
+        {
+          "name": "Nahko",
+          "url": "https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S"
+        }
+      ],
+      "duration_ms": 285480,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "My Name Is Bear",
-        "url": "https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor"
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/3K7A6Y2B2pRIuIG779YQ5f"
       },
       "artists": [
         {
-          "name": "Nahko",
-          "url": "https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 285480,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf"
+      "duration_ms": 234000,
+      "name": "Warm Under the Light",
+      "url": "https://open.spotify.com/track/0BKLqsA3UH88WgyGGhJy6W"
     },
     {
       "added_at": "2023-01-03 17:09:40",
@@ -817,44 +817,20 @@
       "url": "https://open.spotify.com/track/4qKOmcvaDx0hYHdOCqq90L"
     },
     {
-      "added_at": "2023-01-06 05:00:00",
+      "added_at": "2023-01-03 17:09:40",
       "album": {
-        "name": "Fly Away",
-        "url": "https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm"
+        "name": "Heroin and Helicopters",
+        "url": "https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1"
       },
       "artists": [
         {
-          "name": "Starling Arrow",
-          "url": "https://open.spotify.com/artist/67EFNAHiiYqTew9dzK2QhC"
-        },
-        {
-          "name": "Marya Stark",
-          "url": "https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d"
-        },
-        {
-          "name": "Ayla Nereo",
-          "url": "https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1"
-        },
-        {
-          "name": "Tina Malia",
-          "url": "https://open.spotify.com/artist/1c0uQiM5LLHE4juxlFn1Q2"
-        },
-        {
-          "name": "Chloe Smith",
-          "url": "https://open.spotify.com/artist/7lLK9mKP9CJuRhIR5URoFg"
-        },
-        {
-          "name": "Leah Song",
-          "url": "https://open.spotify.com/artist/2aYGkbB8xdACbyp7BYR8Gv"
-        },
-        {
-          "name": "Rising Appalachia",
-          "url": "https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci"
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
         }
       ],
-      "duration_ms": 274093,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR"
+      "duration_ms": 239280,
+      "name": "Caribbean Skies",
+      "url": "https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI"
     },
     {
       "added_at": "2023-01-03 17:09:40",

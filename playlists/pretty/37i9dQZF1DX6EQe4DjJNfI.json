@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Yas Werneck",
-  "num_followers": 159855,
+  "num_followers": 159868,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjE1YmRhMTczZGY2OGMwNjk4ZjJkZjE3ZjdiNDNlMTlhNDhjNTA2",
+  "snapshot_id": "MCxiZTMwOGVjZjc2ZDBmZDQyMDQ3YmVhNDE1MDEyZDNlM2U0ZDJlNDI1",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Localiza\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Localiza\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Caos",
         "url": "https://open.spotify.com/album/5rTyg8j1ZT8hJFcWbO63sD"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 180000,
       "name": "Caos",
       "url": "https://open.spotify.com/track/4VhNzb4En46y2hHNYDl92c"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Localiza\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/722X2OqhnEkVCk1kDP3IMl"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Localiza\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5UeR1CuDo4rrSjK3RyD0nV"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 215757,
       "name": "Te Ouvir",
       "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 184489,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -735,38 +735,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Tudo Que Restou",
-        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Natalh\u00e3o",
-          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Tudo Que Restou",
-      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -815,6 +783,38 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Tudo Que Restou",
+        "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Natalh\u00e3o",
+          "url": "https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Tudo Que Restou",
+      "url": "https://open.spotify.com/track/74toZVkoAZ54tqvZUq9SUd"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -827,50 +827,6 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -895,6 +851,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43"
       },
@@ -911,6 +887,22 @@
       "duration_ms": 156000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -967,6 +959,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+      },
+      "artists": [
+        {
+          "name": "Feh",
+          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Roupa de Ontem",
         "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
       },
@@ -983,42 +991,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
       },
       "artists": [
         {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
         },
         {
-          "name": "Izy Castelano",
-          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1047,18 +1039,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
       },
       "artists": [
         {
-          "name": "Feh",
-          "url": "https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP"
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "Izy Castelano",
+          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
         }
       ],
-      "duration_ms": 159375,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr"
+      "duration_ms": 226206,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Estou Aqui",
-        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
-      },
-      "artists": [
-        {
-          "name": "INAHUGO",
-          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
-        }
-      ],
-      "duration_ms": 227234,
-      "name": "Del\u00edrio",
-      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Uma Chance Pra Ficar Tudo bem",
         "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
@@ -1115,22 +1099,6 @@
       "duration_ms": 154290,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1155,22 +1123,34 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/6Xz4M5yXXEOgAljSsV1MkV"
+        "name": "Estou Aqui",
+        "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
       "artists": [
         {
-          "name": "Klayver Kazz",
-          "url": "https://open.spotify.com/artist/2Z2rOubqtfS2Pg7yZsiPJv"
-        },
-        {
-          "name": "Xavier2bit",
-          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+          "name": "INAHUGO",
+          "url": "https://open.spotify.com/artist/7mDupUmoe1y83y1XP5lQGR"
         }
       ],
-      "duration_ms": 188717,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0afH6dozAUehE0yJB7FMUg"
+      "duration_ms": 227234,
+      "name": "Del\u00edrio",
+      "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 133565,
       "name": "inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/6Xz4M5yXXEOgAljSsV1MkV"
+      },
+      "artists": [
+        {
+          "name": "Klayver Kazz",
+          "url": "https://open.spotify.com/artist/2Z2rOubqtfS2Pg7yZsiPJv"
+        },
+        {
+          "name": "Xavier2bit",
+          "url": "https://open.spotify.com/artist/5b3JwpsWnUgqkDNAsoJWwV"
+        }
+      ],
+      "duration_ms": 188717,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0afH6dozAUehE0yJB7FMUg"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1251,30 +1251,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Seu Bem",
-        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
-      },
-      "artists": [
-        {
-          "name": "LEXY",
-          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
-        },
-        {
-          "name": "Batista",
-          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
-        },
-        {
-          "name": "RZ",
-          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Seu Bem",
-      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Mergulhei",
         "url": "https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps"
       },
@@ -1307,18 +1283,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "incenso",
-        "url": "https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D"
+        "name": "Seu Bem",
+        "url": "https://open.spotify.com/album/50ZHYvn0wbeJoKHt65kU5l"
       },
       "artists": [
         {
-          "name": "Camargo",
-          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+          "name": "LEXY",
+          "url": "https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd"
+        },
+        {
+          "name": "Batista",
+          "url": "https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp"
+        },
+        {
+          "name": "RZ",
+          "url": "https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf"
         }
       ],
-      "duration_ms": 143022,
-      "name": "incenso",
-      "url": "https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f"
+      "duration_ms": 207000,
+      "name": "Seu Bem",
+      "url": "https://open.spotify.com/track/4WIHw5omFiZSVUl52GsVUG"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1335,6 +1319,22 @@
       "duration_ms": 183531,
       "name": "LIN9ERIE",
       "url": "https://open.spotify.com/track/31pFOOZmHH4eLlYFXmlkeN"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "incenso",
+        "url": "https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D"
+      },
+      "artists": [
+        {
+          "name": "Camargo",
+          "url": "https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f"
+        }
+      ],
+      "duration_ms": 143022,
+      "name": "incenso",
+      "url": "https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
-      },
-      "artists": [
-        {
-          "name": "Mariah Nala",
-          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
-        }
-      ],
-      "duration_ms": 148869,
-      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
-      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Tanto Querer",
         "url": "https://open.spotify.com/album/4UbZ7isvuoDykLIN9Qb98C"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 196363,
       "name": "Tanto Querer",
       "url": "https://open.spotify.com/track/4ctAt6FuCTZfXYsO8cReLj"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Mariah Nala no Studio F (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67"
+      },
+      "artists": [
+        {
+          "name": "Mariah Nala",
+          "url": "https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC"
+        }
+      ],
+      "duration_ms": 148869,
+      "name": "Sem Voc\u00ea (Ac\u00fastico no Studio F)",
+      "url": "https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt"
     },
     {
       "added_at": "2023-04-28 03:01:00",

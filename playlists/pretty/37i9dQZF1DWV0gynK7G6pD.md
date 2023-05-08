@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: María Duenas
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,344 likes - 92 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,426 likes - 92 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 91 | [Variations on a Theme of Schumann, Op\. 23: I\. Theme: Andante, Leise und innig \(Arr\. for Orchestra by Robin Holloway\)](https://open.spotify.com/track/1aa6r1zwWjUXTneOMJhTVR) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [BBC Symphony Orchestra](https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO), [Paul Mann](https://open.spotify.com/artist/4LSkuhBGTuKDkaAhEzDaJO) | [Brahms by Arrangement, Vol\. Two: Orchestrations by Robin Holloway](https://open.spotify.com/album/7pg9fZ0nwThavfLydI7FEV) | 1:32 |
 | 92 | [Concerto No.1 for Viola and Orchestra, Op\. 7: III\. Allegro \- Presto](https://open.spotify.com/track/4NIsitBMPZN16pVXZ843CY) | [Airat Ichmouratov](https://open.spotify.com/artist/2dkym0Bb1cIWiyIZWiRT8E), [Elvira Misbakhova](https://open.spotify.com/artist/1TmhJmSvk7r0CbIRjMxhcO), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Ichmouratov: Concerto No.1 for Viola and Orchestra, Op\. 7: III\. Allegro \- Presto](https://open.spotify.com/album/4NcqNIPfYI6ozKma6Kj80b) | 6:57 |
 
-Snapshot ID: `MCw2YmZjYjkzY2UzYmI0MTdhMTYyYzVkMWJkZTZhNDg2NWU5NzIzZmZm`
+Snapshot ID: `MCwzZWFmOGMzMDI0YjVhM2M0OGRhOWQyMjFhMmE2Y2Y4ZDhiMDA5OGM0`

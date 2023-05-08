@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 8083,
+  "num_followers": 8086,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBkZWFlMTIwYTA1ODc1MWJlNmNmZmRkZjYxYzM2YTFlMzAyODVi",
+  "snapshot_id": "MCw4ZGQ5MWNjODkxY2EwMzZkYjM2OGIyNjgzMWUwNzkwYTg1ODg2OWIz",
   "tracks": [
     {
       "added_at": "2023-03-31 06:00:00",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/7no56lxy8LQY6zHWNmGqIG"
     },
     {
-      "added_at": "2023-04-21 02:57:37",
-      "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
-      },
-      "artists": [
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 145285,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
-    },
-    {
       "added_at": "2023-03-31 06:00:00",
       "album": {
         "name": "Morbo's Club",
@@ -907,6 +891,22 @@
       "duration_ms": 249026,
       "name": "Ruperta",
       "url": "https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM"
+    },
+    {
+      "added_at": "2023-04-21 02:57:37",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/5X8S69HVzok5dsfLRcoRVA"
+      },
+      "artists": [
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 145285,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/32cN25vFyAg3SlY5UrwNyr"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Invasion",
-        "url": "https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d"
-      },
-      "artists": [
-        {
-          "name": "Skaterrestres",
-          "url": "https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO"
-        }
-      ],
-      "duration_ms": 57600,
-      "name": "Como un Minuto",
-      "url": "https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "Una cosa es el ska y otra cosa es el rocksteady",
         "url": "https://open.spotify.com/album/6O50zOjFZO8TeOxE9IfUBs"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 209442,
       "name": "Me cambiaste la vida",
       "url": "https://open.spotify.com/track/0ryQ6jI5uGf8oymICMTpRH"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Invasion",
+        "url": "https://open.spotify.com/album/778rPdFwvmW6CItfpQph1d"
+      },
+      "artists": [
+        {
+          "name": "Skaterrestres",
+          "url": "https://open.spotify.com/artist/6DPMHNkqHRSvsxYxzbDEpO"
+        }
+      ],
+      "duration_ms": 57600,
+      "name": "Como un Minuto",
+      "url": "https://open.spotify.com/track/4AO65tvVdVNVUwH3TSt4Az"
     },
     {
       "added_at": "2023-03-31 06:00:00",

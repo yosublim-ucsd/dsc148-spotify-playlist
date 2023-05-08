@@ -4,7 +4,7 @@
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-419 songs - 1 day 3 hr 51 min
+420 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Secretos](https://open.spotify.com/track/1MH7CE7NBhn3kdmFEfeBhn) | [Alejandro Lerner](https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J) | [Amor Infinito](https://open.spotify.com/album/7JOaaaN8g6NnPUcDSGsHxZ) | 3:54 | 2021-12-21 |  |
 | [Sera El Angel](https://open.spotify.com/track/65M5QjsLxRDIey3xf3jqKx) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Contigo Nunca Mas](https://open.spotify.com/album/11pYTryJVKE3oWflyJ0y2F) | 3:39 | 2021-12-21 | 2022-07-29 |
 | [Sera Porque Te Amo](https://open.spotify.com/track/04Xdk7F9HgyHBcAwO7KE3F) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Exclusive Ricchi E Poveri \- 15 Exitos](https://open.spotify.com/album/3MfTllqbkiNWZuaxoenGhC) | 3:10 | 2021-12-21 |  |
+| [Será El Ángel](https://open.spotify.com/track/0nQ8TJmAJ586QtI9rxppqt) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Contigo Nunca Más](https://open.spotify.com/album/7gvFKSCpxihh8AG9ANIQyy) | 3:39 | 2021-12-21 |  |
 | [Seré](https://open.spotify.com/track/0obZNcrCzraxd9HtiGmlhj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reflexiones](https://open.spotify.com/album/6hZZNzrBKUgGdXw2MtyzLZ) | 3:10 | 2021-12-21 |  |
 | [Si Me Llevas Contigo](https://open.spotify.com/track/1qT0L6pthEl5rabF7KrqyP) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Si Me Llevas Contigo](https://open.spotify.com/album/3vwxHo7e2kW7r2hG8WjbbC) | 3:29 | 2021-12-21 | 2022-07-15 |
 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 | 2021-12-21 |  |
@@ -415,7 +416,7 @@
 | [Yo Te Pido Amor](https://open.spotify.com/track/6f1Whd7Apj4ldtVU1AefNC) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Yo Te Pido Amor](https://open.spotify.com/album/6asdjHY4Ka80gFxOKio1kE) | 3:46 | 2021-12-21 | 2022-07-29 |
 | [¡Ay Amor!](https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Pecado Original](https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe) | 3:21 | 2021-12-21 |  |
 | [¡Oh Mamá! Ella Me Ha Besado](https://open.spotify.com/track/5tQj4QVkWpb0EqfpVaOYBk) | [Pablo Ruiz](https://open.spotify.com/artist/5BLxach4cxTAK3Pg0Nu2r2) | [Un Angel](https://open.spotify.com/album/3KRX9wsF1xs0BaIQldrhp2) | 3:31 | 2021-12-21 |  |
-| [¿Cómo, cuándo y porqué \- Why Do I Love You So](https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Mi tributo a Juan Gabriel](https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3) | 3:45 | 2021-12-21 |  |
+| [¿Cómo, cuándo y porqué \- Why Do I Love You So](https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Mi tributo a Juan Gabriel](https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3) | 3:45 | 2021-12-21 | 2023-05-08 |
 | [¿Donde Están?](https://open.spotify.com/track/4svFtvFAitlF833rgaDW22) | [Sentidos Opuestos](https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq) | [Viviendo Del Futuro](https://open.spotify.com/album/61QXrezlQ97RAus6JvzCSk) | 4:29 | 2021-12-21 |  |
 | [¿Porqué te vas?](https://open.spotify.com/track/11rsK9GDZ9UdWsxtDqnMmN) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:21 | 2021-12-21 |  |
 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 | 2021-12-21 |  |

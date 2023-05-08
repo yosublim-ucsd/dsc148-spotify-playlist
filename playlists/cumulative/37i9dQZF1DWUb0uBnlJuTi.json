@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Palace Of A Thousand Sounds",
+        "url": "https://open.spotify.com/album/3G13hsNxAyjz5FVQO0Si4G"
+      },
+      "artists": [
+        {
+          "name": "Whatitdo Archive Group",
+          "url": "https://open.spotify.com/artist/0unbh6hstakLyzQ09UezhO"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189573,
+      "name": "Astral-Desia",
+      "url": "https://open.spotify.com/track/3aVrq7StWOPGwFS0SV2qkN"
+    },
+    {
+      "album": {
         "name": "Astral-Desia",
         "url": "https://open.spotify.com/album/6w6rcjZvz04Rd8i4Y6OzYQ"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 189573,
       "name": "Astral-Desia",
       "url": "https://open.spotify.com/track/3nw1ENzEAOM20W9mlCzdi4"
@@ -4042,8 +4060,8 @@
       },
       "artists": [
         {
-          "name": "WAX",
-          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/72STzMOsaKlMfOWis0NzXT"
         }
       ],
       "date_added": "2023-05-05",

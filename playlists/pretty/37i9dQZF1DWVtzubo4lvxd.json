@@ -1,12 +1,12 @@
 {
   "description": "Chill lo-fi beats to enjoy a great afternoon.",
-  "num_followers": 108989,
+  "num_followers": 109218,
   "original_name": "Sunset Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmFjYWM4NGRkYTAzMWZmYTQ3NThiMjI3NGE5MzBjZjg5NGVlMjk1",
+  "snapshot_id": "MCw4NWIyZGQ0MTYzNjk3YWEyZjRmOGZmYmY1ZGEzZjllYjk4NWFkYjEx",
   "tracks": [
     {
       "added_at": "2022-04-15 12:09:52",
@@ -247,6 +247,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "rainy evening",
+        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
+      },
+      "artists": [
+        {
+          "name": "Idealism",
+          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
+        }
+      ],
+      "duration_ms": 109948,
+      "name": "nagashi",
+      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "With U",
         "url": "https://open.spotify.com/album/5YuMyydKScBvKXbYii0AH3"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 218666,
       "name": "With U",
       "url": "https://open.spotify.com/track/0rNpm25xLsckCS9JPAgpwP"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "rainy evening",
-        "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
-      },
-      "artists": [
-        {
-          "name": "Idealism",
-          "url": "https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD"
-        }
-      ],
-      "duration_ms": 109948,
-      "name": "nagashi",
-      "url": "https://open.spotify.com/track/6vmPUsrVk873GWkJwygHKD"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "another.wun",
-        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 105789,
-      "name": "another.wun",
-      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/2dYxugKzxoX6phylPQ2I2x"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 110305,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6trLPOBjf8nWjMtl5PibbV"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "another.wun",
+        "url": "https://open.spotify.com/album/5H01iddYzVjiMY7CcMFpnS"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 105789,
+      "name": "another.wun",
+      "url": "https://open.spotify.com/track/1RaKBL6CSERv4lzPRKgg56"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "long ago.",
-        "url": "https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6"
-      },
-      "artists": [
-        {
-          "name": "halberd",
-          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
-        }
-      ],
-      "duration_ms": 126087,
-      "name": "long ago.",
-      "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/2CDgkWRxarrpI449ZgYhLw"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 128372,
       "name": "Vibes",
       "url": "https://open.spotify.com/track/2IZzKwuk34ndrAHSTSHTsB"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "long ago.",
+        "url": "https://open.spotify.com/album/63BlmEk69qFmjJbO9n4Jb6"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        }
+      ],
+      "duration_ms": 126087,
+      "name": "long ago.",
+      "url": "https://open.spotify.com/track/7BdazOnsFvAkQGyrp2djJM"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "The Blyat Tapes,Vol.1",
-        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
-      },
-      "artists": [
-        {
-          "name": "DVLTVN",
-          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
-        }
-      ],
-      "duration_ms": 85514,
-      "name": "Dont.Be.Afraid.",
-      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "ep seeds",
         "url": "https://open.spotify.com/album/2vxePUlbaM0O8bormn1Pgf"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 181638,
       "name": "belas",
       "url": "https://open.spotify.com/track/6OXNlUd6vv5Kwz5kPezGhD"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "The Blyat Tapes,Vol.1",
+        "url": "https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu"
+      },
+      "artists": [
+        {
+          "name": "DVLTVN",
+          "url": "https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb"
+        }
+      ],
+      "duration_ms": 85514,
+      "name": "Dont.Be.Afraid.",
+      "url": "https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
-      },
-      "artists": [
-        {
-          "name": "j^p^n",
-          "url": "https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Daydreams",
         "url": "https://open.spotify.com/album/75Nc2FvrYrzu7UY4yNjX1O"
       },
@@ -875,6 +859,54 @@
       "duration_ms": 92270,
       "name": "Lost in Florence",
       "url": "https://open.spotify.com/track/5B1tm4NuzSbYUTwk0xEz2a"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "oldies",
+        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
+      },
+      "artists": [
+        {
+          "name": "lofi.samurai",
+          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
+        }
+      ],
+      "duration_ms": 78719,
+      "name": "train ride home",
+      "url": "https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/1vNYKr4KkIcLFug4zMX0rD"
+      },
+      "artists": [
+        {
+          "name": "j^p^n",
+          "url": "https://open.spotify.com/artist/6s3PbveUJMvMwZHyQUAPV4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/6wh61ZuwyFfS9DD6EJCov4"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Yerba",
+        "url": "https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0"
+      },
+      "artists": [
+        {
+          "name": "Sleepdealer",
+          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Rolling Papers",
+      "url": "https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -899,38 +931,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "oldies",
-        "url": "https://open.spotify.com/album/2qFWwW20dcp45bEFEgSAc1"
-      },
-      "artists": [
-        {
-          "name": "lofi.samurai",
-          "url": "https://open.spotify.com/artist/6NLqFFCoVnFwbXzoIB5Col"
-        }
-      ],
-      "duration_ms": 78719,
-      "name": "train ride home",
-      "url": "https://open.spotify.com/track/70vGzrfqPGC8sa6Oo5b88g"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "Yerba",
-        "url": "https://open.spotify.com/album/2TpFFSYCyOFwWlhgOZkEe0"
-      },
-      "artists": [
-        {
-          "name": "Sleepdealer",
-          "url": "https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Rolling Papers",
-      "url": "https://open.spotify.com/track/3ou5xfUbChcJHMIN8jZ8C9"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Directions",
         "url": "https://open.spotify.com/album/1GNYINM8gupBbSdJSPuaud"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Discography",
-        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
-      },
-      "artists": [
-        {
-          "name": "Caleb Belkin",
-          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Lost Samurai",
-      "url": "https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "running around dreaming",
         "url": "https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 132000,
       "name": "sekao",
       "url": "https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Discography",
+        "url": "https://open.spotify.com/album/17KY09ISAVpJ30vTaiTW3n"
+      },
+      "artists": [
+        {
+          "name": "Caleb Belkin",
+          "url": "https://open.spotify.com/artist/12TcsyqAd3lJUcZFJVogXZ"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Lost Samurai",
+      "url": "https://open.spotify.com/track/0LWoUEKzOpy7PWbSC67Oz6"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
-        "name": "Caliber",
-        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
-      },
-      "artists": [
-        {
-          "name": "yeyts.",
-          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
-        }
-      ],
-      "duration_ms": 130588,
-      "name": "Caliber",
-      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/3hBQuy5dGt1BYSPkwKiqwf"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 133165,
       "name": "Faces",
       "url": "https://open.spotify.com/track/39qwnp9qlLcYd4bq6s5HMj"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
+        "name": "Caliber",
+        "url": "https://open.spotify.com/album/4VBkwvUerwiwJbkY6zlRXK"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 130588,
+      "name": "Caliber",
+      "url": "https://open.spotify.com/track/6nk3juaB3mIKFJq8UcmpDU"
     },
     {
       "added_at": "2022-04-15 12:09:52",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-04-15 12:09:52",
       "album": {
+        "name": "jhfly",
+        "url": "https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo"
+      },
+      "artists": [
+        {
+          "name": "jhfly",
+          "url": "https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI"
+        }
+      ],
+      "duration_ms": 188611,
+      "name": "for you",
+      "url": "https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG"
+    },
+    {
+      "added_at": "2022-04-15 12:09:52",
+      "album": {
         "name": "St. Clements",
         "url": "https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 77519,
       "name": "St. Clements",
       "url": "https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq"
-    },
-    {
-      "added_at": "2022-04-15 12:09:52",
-      "album": {
-        "name": "jhfly",
-        "url": "https://open.spotify.com/album/7hmMkesNBhzzGMiCbOCpMo"
-      },
-      "artists": [
-        {
-          "name": "jhfly",
-          "url": "https://open.spotify.com/artist/7D6kLgvRHr6DNDavc0LhvI"
-        }
-      ],
-      "duration_ms": 188611,
-      "name": "for you",
-      "url": "https://open.spotify.com/track/2iGqmP4YP3hrx3ij9jvZsG"
     },
     {
       "added_at": "2022-04-15 12:09:52",

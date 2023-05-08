@@ -1,12 +1,12 @@
 {
   "description": "El soundtrack oficial de la Liga Mexicana de Beisbol \u26be\ufe0f\ud83c\udfdf\ud83e\udde2",
-  "num_followers": 5999,
+  "num_followers": 6034,
   "original_name": "Liga Mexicana de Beisbol - Playlist Oficial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTIyNWNkZTQ0N2IxNjhhYTgwNzEyYjliZWM4ZWJlMDE2ZTI4YjMx",
+  "snapshot_id": "MCwxMmQzMTQ4NTc5ODI5ZmU0MmUwNGZiNTgwOGFmMzAzODc4ZDlkOWY4",
   "tracks": [
     {
       "added_at": "2022-09-07 17:15:21",
@@ -771,6 +771,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado En Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado En Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
         "name": "Gracias (En Vivo)",
         "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
       },
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
         }
       ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1227,18 +1243,22 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
       },
       "artists": [
         {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+      "duration_ms": 203360,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1271,26 +1291,6 @@
       "duration_ms": 198400,
       "name": "Who Let The Dogs Out",
       "url": "https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Qu\u00e9 Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 268466,
-      "name": "Qu\u00e9 Nivel De Mujer",
-      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "Zool\u00f3gico Tropical",
         "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 268466,
+      "name": "Qu\u00e9 Nivel De Mujer",
+      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "El Soltero",
-        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 146146,
-      "name": "Cangrejito Playero",
-      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "El Coco No",
         "url": "https://open.spotify.com/album/0j01vRLlIWCaQejaz9CwRG"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 176840,
       "name": "El Coco No",
       "url": "https://open.spotify.com/track/2HAO2lqg5RPEQFXreAJV6T"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "El Presidente de la Champeta",
-        "url": "https://open.spotify.com/album/5jLW2hl3FsoXtVqWl6bDLc"
-      },
-      "artists": [
-        {
-          "name": "Mr Black El Presidente",
-          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
-        }
-      ],
-      "duration_ms": 203781,
-      "name": "El Serrucho",
-      "url": "https://open.spotify.com/track/2ZR50pvQ1lpMWyQAMO4Y5b"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "KlK Llego El Tipo the Album",
         "url": "https://open.spotify.com/album/3XHcqktZHNuuRjdLJqiGs0"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 175333,
       "name": "Menea Tu Chapa",
       "url": "https://open.spotify.com/track/7G6dxux3uUjSfQY7MP9J5W"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "El Presidente de la Champeta",
+        "url": "https://open.spotify.com/album/5jLW2hl3FsoXtVqWl6bDLc"
+      },
+      "artists": [
+        {
+          "name": "Mr Black El Presidente",
+          "url": "https://open.spotify.com/artist/19vCtDMDfX2wjU5vULq6FG"
+        }
+      ],
+      "duration_ms": 203781,
+      "name": "El Serrucho",
+      "url": "https://open.spotify.com/track/2ZR50pvQ1lpMWyQAMO4Y5b"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Gorila Dance Remixes",
-        "url": "https://open.spotify.com/album/5UECfNyDzfu4PpIR71YZ7O"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "El Baile del Gorila",
-      "url": "https://open.spotify.com/track/23oUr08MMdYcn9jRz39wYV"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 171826,
       "name": "El Bigote",
       "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Gorila Dance Remixes",
+        "url": "https://open.spotify.com/album/5UECfNyDzfu4PpIR71YZ7O"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "El Baile del Gorila",
+      "url": "https://open.spotify.com/track/23oUr08MMdYcn9jRz39wYV"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Para Tucancillos y Tucancillas",
-        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Me Gusta Vivir De Noche",
-      "url": "https://open.spotify.com/track/1G4d3ydn30mwZzTbBdA4mK"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "El Caballito de Palo",
         "url": "https://open.spotify.com/album/1Vd88MWsLVH2BSjwDztRgB"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 225149,
       "name": "El Caballito de Palo",
       "url": "https://open.spotify.com/track/2YedEu7sfD4HcmmLhjecNI"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Para Tucancillos y Tucancillas",
+        "url": "https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Me Gusta Vivir De Noche",
+      "url": "https://open.spotify.com/track/1G4d3ydn30mwZzTbBdA4mK"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 162520,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL"
-    },
-    {
-      "added_at": "2022-09-07 17:15:21",
-      "album": {
         "name": "El Pasito Perr\u00f3n",
         "url": "https://open.spotify.com/album/5aiLSgtlZ3Q7lM5rOxNOZE"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 217570,
       "name": "El Pasito Perr\u00f3n",
       "url": "https://open.spotify.com/track/5R5ue1RaZEVnMpHYkvNkfR"
+    },
+    {
+      "added_at": "2022-09-07 17:15:21",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 162520,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL"
     },
     {
       "added_at": "2022-09-07 17:15:21",
@@ -2111,18 +2111,18 @@
     {
       "added_at": "2022-09-07 17:15:21",
       "album": {
-        "name": "Con Todas Las Fuerzas",
-        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+        "name": "Itinerario",
+        "url": "https://open.spotify.com/album/2EY7tYckELAzHGaSDXmeFR"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
         }
       ],
-      "duration_ms": 205400,
-      "name": "La Sacamos Del Estadio",
-      "url": "https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc"
+      "duration_ms": 280398,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/7wLNXv8Kk6JLzo3iF70Lax"
     }
   ],
   "unique_name": "Liga Mexicana de Beisbol - Playlist Oficial",

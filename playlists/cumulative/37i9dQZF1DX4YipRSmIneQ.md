@@ -4,7 +4,7 @@
 
 > 😈 turn anywhere into a sexy club 😈
 
-257 songs - 14 hr 58 min
+258 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 | 2022-08-09 |  |
 | [Hoe](https://open.spotify.com/track/6Alnnwoyf0MVnOZME6p6TD) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3) | [Hoe](https://open.spotify.com/album/2CtMkQOUMEtPUiG5pSBtQl) | 4:43 | 2022-12-02 |  |
 | [Honey \- Edit](https://open.spotify.com/track/7tC0AjIzrRS18lO8kaZGuT) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Honey](https://open.spotify.com/album/3TVqX4fwdzrsN3JvGeURKm) | 3:18 | 2022-03-16 | 2022-06-21 |
-| [Horsey](https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B) | 2:17 | 2022-09-02 |  |
+| [Horsey](https://open.spotify.com/track/347HlvMjlbtP1KzuzBBAWf) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/71ZYo5DABA1qaup7JcUy0B) | 2:17 | 2022-09-02 | 2023-05-08 |
+| [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 | 2023-04-04 |  |
 | [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2022-12-28 | 2023-02-23 |
 | [Hotel Room Service](https://open.spotify.com/track/6Rb0ptOEjBjPPQUlQtQGbL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Pitbull Starring In Rebelution](https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI) | 3:57 | 2022-12-28 | 2023-02-23 |
 | [Hott](https://open.spotify.com/track/31Xdw0ZM27KYZC4vLTY7Gw) | [Jasmine Infiniti](https://open.spotify.com/artist/4Ii6N7zTISiFbVsUPPD0sE) | [Bxtch Släp](https://open.spotify.com/album/5ZQgUIk9rZc7JpbTqwpp2F) | 5:47 | 2022-03-16 | 2022-06-25 |

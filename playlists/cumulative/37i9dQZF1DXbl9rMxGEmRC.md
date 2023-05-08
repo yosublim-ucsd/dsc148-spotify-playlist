@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-385 songs - 1 day 9 hr 27 min
+387 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Chernobyl Blues \- Live at Slipper Room](https://open.spotify.com/track/4coCbcc2diO04CaUquMQ4W) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [An Evening With Imperial Triumphant \(Live at Slipper Room\)](https://open.spotify.com/album/1gKZvyVWVA4rtfJNRWe08H) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [Chimera Soldiers](https://open.spotify.com/track/3fJ9brORCmKrlr7K5zCVn5) | [Kommand](https://open.spotify.com/artist/2ARiBdiOC3x2yKOjttPE63) | [Chimera Soldiers](https://open.spotify.com/album/4oq5EM4pMUV4pIGKlQ4A05) | 4:37 | 2023-03-01 | 2023-04-01 |
 | [Christraping Black Metal](https://open.spotify.com/track/3X5u1hrPeBiZ0FjZe4B70v) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Panzer Division](https://open.spotify.com/album/0622BIcoA1UXnLCQXDG0bF) | 3:45 | 2022-07-13 | 2022-07-29 |
+| [Chrononautilus](https://open.spotify.com/track/00iPeuzy7UIKEN3wbrEK8r) | [Scar Symmetry](https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6) | [Chrononautilus](https://open.spotify.com/album/5m1mc5MBFWvTthWiE1A1iv) | 5:04 | 2023-05-05 |  |
 | [Cold Burn](https://open.spotify.com/track/25dw1ON5dplrkOIhMBt7fl) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [Cold Burn](https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm) | 9:41 | 2021-12-17 | 2022-01-15 |
 | [Coming Storm](https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64) | [Septicflesh](https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b) | [Modern Primitive](https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88) | 4:50 | 2022-05-20 |  |
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-01 |  |
@@ -96,7 +97,7 @@
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
 | [Devil's Blood](https://open.spotify.com/track/4IiSKfn6MVHcqrG2ScUbiF) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi](https://open.spotify.com/album/2uqCn6pAXfkOd9P4huVZuf) | 5:54 | 2022-07-13 |  |
-| [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 |  |
+| [Digital Bliss](https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG) | [Rotten Sound](https://open.spotify.com/artist/4aglyvdJ7ApTfDC6aQ2LFf) | [Apocalypse](https://open.spotify.com/album/3j2VfQygnXCYgQBNlenxwg) | 1:16 | 2023-03-31 | 2023-05-08 |
 | [Dissociation of the Extinguished Mind](https://open.spotify.com/track/5Ucq7WMc4ouHggTqo09ITX) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Dissociation of the Extinguished Mind](https://open.spotify.com/album/3gHYXJp2doaScSI6pEbsHq) | 6:56 | 2022-04-01 | 2022-05-07 |
 | [Dissolve](https://open.spotify.com/track/61cEE5HRsqLvSjGAmVxd8h) | [Orthodox](https://open.spotify.com/artist/0DkKBTgWxBnvYsOXDaoTVP) | [Dissolve](https://open.spotify.com/album/1cLVKutiND7BbiLO40lCp1) | 3:06 | 2022-08-12 | 2022-09-20 |
 | [Diviner](https://open.spotify.com/track/3iXwVC24spjmldA84JCjuz) | [Inborn Tendency](https://open.spotify.com/artist/5I5qsax1FbMfnJ52k5iADw) | [Godkiller](https://open.spotify.com/album/7LBSl4Et96Km08oDAa2kxP) | 3:38 | 2021-12-17 | 2022-05-21 |
@@ -225,7 +226,7 @@
 | [Momentary Trails](https://open.spotify.com/track/2KAnVNkix64ZZwDQSQ6Xuy) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [Solitarian](https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5) | 5:14 | 2021-12-17 | 2022-04-09 |
 | [Mono No Aware](https://open.spotify.com/track/2gsV4pyZk0hTkZKOGISkcF) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Mono No Aware](https://open.spotify.com/album/5sBYlEpYJG7XDEj4BECS9P) | 9:43 | 2022-01-14 | 2022-02-11 |
 | [Moonflowers Bloom in Misery](https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Moonflowers \(Deluxe Edition\)](https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek) | 6:19 | 2021-12-17 |  |
-| [Moribunda](https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Triade III : Nyx](https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0) | 7:36 | 2023-04-07 |  |
+| [Moribunda](https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Triade III : Nyx](https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0) | 7:36 | 2023-04-07 | 2023-05-08 |
 | [Mother North](https://open.spotify.com/track/79iREiH6mrODItQGLaidt8) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb) | 6:25 | 2022-07-13 |  |
 | [Mother North \- Remastered 2016](https://open.spotify.com/track/2kBBRk0vuVdQjA1LH494Qz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/6K0rkORxLaVvOC72xW9ZgB) | 6:25 | 2022-07-13 | 2022-07-29 |
 | [Mountain Magick](https://open.spotify.com/track/0BgrdFSWYIM4DiWFdaOOyX) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/6F3UlS1JBlGkzeTrYuJMiB) | 5:55 | 2023-02-15 | 2023-03-04 |
@@ -391,6 +392,7 @@
 | [Worthless](https://open.spotify.com/track/0P9Eascqqk3l4rqw6kYF2z) | [Progeny of Sun](https://open.spotify.com/artist/2IOwkQMglFyNgyhjnG2Bpl) | [Worthless](https://open.spotify.com/album/3E4ImGoMJqqEs3dRROZEMj) | 3:39 | 2022-02-11 | 2022-07-23 |
 | [Ye Entrancemperium](https://open.spotify.com/track/7HmGwZ0HvZIsB90wt3AuDE) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [Anthems To The Welkin At Dusk](https://open.spotify.com/album/0PIidVsFr9Oji1Y79jTV9M) | 5:14 | 2022-07-13 | 2023-05-05 |
 | [Ymir](https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Ymir](https://open.spotify.com/album/7rRdCtu9eHLWrxCMSeOSMT) | 5:04 | 2021-12-17 | 2022-01-22 |
+| [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 |  |
 | [Ze Nigmar](https://open.spotify.com/track/3niz4765xdQsl0DSMf4DIx) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Rituals](https://open.spotify.com/album/261LnV8eQ6ZaNmh7A5SjF3) | 4:43 | 2022-07-13 |  |
 | [Χ Ξ Σ \- 666](https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Kata Ton Daimona Eaytoy \(Do What Thou Wilt\)](https://open.spotify.com/album/3z7rdtYy9L5RYgTpRQBygo) | 5:48 | 2022-07-13 |  |
 

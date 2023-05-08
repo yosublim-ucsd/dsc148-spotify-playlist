@@ -3227,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
+    },
+    {
+      "album": {
         "name": "The Little Dipper",
         "url": "https://open.spotify.com/album/5PiaITO6fNZudAx6muATEb"
       },
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 243266,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/4rL6I3SZwGNnz9QDbycxoC"

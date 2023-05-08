@@ -4,7 +4,7 @@
 
 > Classic Latin tunes to get you in the Christmas spirit\. Cover: José Feliciano
 
-229 songs - 13 hr 35 min
+230 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Me La Gozo Entera](https://open.spotify.com/track/7iUYL8oom4sHsHvILId5lU) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 3:54 | 2022-11-08 | 2022-11-13 |
 | [Me La Gozo Entera](https://open.spotify.com/track/1f5XLutbGai35jI95ocTfI) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Felicidades](https://open.spotify.com/album/024yNADGjvnhSVjscpD5qG) | 3:54 | 2021-12-17 | 2022-12-19 |
 | [Me Quede Puyu](https://open.spotify.com/track/01W0fOluLxLPivIUbOtGWr) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Me Quede Puyu](https://open.spotify.com/album/5LIWtFgFrFZNf0girb1SSx) | 4:35 | 2021-12-17 | 2022-12-19 |
+| [Mi Estrella](https://open.spotify.com/track/3oYDrZmmqwD3iomN7uU5a8) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 4:25 | 2022-12-19 |  |
 | [Mi Mejor Regalo](https://open.spotify.com/track/5mlT0dwuKmWnoslcFXRrSa) | [Juan Jose Diaz](https://open.spotify.com/artist/2MTkle5hDwpP3ivtlE7FFz), [Victoria Montero](https://open.spotify.com/artist/6EyuQbjAEm32Y6ax4WWPp3), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Mi Mejor Regalo](https://open.spotify.com/album/50Bt4ZSpTurO3QCBc5a4ad) | 2:57 | 2022-12-18 | 2022-12-20 |
 | [Mi Mejor Regalo Eres Tu \(feat\. Maldita Nerea\) \- Christmas Bonus Track](https://open.spotify.com/track/2Olrd2M87tQSbsOTCIqSNT) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Maldita Nerea](https://open.spotify.com/artist/3heR1it0slFXjaa7E62zpw) | [Dual](https://open.spotify.com/album/1kF9wxTUSexqZnufTN9wiX) | 3:07 | 2021-12-17 | 2022-12-19 |
 | [Mi Navidad No Se Apaga](https://open.spotify.com/track/5EOjxQsuszwFphhkCOqT6j) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [La Tribu de Abrante](https://open.spotify.com/artist/3sito6EcNee484oIM6KHwO), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [Mi Navidad No Se Apaga](https://open.spotify.com/album/29vshU5rVpWYdzJvim2952) | 3:09 | 2021-12-17 | 2022-12-19 |
@@ -208,7 +209,7 @@
 | [Te Deseo Muy Felices Fiestas](https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Sweet Christmas Ukulele & Jazz](https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi) | 4:13 | 2022-12-19 |  |
 | [Te Deseo Muy Felices Fiestas \- Have Yourself a Merry Little Christmas](https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Te Deseo Muy Felices Fiestas \(Have Yourself a Merry Little Christmas\)](https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC) | 3:57 | 2022-12-18 | 2022-12-20 |
 | [Te Regalo](https://open.spotify.com/track/2h8ifm4ZdUjRMAMVjYYcQk) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Te Regalo](https://open.spotify.com/album/6WG0yEtxedxIVbpakcqKSl) | 3:01 | 2021-12-17 | 2022-12-19 |
-| [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 3:31 | 2022-12-19 |  |
+| [Todo Lo Que Quiero Eres Tu](https://open.spotify.com/track/7b6feyyH5HsJUSBwtlcYrW) | [Kabah](https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi) | [Rolitas navideñas](https://open.spotify.com/album/1e2Tzt6ON6y9NTiizI5RYk) | 3:31 | 2022-12-19 | 2023-05-08 |
 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 | 2022-11-16 | 2022-12-20 |
 | [Tu Adiós Es Mi Navidad](https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Dios Me Señaló](https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N) | 2:28 | 2022-12-19 |  |
 | [Un Año Mas](https://open.spotify.com/track/2cRx7vvWzuf4FrYWZBubJk) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Descanso Dominical \(Bonus Tracks Edition\)](https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA) | 4:29 | 2022-12-19 |  |

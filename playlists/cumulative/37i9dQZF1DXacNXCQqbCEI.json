@@ -892,6 +892,24 @@
     {
       "album": {
         "name": "Bennu",
+        "url": "https://open.spotify.com/album/0BPzY1R6aYUNRZcE2xa1Xf"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/0sdzZh61bpEFsBSDQ5G8GA"
+    },
+    {
+      "album": {
+        "name": "Bennu",
         "url": "https://open.spotify.com/album/0ap1ioMSBoEr7eWqwU2DxH"
       },
       "artists": [
@@ -2152,7 +2170,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 300000,
       "name": "La Cumbia De La Ansiedad",
       "url": "https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7"
@@ -2974,6 +2992,28 @@
       "duration_ms": 400826,
       "name": "Nevar",
       "url": "https://open.spotify.com/track/2EEkGybjOcVfAZfceU8HD3"
+    },
+    {
+      "album": {
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/0v8v8HAtfJChO5sdRh5EAx"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Didacte",
+          "url": "https://open.spotify.com/artist/4gJkcE85yauN8vUrt8bIFT"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400826,
+      "name": "Nevar",
+      "url": "https://open.spotify.com/track/2GmDHnAPi9FwVqkC1MYWi6"
     },
     {
       "album": {
@@ -4090,7 +4130,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 224333,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"

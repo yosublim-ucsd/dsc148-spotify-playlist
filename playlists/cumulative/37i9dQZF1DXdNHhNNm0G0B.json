@@ -287,6 +287,24 @@
     },
     {
       "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5fPjBAFjqX4Cf0XAPhGVcf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4Y4P44bLQ7tz5qy8XJmQtg"
+    },
+    {
+      "album": {
         "name": "Tommy Johnson 1928 - 1929",
         "url": "https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 222650,
       "name": "Wayfaring Stranger",
       "url": "https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW"

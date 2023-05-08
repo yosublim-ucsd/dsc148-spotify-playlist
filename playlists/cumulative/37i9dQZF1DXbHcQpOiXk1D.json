@@ -3017,6 +3017,32 @@
     },
     {
       "album": {
+        "name": "Grief",
+        "url": "https://open.spotify.com/album/7oVN7H11MsBBUybYfC0z7H"
+      },
+      "artists": [
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Maxwell Owin",
+          "url": "https://open.spotify.com/artist/1BY3jPCSTYtgNJoqSnxt3f"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257140,
+      "name": "Grief",
+      "url": "https://open.spotify.com/track/09XxBJrprneCpmO6CQLKrT"
+    },
+    {
+      "album": {
         "name": "Halcyon Senegalensis",
         "url": "https://open.spotify.com/album/6dHbh6HcUVvlCenKsba9Fm"
       },
@@ -3204,7 +3230,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 323320,
       "name": "Horizons",
       "url": "https://open.spotify.com/track/2n3Tqq4qL2HlcXWwXQhQ4e"

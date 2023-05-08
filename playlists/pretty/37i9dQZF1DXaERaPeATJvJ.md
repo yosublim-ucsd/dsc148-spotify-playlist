@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,227 likes - 99 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,237 likes - 99 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 14 | [Laser Gun Electro Boy](https://open.spotify.com/track/7iotoEHOJphMKxSJAS71Sy) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:58 |
 | 15 | [Spoken](https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Time for a Change / Time to Move On](https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV) | 5:17 |
 | 16 | [100% Kontrol](https://open.spotify.com/track/24giWUT5X8fFPFE8quTB3v) | [The Brandals](https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh) | [Brandalisme](https://open.spotify.com/album/32BwVGiwZl7uTvW6EgEbtZ) | 2:21 |
-| 17 | [She Burns the Disco](https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW) | 3:43 |
+| 17 | [She Burns the Disco](https://open.spotify.com/track/65sYVB0QTVywq01KFE83ZN) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/6w39Q5UagTTDPE8uByTti8) | 3:43 |
 | 18 | [Hanya Kau](https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [V2.05](https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG) | 4:17 |
 | 19 | [Fallen Japanese](https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E) | [Sajama Cut](https://open.spotify.com/artist/33lCWREMjKEXJHUMbSkZle) | [The Osaka Journals](https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ) | 2:40 |
 | 20 | [Funny Little Dream](https://open.spotify.com/track/2W3Oq3vWsxCD7qGuy9jLTU) | [Funny Little Dream](https://open.spotify.com/artist/40L6hP5vs4ZXKmfU80mBaJ) | [Funny Little Dream](https://open.spotify.com/album/3kCSZ4uIMazjsWt8zz46eM) | 3:10 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 | 98 | [Before Circus Over](https://open.spotify.com/track/6zMoDgj2JvpUiT7KtGK2HJ) | [Bottlesmoker](https://open.spotify.com/artist/16MalIQgGrZWovgflIVr0I) | [Slow Mo Smile](https://open.spotify.com/album/7ailqk7fkSCCwVuiuRlWyh) | 4:56 |
 | 99 | [Romantic Purple \- Remix by Homogenic](https://open.spotify.com/track/0C46prnZtnlbCRiAoE9rXf) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS), [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Romantic Purple \- EP](https://open.spotify.com/album/2RJrXpRa29oFThJT95I0OO) | 5:43 |
 
-Snapshot ID: `MCwzNGU2MWZlODI3YzRkYTFmMmM4ZjNiOGUzNDZkOTMxMmI5ZmVmNjA4`
+Snapshot ID: `MCw4NjI5YmMzODUyYTc3Y2RkZTI4N2M4MjhlMTdkNmM4ZjVjYzY3MDEw`

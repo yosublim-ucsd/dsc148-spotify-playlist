@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 202650,
+  "num_followers": 202791,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM0NjNjOGNmMzU5ZGJlMTlhOGVkZWU4MzdhNTVlMWEwY2M4YjYw",
+  "snapshot_id": "MCw0ZmYwODNjNTIxMmY3MTkzYTgxNjVmMjY3YjkwNzhkMjEzMGE3YThj",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA"
-      },
-      "artists": [
-        {
-          "name": "The Rah Band",
-          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
-        }
-      ],
-      "duration_ms": 460760,
-      "name": "Messages from the Stars",
-      "url": "https://open.spotify.com/track/4vpGXQlusfDlUpvk0tIaa3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 319893,
       "name": "Remind Me - Remastered",
       "url": "https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/2YTvcCHkK2OeDJfC486AqA"
+      },
+      "artists": [
+        {
+          "name": "The Rah Band",
+          "url": "https://open.spotify.com/artist/7MDoXA8Kfykq3gkBkDBLtH"
+        }
+      ],
+      "duration_ms": 460760,
+      "name": "Messages from the Stars",
+      "url": "https://open.spotify.com/track/4vpGXQlusfDlUpvk0tIaa3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Private Life: The Compass Point Sessions",
+        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 498840,
+      "name": "Slave To The Rhythm - Hot Blooded Version",
+      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Connections",
         "url": "https://open.spotify.com/album/7ycG05oTUchKzHEEfNrpef"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 320280,
       "name": "Looking Up to You",
       "url": "https://open.spotify.com/track/5YPIX0GlnaAxaJBFJydMT4"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Private Life: The Compass Point Sessions",
-        "url": "https://open.spotify.com/album/4UEvfbWLPms6KlEVr8USjf"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 498840,
-      "name": "Slave To The Rhythm - Hot Blooded Version",
-      "url": "https://open.spotify.com/track/3di2SUB3jU1v5HPQCkc84L"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
+      },
+      "artists": [
+        {
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "What A Woman Needs",
         "url": "https://open.spotify.com/album/6V0dGIPJ5CLeNv4TPCqhjm"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
-      },
-      "artists": [
-        {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/4fNffnbgnJwXenSpnfWme4"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Can't Get Along Without You",
-        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
-      },
-      "artists": [
-        {
-          "name": "Vance and Suzzanne",
-          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "I Can't Get Along Without You",
-      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "First True Love Affair",
         "url": "https://open.spotify.com/album/0b44pPuVm5P4VKLPVdQbrq"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 428026,
       "name": "First True Love Affair - Larry Levan Remix",
       "url": "https://open.spotify.com/track/7joFZr4bgXEGyKOqswLpGd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Can't Get Along Without You",
+        "url": "https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ"
+      },
+      "artists": [
+        {
+          "name": "Vance and Suzzanne",
+          "url": "https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe"
+        }
+      ],
+      "duration_ms": 400000,
+      "name": "I Can't Get Along Without You",
+      "url": "https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Mysteries of the World",
-        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
-      },
-      "artists": [
-        {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        }
-      ],
-      "duration_ms": 330080,
-      "name": "Mysteries of the World",
-      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Straight From The Heart",
         "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 408142,
       "name": "Number One - 12\" Version",
       "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Mysteries of the World",
+        "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        }
+      ],
+      "duration_ms": 330080,
+      "name": "Mysteries of the World",
+      "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
+      },
+      "artists": [
+        {
+          "name": "Deodato",
+          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
+        }
+      ],
+      "duration_ms": 272533,
+      "name": "Whistle Bump",
+      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Watchin' Out",
         "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 300826,
       "name": "On and On",
       "url": "https://open.spotify.com/track/4d0UM1L06EmBBc9c8Ulv5R"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Love Island",
-        "url": "https://open.spotify.com/album/2k5tKYlTM95TerGw1fsEvT"
-      },
-      "artists": [
-        {
-          "name": "Deodato",
-          "url": "https://open.spotify.com/artist/0hE3uA2w3guHeKvuc7BpRr"
-        }
-      ],
-      "duration_ms": 272533,
-      "name": "Whistle Bump",
-      "url": "https://open.spotify.com/track/39GAqGdqxFWHh5OkEHcAqk"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Miracles (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+        "name": "Love in a Black Dimension",
+        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
       },
       "artists": [
         {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+          "name": "Jestofunk",
+          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
         }
       ],
-      "duration_ms": 338453,
-      "name": "Heaven of My Life - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
+      "duration_ms": 338426,
+      "name": "For Your Precious Love",
+      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Love in a Black Dimension",
-        "url": "https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc"
-      },
-      "artists": [
-        {
-          "name": "Jestofunk",
-          "url": "https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA"
-        }
-      ],
-      "duration_ms": 338426,
-      "name": "For Your Precious Love",
-      "url": "https://open.spotify.com/track/2zpuJRWcGl7K4PQN9jrqKN"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
         "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
@@ -1215,6 +1199,74 @@
       "duration_ms": 423240,
       "name": "Found a Cure - 12\" Disco Mix",
       "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Miracles (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Heaven of My Life - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "24 Hours in a Disco 1978-82",
+        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
+      },
+      "artists": [
+        {
+          "name": "Kiki Gyan",
+          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
+        }
+      ],
+      "duration_ms": 416800,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 404391,
+      "name": "Disco Illusion",
+      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Harmonies",
+        "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
+      },
+      "artists": [
+        {
+          "name": "Lord Echo",
+          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
+        },
+        {
+          "name": "Mara TK",
+          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
+        }
+      ],
+      "duration_ms": 354213,
+      "name": "The Sweetest Meditation",
+      "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1251,22 +1303,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 404391,
-      "name": "Disco Illusion",
-      "url": "https://open.spotify.com/track/1ROPlnnzLFGZBD4NELKZoa"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
       },
@@ -1295,6 +1331,22 @@
       "duration_ms": 259413,
       "name": "Get It Right - Single Version",
       "url": "https://open.spotify.com/track/6IKMa77w7i9BAs64sTZqKZ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1331,22 +1383,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "You're a Melody",
         "url": "https://open.spotify.com/album/3XcLLEYjyx5KpYwAxLhBYt"
       },
@@ -1375,22 +1411,6 @@
       "duration_ms": 406533,
       "name": "When You Wake up Tomorrow",
       "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "24 Hours in a Disco 1978-82",
-        "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
-      },
-      "artists": [
-        {
-          "name": "Kiki Gyan",
-          "url": "https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy"
-        }
-      ],
-      "duration_ms": 416800,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1443,22 +1463,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin Out",
         "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
@@ -1475,6 +1479,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Chicago Service",
         "url": "https://open.spotify.com/album/098htENdjaFFSWNegkNoWe"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 328858,
       "name": "Disco Fantasy",
       "url": "https://open.spotify.com/track/55TihUjVHdi3zChAUtKgHE"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Harmonies",
-        "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
-      },
-      "artists": [
-        {
-          "name": "Lord Echo",
-          "url": "https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5"
-        },
-        {
-          "name": "Mara TK",
-          "url": "https://open.spotify.com/artist/3GzJfrTYqGHMASNHNNN7hN"
-        }
-      ],
-      "duration_ms": 354213,
-      "name": "The Sweetest Meditation",
-      "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
     },
     {
       "added_at": "2022-09-05 16:54:43",

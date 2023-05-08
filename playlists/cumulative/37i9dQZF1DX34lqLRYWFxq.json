@@ -3385,6 +3385,24 @@
     },
     {
       "album": {
+        "name": "The Old Ways Remain",
+        "url": "https://open.spotify.com/album/6vEFCw8dNZdCCbHVQKLqzX"
+      },
+      "artists": [
+        {
+          "name": "Blood Ceremony",
+          "url": "https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195424,
+      "name": "Powers of Darkness",
+      "url": "https://open.spotify.com/track/5XCvz2S2dJMq9srLw2Wy8r"
+    },
+    {
+      "album": {
         "name": "Powers of Darkness",
         "url": "https://open.spotify.com/album/6B29hK9hfWj1PIwfoPQAIv"
       },
@@ -3396,7 +3414,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 195424,
       "name": "Powers of Darkness",
       "url": "https://open.spotify.com/track/6IHhQHC7tM7ufx88QhSQiL"

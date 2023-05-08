@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 152335,
       "name": "Expansion",
       "url": "https://open.spotify.com/track/5RuZXfvGTutkEWZHwcIymn"
@@ -2136,6 +2136,24 @@
       "duration_ms": 174825,
       "name": "Hero",
       "url": "https://open.spotify.com/track/557Xkoud7EtdyjdyRkrhRy"
+    },
+    {
+      "album": {
+        "name": "High Hopes",
+        "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
+      },
+      "artists": [
+        {
+          "name": "Mazyn",
+          "url": "https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9"
     },
     {
       "album": {
@@ -3261,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Ode to life",
+        "url": "https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq"
+      },
+      "artists": [
+        {
+          "name": "Baddou",
+          "url": "https://open.spotify.com/artist/3vMxNq3AUuB023zM1le7A9"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274891,
+      "name": "Ode to life",
+      "url": "https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc"
+    },
+    {
+      "album": {
         "name": "Old Flame",
         "url": "https://open.spotify.com/album/0OhpcZ3JcPE3KyjOLR6Ktw"
       },
@@ -3508,7 +3544,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 126593,
       "name": "Popular",
       "url": "https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI"
@@ -3850,6 +3886,24 @@
       "duration_ms": 346413,
       "name": "Sbaart Ou Tal Adabi",
       "url": "https://open.spotify.com/track/7HhieX1dqISjpteFs5w7Xb"
+    },
+    {
+      "album": {
+        "name": "Scorsese",
+        "url": "https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla"
+      },
+      "artists": [
+        {
+          "name": "Tac",
+          "url": "https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Scorsese",
+      "url": "https://open.spotify.com/track/750DwBev1112r16elo8Mom"
     },
     {
       "album": {
@@ -4632,7 +4686,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 178529,
       "name": "Tukoh Taka - Official FIFA Fan Festival\u2122 Anthem",
       "url": "https://open.spotify.com/track/7twsd0lwXyy0ARdsTyzHoJ"

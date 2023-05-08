@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: DannyLux",
-  "num_followers": 19698,
+  "num_followers": 19706,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjliMDUwMTQ5OTFkMGNiNjU3NWY1MjlkYzBkZTcwNjIxNjU2NDU4",
+  "snapshot_id": "MCwxMGUzYmM1ZmM3OWZkZTJlNGRjM2VkMDFlZTdjYWIzNWJlOWU2Mzcw",
   "tracks": [
     {
       "added_at": "2023-04-21 05:16:07",
@@ -451,22 +451,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "dale Play",
-        "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
       "artists": [
         {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 226946,
-      "name": "dale Play",
-      "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+        "name": "dale Play",
+        "url": "https://open.spotify.com/album/0Iq5DxqRwkw2Y4uY0zun6V"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
         }
       ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+      "duration_ms": 226946,
+      "name": "dale Play",
+      "url": "https://open.spotify.com/track/33gFV76PlZtTunQCaqYIJH"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -519,6 +519,26 @@
       "duration_ms": 199017,
       "name": "Despierto",
       "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Hija de Su",
+        "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
+      },
+      "artists": [
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        },
+        {
+          "name": "ETC!ETC!",
+          "url": "https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "Hija de Su",
+      "url": "https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -555,42 +575,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Hija de Su",
-        "url": "https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl"
-      },
-      "artists": [
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "ETC!ETC!",
-          "url": "https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt"
-        }
-      ],
-      "duration_ms": 179439,
-      "name": "Hija de Su",
-      "url": "https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Tu Labial",
-        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 227018,
-      "name": "Tu Labial",
-      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Takin' All My Lovin'",
         "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Tu Labial",
+        "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 227018,
+      "name": "Tu Labial",
+      "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Me Empiezo a Enamorar",
-        "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 202090,
-      "name": "Me Empiezo a Enamorar",
-      "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Olvidar De Ti",
         "url": "https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb"
       },
@@ -843,34 +827,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Flexa",
-        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
+        "name": "Me Empiezo a Enamorar",
+        "url": "https://open.spotify.com/album/6zSHa67aBmU7uraUjDZ6NI"
       },
       "artists": [
         {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
         }
       ],
-      "duration_ms": 198320,
-      "name": "Flexa",
-      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu"
-      },
-      "artists": [
-        {
-          "name": "Paty B",
-          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe"
+      "duration_ms": 202090,
+      "name": "Me Empiezo a Enamorar",
+      "url": "https://open.spotify.com/track/09o3cUojKPKVA8XyFZ0fkp"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -895,18 +863,34 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/20rj1pmnfjicvfHIOJAaYu"
       },
       "artists": [
         {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+          "name": "Paty B",
+          "url": "https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs"
         }
       ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
+      "duration_ms": 168994,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/7dJD8JAMAZmPZRimGYfCwe"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Flexa",
+        "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Flexa",
+      "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -927,6 +911,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Futuro",
+        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 242374,
+      "name": "Futuro",
+      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "amorlove",
         "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 207720,
       "name": "d\u00e9jame vivir",
       "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK"
+      },
+      "artists": [
+        {
+          "name": "Bella Dose",
+          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
+        }
+      ],
+      "duration_ms": 186403,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/73B3LmWNzzyZTVb7GOfWpK"
-      },
-      "artists": [
-        {
-          "name": "Bella Dose",
-          "url": "https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9"
-        }
-      ],
-      "duration_ms": 186403,
-      "name": "M\u00edrame",
-      "url": "https://open.spotify.com/track/5ye1NS6HQQjQ2PDUGm4EzE"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Recuerdos Del Pasado, Vol. 2",
         "url": "https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 232368,
       "name": "Nadie En Este Mundo",
       "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "DE CERO A 100",
-        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
-      },
-      "artists": [
-        {
-          "name": "Yeiow",
-          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "DE CERO A 100",
-      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "DE CERO A 100",
+        "url": "https://open.spotify.com/album/7wTSAIHdVtcLa3scZsipuI"
+      },
+      "artists": [
+        {
+          "name": "Yeiow",
+          "url": "https://open.spotify.com/artist/55l4u3fRNiOaM00eZjw5yl"
+        }
+      ],
+      "duration_ms": 164307,
+      "name": "DE CERO A 100",
+      "url": "https://open.spotify.com/track/6Pg2ciFoNsARurxQWm6KlN"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "overflow",
         "url": "https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU"
       },
@@ -1135,6 +1135,22 @@
       "duration_ms": 175850,
       "name": "overflow",
       "url": "https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "P.O.V",
+        "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
+      },
+      "artists": [
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        }
+      ],
+      "duration_ms": 117760,
+      "name": "P.O.V",
+      "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Nobody Got It",
-        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
-      },
-      "artists": [
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "Nobody Got It",
-      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Mirror In My Living Room",
         "url": "https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg"
       },
@@ -1183,22 +1183,6 @@
       "duration_ms": 180563,
       "name": "Mirror In My Living Room",
       "url": "https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "P.O.V",
-        "url": "https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B"
-      },
-      "artists": [
-        {
-          "name": "GT Garza",
-          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
-        }
-      ],
-      "duration_ms": 117760,
-      "name": "P.O.V",
-      "url": "https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1239,6 +1223,38 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Nobody Got It",
+        "url": "https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "Nobody Got It",
+      "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
+    },
+    {
+      "added_at": "2023-05-02 14:02:19",
+      "album": {
+        "name": "dolio",
+        "url": "https://open.spotify.com/album/6ZxZsbhtPNX9ZXg0HcqFgS"
+      },
+      "artists": [
+        {
+          "name": "Rafa",
+          "url": "https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "dolio",
+      "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "Mares\u00eda",
         "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 135531,
       "name": "135",
       "url": "https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU"
-    },
-    {
-      "added_at": "2023-05-02 14:02:19",
-      "album": {
-        "name": "dolio",
-        "url": "https://open.spotify.com/album/6ZxZsbhtPNX9ZXg0HcqFgS"
-      },
-      "artists": [
-        {
-          "name": "Rafa",
-          "url": "https://open.spotify.com/artist/1lR1G0ROsMGhaJ9wBQqwsh"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "dolio",
-      "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
     },
     {
       "added_at": "2023-04-21 05:16:07",

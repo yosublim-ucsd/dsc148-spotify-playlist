@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 61515,
+  "num_followers": 61540,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmY1ZGYyMzZiMzkyNjYzY2RjNjA2ZWE5YzU4NDhkZTZmYzJmNjhh",
+  "snapshot_id": "MCxjOWQ0YjE1Y2Q2YmJiNmNkZjQ0ODhiODk5OGVjOTQ5ZDk4ZjkxN2U3",
   "tracks": [
     {
       "added_at": "2023-02-10 05:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "How can I",
-        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 245804,
-      "name": "Like this",
-      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 208460,
       "name": "Controller",
       "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "How can I",
+        "url": "https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "Like this",
+      "url": "https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Boylife in EU",
-      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "KicK iii",
         "url": "https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Set Me Free (Extended Mix)",
-        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/4NESArVYihJKvoXk1eYE8A"
       },
       "artists": [
         {
-          "name": "Cosmicat",
-          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Set Me Free - Extended Mix",
-      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+      "duration_ms": 216360,
+      "name": "Boylife in EU",
+      "url": "https://open.spotify.com/track/3ULEHJxcQuFWCoRc7AYncF"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -747,6 +731,22 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Set Me Free (Extended Mix)",
+        "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
+      },
+      "artists": [
+        {
+          "name": "Cosmicat",
+          "url": "https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Set Me Free - Extended Mix",
+      "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
-      },
-      "artists": [
-        {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
-        },
-        {
-          "name": "Anna Caragnano",
-          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
-        }
-      ],
-      "duration_ms": 429000,
-      "name": "Parola - Rework",
-      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "First Album (2009 Reissue)",
         "url": "https://open.spotify.com/album/4YSmNOiY47nx2VodZ8N1I8"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 319493,
       "name": "1982",
       "url": "https://open.spotify.com/track/5naPQFvHKRHo2iNgUOgMX1"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Variations",
+        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        },
+        {
+          "name": "Anna Caragnano",
+          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
+        }
+      ],
+      "duration_ms": 429000,
+      "name": "Parola - Rework",
+      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Polymer",
-        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
-      },
-      "artists": [
-        {
-          "name": "Plaid",
-          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Dancers",
-      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 397266,
       "name": "Famous Monsters",
       "url": "https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Polymer",
+        "url": "https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA"
+      },
+      "artists": [
+        {
+          "name": "Plaid",
+          "url": "https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/258BvHGOVi8YbchiORbR52"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
-      },
-      "artists": [
-        {
-          "name": "Doss",
-          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
-        }
-      ],
-      "duration_ms": 246182,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/6cWWxdWRhOhoS0cPYOmE5d"
+      },
+      "artists": [
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "duration_ms": 246182,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/3D9xV9vmNNSLEItOtlPILE"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "Poiemusia La Nau Dels Argonautes",
-        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
-      },
-      "artists": [
-        {
-          "name": "Pep Llopis",
-          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
-        }
-      ],
-      "duration_ms": 358582,
-      "name": "Jardins Aquatics",
-      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
-    },
-    {
-      "added_at": "2023-02-10 05:00:00",
-      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 230839,
       "name": "Young Lies",
       "url": "https://open.spotify.com/track/20Q1NJcsDQthZNs1g3T6e7"
+    },
+    {
+      "added_at": "2023-02-10 05:00:00",
+      "album": {
+        "name": "Poiemusia La Nau Dels Argonautes",
+        "url": "https://open.spotify.com/album/4mZmQu38Uh8I45AvG5qA9a"
+      },
+      "artists": [
+        {
+          "name": "Pep Llopis",
+          "url": "https://open.spotify.com/artist/3VcO8Z1ws3siQr2XTZBr4e"
+        }
+      ],
+      "duration_ms": 358582,
+      "name": "Jardins Aquatics",
+      "url": "https://open.spotify.com/track/09b0qw7zbnzZE5W23HQbgJ"
     },
     {
       "added_at": "2023-02-10 05:00:00",

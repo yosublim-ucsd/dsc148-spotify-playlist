@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,908 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,934 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 49 | [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 |
 | 50 | [Lamha](https://open.spotify.com/track/2dCrvLPU36Iv8p7Tq1Vy6V) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7) | [Chaar Dinon Ka Khwaab](https://open.spotify.com/album/72qKpOx8VNdYxZriGFnBnz) | 4:48 |
 
-Snapshot ID: `MCxjOGZiMDY0MzYwNDhiMzM1NDgxMWExZTU3ZGJkMjMyYzk4ZjMxMGM4`
+Snapshot ID: `MCw5NzQ2NThjZDU2MDMyYTNkZTk2M2MyMjk3ZDI1YmExOThkZTRlMGQ4`

@@ -1,12 +1,12 @@
 {
   "description": "Mientras la gente no deje de aplaudir, Chente no deja de cantar. Por siempre, Vicente Fern\u00e1ndez.",
-  "num_followers": 894546,
+  "num_followers": 895061,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGNjMzQzNTM2YWNhOGU4ZjFkM2E2NzQwOWE1NzZiNmQ2NzkwNTgy",
+  "snapshot_id": "MCxkMzE2YjVkMDIxMmM4NTU3NTc4OTE2ZmNhMjViODQ3NDFjMDY5NDA2",
   "tracks": [
     {
       "added_at": "2023-05-02 17:44:11",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
+    },
+    {
+      "added_at": "2023-05-02 17:44:11",
+      "album": {
         "name": "A Pesar De Todo",
         "url": "https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso"
       },
@@ -527,8 +543,8 @@
     {
       "added_at": "2023-05-02 17:44:11",
       "album": {
-        "name": "Por Tu Maldito Amor",
-        "url": "https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1"
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Por Tu Maldito Amor",
-      "url": "https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5"
+      "duration_ms": 196520,
+      "name": "El Hombre Que M\u00e1s Te Am\u00f3",
+      "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
     },
     {
       "added_at": "2023-05-02 17:44:11",
@@ -559,22 +575,6 @@
       "duration_ms": 214213,
       "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
-    },
-    {
-      "added_at": "2023-05-02 17:44:11",
-      "album": {
-        "name": "El Hombre Que M\u00e1s Te Amo",
-        "url": "https://open.spotify.com/album/1mHnKPJaeo49qWrVILI3FO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 196520,
-      "name": "El Hombre Que M\u00e1s Te Am\u00f3",
-      "url": "https://open.spotify.com/track/3L1JzwKjjUr76VOdM9zwHk"
     },
     {
       "added_at": "2023-05-02 17:44:11",

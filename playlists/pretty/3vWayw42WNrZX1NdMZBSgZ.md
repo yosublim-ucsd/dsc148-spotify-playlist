@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Luis R Conriquez, Farruko
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,439 likes - 526 songs - 1 day 4 hr 27 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,438 likes - 526 songs - 1 day 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

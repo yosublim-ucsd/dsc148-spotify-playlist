@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,592 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,620 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 25 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 |
 | 26 | [LOL](https://open.spotify.com/track/4hlk7QBjzfj3rr0zCv51Qn) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [LOL](https://open.spotify.com/album/2oM1qoenuxfc8SBVApSlr0) | 2:10 |
 | 27 | [Rank 1](https://open.spotify.com/track/0lR5ndbXXJg8djIEj0ypLu) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD) | 2:59 |
-| 28 | [THE FORMULA](https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k) | 3:47 |
+| 28 | [THE FORMULA](https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [THE FORMULA](https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv) | 3:47 |
 | 29 | [ABLOH](https://open.spotify.com/track/5b5qsm7AO27JZ6osmKTshX) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Big League Fendi](https://open.spotify.com/artist/17wjReeHDWuTIjl2014aeE), [Seriousman](https://open.spotify.com/artist/2dEnL8KGIvLgA2vNSED2C6) | [ABLOH](https://open.spotify.com/album/3uQdpnXdLGFlu1WsSfMacT) | 3:07 |
 | 30 | [Pocket Rocket](https://open.spotify.com/track/35IF7iaIXi6E9tzg5DlflF) | [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Pocket Rocket](https://open.spotify.com/album/1pQI9kIuJdkxdPcm9oPv4y) | 2:02 |
 | 31 | [Catch Flights, Not feelings \(feat\. DillanPonders & Maky Lavender\)](https://open.spotify.com/track/6KVLm4BtO6N8P8jUE391MM) | [Tremayne](https://open.spotify.com/artist/0J4lkRbd2f6HwYoQUB34Pl), [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [Catch Flights, Not feelings \(feat\. DillanPonders & Maky Lavender\)](https://open.spotify.com/album/2Z829IcxCgTQvzF3lylRT6) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [Striker Music](https://open.spotify.com/track/19opOryJskLabSLp0WLAei) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Controversy](https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9) | 3:05 |
 | 50 | [Calendar](https://open.spotify.com/track/4q4N3w0KDRYpAGmBZPLMlQ) | [Nines](https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr), [Aisa](https://open.spotify.com/artist/3QNGOT15IHNzHTYMhiHnSQ) | [Crop Circle 2](https://open.spotify.com/album/6FKbwzq8TsA8F2p0ePYOx6) | 3:14 |
 
-Snapshot ID: `MCw0YzBkNjVjODQ1ZGUzYWUyNjQxMDAwNWNlZWM3N2ViZDQzNTQxMTRm`
+Snapshot ID: `MCxmZGYwNDJjZGVhYWJlYmViMjFkNDAwZmQyMjBiMDhhYzgwOTI5NTNi`

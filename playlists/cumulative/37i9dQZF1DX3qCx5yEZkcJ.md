@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-465 songs - 18 hr 59 min
+466 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [City Strollin'](https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [City Strollin'](https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4) | 3:18 | 2021-10-30 | 2022-07-29 |
 | [Cloud Walking](https://open.spotify.com/track/1A2KuZ3ojY7MdfZrkecxiY) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF), [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Collabs, Vol 2](https://open.spotify.com/album/4xN8ZoRTp9aE1mu61uO1oe) | 1:58 | 2020-06-19 | 2022-04-20 |
 | [Cloud9](https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [Cloud9](https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq) | 2:06 | 2023-03-23 |  |
+| [Clout Chaser](https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Tempura](https://open.spotify.com/artist/3WLUyDqIO1ihcIgNzIu6ZB) | [Clout Chaser](https://open.spotify.com/album/6K53BqCNrtbrdYT4C39XzI) | 1:52 | 2023-04-27 |  |
 | [Clout Chaser](https://open.spotify.com/track/4JiMEB4RvSXODgSnuv12n7) | [Sorbet](https://open.spotify.com/artist/6qTV5zSs0XxRpVhb1ADE0H), [Fets](https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u), [Sea Flap Flap](https://open.spotify.com/artist/4aPzws5w5zMmiRvcF4j9ZL) | [Clout Chaser](https://open.spotify.com/album/3z5CpWdWFgwbBkaBoSJDrf) | 1:52 | 2020-06-19 | 2022-07-06 |
 | [Coastal Drift](https://open.spotify.com/track/2VBmbnFWjxMsjHA4QTeU6o) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Coastal Drift](https://open.spotify.com/album/4VCAfD5ZkAdRplyNULBJKd) | 2:12 | 2020-06-29 | 2022-04-20 |
 | [Coffee Nap](https://open.spotify.com/track/55LozwKlz0eZHLKYWIqzFL) | [DOWORK](https://open.spotify.com/artist/1LlzrrYfRYhh4ldyep2HCe), [Spinal Twist](https://open.spotify.com/artist/6BpctUJp2F1LbpUAFrhG4R) | [Coffee Nap](https://open.spotify.com/album/2XkOmaC5Y8TeYRqo9cfGcJ) | 1:48 | 2020-01-14 | 2022-06-10 |
@@ -196,7 +197,7 @@
 | [Ja\(zz\)mmin](https://open.spotify.com/track/24KCZicSfQoj496yIIyiTr) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Ja\(zz\)mmin](https://open.spotify.com/album/1QfstQ2VOEcmJKSFIl7ImW) | 2:01 | 2021-06-13 | 2022-07-27 |
 | [Jasmine Tea](https://open.spotify.com/track/4Gr7YJGPPGIe5tfdu5hyzf) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Jasmine Tea](https://open.spotify.com/album/0AnnxGRdg76g5N4GehMSLq) | 2:06 | 2020-06-29 | 2022-07-27 |
 | [Jazz Apple](https://open.spotify.com/track/1X4FlTe5ECNONBfbUWcpXf) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Jazz Apple](https://open.spotify.com/album/3HS9hq92Zdyuh6i52kmn0w) | 2:20 | 2020-06-29 | 2022-11-21 |
-| [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 |  |
+| [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 | 2023-05-08 |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-09-11 | 2022-07-29 |
 | [Jazzy's Joint](https://open.spotify.com/track/3MonuiYoIeN3cYQ5WRuf5V) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [The Magic Carpet](https://open.spotify.com/album/3Czkz1H45XddNudhtf514n) | 2:31 | 2020-07-18 | 2021-10-29 |
 | [Jet Set](https://open.spotify.com/track/3QnFMeJXIvaqoSRlni1Bwl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Jet Set](https://open.spotify.com/album/1SAJSNSz3o3smlfj08jDFK) | 2:31 | 2020-07-03 | 2021-09-10 |

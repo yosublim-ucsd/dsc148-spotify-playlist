@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,114 likes - 104 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,162 likes - 104 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 103 | [Darkest Hour](https://open.spotify.com/track/6kVuwV25QpvLUDXwJEREwb) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Felt Cute Might Delete Later](https://open.spotify.com/album/2UuMruIqntCAoh3BbqgkRL) | 2:11 |
 | 104 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 |
 
-Snapshot ID: `MCw4NjkzYzEwYWQwNmYwMzAxMDU4NzYwODczOGIzODJiZmM4MGMwZjBi`
+Snapshot ID: `MCwwOWZkNGRkOWRiYjU5NjcyYzI3YmRjYzAzNTIzNGQ0MTI0ZGI0MDky`

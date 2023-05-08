@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: Lukky Boy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,149 likes - 99 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,148 likes - 99 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [Por Ti](https://open.spotify.com/track/6GDXVeWVlHdNVrvzuzrzgU) | [Máry M](https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns) | [Por Ti](https://open.spotify.com/album/2q4FRXjv5jOWU8Az2n0Lfi) | 2:41 |
 | 99 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
 
-Snapshot ID: `MCwzYWQwYjk2NWI1NDQ2YzQ1YzQ4OTJjNjY3MGRjMzMyN2E3NzdmMDVj`
+Snapshot ID: `MCxiMDMwMTZjMjcwNTBiMGQ4NTE5N2FlNmI2MGU2MDYwODI5MTU4ZTg3`

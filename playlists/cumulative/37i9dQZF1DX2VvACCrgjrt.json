@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 173208,
       "name": "Feeling Under Pressure",
       "url": "https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO"
@@ -4868,6 +4868,24 @@
       "duration_ms": 150761,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/7wSqfT8bbqVYviAe0xI9np"
+    },
+    {
+      "album": {
+        "name": "LIE 2 ME",
+        "url": "https://open.spotify.com/album/4MLPLqyMOYDYsS8gN1atmy"
+      },
+      "artists": [
+        {
+          "name": "Panda Eyes",
+          "url": "https://open.spotify.com/artist/3K0GDmmiRwn1Zc7RZzTeAz"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "LIE 2 ME",
+      "url": "https://open.spotify.com/track/47iVnL2naQMNyFAwUOZpay"
     },
     {
       "album": {

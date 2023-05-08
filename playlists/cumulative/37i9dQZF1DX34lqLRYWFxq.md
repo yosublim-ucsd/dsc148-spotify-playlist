@@ -4,7 +4,7 @@
 
 > New adventures in rock start here\. Cover: Ruby Waters
 
-271 songs - 14 hr 58 min
+272 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 | 2023-02-10 | 2023-04-09 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-24 | 2023-04-09 |
 | [Postcards](https://open.spotify.com/track/3c7NWOqdIkk0stoYxYl1uG) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3), [Kadeema](https://open.spotify.com/artist/4uPj13l69hBlVVAs5OjQXw) | [Postcards](https://open.spotify.com/album/07M4xcrAyCfYxAwVdQUxHO) | 3:23 | 2023-02-10 | 2023-02-25 |
-| [Powers of Darkness](https://open.spotify.com/track/6IHhQHC7tM7ufx88QhSQiL) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [Powers of Darkness](https://open.spotify.com/album/6B29hK9hfWj1PIwfoPQAIv) | 3:15 | 2023-04-28 |  |
+| [Powers of Darkness](https://open.spotify.com/track/5XCvz2S2dJMq9srLw2Wy8r) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [The Old Ways Remain](https://open.spotify.com/album/6vEFCw8dNZdCCbHVQKLqzX) | 3:15 | 2023-05-05 |  |
+| [Powers of Darkness](https://open.spotify.com/track/6IHhQHC7tM7ufx88QhSQiL) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [Powers of Darkness](https://open.spotify.com/album/6B29hK9hfWj1PIwfoPQAIv) | 3:15 | 2023-04-28 | 2023-05-08 |
 | [Punkstar](https://open.spotify.com/track/1rppprlWCNdcJY6DQxVNkI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Punkstar](https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t) | 2:20 | 2023-03-03 | 2023-04-15 |
 | [Qaigi](https://open.spotify.com/track/7nEu161pDcPeVCtl7K4Tab) | [Terry Uyarak](https://open.spotify.com/artist/3KEdNe4qRXyOjwxjnxkIkh), [Avery Keenainak](https://open.spotify.com/artist/4NTHtl1zps3k7OE6ufRzrx) | [Qaigi](https://open.spotify.com/album/1KQCDnSRfwIQ1jv5ZaBfmT) | 3:36 | 2023-03-24 |  |
 | [Quincy](https://open.spotify.com/track/6Bu3l8dUFfE42dAVHD15xp) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Quincy](https://open.spotify.com/album/0ySDYInTtULIS9hYQWTpzO) | 2:08 | 2023-04-14 | 2023-04-29 |

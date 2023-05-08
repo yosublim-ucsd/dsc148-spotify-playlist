@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-372 songs - 20 hr 44 min
+373 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Faux](https://open.spotify.com/track/2sL4GhaC3lSbQYLWxAJIj5) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 2:37 | 2021-12-15 | 2022-04-21 |
 | [fflow](https://open.spotify.com/track/0gmfwhIDSOHn75sZUoxq4W) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [fflow](https://open.spotify.com/album/26AAB2lwtFMYsEndndWTzv) | 3:35 | 2022-03-03 | 2022-04-08 |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-04-28 |  |
-| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-02-16 |  |
+| [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 | 2023-02-16 | 2023-05-08 |
 | [Find Out](https://open.spotify.com/track/2kZvZkGkLIsxjb7BrjreXd) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Find Out](https://open.spotify.com/album/5R5CwjBqr8gsA04OncfIYi) | 2:28 | 2023-01-27 | 2023-02-19 |
 | [Fingerprints](https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:16 | 2021-12-15 |  |
 | [Fireball](https://open.spotify.com/track/324ZWqJ5IPqemHwIq0w87Y) | [Kennyflowers](https://open.spotify.com/artist/7eC8Ihn4DtTy9tFK0S3Gdp), [Amare Symon​é](https://open.spotify.com/artist/5I2gIfxjl45cGxCZ8SwWw7), [Saint Lewis](https://open.spotify.com/artist/3qhlxMX0i4a9oVOx79NC9Y) | [Fireball](https://open.spotify.com/album/07Vdp0EpPAgcaQHLQogcmH) | 2:44 | 2021-12-15 | 2022-07-19 |
@@ -264,6 +264,7 @@
 | [Party On Mars](https://open.spotify.com/track/71Z9IsCkGbbMmVMatELPXa) | [Shanté](https://open.spotify.com/artist/01LFHYk6xpMMbpzH8Gzoju) | [Protection](https://open.spotify.com/album/5c1ExU1WZbSUBRRaF9vF1F) | 2:58 | 2021-12-15 | 2022-11-13 |
 | [PATTERNS](https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa) | [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH), [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [PATTERNS](https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4) | 3:44 | 2021-12-15 |  |
 | [Payday](https://open.spotify.com/track/1TEHeYuZGKXIcZxONEsJ3K) | [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Payday](https://open.spotify.com/album/0lofROR75lRgE1OZzPl1Pw) | 3:10 | 2021-12-15 | 2022-04-07 |
+| [Pink Skies](https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Pink Skies](https://open.spotify.com/album/1fkWEJ7SjJ3LzJJ0mDCun2) | 3:10 | 2023-03-24 |  |
 | [Pisonia Prologue](https://open.spotify.com/track/2q30Rgmrv7m1WcgIh2JJna) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Pisonia Prologue](https://open.spotify.com/album/5uudHDDRkFnpHNqpFsNdNA) | 1:52 | 2021-12-15 | 2023-04-01 |
 | [Please Don't Make Me Cry \- Jordan Rakei Remix](https://open.spotify.com/track/3fku32mH3zk91khNJcmZDR) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Please Don't Make Me Cry \(Jordan Rakei Remix\)](https://open.spotify.com/album/4qPFh28Iv2d0yRKF0pJE1s) | 4:22 | 2021-12-15 | 2023-01-03 |
 | [Poison](https://open.spotify.com/track/37D9mNHrQTxSkCUhzwo26u) | [Nesta](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Poison](https://open.spotify.com/album/07cuDu48HGQ7imcSohcKXc) | 3:23 | 2021-12-15 | 2022-07-29 |

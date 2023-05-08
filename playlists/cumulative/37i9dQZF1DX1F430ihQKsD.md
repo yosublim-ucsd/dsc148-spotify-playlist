@@ -4,7 +4,7 @@
 
 > La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-308 songs - 17 hr 47 min
+309 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Will You Be? \- CFCF Remix](https://open.spotify.com/track/2ajUD0hDhkdQzySZk0DNDb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [Ambition: Remixes 002](https://open.spotify.com/album/11heFNTH7nLYQ5LRiML19Z) | 5:02 | 2022-03-25 | 2023-02-18 |
 | [Y o Y](https://open.spotify.com/track/2o630PUPBm3pjEdllOiErd) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Y o Y](https://open.spotify.com/album/6xNUG5JbT6SEQ4tw0YF0MU) | 2:23 | 2022-09-30 |  |
 | [You Lie, You Die](https://open.spotify.com/track/0rqvHoUAiHo3Kq5VNSkw6I) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix Deluxe](https://open.spotify.com/album/2Hdz6RpavNCGQErcM330j3) | 2:30 | 2022-03-25 | 2022-06-04 |
-| [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN) | 3:44 | 2023-03-31 |  |
+| [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/1fOoazUjNQ6IWy4xz7sqBz) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:44 | 2023-05-05 |  |
+| [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN) | 3:44 | 2023-03-31 | 2023-05-08 |
 | [Zombie Cry](https://open.spotify.com/track/1Okam83qB6OKbfoDleeET4) | [Jason Bajada](https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p) | [Zombie Cry](https://open.spotify.com/album/0D9wFrtQuGIXFxfPoAyuS5) | 3:31 | 2022-09-23 |  |
 | [À bientôt](https://open.spotify.com/track/2hQqWfiludT87JzCvNVW5U) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [À bientôt](https://open.spotify.com/album/4nrDrQTrCS5re6HQNRoP6S) | 3:24 | 2022-08-26 | 2023-01-21 |
 | [À présent](https://open.spotify.com/track/5WbdB8SuUJ1Rgyhh8Uyq3L) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [À présent](https://open.spotify.com/album/4yCghmiyhqVae5mRq402br) | 4:51 | 2022-08-26 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmQzYmViNWZmYzkzZDZkMmNlYjk5MTk0NzAwMTU3MjA1YmNlMjA0",
+  "snapshot_id": "MCxjOGEzM2ZjN2ZkYjE3NWI3YTcyNTMzM2UzY2MwNDYzNjJkNTEzZjA5",
   "tracks": [
     {
       "added_at": "2022-07-06 17:58:03",
@@ -447,6 +447,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+      },
+      "artists": [
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+        }
+      ],
+      "duration_ms": 409066,
+      "name": "Melancholia II",
+      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Dragging a Dead Deer Up a Hill",
         "url": "https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Music for an Empty Metropolis",
-        "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 278095,
-      "name": "Acid Rain on Broken Rooftops",
-      "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr"
+        "name": "Music for an Empty Metropolis",
+        "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
       },
       "artists": [
         {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
         }
       ],
-      "duration_ms": 409066,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd"
+      "duration_ms": 278095,
+      "name": "Acid Rain on Broken Rooftops",
+      "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "The Detective (II)",
-        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+        "name": "Untrue",
+        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Exile on \u00c6r\u00f8",
-      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
+      "duration_ms": 126091,
+      "name": "In McDonalds",
+      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "The Detective (II)",
+        "url": "https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 265200,
+      "name": "Exile on \u00c6r\u00f8",
+      "url": "https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "I Am the Night",
         "url": "https://open.spotify.com/album/1boANaRfN0OSTEiQaEuFMd"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 381424,
       "name": "The Price of Failure",
       "url": "https://open.spotify.com/track/79QqQNC4vaXLzMSDuYNtLd"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Untrue",
-        "url": "https://open.spotify.com/album/1iRPiEYHIX2zpF8lkW54SK"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 126091,
-      "name": "In McDonalds",
-      "url": "https://open.spotify.com/track/7vZTj01UKQ6OuTItkQfxuy"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
+        "name": "Dreamrider",
+        "url": "https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V"
+      },
+      "artists": [
+        {
+          "name": "Lazerhawk",
+          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
+        }
+      ],
+      "duration_ms": 322246,
+      "name": "Neon Dawn",
+      "url": "https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
         "name": "Lost Themes",
         "url": "https://open.spotify.com/album/0RvpicJFMbX7pNWFG6MCe9"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 244813,
       "name": "The Experience Of Swimming - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3xTX2k03pGJ8PO9pytIrY2"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
-        "name": "Dreamrider",
-        "url": "https://open.spotify.com/album/6w8ccx6B6CxrQ0mkmRo65V"
-      },
-      "artists": [
-        {
-          "name": "Lazerhawk",
-          "url": "https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4"
-        }
-      ],
-      "duration_ms": 322246,
-      "name": "Neon Dawn",
-      "url": "https://open.spotify.com/track/0YJLN3gnRNoPJ2S9FEpSPV"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Bathyscaphe",
-        "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
-      },
-      "artists": [
-        {
-          "name": "Germind",
-          "url": "https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh"
-        }
-      ],
-      "duration_ms": 192757,
-      "name": "Bathyscaphe",
-      "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Sea of Black",
         "url": "https://open.spotify.com/album/01pQ8hR7osCIMZ7nXKTcid"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 386000,
       "name": "Aesthetic",
       "url": "https://open.spotify.com/track/3ATbLqkrK5N5rKKQLW9WfE"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Bathyscaphe",
+        "url": "https://open.spotify.com/album/5QQx5qIMnDBrJ10xgvi1Zp"
+      },
+      "artists": [
+        {
+          "name": "Germind",
+          "url": "https://open.spotify.com/artist/6Nqurhynev5eAUbHCaKzZh"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "Bathyscaphe",
+      "url": "https://open.spotify.com/track/0ZAOPU4UlP7PPt4aEAcD3I"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Berberian Sound Studio",
-        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Teresa, Lark of Ascension",
-      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "Loneliness of Hidden Structures",
         "url": "https://open.spotify.com/album/5zmFF4XK5jiz9i8yNvMyiS"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 554760,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/2ttcbHh6jc3fil4h9BIs7A"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Berberian Sound Studio",
+        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Teresa, Lark of Ascension",
+      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
       "added_at": "2022-07-06 17:58:03",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-07-06 17:58:03",
       "album": {
-        "name": "Endessiah",
-        "url": "https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH"
-      },
-      "artists": [
-        {
-          "name": "Treha Sektori",
-          "url": "https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh"
-        }
-      ],
-      "duration_ms": 366131,
-      "name": "Vocerah",
-      "url": "https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr"
-    },
-    {
-      "added_at": "2022-07-06 17:58:03",
-      "album": {
         "name": "The Disintegration Loops (Remastered)",
         "url": "https://open.spotify.com/album/5fmPy3XmYD0BJKEr86a3Cu"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 650213,
       "name": "dlp 2.1",
       "url": "https://open.spotify.com/track/0cXp19NraVBtCGmEkrK7rZ"
+    },
+    {
+      "added_at": "2022-07-06 17:58:03",
+      "album": {
+        "name": "Endessiah",
+        "url": "https://open.spotify.com/album/2CJSxFuH7DhuiWweDbwBQH"
+      },
+      "artists": [
+        {
+          "name": "Treha Sektori",
+          "url": "https://open.spotify.com/artist/4JuuDx7VBaILvOOnTiWEDh"
+        }
+      ],
+      "duration_ms": 366131,
+      "name": "Vocerah",
+      "url": "https://open.spotify.com/track/0MkIIsZx4D5fKp0pMZOEQr"
     },
     {
       "added_at": "2022-07-06 17:58:03",

@@ -4,7 +4,7 @@
 
 > Underground dance and alternative that went on to define a new millennium.
 
-130 songs - 10 hr 52 min
+131 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Connected](https://open.spotify.com/track/35ycIb1IgAV92DkHaknNdc) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Summer 90's Party](https://open.spotify.com/album/2VK2N7r4Natalp58tod7dH) | 5:13 | 2021-07-14 | 2022-11-14 |
 | [Connected](https://open.spotify.com/track/5t09SnxOR2AelOghumKkXO) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/2IozNWNXp77fqFQOgzpLcw) | 5:14 | 2021-07-14 |  |
 | [Connected](https://open.spotify.com/track/5tXWXbZC2wCvXBzlxu0ZQ6) | [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8) | [Connected](https://open.spotify.com/album/6DvxgXySoAVKEeQ80xnQ4i) | 5:15 | 2021-07-14 | 2022-07-29 |
-| [Cowgirl \- Remastered](https://open.spotify.com/track/5nDndZX9lrYjAS4d1aWFxM) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(20th Anniversary Remaster\)](https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY) | 8:29 | 2021-07-14 |  |
+| [Cowgirl \- Remastered](https://open.spotify.com/track/6ia8O1DZOvll7kDbius7KZ) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [A Collection 2](https://open.spotify.com/album/2gcoahpKkv7X0PDcYYDnqX) | 8:28 | 2021-07-14 |  |
+| [Cowgirl \- Remastered](https://open.spotify.com/track/5nDndZX9lrYjAS4d1aWFxM) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Dubnobasswithmyheadman \(20th Anniversary Remaster\)](https://open.spotify.com/album/3WQpmFc7GonmzN40EjbbKY) | 8:29 | 2021-07-14 | 2023-05-08 |
 | [Da Funk](https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Homework](https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y) | 5:28 | 2021-07-14 |  |
 | [Dealing with the Roster](https://open.spotify.com/track/6mnQcJtt3gMf9jBAj957le) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Saturday Teenage Kick](https://open.spotify.com/album/5BM8CimFKOpUHa9zUmcZHV) | 5:27 | 2021-07-14 |  |
 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 | 2021-07-14 |  |

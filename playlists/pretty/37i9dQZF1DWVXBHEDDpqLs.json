@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 27921,
+  "num_followers": 27937,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTFmOTM1NzRmYWQ1ZDM0ZTRmNzcwNzljNzUzNGVlMGVlNjFkNjlj",
+  "snapshot_id": "MCwzMDlmZTM3ZmNkYmQwZDIxNTM4YTU5Mjk0NWY1NDc0OTRlNmM1NjQ4",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
+        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
+      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Banter",
         "url": "https://open.spotify.com/album/2CrWMemgMF8qnp8r2dg814"
       },
@@ -919,26 +939,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rooted (feat. Ester Dean) [Al Rich Club Mix]",
-        "url": "https://open.spotify.com/album/0s7hBEjgBBbfp9tED5XLMt"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
-        }
-      ],
-      "duration_ms": 184058,
-      "name": "Rooted (feat. Ester Dean) - Al Rich Club Mix",
-      "url": "https://open.spotify.com/track/4k2ZyVo88pz7olFMKi18dK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Billion Dollar Bitch (feat. Yung Baby Tate) [Swizzymack Remix]",
         "url": "https://open.spotify.com/album/5sBmlgY9QI82CYKHIFu3ww"
       },
@@ -963,18 +963,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Jimmy Crooks",
-        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
+        "name": "Nights Into Mornings EP",
+        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
       "artists": [
         {
-          "name": "Tricks",
-          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
+          "name": "CalvoMusic",
+          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
+        },
+        {
+          "name": "Zfrek",
+          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
         }
       ],
-      "duration_ms": 145711,
-      "name": "Jimmy Crooks",
-      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
+      "duration_ms": 166974,
+      "name": "Shake My Ass",
+      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Nights Into Mornings EP",
-        "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
+        "name": "Jimmy Crooks",
+        "url": "https://open.spotify.com/album/6fYt6tWcPaURUSfzovB2vG"
       },
       "artists": [
         {
-          "name": "CalvoMusic",
-          "url": "https://open.spotify.com/artist/2bq46AC8MbKxNRve4AKEEo"
-        },
-        {
-          "name": "Zfrek",
-          "url": "https://open.spotify.com/artist/2zgp0MQFnAyd24iVVxw37g"
+          "name": "Tricks",
+          "url": "https://open.spotify.com/artist/4rB77iwq0xxEWn1Di6ihxT"
         }
       ],
-      "duration_ms": 166974,
-      "name": "Shake My Ass",
-      "url": "https://open.spotify.com/track/2ef86L53IXDgx6iyIALdQS"
+      "duration_ms": 145711,
+      "name": "Jimmy Crooks",
+      "url": "https://open.spotify.com/track/5gRf48AnnCzltY9iYhE5p3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "We from Baltimore",
         "url": "https://open.spotify.com/album/1UMcvxPkNlYSv6I2WpNkRN"
       },
@@ -1171,38 +1187,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+        "name": "TWITCH",
+        "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
       },
       "artists": [
         {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
         }
       ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        }
-      ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
+      "duration_ms": 190639,
+      "name": "TWITCH",
+      "url": "https://open.spotify.com/track/6gZZoJwDXTYWiUIVs7ERxW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1227,6 +1223,26 @@
       "duration_ms": 162919,
       "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
       "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "TWITCH",
-        "url": "https://open.spotify.com/album/37FPdxNsW9wwfbsrxhiRT6"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 190639,
-      "name": "TWITCH",
-      "url": "https://open.spotify.com/track/6gZZoJwDXTYWiUIVs7ERxW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1431,6 +1431,30 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
+      },
+      "artists": [
+        {
+          "name": "Gianni Lee",
+          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
+        },
+        {
+          "name": "Tunji Ige",
+          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
+        },
+        {
+          "name": "Andrea Valle",
+          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Wash Yo Handz",
         "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
       },
@@ -1463,30 +1487,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Switch",
-        "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
-      },
-      "artists": [
-        {
-          "name": "Gianni Lee",
-          "url": "https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20"
-        },
-        {
-          "name": "Tunji Ige",
-          "url": "https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju"
-        },
-        {
-          "name": "Andrea Valle",
-          "url": "https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Switch",
-      "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "STAND BACK (RELOADED)",
         "url": "https://open.spotify.com/album/3374aupZhZ7bPEgjqezXJV"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 157714,
       "name": "STAND BACK (RELOADED)",
       "url": "https://open.spotify.com/track/3xGJbb2zbqialftjg7Jh16"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
-      },
-      "artists": [
-        {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Pepper Dem",
+        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
+      },
+      "artists": [
+        {
+          "name": "Magugu",
+          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Pepper Dem",
+      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1631,22 +1647,6 @@
       "duration_ms": 247236,
       "name": "sunscreen",
       "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Pepper Dem",
-        "url": "https://open.spotify.com/album/1gsMY3akSiEcBidWJm4tVi"
-      },
-      "artists": [
-        {
-          "name": "Magugu",
-          "url": "https://open.spotify.com/artist/6zfXNcgsqAJvIgEqWcX9hL"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Pepper Dem",
-      "url": "https://open.spotify.com/track/1KiXz5SBg7cAdzWSCwc90h"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Sweaty Clothes (feat. Cerrissa Koza)",
+        "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
+      },
+      "artists": [
+        {
+          "name": "DJ Slugo",
+          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
+        },
+        {
+          "name": "Cerrissa Koza",
+          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Sweaty Clothes (feat. Cerrissa Koza)",
+      "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Black Rave Culture Vol 2",
         "url": "https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy"
       },
@@ -1915,26 +1935,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sweaty Clothes (feat. Cerrissa Koza)",
-        "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
-      },
-      "artists": [
-        {
-          "name": "DJ Slugo",
-          "url": "https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT"
-        },
-        {
-          "name": "Cerrissa Koza",
-          "url": "https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "Sweaty Clothes (feat. Cerrissa Koza)",
-      "url": "https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Gbadolite B-Sides",
         "url": "https://open.spotify.com/album/3M5kKxofLNMyTLvUkJnmP7"
       },
@@ -1963,42 +1963,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rok The Hips",
-        "url": "https://open.spotify.com/album/3N6pe44E2ta1C7C4vsbpxn"
-      },
-      "artists": [
-        {
-          "name": "Dj L-Banga",
-          "url": "https://open.spotify.com/artist/5CRIOUlKKUQpcdHXgv91dK"
-        }
-      ],
-      "duration_ms": 118520,
-      "name": "Rok The Hips",
-      "url": "https://open.spotify.com/track/4CqpnfWiO0rgLr8QoGza7P"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Holding It Together",
-        "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Sunny Cowell",
-          "url": "https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "Holding It Together",
-      "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Let Me Catch My Breath (Baltimega Remix)",
         "url": "https://open.spotify.com/album/318sp40nw0rYQapfTwUz0Z"
       },
@@ -2015,6 +1979,38 @@
       "duration_ms": 209076,
       "name": "Let Me Catch My Breath - Baltimega Remix",
       "url": "https://open.spotify.com/track/31szi24yMz41kl2oz87mlW"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh"
+      },
+      "artists": [
+        {
+          "name": "Funky Craig",
+          "url": "https://open.spotify.com/artist/2yKm5l8fjv7wjP4xFbVbjE"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rok The Hips",
+        "url": "https://open.spotify.com/album/3N6pe44E2ta1C7C4vsbpxn"
+      },
+      "artists": [
+        {
+          "name": "Dj L-Banga",
+          "url": "https://open.spotify.com/artist/5CRIOUlKKUQpcdHXgv91dK"
+        }
+      ],
+      "duration_ms": 118520,
+      "name": "Rok The Hips",
+      "url": "https://open.spotify.com/track/4CqpnfWiO0rgLr8QoGza7P"
     }
   ],
   "unique_name": "Global Club Music",

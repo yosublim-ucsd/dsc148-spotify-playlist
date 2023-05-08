@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 107370,
       "name": "Dark Winter",
       "url": "https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU"
@@ -4002,6 +4002,24 @@
       "duration_ms": 156000,
       "name": "Wingbeats Source III: Piano and Wings",
       "url": "https://open.spotify.com/track/2fIGv43HCZ6tilfVfovu2e"
+    },
+    {
+      "album": {
+        "name": "Wingbeats",
+        "url": "https://open.spotify.com/album/3nDGt0nkTrs5ApCxb2FucN"
+      },
+      "artists": [
+        {
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Wingbeats Source III: Piano and Wings",
+      "url": "https://open.spotify.com/track/6iqq6toY0z6qzTLBSMNOrr"
     },
     {
       "album": {

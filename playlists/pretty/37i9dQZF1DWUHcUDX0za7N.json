@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX?si=d0hf2IO-T9m3Boh8CcZn7A\"> A-Q</a> and <a href=\"https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=GLVEnDSgRv6NWAaIdIM-wg\"> Ruger</a> ",
-  "num_followers": 18983,
+  "num_followers": 19033,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWY0MTkwYjJiNmU3MTVhMDdiNjkyNDYxNWNlYmQyYzE4ZDE4ZjA3",
+  "snapshot_id": "MCwwYzdjZWExMmU2MmRkYzg1MzIzNTNmZjNlNjcwYjcxMzM5ZDFhY2Y4",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+        "name": "Where Dem Dey",
+        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+      "duration_ms": 182500,
+      "name": "Where Dem Dey",
+      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Where Dem Dey",
-        "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
       },
       "artists": [
         {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Where Dem Dey",
-      "url": "https://open.spotify.com/track/5urCHNHBnnucIoZvnzns48"
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -803,22 +803,6 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Bad Boy Etiquette 101",
-        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 155005,
-      "name": "No Peace (Violence)",
-      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -923,6 +907,38 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 206750,
+      "name": "Reason You",
+      "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 155005,
+      "name": "No Peace (Violence)",
+      "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "BILLION DOLLAR DREAM (Deluxe Version)",
         "url": "https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi"
       },
@@ -943,26 +959,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Providence",
-        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 186923,
-      "name": "Afro Jigga",
-      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Commander",
         "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
       },
@@ -979,18 +975,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Rave & Roses Ultra",
-        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+        "name": "Providence",
+        "url": "https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF"
       },
       "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
         {
           "name": "Rema",
           "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 206750,
-      "name": "Reason You",
-      "url": "https://open.spotify.com/track/3IG4kHTN6zIFODRL1TFOni"
+      "duration_ms": 186923,
+      "name": "Afro Jigga",
+      "url": "https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "NI NIGERIA",
+        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
+      },
+      "artists": [
+        {
+          "name": "Tomi Tribe",
+          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
+        },
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "NI NIGERIA",
+      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Bando Diaries",
         "url": "https://open.spotify.com/album/21YNT7rWSXlWMDph9ZZnuC"
       },
@@ -1091,22 +1111,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Boujee",
-        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+        "name": "Smackdown",
+        "url": "https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn"
       },
       "artists": [
         {
-          "name": "Keeya Keys",
-          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+          "name": "AttiFaya",
+          "url": "https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0"
         },
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Jaido P",
+          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Boujee",
-      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
+      "duration_ms": 162000,
+      "name": "Smackdown",
+      "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Smackdown",
-        "url": "https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn"
-      },
-      "artists": [
-        {
-          "name": "AttiFaya",
-          "url": "https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0"
-        },
-        {
-          "name": "Jaido P",
-          "url": "https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Smackdown",
-      "url": "https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Young Preacher",
         "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
@@ -1175,6 +1175,26 @@
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Boujee",
+        "url": "https://open.spotify.com/album/7sjFxdJ9g5uPLNCxwfO2Sk"
+      },
+      "artists": [
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Boujee",
+      "url": "https://open.spotify.com/track/3UgVuTqgQTO8u3m9Zuqotq"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "NI NIGERIA",
-        "url": "https://open.spotify.com/album/4aoMwgAa2hqW9tvSCZF33K"
-      },
-      "artists": [
-        {
-          "name": "Tomi Tribe",
-          "url": "https://open.spotify.com/artist/3Rk3u5yJYynTAwt50Fbm51"
-        },
-        {
-          "name": "Toy\u00e9",
-          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "NI NIGERIA",
-      "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Soundtrack To The Good Life",
-        "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
+        "name": "The Guy",
+        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
       "artists": [
         {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+          "name": "M.I. Abaga",
+          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
         }
       ],
-      "duration_ms": 235081,
-      "name": "Soft Life",
-      "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
+      "duration_ms": 197538,
+      "name": "The Guy",
+      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1319,6 +1315,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Soundtrack To The Good Life",
+        "url": "https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY"
+      },
+      "artists": [
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        }
+      ],
+      "duration_ms": 235081,
+      "name": "Soft Life",
+      "url": "https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "YPSZN3",
         "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 200833,
       "name": "Silent Mode",
       "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "The Guy",
-        "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
-      },
-      "artists": [
-        {
-          "name": "M.I. Abaga",
-          "url": "https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "The Guy",
-      "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
     },
     {
       "added_at": "2023-05-04 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106807,
+  "num_followers": 106815,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQ1YWNmZmYyYWVkZTkwOThjMWQ2ZWM1MTdlNGMxZjJmNjFhNjM4",
+  "snapshot_id": "MCxlYzQ2ZDU2ZDA3NmI5YjdkNTE0NTRmMjlkNjRkMzA5ODJlNTVlYzJj",
   "tracks": [
     {
       "added_at": "2023-05-05 08:23:09",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 251106,
       "name": "Podemos Intentar",
       "url": "https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
         "name": "Algod\u00f3n",
         "url": "https://open.spotify.com/album/35XG5qlu93AXHV56U8tKZm"
       },
@@ -567,18 +583,18 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
+      "duration_ms": 187440,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -603,22 +619,6 @@
       "duration_ms": 213983,
       "name": "La Ideal",
       "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Monte Carlo",
-      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
-      },
-      "artists": [
-        {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 248550,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/6pu8sEx8UvVuGbVI2WvSLy"
+      },
+      "artists": [
+        {
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 248550,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/2WAt7nE4oWR5yn6dUil3Qp"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1115,38 +1115,6 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
-        "name": "NO TE DEJO EN VISTO",
-        "url": "https://open.spotify.com/album/3bLyFrD9ik2NoFSqty1f07"
-      },
-      "artists": [
-        {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
-        }
-      ],
-      "duration_ms": 176675,
-      "name": "NO TE DEJO EN VISTO",
-      "url": "https://open.spotify.com/track/7G3uxNsW5iRcO7ITwFf9YO"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
-        "name": "La Musa",
-        "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
-      },
-      "artists": [
-        {
-          "name": "Loui Santana",
-          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
-        }
-      ],
-      "duration_ms": 101739,
-      "name": "La Musa",
-      "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1179,6 +1147,38 @@
       "duration_ms": 138485,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/56q9dVA6Fo4s0BAhUJRip8"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "NO TE DEJO EN VISTO",
+        "url": "https://open.spotify.com/album/3bLyFrD9ik2NoFSqty1f07"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 176675,
+      "name": "NO TE DEJO EN VISTO",
+      "url": "https://open.spotify.com/track/7G3uxNsW5iRcO7ITwFf9YO"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
+        "name": "La Musa",
+        "url": "https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA"
+      },
+      "artists": [
+        {
+          "name": "Loui Santana",
+          "url": "https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh"
+        }
+      ],
+      "duration_ms": 101739,
+      "name": "La Musa",
+      "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
     },
     {
       "added_at": "2023-05-05 08:23:09",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-05-05 08:23:09",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
+    },
+    {
+      "added_at": "2023-05-05 08:23:09",
+      "album": {
         "name": "Quiero (TDH's Version)",
         "url": "https://open.spotify.com/album/0mPX5LdIJMkxNUDYhAHncL"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 150000,
       "name": "QUIEN ES ESA",
       "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
-    },
-    {
-      "added_at": "2023-05-05 08:23:09",
-      "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
     }
   ],
   "unique_name": "Latin R&B",

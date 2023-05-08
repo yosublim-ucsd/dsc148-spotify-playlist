@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Owain Davies of Panchiko
 
-309 songs - 21 hr 12 min
+310 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [taste of concrete](https://open.spotify.com/track/5gsLyERQX8cQslfSqdhTw3) | [Shrimp](https://open.spotify.com/artist/53WWphw1pE9SBpsjRgU9tC) | [taste of concrete](https://open.spotify.com/album/3P3IXKGBC2d0SfJAvcbg9V) | 2:32 | 2023-02-09 |  |
 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 | 2023-03-24 |  |
 | [Tea Garden](https://open.spotify.com/track/2KYQPlfhrmmrW6RKzkGgbi) | [Sparkler](https://open.spotify.com/artist/5z02NYGqi7UljYwTcRK66K) | [Big Sonic Chill](https://open.spotify.com/album/4AHs5grKVa8hEZ5QC2acDd) | 4:27 | 2023-03-13 | 2023-04-11 |
+| [Tears](https://open.spotify.com/track/2dNOg4we0JnbP1UzWzsGPS) | [Knifeplay](https://open.spotify.com/artist/7oT0M95uIX2aJGN4we092i) | [Pearlty](https://open.spotify.com/album/0UYM7HfTpbX0uG9sDVdeS3) | 4:02 | 2023-02-09 |  |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 |  |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-22 | 2023-01-20 |
@@ -291,7 +292,7 @@
 | [Thursday](https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/5ohM0IJGIOO1xacFqrba3l) | 4:17 | 2021-10-19 | 2022-07-29 |
 | [Tiny Houses](https://open.spotify.com/track/5ibvAGEIPKfrK4WKGg9Iuy) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [A Tiny House, In Secret Speeches, Polar Equals](https://open.spotify.com/album/2lcLu95m0kpo6bY86rj2XA) | 5:52 | 2022-01-10 | 2022-08-04 |
 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 | 2022-08-13 | 2022-10-06 |
-| [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 | 2022-12-15 |  |
+| [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 | 2022-12-15 | 2023-05-08 |
 | [Toxins and Smoke](https://open.spotify.com/track/5I9thmZdXFil80RahOaRm3) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi) | [Toxins and Smoke](https://open.spotify.com/album/7GYHsiuT0SB51WmTCsmhSc) | 5:12 | 2023-05-05 |  |
 | [Tropics](https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Tropics](https://open.spotify.com/album/24kVxQ6OijMWrEutVDusaI) | 4:18 | 2022-12-12 | 2023-02-22 |
 | [Try Harder Still](https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Life Is Not A Lesson](https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut) | 2:23 | 2021-10-19 |  |

@@ -3332,6 +3332,24 @@
     {
       "album": {
         "name": "\u590f\u591c\u6700\u540e\u7684\u70df\u706b",
+        "url": "https://open.spotify.com/album/3xyStVqccZxf2AU5qudAUQ"
+      },
+      "artists": [
+        {
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279587,
+      "name": "\u590f\u591c\u6700\u540e\u7684\u70df\u706b",
+      "url": "https://open.spotify.com/track/3C62VWrA6IRhoLAX4NXXua"
+    },
+    {
+      "album": {
+        "name": "\u590f\u591c\u6700\u540e\u7684\u70df\u706b",
         "url": "https://open.spotify.com/album/0GNyYkCvDDd6OmF2ngKD1w"
       },
       "artists": [
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 279587,
       "name": "\u590f\u591c\u6700\u540e\u7684\u70df\u706b",
       "url": "https://open.spotify.com/track/6qYPcLow4RcPbYBUC2qPq0"

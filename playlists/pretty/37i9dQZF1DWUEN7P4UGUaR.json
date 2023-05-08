@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Louis Pascal",
-  "num_followers": 468,
+  "num_followers": 488,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGRmOGJhZTVkMGUzN2M3NmMwZTdlZjc4YTcxYjhkZTA1MGUxNGIw",
+  "snapshot_id": "MCwyZTQ0NmYxNGY2YWQ4Yzk2M2MxOTE2OGNiYzliN2E3ODljOWZjY2Jk",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -63,6 +63,26 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Agbebolo",
+        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        },
+        {
+          "name": "NHYIRABA GIDEON",
+          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
+        }
+      ],
+      "duration_ms": 332695,
+      "name": "Agbebolo",
+      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -87,26 +107,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Agbebolo",
-        "url": "https://open.spotify.com/album/7GoCOy3dOZpcQRuzN8KAzh"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        },
-        {
-          "name": "NHYIRABA GIDEON",
-          "url": "https://open.spotify.com/artist/36YCpQMAGIr64ocWijQ8Pl"
-        }
-      ],
-      "duration_ms": 332695,
-      "name": "Agbebolo",
-      "url": "https://open.spotify.com/track/4aHsfGNJuwLRvmUKMavDOq"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Prayer for deliverance",
-        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
+        "name": "Okasa",
+        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
       },
       "artists": [
         {
-          "name": "Broda Harrison",
-          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
+          "name": "Eugene Zuta",
+          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
         }
       ],
-      "duration_ms": 94111,
-      "name": "Prayer for deliverance",
-      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
+      "duration_ms": 267424,
+      "name": "Okasa",
+      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Okasa",
-        "url": "https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP"
+        "name": "Prayer for deliverance",
+        "url": "https://open.spotify.com/album/34jI0eSmUWkeqnZe8xKCth"
       },
       "artists": [
         {
-          "name": "Eugene Zuta",
-          "url": "https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP"
+          "name": "Broda Harrison",
+          "url": "https://open.spotify.com/artist/1Jcdhjzaz05RRGus6usY5t"
         }
       ],
-      "duration_ms": 267424,
-      "name": "Okasa",
-      "url": "https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc"
+      "duration_ms": 94111,
+      "name": "Prayer for deliverance",
+      "url": "https://open.spotify.com/track/2jhwlIEH1BxJRkaSZ5fIo9"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Mehyia Yesu",
-        "url": "https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp"
-      },
-      "artists": [
-        {
-          "name": "Omari Kissi Jnr",
-          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
-        }
-      ],
-      "duration_ms": 518260,
-      "name": "Mehyia Yesu",
-      "url": "https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Final Say (Live)",
         "url": "https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 408235,
       "name": "Amenuveve (Grace) - Live",
       "url": "https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Mehyia Yesu",
+        "url": "https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp"
+      },
+      "artists": [
+        {
+          "name": "Omari Kissi Jnr",
+          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
+        }
+      ],
+      "duration_ms": 518260,
+      "name": "Mehyia Yesu",
+      "url": "https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Testimony Therapy",
+        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
+      },
+      "artists": [
+        {
+          "name": "Celestine Donkor",
+          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
+        }
+      ],
+      "duration_ms": 219824,
+      "name": "Testimony - Acoustic",
+      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Gye Wayeyi",
         "url": "https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy"
       },
@@ -807,22 +823,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "A Letter to the Wise",
-        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
-      },
-      "artists": [
-        {
-          "name": "Israel Chemphe",
-          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
-        }
-      ],
-      "duration_ms": 212323,
-      "name": "A Letter to the Wise",
-      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "Adom Bi",
         "url": "https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO"
       },
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "A Letter to the Wise",
+        "url": "https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh"
+      },
+      "artists": [
+        {
+          "name": "Israel Chemphe",
+          "url": "https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z"
+        }
+      ],
+      "duration_ms": 212323,
+      "name": "A Letter to the Wise",
+      "url": "https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "Mensuro",
         "url": "https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 404300,
       "name": "Mensuro",
       "url": "https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Testimony Therapy",
-        "url": "https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7"
-      },
-      "artists": [
-        {
-          "name": "Celestine Donkor",
-          "url": "https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc"
-        }
-      ],
-      "duration_ms": 219824,
-      "name": "Testimony - Acoustic",
-      "url": "https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7"
     }
   ],
   "unique_name": "Aseda",

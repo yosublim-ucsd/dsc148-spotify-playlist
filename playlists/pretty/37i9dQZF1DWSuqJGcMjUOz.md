@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,331 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,335 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 25 | [L'âge de bière](https://open.spotify.com/track/7IqeBR9zKQr60ocw6tJnf9) | [Mononc' Serge](https://open.spotify.com/artist/35BsDVEPHGqz4fPhlRJHB1), [Anonymus](https://open.spotify.com/artist/47KsZ7WY3lQUXxhOpXkIG8) | [L'académie du massacre](https://open.spotify.com/album/1dUcPSoAYiiJ2ywiDbqnZ4) | 3:52 |
 | 26 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 |
 | 27 | [Je t'ai manqué](https://open.spotify.com/track/033NZg6ZCt8UOG1U7Y4bB0) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [Les chevaux du plaisir \(Boulay chante Bashung\)](https://open.spotify.com/album/0mQ42DeEtBHZ33FhVzJ5sV) | 3:55 |
-| 28 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 |
-| 29 | [Marie\-Hélène](https://open.spotify.com/track/2FGJUywuJ7MyFXtJpM6YrH) | [Sylvain Lelièvre](https://open.spotify.com/artist/5RHfIYR4tzf3LlRXJsN8tH) | [Ses plus belles chansons](https://open.spotify.com/album/2T9LjWDkThEi1wfB3PBJi7) | 3:53 |
+| 28 | [Marie\-Hélène](https://open.spotify.com/track/2FGJUywuJ7MyFXtJpM6YrH) | [Sylvain Lelièvre](https://open.spotify.com/artist/5RHfIYR4tzf3LlRXJsN8tH) | [Ses plus belles chansons](https://open.spotify.com/album/2T9LjWDkThEi1wfB3PBJi7) | 3:53 |
+| 29 | [Nouvelle administration](https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Nouvelle administration](https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u) | 3:18 |
 | 30 | [Aéroplane](https://open.spotify.com/track/3oB2fUCPgYkLezFGxSkuXk) | [Keith Kouna](https://open.spotify.com/artist/5jVzu02JTqYPuzeNH7voWK) | [Métastases](https://open.spotify.com/album/4BOFYJhsk6nESFlDH35jBO) | 5:12 |
 | 31 | [Te revoir](https://open.spotify.com/track/6mmc1ZPn4H3bD16P3Gh74z) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Soap Box](https://open.spotify.com/album/3hm10jsgb47voscEXgHW2W) | 3:25 |
 | 32 | [Dans l'sang](https://open.spotify.com/track/6sysCIlYo1j1TS0SkbIXLT) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Rap Queb Monuments](https://open.spotify.com/album/2pp3pSMIiaXswhgqfOp6I2) | 4:13 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 34 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 |
 | 35 | [Chou](https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB) | [Chou](https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2) | [Chou](https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1) | 2:03 |
 
-Snapshot ID: `MCxkNTBmZWEwNzA5OWI3OTQ2YjI0NWVlYzg3MjY2Y2JlM2QwYmIwZGQ5`
+Snapshot ID: `MCw1YzAzMzQ1MmMwMmEwNjcwNTNiY2E5ODNlZTAyNjQ1OTkwZDUxOGI2`

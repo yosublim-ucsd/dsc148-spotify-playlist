@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover: The Chairs (Taiwan)",
-  "num_followers": 64068,
+  "num_followers": 64126,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjE4NDBlZmIxMGNjOWUzYTNiNzlmZjJiNzcxOTYyMjUxMTBjNDJl",
+  "snapshot_id": "MCw2ZGYxYThhNDIyNzcwYmZiYjJjODBkYTk4YjJjMDM4OGZmZDQ1OGI3",
   "tracks": [
     {
       "added_at": "2023-05-04 16:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+        "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "SHERRY",
+          "url": "https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz"
         }
       ],
-      "duration_ms": 265000,
-      "name": "for lovers who hesitate",
-      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+      "duration_ms": 277961,
+      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -615,6 +615,22 @@
       "duration_ms": 142266,
       "name": "\u4f46",
       "url": "https://open.spotify.com/track/7IsKdMqFL1SbEnF6uzAMDi"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W"
+        "name": "Saan?",
+        "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
       },
       "artists": [
         {
-          "name": "SHERRY",
-          "url": "https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz"
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
         }
       ],
-      "duration_ms": 277961,
-      "name": "\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e2a\u0e2d\u0e19\u0e43\u0e2b\u0e49\u0e09\u0e31\u0e19\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27",
-      "url": "https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ"
+      "duration_ms": 206500,
+      "name": "Saan?",
+      "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -679,22 +695,6 @@
       "duration_ms": 125000,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/24GzZhuO5eYkG2lypqtoe9"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
-        "name": "Saan?",
-        "url": "https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Saan?",
-      "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG"
-      },
-      "artists": [
-        {
-          "name": "Reality Club",
-          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
-        }
-      ],
-      "duration_ms": 246750,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 199930,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/558sXmfEy2ay0wCIg6BFKG"
+      },
+      "artists": [
+        {
+          "name": "Reality Club",
+          "url": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "duration_ms": 246750,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4eD5EYgHx2HJ6OKEduR8dc"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
+        "name": "Cap, Capo, Cigarettes & Beer",
+        "url": "https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN"
+      },
+      "artists": [
+        {
+          "name": "Safeplanet",
+          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
+        }
+      ],
+      "duration_ms": 129250,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
         "name": "cheeze",
         "url": "https://open.spotify.com/album/6rtrPG0ubNp6cBPR8pYuFf"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "Cap, Capo, Cigarettes & Beer",
-        "url": "https://open.spotify.com/album/20hXyszz0sJunS2athJ2QN"
-      },
-      "artists": [
-        {
-          "name": "Safeplanet",
-          "url": "https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw"
-        }
-      ],
-      "duration_ms": 129250,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/3OdAbvLDmobuNrIVp6vapw"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
         "name": "lately",
         "url": "https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 170932,
       "name": "lately",
       "url": "https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 273662,
+      "name": "Birdy",
+      "url": "https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1147,22 +1163,6 @@
       "duration_ms": 223461,
       "name": "Rockstar - TELEx TELEXs Remix",
       "url": "https://open.spotify.com/track/6eFnYnsZRq74oOEX46hb1J"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 273662,
-      "name": "Birdy",
-      "url": "https://open.spotify.com/track/1A2prTQuLOKxZ7ztWmORm4"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1219,22 +1219,34 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "Dreams (feat. Mandark)",
-        "url": "https://open.spotify.com/album/2aMVUEYp4SKsWiVlUaOWUJ"
+        "name": "Do The Dance",
+        "url": "https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza"
       },
       "artists": [
         {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        },
-        {
-          "name": "Mandark",
-          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         }
       ],
-      "duration_ms": 268235,
-      "name": "Dreams (feat. Mandark)",
-      "url": "https://open.spotify.com/track/31AwtIYfVZv7ujPcMEktvR"
+      "duration_ms": 242466,
+      "name": "Do The Dance",
+      "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
+        "name": "Em Trang Tr\u00ed",
+        "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdt",
+          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "Em Trang Tr\u00ed",
+      "url": "https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1259,34 +1271,22 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "Em Trang Tr\u00ed",
-        "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3"
+        "name": "Dreams (feat. Mandark)",
+        "url": "https://open.spotify.com/album/2aMVUEYp4SKsWiVlUaOWUJ"
       },
       "artists": [
         {
-          "name": "Ng\u1ecdt",
-          "url": "https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "Em Trang Tr\u00ed",
-      "url": "https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
-        "name": "Do The Dance",
-        "url": "https://open.spotify.com/album/3Nz9tlXFXZYvrmls5Qvxza"
-      },
-      "artists": [
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
         {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          "name": "Mandark",
+          "url": "https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks"
         }
       ],
-      "duration_ms": 242466,
-      "name": "Do The Dance",
-      "url": "https://open.spotify.com/track/7rMomVJTqGMjJnXRlgf4Wh"
+      "duration_ms": 268235,
+      "name": "Dreams (feat. Mandark)",
+      "url": "https://open.spotify.com/track/31AwtIYfVZv7ujPcMEktvR"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
+        "name": "where we go is home",
+        "url": "https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj"
+      },
+      "artists": [
+        {
+          "name": "kiyu",
+          "url": "https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C"
+        }
+      ],
+      "duration_ms": 252700,
+      "name": "where we go is home",
+      "url": "https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
         "name": "Superblue",
         "url": "https://open.spotify.com/album/2IKwJMDlZQxvocJgWLTDLT"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "where we go is home",
-        "url": "https://open.spotify.com/album/5Jah63TSuIbHS52XXQVSKj"
+        "name": "Healing House",
+        "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
       },
       "artists": [
         {
-          "name": "kiyu",
-          "url": "https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C"
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
         }
       ],
-      "duration_ms": 252700,
-      "name": "where we go is home",
-      "url": "https://open.spotify.com/track/5JedCIfnYpIgAilKiTcwaY"
+      "duration_ms": 227442,
+      "name": "Healing House",
+      "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1403,22 +1419,6 @@
       "duration_ms": 216413,
       "name": "choose u everytime",
       "url": "https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
-        "name": "Healing House",
-        "url": "https://open.spotify.com/album/0ET9XtVsVTzx2yLIXwoPRk"
-      },
-      "artists": [
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 227442,
-      "name": "Healing House",
-      "url": "https://open.spotify.com/track/2DTOne6ZiLt8ZCtXS9VG97"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/002rBz3Sdq0ES9zNCFg76j"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "duration_ms": 212357,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/4QagrJlMwIQYju8jKPLj8B"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 149200,
       "name": "Moonlight (Feat. YooJeong)",
       "url": "https://open.spotify.com/track/3UXHgrtANbsoWAn5DfUcz6"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/002rBz3Sdq0ES9zNCFg76j"
-      },
-      "artists": [
-        {
-          "name": "KIKI",
-          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
-        }
-      ],
-      "duration_ms": 212357,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4hStN9AunMBTkyfWMJ8Vpd"
-      },
-      "artists": [
-        {
-          "name": "Cliff",
-          "url": "https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si"
-        }
-      ],
-      "duration_ms": 213815,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/2bhtLYcoRs5Qiid6WouLKe"
-    },
-    {
-      "added_at": "2023-05-04 16:00:00",
-      "album": {
         "name": "Wild Child",
         "url": "https://open.spotify.com/album/6IAjg2q4PYkbq6ZvnATP29"
       },
@@ -1647,22 +1631,18 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "A380",
-        "url": "https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4hStN9AunMBTkyfWMJ8Vpd"
       },
       "artists": [
         {
-          "name": "COPAK",
-          "url": "https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo"
-        },
-        {
-          "name": "Luna Is A Bep",
-          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
+          "name": "Cliff",
+          "url": "https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si"
         }
       ],
-      "duration_ms": 218987,
-      "name": "A380",
-      "url": "https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ"
+      "duration_ms": 213815,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/2bhtLYcoRs5Qiid6WouLKe"
     },
     {
       "added_at": "2023-05-04 16:00:00",
@@ -1687,18 +1667,38 @@
     {
       "added_at": "2023-05-04 16:00:00",
       "album": {
-        "name": "ODDESSY",
-        "url": "https://open.spotify.com/album/08KcmPvH8mRDBN7ccqEge9"
+        "name": "A380",
+        "url": "https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN"
       },
       "artists": [
         {
-          "name": "Dessy",
-          "url": "https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy"
+          "name": "COPAK",
+          "url": "https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo"
+        },
+        {
+          "name": "Luna Is A Bep",
+          "url": "https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8"
         }
       ],
-      "duration_ms": 162258,
-      "name": "ODDESSY",
-      "url": "https://open.spotify.com/track/6RDEv3g48vfu0B51BoEeSp"
+      "duration_ms": 218987,
+      "name": "A380",
+      "url": "https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ"
+    },
+    {
+      "added_at": "2023-05-04 16:00:00",
+      "album": {
+        "name": "\u9db4\u5712 Crane Garden",
+        "url": "https://open.spotify.com/album/1g2jXMntes7PL3ruv7Ghrh"
+      },
+      "artists": [
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "\u62c9\u9eb5\u516c\u5b50 Ramen Boy",
+      "url": "https://open.spotify.com/track/6gn8E9FPBNbrrb6tKS14av"
     }
   ],
   "unique_name": ".ORG",

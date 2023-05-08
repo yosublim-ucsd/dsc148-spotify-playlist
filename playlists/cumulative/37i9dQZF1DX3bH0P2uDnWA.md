@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-279 songs - 16 hr 21 min
+280 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Walk \- Instrumental](https://open.spotify.com/track/6sExpRKIy0WihY6eIQzhOU) | [Balduin](https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv) | [Electro Swing Instrumentals](https://open.spotify.com/album/4FZ9TDT5dlNP4enbhNYOAT) | 2:30 | 2022-07-22 | 2022-07-29 |
 | [Watch Your Tongue](https://open.spotify.com/track/7sHYdGz9OhhGoTvNYDzN9N) | [Pisk](https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc), [Little Violet](https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE) | [Watch Your Tongue](https://open.spotify.com/album/0VlRMNxmBvdI1wF3LV16Z4) | 2:58 | 2022-11-07 |  |
 | [We Are What We Are \(feat\. Billy Bros Orchestra\) \[Radio Edit\]](https://open.spotify.com/track/00cWy7HXgoJlXWR718s70W) | [Bart & Baker](https://open.spotify.com/artist/1SqMdUGzBNOFB8rDdtiOxN), [Billy Bros Orchestra](https://open.spotify.com/artist/249vSnPVFVeecMiyViHaWd) | [We Are What We Are \(feat\. Billy Bros Orchestra\)](https://open.spotify.com/album/1QRhDmgK95ihrDGL9N2GNw) | 3:56 | 2020-10-30 | 2022-07-29 |
-| [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp) | 2:18 | 2021-03-19 |  |
+| [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/29K8K3iI82HwRSJZmcIhhQ) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/55PsgqZ0zgrP0xJmKx8ZrR) | 2:18 | 2022-11-07 |  |
+| [Wellerman \- Electro Swing Mix](https://open.spotify.com/track/5WMP7E3Z89tY3iIwsJA2BW) | [Betty Booom](https://open.spotify.com/artist/0MCy2uUaKHn4iNMAih50Vg), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Wellerman](https://open.spotify.com/album/6lmiOdFu7s5uIjTLs2aPtp) | 2:18 | 2021-03-19 | 2023-05-08 |
 | [What Lana Says](https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8) | [What Lana Says](https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC) | 4:39 | 2020-10-30 |  |
 | [When You Go Down](https://open.spotify.com/track/4cG36F0rcNFXucGbMFndMq) | [The Soulmate Project](https://open.spotify.com/artist/1lIykTsydAXqQKYWLlRH7a), [Penny Maddox](https://open.spotify.com/artist/4qeEBxHoCatvCjNzRJ38q9) | [When You Go Down](https://open.spotify.com/album/3orWWGAQ2VPiFPARAjtEbZ) | 2:43 | 2023-03-31 |  |
 | [Who's That?](https://open.spotify.com/track/5nW51LHvWs2EpD0o8UpsCJ) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8) | [The Stampede](https://open.spotify.com/album/4OVJICFNhttVsC8X1F5vUo) | 3:16 | 2020-10-30 | 2022-05-14 |

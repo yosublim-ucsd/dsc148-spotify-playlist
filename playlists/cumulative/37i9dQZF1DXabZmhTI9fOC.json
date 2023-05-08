@@ -4804,6 +4804,28 @@
     {
       "album": {
         "name": "Summer '22",
+        "url": "https://open.spotify.com/album/17KyXsxSfksC4sKNVCUx03"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        },
+        {
+          "name": "Scott the Pisces",
+          "url": "https://open.spotify.com/artist/2DDeXyYS2MziEuQpVhO4Hc"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209126,
+      "name": "Summer '22",
+      "url": "https://open.spotify.com/track/4QEGimGO5Ets77HzWfbYO4"
+    },
+    {
+      "album": {
+        "name": "Summer '22",
         "url": "https://open.spotify.com/album/6wYq700mPyqZyRHEd7m7u1"
       },
       "artists": [
@@ -4818,7 +4840,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 209126,
       "name": "Summer '22",
       "url": "https://open.spotify.com/track/2vPyeSKivhenR8bbJqsnMY"

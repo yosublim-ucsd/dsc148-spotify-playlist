@@ -6527,6 +6527,24 @@
     },
     {
       "album": {
+        "name": "Bird Hour",
+        "url": "https://open.spotify.com/album/0WIlE8U5KX5gjNj5i8J5Ae"
+      },
+      "artists": [
+        {
+          "name": "7ebra",
+          "url": "https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210875,
+      "name": "Done With the Day",
+      "url": "https://open.spotify.com/track/2ohsDgZQM0W3FamOXVUCXK"
+    },
+    {
+      "album": {
         "name": "Done With the Day",
         "url": "https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6"
       },
@@ -6538,7 +6556,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 210875,
       "name": "Done With the Day",
       "url": "https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy"

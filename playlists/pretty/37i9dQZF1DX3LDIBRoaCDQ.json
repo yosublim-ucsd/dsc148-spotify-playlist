@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1494391,
+  "num_followers": 1494610,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWEzNmMzZGUwYTUyMDVjMjQ2MzcwZWViM2ZiYzE5OWQzYzNiNDI4",
+  "snapshot_id": "MCwxMDVkYzAxOWQxMDYzNmY3Yjk5YTE1NGFmNjI0OWI4NjkxMThiMGVl",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "...And Out Come The Wolves",
+        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 85866,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "End of the Century (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
       },
@@ -387,18 +403,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "...And Out Come The Wolves",
-        "url": "https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5"
+        "name": "First Two Seven Inches",
+        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Minor Threat",
+          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
         }
       ],
-      "duration_ms": 85866,
-      "name": "Maxwell Murder",
-      "url": "https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H"
+      "duration_ms": 89160,
+      "name": "Minor Threat",
+      "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -431,22 +447,6 @@
       "duration_ms": 207040,
       "name": "California Uber Alles",
       "url": "https://open.spotify.com/track/5szJ8SMwQVEvvdk65w6M6g"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "First Two Seven Inches",
-        "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
-      },
-      "artists": [
-        {
-          "name": "Minor Threat",
-          "url": "https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf"
-        }
-      ],
-      "duration_ms": 89160,
-      "name": "Minor Threat",
-      "url": "https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
-      },
-      "artists": [
-        {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "First Two Seven Inches",
         "url": "https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 45160,
       "name": "Straight Edge",
       "url": "https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Operation Ivy (2007 Remaster)",
+        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
+      },
+      "artists": [
+        {
+          "name": "Operation Ivy",
+          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
+        }
+      ],
+      "duration_ms": 102106,
+      "name": "Knowledge - 2007 Remaster",
+      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Q: Are We Not Men? A: We Are Devo!",
         "url": "https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 132786,
       "name": "Banned in D.C.",
       "url": "https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Operation Ivy (2007 Remaster)",
-        "url": "https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m"
-      },
-      "artists": [
-        {
-          "name": "Operation Ivy",
-          "url": "https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ"
-        }
-      ],
-      "duration_ms": 102106,
-      "name": "Knowledge - 2007 Remaster",
-      "url": "https://open.spotify.com/track/4rpfA2rFOC7FMGxFNktB0i"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Damaged",
         "url": "https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 140493,
       "name": "Six Pack",
       "url": "https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 107323,
-      "name": "Suffer",
-      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh"
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
       },
       "artists": [
         {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 155693,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV"
+      "duration_ms": 107323,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Death Rides A Pale Cow: The Ultimate Collection",
-        "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
-      },
-      "artists": [
-        {
-          "name": "The Dead Milkmen",
-          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Dean's Dream",
-      "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Can I Say",
         "url": "https://open.spotify.com/album/6eSqKJG6HCmYmUUrJWtR93"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
+        "name": "Death Rides A Pale Cow: The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2ZNb1MUe50ckOcSe9TQOQz"
       },
       "artists": [
         {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+          "name": "The Dead Milkmen",
+          "url": "https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Natural's Not In It",
-      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
+      "duration_ms": 107866,
+      "name": "Dean's Dream",
+      "url": "https://open.spotify.com/track/4Kf80JwKZcrHE0jJQKuH0e"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Cut (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/7LMOo068Ndv0wjTGUDtYqK"
       },
       "artists": [
         {
-          "name": "The Slits",
-          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
         }
       ],
-      "duration_ms": 235653,
-      "name": "Typical Girls",
-      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
+      "duration_ms": 186493,
+      "name": "Natural's Not In It",
+      "url": "https://open.spotify.com/track/42wVwmI5Vt9H5hwcXHg59E"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1491,6 +1475,22 @@
       "duration_ms": 183823,
       "name": "Kick Out The Jams (Original Uncensored Version)",
       "url": "https://open.spotify.com/track/5mSZLysuAtdNA21mbOm0sx"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Cut (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0"
+      },
+      "artists": [
+        {
+          "name": "The Slits",
+          "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "Typical Girls",
+      "url": "https://open.spotify.com/track/395kSI564E2Rl1Nh5kGOxQ"
     },
     {
       "added_at": "2022-11-28 15:26:19",

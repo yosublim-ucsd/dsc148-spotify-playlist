@@ -4,7 +4,7 @@
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-389 songs - 23 hr 3 min
+390 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Elo](https://open.spotify.com/track/0ieQVijx2su3EexZRxoriA) | [Chapéu de Palha](https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu) | [Cais](https://open.spotify.com/album/6wCle6ZgoAQcpmMuRCO21h) | 3:29 | 2021-12-24 | 2022-07-23 |
 | [Enquanto](https://open.spotify.com/track/5r18JRKA7qH6Vl6MSINCn9) | [Cidrais](https://open.spotify.com/artist/5QYAoZeTdLdRkiECvhZ5VE) | [Enquanto](https://open.spotify.com/album/7MZRN9NJekWq9jPl7DCXaf) | 2:53 | 2022-02-18 | 2022-07-25 |
 | [Entre](https://open.spotify.com/track/1OtVYzbyHjpPcVW5v20xTF) | [VEIGA](https://open.spotify.com/artist/3uW1Rs9bE57BG8nmicYtxM) | [Entre](https://open.spotify.com/album/4CW2H3YJKOzvAwzErJTJ7a) | 3:54 | 2021-12-24 | 2022-04-18 |
+| [Era amor](https://open.spotify.com/track/0rgr6gKFx3GCLdfEh1SxYi) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/0jVBFyc0QvbSdzZo9CC8Bd) | 3:19 | 2023-04-28 |  |
 | [Era amor](https://open.spotify.com/track/5Gy1BzwlIVSjRIsAUkALZn) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Era amor](https://open.spotify.com/album/6Mm1M4h84mJcptcSmkf2iE) | 3:19 | 2021-12-24 | 2022-07-29 |
 | [Era uma Vez](https://open.spotify.com/track/16GaPObSFlhVFjDwyDAWww) | [Duas Casas](https://open.spotify.com/artist/5u6VFPY9oSlE49LEiKxpl4) | [Duas Casas](https://open.spotify.com/album/7LCwn4L67zTyBC7ndmykcA) | 2:58 | 2022-02-11 | 2022-07-04 |
 | [Era uma Vez](https://open.spotify.com/track/0ctRDZD6Nk8z8NtmoWwcC8) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/6eQnanktKogiVmNgBQzLR3) | 3:44 | 2021-12-24 | 2022-07-28 |
@@ -167,7 +168,7 @@
 | [Home](https://open.spotify.com/track/2OBU3S3Mc3XOYG7wCAYW3Z) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Home](https://open.spotify.com/album/2zFskA4WhcUAMhGdKhVzXo) | 3:46 | 2022-03-25 | 2022-04-21 |
 | [Home](https://open.spotify.com/track/20kpTTSvI4ok6Gm1uZqtcz) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/069bQ54jzEYGdTRJk3DFra) | 4:07 | 2022-10-14 |  |
 | [Home](https://open.spotify.com/track/3X01VeoR0GckfiXlFRrJmF) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Home](https://open.spotify.com/album/0227L6DB3iVlI5xDLttmTN) | 4:07 | 2021-12-24 | 2022-10-13 |
-| [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-10-14 |  |
+| [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-10-14 | 2023-05-08 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/0ouTaNuDfXPLnXkKi4AYOO) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Got So High That I Saw Jesus](https://open.spotify.com/album/7qnNmLMaMfljQNUMyaXpIo) | 3:37 | 2022-03-25 | 2022-04-18 |
 | [I Got So High That I Saw Jesus](https://open.spotify.com/track/3zQikNPCgTVnQLmj5RPn1k) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 3:37 | 2022-07-04 | 2022-12-18 |
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-18 | 2022-04-21 |

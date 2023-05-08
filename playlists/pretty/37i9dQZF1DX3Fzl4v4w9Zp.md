@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Wood Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,270 likes - 149 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,292 likes - 149 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 14 | [All I Really Wanna Do](https://open.spotify.com/track/2pdN1F1hOI1At7GepafDMT) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:42 |
 | 15 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
 | 16 | [You I'm Waiting On](https://open.spotify.com/track/0ocwsyazgNWTSfwEuz3u1y) | [Jeremie Albino](https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY) | [You I'm Waiting On](https://open.spotify.com/album/5CJNvP7lAs0bThPPL5pvOV) | 2:59 |
-| 17 | [Winnemucca](https://open.spotify.com/track/0uXjEfhvRFjnxjjI8laaIx) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Winnemucca](https://open.spotify.com/album/7o28gHtiqx3L857OLKsjiN) | 4:17 |
+| 17 | [Winnemucca](https://open.spotify.com/track/4nl1hkf6OVqYRNioo2pyXk) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 4:17 |
 | 18 | [Problem](https://open.spotify.com/track/0F0ROYKhiZhAKioVBOoy8V) | [Troy Ramey](https://open.spotify.com/artist/1Uxi0A4WHWH93Fyi0gWHEF) | [Problem](https://open.spotify.com/album/1rf3nCQFBJgwNZMO66H4lz) | 3:54 |
 | 19 | [Summertime](https://open.spotify.com/track/5Pk3W4zR90oKigFXvDpVaa) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Bobbie Nelson](https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Summertime](https://open.spotify.com/album/6FL4FWzNcXbYCEKCZmBcmW) | 4:05 |
 | 20 | [Trinity River](https://open.spotify.com/track/1GenEK1iRwheqmtI08QUlI) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 4:29 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Claim Your Prize](https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Claim Your Prize](https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu) | 4:45 |
 | 149 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
 
-Snapshot ID: `MCwwZGZhMGZhY2NiZjJiMGI3ZDg5N2JhZDQ2YWFjMzliZGY1YWJmM2Nk`
+Snapshot ID: `MCw3NGY5ZDAwODYyODQxM2E2OTU1N2MyY2EyNTFkOWI1OTlmNWEzOGU1`

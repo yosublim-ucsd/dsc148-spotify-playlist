@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-870 songs - 1 day 13 hr 56 min
+871 songs - 1 day 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Duende](https://open.spotify.com/track/5EOANVSfg3dX4zE4Askrau) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Duende](https://open.spotify.com/album/35rtUQ6uZ8w6pOp0DBHtwQ) | 2:31 | 2020-08-14\* |  |
 | [Dulcimer](https://open.spotify.com/track/0c5hNxzYagIuyNTjW4Fzux) | [Shira Joseph](https://open.spotify.com/artist/5X31MelGPpqOWS7WZu8n7F) | [Dulcimer](https://open.spotify.com/album/58ejRk8RGyGafjyWQQVE6o) | 3:00 | 2020-12-03 | 2020-12-16 |
 | [Dunmore](https://open.spotify.com/track/7vYzWlDUalocUHnAlcSbUc) | [Calan McIntyre](https://open.spotify.com/artist/10ikUifTOz1UW6yo1C4aKz) | [Dunmore](https://open.spotify.com/album/66wulAfBtzKGoqbUPvYzuu) | 2:02 | 2020-08-14\* | 2022-07-20 |
-| [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2021-03-27 |  |
+| [Duomo di Milano](https://open.spotify.com/track/3mffU0czrRPDpfUeul2EcJ) | [Akiko Mina](https://open.spotify.com/artist/2wqjgcSh9MHmBAYXcR1tWn) | [Duomo di Milano](https://open.spotify.com/album/2aKUCrS9jMnOwTVINklBpY) | 3:07 | 2021-03-27 | 2023-05-08 |
 | [durabilité](https://open.spotify.com/track/7Bqz55Uc7PouyqsmTS0q7R) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Aveline Bisset](https://open.spotify.com/album/6Gls7jY8E6316yqBIwTcS4) | 2:39 | 2020-08-14\* | 2020-09-16 |
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2021-05-21 |  |
 | [Départ](https://open.spotify.com/track/35ZsQf6ONY4YYxyyr0Kj2o) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Départ](https://open.spotify.com/album/69aFKb0LkHjwRhyVDpAK3A) | 3:10 | 2020-08-14\* | 2020-09-30 |
@@ -535,6 +535,7 @@
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-02-25 | 2022-05-21 |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2021-10-19 | 2022-06-08 |
 | [Parce que tu me manques](https://open.spotify.com/track/3uz5pvPIZEkgRgOpaP20Ge) | [Lucas Bernard](https://open.spotify.com/artist/6C82zKzax1jy8GFsdf8Bqf) | [Parce que tu me manques](https://open.spotify.com/album/2cwat7rIQNKFGwnGl9QyWe) | 1:50 | 2020-08-14\* | 2022-06-08 |
+| [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Partnach Gorge](https://open.spotify.com/track/1Wm6UxrfAXfgUMNy8yURHf) | [Maik Kuefer](https://open.spotify.com/artist/7dDWo6Yh2ZWKRrvnZ87rEe) | [Partnach Gorge](https://open.spotify.com/album/28HMMoDEmDEwxiM47GgEQX) | 2:18 | 2020-09-02 | 2021-02-18 |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 |  |
 | [Passing Robes](https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Passing Robes](https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD) | 2:43 | 2021-02-11 | 2022-04-22 |

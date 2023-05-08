@@ -946,6 +946,24 @@
     {
       "album": {
         "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214480,
+      "name": "No Name #2",
+      "url": "https://open.spotify.com/track/6M1NSKQGdJyfWlp0h2eYHD"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN"
       },
       "artists": [
@@ -956,7 +974,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 214800,
       "name": "No Name #2",
       "url": "https://open.spotify.com/track/03Nc7jSUCH99Uy6kcJMSxW"

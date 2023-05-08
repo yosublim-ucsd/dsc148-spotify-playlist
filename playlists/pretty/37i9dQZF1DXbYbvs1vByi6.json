@@ -1,12 +1,12 @@
 {
   "description": "Non-stop energy, riffs and belters.. it never gets old, no guest list required.",
-  "num_followers": 67292,
+  "num_followers": 67328,
   "original_name": "Sticky Floors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2YxZDhhZTI4Y2MxZWJhZDk0NTIyZjQ2YzRhOGYxZTZlZmM0ZDcx",
+  "snapshot_id": "MCxhNjFkYzY2YTQ2ODVlN2E4MmZiOTYyODc5ODZjMWMwYWVjOGY5MmY2",
   "tracks": [
     {
       "added_at": "2022-12-28 15:42:42",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Lonerism",
-        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Elephant",
-      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
-    },
-    {
-      "added_at": "2022-12-28 15:42:42",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 110093,
       "name": "Fell In Love With a Girl",
       "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
+    },
+    {
+      "added_at": "2022-12-28 15:42:42",
+      "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Elephant",
+      "url": "https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro"
     },
     {
       "added_at": "2022-12-28 15:42:42",
@@ -363,6 +363,22 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
+        "name": "Sleeping With Ghosts",
+        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 190573,
+      "name": "The Bitter End",
+      "url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf"
+    },
+    {
+      "added_at": "2022-12-28 15:42:42",
+      "album": {
         "name": "Thank God I'm Not You",
         "url": "https://open.spotify.com/album/0AnzrEVccYHdrlJd1G5Qpy"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Your Life Your Time",
-        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
-      },
-      "artists": [
-        {
-          "name": "Christian Leave",
-          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
-        }
-      ],
-      "duration_ms": 160257,
-      "name": "Your Life Your Time",
-      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
-    },
-    {
-      "added_at": "2022-12-28 15:42:42",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 156426,
       "name": "Lounge Act",
       "url": "https://open.spotify.com/track/7glld4kxYHp61zIPtSVHNk"
+    },
+    {
+      "added_at": "2022-12-28 15:42:42",
+      "album": {
+        "name": "Your Life Your Time",
+        "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
+      },
+      "artists": [
+        {
+          "name": "Christian Leave",
+          "url": "https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6"
+        }
+      ],
+      "duration_ms": 160257,
+      "name": "Your Life Your Time",
+      "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
     },
     {
       "added_at": "2022-12-28 15:42:42",
@@ -475,22 +491,6 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Sleeping With Ghosts",
-        "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "The Bitter End",
-      "url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf"
-    },
-    {
-      "added_at": "2022-12-28 15:42:42",
-      "album": {
         "name": "Mushroom Death Sex Bummer Party",
         "url": "https://open.spotify.com/album/1xdQqexBnhvycuqFc6KUh9"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Idealism",
-        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
-      },
-      "artists": [
-        {
-          "name": "Digitalism",
-          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
-        }
-      ],
-      "duration_ms": 226466,
-      "name": "Pogo",
-      "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
-    },
-    {
-      "added_at": "2022-12-28 15:42:42",
-      "album": {
         "name": "Cave Song - EP",
         "url": "https://open.spotify.com/album/4Ot58H0rbFZycunXoYQKTT"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 141008,
       "name": "Cave Song",
       "url": "https://open.spotify.com/track/2lxqOVJzuS0s1SgulAvkav"
+    },
+    {
+      "added_at": "2022-12-28 15:42:42",
+      "album": {
+        "name": "Idealism",
+        "url": "https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        }
+      ],
+      "duration_ms": 226466,
+      "name": "Pogo",
+      "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
     },
     {
       "added_at": "2022-12-28 15:42:42",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Puppets",
-        "url": "https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 149028,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
-    },
-    {
-      "added_at": "2022-12-28 15:42:42",
-      "album": {
         "name": "Celebrity Mansions",
         "url": "https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2022-12-28 15:42:42",
       "album": {
-        "name": "Do You Wanna Talk",
-        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
+        "name": "Puppets",
+        "url": "https://open.spotify.com/album/3XCP14sdQvaGINdEOEEOvw"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
         }
       ],
-      "duration_ms": 146392,
-      "name": "Do You Wanna Talk",
-      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
+      "duration_ms": 149028,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/2PsLV8lSiLRUX3sM2z2cJj"
     },
     {
       "added_at": "2022-12-28 15:42:42",
@@ -807,6 +791,22 @@
       "duration_ms": 195973,
       "name": "Men's Needs",
       "url": "https://open.spotify.com/track/3qel23hQWhHT3qGewBQ0pE"
+    },
+    {
+      "added_at": "2022-12-28 15:42:42",
+      "album": {
+        "name": "Do You Wanna Talk",
+        "url": "https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX"
+      },
+      "artists": [
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 146392,
+      "name": "Do You Wanna Talk",
+      "url": "https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe"
     }
   ],
   "unique_name": "Sticky Floors",

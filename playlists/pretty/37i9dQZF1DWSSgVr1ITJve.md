@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 
 > Afro culture mixed with Arab vibes\. Cover: MarSimba
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,278 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,340 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSgVr1ITJve.md) - [plain]
 | 49 | [Labass](https://open.spotify.com/track/3jROBCnXC1dGpHaPKOVEyu) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm), [Flenn](https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L) | [Têtu](https://open.spotify.com/album/3INxB4MNa1Kiw3OGaF4D5k) | 4:08 |
 | 50 | [Daba Dor Lyam](https://open.spotify.com/track/6buWpyhPbG548hIFSLWl6f) | [Imin](https://open.spotify.com/artist/0z8woBkNEdy6w2mCIJBgrM) | [Daba Dor Lyam](https://open.spotify.com/album/4aAxNTyg1941owSY3NCwXk) | 3:42 |
 
-Snapshot ID: `MCwzMjdkZWUwMTc5ZjVjNDRiZmFmNzMxYzkwMzBhNGE2ZDEwMjZjMjIw`
+Snapshot ID: `MCxhYzVmNmQ4YTNlNjViZTg0NDE3NjQyOGU3NDliZDllZWIwZDYzZTkz`

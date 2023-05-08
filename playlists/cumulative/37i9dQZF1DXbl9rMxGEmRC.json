@@ -1035,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Chrononautilus",
+        "url": "https://open.spotify.com/album/5m1mc5MBFWvTthWiE1A1iv"
+      },
+      "artists": [
+        {
+          "name": "Scar Symmetry",
+          "url": "https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304440,
+      "name": "Chrononautilus",
+      "url": "https://open.spotify.com/track/00iPeuzy7UIKEN3wbrEK8r"
+    },
+    {
+      "album": {
         "name": "Cold Burn",
         "url": "https://open.spotify.com/album/6DPQA4mhrq7KKjI7oIZQvm"
       },
@@ -1608,7 +1626,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 76972,
       "name": "Digital Bliss",
       "url": "https://open.spotify.com/track/3tPbY0ktUrddToNjVKnAWG"
@@ -3954,7 +3972,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 456750,
       "name": "Moribunda",
       "url": "https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F"
@@ -6952,6 +6970,28 @@
       "duration_ms": 304305,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me"
+    },
+    {
+      "album": {
+        "name": "You Are the Beginning",
+        "url": "https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG"
+      },
+      "artists": [
+        {
+          "name": "Boris",
+          "url": "https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi"
+        },
+        {
+          "name": "Uniform",
+          "url": "https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224439,
+      "name": "You Are the Beginning",
+      "url": "https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X"
     },
     {
       "album": {

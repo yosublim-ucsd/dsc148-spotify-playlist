@@ -6291,6 +6291,24 @@
     },
     {
       "album": {
+        "name": "SURVIVE",
+        "url": "https://open.spotify.com/album/7q6pacKSTnoHdyFoVa83DV"
+      },
+      "artists": [
+        {
+          "name": "MindaRyn",
+          "url": "https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234795,
+      "name": "SURVIVE",
+      "url": "https://open.spotify.com/track/1N2ftX938NJAeCZBiBbFiB"
+    },
+    {
+      "album": {
         "name": "Suzume",
         "url": "https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr"
       },
@@ -8305,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/231sUO0rctK4kQGp4efhFA"
+      },
+      "artists": [
+        {
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225584,
+      "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -9352,7 +9388,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 233133,
       "name": "\u30b9\u30af\u30ef\u30c3\u30c9!",
       "url": "https://open.spotify.com/track/1PiQybGfKBnDb5P4d5Ewwd"
@@ -11478,7 +11514,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 213000,
       "name": "\u5bbf\u7e01",
       "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"

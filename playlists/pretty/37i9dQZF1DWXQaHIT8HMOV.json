@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1470,
+  "num_followers": 1469,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTc5OGNkY2JhNGI0MzZlMzQ1ZTM2OWE4MGFmZGE2NDVmNWY3MWYw",
+  "snapshot_id": "MCxkY2Q3YWVkM2VlNzE4NTJiYjE3OWE5OTIwOTkyOTNmZWMxYWQ4NmVl",
   "tracks": [
     {
       "added_at": "2023-04-27 21:59:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Biwamiel",
         "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 227027,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/4HUfDL3FITibpGatbGUw6f"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "CHERRY SWEET",
-        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "CHERRY SWEET",
-      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Nfa",
         "url": "https://open.spotify.com/album/4eh4a2glfPoGKT9tXk8paz"
       },
@@ -371,6 +351,22 @@
       "duration_ms": 193833,
       "name": "Nfa",
       "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -391,18 +387,22 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+        "name": "CHERRY SWEET",
+        "url": "https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG"
       },
       "artists": [
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
         }
       ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+      "duration_ms": 130500,
+      "name": "CHERRY SWEET",
+      "url": "https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -467,82 +467,6 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Wanting Me",
-        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
-      },
-      "artists": [
-        {
-          "name": "Pia Pounds",
-          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
-        }
-      ],
-      "duration_ms": 165283,
-      "name": "Wanting Me",
-      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Love Marijuana",
-        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
-      },
-      "artists": [
-        {
-          "name": "C. Wyne Nalukalala",
-          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
-        },
-        {
-          "name": "Mungo's Hi Fi",
-          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Love Marijuana",
-      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Nkwata Bulungi (Bailamos)",
-        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
-      },
-      "artists": [
-        {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nkwata Bulungi (Bailamos)",
-      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
         "name": "Longitude 20",
         "url": "https://open.spotify.com/album/4IBmJv65ZPVeywf20poi8K"
       },
@@ -571,6 +495,58 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Nkwata Bulungi (Bailamos)",
+        "url": "https://open.spotify.com/album/5z0xDgKDEnZGSPUxIcikEV"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nkwata Bulungi (Bailamos)",
+      "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Love Marijuana",
+        "url": "https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1"
+      },
+      "artists": [
+        {
+          "name": "C. Wyne Nalukalala",
+          "url": "https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly"
+        },
+        {
+          "name": "Mungo's Hi Fi",
+          "url": "https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Love Marijuana",
+      "url": "https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Wanting Me",
+        "url": "https://open.spotify.com/album/4kPuWgzIDxOQIfilS2f12b"
+      },
+      "artists": [
+        {
+          "name": "Pia Pounds",
+          "url": "https://open.spotify.com/artist/60ANpuV946iARKh8FpDU8p"
+        }
+      ],
+      "duration_ms": 165283,
+      "name": "Wanting Me",
+      "url": "https://open.spotify.com/track/7Fx19asavIQFQgv4RoUdp0"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Chai Mata",
         "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
@@ -583,6 +559,30 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -635,6 +635,54 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "Kyaani",
+        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
+      },
+      "artists": [
+        {
+          "name": "Ykee Benda",
+          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Kyaani",
+      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "BESTIE",
+        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "BESTIE",
+      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Chai We Njaye",
+        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
+      },
+      "artists": [
+        {
+          "name": "Omutume Planet",
+          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
+        }
+      ],
+      "duration_ms": 165015,
+      "name": "Chai We Njaye",
+      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Baibe",
         "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
       },
@@ -647,6 +695,22 @@
       "duration_ms": 254850,
       "name": "Baibe",
       "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Don't Stopp",
+        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 172736,
+      "name": "Don't Stopp",
+      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -671,106 +735,6 @@
       "duration_ms": 226478,
       "name": "Say your Mine",
       "url": "https://open.spotify.com/track/09kIOLxsPlFlPQSWpMWvF6"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "BESTIE",
-        "url": "https://open.spotify.com/album/6CgzHPFRksIENlDpsyzXUB"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "BESTIE",
-      "url": "https://open.spotify.com/track/5wmZO9wReuxzVbv2KbkSYn"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Kyaani",
-        "url": "https://open.spotify.com/album/7rTJ4wYCUqLnDQN0Wrwdij"
-      },
-      "artists": [
-        {
-          "name": "Ykee Benda",
-          "url": "https://open.spotify.com/artist/18knxgRViP1Ae2TG8DZRfq"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Kyaani",
-      "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Don't Stopp",
-        "url": "https://open.spotify.com/album/20vcJDgwiHZHcyz927U2HH"
-      },
-      "artists": [
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 172736,
-      "name": "Don't Stopp",
-      "url": "https://open.spotify.com/track/3r3t5dqnEHDuhGlo1m40Sh"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Chai We Njaye",
-        "url": "https://open.spotify.com/album/6lIx77CZt7TXrp0LpT9eJc"
-      },
-      "artists": [
-        {
-          "name": "Omutume Planet",
-          "url": "https://open.spotify.com/artist/23MyhX1vqiF6XkWBA0opmp"
-        }
-      ],
-      "duration_ms": 165015,
-      "name": "Chai We Njaye",
-      "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Sikwebela",
-        "url": "https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe"
-      },
-      "artists": [
-        {
-          "name": "MC Yallah",
-          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
-        },
-        {
-          "name": "Debmaster",
-          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
-        }
-      ],
-      "duration_ms": 149312,
-      "name": "Sikwebela",
-      "url": "https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -807,6 +771,42 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Sikwebela",
+        "url": "https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe"
+      },
+      "artists": [
+        {
+          "name": "MC Yallah",
+          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
+        },
+        {
+          "name": "Debmaster",
+          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
+        }
+      ],
+      "duration_ms": 149312,
+      "name": "Sikwebela",
+      "url": "https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
         "name": "Plan Ki",
         "url": "https://open.spotify.com/album/4qfhrxohGB4hPhDfFJ2nDN"
       },
@@ -819,6 +819,38 @@
       "duration_ms": 194526,
       "name": "Plan Ki",
       "url": "https://open.spotify.com/track/2ZbeZtGMyBOhWo4gvoGZZR"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
+      },
+      "artists": [
+        {
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
+    },
+    {
+      "added_at": "2023-04-27 21:59:00",
+      "album": {
+        "name": "Byowaba",
+        "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 224947,
+      "name": "Byowaba",
+      "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -847,18 +879,18 @@
     {
       "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "Byowaba",
-        "url": "https://open.spotify.com/album/20BSAYhSq4zpyNlSJD210x"
+        "name": "Geza Bugeza",
+        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
       },
       "artists": [
         {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 224947,
-      "name": "Byowaba",
-      "url": "https://open.spotify.com/track/0gyH24GQiQDOGHn40goN8X"
+      "duration_ms": 140822,
+      "name": "Geza Bugeza",
+      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
     },
     {
       "added_at": "2023-04-27 21:59:00",
@@ -879,38 +911,6 @@
       "duration_ms": 184778,
       "name": "Pause",
       "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Geza Bugeza",
-        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
-      },
-      "artists": [
-        {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
-        }
-      ],
-      "duration_ms": 140822,
-      "name": "Geza Bugeza",
-      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
-    },
-    {
-      "added_at": "2023-04-27 21:59:00",
-      "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     }
   ],
   "unique_name": "Made In Uganda",

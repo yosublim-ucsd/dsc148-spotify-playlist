@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Somi",
+        "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Minism",
+      "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
+    },
+    {
+      "album": {
         "name": "Morgong\u00e5va",
         "url": "https://open.spotify.com/album/4y1mxc7piaWoZ6aSLmcRRP"
       },
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 226862,
       "name": "Song For Wermland",
       "url": "https://open.spotify.com/track/04dbAW4vL9SSKV4CJXEYd4"

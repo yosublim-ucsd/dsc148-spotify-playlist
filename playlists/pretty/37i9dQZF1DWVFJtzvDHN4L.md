@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,522 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,861 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 9 | [What I Really Wanted](https://open.spotify.com/track/7IoZ5JlxMkGhk4Xvi19Hyo) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Expanse Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/7wAz7kEaaZ80CWhGdBA7h1) | 2:38 |
 | 10 | [Hello Rocks \- from Hoa \- Original Soundtrack](https://open.spotify.com/track/6AS4f29fe4h6sRE3b3Ytys) | [Johannes Johansson](https://open.spotify.com/artist/7u7VohKLwXLckuyYejvmff) | [Hello Rocks \(from Hoa \- Original Soundtrack\)](https://open.spotify.com/album/2WGdVBX5f8xc7r77A7iD8y) | 2:46 |
 | 11 | [Doug](https://open.spotify.com/track/4n4q1FZ84xHhZRdexhFz0X) | [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Inez & Doug & Kira \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6HwPJRFbqGPu9bw4z0FKze) | 1:53 |
-| 12 | [Fossils \(From the "Ammonite" Soundtrack\)](https://open.spotify.com/track/2ZtQgrIztmjQwyewLyvDmm) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Ammonite \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BKrDhnU8yzYnNYbWoOHg0) | 5:40 |
+| 12 | [Fossils](https://open.spotify.com/track/2ZtQgrIztmjQwyewLyvDmm) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Ammonite \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BKrDhnU8yzYnNYbWoOHg0) | 5:40 |
 | 13 | [The Causeway](https://open.spotify.com/track/5yQk9aR8FvzRKEf8UdFYU6) | [Dickon Hinchliffe](https://open.spotify.com/artist/3SzIzpOIDpgwKNWaKL4FG4) | [The Third Day: Winter \(Music from the Limited Series\)](https://open.spotify.com/album/6v5IzkegCELuYXWl4B4QAY) | 3:47 |
 | 14 | [Reforestation \(Episode 5 \- Humans\)](https://open.spotify.com/track/0QFSpWrKKRynhxif8HBABr) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z) | [A Perfect Planet \(Soundtrack from the BBC Series\)](https://open.spotify.com/album/3ZJ14xDvYx604elVWCipDz) | 1:40 |
 | 15 | [Wish I Could Spend The Day With You](https://open.spotify.com/track/7H1qlREWSW4MgamNSrgZbw) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [Onward \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst) | 1:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 54 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
 | 55 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
 
-Snapshot ID: `MCxmZmM0YWM0ZjVhZDNkYWEyNTI5YWFiZmJhYzIzYzQxNjc0OTFlMjU1`
+Snapshot ID: `MCw5ODhlZDhkYmM4ZGI2Y2YyYThhY2MyMzk4MDJkMzJlMDY5YmRiNDEw`

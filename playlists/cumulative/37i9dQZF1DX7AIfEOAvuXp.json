@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "aw / ct: Andy's Journey",
+        "url": "https://open.spotify.com/album/191c1XBlsEYN4NyAqRFcgE"
+      },
+      "artists": [
+        {
+          "name": "Huron John",
+          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193401,
+      "name": "Maple Syrup Tears",
+      "url": "https://open.spotify.com/track/0XWMXn1zLeJOtcF2HZfsQG"
+    },
+    {
+      "album": {
         "name": "Maple Syrup Tears",
         "url": "https://open.spotify.com/album/2gLuQKqj2zWasAEiDEVV8X"
       },
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 193401,
       "name": "Maple Syrup Tears",
       "url": "https://open.spotify.com/track/5t7VNXoXW1CYjSZNO1jziH"

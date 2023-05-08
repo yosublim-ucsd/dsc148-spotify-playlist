@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 113296,
+  "num_followers": 113333,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmRmMzc4MmY5ODM3MzhhMDZhNDMwY2E3MGQwYWY2YzRmOTcyNTlh",
+  "snapshot_id": "MCw2N2NjYTYxMWIwZDkyZGYwNjkwN2NhMGMwMmRlODUxNDQ4Y2RiODk1",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:35",
@@ -91,6 +91,30 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
+        "name": "Final de Semana",
+        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 201682,
+      "name": "Final de Semana",
+      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
         "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
         "url": "https://open.spotify.com/album/4KoMHdExjgAnPiEk9bthn0"
       },
@@ -115,30 +139,6 @@
       "duration_ms": 294545,
       "name": "Fran\u00e7a (Papasessions#10) [feat. L7NNON]",
       "url": "https://open.spotify.com/track/3CVXpU3Vh3wIcyeNvR3xVq"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
-        "name": "Final de Semana",
-        "url": "https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 201682,
-      "name": "Final de Semana",
-      "url": "https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
+        "name": "Musica para Churrasco, Vol. 1",
+        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 326493,
+      "name": "Quem N\u00e3o Quer Sou Eu",
+      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
         "name": "Cinco",
         "url": "https://open.spotify.com/album/6DqXBagxY611pulprabgLw"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 302706,
       "name": "Soprou",
       "url": "https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
-        "name": "Musica para Churrasco, Vol. 1",
-        "url": "https://open.spotify.com/album/3LVFK1YwvyZMU1u20U2dMg"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 326493,
-      "name": "Quem N\u00e3o Quer Sou Eu",
-      "url": "https://open.spotify.com/track/7JFGnfONNe5vepbGwZBkhL"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Borboleta Efeito",
-        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
+        "name": "Fiz Pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
         }
       ],
-      "duration_ms": 185874,
-      "name": "Borboleta Efeito",
-      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
+      "duration_ms": 192222,
+      "name": "Fiz Pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -575,6 +571,26 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
+        "name": "Borboleta Efeito",
+        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Borboleta Efeito",
+      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
         "name": "Nonsense, Vol. 1",
         "url": "https://open.spotify.com/album/1V04SFSq2Fr9m6lnSDZujG"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 217110,
       "name": "Onde Estar\u00e1",
       "url": "https://open.spotify.com/track/0R6eisAFzeF5pe4k7pkLgg"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
-        "name": "Fiz Pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
-        }
-      ],
-      "duration_ms": 192222,
-      "name": "Fiz Pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
+        "name": "Cansar De Dan\u00e7ar",
+        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
+      },
+      "artists": [
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "duration_ms": 157499,
+      "name": "Cansar De Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
         "name": "Clima",
         "url": "https://open.spotify.com/album/7wGRF9bDQkQReBhrnx346G"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 216266,
       "name": "Clima",
       "url": "https://open.spotify.com/track/4XSDJvys3RLKlvcIPiflyH"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
-        "name": "Cansar De Dan\u00e7ar",
-        "url": "https://open.spotify.com/album/0CN6YfcfGslLa48BW7mlDK"
-      },
-      "artists": [
-        {
-          "name": "Juliette",
-          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
-        }
-      ],
-      "duration_ms": 157499,
-      "name": "Cansar De Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/4c63lo9vrZ9n0vs0ehiYks"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -1099,26 +1099,18 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "AMAR \u00e9 para os FORTES",
-        "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
+        "name": "sexto sentido",
+        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
       "artists": [
         {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        },
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        },
-        {
-          "name": "Anna Majidson",
-          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
         }
       ],
-      "duration_ms": 254200,
-      "name": "DEPOIS DA TEMPESTADE}",
-      "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
+      "duration_ms": 156690,
+      "name": "sexto sentido",
+      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
     }
   ],
   "unique_name": "Cozinhando em Casa",

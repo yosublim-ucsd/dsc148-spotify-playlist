@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: underscores
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,323 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,393 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Not Alone](https://open.spotify.com/track/3Vg9LKQkkZP7gvrL4yFy0y) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Ride Or Die](https://open.spotify.com/album/3HAOHVDqAh5CyxGVye4G15) | 2:46 |
 | 100 | [Squid](https://open.spotify.com/track/58xA6gMO8ptTMAW5sPvp9e) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Squid](https://open.spotify.com/album/0weYSXHoWpA9F7TDJOvT87) | 4:47 |
 
-Snapshot ID: `MCxlMmU2ZGYwMjU5NTlkYjFhMWZhYTRmZWE1MDk4NGUyN2UzNjBmNmEz`
+Snapshot ID: `MCw3NWU2ZGI4NWQzZWYwZTNkNzIwM2U3MGIzNzg0ZjBkMmVmNDNhYTBi`

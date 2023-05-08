@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,062 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,073 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 3 | [Intervenção](https://open.spotify.com/track/4DX27vK2TVab3xjm4lghF5) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1) | [Intervenção](https://open.spotify.com/album/3QygnjTFSXdP5cvNdOBDbs) | 3:33 |
 | 4 | [Tarde Demais](https://open.spotify.com/track/5amoazrtaLdXHIt7YVyuyX) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Tarde Demais](https://open.spotify.com/album/39xDYbhw11PU3AaD8SRJ6E) | 3:48 |
 | 5 | [O Que Estou Fazendo Agora](https://open.spotify.com/track/4fhHfIPTwwbSJfuvsBSAjU) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q) | [O Que Estou Fazendo Agora](https://open.spotify.com/album/26OiVBi7902CsYgfmfZfXe) | 3:21 |
-| 6 | [AGORA DEIXA \- LIVE](https://open.spotify.com/track/5vN0nS5sDWg6eZraZoonBd) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [AGORA DEIXA \(LIVE\)](https://open.spotify.com/album/5yRuRMgIs8lfgxT6KsYVp1) | 4:47 |
+| 6 | [Agora Deixa \- LIVE](https://open.spotify.com/track/5vN0nS5sDWg6eZraZoonBd) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [AGORA DEIXA \(LIVE\)](https://open.spotify.com/album/5yRuRMgIs8lfgxT6KsYVp1) | 4:47 |
 | 7 | [Canção da Despedida](https://open.spotify.com/track/6X4TqBLTfYj11DLzEmWOi6) | [Reação Em Cadeia](https://open.spotify.com/artist/4pANXhF65AgL4mE9PybDJJ) | [Canção da Despedida](https://open.spotify.com/album/6tJVfCUBxlD6FODRlNqhXT) | 4:33 |
 | 8 | [Mais um Podcast](https://open.spotify.com/track/6H3aGsBZRZcrhruCIVndV7) | [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Mais um Podcast](https://open.spotify.com/album/5aMGEksFkMsVeEJjkR3P3N) | 2:39 |
 | 9 | [caso sério](https://open.spotify.com/track/4pYAk484VaJNKTW3QET7nw) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [caso sério](https://open.spotify.com/album/7Abz7lBZpBs0raAaltfK49) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Nasci Pra Chorar](https://open.spotify.com/track/2ic5BZuPlp4HLH8JOlTqwS) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz) | [O Futuro Pertence À...Jovem Guarda](https://open.spotify.com/album/6tmMkqINb8TkUxyxwtqSwb) | 3:00 |
 | 75 | [3x4](https://open.spotify.com/track/1yJoc6Njyss9p4dV3uVVqB) | [Reolamos](https://open.spotify.com/artist/00fzvFKe5X1o9J6sIQwFxq) | [3x4](https://open.spotify.com/album/0RLW1QCz5QJf7TsbTBpbtW) | 4:07 |
 
-Snapshot ID: `MCw0NmUyMjU4MDBjNTYwMzc1OTkzNmVhNWExNjdjZWNiYjAzYjQzMjNj`
+Snapshot ID: `MCxhNjVlMTBjYzA0NmY3MDQ0YzcxNzAyYTk4ZjBjYmZiNjM3M2YxMDQ1`

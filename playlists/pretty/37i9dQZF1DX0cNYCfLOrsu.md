@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > Jada Kingdom selects the baddest in Dancehall for the gyaldem.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,935 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,952 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 29 | [Love Situations](https://open.spotify.com/track/18YlTPHOFfZCd4EaeqD8De) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Love Situations](https://open.spotify.com/album/3AYh9Cgmai1t6Aw6jvrQTe) | 3:24 |
 | 30 | [Heavy!](https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Heavy!](https://open.spotify.com/album/4fkjpMo0MufbdR6YyY4pQ9) | 2:45 |
 
-Snapshot ID: `MCw4YjQ1ZWI0NDMxNDIxY2M1Yzc5OTc4MzYwNWQ1MTYwMDY3ZWM0OGEz`
+Snapshot ID: `MCxmMDhhMjdiZjFjOTg5MWEwZjhhODFjZTBiMGNiNzczNjdlN2YzMDhm`

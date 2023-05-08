@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Ronboogz; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,639 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,651 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 14 | [Chơi Vơi](https://open.spotify.com/track/5zAwaOFcbpAi1wHb1tiBt3) | [Seth](https://open.spotify.com/artist/1bFOMacB1TfMrwNfkxEa8B), [MGT ICON](https://open.spotify.com/artist/2EqMZlswDzpOrebm3etddS) | [Chơi Vơi](https://open.spotify.com/album/06l04JDPG0CDxE7ok6Jif9) | 2:34 |
 | 15 | [XIN NGƯỜI CHỚ ĐỪNG](https://open.spotify.com/track/26NwzaW4JnDbRGBZPKX2N1) | [Xesi](https://open.spotify.com/artist/44ZNcW1ZSGB9oqX1ALnriH) | [XIN NGƯỜI CHỚ ĐỪNG](https://open.spotify.com/album/7tLY2rm281lN97WFBDbzSo) | 3:28 |
 | 16 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [O.lew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
-| 17 | [Nụ Trăng Tàn Phai](https://open.spotify.com/track/0UYHZmnuZ3CuyNS48OPEPd) | [Võ Lê Vy](https://open.spotify.com/artist/36EnpOVgDxidvTnxDMZBlW) | [Nụ Trăng Tàn Phai](https://open.spotify.com/album/2FU3F0O6XO5FEDTRmtBiLr) | 4:49 |
+| 17 | [Nụ Trăng Tàn Phai](https://open.spotify.com/track/0UYHZmnuZ3CuyNS48OPEPd) | [Võ Lê Vy](https://open.spotify.com/artist/36EnpOVgDxidvTnxDMZBlW) | [Nụ Trăng Tàn Phai](https://open.spotify.com/album/2FU3F0O6XO5FEDTRmtBiLr) | 4:50 |
 | 18 | [Ấm Êm](https://open.spotify.com/track/07V898tEbqF67AMb5Nn9h8) | [Lahi](https://open.spotify.com/artist/1uENTg8Fy1U7lEsQWcjIFF), [Ngô Lan Hương](https://open.spotify.com/artist/3y0Tmt0epaxAHy6L89dGGC) | [Ấm Êm](https://open.spotify.com/album/4TCIX5c9H4Z2k2ElFOVTFO) | 2:52 |
 | 19 | [Ber \(feat\. Giundra\)](https://open.spotify.com/track/0aEdVES5hRz86xnysL9ZPT) | [Deus Tiến Đạt](https://open.spotify.com/artist/2UMBxgeruRK9rpr2kkNze0), [GiunDra](https://open.spotify.com/artist/0kQJGNzgog5Y2D4m7zTRxD) | [Ber](https://open.spotify.com/album/2j0tuYudqAbcTgRewtFKCV) | 2:26 |
 | 20 | [Đã Khác](https://open.spotify.com/track/1jRmCppVV4XoTgPpR9oiBZ) | [Bigg Vu](https://open.spotify.com/artist/7g4X3YRbkUfB5WTS0KOc4B) | [Đã Khác](https://open.spotify.com/album/09NkUGJVJXft2oTqcAKJKo) | 2:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 100 | [Mây của trời phải để gió cuốn](https://open.spotify.com/track/37lTnoIEd3kPMal1WqICgq) | [Havan Trần](https://open.spotify.com/artist/7rrc53g4jINHsKxnisNniH) | [Mây của trời phải để gió cuốn](https://open.spotify.com/album/6poXW1dNN56g7QYHYxjBPL) | 4:03 |
 | 101 | [Deep Down](https://open.spotify.com/track/03kIWG1vlvODIlCZ2IKxOv) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa), [Gobby](https://open.spotify.com/artist/31IYMlu0SEzTN0lqhdOR5a), [Tony D.](https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK) | [Deep Down](https://open.spotify.com/album/50glZnNhveNXJsOgPg5HQp) | 5:15 |
 
-Snapshot ID: `MCwyNzM4ZDUyZGNhZGU4MmRkZjgxMWY0NTI3YzE1YTEwYWNiMTc5MzA5`
+Snapshot ID: `MCxlNWUyZjc5ODBhMGU1N2EzNTM2ZjQzOWIyNzAyYzJlYWM1NWEyNmRh`

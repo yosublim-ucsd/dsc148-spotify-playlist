@@ -4,7 +4,7 @@
 
 > The best new indie music every Friday\. Cover: BETWEEN FRIENDS ft Teezo Touchdown
 
-5,233 songs - 12 day 18 hr 34 min
+5,234 songs - 12 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1454,7 +1454,8 @@
 | [Falling Out](https://open.spotify.com/track/3H8zeSxIzl98QJaM5gi4tv) | [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Bad Posture](https://open.spotify.com/album/7fAznyEY9ZOOGn4fR5sCpt) | 3:02 | 2022-10-07 | 2022-11-26 |
 | [Fallout](https://open.spotify.com/track/2naiEwIGmT5whcaG6Vmn8B) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Fallout](https://open.spotify.com/album/5xEDC9B8ohUyuoovW86zzX) | 4:36 | 2022-11-04 | 2023-03-18 |
 | [False Dichotomy](https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:39 | 2022-07-08 | 2022-08-06 |
-| [False Start](https://open.spotify.com/track/4A1Nvp5QT3ImzRVEfZzxc5) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [False Start](https://open.spotify.com/album/5594EnVFgb6SCinyZcd40V) | 5:17 | 2023-04-07 |  |
+| [False Start](https://open.spotify.com/track/1lLfBcjZMwLVYlDlDw0CLY) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 5:17 | 2023-04-07 |  |
+| [False Start](https://open.spotify.com/track/4A1Nvp5QT3ImzRVEfZzxc5) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [False Start](https://open.spotify.com/album/5594EnVFgb6SCinyZcd40V) | 5:17 | 2023-04-07 | 2023-05-08 |
 | [Famous](https://open.spotify.com/track/3qG7T8uZSlt4pnFulCvaqf) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Making a Door Less Open](https://open.spotify.com/album/1tuoWW0TpoI5oacIjwYBdL) | 2:44 | 2020-05-01 | 2020-05-29 |
 | [Famous](https://open.spotify.com/track/7DsEHBwpYGPRU00Tx9dJgt) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Famous](https://open.spotify.com/album/3JUsKrOnWbcoe2jbhR43an) | 2:50 | 2022-03-04 | 2022-04-23 |
 | [Famous \- Single Version](https://open.spotify.com/track/3Mfg7kJLvEPBMnIwSly02u) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:23 | 2021-11-05 | 2022-01-08 |

@@ -1632,6 +1632,24 @@
     {
       "album": {
         "name": "Bones",
+        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
+    },
+    {
+      "album": {
+        "name": "Bones",
         "url": "https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO"
       },
       "artists": [
@@ -4510,7 +4528,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 163541,
       "name": "Uh Huh",
       "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"

@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 169730,
+  "num_followers": 169910,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDFhMDIwYjc4MWExYzI3ZmQxYjc0NjRiNTA3ODBjNjBhNTkxN2Iy",
+  "snapshot_id": "MCw2ZGQ0ZDFlNWZjMTU5ZDg3OWI0Y2I2YTdhZTM3M2Q3MDgxMjI2NDNk",
   "tracks": [
     {
       "added_at": "2022-01-10 11:46:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 117213,
-      "name": "Words Of Love",
-      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Platters",
         "url": "https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 167800,
       "name": "My Prayer",
       "url": "https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Buddy Holly",
+        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
+      },
+      "artists": [
+        {
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        }
+      ],
+      "duration_ms": 117213,
+      "name": "Words Of Love",
+      "url": "https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -759,18 +759,22 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Presenting Don Cornell",
-        "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
+        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
+        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
       "artists": [
         {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
         }
       ],
-      "duration_ms": 169200,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
+      "duration_ms": 185051,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -791,22 +795,18 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
-        "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
+        "name": "Presenting Don Cornell",
+        "url": "https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Grace Kelly",
-          "url": "https://open.spotify.com/artist/0wW7doqiNErx0Rsu0d5Vji"
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
         }
       ],
-      "duration_ms": 185051,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
+      "duration_ms": 169200,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9"
     },
     {
       "added_at": "2022-01-10 11:46:31",

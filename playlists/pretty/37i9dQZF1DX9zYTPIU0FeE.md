@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/27MxvuyBenjamin Jephta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,332 likes - 51 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,345 likes - 51 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 13 | [Rites](https://open.spotify.com/track/5XhsgJqFcTac7rNqz0fbx1) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Rites](https://open.spotify.com/album/4b3P5JVBTRdvkLAk8voX40) | 6:34 |
 | 14 | [Joburg Poem](https://open.spotify.com/track/2HOgtaksnuNreoo6xogBHL) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 3:56 |
 | 15 | [Kwetu](https://open.spotify.com/track/6Veo9O8iD7ewhA5ZzB3fRh) | [Aaron Rimbui \| Ayanda Sikade \| Herbie Tsoaeli](https://open.spotify.com/artist/1MyMTjHltmrJ1A4Z79vpSo) | [Kwetu](https://open.spotify.com/album/2hNj1dmL0kfOlMUtOpcFcJ) | 5:26 |
-| 16 | [Wynter Time](https://open.spotify.com/track/3keL9OPcgEPFKrclh0nlSg) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Wynter Time](https://open.spotify.com/album/77Eh0NmNr9ITqpaSwg5xvh) | 9:27 |
+| 16 | [Wynter Time](https://open.spotify.com/track/2SkeHeWnmngeVuukJc4QVl) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Turbulence and Pulse](https://open.spotify.com/album/09P4xEQuIgveCiY4vGQHrZ) | 9:27 |
 | 17 | [The Migration Suite Part II](https://open.spotify.com/track/2aUgQ0RxwcOOGCrWKYwUAC) | [Sisonke Xonti](https://open.spotify.com/artist/5aoTUcGtI83q6Y8Lqvl4Pm) | [uGaba the Migration](https://open.spotify.com/album/1Igp59kX92saIgyQYTbnm7) | 7:24 |
 | 18 | [I Fall in Love Too Easily](https://open.spotify.com/track/6YKNvlxRImDvcNwA65N2mz) | [Seba Kaapstad](https://open.spotify.com/artist/6i1YUN2HJGtCdO3s17JV3V) | [Tagore's](https://open.spotify.com/album/1Ljp2q2Pk9gHrmrFfG6NfC) | 5:27 |
 | 19 | [Emlilweni](https://open.spotify.com/track/6nq4iL5FqVg5b1xXqTTsSg) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Jaleel Shaw](https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv) | [Emlilweni](https://open.spotify.com/album/0dWHPV6VdVYUZiY9ma0XKQ) | 6:33 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 50 | [Bayakhala](https://open.spotify.com/track/044VNnUGUaAOphHS0uHITs) | [The Brother Moves On](https://open.spotify.com/artist/1lk7zDKaonwqrwKwt8Krd7) | [Bayakhala](https://open.spotify.com/album/0X0kjZMbBYfMg00uuY6vkf) | 5:30 |
 | 51 | [Konakele](https://open.spotify.com/track/3qKG9yS1kM7BbvKtJghsE9) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Umthombo](https://open.spotify.com/album/5Qg2kXcTYZWUVFAC7UYMMV) | 6:29 |
 
-Snapshot ID: `MCwxYjE3ODBkODI3ODhhNDE1ZjU5M2YyYjA1NWUzMWZiMDAyZDQ2MmU0`
+Snapshot ID: `MCw3ZjhhZWIxZmIwY2ExZWY2Y2EwNjU2ODc0ZTVhYjM4NGJjZTQ2NTZm`

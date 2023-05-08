@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: The War and Treaty
 
-296 songs - 18 hr 42 min
+297 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,8 @@
 | [L'hotel Serein](https://open.spotify.com/track/2VO0kA8zIwG14cTDfPOGIH) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [L'hotel Serein](https://open.spotify.com/album/7pMl0sRjNchXQX7fb6HUQL) | 4:12 | 2022-06-24 |  |
 | [Let It Slide](https://open.spotify.com/track/7Hs5OmNf7BqPEnwVA9tRFr) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [The Big Bottle of Joy](https://open.spotify.com/album/22OpQW9aiVdxXlzYm4wZE4) | 3:34 | 2023-03-10 |  |
 | [Let's Spend the Night Together](https://open.spotify.com/track/3W8Nl4u2OXTdakJQHVPSao) | [Boneshakers](https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m) | [Let's Spend the Night Together](https://open.spotify.com/album/6YFUBCGsXiXQuRwTNLw6wQ) | 4:25 | 2022-08-12 |  |
-| [Lethal Love](https://open.spotify.com/track/2XaI8f23CJfJRn4L6xuA0o) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0rWfwWI4AQrmwQ2RcrDxy4) | 3:06 | 2023-03-24 |  |
+| [Lethal Love](https://open.spotify.com/track/2XaI8f23CJfJRn4L6xuA0o) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0rWfwWI4AQrmwQ2RcrDxy4) | 3:06 | 2023-03-24 | 2023-05-08 |
+| [Lethal Love](https://open.spotify.com/track/4sRtw94MxDLjdnqAzvrNuL) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 3:06 | 2023-03-24 |  |
 | [Lethal Love](https://open.spotify.com/track/4w9gjumzSX5poNIZYypcZ3) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Lethal Love](https://open.spotify.com/album/0XIZh1v7SLPAow7UiJa5jZ) | 3:06 | 2023-03-24 | 2023-04-30 |
 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 | 2021-12-17 | 2023-03-25 |
 | [Lissa's Song](https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Lissa's Song](https://open.spotify.com/album/2PDEbqRQ2nlVwPTuQcmvhU) | 5:07 | 2021-12-17 | 2022-07-21 |

@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
@@ -1484,6 +1484,28 @@
       "duration_ms": 181000,
       "name": "Jaara (feat. Medikal)",
       "url": "https://open.spotify.com/track/5jMI58SeuN7iLfV11eqT4J"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/6GmYzJEV8GeMbWhrwBtcBF"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150439,
+      "name": "King Kong (Cypher)",
+      "url": "https://open.spotify.com/track/7IJa4hTqvXkuQMIBoTY3L4"
     },
     {
       "album": {

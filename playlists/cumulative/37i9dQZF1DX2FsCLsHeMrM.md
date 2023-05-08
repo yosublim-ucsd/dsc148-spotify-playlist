@@ -4,7 +4,7 @@
 
 > Gettin' figgy with it, bana\-na\-na\-nanana
 
-334 songs - 22 hr 0 min
+335 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cheers for the Tears](https://open.spotify.com/track/1luf18dR160FyYqTnIAXfE) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Cheers for the Tears](https://open.spotify.com/album/4yLYA25JyfmIYwbIaOchCq) | 2:54 | 2021-11-10 | 2022-11-13 |
 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 | 2023-01-30 |  |
 | [Chunks](https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Weird Invitations](https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh) | 3:31 | 2021-11-10 | 2022-11-13 |
-| [Church \(feat\. EARTHGANG\)](https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN) | 3:48 | 2023-04-19 |  |
+| [Church \(feat\. EARTHGANG\)](https://open.spotify.com/track/1T37rmthd8KPcRPcD5Tm7u) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Church \(feat\. EARTHGANG\)](https://open.spotify.com/album/1jAJCdLpq8lMwN7oTPRCQN) | 3:48 | 2023-04-19 | 2023-05-08 |
 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 | 2022-11-07 | 2023-04-20 |
 | [Classic \(feat\. Leila Dey\)](https://open.spotify.com/track/5PHgf88ChFGGMdF69wU4YQ) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y), [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 2:53 | 2022-02-21 | 2022-11-13 |
 | [Claustrophobic](https://open.spotify.com/track/14l9sBVb9bI8m65mtV9auv) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Claustrophobic](https://open.spotify.com/album/17kfcdo0KsghQmZvdeI5bL) | 3:07 | 2021-11-10 | 2022-07-29 |
@@ -140,6 +140,7 @@
 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 | 2023-04-19 |  |
 | [How Deep Is Your Love \(feat\. Yebba\) \- Live](https://open.spotify.com/track/3SjAiqAQ6sMmsJBeVw0nMf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Gumbo Unplugged \(Live\)](https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6) | 3:30 | 2021-11-10 |  |
 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 | 2023-01-03 | 2023-04-30 |
+| [How Long Do I Have to Wait for You?](https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4) | 4:03 | 2023-04-19 |  |
 | [I Believe In Love](https://open.spotify.com/track/4tOmFSoQA9ji8lTxAbbvq1) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [R.O.S.E\. \(Empowerment\)](https://open.spotify.com/album/0WLDf5V9llFSTpYTRKofs7) | 3:49 | 2021-11-10 | 2022-11-13 |
 | [I Belong To You](https://open.spotify.com/track/2zee8Zcesqwnnwliw2Jy8M) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 4:17 | 2023-01-03 | 2023-04-20 |
 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 | 2021-11-10 | 2023-04-20 |

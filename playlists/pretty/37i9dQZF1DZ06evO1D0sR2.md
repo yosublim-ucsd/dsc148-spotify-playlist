@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 > This is JJ Hairston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,466 likes - 50 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474 likes - 50 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [Glory Hallelujah \(feat\. Marc Britt, Juanita Contee & Mav City Gospel Choir\)](https://open.spotify.com/track/0CWWp9H73xWHC9Jxr9HKXZ) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Marc Britt](https://open.spotify.com/artist/7d6Y21mEawoZK7cVQrIHcv), [Juanita Contee](https://open.spotify.com/artist/5bmmROi22eqQz8CiVGz7W5), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Believe Again](https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa) | 4:45 |
 | 50 | [Don't Take Your Spirit from Me \(feat\. J.J Hairston\)](https://open.spotify.com/track/5XD2YHpvwTvex4FDkC5fTC) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 19:43 |
 
-Snapshot ID: `MjgwNTY1OTksMDAwMDAwMDBjZGQ0Yzc1MDNmOWIyZTUyNmMxNjk1MTBlOGE3YmNmMA==`
+Snapshot ID: `MjgwNTc4MTAsMDAwMDAwMDA3MmNmNDJlM2UyNzgyMzg3OTM3YjE2NTFlODdmMzExOA==`

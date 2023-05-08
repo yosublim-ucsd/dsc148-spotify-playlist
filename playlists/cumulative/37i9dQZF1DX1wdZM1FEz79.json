@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 264119,
       "name": "Cape",
       "url": "https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK"
@@ -4390,6 +4390,24 @@
       "duration_ms": 174520,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
+    },
+    {
+      "album": {
+        "name": "[01]",
+        "url": "https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233195,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS"
     },
     {
       "album": {

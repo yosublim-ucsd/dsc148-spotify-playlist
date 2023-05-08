@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 251657,
+  "num_followers": 251701,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTY2NzcwMTg5NDM5ZmE0YWQzMjlmNzdhY2Q0OWI3NmI5OTY4MDk2",
+  "snapshot_id": "MCwyYWUxZTE4NTU0MGQ3N2U5NzNkYThhM2U0ZDcyZjFiMWRlM2JmMWU1",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -157,22 +157,6 @@
       "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Hosoi",
-        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 166344,
-      "name": "By",
-      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "What You Want",
@@ -187,6 +171,22 @@
       "duration_ms": 191986,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Hosoi",
+        "url": "https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 166344,
+      "name": "By",
+      "url": "https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -315,6 +315,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Old Compilation 3",
+        "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
+      },
+      "artists": [
+        {
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
+        }
+      ],
+      "duration_ms": 146864,
+      "name": "thankful",
+      "url": "https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Daydream feat. Joba",
         "url": "https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 200838,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Old Compilation 3",
-        "url": "https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 146864,
-      "name": "thankful",
-      "url": "https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
-      "added_at": "2019-09-16 15:44:25",
-      "album": {
-        "name": "Baby You Can Free Your Mind",
-        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
-      },
-      "artists": [
-        {
-          "name": "Mind Bath",
-          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
-        }
-      ],
-      "duration_ms": 335180,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
-    },
-    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "I would",
@@ -559,6 +543,22 @@
       "duration_ms": 205564,
       "name": "I would",
       "url": "https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT"
+    },
+    {
+      "added_at": "2019-09-16 15:44:25",
+      "album": {
+        "name": "Baby You Can Free Your Mind",
+        "url": "https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 335180,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -703,22 +703,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Passionfruit Falls",
         "url": "https://open.spotify.com/album/44ozrkhehRvsNSufykTZ5l"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 181681,
       "name": "another time (world$tar money)",
       "url": "https://open.spotify.com/track/3pq5SHP8DwySlbUL0KIoRy"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
     },
     {
       "added_at": "2018-12-11 21:12:31",

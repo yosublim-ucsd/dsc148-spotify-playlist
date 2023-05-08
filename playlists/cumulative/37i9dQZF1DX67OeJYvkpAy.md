@@ -4,7 +4,7 @@
 
 > the best of the deep end\. cover: Kay9ine
 
-172 songs - 8 hr 19 min
+173 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Stuck In My Ways](https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF) | [L24](https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7) | [Stuck In My Ways](https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl) | 1:51 | 2022-08-02 |  |
 | [Superstars](https://open.spotify.com/track/6d6zii8V5yf3rZZES5dL3e) | [Hated28](https://open.spotify.com/artist/3djnXSSeWr8vUkz9oii3hB) | [Superstars](https://open.spotify.com/album/1FelNzefgYCkUOaLva4AHE) | 2:30 | 2022-04-05 | 2022-08-03 |
 | [Survivor's Guilt](https://open.spotify.com/track/1Xapo8sq7KcQXdt0HrXX5B) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 5:40 | 2022-04-05 | 2022-08-03 |
+| [Take the Risk](https://open.spotify.com/track/0m8uGX6LkO2xfo7BkSomoq) | [Arl1ny](https://open.spotify.com/artist/43cCBbsOk9AO5zkzOsQttq), [Thezth](https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj) | [Take the Risk](https://open.spotify.com/album/5fCk61n0fNHgnLLJVbwxtl) | 3:20 | 2022-08-02 |  |
 | [Take The Risk](https://open.spotify.com/track/4ai0k3zlivanKlfM3nqtkO) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r) | [Take The Risk](https://open.spotify.com/album/0w5iHzH3j7mV8GtIWqPm1R) | 3:20 | 2022-08-02 | 2023-02-04 |
 | [Take The Risk](https://open.spotify.com/track/5EGAO3pl7UtmG1M24rXAnD) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [xSyborg](https://open.spotify.com/artist/1WAbp7edewKZGadOCmhlJg) | [Take The Risk](https://open.spotify.com/album/4RMlVn3P7BppnyMKJ8lu6R) | 3:20 | 2022-08-02 | 2023-03-03 |
 | [take the risk](https://open.spotify.com/track/6A4zgs4IsEi3iglTBF2RUL) | [bxnz](https://open.spotify.com/artist/1RsFzgSg6mEHj2Fp3tulgp) | [take the risk](https://open.spotify.com/album/5vqqu6b8M6WRj6I8jhJgAZ) | 3:20 | 2022-08-02 | 2022-11-28 |
@@ -155,7 +156,7 @@
 | [Take The Risk](https://open.spotify.com/track/4sK7NBL0YVl9fTHrVAYaNi) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/1N7bpX6cuyZqZvcgdVcIld) | 3:20 | 2022-04-05 | 2023-03-26 |
 | [Take The Risk](https://open.spotify.com/track/6PrlW3ixvblqC6gLCDMAOH) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj) | [Take The Risk](https://open.spotify.com/album/3xmYrVJwdA922UfaEbiWGW) | 3:20 | 2022-08-02 | 2023-01-06 |
 | [Take The Risk](https://open.spotify.com/track/1JI8vPuCzjOePCx8Dx51Zr) | [OB](https://open.spotify.com/artist/2OX5wdYLYtr3KluIVqvhTj), [King K bËAtZ](https://open.spotify.com/artist/6a8kfrURNaarwQrjgtdJqr) | [Take The Risk](https://open.spotify.com/album/6bf4swql2jvA6zq1jvND9H) | 3:20 | 2022-08-02 | 2022-10-21 |
-| [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 | 2022-08-02 |  |
+| [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 | 2022-08-02 | 2023-05-08 |
 | [Take The Risk](https://open.spotify.com/track/227yzcqbegKaSlZiFcBn2c) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/4X05eKMdKrelQwoZNxd2Fv) | 3:20 | 2022-08-02 | 2023-04-27 |
 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 | 2022-04-05 |  |
 | [The Talking Stage Game](https://open.spotify.com/track/14tu1tKyRNKh7xvAIOQViJ) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [The Talking Stage Game](https://open.spotify.com/album/44BCUKr8YiLg4yFY8N3jBc) | 3:14 | 2022-04-05 | 2022-11-26 |

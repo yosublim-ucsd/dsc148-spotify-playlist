@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-707 songs - 1 day 16 hr 27 min
+708 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [good time](https://open.spotify.com/track/7vLR5hYebH7l7CCRoZZ21f) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [二条瑛士郎](https://open.spotify.com/artist/0RIr0bT6YEaqInva42lKBS) | [good time](https://open.spotify.com/album/2J7uuTCcBiIqNYF3C8Zgky) | 3:34 | 2022-08-25 | 2022-09-15 |
 | [gozennreiji、gatasunokutsuha](https://open.spotify.com/track/2O3MN7anJ1TeBOTztMJ2mV) | [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz) | [soukutomaerchensanka](https://open.spotify.com/album/4uXZxB5lmd7cTTaECdLZ3l) | 4:18 | 2022-10-04 | 2022-10-12 |
 | [Grumpy](https://open.spotify.com/track/0PdzZmwowBtH83VnVP2Q3C) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [Aqu3ra](https://open.spotify.com/artist/1FE8CKbcNBC5a9NsvJ4Nif) | [Grumpy](https://open.spotify.com/album/3Ro8wDSqxyxEOluacB5ZyG) | 2:38 | 2022-06-09 | 2022-07-22 |
+| [Gyakutengeki](https://open.spotify.com/track/6emzRn11iO8a4lQGbyJg7i) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Gyakutengeki](https://open.spotify.com/album/02B8FTElIyIMeHrHkHARbf) | 3:02 | 2023-04-27 |  |
 | [Haikei Kamisama Hotokesama](https://open.spotify.com/track/6RTveHUksJwYeVJTwgteeh) | [stellafia](https://open.spotify.com/artist/4SiWD9hBt7DwgaxAfdbIZi) | [Haikei Kamisama Hotokesama](https://open.spotify.com/album/4yg3Bc5M9zHqzTBkYeEQWy) | 2:58 | 2022-09-20 | 2022-09-28 |
 | [Hanabie Ressha](https://open.spotify.com/track/5uYMEDfnSCe3wQXaiZTyVC) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [Hanabie Ressha](https://open.spotify.com/album/3w7T4FyK8MOgQRoXlKDBep) | 3:43 | 2022-06-09 | 2022-07-21 |
 | [Happiness](https://open.spotify.com/track/1eoLE3pztHTV9UL5muESxw) | [Nano](https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4) | [Happiness](https://open.spotify.com/album/3JMDEQxkO3m9utSvlcn8hl) | 3:47 | 2022-06-09 | 2022-06-13 |
@@ -395,7 +396,7 @@
 | [ダンボールの色 \- Rock Sound](https://open.spotify.com/track/7GtbO5Yi0RQPXh1dy7hzl2) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [a Beast](https://open.spotify.com/album/64vWBRtnrBEhH4xbkeWfaf) | 4:06 | 2022-11-22 | 2022-12-14 |
 | [ダークルーム](https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [ダークルーム](https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH) | 2:55 | 2022-06-14 | 2022-07-02 |
 | [ダーリン](https://open.spotify.com/track/3mkRGh8v7AOH31yQ38SVdt) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ダーリン](https://open.spotify.com/album/3nxQoSo8OVyL1wvdiW9Vva) | 2:28 | 2023-01-17 |  |
-| [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-08-30 |  |
+| [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-08-30 | 2023-05-08 |
 | [チャイニーズブルー](https://open.spotify.com/track/3fI3sur34KpeY4I7ZmZmph) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [チャイニーズブルー](https://open.spotify.com/album/4cHuPNTErffuzP4wdDuJHl) | 2:10 | 2022-06-16 | 2022-07-25 |
 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 | 2022-06-09 | 2023-03-15 |
 | [テラ](https://open.spotify.com/track/5UtltFFaTR1dI93Xs49uKb) | [春猿火](https://open.spotify.com/artist/39fp9WgXJxPo1pYxt96w6l) | [テラ](https://open.spotify.com/album/3CEY7ac55EVxuSMyOvfx1v) | 4:00 | 2022-09-20 | 2022-10-05 |

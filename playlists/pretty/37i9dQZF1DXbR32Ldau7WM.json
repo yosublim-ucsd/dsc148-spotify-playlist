@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: SHERBETS",
-  "num_followers": 255654,
+  "num_followers": 255721,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGNmZTllNTRhOTQ2Y2U0YjQzYTcyMTcyZGQ2ZjE3YzRjM2ZiOTY0",
+  "snapshot_id": "MCxmMDQ0OTkyNGFkZjJkZjYwOTUzNTcwNGI2YjRmYmY0OTZhZTM2ODli",
   "tracks": [
     {
       "added_at": "2023-04-25 15:00:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "yes. I. do",
-        "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
+        "name": "BANTAM",
+        "url": "https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI"
       },
       "artists": [
         {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
         }
       ],
-      "duration_ms": 288414,
-      "name": "yes. I. do",
-      "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
+      "duration_ms": 214500,
+      "name": "BANTAM",
+      "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
+        "name": "yes. I. do",
+        "url": "https://open.spotify.com/album/5WX0UesRT8mWRjZNtKBF40"
+      },
+      "artists": [
+        {
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+        }
+      ],
+      "duration_ms": 288414,
+      "name": "yes. I. do",
+      "url": "https://open.spotify.com/track/1BHQjZCoGdfk6wmSRkFHyA"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
         "name": "HC 2023 episode 1 -THE GHOST/\u9650\u754c\u7a81\u7834-",
         "url": "https://open.spotify.com/album/5e077p1aChzsL6caaqIvwI"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 210626,
       "name": "\u9650\u754c\u7a81\u7834",
       "url": "https://open.spotify.com/track/0PvlpMPznviBbMHOlMe0Lj"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
-        "name": "BANTAM",
-        "url": "https://open.spotify.com/album/2nrq0af3Pz9qzYe0zpXteI"
-      },
-      "artists": [
-        {
-          "name": "Koshi Inaba",
-          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "BANTAM",
-      "url": "https://open.spotify.com/track/4JeZNqDNEFkSkdaDp9THEl"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -763,18 +763,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
-        "url": "https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4"
+        "name": "TIGHTROPE",
+        "url": "https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc"
       },
       "artists": [
         {
-          "name": "Elephant Kashimashi",
-          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
+          "name": "9mm Parabellum Bullet",
+          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
         }
       ],
-      "duration_ms": 272000,
-      "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
-      "url": "https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb"
+      "duration_ms": 162880,
+      "name": "All We Need Is Summer Day",
+      "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -795,34 +795,18 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "TIGHTROPE",
-        "url": "https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc"
+        "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
+        "url": "https://open.spotify.com/album/3MTSjbVzPw4RF9BqNRkHh4"
       },
       "artists": [
         {
-          "name": "9mm Parabellum Bullet",
-          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
+          "name": "Elephant Kashimashi",
+          "url": "https://open.spotify.com/artist/24ljrnVUlUZ2apxF6GZsrm"
         }
       ],
-      "duration_ms": 162880,
-      "name": "All We Need Is Summer Day",
-      "url": "https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
-        "name": "Let's go down the street",
-        "url": "https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U"
-      },
-      "artists": [
-        {
-          "name": "The Birthday",
-          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
-        }
-      ],
-      "duration_ms": 244666,
-      "name": "Let's go down the street",
-      "url": "https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr"
+      "duration_ms": 272000,
+      "name": "\u306e\u3089\u72ac\u306b\u3055\u3048\u306a\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/60oCvPKZvNPeSTMTFKiRDb"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 274906,
       "name": "\u6771\u3078\u897f\u3078",
       "url": "https://open.spotify.com/track/6iYAdrE8loWBu9bX2Mbfil"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "Let's go down the street",
+        "url": "https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U"
+      },
+      "artists": [
+        {
+          "name": "The Birthday",
+          "url": "https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH"
+        }
+      ],
+      "duration_ms": 244666,
+      "name": "Let's go down the street",
+      "url": "https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u77e5\u3089\u306a\u3044\u9053",
-        "url": "https://open.spotify.com/album/5CfbxKycxzQX1SZmRW8RiV"
-      },
-      "artists": [
-        {
-          "name": "SHERBETS",
-          "url": "https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9"
-        }
-      ],
-      "duration_ms": 275520,
-      "name": "\u77e5\u3089\u306a\u3044\u9053",
-      "url": "https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "Fuel",
         "url": "https://open.spotify.com/album/15oIT9GDMhJWTQUELHM6Vs"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 209519,
       "name": "Fuel",
       "url": "https://open.spotify.com/track/2XHQ84PSGAqDDkFgCjCUPS"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "\u77e5\u3089\u306a\u3044\u9053",
+        "url": "https://open.spotify.com/album/5CfbxKycxzQX1SZmRW8RiV"
+      },
+      "artists": [
+        {
+          "name": "SHERBETS",
+          "url": "https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9"
+        }
+      ],
+      "duration_ms": 275520,
+      "name": "\u77e5\u3089\u306a\u3044\u9053",
+      "url": "https://open.spotify.com/track/0MapT4uZ7ZQFUxVw8x7L4F"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
-        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
-      },
-      "artists": [
-        {
-          "name": "a flood of circle",
-          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
-        }
-      ],
-      "duration_ms": 197837,
-      "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
-      "url": "https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "\u9a19\u3057\u611b",
         "url": "https://open.spotify.com/album/0JfEYJw8kt6cwARbRQ1Y2S"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 206133,
       "name": "\u9a19\u3057\u611b",
       "url": "https://open.spotify.com/track/1cfuwNPkI3rGX4umV5dDSM"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
+        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
+      },
+      "artists": [
+        {
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
+        }
+      ],
+      "duration_ms": 197837,
+      "name": "\u6708\u591c\u306e\u9053\u3092\u4ffa\u304c\u884c\u304f",
+      "url": "https://open.spotify.com/track/2IFPJ7ehMw4hVIVOKxqczk"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
-        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
-      },
-      "artists": [
-        {
-          "name": "a flood of circle",
-          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
-        }
-      ],
-      "duration_ms": 264390,
-      "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
-      "url": "https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "IZORA",
         "url": "https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 252026,
       "name": "Sun of Love",
       "url": "https://open.spotify.com/track/4Dh38LmVwPAgnwBIbo8ndS"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
+        "url": "https://open.spotify.com/album/1bOVFJ5wymIcHswxz8saYM"
+      },
+      "artists": [
+        {
+          "name": "a flood of circle",
+          "url": "https://open.spotify.com/artist/1BydOOxI2QltpphEOkKHgl"
+        }
+      ],
+      "duration_ms": 264390,
+      "name": "\u82b1\u964d\u308b\u7a7a\u306b\u4e0d\u6ec5\u306e\u6b4c\u3092",
+      "url": "https://open.spotify.com/track/4RX9IHe9Znm9lcVm5RZuEl"
     },
     {
       "added_at": "2023-04-25 15:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-25 15:00:00",
       "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ"
-      },
-      "artists": [
-        {
-          "name": "9mm Parabellum Bullet",
-          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
-        }
-      ],
-      "duration_ms": 207203,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
-    },
-    {
-      "added_at": "2023-04-25 15:00:00",
-      "album": {
         "name": "IZORA",
         "url": "https://open.spotify.com/album/7COwrUcqO3yWY4zXsdeXgI"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 237306,
       "name": "Boogie Woogie",
       "url": "https://open.spotify.com/track/2d4864DEKNKv2B1zkWiDuG"
+    },
+    {
+      "added_at": "2023-04-25 15:00:00",
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3XKXbGqYOWElmctD6tfrIJ"
+      },
+      "artists": [
+        {
+          "name": "9mm Parabellum Bullet",
+          "url": "https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu"
+        }
+      ],
+      "duration_ms": 207203,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5eJzzdZFGx5UTQ8OO9HhKQ"
     },
     {
       "added_at": "2023-04-25 15:00:00",

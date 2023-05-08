@@ -4,7 +4,7 @@
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-96 songs - 9 hr 34 min
+97 songs - 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,8 +35,9 @@
 | [Djougou Yah](https://open.spotify.com/track/7JoVAisfKRuAEGHHQzzmOQ) | [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG), [Mr Raoul K](https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG), [Ahmed Sosso](https://open.spotify.com/artist/09jtkgopdNOFuQKcOPPdeP), [Perc](https://open.spotify.com/artist/4ijOFF3Zqg5pGXwzRRVf2y) | [Djougou Yah](https://open.spotify.com/album/2XxSr5wwnDMhLxvJNY9QMJ) | 6:44 | 2022-07-23 |  |
 | [Dream Factory](https://open.spotify.com/track/4LUtcJjhBNhhhI31Ys005u) | [Sasha Carassi](https://open.spotify.com/artist/6UFFThDuFiQixrwog0FecB) | [Dream Factory](https://open.spotify.com/album/1Z1GJAR1SnkA1p9LkdYvp7) | 7:04 | 2022-07-23 |  |
 | [Eternal Summer \- Marsh Remix](https://open.spotify.com/track/2IzAVhx4HugoLPob9xCnRE) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Eternal Summer \(Marsh Remix\)](https://open.spotify.com/album/3o5MUf7yKWk05I1bbMc4Xy) | 4:44 | 2022-07-23 |  |
-| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-03-27 |  |
+| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-03-27 | 2023-05-08 |
 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-03-27 | 2023-04-20 |
+| [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 | 2023-03-27 |  |
 | [Extraction \- Extended Mix](https://open.spotify.com/track/6jIZjEOjaNJ8ZJ6i1kCr6w) | [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Extraction](https://open.spotify.com/album/2ksO9hVTZcQYJp58lvKkrB) | 6:15 | 2022-07-23 |  |
 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 | 2022-07-23 |  |
 | [Feel For You](https://open.spotify.com/track/0Z2e7pC55tHOYpG7ce2mtX) | [GW Harrison](https://open.spotify.com/artist/4SLEjYifqonlEHnZHLXnI4), [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Feel For You](https://open.spotify.com/album/2Av2Zvw16LgwA7hnWrxQFv) | 2:54 | 2022-07-23 |  |

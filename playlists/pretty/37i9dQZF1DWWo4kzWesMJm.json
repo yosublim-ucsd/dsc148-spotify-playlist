@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 70800,
+  "num_followers": 70890,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2NhODUwZmQ3MDkyOWQ5YTcyYjJmM2UxMjlmOTdiYjAzYTgxYjZk",
+  "snapshot_id": "MCw3YzczZDExMTMyYWI2MjkwNzlkMTY0N2M3Y2ZjM2IwZWY2ZjNmMjdh",
   "tracks": [
     {
       "added_at": "2023-03-20 12:34:15",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "La vitesse",
-        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
-      },
-      "artists": [
-        {
-          "name": "Iz\u00efa",
-          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Mon c\u0153ur",
-      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
         "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 184077,
       "name": "Nue",
       "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "La vitesse",
+        "url": "https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF"
+      },
+      "artists": [
+        {
+          "name": "Iz\u00efa",
+          "url": "https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Mon c\u0153ur",
+      "url": "https://open.spotify.com/track/2uuHjWY6yqEkTZMftzTCzL"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "L'attrape-r\u00eaves",
         "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 250480,
       "name": "Il est o\u00f9 le bonheur",
       "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Libert\u00e9 ch\u00e9rie",
-        "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
-      },
-      "artists": [
-        {
-          "name": "Calogero",
-          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "1987",
-      "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Phoenix",
         "url": "https://open.spotify.com/album/0ejCopVV0wK3D6rrlVBOpu"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 233813,
       "name": "\u00c0 nos h\u00e9ros du quotidien",
       "url": "https://open.spotify.com/track/4zKqWCgGqwWlfJTNaj2R19"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Libert\u00e9 ch\u00e9rie",
+        "url": "https://open.spotify.com/album/7lxtIDOmhph5iuna24OZHC"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/56tfg3H8mcJ8eIKuyCWamX"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
+        "name": "&",
+        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "Coco C\u00e2line",
+      "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
         "name": "Histoires de",
         "url": "https://open.spotify.com/album/2429EGI4W9DN926A6TNZKG"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 256693,
       "name": "C'est une belle journ\u00e9e",
       "url": "https://open.spotify.com/track/5nNIFYy5dDQo9s3hSOd7xX"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 164893,
-      "name": "Tu me Play",
-      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "&",
-        "url": "https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj"
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
       },
       "artists": [
         {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 225640,
-      "name": "Coco C\u00e2line",
-      "url": "https://open.spotify.com/track/3ZF9W9EJ5NkqbxH6sjvEoJ"
+      "duration_ms": 164893,
+      "name": "Tu me Play",
+      "url": "https://open.spotify.com/track/1HFU10aC4Bzflxqb7jZnLq"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -915,22 +915,6 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
-        "name": "Vari\u00e9ty",
-        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
-      },
-      "artists": [
-        {
-          "name": "Les Rita Mitsouko",
-          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Ding Dang Dong (Ringing at Your Bell)",
-      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
+        "name": "Vari\u00e9ty",
+        "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "duration_ms": 219933,
+      "name": "Ding Dang Dong (Ringing at Your Bell)",
+      "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
         "name": "Les Annees Barclay",
         "url": "https://open.spotify.com/album/7q3tFk1RQC7dNCPTi9mRnm"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "La vie ne vaut rien",
-      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "13",
         "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 326186,
       "name": "Un \u00e9t\u00e9 fran\u00e7ais",
       "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/7CidHDoNltKs2NfPSIn3Ol"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "La vie ne vaut rien",
+      "url": "https://open.spotify.com/track/2PQ06bEO6VKuiEsPAisJ1V"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
-        "name": "Charango",
-        "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
-      },
-      "artists": [
-        {
-          "name": "Yannick Noah",
-          "url": "https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv"
-        }
-      ],
-      "duration_ms": 195680,
-      "name": "Aux arbres citoyens",
-      "url": "https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
         "name": "Osez Josephine",
         "url": "https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 178173,
       "name": "Osez Jos\u00e9phine",
       "url": "https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
+        "name": "Charango",
+        "url": "https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c"
+      },
+      "artists": [
+        {
+          "name": "Yannick Noah",
+          "url": "https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv"
+        }
+      ],
+      "duration_ms": 195680,
+      "name": "Aux arbres citoyens",
+      "url": "https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2"
     },
     {
       "added_at": "2023-03-20 12:34:15",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-03-20 12:34:15",
       "album": {
+        "name": "Nos c\u00e9l\u00e9brations",
+        "url": "https://open.spotify.com/album/7KvQlSvxXWsxKnEhOdWP6N"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Nos c\u00e9l\u00e9brations - Edit",
+      "url": "https://open.spotify.com/track/50TIALxJW2k7XntjaVzrt1"
+    },
+    {
+      "added_at": "2023-03-20 12:34:15",
+      "album": {
         "name": "M\u00e9lancolie heureuse - Nouvelle impression",
         "url": "https://open.spotify.com/album/1qXI0l7V93M0KCinTOZwcW"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 199120,
       "name": "Mourir vieux (avec toi)",
       "url": "https://open.spotify.com/track/7EwK4HWRAunokum0nNo7il"
-    },
-    {
-      "added_at": "2023-03-20 12:34:15",
-      "album": {
-        "name": "Chaleur Humaine",
-        "url": "https://open.spotify.com/album/326nKcn9e238BwduPDzld7"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 239554,
-      "name": "Saint Claude (Version Fran\u00e7aise)",
-      "url": "https://open.spotify.com/track/5Ai8XBxieq1CR263UdhGdF"
     }
   ],
   "unique_name": "Bleu Blanc Route",

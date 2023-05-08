@@ -4,7 +4,7 @@
 
 > Korean hipster & experimental music essential\. 당신의 힙스터 감성을 충전해줄 인디 곡들을 만나보세요\. \(Cover: Yoon Jiyoung\(윤지영\)\)
 
-304 songs - 16 hr 57 min
+305 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/track/6Z7EQCTRd1xvYNQA4e8cXu) | [hyangni](https://open.spotify.com/artist/3cJZkGtAEEajyDOnbYe42O), [Telefonist](https://open.spotify.com/artist/3ICg4qSKMB3EuuEjiyuVIw) | [aromatherapy \(feat\. Telefonist\)](https://open.spotify.com/album/1a91fUH02ghx9W49pD7Kfx) | 3:19 | 2022-05-27 | 2022-07-27 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 | 2023-04-22 |
 | [astroboy.](https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7) | [suggi](https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS) | [cheer up!](https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8) | 4:00 | 2022-05-27 |  |
+| [Bad](https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p) | 4:42 | 2023-05-02 |  |
 | [Bad](https://open.spotify.com/track/4xpquaJtTBKbtFjXJ8rvSg) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Prologue : Love](https://open.spotify.com/album/51wJn9B4Dz7rnyelqgugvo) | 4:42 | 2023-02-18 | 2023-05-05 |
 | [Bang Bus](https://open.spotify.com/track/6icnkKxcpcXTinKYC1k1Sl) | [250](https://open.spotify.com/artist/0ePKWgwmESq5970Hq1c3yE) | [Bang Bus](https://open.spotify.com/album/2mtnyGr9bJtIdr1H57bqyr) | 4:05 | 2022-05-27 | 2022-07-29 |
 | [Bats We Are](https://open.spotify.com/track/4DbQlc71vOkXYlROdbKCto) | [Byul.org](https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP) | [Nobody's Gold](https://open.spotify.com/album/53GhmE7eXAJL3Cwoq9O7pM) | 4:28 | 2023-02-20 | 2023-03-18 |
@@ -269,7 +270,7 @@
 | [TRIP](https://open.spotify.com/track/3MsAfJBAE8fmEUyuywAv7A) | [OHSHYTTTT](https://open.spotify.com/artist/0AhjqxZvcEIEK0qv7wzEpZ) | [IM GOOD](https://open.spotify.com/album/0o3Y7xtq3Gr17IuKTZz1hX) | 2:15 | 2023-02-14 | 2023-02-21 |
 | [Turtle](https://open.spotify.com/track/2NYv3in6KzvY7u08GeAWXh) | [Uyeon](https://open.spotify.com/artist/5kWXcQClcPLU6G1TPW4tXM) | [Gonna out](https://open.spotify.com/album/5RHSk68hoJY9N1SoCIv1G9) | 3:16 | 2022-05-27 | 2022-07-29 |
 | [typical story](https://open.spotify.com/track/3fyGfzTIepF4iz3hgVqgGO) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [typical story](https://open.spotify.com/album/09itvchYjsX9XfvCJ7ihyU) | 2:06 | 2022-12-19 |  |
-| [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 | 2022-05-27 |  |
+| [U\-Turn](https://open.spotify.com/track/1ghQ6Z2ns350hJ6yDKkXBO) | [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [Kpop](https://open.spotify.com/album/5iIYXurAw2Y46rskFnYz0R) | 1:18 | 2022-05-27 | 2023-05-08 |
 | [Unconditional Love](https://open.spotify.com/track/7b2UByK5M5c2mwyWtr1gMc) | [THE ODOR](https://open.spotify.com/artist/2LwCsA1owJzBVwnLd5EuqC) | [Prototype](https://open.spotify.com/album/6Kj3DFhAmP20oPaXTFC0S4) | 4:07 | 2022-05-27 | 2022-07-26 |
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-25 | 2023-02-21 |
 | [VEIL](https://open.spotify.com/track/6TO1ByuAUW8xUwilXhSY6J) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [VEIL](https://open.spotify.com/album/7400fy7VotUGmiwjtGbH5J) | 3:18 | 2022-11-08 |  |

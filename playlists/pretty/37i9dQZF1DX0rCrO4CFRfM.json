@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 900047,
+  "num_followers": 900379,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzUzOGNjMWZmZjM3YjliMzg3NmJkNWUyMzA4ZGFhMzFiOTcxNDE4",
+  "snapshot_id": "MCw0NDFlODBkZDY4ZjMyNzZjODFkY2U2Y2Q1MTg2ZGIzZjdiOTRkOTk2",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214413,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "The Reason (Acoustic) / Right Before Your Eyes",
         "url": "https://open.spotify.com/album/1wPX89HNEWb6FIWcQDlV36"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 234187,
       "name": "The Reason - Acoustic",
       "url": "https://open.spotify.com/track/1CobuGL6ysSrfCE2tWcfFU"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214413,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Talihina Sky",
-        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 206253,
-      "name": "Talihina Sky - Acoustic Version",
-      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Boxes (Acoustic)",
         "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 262186,
       "name": "Boxes - Acoustic",
       "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Talihina Sky",
+        "url": "https://open.spotify.com/album/7f9i3ESobBA31kfdfqXQSG"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 206253,
+      "name": "Talihina Sky - Acoustic Version",
+      "url": "https://open.spotify.com/track/1DNM1bkIEzqGrCcQndWl1C"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Save Me - Acoustic",
-      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "12\" Masters - The Essential Mixes",
         "url": "https://open.spotify.com/album/2jJ6cDLNPwLyVNC1qqVwOT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 237533,
       "name": "When You're Gone - Acoustic Version",
       "url": "https://open.spotify.com/track/3fcOPNiuzOsjwaguaxrAon"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Save Me - Acoustic",
+      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 198573,
-      "name": "Stay With Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Shooting Stars (in the Woods)",
         "url": "https://open.spotify.com/album/3PDSx1HCnP3I2byYCTjrG1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 263088,
       "name": "Shooting Stars - in the Woods",
       "url": "https://open.spotify.com/track/69mwPY097BcpVDYHOFIAT7"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 198573,
+      "name": "Stay With Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
     },
     {
       "added_at": "2023-01-11 17:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
-    },
-    {
-      "added_at": "2023-01-11 17:00:00",
-      "album": {
         "name": "Walk On Water (Acoustic)",
         "url": "https://open.spotify.com/album/6AYKHtLtX2M9WnHcM2s142"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 188895,
       "name": "Walk On Water - Acoustic",
       "url": "https://open.spotify.com/track/4sNbnjnqIKkT16XuUtwU88"
+    },
+    {
+      "added_at": "2023-01-11 17:00:00",
+      "album": {
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2023-01-11 17:00:00",

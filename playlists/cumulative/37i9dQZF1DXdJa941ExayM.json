@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "10,000 gecs",
+        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+      },
+      "artists": [
+        {
+          "name": "100 gecs",
+          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196893,
+      "name": "Doritos & Fritos",
+      "url": "https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8"
+    },
+    {
+      "album": {
         "name": "Doritos & Fritos",
         "url": "https://open.spotify.com/album/1LWmE7Dy299uuwFo8wcOPC"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 196896,
       "name": "Doritos & Fritos",
       "url": "https://open.spotify.com/track/2WzWwYoxWIqyjzIaazsqYV"
@@ -1954,7 +1972,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 165965,
       "name": "Idgaf",
       "url": "https://open.spotify.com/track/3GrYhvHbnMhp2CQFSU4Qeb"
@@ -2892,7 +2910,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 156879,
       "name": "pity party (hyperpunk remix)",
       "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"

@@ -446,6 +446,24 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188906,
+      "name": "Kiss the Ring",
+      "url": "https://open.spotify.com/track/2I4dgdRRupMhZCusqTsp8W"
+    },
+    {
+      "album": {
+        "name": "Number Four",
+        "url": "https://open.spotify.com/album/4Sh91taOfVixkdMV4LiEih"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
       "date_removed": null,

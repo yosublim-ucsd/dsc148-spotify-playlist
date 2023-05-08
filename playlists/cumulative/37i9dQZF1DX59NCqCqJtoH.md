@@ -4,7 +4,7 @@
 
 > We hear you.
 
-581 songs - 1 day 4 hr 40 min
+582 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [emma, u up?](https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [emma, u up?](https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76) | 2:24 | 2021-04-02 |  |
 | [Emotionless](https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO) | [Crisaunt](https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6) | [Emotionless](https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl) | 2:28 | 2021-04-02 |  |
 | [Empty Room](https://open.spotify.com/track/2YUjJiHEhbb7eO9OWHdarW) | [Rishi](https://open.spotify.com/artist/5q1xsAah3kIdY7ouXeBa08) | [Empty Room](https://open.spotify.com/album/39LG3JcDyjuE9QHVhsL3mR) | 3:25 | 2021-06-25 | 2022-04-17 |
-| [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 |  |
+| [essential](https://open.spotify.com/track/5furV6z87xBEymy1nXFAXu) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [essential](https://open.spotify.com/album/3FSZt1nG5DDRADNrd9g6LQ) | 2:42 | 2023-01-20 | 2023-05-08 |
 | [Everything and More](https://open.spotify.com/track/6qTEh8LELYNp9QCYyYfZS4) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Behind the Clouds](https://open.spotify.com/album/5YIez3soImBgLLTak9xyuh) | 1:59 | 2021-04-02 | 2022-07-03 |
 | [everything i couldn't be](https://open.spotify.com/track/0Fzt24jmCa6G0ED7pW3IM1) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [everything i couldn't be](https://open.spotify.com/album/0OO54Y1nTh8WeZBNuD4AMV) | 2:10 | 2021-04-02 | 2022-07-22 |
 | [everything will be okay...](https://open.spotify.com/track/3ocXeXohKnLDwSfzjWs1tE) | [R.L\. Beats](https://open.spotify.com/artist/0EYPvjUpwFLKU6KHM6ecCO) | [everything will be okay...](https://open.spotify.com/album/6jcKxX5Huf3gOOLm98Lm6L) | 1:32 | 2021-04-02 | 2022-05-20 |
@@ -271,6 +271,7 @@
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-11-08 | 2023-02-01 |
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2022-11-11 | 2023-04-27 |
 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 | 2022-11-18 | 2023-02-15 |
+| [infinity](https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [infinity](https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW) | 2:54 | 2023-04-26 |  |
 | [Insane](https://open.spotify.com/track/3mLFCocZgUvih60frphM6l) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Insane](https://open.spotify.com/album/21gi2LoATc1aYgKLD39uVy) | 2:46 | 2021-04-02 |  |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2022-11-08 | 2022-12-10 |
 | [into ash](https://open.spotify.com/track/2yPIuAeJ2Y5mKPo82Lruw3) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [into ash](https://open.spotify.com/album/7guivDMrs7rBgX84UAp2vL) | 1:29 | 2021-04-02 | 2022-04-14 |
@@ -495,7 +496,7 @@
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-10-15 | 2022-04-19 |
 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-21 | 2023-04-27 |
 | [the bottom of the well](https://open.spotify.com/track/0RCVrU017Shdm5o99R0USi) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [the bottom of the well](https://open.spotify.com/album/5JSEwklzjrjyjl44IsbhHy) | 4:15 | 2022-01-25 | 2022-07-29 |
-| [the dog](https://open.spotify.com/track/0KtSVKfc0uDd7b0dpjIqer) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [the dog](https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0) | 2:45 | 2023-04-26 |  |
+| [the dog](https://open.spotify.com/track/0KtSVKfc0uDd7b0dpjIqer) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [the dog](https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0) | 2:46 | 2023-04-26 |  |
 | [the fire in your eyes keeps me warm](https://open.spotify.com/track/076YCyUBs1GlrzAmOsZkFU) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Arvnd](https://open.spotify.com/artist/03sj0tUmIbmENyauxKtulx) | [some boring love stories pt 5](https://open.spotify.com/album/26JLBgmg9yNxBcdBhX0f63) | 3:13 | 2021-04-02 | 2022-07-22 |
 | [The Gold \- Phoebe Bridgers Version](https://open.spotify.com/track/7qcXUzPwoxSBFxjTbNrV0B) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Gold \(Phoebe Bridgers Version\)](https://open.spotify.com/album/5pCfjopxazLdvmLae6My9w) | 3:53 | 2022-09-27 | 2022-12-24 |
 | [The Knots](https://open.spotify.com/track/6YbSyWJKrwvawpyYtxvAJy) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [The Knots](https://open.spotify.com/album/61nyeXkmqRtCa1VRn0uDNx) | 4:12 | 2022-03-23 | 2022-07-23 |

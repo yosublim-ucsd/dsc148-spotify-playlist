@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 18375,
+  "num_followers": 18390,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjgzYzY2NDkxN2M4MWZhNWYyZmU5ZGJjZmRjNjk3MjNkZmQ3OWI3",
+  "snapshot_id": "MCxhNTRhZDkwOWRlMzc2YzM3NGE5ODU5NTZiMGJkMGUxOTdlNDhmOWE2",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -443,6 +443,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "Tattoo (Remastered 2017)",
+        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 279958,
+      "name": "Tattoo'd Lady",
+      "url": "https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 210826,
       "name": "I Ain't Superstitious",
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Tattoo (Remastered 2017)",
-        "url": "https://open.spotify.com/album/4lC6XXj4Cq9rsaJh7EghRg"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 279958,
-      "name": "Tattoo'd Lady",
-      "url": "https://open.spotify.com/track/3qy4FZ9nzsjSmVOBMZCUed"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
         "name": "Hound Dog Taylor and The Houserockers",
         "url": "https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219066,
       "name": "Wild About You, Baby",
       "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -679,18 +679,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Roy Buchanan",
-        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
+        "name": "Vivid Sound",
+        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
       },
       "artists": [
         {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+          "name": "Johnny \"Guitar\" Watson",
+          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
         }
       ],
-      "duration_ms": 306000,
-      "name": "John's Blues",
-      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
+      "duration_ms": 195693,
+      "name": "Cuttin' In",
+      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -711,18 +711,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "Vivid Sound",
-        "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
+        "name": "Roy Buchanan",
+        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
       },
       "artists": [
         {
-          "name": "Johnny \"Guitar\" Watson",
-          "url": "https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl"
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
         }
       ],
-      "duration_ms": 195693,
-      "name": "Cuttin' In",
-      "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
+      "duration_ms": 306000,
+      "name": "John's Blues",
+      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
     },
     {
       "added_at": "2020-10-21 20:41:20",

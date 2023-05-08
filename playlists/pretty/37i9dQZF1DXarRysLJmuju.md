@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Cover: Walk Off the Earth
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,361 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,389 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/7jHi6opPq439ruUlfH90Aw) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/5aQFjsRw6rieK5oDNgGRyB) | 3:41 |
 | 100 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 |
 
-Snapshot ID: `MCxlMmFlN2ViYzkyNDliMjhhNGRkZmQ5ZWI3NmYyN2ZmMjZiZDE4OGJl`
+Snapshot ID: `MCw5MGY5MDMzZmE2MWZhMjNlZmE0ODFmNTI1YjE5MmRkNTUzN2U0NWFh`

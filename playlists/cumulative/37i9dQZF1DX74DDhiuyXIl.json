@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 246315,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 269583,
       "name": "\u51ac\u7720",
       "url": "https://open.spotify.com/track/5bplR1ESzNn6Q7RlFQIvhd"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 254117,
       "name": "\u5c31\u8b93\u9019\u5927\u96e8\u5168\u90fd\u843d\u4e0b",
       "url": "https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ"
@@ -2534,7 +2534,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 260000,
       "name": "\u5fc3\u613f",
       "url": "https://open.spotify.com/track/2JvBOfpVxHftlTPaCadw6P"
@@ -3974,7 +3974,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 250047,
       "name": "\u7576\u6211\u8b8a\u6210\u6211\u5011",
       "url": "https://open.spotify.com/track/0llQRKKNRIr7yKtzZOPdcH"
@@ -4310,6 +4310,24 @@
       "duration_ms": 270399,
       "name": "\u812b\u80ce\u63db\u9aa8",
       "url": "https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk"
+    },
+    {
+      "album": {
+        "name": "\u84dd",
+        "url": "https://open.spotify.com/album/1VMcaGUnZCKz5QVqUO9Q9e"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u767d\u5176",
+          "url": "https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271764,
+      "name": "\u84dd",
+      "url": "https://open.spotify.com/track/1oK05ieWeGNud5Tfa47cCo"
     },
     {
       "album": {

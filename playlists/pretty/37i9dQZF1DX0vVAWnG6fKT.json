@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 148555,
+  "num_followers": 137965,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjg5Y2I4YjE0Y2Y3YjU5MTkyMmM4MjdkMjY5ZWVkOTZjM2U4MWI2",
+  "snapshot_id": "MCxmNjBiNDZiZGYyMzA0NGM1NmQxMTIwYmY5MGI0MTAxYTcxODZkYmVh",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Presenting Roy Rogers",
-        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
-      },
-      "artists": [
-        {
-          "name": "Roy Rogers",
-          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Don't Fence Me In",
-      "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 177626,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Presenting Roy Rogers",
+        "url": "https://open.spotify.com/album/6Ev7K0Zabn9e8uzx33ALJm"
+      },
+      "artists": [
+        {
+          "name": "Roy Rogers",
+          "url": "https://open.spotify.com/artist/7Fhopp9XWiqrS7oMw0BKjM"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Don't Fence Me In",
+      "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 185533,
       "name": "Deck Of Cards",
       "url": "https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Columbia Historic Edition",
         "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 166160,
       "name": "Kentucky Waltz",
       "url": "https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Capitol Collectors Series",
-        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Mule Train",
-      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "16 Great Songs of the Old West",
         "url": "https://open.spotify.com/album/5YWT3TwLPXeIq7e6NATzi6"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 137856,
       "name": "Whopee Ti Yi Yo",
       "url": "https://open.spotify.com/track/0rAuUGTWBabj1Rbwm3e9ex"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Mule Train",
+      "url": "https://open.spotify.com/track/1gPJTFz0LBq7l9cZ9P7siy"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Copasetic",
-        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
-      },
-      "artists": [
-        {
-          "name": "Cowboy Copas",
-          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Filipino Baby",
-      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Rhythm & Booze",
         "url": "https://open.spotify.com/album/3W7UIA50NjiTKPkgXTXI3g"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Copasetic",
+        "url": "https://open.spotify.com/album/0Ac1oFimbMML0XXAW24eWK"
+      },
+      "artists": [
+        {
+          "name": "Cowboy Copas",
+          "url": "https://open.spotify.com/artist/4szqhE3dT8nzYnlXYGwzmi"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Filipino Baby",
+      "url": "https://open.spotify.com/track/4k4GFhAUudT64mJAhkeLzn"
     },
     {
       "added_at": "2023-01-02 21:50:32",

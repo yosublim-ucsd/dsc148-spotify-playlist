@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest soul tracks from the 1970s.",
-  "num_followers": 1410995,
+  "num_followers": 1411485,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGI3NWUxZDAxMzExN2YxNmE5MTVjYjZhMTQyMjFmNDQwOWE3YTg2",
+  "snapshot_id": "MCw1M2RhMWI0MTBmODc0ZTJmMWRiMzBiYjkwMmFkZjM3ZjA2MTUwMTk5",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Imagination (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Midnight Train to Georgia",
-      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Rejoice",
         "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 220560,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Imagination (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Midnight Train to Georgia",
+      "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "2nd Time Around (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 190058,
-      "name": "It's A Shame",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "2nd Time Around (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FWAviP7cXvH8iOVENSaNG"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 190058,
+      "name": "It's A Shame",
+      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "I've Got So Much To Give",
-        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 431506,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -711,18 +711,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Al Green Is Love",
-        "url": "https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK"
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
         }
       ],
-      "duration_ms": 189306,
-      "name": "L-O-V-E (Love)",
-      "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
+        "name": "Al Green Is Love",
+        "url": "https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "L-O-V-E (Love)",
+      "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
         "name": "Think (About It)",
         "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 204160,
       "name": "Think (About It)",
       "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
-        "name": "Supernatural Thing",
-        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Supernatural Thing, Pt. 1",
-      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Woman to Woman [Stax Remasters]",
-        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
-      },
-      "artists": [
-        {
-          "name": "Shirley Brown",
-          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Woman To Woman",
-      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 337333,
       "name": "For the Love of You, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Woman to Woman [Stax Remasters]",
+        "url": "https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I"
+      },
+      "artists": [
+        {
+          "name": "Shirley Brown",
+          "url": "https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Woman To Woman",
+      "url": "https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Drowning in the Sea of Love",
-        "url": "https://open.spotify.com/album/3KXu9WiHi6HlxXM9aZtdQU"
-      },
-      "artists": [
-        {
-          "name": "Joe Simon",
-          "url": "https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Drowning in the Sea of Love",
-      "url": "https://open.spotify.com/track/1hbf8AWhIfIQk8V9KqTRAl"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "International (Expanded Edition)",
         "url": "https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 227160,
       "name": "TSOP (The Sound of Philadelphia)",
       "url": "https://open.spotify.com/track/50wtPW7qTqRCi78OxVn2ep"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Drowning in the Sea of Love",
+        "url": "https://open.spotify.com/album/3KXu9WiHi6HlxXM9aZtdQU"
+      },
+      "artists": [
+        {
+          "name": "Joe Simon",
+          "url": "https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Drowning in the Sea of Love",
+      "url": "https://open.spotify.com/track/1hbf8AWhIfIQk8V9KqTRAl"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
-        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 198439,
-      "name": "(Do The) Push And Pull - Pt. 1",
-      "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "Superfly (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 300693,
       "name": "Pusherman",
       "url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
+        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "duration_ms": 198439,
+      "name": "(Do The) Push And Pull - Pt. 1",
+      "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
     },
     {
       "added_at": "2022-02-04 15:57:42",

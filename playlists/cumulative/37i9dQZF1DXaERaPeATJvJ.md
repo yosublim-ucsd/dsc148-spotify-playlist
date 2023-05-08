@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-111 songs - 7 hr 33 min
+112 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,8 @@
 | [Satu Mimpi](https://open.spotify.com/track/4xbWESPCXzpARtbmb5hqp5) | [Waiting Room](https://open.spotify.com/artist/720vBDH1DJ0UaLXmfTMs46) | [Propaganda](https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi) | 3:19 | 2021-11-25 |  |
 | [Semu](https://open.spotify.com/track/1h3HK2bwZ5TEgBB3A06L6i) | [Homogenic](https://open.spotify.com/artist/1MqptwxFPHFg3RwJryKono) | [Epic Symphony](https://open.spotify.com/album/75CIJQq7AocsTVcnYdEERz) | 3:10 | 2021-11-25 |  |
 | [Sepasang Kekasih Yang Pertama Bercinta Di Luar Angkasa](https://open.spotify.com/track/7pXbfo5RqiKu8ojg6qJCpX) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS), [Ugoran Prasad](https://open.spotify.com/artist/0pLLozVOEXjYuEu4c4vuE8) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 6:27 | 2021-11-25 |  |
-| [She Burns the Disco](https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW) | 3:43 | 2022-09-16 |  |
+| [She Burns the Disco](https://open.spotify.com/track/65sYVB0QTVywq01KFE83ZN) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/6w39Q5UagTTDPE8uByTti8) | 3:43 | 2023-03-02 |  |
+| [She Burns the Disco](https://open.spotify.com/track/745CC7dQTxGJgTyZPpNjSs) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Garage of the Soul](https://open.spotify.com/album/4WNPu3Ook98eQCR5HB4HWW) | 3:43 | 2022-09-16 | 2023-05-08 |
 | [She Pretends](https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY) | [cscd](https://open.spotify.com/artist/7bKRgEFmYuAzF3xSbI5ftZ) | [Pieces Of The World](https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7) | 4:23 | 2021-11-25 |  |
 | [Sinar](https://open.spotify.com/track/3cMF1tldglDmE2udf39mDe) | [Piknik](https://open.spotify.com/artist/74AhmSuxlU6ydRZwlyr9we) | [Sinar](https://open.spotify.com/album/1MvTs8cmhLpF22hsYkUjqs) | 4:20 | 2022-05-12 |  |
 | [Something Like Your Smile](https://open.spotify.com/track/2DX71CNkwE5WssGevAbbxZ) | [Blossom Diary](https://open.spotify.com/artist/4wHBQaI9R90O4bhl71Sppp) | [About The Poor Boy](https://open.spotify.com/album/3p3u7UdtVzii1F5HfX1q3w) | 4:39 | 2022-06-03 |  |

@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/3dGNeMzMH6tllAiTGA2cLZ"
+      },
+      "artists": [
+        {
+          "name": "JustLuke",
+          "url": "https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133440,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/4xy8PsaeOhDoKyUPxtGD4w"
+    },
+    {
+      "album": {
         "name": "All Over U",
         "url": "https://open.spotify.com/album/1fORBKzArhL3rMlkJqHKor"
       },
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 226976,
       "name": "Eso",
       "url": "https://open.spotify.com/track/0whtZ1FZFRkwO8bW13gv2T"
@@ -16776,7 +16794,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 218390,
       "name": "Sleep Walk (feat. Liz Cass)",
       "url": "https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV"
@@ -16960,7 +16978,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 197419,
       "name": "Sober",
       "url": "https://open.spotify.com/track/38uNPzNvxuuimtRljtomS6"
@@ -19502,7 +19520,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 204257,
       "name": "Tomalo",
       "url": "https://open.spotify.com/track/5D8dzgsXWhlPXt4p0IxwTS"
@@ -19903,6 +19921,28 @@
     },
     {
       "album": {
+        "name": "Twist It",
+        "url": "https://open.spotify.com/album/7CIab4fV9GFYnECCO4lDnU"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "AYAREZ",
+          "url": "https://open.spotify.com/artist/3eTTWCTlXDyGKwrGqDMsX0"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182916,
+      "name": "Twist It",
+      "url": "https://open.spotify.com/track/3KBYGZk7GjlCu96zU8DG86"
+    },
+    {
+      "album": {
         "name": "Twitch",
         "url": "https://open.spotify.com/album/4cfbo4cwy8zimX5IMmhFc7"
       },
@@ -20192,6 +20232,28 @@
       "duration_ms": 203108,
       "name": "Vibe Like That (feat. Georgia Meek)",
       "url": "https://open.spotify.com/track/0dH0pegRa3TILf9wzvI7jQ"
+    },
+    {
+      "album": {
+        "name": "Vibe With It (feat. The Melody Men)",
+        "url": "https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "The Melody Men",
+          "url": "https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175230,
+      "name": "Vibe With It (feat. The Melody Men)",
+      "url": "https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE"
     },
     {
       "album": {
@@ -20830,6 +20892,28 @@
       "duration_ms": 231750,
       "name": "What You Waiting For?",
       "url": "https://open.spotify.com/track/2E1TqNdLJc5qNmVh6hDHqI"
+    },
+    {
+      "album": {
+        "name": "What's Wrong With Your Head",
+        "url": "https://open.spotify.com/album/0XALUdQ5xYLxfildxaWyCt"
+      },
+      "artists": [
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+        },
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135451,
+      "name": "What's Wrong With Your Head",
+      "url": "https://open.spotify.com/track/1Qep5GpmekRswT7G765MuZ"
     },
     {
       "album": {

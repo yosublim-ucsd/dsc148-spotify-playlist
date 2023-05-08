@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,244 songs - 2 day 19 hr 51 min
+1,245 songs - 2 day 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-03-30 | 2022-07-17 |
 | [BIG TYME](https://open.spotify.com/track/13KV7AMsYRVBHgRCJSXaqx) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [BIG TYME](https://open.spotify.com/album/2u29pL0PTNRoRHlkZkaTXK) | 4:02 | 2019-08-09 | 2020-10-21 |
 | [Bill Murray](https://open.spotify.com/track/02Q7GcNPVgFNr8nNhq5oLg) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [Bill Murreee](https://open.spotify.com/album/3bkmp58aIzvWZnmCBvryxF) | 8:09 | 2020-03-20 | 2020-09-15 |
-| [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-09 |  |
+| [BILLIE EILISH.](https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 1:39 | 2023-04-21 |  |
+| [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-09 | 2023-05-08 |
 | [Birdz \(with Smokepurpp\)](https://open.spotify.com/track/0Uhbn8GeomTRkkVAapjM4Z) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Birdz \(with Smokepurpp\)](https://open.spotify.com/album/4bhd6PgiyB6Ba2scrbS7ai) | 2:42 | 2021-02-02 | 2022-07-29 |
 | [bitches](https://open.spotify.com/track/2cqscm1gWXZElrn48maeMe) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [bitches](https://open.spotify.com/album/2leobyqQarqugCXzuEzTAY) | 3:37 | 2021-06-09 | 2022-07-29 |
 | [Bite Your Lip](https://open.spotify.com/track/0auWmQ8dkRRXWTDTI6PMVz) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Bite Your Lip](https://open.spotify.com/album/4CCnn9ryKllMckHyKbEldn) | 3:32 | 2019-07-04 | 2019-10-23 |

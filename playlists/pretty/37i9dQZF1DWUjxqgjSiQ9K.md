@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5?si=246a8937e0ea4b76">Travy Joe</a> y <a href="https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=nTHkL2uRTAuO1E8oXips9g">Miel San Marcos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,883 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,008 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 19 | [Eres Fiel](https://open.spotify.com/track/17k5Ei92l8Hrw4e32lSZSj) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Eres Fiel](https://open.spotify.com/album/3OWCVFKDcqv93twk8mWdkd) | 4:50 |
 | 20 | [Para Ti](https://open.spotify.com/track/26Vi1JbqYdFHlolbT61xvX) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Para Ti](https://open.spotify.com/album/3vgt8y8SCebdyYTGpZfZPL) | 2:34 |
 | 21 | [Contigo](https://open.spotify.com/track/3VYlrsMKVYCZ8s8JCMEhGT) | [Nezareth](https://open.spotify.com/artist/4afXJaDsXOYRPYklYepSYT), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Contigo](https://open.spotify.com/album/6fHJeRf0DQquLgrwp4P9au) | 3:45 |
-| 22 | [Me Rendí](https://open.spotify.com/track/31QmCF7GTYtm2da7dY8L68) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Me Rendí](https://open.spotify.com/album/78f0HFUcWCxZb7dgXMRktx) | 3:27 |
+| 22 | [Me Rendí](https://open.spotify.com/track/2IDdRPsbxhgbEIwKcwup6S) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Wise "the Gold Pen"](https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Chosen Few Fe](https://open.spotify.com/album/51sJNM3cAlnFJ7OoviSDWi) | 3:27 |
 | 23 | [ALELUYA \(Alé\-Grense Los Justos\)](https://open.spotify.com/track/7CgJ6mGO2cqQqMrDz1GL9u) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p) | [ALELUYA \(Alé\-Grense Los Justos\)](https://open.spotify.com/album/3gu6I8hB5IZCC9lkCK3L36) | 5:55 |
 | 24 | [Hosanna \(feat\. Lucas Conslie\)](https://open.spotify.com/track/5IQq0rqAbhwt58nVovdyr6) | [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1) | [Hosanna \(feat\. Lucas Conslie\)](https://open.spotify.com/album/5ZC6RHxixCN4uFHKDoYqKZ) | 4:05 |
 | 25 | [Grande Como El Cielo](https://open.spotify.com/track/40NxV30GjlEjNK52Z40Dnq) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Grande Como El Cielo](https://open.spotify.com/album/6wJARHYepBIKNbFFfiPFpl) | 3:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCxlZTdjMjdlMDlmOGUxNWQwMGFmNDAxNzMxZDEwOGE1YjllY2E0MGRj`
+Snapshot ID: `MCwyZGJiMDY0MDZkZmY0YzlmNDgxMDYwODNhZmU2MmI5YzIzZjQ3NjZk`

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-408 songs - 1 day 17 hr 27 min
+409 songs - 1 day 17 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 | 2021-12-13 | 2022-04-23 |
 | [Cosa Buena](https://open.spotify.com/track/1hNBZ1OZj0qnzqNFZJbavC) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F) | [Cosa Buena](https://open.spotify.com/album/51rZ7BO22Mh1S3wDL4jrDr) | 6:16 | 2021-05-18 | 2022-04-21 |
 | [Cosmovision](https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 3:33 | 2022-08-03 |  |
+| [Cuatro Vientos \(HUGEL Version\)](https://open.spotify.com/track/44SiXnPPTR872JUl1gdJ7x) | [Danit](https://open.spotify.com/artist/3Hue0QXHSHhpjbqWk3HmtY), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Cuatro Vientos \(HUGEL Version\)](https://open.spotify.com/album/7HngPNqj7MKGWGgJShs68v) | 3:05 | 2023-05-05 |  |
 | [Cumulonimbus Incus](https://open.spotify.com/track/2paMfzAp6rhZaAU5gjVfh6) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [Silver Linings](https://open.spotify.com/album/3OFxNZom1XclhLF4cU62n8) | 6:48 | 2021-07-30 | 2022-07-29 |
 | [Cure My Desire \(feat\. Clementine Douglas\) \- Themba Remix](https://open.spotify.com/track/5vaNPQoye1DYsXj0yckiCk) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Cure My Desire \(feat\. Clementine Douglas\) \[Themba Remix\]](https://open.spotify.com/album/00QRGLQDaGgBc9ukkiSgwi) | 3:40 | 2023-01-30 |  |
 | [Dark Sun](https://open.spotify.com/track/4Rlbt7DrxqHqT2gSAOVbLe) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Momentum](https://open.spotify.com/album/0dqK6mrJ3jnp8fmN5gbbTB) | 7:10 | 2023-04-07 |  |
@@ -97,7 +98,7 @@
 | [Disco Voador \- Single Edit](https://open.spotify.com/track/6XuVgxaYTtaeTspOSgnoIW) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp) | [Disco Voador & Depois](https://open.spotify.com/album/1SfGQplxlHE1J1pid0VkNR) | 5:27 | 2021-08-06 | 2022-07-29 |
 | [Discoteca](https://open.spotify.com/track/0ENV8cY0bwun9qSQkh195f) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Discoteca](https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ) | 6:25 | 2021-04-21 |  |
 | [Disko Axiom](https://open.spotify.com/track/34y5Y8P2RLdWOeu976BvTP) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx) | [Disko Axiom](https://open.spotify.com/album/4KLc86nrptyVfg56zeaZEu) | 4:27 | 2021-04-21 | 2022-09-26 |
-| [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-09-30 |  |
+| [Don't Push](https://open.spotify.com/track/3CwQGoTdYkodFst5vvpmQ3) | [Collé](https://open.spotify.com/artist/4mX7iHDoZTPjuLlxazvkMI) | [Don't Push EP](https://open.spotify.com/album/4XIryEQtW71CJrOeOwLXYA) | 6:52 | 2022-09-30 | 2023-05-08 |
 | [Down Under](https://open.spotify.com/track/21vpeJhpOxj1cJBoePQ7r0) | [Raphael Mader](https://open.spotify.com/artist/5bHTqDmjxo8or1zMRPFaYM) | [Down Under EP](https://open.spotify.com/album/16Y843bg8bLoatMatYZ909) | 3:49 | 2021-05-28 | 2022-07-28 |
 | [Drago \- Anja Schneider Remix](https://open.spotify.com/track/1Y0pKRDpyETJzoNEcl2i0v) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Drago \(Anja Schneider Remix\)](https://open.spotify.com/album/5ILrQRKvoVwGvuLxLVWIE0) | 6:22 | 2022-04-22 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/67aiZtmB5ZBCGxBN3pOL6C) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/0VMZ7bBIr5PxYsgYBBEEdE) | 4:43 | 2022-11-23 | 2023-04-01 |

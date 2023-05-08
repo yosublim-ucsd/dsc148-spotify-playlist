@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26106,
+  "num_followers": 26117,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E0ZmYyY2FhNTAwZTFmYmU3MWVhMjZkMzEyZTZlZDgxNjExMDA1",
+  "snapshot_id": "MCxiZTI3NDhiNzUzZjczMmI3YjgyNjc0MDU1MTc0ZjllN2MwYTVkNWFj",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Fruit de ma r\u00e9cente nuit blanche",
-        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
-      },
-      "artists": [
-        {
-          "name": "Dany B\u00e9dar",
-          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
-        }
-      ],
-      "duration_ms": 225426,
-      "name": "Faire la paix avec l'amour",
-      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Snob",
         "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 253160,
       "name": "Donne-moi ma chance",
       "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Fruit de ma r\u00e9cente nuit blanche",
+        "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
+      },
+      "artists": [
+        {
+          "name": "Dany B\u00e9dar",
+          "url": "https://open.spotify.com/artist/6EAWDYcvaCSV43LMeRELDm"
+        }
+      ],
+      "duration_ms": 225426,
+      "name": "Faire la paix avec l'amour",
+      "url": "https://open.spotify.com/track/0OHLJH9WcfdsJ4IZozB92b"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Rien ne s'arr\u00eate (1987 - 2001)",
-        "url": "https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw"
-      },
-      "artists": [
-        {
-          "name": "Patricia Kaas",
-          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Mon mec \u00e0 moi",
-      "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "1992-2002 tout...",
         "url": "https://open.spotify.com/album/2rhTxraeZq3zndPHogXMtC"
       },
@@ -551,18 +535,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Je l'ai jamais dit \u00e0 personne",
-        "url": "https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni"
+        "name": "Rien ne s'arr\u00eate (1987 - 2001)",
+        "url": "https://open.spotify.com/album/6sklF5x3mauqDdLFPgIqJw"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Drapeau",
-          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
+          "name": "Patricia Kaas",
+          "url": "https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI"
         }
       ],
-      "duration_ms": 202848,
-      "name": "Je l'ai jamais dit \u00e0 personne",
-      "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
+      "duration_ms": 253893,
+      "name": "Mon mec \u00e0 moi",
+      "url": "https://open.spotify.com/track/69cjFYQg0lE0e48bgOPhfy"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -595,6 +579,22 @@
       "duration_ms": 230906,
       "name": "J't'aime comme un fou",
       "url": "https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Je l'ai jamais dit \u00e0 personne",
+        "url": "https://open.spotify.com/album/1OTwwEKQGXrw0lsHiuy5ni"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Drapeau",
+          "url": "https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5"
+        }
+      ],
+      "duration_ms": 202848,
+      "name": "Je l'ai jamais dit \u00e0 personne",
+      "url": "https://open.spotify.com/track/7cxWHyonvdK6l64sEeSpnM"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -695,18 +695,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Mes succ\u00e8s francophones 1",
-        "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
+        "name": "Les introuvables",
+        "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
       },
       "artists": [
         {
-          "name": "Sylvain Cossette",
-          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
+          "name": "Marie Denise Pelletier",
+          "url": "https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Que je t'aime",
-      "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
+      "duration_ms": 219160,
+      "name": "Pour une histoire d'un soir",
+      "url": "https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -727,18 +727,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Les introuvables",
-        "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
+        "name": "Mes succ\u00e8s francophones 1",
+        "url": "https://open.spotify.com/album/3UvMunvcUi84AkywMx0htO"
       },
       "artists": [
         {
-          "name": "Marie Denise Pelletier",
-          "url": "https://open.spotify.com/artist/1Uxer84r7rkh5OFQKMXd1l"
+          "name": "Sylvain Cossette",
+          "url": "https://open.spotify.com/artist/660PvqDaksGwQPFLbAy7pb"
         }
       ],
-      "duration_ms": 219160,
-      "name": "Pour une histoire d'un soir",
-      "url": "https://open.spotify.com/track/0oXqAQBT0KE2IzBgFivcnW"
+      "duration_ms": 237173,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/0ui0AsKMbOntbzq6j2SN9a"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -859,22 +859,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Corridors",
-        "url": "https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV"
-      },
-      "artists": [
-        {
-          "name": "Laurence Jalbert",
-          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Corridor",
-      "url": "https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Best of Herbert L\u00e9onard",
         "url": "https://open.spotify.com/album/6ZudFHSwgkQxsmCDwjHSRX"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 272746,
       "name": "Flagrant d\u00e9lit",
       "url": "https://open.spotify.com/track/0t0zkVay0Nbt9qynMK7C4a"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Corridors",
+        "url": "https://open.spotify.com/album/1DxFlq6oCVCZxUuvusxlkV"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jalbert",
+          "url": "https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Corridor",
+      "url": "https://open.spotify.com/track/6F3rXgxgLE7UAq0o34YpVn"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Coffret 2CD-3",
-        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 327200,
-      "name": "Je vais t'aimer",
-      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Marie-Chantal Toupin",
         "url": "https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 232760,
       "name": "Comment j'pourrais te l'dire",
       "url": "https://open.spotify.com/track/11avfT4rYocfVCuXSD0i3R"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Coffret 2CD-3",
+        "url": "https://open.spotify.com/album/04E38Naw2fZK4wHwev6gzm"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 327200,
+      "name": "Je vais t'aimer",
+      "url": "https://open.spotify.com/track/7CLGJ43kUYypc1t3nVZ7jD"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Lavez, lavez",
+      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "Premi\u00e8res nuits",
         "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+        "name": "Victoire (Radio Edit)",
+        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
       },
       "artists": [
         {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
         }
       ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
+      "duration_ms": 196479,
+      "name": "Victoire - Radio Edit",
+      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1143,22 +1159,6 @@
       "duration_ms": 244933,
       "name": "La berceuse du petit diable",
       "url": "https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Victoire (Radio Edit)",
-        "url": "https://open.spotify.com/album/7MoypL7O3vSdhqhbzycqD6"
-      },
-      "artists": [
-        {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
-        }
-      ],
-      "duration_ms": 196479,
-      "name": "Victoire - Radio Edit",
-      "url": "https://open.spotify.com/track/1O6uYqexF293mZKf9Nmf7x"
     },
     {
       "added_at": "2020-04-07 15:18:18",

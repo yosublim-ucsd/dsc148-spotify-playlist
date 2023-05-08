@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Lauren Spencer Smith, GAYLE & Em Beihold
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,258,765 likes - 102 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,256,820 likes - 102 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 101 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 | 102 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 |
 
-Snapshot ID: `MCxhNzkwZmZjYTQ2MzFmZDEyNzNiNTg3MDI5NDYzNmQyYmMwMzViZTEx`
+Snapshot ID: `MCw2Y2MxYjQxMWNmMTAyMTQwMTIyY2ViNWFhNjNjODdkNWVjNjg5MzE2`

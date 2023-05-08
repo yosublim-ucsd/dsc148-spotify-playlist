@@ -866,7 +866,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 199899,
       "name": "A toi",
       "url": "https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f"
@@ -10403,6 +10403,28 @@
     },
     {
       "album": {
+        "name": "Eyes contact (feat. Franglish)",
+        "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
+      },
+      "artists": [
+        {
+          "name": "Gambino La MG",
+          "url": "https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189708,
+      "name": "Eyes contact (feat. Franglish)",
+      "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
+    },
+    {
+      "album": {
         "name": "F.E",
         "url": "https://open.spotify.com/album/2cQjBVsMtvTAdNCI7Uz3RS"
       },
@@ -14162,6 +14184,24 @@
       "duration_ms": 187460,
       "name": "J'aime, J'aime",
       "url": "https://open.spotify.com/track/1X7TuTJ1qByufKwkHsAGVo"
+    },
+    {
+      "album": {
+        "name": "J'avais besoin d'un p\u00e8re (Bonus Track)",
+        "url": "https://open.spotify.com/album/7DPZ5Wj7ndn47jYxXmjGxN"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "J'avais besoin d'un p\u00e8re - Bonus Track",
+      "url": "https://open.spotify.com/track/3fJoBa767U2glkVFs8kPD6"
     },
     {
       "album": {
@@ -20974,7 +21014,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 175255,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/0au6ZQtQNZf6sKl7rK1BoN"
@@ -24839,6 +24879,24 @@
     },
     {
       "album": {
+        "name": "Pena Duro",
+        "url": "https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ"
+      },
+      "artists": [
+        {
+          "name": "Kaaris",
+          "url": "https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Pena Duro",
+      "url": "https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF"
+    },
+    {
+      "album": {
         "name": "Il \u00e9tait une fois un gar\u00e7on comme toi",
         "url": "https://open.spotify.com/album/6hvlvmawxbCXQZFyQ3aLv9"
       },
@@ -25028,7 +25086,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 167346,
       "name": "Personne",
       "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
@@ -33368,7 +33426,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-08",
       "duration_ms": 210751,
       "name": "un \u00e9clair",
       "url": "https://open.spotify.com/track/5uEzrvqzjcipm93HJiqmph"
@@ -34916,6 +34974,24 @@
       "duration_ms": 212858,
       "name": "Zayon",
       "url": "https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE"
+    },
+    {
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148717,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
     },
     {
       "album": {

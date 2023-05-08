@@ -4,7 +4,7 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-168 songs - 8 hr 51 min
+169 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw) | 2:50 | 2022-02-10 | 2023-04-28 |
 | [Amor de Chocolate](https://open.spotify.com/track/0MC7aaYm9G2sGZ8B0uxPtw) | [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU) | [Fundamental \- Naldo Benny](https://open.spotify.com/album/4yABgowbqRbG9jQLUxBxl8) | 3:38 | 2022-02-10 |  |
 | [Amor de Verdade](https://open.spotify.com/track/0nl6IxtXJ5IXHx6VorcEUs) | [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf), [MC Rita](https://open.spotify.com/artist/5yES5e4EJpUB0tfmWi3eao) | [Amor de Verdade](https://open.spotify.com/album/6YQp7pXsuPcRfVvq3ng1lr) | 3:17 | 2022-02-10 |  |
+| [Apaixonadin \(feat\. Thiaguinho\) \- Ao Vivo](https://open.spotify.com/track/1yvkjXo7NT8SxiqkJmv1mf) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Open House \(Ao Vivo\)](https://open.spotify.com/album/69BEwRfwBeIpoene374tX2) | 3:03 | 2022-02-10 |  |
 | [Apaixonadin \(feat\. Thiaguinho\) \- Ao Vivo](https://open.spotify.com/track/5HJq5FP7lFSWQc4kfs8Uef) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Apaixonadin \(feat\. Thiaguinho\) \[Ao Vivo\]](https://open.spotify.com/album/3JBeuppWRn7u6dnzjInNdQ) | 3:03 | 2022-02-10 | 2023-04-21 |
 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 | 2022-02-10 |  |
 | [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/62LiYpeFoJaixqkaNRGg47) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico Tão Feliz \- Deluxe](https://open.spotify.com/album/0Vyc1CPiHapppuNmA7rGTV) | 2:56 | 2022-02-10 | 2022-07-29 |
@@ -35,7 +36,7 @@
 | [Bumbum Granada](https://open.spotify.com/track/261vtIjvKdSBzhvvu8q4nv) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7IZRQWJAd9E8qwh22Ijjar) | 3:07 | 2022-02-10 | 2022-11-13 |
 | [Camaro Amarelo](https://open.spotify.com/track/5ivya8USJX3ezDjd2FYSXa) | [Munhoz & Mariano](https://open.spotify.com/artist/0OWtaM1z81DliQXntU4KaN) | [Camaro Amarelo \- Single](https://open.spotify.com/album/7M33XB2qec8tmOlUF529eb) | 3:32 | 2022-02-10 |  |
 | [Camarote](https://open.spotify.com/track/77VvA3wNFxm1P9amCKlVHQ) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Camarote \- Single](https://open.spotify.com/album/2XBH0A3tGyPxKnRWH7JGkT) | 3:03 | 2022-02-10 | 2022-11-22 |
-| [Camarote](https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Camarote](https://open.spotify.com/album/5Mm5Cza05FHgoBsB2sIz2k) | 3:03 | 2022-02-10 |  |
+| [Camarote](https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Camarote](https://open.spotify.com/album/5Mm5Cza05FHgoBsB2sIz2k) | 3:03 | 2022-02-10 | 2023-05-08 |
 | [Cara Bacana](https://open.spotify.com/track/1RljKrmC3uVtuP8w0RW2xk) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/1pFMw5CYSVB0mw9PzwBAUX) | 3:52 | 2022-02-10 |  |
 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 | 2022-02-10 | 2022-07-29 |
 | [Cerveja De Garrafa \(Fumaça Que Eu Faço\) \- Ao Vivo](https://open.spotify.com/track/2PADJK4rhdklqFLQFa5oMX) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Atitude 67 \(Ao Vivo\)](https://open.spotify.com/album/5hxexa4StN8STmpxFQaG9n) | 3:30 | 2022-02-10 | 2022-07-29 |

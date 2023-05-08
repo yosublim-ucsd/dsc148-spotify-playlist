@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Walter The Producer
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,909 likes - 138 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,957 likes - 138 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 113 | [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 |
 | 114 | [leaving](https://open.spotify.com/track/7HQLnBFTi8AgG5HmakAUbp) | [Au Gres](https://open.spotify.com/artist/6hz3z9hlJ0gB5CkmxnnwHr) | [leaving](https://open.spotify.com/album/7GRf3aXdLqrk2bXrpn01Ug) | 3:17 |
 | 115 | [It's Easy](https://open.spotify.com/track/3r8XvL9nZDUHktvGI5CNLA) | [Velvet Vaughan](https://open.spotify.com/artist/3WK603aQ2P6H3QDX88hYYt) | [It's Easy](https://open.spotify.com/album/6vwePIT2SGkhWzurQnlz4H) | 3:10 |
-| 116 | [Done With the Day](https://open.spotify.com/track/39pdupp7fN6IP4wyjjesBy) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Done With the Day](https://open.spotify.com/album/4DPT9VjE6Rrli1IeVDEEG6) | 3:30 |
+| 116 | [Done With the Day](https://open.spotify.com/track/2ohsDgZQM0W3FamOXVUCXK) | [7ebra](https://open.spotify.com/artist/425zLTPcp673F9ybc3Zcja) | [Bird Hour](https://open.spotify.com/album/0WIlE8U5KX5gjNj5i8J5Ae) | 3:30 |
 | 117 | [Itinerary](https://open.spotify.com/track/5OJvD7iPHQo0SuSB6zjoO7) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Itinerary](https://open.spotify.com/album/2Qiu1gpocWUsFGIx0fJsTF) | 3:30 |
 | 118 | [Rocks](https://open.spotify.com/track/33q5GW1JOMiCtW6FCVZo0g) | [Buck Raines](https://open.spotify.com/artist/0uhS2Dm4iv3qukaycmPbNF) | [Rocks](https://open.spotify.com/album/5tnRNJMyuCZxxfTIIL1Fxz) | 3:03 |
 | 119 | [Are You Okay?](https://open.spotify.com/track/4BaFnIJJGI96NaxPyZ9HLy) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Are You Okay?](https://open.spotify.com/album/0PlBi2u5RAmywsDJxc2wEJ) | 2:44 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 137 | [ONLY ONE](https://open.spotify.com/track/6FCMfT9bWZ8bcrEK7wbjgY) | [Ruby](https://open.spotify.com/artist/1eMeb0IrAFbWw4BeQ8VXDI) | [BEDTIME](https://open.spotify.com/album/5ZWsqSYied2r8qQk1rYdDO) | 2:09 |
 | 138 | [Apollo](https://open.spotify.com/track/21NC2lCEgUMvL3QbYYwSHX) | [Sivu](https://open.spotify.com/artist/6RFYCKz8MgykjjsvnpLPTf) | [Apollo](https://open.spotify.com/album/6Cj8vu4963c8uotOiwonxb) | 3:21 |
 
-Snapshot ID: `MCxiMjEyOGVhZTAzMjM0OGFiNTY4NGNlNTJmNTM3Y2U2ZjJmZjVmMzEw`
+Snapshot ID: `MCw3MGEzYjEyZGFkYmYxNTBhOGU1MzY1NTM5ZTQ5ZDk2MGJmY2M2YjRi`

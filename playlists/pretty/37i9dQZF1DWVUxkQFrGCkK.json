@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 166705,
+  "num_followers": 166828,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTVmNTNjYWUyNjE1MDI5OTVkN2JlNDg0YmQzNDA1YzkxNjBkODYw",
+  "snapshot_id": "MCwwZWJiMjEwOThjNmUzZjI5YTRiMmFjMjJjNDBmOGU0MmFjNTU4MTVm",
   "tracks": [
     {
       "added_at": "2023-05-05 13:50:59",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "krypt. vol2",
-        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 208570,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
-    },
-    {
-      "added_at": "2023-05-05 13:50:59",
-      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/5yeTnVxNU9I1rdfvVN26Fm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 194055,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/01cAvCmXqqHEnKzaQXkhzN"
+    },
+    {
+      "added_at": "2023-05-05 13:50:59",
+      "album": {
+        "name": "krypt. vol2",
+        "url": "https://open.spotify.com/album/5vUygeQA7S7lsbwnTHpgwq"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208570,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/5H7NVUGfw8fstj1LWJ0wXo"
     },
     {
       "added_at": "2023-05-05 13:50:59",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "hei",
-        "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
-      },
-      "artists": [
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 240674,
-      "name": "hei",
-      "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
-    },
-    {
-      "added_at": "2023-05-05 13:50:59",
-      "album": {
         "name": "Lights Up (Myd Remix)",
         "url": "https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 215765,
       "name": "Lights Up - Myd Remix",
       "url": "https://open.spotify.com/track/3e3KjLET4atLyeADRBM4hI"
+    },
+    {
+      "added_at": "2023-05-05 13:50:59",
+      "album": {
+        "name": "Rosewood",
+        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
       "added_at": "2023-05-05 13:50:59",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "Rosewood",
-        "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
+        "name": "hei",
+        "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
+      "duration_ms": 240674,
+      "name": "hei",
+      "url": "https://open.spotify.com/track/30wTNGjHpvAI9fspMsUpIo"
     },
     {
       "added_at": "2023-05-05 13:50:59",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Jodie Knight",
-          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
-        }
-      ],
-      "duration_ms": 243477,
-      "name": "Fragments",
-      "url": "https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh"
-    },
-    {
-      "added_at": "2023-05-05 13:50:59",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7dqphiw2nuFnU7iZFKipZA"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 285714,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/7ochILP42boyfaJITMUMGF"
+    },
+    {
+      "added_at": "2023-05-05 13:50:59",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Jodie Knight",
+          "url": "https://open.spotify.com/artist/4D8bh9Rvbpq8sHjPWVies5"
+        }
+      ],
+      "duration_ms": 243477,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/4HKlwvhCbzpbQxs5SVKSKh"
     },
     {
       "added_at": "2023-05-05 13:50:59",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
+        "name": "One of Those Nights",
+        "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
+      },
+      "artists": [
+        {
+          "name": "Didier Armeni",
+          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
+        }
+      ],
+      "duration_ms": 223738,
+      "name": "One of Those Nights",
+      "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
+    },
+    {
+      "added_at": "2023-05-05 13:50:59",
+      "album": {
         "name": "TEMPO",
         "url": "https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 239274,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
-    },
-    {
-      "added_at": "2023-05-05 13:50:59",
-      "album": {
-        "name": "One of Those Nights",
-        "url": "https://open.spotify.com/album/3VrD88UOYjJ8HVSSDHurkq"
-      },
-      "artists": [
-        {
-          "name": "Didier Armeni",
-          "url": "https://open.spotify.com/artist/0rAWzQbB0Qbw4P4vBfFpka"
-        }
-      ],
-      "duration_ms": 223738,
-      "name": "One of Those Nights",
-      "url": "https://open.spotify.com/track/5bYSqdcyJ74rLL299UJAcC"
     },
     {
       "added_at": "2023-05-05 13:50:59",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "Violet Drive",
-        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 341088,
-      "name": "Moonbeam, Midnight, Howl",
-      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
-    },
-    {
-      "added_at": "2023-05-05 13:50:59",
-      "album": {
         "name": "GOOD TIMES (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
+        "name": "Violet Drive",
+        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 341088,
+      "name": "Moonbeam, Midnight, Howl",
+      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
+    },
+    {
+      "added_at": "2023-05-05 13:50:59",
+      "album": {
         "name": "Floating on Silence",
         "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
       },
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+        "name": "Welcome To Dinna",
+        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
       },
       "artists": [
         {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
         }
       ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
+      "duration_ms": 231840,
+      "name": "Welcome To Dinna",
+      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
     }
   ],
   "unique_name": "Umami",

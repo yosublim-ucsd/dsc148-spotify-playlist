@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Backstreet Boys
 
-371 songs - 19 hr 28 min
+372 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [This Is Life \(Merry Christmas\) \[feat\. Daniel Rodriguez\]](https://open.spotify.com/track/42p92UlgLtANV5n3WuthH0) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Daniel Rodriguez](https://open.spotify.com/artist/57Wn64RH6FvI5gu9bdbXIp) | [This Is Life \(Merry Christmas\) \[feat\. Daniel Rodriguez\]](https://open.spotify.com/album/0KKT9451Zua4X0qRdjMqNU) | 2:56 | 2021-12-24 | 2022-07-28 |
 | [This is Life \(Merry Christmas\) feat\. Daniel Rodriguez](https://open.spotify.com/track/6lTGp4pU9BAC90y2boBHlC) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Daniel Rodriguez](https://open.spotify.com/artist/57Wn64RH6FvI5gu9bdbXIp) | [This is Life \(Merry Christmas\) feat\. Daniel Rodriguez](https://open.spotify.com/album/43EEE2j8LTSfwkLAqBj2VR) | 2:56 | 2021-12-24 | 2022-09-28 |
 | [This Year](https://open.spotify.com/track/2UD9YSRuWLAJuCKP50dXaM) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [A Crazy Confetti Christmas](https://open.spotify.com/album/2FN4sRJ0ewbIkwzxbQvJQB) | 2:12 | 2022-12-02 |  |
-| [This Year](https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [This Year](https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd) | 3:14 | 2022-12-09 |  |
+| [This Year](https://open.spotify.com/track/0ISfH0HKPrQd3mWmzk76Ij) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Special Occasion](https://open.spotify.com/album/1MqmlN8jn9eTfcRRJZUHv3) | 3:14 | 2022-12-09 |  |
+| [This Year](https://open.spotify.com/track/4qfKdJO2DNS7xPwQgy78ji) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [This Year](https://open.spotify.com/album/6TYFFAcE5IWeqVMrwxdhDd) | 3:14 | 2022-12-09 | 2023-05-08 |
 | [This Year \(feat\. gnash\)](https://open.spotify.com/track/5Jve5mEHo2a4vSyLfpHYlN) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [This Year \(feat\. gnash\)](https://open.spotify.com/album/7yba1GFVRBGLyBZAnwDOoh) | 2:12 | 2022-12-02 | 2023-02-01 |
 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 | 2021-12-24 | 2022-09-28 |
 | [Tinsel In The River](https://open.spotify.com/track/73A3CJxM2cHSvqLsPzjvuv) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Tinsel In The River](https://open.spotify.com/album/1p9fZvlA7NCVyxHIsmvefM) | 2:49 | 2021-12-24 | 2022-09-28 |

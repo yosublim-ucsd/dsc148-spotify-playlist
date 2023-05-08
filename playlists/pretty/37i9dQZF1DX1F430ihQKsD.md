@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,533 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,559 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 26 | [Sentiments nouveaux](https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Sentiments nouveaux](https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH) | 3:33 |
 | 27 | [Charlie](https://open.spotify.com/track/05wB5Ut97mzE0nHUbfBsOW) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Charlie](https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ) | 3:06 |
 | 28 | [RIVIÈRE](https://open.spotify.com/track/7IPS4QVAre25NbjV9aWYsy) | [Virginie B](https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut) | [RIVIÈRE](https://open.spotify.com/album/2U8WGLMnKsFj9n8oj4myy4) | 4:22 |
-| 29 | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/6d76elW1vls3rILMOWy2Ck) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/album/1SC2PedTme7jVeIDvFJyZN) | 3:44 |
+| 29 | [Yuteman Denis \(feat\. Charlotte Cardin & Zibz\)](https://open.spotify.com/track/1fOoazUjNQ6IWy4xz7sqBz) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Zibz](https://open.spotify.com/artist/69tAQoVuRZlr1b7vQ4g81a) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:44 |
 | 30 | [Ami](https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère II](https://open.spotify.com/album/27AJRwbqjpYYkXdN5d9e9z) | 2:48 |
 | 31 | [Whatever](https://open.spotify.com/track/6B31zNJtEG6Pc1Au49bjWN) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Whatever](https://open.spotify.com/album/5mkgf9ydsSSjmowrNO6QBM) | 2:52 |
 | 32 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 |
 | 100 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 
-Snapshot ID: `MCw1YmEyMGZmY2FiYjMyNzk1OTczMGM0YWIzNmFlMDMzMzBmMzhjMTVh`
+Snapshot ID: `MCxlMjNmM2IwNTU0MTkwNDliYzdjZTlhM2UwY2U4MTcwMGM3OTUxOWNm`

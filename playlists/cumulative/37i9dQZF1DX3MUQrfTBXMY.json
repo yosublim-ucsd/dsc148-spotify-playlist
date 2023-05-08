@@ -3441,6 +3441,28 @@
     },
     {
       "album": {
+        "name": "Shobi Bhul",
+        "url": "https://open.spotify.com/album/4EGYQILxGlrlZVOXh8fTve"
+      },
+      "artists": [
+        {
+          "name": "Bashundhara Digital",
+          "url": "https://open.spotify.com/artist/4hgPeiCHDXO4pfLHC3nEpS"
+        },
+        {
+          "name": "Nogor Baul James",
+          "url": "https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278365,
+      "name": "Shobi Bhul",
+      "url": "https://open.spotify.com/track/1vik7PwReRv1NDQwzaTPGl"
+    },
+    {
+      "album": {
         "name": "Krittrim Prithibi Deluxe Edition",
         "url": "https://open.spotify.com/album/5M6AUAozRRgCbtISw3gRCI"
       },

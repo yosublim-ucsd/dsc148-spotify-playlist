@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,091 likes - 67 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,107 likes - 67 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 43 | [你是過客就別為我停留 \- 《HIStory5\-遇見未來的你》LINE TV插曲](https://open.spotify.com/track/0EWIf5Ey2QR9mcb0OTiSdO) | [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [你是過客就別為我停留 \(《HIStory5\-遇見未來的你》LINE TV插曲\)](https://open.spotify.com/album/10w8HqR6z9vpQiY6rFpFIN) | 2:51 |
 | 44 | [我的愛人 \- 原創影集《火神的眼淚》插曲](https://open.spotify.com/track/5yB8pbwyi8eNuJWs50nkEH) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我的愛人 \(原創影集《火神的眼淚》插曲\)](https://open.spotify.com/album/6Jy8AwFKc37C3EJrFD9evH) | 3:50 |
 | 45 | [獨角獸](https://open.spotify.com/track/75UPoLCSlqmD8ns7yByWai) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [獨角獸](https://open.spotify.com/album/77XIclsPGzypTBUzk5ieOa) | 3:59 |
-| 46 | [夏夜最后的烟火](https://open.spotify.com/track/6qYPcLow4RcPbYBUC2qPq0) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [夏夜最后的烟火](https://open.spotify.com/album/0GNyYkCvDDd6OmF2ngKD1w) | 4:39 |
+| 46 | [夏夜最后的烟火](https://open.spotify.com/track/3C62VWrA6IRhoLAX4NXXua) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [夏夜最后的烟火](https://open.spotify.com/album/3xyStVqccZxf2AU5qudAUQ) | 4:39 |
 | 47 | [St\. Lover](https://open.spotify.com/track/46nAMfcng8oqyillYZt7u4) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [林映唯](https://open.spotify.com/artist/0vEN77zurrawTwPgocgd91) | [St\. Lover](https://open.spotify.com/album/4A5hgurZJxNOkuJweFZTDQ) | 3:37 |
 | 48 | [資本主義](https://open.spotify.com/track/3gUJXFl5gmY0lGx6BFdqgT) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [鋯石](https://open.spotify.com/album/2smL9jDi65yQmWPeKMaXaY) | 2:49 |
 | 49 | [機場](https://open.spotify.com/track/6FeEzoxcZmfy8kDplfP9Py) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [規定情境](https://open.spotify.com/album/3xlEyPCruVZ58Z9KYKL1Du) | 5:00 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 |
 | 67 | [因為我還年輕](https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [因為我還年輕](https://open.spotify.com/album/6KGZcpuMVu6pKO7E0XMCDH) | 3:30 |
 
-Snapshot ID: `MCw1ZGNlMmFhMmZjYjVjMzkyMjJjOGQ0MGMyMmM0Nzc0ZDZlMDEzMWY3`
+Snapshot ID: `MCxmZGU1YTY1MmVjMTQzMzNjZWFkYzRjODkwZjZiMDY1YTM4M2U0Yjdi`

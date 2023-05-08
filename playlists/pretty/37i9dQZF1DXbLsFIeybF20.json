@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141426,
+  "num_followers": 141431,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4",
+  "snapshot_id": "MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -79,22 +79,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
-        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Dozen Brass Band",
-          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "It's All Over Now",
-      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Firehouse Five Plus Two Story",
         "url": "https://open.spotify.com/album/5a3V35bBASSLfvmPaLF1Md"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 178533,
       "name": "Yes Sir! That's My Baby",
       "url": "https://open.spotify.com/track/5kDN2pkuLFL7Is22W4ngAF"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "This is Jazz 30: The Dirty Dozen Brass Band",
+        "url": "https://open.spotify.com/album/3bZUf30139FSK8HhHOGryb"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "It's All Over Now",
+      "url": "https://open.spotify.com/track/5gIq1Qkrdw5bMbLGeaYw0q"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -179,22 +179,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Drop Me Off In Harlem",
-        "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
+        "name": "New Orleans Jazz Collection - French Quarter Favorites",
+        "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
       },
       "artists": [
         {
-          "name": "Charlie Barnet",
-          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
-        },
-        {
-          "name": "Charlie Barnet & His Orchestra",
-          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 163533,
-      "name": "West End Blues",
-      "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
+      "duration_ms": 154825,
+      "name": "Bourbon Street Parade",
+      "url": "https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -231,22 +227,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Jazz Collection - French Quarter Favorites",
-        "url": "https://open.spotify.com/album/0c0lFgqkh99UuCQM9qNYmL"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 154825,
-      "name": "Bourbon Street Parade",
-      "url": "https://open.spotify.com/track/4QbweORkjDpipFhhLdEnYR"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Her New Orleans Music",
         "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 225928,
       "name": "None of My Jelly Roll",
       "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Drop Me Off In Harlem",
+        "url": "https://open.spotify.com/album/63mon9nIn254wR2aATwbBg"
+      },
+      "artists": [
+        {
+          "name": "Charlie Barnet",
+          "url": "https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb"
+        },
+        {
+          "name": "Charlie Barnet & His Orchestra",
+          "url": "https://open.spotify.com/artist/4rBAk0XNC7XnH08pOWq7aU"
+        }
+      ],
+      "duration_ms": 163533,
+      "name": "West End Blues",
+      "url": "https://open.spotify.com/track/0CTsnaN5MpEEfFzAPDpxpS"
     },
     {
       "added_at": "2021-10-08 04:02:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/3f3eLzXLCXlhd2G9DTLbvm"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 185226,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/1tlPsmI230IoSanksbmm2i"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 288653,
-      "name": "Eh, La Bas",
-      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Swing Out",
-        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
-      },
-      "artists": [
-        {
-          "name": "Henry \"Red\" Allen",
-          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "You're Gonna Lose Your Gal",
-      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -519,54 +503,6 @@
       "duration_ms": 219666,
       "name": "Careless Love",
       "url": "https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Michael White",
-          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Canal Street Blues",
-      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "Ultimate Mardi Gras",
-        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
-      },
-      "artists": [
-        {
-          "name": "Olympia Brass Band",
-          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Mardi Gras In New Orleans",
-      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Hotter Than That",
-      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -587,6 +523,54 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Swing Out",
+        "url": "https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc"
+      },
+      "artists": [
+        {
+          "name": "Henry \"Red\" Allen",
+          "url": "https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "You're Gonna Lose Your Gal",
+      "url": "https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Ultimate Mardi Gras",
+        "url": "https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb"
+      },
+      "artists": [
+        {
+          "name": "Olympia Brass Band",
+          "url": "https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Mardi Gras In New Orleans",
+      "url": "https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Rebirth For Life",
         "url": "https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 349666,
       "name": "Tubaluba",
       "url": "https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
