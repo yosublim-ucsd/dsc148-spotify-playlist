@@ -7446,7 +7446,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 168611,
       "name": "Non ritorneranno mai",
       "url": "https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM"
@@ -10532,6 +10532,24 @@
       "duration_ms": 153600,
       "name": "Tookie Williams (3/3)",
       "url": "https://open.spotify.com/track/0byOney03xKL4Ze0RR18nJ"
+    },
+    {
+      "album": {
+        "name": "Tortellini alla Paulo Dybala",
+        "url": "https://open.spotify.com/album/3LDu3gqSvaVHqZmWlOtUHJ"
+      },
+      "artists": [
+        {
+          "name": "Elmatadormc7",
+          "url": "https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Tortellini alla Paulo Dybala",
+      "url": "https://open.spotify.com/track/6t1LlfS4FM7lNPu4DvQVu9"
     },
     {
       "album": {

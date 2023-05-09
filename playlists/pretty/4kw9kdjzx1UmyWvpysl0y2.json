@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127136,
+  "num_followers": 127105,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE3NSw4MjBhZGRhZjBjYTE5ZGMwZDAwMDE3ODI4NjNiZDc5YWZjZDFiYzQ2",
+  "snapshot_id": "NDE4MSxhZWU3MmRmZDU3Yjg3ZGQ2NDg3NmEyZjYyMzA2YTE1ODA3YTVkZmM4",
   "tracks": [
+    {
+      "added_at": "2023-05-08 16:13:12",
+      "album": {
+        "name": "In Loving Memories",
+        "url": "https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "In Loving Memories",
+      "url": "https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ"
+    },
+    {
+      "added_at": "2023-05-08 15:42:19",
+      "album": {
+        "name": "Quantum Level",
+        "url": "https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Prismatic",
+          "url": "https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Quantum Level",
+      "url": "https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU"
+    },
     {
       "added_at": "2023-05-05 15:10:49",
       "album": {
@@ -1063,42 +1099,6 @@
       "duration_ms": 201904,
       "name": "Guesses",
       "url": "https://open.spotify.com/track/1MHmJo43gtIN6TQdyuudUB"
-    },
-    {
-      "added_at": "2023-02-17 18:01:28",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l"
-      },
-      "artists": [
-        {
-          "name": "Holen",
-          "url": "https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL"
-    },
-    {
-      "added_at": "2023-02-16 19:16:50",
-      "album": {
-        "name": "Move Back",
-        "url": "https://open.spotify.com/album/0d2xyxHilLmIIqfugVYOVI"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Move Back",
-      "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

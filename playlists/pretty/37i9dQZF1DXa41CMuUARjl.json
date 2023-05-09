@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from DJ Minx.",
-  "num_followers": 433399,
+  "num_followers": 433493,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjRmNGVlNzE1NzJiMzJjMjFiYTY4YmNhNzM0YjFiZjY0ZjgzNGQ2",
+  "snapshot_id": "MCw4YTVmOGY3MmU0YTE1YTgzOTEwZWUyZDI3ODU2MTc0YjA2MWY0ZGI5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Stop Calling",
-        "url": "https://open.spotify.com/album/3N4UJuLsAA8qh2rKRUlNX6"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "Brent Morgan",
-          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
-        }
-      ],
-      "duration_ms": 255609,
-      "name": "Stop Calling",
-      "url": "https://open.spotify.com/track/09JhSbew1W0vlnqiTPCfUb"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Kima Che",
         "url": "https://open.spotify.com/album/4dsvmUgxApRolK93WfddIR"
       },
@@ -763,18 +743,38 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Pace",
-        "url": "https://open.spotify.com/album/5xhhADw7EuZB2OZJR8lX9X"
+        "name": "Stop Calling",
+        "url": "https://open.spotify.com/album/3N4UJuLsAA8qh2rKRUlNX6"
       },
       "artists": [
         {
-          "name": "ford.",
-          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "Brent Morgan",
+          "url": "https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV"
         }
       ],
-      "duration_ms": 182336,
-      "name": "The Pace",
-      "url": "https://open.spotify.com/track/6nIsqJONitQCLGZt9x9zuE"
+      "duration_ms": 255609,
+      "name": "Stop Calling",
+      "url": "https://open.spotify.com/track/09JhSbew1W0vlnqiTPCfUb"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "2084",
+        "url": "https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        }
+      ],
+      "duration_ms": 366235,
+      "name": "2084",
+      "url": "https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Better In The Dark",
-        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 352054,
-      "name": "Better In The Dark",
-      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Give Me All Your Love",
         "url": "https://open.spotify.com/album/0EjJJumyfg5wGLZ4ZMvVf0"
       },
@@ -831,34 +815,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "2084",
-        "url": "https://open.spotify.com/album/68yEeHuIGikcVlyBo5UHvI"
+        "name": "The Pace",
+        "url": "https://open.spotify.com/album/5xhhADw7EuZB2OZJR8lX9X"
       },
       "artists": [
         {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+          "name": "ford.",
+          "url": "https://open.spotify.com/artist/7ItbAZITSFxSy5LJChXe18"
         }
       ],
-      "duration_ms": 366235,
-      "name": "2084",
-      "url": "https://open.spotify.com/track/2rgtmHB1O8GHaLFQZTF2tR"
+      "duration_ms": 182336,
+      "name": "The Pace",
+      "url": "https://open.spotify.com/track/6nIsqJONitQCLGZt9x9zuE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+        "name": "Better In The Dark",
+        "url": "https://open.spotify.com/album/5MkPjNJCfBw0UibTBk9aax"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
+      "duration_ms": 352054,
+      "name": "Better In The Dark",
+      "url": "https://open.spotify.com/track/16UraNXA43rxM6EihGAl9r"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -879,6 +863,42 @@
       "duration_ms": 260864,
       "name": "Praising You (feat. Fatboy Slim) - Fatboy Slim Remix",
       "url": "https://open.spotify.com/track/3haDtp8YobrDhg5meatwb2"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Golden Years (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 181636,
+      "name": "Golden Years - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/6y9uy5BOQcQ74oD3UpiK0S"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -943,18 +963,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "COUNTRY RIDDIM VIP",
-        "url": "https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV"
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
       },
       "artists": [
         {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
         }
       ],
-      "duration_ms": 177931,
-      "name": "COUNTRY RIDDIM VIP",
-      "url": "https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf"
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -975,18 +995,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/2fCPvN2dD4g2AMhoyyNPaW"
       },
       "artists": [
         {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+          "name": "M\u00d6WE",
+          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
         }
       ],
-      "duration_ms": 267842,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+      "duration_ms": 160975,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/5q51tdnO1CPy30vuHBbwKo"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "COUNTRY RIDDIM VIP",
+        "url": "https://open.spotify.com/album/6P8KsYy2DkCv6hhNaTYZqV"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "COUNTRY RIDDIM VIP",
+      "url": "https://open.spotify.com/track/12P4d5GXxU1dnXNoAQjBAf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1011,22 +1047,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Say You Love Me",
-        "url": "https://open.spotify.com/album/0JmVjpgQ3LdRGLh7i6IS43"
-      },
-      "artists": [
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Say You Love Me",
-      "url": "https://open.spotify.com/track/1dg1cs83LaQwpfM39tA1Hd"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -1047,18 +1067,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "4AM",
-        "url": "https://open.spotify.com/album/2fCPvN2dD4g2AMhoyyNPaW"
+        "name": "Let You In (feat. East Forest)",
+        "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
       },
       "artists": [
         {
-          "name": "M\u00d6WE",
-          "url": "https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
         }
       ],
-      "duration_ms": 160975,
-      "name": "4AM",
-      "url": "https://open.spotify.com/track/5q51tdnO1CPy30vuHBbwKo"
+      "duration_ms": 356373,
+      "name": "Let You In (feat. East Forest)",
+      "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1079,6 +1103,22 @@
       "duration_ms": 197600,
       "name": "Trippin Up - Odd Mob Remix",
       "url": "https://open.spotify.com/track/6TcqzHCUDfotgdRVTjs3iW"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Say You Love Me",
+        "url": "https://open.spotify.com/album/0JmVjpgQ3LdRGLh7i6IS43"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/1dg1cs83LaQwpfM39tA1Hd"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1127,22 +1167,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Let You In (feat. East Forest)",
-        "url": "https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T"
+        "name": "Today Tomorrow Forever (feat. fknsyd)",
+        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
         },
         {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+          "name": "fknsyd",
+          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
         }
       ],
-      "duration_ms": 356373,
-      "name": "Let You In (feat. East Forest)",
-      "url": "https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw"
+      "duration_ms": 155175,
+      "name": "Today Tomorrow Forever (feat. fknsyd)",
+      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1163,26 +1203,6 @@
       "duration_ms": 219893,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/3S4K6TzIDA3vGTBBJf6Dh8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Today Tomorrow Forever (feat. fknsyd)",
-        "url": "https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3"
-      },
-      "artists": [
-        {
-          "name": "Chet Porter",
-          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
-        },
-        {
-          "name": "fknsyd",
-          "url": "https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd"
-        }
-      ],
-      "duration_ms": 155175,
-      "name": "Today Tomorrow Forever (feat. fknsyd)",
-      "url": "https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1247,6 +1267,50 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Horizon Red (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 565063,
+      "name": "Horizon Red - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/1i7vS2MZXIu4BcCkESRVL6"
+      },
+      "artists": [
+        {
+          "name": "Sam Halabi",
+          "url": "https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ"
+        },
+        {
+          "name": "TMW",
+          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
+        }
+      ],
+      "duration_ms": 162866,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/3REo731msMEVDpGMMWSfmc"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/4DtFjK1yiGjvKE7YqVt5wX"
       },
@@ -1283,82 +1347,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/1i7vS2MZXIu4BcCkESRVL6"
-      },
-      "artists": [
-        {
-          "name": "Sam Halabi",
-          "url": "https://open.spotify.com/artist/0kdzjDb2TKsCiJwWaBkZTQ"
-        },
-        {
-          "name": "TMW",
-          "url": "https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/3REo731msMEVDpGMMWSfmc"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Tokyo Flower",
-        "url": "https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6"
-      },
-      "artists": [
-        {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
-        }
-      ],
-      "duration_ms": 258663,
-      "name": "Tokyo Flower",
-      "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "I Want The Vibes",
-        "url": "https://open.spotify.com/album/3fWTc7D9YyAjVJag4gbSeH"
-      },
-      "artists": [
-        {
-          "name": "Kevin McKay",
-          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
-        },
-        {
-          "name": "Martin Badder",
-          "url": "https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8"
-        },
-        {
-          "name": "Mr. V",
-          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "I Want The Vibes",
-      "url": "https://open.spotify.com/track/57wBDp7tJbLX3bmRdiFXAE"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv"
       },
@@ -1391,26 +1379,42 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Horizon Red (Black Coffee Remix)",
-        "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
+        "name": "I Want The Vibes",
+        "url": "https://open.spotify.com/album/3fWTc7D9YyAjVJag4gbSeH"
       },
       "artists": [
         {
-          "name": "Made By Pete",
-          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+          "name": "Kevin McKay",
+          "url": "https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg"
         },
         {
-          "name": "Zoe Kypri",
-          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+          "name": "Martin Badder",
+          "url": "https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8"
         },
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
         }
       ],
-      "duration_ms": 565063,
-      "name": "Horizon Red - Black Coffee Remix",
-      "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
+      "duration_ms": 151874,
+      "name": "I Want The Vibes",
+      "url": "https://open.spotify.com/track/57wBDp7tJbLX3bmRdiFXAE"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tokyo Flower",
+        "url": "https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "duration_ms": 258663,
+      "name": "Tokyo Flower",
+      "url": "https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1435,22 +1439,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Golden Years (TOKiMONSTA Remix)",
-        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 181636,
-      "name": "Golden Years - TOKiMONSTA Remix",
-      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
+      "duration_ms": 194285,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3yVHTc8ngdOPbNLJRJNrCB"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1495,42 +1495,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Blasphemy",
-        "url": "https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW"
-      },
-      "artists": [
-        {
-          "name": "Moullinex",
-          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
-        },
-        {
-          "name": "GPU Panic",
-          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
-        }
-      ],
-      "duration_ms": 189109,
-      "name": "Blasphemy",
-      "url": "https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The Good, the Bad & the Acid EP",
-        "url": "https://open.spotify.com/album/3AXgzzTRYTwGzyIsySrzjq"
-      },
-      "artists": [
-        {
-          "name": "Anja Schneider",
-          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
-        }
-      ],
-      "duration_ms": 427058,
-      "name": "Hoover Disco",
-      "url": "https://open.spotify.com/track/5ZDN5YnJzs3811v0wC5Keq"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Through My Teeth",
         "url": "https://open.spotify.com/album/1nN0SJGvy1QB3R6vmJP9A5"
       },
@@ -1563,6 +1527,42 @@
       "duration_ms": 166451,
       "name": "Ibiza Sky",
       "url": "https://open.spotify.com/track/6TLKDxEM5wllCAxwln9MiT"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Blasphemy",
+        "url": "https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW"
+      },
+      "artists": [
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        },
+        {
+          "name": "GPU Panic",
+          "url": "https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "Blasphemy",
+      "url": "https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Good, the Bad & the Acid EP",
+        "url": "https://open.spotify.com/album/3AXgzzTRYTwGzyIsySrzjq"
+      },
+      "artists": [
+        {
+          "name": "Anja Schneider",
+          "url": "https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV"
+        }
+      ],
+      "duration_ms": 427058,
+      "name": "Hoover Disco",
+      "url": "https://open.spotify.com/track/5ZDN5YnJzs3811v0wC5Keq"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1627,26 +1627,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Righteous Places (feat. Cristina Lizzul) [Case of the Mondays Remix]",
-        "url": "https://open.spotify.com/album/0DZAmUkWOJ3IYRqLYxiTBm"
+        "name": "Short Term Agreement",
+        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
       },
       "artists": [
         {
-          "name": "L D R U",
-          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
-        },
-        {
-          "name": "Cristina Lizzul",
-          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
-        },
-        {
-          "name": "Case of the Mondays",
-          "url": "https://open.spotify.com/artist/0TcmYfWCoJWqMBHWmLr3LL"
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
         }
       ],
-      "duration_ms": 270000,
-      "name": "Righteous Places (feat. Cristina Lizzul) - Case of the Mondays Remix",
-      "url": "https://open.spotify.com/track/4nTdCcYWYXW6ITrM6lF3TE"
+      "duration_ms": 177230,
+      "name": "external meMories",
+      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1667,18 +1659,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Short Term Agreement",
-        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
+        "name": "Righteous Places (feat. Cristina Lizzul) [Case of the Mondays Remix]",
+        "url": "https://open.spotify.com/album/0DZAmUkWOJ3IYRqLYxiTBm"
       },
       "artists": [
         {
-          "name": "NxxxxxS",
-          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+          "name": "L D R U",
+          "url": "https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq"
+        },
+        {
+          "name": "Cristina Lizzul",
+          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
+        },
+        {
+          "name": "Case of the Mondays",
+          "url": "https://open.spotify.com/artist/0TcmYfWCoJWqMBHWmLr3LL"
         }
       ],
-      "duration_ms": 177230,
-      "name": "external meMories",
-      "url": "https://open.spotify.com/track/1H9WjQBIXGw05iJ5Ju3wPY"
+      "duration_ms": 270000,
+      "name": "Righteous Places (feat. Cristina Lizzul) - Case of the Mondays Remix",
+      "url": "https://open.spotify.com/track/4nTdCcYWYXW6ITrM6lF3TE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Let's Be Lovers",
-        "url": "https://open.spotify.com/album/3ENx8DkmjsaooJf0A2nD4M"
-      },
-      "artists": [
-        {
-          "name": "Jaymie Silk",
-          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
-        }
-      ],
-      "duration_ms": 198915,
-      "name": "Let's Be Lovers - Edit",
-      "url": "https://open.spotify.com/track/5SvznWTzBfSBEIc0bssswS"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Air River",
         "url": "https://open.spotify.com/album/4rMArLjJW6ODYGlrqNz0qw"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 408117,
       "name": "Air River",
       "url": "https://open.spotify.com/track/5MnY3puht7tU2DdeGNa024"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Let's Be Lovers",
+        "url": "https://open.spotify.com/album/3ENx8DkmjsaooJf0A2nD4M"
+      },
+      "artists": [
+        {
+          "name": "Jaymie Silk",
+          "url": "https://open.spotify.com/artist/3OvgRSozWRb0Tu1yqblOfr"
+        }
+      ],
+      "duration_ms": 198915,
+      "name": "Let's Be Lovers - Edit",
+      "url": "https://open.spotify.com/track/5SvznWTzBfSBEIc0bssswS"
     },
     {
       "added_at": "2023-05-05 04:00:00",

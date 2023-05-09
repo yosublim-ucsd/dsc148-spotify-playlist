@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Cover: Mareux",
-  "num_followers": 138905,
+  "num_followers": 139323,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjliNTUxYmVlNjc1YmYxYThkODJjYWZlMTNhOTdiYTdjYmEwOWU1",
+  "snapshot_id": "MCxlNWM3NmNiNGZkODY0MGU2ZDNhZjAwZDViNGY5YjZmY2UzYTdjNThm",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI"
-      },
-      "artists": [
-        {
-          "name": "Edwin Rosen",
-          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
-        }
-      ],
-      "duration_ms": 210191,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/4Pw2O8WwC12Bq1O3md5fvd"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 178860,
       "name": "\u041b\u044e\u0434\u0438 \u041d\u0430\u0434\u043e\u0435\u043b\u0438",
       "url": "https://open.spotify.com/track/2gLAml7HPysxActxHTqdLq"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/58NrvyTDNC3JMpyKyX60uI"
+      },
+      "artists": [
+        {
+          "name": "Edwin Rosen",
+          "url": "https://open.spotify.com/artist/1r93D0anfnfL4M7tYTce0J"
+        }
+      ],
+      "duration_ms": 210191,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3Iq8XToI0I9KSnqovkv1AV"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "\u042d\u0442\u0430\u0436\u0438",
+        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 247408,
+      "name": "\u041d\u0430 \u0414\u043d\u0435",
+      "url": "https://open.spotify.com/track/72OI2uQwj4pHetYlCplkSi"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Particles E.P.",
         "url": "https://open.spotify.com/album/1kvyU0WQNcenwnLRBwyWhB"
       },
@@ -575,18 +591,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "\u042d\u0442\u0430\u0436\u0438",
-        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+        "name": "In the Flat Field",
+        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
       },
       "artists": [
         {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
         }
       ],
-      "duration_ms": 247408,
-      "name": "\u041d\u0430 \u0414\u043d\u0435",
-      "url": "https://open.spotify.com/track/72OI2uQwj4pHetYlCplkSi"
+      "duration_ms": 231560,
+      "name": "Dark Entries",
+      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -623,22 +639,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "In the Flat Field",
-        "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Dark Entries",
-      "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/1PXN2w8N4kg4rd8i2ri711"
       },
@@ -671,6 +671,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "\u042d\u0442\u0430\u0436\u0438",
+        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
+      },
+      "artists": [
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 261057,
+      "name": "\u0412\u043e\u043b\u043d\u044b",
+      "url": "https://open.spotify.com/track/2VRK21ITVLx2Bc0KOonIOY"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Little Lies",
         "url": "https://open.spotify.com/album/1cILa2Wl4ltjRfKlZTAcix"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 330826,
       "name": "The Quiet Earth",
       "url": "https://open.spotify.com/track/4V0rrbFdfzLbcV3WOYjXXa"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "\u042d\u0442\u0430\u0436\u0438",
-        "url": "https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc"
-      },
-      "artists": [
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 261057,
-      "name": "\u0412\u043e\u043b\u043d\u044b",
-      "url": "https://open.spotify.com/track/2VRK21ITVLx2Bc0KOonIOY"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Memorabilia",
-        "url": "https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY"
-      },
-      "artists": [
-        {
-          "name": "Human Tetris",
-          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
-        }
-      ],
-      "duration_ms": 178466,
-      "name": "A Company",
-      "url": "https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Rendez-Vous",
         "url": "https://open.spotify.com/album/11KSgvhpxoK78X8nTtjskx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 220769,
       "name": "The Others",
       "url": "https://open.spotify.com/track/59mJLb7Ksjp7U63j6c2PhQ"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Memorabilia",
+        "url": "https://open.spotify.com/album/7bTWcq02llIYtAF5PCFYfY"
+      },
+      "artists": [
+        {
+          "name": "Human Tetris",
+          "url": "https://open.spotify.com/artist/3wIDY01itbfdsQpMsyRZVG"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "A Company",
+      "url": "https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702"
-      },
-      "artists": [
-        {
-          "name": "Daniel Deluxe",
-          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
-        }
-      ],
-      "duration_ms": 257490,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Violent Rains",
         "url": "https://open.spotify.com/album/7IZ2mNo4PPWCdsEuEKkGyU"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 212750,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702"
+      },
+      "artists": [
+        {
+          "name": "Daniel Deluxe",
+          "url": "https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b"
+        }
+      ],
+      "duration_ms": 257490,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
-      },
-      "artists": [
-        {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "505 (Deluxe)",
         "url": "https://open.spotify.com/album/3KY1gWySaFXOmWImcN7vLm"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 167000,
       "name": "\u0410\u043b\u043a\u043e\u0433\u043e\u043b\u044c \u043c\u043e\u0439 \u0432\u0440\u0430\u0433",
       "url": "https://open.spotify.com/track/3w9cGIYBC12SoepuHUaV19"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "World Class",
-        "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
-      },
-      "artists": [
-        {
-          "name": "luxury elite",
-          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
-        }
-      ],
-      "duration_ms": 234004,
-      "name": "S.W.A.K.",
-      "url": "https://open.spotify.com/track/2X8j1vYJaJZ1vIRp7csg2y"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Belirdi Gece",
-        "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
+        "name": "World Class",
+        "url": "https://open.spotify.com/album/6aLiYlTMrvma12uDvlRm5x"
       },
       "artists": [
         {
-          "name": "She Past Away",
-          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+          "name": "luxury elite",
+          "url": "https://open.spotify.com/artist/28516pIwBLUO62yBiLAfdI"
         }
       ],
-      "duration_ms": 296060,
-      "name": "Rituel",
-      "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
+      "duration_ms": 234004,
+      "name": "S.W.A.K.",
+      "url": "https://open.spotify.com/track/2X8j1vYJaJZ1vIRp7csg2y"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 234066,
       "name": "66 MHz",
       "url": "https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Belirdi Gece",
+        "url": "https://open.spotify.com/album/5yRJLea73tCtrtdRhDjaxC"
+      },
+      "artists": [
+        {
+          "name": "She Past Away",
+          "url": "https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR"
+        }
+      ],
+      "duration_ms": 296060,
+      "name": "Rituel",
+      "url": "https://open.spotify.com/track/2Nac4pGLIiXjLyo7lLDK4R"
     },
     {
       "added_at": "2023-04-28 06:00:00",

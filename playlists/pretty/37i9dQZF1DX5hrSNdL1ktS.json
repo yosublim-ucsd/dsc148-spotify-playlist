@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yubeili y Karen M\u00e9ndez ",
-  "num_followers": 56934,
+  "num_followers": 56954,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmJmZDY5ZWZiOGIzMjlhOGU4MmQ5ZTg1YTNmMmM3YWI3OWY0ZGZj",
+  "snapshot_id": "MCwyZjIxMzRjOWM2Yzg3NGY0MjBjMzM2MjI0MjU5MTdjMGY5OWFiNWM5",
   "tracks": [
     {
       "added_at": "2023-04-28 06:00:00",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Perdon\u00e9monos",
+        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Perdon\u00e9monos",
+      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Mejor Sola",
         "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 230776,
       "name": "Mejor Sola",
       "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Perdon\u00e9monos",
-        "url": "https://open.spotify.com/album/5sYzVuTy6UrHdvAaai7y3i"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Perdon\u00e9monos",
-      "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -435,42 +435,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Me Doli\u00f3",
         "url": "https://open.spotify.com/album/6bXPqEZYKWCRzZrq5a44Z2"
       },
@@ -499,6 +463,38 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/2uvoAHdthe0bSCD0qIRBta"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Nada Es Para Siempre (feat. Nico Valdi)",
         "url": "https://open.spotify.com/album/5tAsQb4XRabKq0MTJFOCZj"
       },
@@ -519,6 +515,26 @@
       "duration_ms": 186350,
       "name": "Nada Es Para Siempre (feat. Nico Valdi)",
       "url": "https://open.spotify.com/track/016pZdvJvzQ5RNZy48haxB"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "INESTABLE",
         "url": "https://open.spotify.com/album/6nm3JygAnxNyrmAiImjRgP"
       },
@@ -607,26 +607,6 @@
       "duration_ms": 148000,
       "name": "INESTABLE",
       "url": "https://open.spotify.com/track/7379Au92GgEQw0wfFksNS4"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Salvaje",
-        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Ely Blancarte",
-          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
-        }
-      ],
-      "duration_ms": 177570,
-      "name": "Salvaje",
-      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -671,6 +651,42 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Salvaje",
+        "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "duration_ms": 177570,
+      "name": "Salvaje",
+      "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Maldita Urgencia",
         "url": "https://open.spotify.com/album/4j3yFFcDocw8Da3MKxPFy9"
       },
@@ -711,6 +727,26 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "La \u00daltima Noche",
+        "url": "https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "La \u00daltima Noche",
+      "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Gitana Kamp, Vol. I",
         "url": "https://open.spotify.com/album/2pgf9362aDcXAR8V5pE2A2"
       },
@@ -735,62 +771,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Prende y Fuma",
-        "url": "https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Santin",
-          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "Prende y Fuma",
-      "url": "https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "La \u00daltima Noche",
-        "url": "https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "La \u00daltima Noche",
-      "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "ICE BLUE",
         "url": "https://open.spotify.com/album/5hRm8Iis9HGj6vLDhWNoOU"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 174000,
       "name": "GYAL",
       "url": "https://open.spotify.com/track/2IivNFGyEu6MSNaiLVYMcJ"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Prende y Fuma",
+        "url": "https://open.spotify.com/album/5LpJAVFzv017KcuUppdoj8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Santin",
+          "url": "https://open.spotify.com/artist/0CH20f2zSaGWyFnuJM9EsW"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Prende y Fuma",
+      "url": "https://open.spotify.com/track/2l1gClWNT7axdvdHiHCBy1"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -915,6 +915,30 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Discotequera",
+        "url": "https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI"
+      },
+      "artists": [
+        {
+          "name": "Fran Lorenz",
+          "url": "https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB"
+        },
+        {
+          "name": "Ale Mix",
+          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
+        },
+        {
+          "name": "Riko Mix",
+          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
+        }
+      ],
+      "duration_ms": 173738,
+      "name": "Discotequera",
+      "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "\u00d1ero Session 2",
         "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 220065,
       "name": "Sue\u00f1o",
       "url": "https://open.spotify.com/track/5zzeED4DVkAX9ujce347pD"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Discotequera",
-        "url": "https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI"
-      },
-      "artists": [
-        {
-          "name": "Fran Lorenz",
-          "url": "https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB"
-        },
-        {
-          "name": "Ale Mix",
-          "url": "https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F"
-        },
-        {
-          "name": "Riko Mix",
-          "url": "https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP"
-        }
-      ],
-      "duration_ms": 173738,
-      "name": "Discotequera",
-      "url": "https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Tranqui",
-        "url": "https://open.spotify.com/album/28zn44cRESEcsvG37DUfpS"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        }
-      ],
-      "duration_ms": 152760,
-      "name": "Tranqui",
-      "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Estoy Pa' M\u00ed",
         "url": "https://open.spotify.com/album/0LQosTfMs1wZqSDWvZ2E9M"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Tranqui",
+        "url": "https://open.spotify.com/album/28zn44cRESEcsvG37DUfpS"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Tranqui",
+      "url": "https://open.spotify.com/track/4A8ygVU8Ot3KTW2alLZ8Eq"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Pasajero",
         "url": "https://open.spotify.com/album/1l81wYbC6bLJN8HjzERVNf"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 189238,
       "name": "Pam Pam",
       "url": "https://open.spotify.com/track/26styC8Sw9l0KyIHKY8rSb"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Hawaii",
-        "url": "https://open.spotify.com/album/2s83o7pdVw16oMQD0kelzc"
-      },
-      "artists": [
-        {
-          "name": "Malamala",
-          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Hawaii",
-      "url": "https://open.spotify.com/track/6dJTU6YbvAM5uIGsbhbAuk"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Hawaii",
+        "url": "https://open.spotify.com/album/2s83o7pdVw16oMQD0kelzc"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Hawaii",
+      "url": "https://open.spotify.com/track/6dJTU6YbvAM5uIGsbhbAuk"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "AMIGA",
         "url": "https://open.spotify.com/album/0vBbku18pQfN1H8q3mQWoc"
       },
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "C\u00f3mo Har\u00e9",
-        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
-      },
-      "artists": [
-        {
-          "name": "Panea",
-          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "C\u00f3mo Har\u00e9?",
-      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Pal Piso",
         "url": "https://open.spotify.com/album/0e6Nt0OXxodh9djO8Gky7X"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 248347,
       "name": "Pal Piso",
       "url": "https://open.spotify.com/track/1yufEGuITHy338J5iFe7oE"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Har\u00e9",
+        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
+      },
+      "artists": [
+        {
+          "name": "Panea",
+          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "C\u00f3mo Har\u00e9?",
+      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "La Disco",
+        "url": "https://open.spotify.com/album/1RzGYq972n3kPfwuUOC0Xa"
+      },
+      "artists": [
+        {
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        }
+      ],
+      "duration_ms": 134974,
+      "name": "La Disco",
+      "url": "https://open.spotify.com/track/0NfrMeZPXFKZs2gEWCxEDx"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Prisionero",
         "url": "https://open.spotify.com/album/0xIgGjHvRZ3J7JxgiAZDUv"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 167369,
       "name": "Madura",
       "url": "https://open.spotify.com/track/6pWcPQqZId57tTc0WCBkjS"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "La Disco",
-        "url": "https://open.spotify.com/album/1RzGYq972n3kPfwuUOC0Xa"
-      },
-      "artists": [
-        {
-          "name": "TipoSierraBros",
-          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
-        }
-      ],
-      "duration_ms": 134974,
-      "name": "La Disco",
-      "url": "https://open.spotify.com/track/0NfrMeZPXFKZs2gEWCxEDx"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1783,6 +1783,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
+      },
+      "artists": [
+        {
+          "name": "Santa Musa",
+          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Calle",
         "url": "https://open.spotify.com/album/2cDBVi3YVK3XIURShVLFDb"
       },
@@ -1851,22 +1867,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Rip Lo Nuestro?",
-        "url": "https://open.spotify.com/album/533IN1LZmgTz6hCB7zOEDe"
+        "name": "Par de Gente",
+        "url": "https://open.spotify.com/album/1FzuiWEtaWtMuvj61qatPq"
       },
       "artists": [
         {
-          "name": "ATM FLAVOR",
-          "url": "https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru"
+          "name": "Christopher Rafael",
+          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
         },
         {
-          "name": "Kimm\u00f8",
-          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+          "name": "Erick Joel",
+          "url": "https://open.spotify.com/artist/6NZX7uR97qxDVDU1EOD8x9"
         }
       ],
-      "duration_ms": 151538,
-      "name": "Rip Lo Nuestro?",
-      "url": "https://open.spotify.com/track/1uy05XqepehzYAFhKvhsix"
+      "duration_ms": 218096,
+      "name": "Par de Gente",
+      "url": "https://open.spotify.com/track/327Pw4I4Q9kkTSEhIkJwva"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1887,6 +1903,26 @@
       "duration_ms": 232173,
       "name": "PACHEKEO",
       "url": "https://open.spotify.com/track/2u5zS1c1OeH2Nre5IfNoKD"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Rip Lo Nuestro?",
+        "url": "https://open.spotify.com/album/533IN1LZmgTz6hCB7zOEDe"
+      },
+      "artists": [
+        {
+          "name": "ATM FLAVOR",
+          "url": "https://open.spotify.com/artist/1SqAxi0VbVExvWdpR5Pjru"
+        },
+        {
+          "name": "Kimm\u00f8",
+          "url": "https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu"
+        }
+      ],
+      "duration_ms": 151538,
+      "name": "Rip Lo Nuestro?",
+      "url": "https://open.spotify.com/track/1uy05XqepehzYAFhKvhsix"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1931,42 +1967,6 @@
       "duration_ms": 197930,
       "name": "Calle pero Elegante",
       "url": "https://open.spotify.com/track/6aofSgbaXPW7vxxYs6vHB6"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Par de Gente",
-        "url": "https://open.spotify.com/album/1FzuiWEtaWtMuvj61qatPq"
-      },
-      "artists": [
-        {
-          "name": "Christopher Rafael",
-          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
-        },
-        {
-          "name": "Erick Joel",
-          "url": "https://open.spotify.com/artist/6NZX7uR97qxDVDU1EOD8x9"
-        }
-      ],
-      "duration_ms": 218096,
-      "name": "Par de Gente",
-      "url": "https://open.spotify.com/track/327Pw4I4Q9kkTSEhIkJwva"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
-      },
-      "artists": [
-        {
-          "name": "Santa Musa",
-          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l"
     },
     {
       "added_at": "2023-04-28 06:00:00",

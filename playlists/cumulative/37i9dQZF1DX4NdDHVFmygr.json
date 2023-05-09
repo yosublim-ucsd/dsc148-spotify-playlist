@@ -782,7 +782,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 188000,
       "name": "CHICHI",
       "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "JMI",
+        "url": "https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "JMI",
+      "url": "https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB"
+    },
+    {
+      "album": {
         "name": "JOANA",
         "url": "https://open.spotify.com/album/1vVJee8FApTIXNgiQXxf2O"
       },
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 162338,
       "name": "La mienne",
       "url": "https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 241049,
       "name": "Magnifique",
       "url": "https://open.spotify.com/track/0CBFjd1RU3ao8BqWMEiUy5"
@@ -3243,6 +3261,28 @@
     },
     {
       "album": {
+        "name": "ASL",
+        "url": "https://open.spotify.com/album/5ssgImQoCEOMysDTkyAkxi"
+      },
+      "artists": [
+        {
+          "name": "Yvzid",
+          "url": "https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW"
+        },
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190380,
+      "name": "Mrta7",
+      "url": "https://open.spotify.com/track/0bxd1G6TBQaxnKptoRw4OX"
+    },
+    {
+      "album": {
         "name": "Mujer Cobra",
         "url": "https://open.spotify.com/album/0EZKWJVmkVgp2xQgqBoaGg"
       },
@@ -3330,7 +3370,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 203000,
       "name": "Nar",
       "url": "https://open.spotify.com/track/3PUmhHpH9x9hHtQqOMZ953"
@@ -4013,6 +4053,46 @@
     },
     {
       "album": {
+        "name": "Nar",
+        "url": "https://open.spotify.com/album/6k1p2MPYhbk1Uk83yOJmFd"
+      },
+      "artists": [
+        {
+          "name": "Salma Rachid",
+          "url": "https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa"
+        },
+        {
+          "name": "Dizzy DROS",
+          "url": "https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1g2680d7htD40vhKiVRTth"
+    },
+    {
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/2cIgCkVC96J85POryxlhZc"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235139,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/0RNLOJuaBDGzg7oS4qS8OT"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/5GGZpeMyi3XHTUyH961K8b"
       },
@@ -4356,7 +4436,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 182666,
       "name": "Ya Bent Nass",
       "url": "https://open.spotify.com/track/3p6p3ZoO8raP3s4bxI7Z2B"
@@ -4480,6 +4560,28 @@
       "duration_ms": 194210,
       "name": "Ya Mimti",
       "url": "https://open.spotify.com/track/2jfL7XAGZLzgmRxtIOcsvk"
+    },
+    {
+      "album": {
+        "name": "Ya Nari",
+        "url": "https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Cravata",
+          "url": "https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130731,
+      "name": "Ya Nari",
+      "url": "https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug"
     },
     {
       "album": {

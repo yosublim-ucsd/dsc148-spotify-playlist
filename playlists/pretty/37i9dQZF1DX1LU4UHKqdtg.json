@@ -1,13 +1,29 @@
 {
   "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: aespa",
-  "num_followers": 315035,
+  "num_followers": 315396,
   "original_name": "K-Pop Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDE1NjFlMjhlMDY0NjIzYTVjYTAzNTdmMjA4MjMxNDlmNWM0ZWQ0",
+  "snapshot_id": "MCxkOTNiZDNjOGY5YTFkMDk1ZWU5M2UyOGI2MDVjOTllODgxMTFiMDUx",
   "tracks": [
+    {
+      "added_at": "2023-05-07 15:00:00",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
     {
       "added_at": "2023-05-07 15:00:00",
       "album": {

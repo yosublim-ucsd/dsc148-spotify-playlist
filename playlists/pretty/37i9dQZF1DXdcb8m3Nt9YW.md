@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Los mejores corridos en vivo\. Enigma Norteño & Fuerza Regida en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,697 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,785 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 74 | [El Cholo \(En Vivo\)](https://open.spotify.com/track/3uf95hOq9NF1FF5r4OBH3c) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Corridos En Vivo](https://open.spotify.com/album/14SAq62aSgJcLqDc8iuyyF) | 1:44 |
 | 75 | [La Siembra En El Cerro](https://open.spotify.com/track/7BM7AHyidinBMTUqO7oSU0) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 3:28 |
 
-Snapshot ID: `MCwzNTJjYTVlN2ZlMTQ2NGZlNzFlOGQ3MjdmZTI1NzEyNWE4N2U0ZjA2`
+Snapshot ID: `MCw4ZGJkMzYwMzhjYjAyM2RlNDIxY2UzZjIwZTg1NmE2ZDlkNGE3Zjgw`

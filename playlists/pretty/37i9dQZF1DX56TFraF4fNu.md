@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Delfina Dib
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,056 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,083 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [badwine](https://open.spotify.com/track/2qfyOSgCVt8mdVVxxhp4tI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [badwine](https://open.spotify.com/album/0DBQL19G6VKFlLXWlltmfl) | 2:19 |
 | 60 | [Mente Daña](https://open.spotify.com/track/2JrzG3ZKfeZX7TJGuMaWd8) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Mente Daña](https://open.spotify.com/album/2oYLLwsCfOC9fvO9XRODIa) | 3:03 |
 
-Snapshot ID: `MCw3NGQzZjI5ZGE2YjdjYjA2MjJmZTI4YjYxNDA3NjhmYmM1NmNlNmVi`
+Snapshot ID: `MCxhZmExZjc3MTIwNGQ1NDllNzE2M2U5MDVjODZiN2MwYTQwN2U3MmY2`

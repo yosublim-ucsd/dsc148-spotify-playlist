@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Justin Moore, Luke Bryan, Megan Moroney and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,435 likes - 64 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,687 likes - 64 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 63 | [This Thing](https://open.spotify.com/track/3Kl5dXgeuCguNX8RuaRjgm) | [Neon Union](https://open.spotify.com/artist/7L9ainQsqBtaa8JSgh9nub) | [This Thing](https://open.spotify.com/album/2uTZj9fVnHWWCphtDez7Ys) | 2:50 |
 | 64 | [Burning Down The Barn](https://open.spotify.com/track/4Lg3t8gukZ6eJLEuMYl8oa) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Burning Down The Barn](https://open.spotify.com/album/0OwTegg1P8waNEvZT0GmGF) | 2:48 |
 
-Snapshot ID: `MCwzMjIwYTYzM2NkZTdjMjNiNzZlZjRhZjIyNjA3ODZlOGI0YTA4ZTA4`
+Snapshot ID: `MCw2MjhiODNjOGY2YjBiYTg3MGE5YTdlY2VkYTZlNGZkMjcwNWE5ZDJi`

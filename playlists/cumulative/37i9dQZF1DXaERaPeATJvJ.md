@@ -4,7 +4,7 @@
 
 > Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Santamonica
 
-112 songs - 7 hr 37 min
+113 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [I'm OK](https://open.spotify.com/track/69xEITRbwTnRYEBGTdy3Kp) | [Goodnight Electric](https://open.spotify.com/artist/01mXW5OUPBFLlEDcYwD3zE) | [Electroduce Yourself](https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk) | 3:51 | 2021-11-25 |  |
 | [I've Got Johnny in My Head](https://open.spotify.com/track/5QPa0rmNEhWGjOChRu5EYS) | [Teenage Death Star](https://open.spotify.com/artist/0IawwTkzo4Y48AuJawFBCE) | [Longway to Nowhere](https://open.spotify.com/album/49y6mQksPVUliQNHhULU8n) | 2:59 | 2021-11-25 |  |
 | [Jatuh Cinta Itu Biasa Saja](https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6) | [Efek Rumah Kaca](https://open.spotify.com/artist/3uSvD31crYEsBLuiAFD02b) | [Efek Rumah Kaca](https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf) | 5:14 | 2021-11-25 |  |
-| [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 | 2022-09-16 |  |
+| [Kabut](https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/0284ZoFuKRZAHPAVwKtOGo) | 3:26 | 2022-09-16 | 2023-05-09 |
+| [Kabut](https://open.spotify.com/track/7yejFhyokyvYrsccyl8YRD) | [Bangkutaman](https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302) | [Love Among the Ruins](https://open.spotify.com/album/4GHHbsBZvQ6DhGpfTvkpAS) | 3:26 | 2023-03-02 |  |
 | [Kelopak Angsa \- Remastered](https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Kelopak Angsa \(Remastered\)](https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb) | 4:11 | 2021-11-25 |  |
 | [Kenyataan Dalam Dunia Fantasi](https://open.spotify.com/track/2zvwxYin8bajogul1xrJR5) | [Koil](https://open.spotify.com/artist/4fhtyRoHvmNjXDIr7jCW0A) | [Blacklight](https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15) | 4:05 | 2022-12-09 | 2022-12-17 |
 | [Kisah Dari Selatan Jakarta](https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY) | [White Shoes & The Couples Company](https://open.spotify.com/artist/5wm369wshLgPTaW2TDwkus) | [Together Whatever Sessions \(Live Version\)](https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl) | 4:15 | 2021-11-25 |  |

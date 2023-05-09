@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26117,
+  "num_followers": 26121,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTI3NDhiNzUzZjczMmI3YjgyNjc0MDU1MTc0ZjllN2MwYTVkNWFj",
+  "snapshot_id": "MCw1Y2E0ZmYyY2FhNTAwZTFmYmU3MWVhMjZkMzEyZTZlZDgxNjExMDA1",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "En Chantant",
-        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
-      },
-      "artists": [
-        {
-          "name": "Michel Sardou",
-          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
-        }
-      ],
-      "duration_ms": 234173,
-      "name": "En chantant",
-      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/41WX17nVqpkzVp5RKMxD9j"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 246400,
       "name": "Tu ne sauras jamais",
       "url": "https://open.spotify.com/track/78Mu8RKUTFIg4h8921ofVS"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "En Chantant",
+        "url": "https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "duration_ms": 234173,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -323,22 +323,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Aime-Moi",
-        "url": "https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9"
-      },
-      "artists": [
-        {
-          "name": "Claude Barzotti",
-          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Aime moi",
-      "url": "https://open.spotify.com/track/7Br5hb4FGMYRfGp72qNKCd"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Rendez-vous doux",
         "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 235066,
       "name": "Un beau grand bateau",
       "url": "https://open.spotify.com/track/153fPAIMxo3FInbJd06MB6"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Aime-Moi",
+        "url": "https://open.spotify.com/album/1q8MKSc8nUG1OvCieROWV9"
+      },
+      "artists": [
+        {
+          "name": "Claude Barzotti",
+          "url": "https://open.spotify.com/artist/3rXJOlQbim2cC6I7wxAlrb"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Aime moi",
+      "url": "https://open.spotify.com/track/7Br5hb4FGMYRfGp72qNKCd"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -419,6 +419,26 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
+        "name": "Rendez-vous doux",
+        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
+      },
+      "artists": [
+        {
+          "name": "Gerry Boulet",
+          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
+        },
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 256760,
+      "name": "Les yeux du coeur",
+      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
         "name": "On ne change pas",
         "url": "https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO"
       },
@@ -447,42 +467,6 @@
       "duration_ms": 242466,
       "name": "C'est z\u00e9ro",
       "url": "https://open.spotify.com/track/36eHvuluPjSm7HNRLqng7R"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Une femme avec toi - Single",
-        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Une femme avec toi",
-      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
-        "name": "Rendez-vous doux",
-        "url": "https://open.spotify.com/album/6ky06eyIoZfXLC0LbEEaKu"
-      },
-      "artists": [
-        {
-          "name": "Gerry Boulet",
-          "url": "https://open.spotify.com/artist/1byKIdu4GbAYNkwsrfN6mv"
-        },
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Les yeux du coeur",
-      "url": "https://open.spotify.com/track/2T9wXXxMx8IKfGdK2FrHPa"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -531,6 +515,22 @@
       "duration_ms": 205600,
       "name": "Tue-moi",
       "url": "https://open.spotify.com/track/7quS8uRNMPWff5JhxnXPYs"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Une femme avec toi - Single",
+        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Une femme avec toi",
+      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Seul au combat",
-      "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les introuvables",
         "url": "https://open.spotify.com/album/6Ow5AKypdyGHNHk4F4BDgo"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
       },
       "artists": [
         {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
         }
       ],
-      "duration_ms": 263866,
-      "name": "Casser la voix",
-      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
+      "duration_ms": 328706,
+      "name": "Seul au combat",
+      "url": "https://open.spotify.com/track/28DBhTwgt6Gnu2g4K0Sn83"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -787,6 +771,22 @@
       "duration_ms": 163578,
       "name": "Quelqu'un M'a Dit",
       "url": "https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5WaAW6zWPlGadqkw3mYaAL"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 263866,
+      "name": "Casser la voix",
+      "url": "https://open.spotify.com/track/0cp8Fd3p8oMbTBv1s6MmrK"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
-        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
-      },
-      "artists": [
-        {
-          "name": "Diane Tell",
-          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
-        }
-      ],
-      "duration_ms": 287253,
-      "name": "Si j'\u00e9tais un homme",
-      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "35th Anniversary Collection",
         "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 263786,
       "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
       "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Autour de Montr\u00e9al (Compilation 1978-1982)",
+        "url": "https://open.spotify.com/album/5J2cTiDe35i6XR3hXtMvNU"
+      },
+      "artists": [
+        {
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
+        }
+      ],
+      "duration_ms": 287253,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Volume un",
-        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
-      },
-      "artists": [
-        {
-          "name": "Robert Charlebois",
-          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "Je reviendrai \u00e0 montr\u00e9al",
-      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les grands succ\u00e8s de Diane Dufresne",
         "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 173080,
       "name": "Un souvenir heureux",
       "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Volume un",
+        "url": "https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd"
+      },
+      "artists": [
+        {
+          "name": "Robert Charlebois",
+          "url": "https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "Je reviendrai \u00e0 montr\u00e9al",
+      "url": "https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Incognito",
-        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "Incognito",
-      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Vue sur la mer",
         "url": "https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 210000,
       "name": "Je voudrais voir New-York",
       "url": "https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Incognito",
+        "url": "https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Incognito",
+      "url": "https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Marie-\u00c9laine Thibert",
-        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
-      },
-      "artists": [
-        {
-          "name": "Marie-\u00c9laine Thibert",
-          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "Le ciel est \u00e0 moi",
-      "url": "https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Joe Bocan",
         "url": "https://open.spotify.com/album/6DkLs7Xzj8Be9HojhiwQUb"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 201333,
       "name": "Repartir \u00e0 z\u00e9ro",
       "url": "https://open.spotify.com/track/2ztfB558UQpT91wYiC6zCV"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Marie-\u00c9laine Thibert",
+        "url": "https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs"
+      },
+      "artists": [
+        {
+          "name": "Marie-\u00c9laine Thibert",
+          "url": "https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Le ciel est \u00e0 moi",
+      "url": "https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k"
     },
     {
       "added_at": "2020-04-07 15:18:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Rodriguez Jr., Liset Alea
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,832 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,987 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 79 | [Waiting For César](https://open.spotify.com/track/6jQqG3BsRAKKcwDwkBCdQk) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Waiting For César](https://open.spotify.com/album/7JL1uqd6ohLCH7vnMbD6ex) | 6:36 |
 | 80 | [We Will Never Give Up](https://open.spotify.com/track/56m2wIdvB6tNqLxWIM6kRC) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 5](https://open.spotify.com/album/5AnkDZIPKBP37QFntmAfmq) | 6:23 |
 
-Snapshot ID: `MCwxNTRmYTI5MTU0ZGVkZmE0Y2UyZTg5YmRmM2JhMjgzMzgzN2E0Y2Nh`
+Snapshot ID: `MCwwZDYzZGU0Yzc4YzRiNTBlMTI0ZWJmODYwYzUwYTMxNzJkMGFiYmJk`

@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: ERRE",
-  "num_followers": 98769,
+  "num_followers": 98798,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw",
+  "snapshot_id": "MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh",
   "tracks": [
     {
       "added_at": "2023-04-21 06:22:36",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
         "name": "Tiempos de Guerra 2",
         "url": "https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+        "name": "Golpe de Suerte (En Vivo)",
+        "url": "https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S"
       },
       "artists": [
         {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
         }
       ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
+      "duration_ms": 190249,
+      "name": "Golpe de Suerte (En Vivo)",
+      "url": "https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -955,22 +971,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Golpe de Suerte (En Vivo)",
-        "url": "https://open.spotify.com/album/62bReN6yDjgYG3Aw3oKt4S"
-      },
-      "artists": [
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Golpe de Suerte (En Vivo)",
-      "url": "https://open.spotify.com/track/0MEEO56ULnC24ZLp0V4Ov2"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Fuerza De Voluntad",
         "url": "https://open.spotify.com/album/59x39WBJbbolx68Dt9Di27"
       },
@@ -983,26 +983,6 @@
       "duration_ms": 163251,
       "name": "Fuerza De Voluntad",
       "url": "https://open.spotify.com/track/2O75oyAguhcpgpDkP5k0Wm"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
-        "name": "LMV",
-        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
-        }
-      ],
-      "duration_ms": 171153,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1043,6 +1023,26 @@
       "duration_ms": 192000,
       "name": "Para El Barrio",
       "url": "https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "LMV",
+        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "AJUA",
-        "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
-      },
-      "artists": [
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 149887,
-      "name": "AJUA",
-      "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "San Mike",
         "url": "https://open.spotify.com/album/49o87APRm62j0t13TMOB4E"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 171250,
       "name": "San Mike",
       "url": "https://open.spotify.com/track/1IsK1ydUSOuc32aMwYB0wa"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "AJUA",
+        "url": "https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 149887,
+      "name": "AJUA",
+      "url": "https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX"
     },
     {
       "added_at": "2023-04-21 06:22:36",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-21 06:22:36",
       "album": {
-        "name": "Vivo el Peligro",
-        "url": "https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr"
-      },
-      "artists": [
-        {
-          "name": "Tyan G",
-          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Vivo el Peligro",
-      "url": "https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC"
-    },
-    {
-      "added_at": "2023-04-21 06:22:36",
-      "album": {
         "name": "Envidiada",
         "url": "https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 165413,
       "name": "Envidiada",
       "url": "https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1"
+    },
+    {
+      "added_at": "2023-04-21 06:22:36",
+      "album": {
+        "name": "Vivo el Peligro",
+        "url": "https://open.spotify.com/album/0TncPHLg7DTj923SQ4keIr"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Vivo el Peligro",
+      "url": "https://open.spotify.com/track/1FOY245P3Pb7LFcMTfB9VC"
     },
     {
       "added_at": "2023-04-21 06:22:36",

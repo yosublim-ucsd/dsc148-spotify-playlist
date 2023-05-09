@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-170 songs - 12 hr 40 min
+171 songs - 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,12 +77,13 @@
 | [If I Had You](https://open.spotify.com/track/61A9PmGW9zONp5V8Ah9SsI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [The Art of Jazz with Miriam Netti](https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2) | 5:20 | 2022-04-13 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH) | [Vanessa Rubin](https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ) | [The Dream Is You: Vanessa Rubin Sings Tadd Dameron](https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO) | 7:10 | 2022-04-13 |  |
 | [If You Love Me](https://open.spotify.com/track/7i9RIEuPvpQ8NtfI0dSJeK) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:34 | 2022-04-13 | 2022-06-01 |
-| [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 |  |
+| [In A Sentimental Mood](https://open.spotify.com/track/0goyk1vNnbD2GKXG96Fz0N) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [London/Paris](https://open.spotify.com/album/6rKUMTAyDdl3ynkCm29BwW) | 6:50 | 2022-04-13 | 2023-05-09 |
 | [In the Wee Small Hours](https://open.spotify.com/track/4MxZoNyKehFAWt5Kwe2ZXm) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY) | [In the Wee Small Hours](https://open.spotify.com/album/4im28jrt1yqHnzUlFFaKwn) | 4:09 | 2022-12-15 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/24YQLjt7qDlPvCERouc5ph) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 3:14 | 2022-08-31 | 2023-02-22 |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE) | [Will Bonness](https://open.spotify.com/artist/2XicePOelCV9UVv6Ir1Xgo) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m) | 5:15 | 2022-04-13 | 2022-06-15 |
 | [It Ends Now](https://open.spotify.com/track/2VNHGQazdShPrH1wxz5evd) | [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET), [Helen Salim](https://open.spotify.com/artist/6zpAdBSCeXbX1umJhUTuEI) | [It Ends Now](https://open.spotify.com/album/2n5vb0l7yIB44vb7H1DDF4) | 6:03 | 2022-11-10 |  |
 | [It Happens Like That](https://open.spotify.com/track/6U0y4ZrWLqrUb82XmJEmLP) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W) | [It Happens Like That](https://open.spotify.com/album/5ojWrYc5keKYq774cZicWo) | 3:31 | 2022-04-13 |  |
+| [It Might As Well Be Spring](https://open.spotify.com/track/28poKvc9L6xJdDp8h7lwEL) | [Silva & Steini](https://open.spotify.com/artist/2Fm2civCaH94nJt0KPvF5c) | [More Than You Know](https://open.spotify.com/album/3E1qoQI2HeUjrizaAi5eY0) | 3:07 | 2023-05-05 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ZEkwS2dzMcOlBbl8Twr3h) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa) | 3:07 | 2022-04-28 | 2023-02-18 |
 | [It Might as Well Be Spring](https://open.spotify.com/track/3J0Egyk01LWoJfsdvN4P42) | [Silva Thordardottir](https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG), [Steingrímur Teague](https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF) | [More Than You Know](https://open.spotify.com/album/5RXXDpraIIfdtZjGLKqp95) | 3:07 | 2023-02-16 | 2023-04-19 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 | 2022-04-13 |  |

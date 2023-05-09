@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,037 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,301 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Bialetti](https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Bialetti](https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE) | 3:32 |
 | 75 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 |
 
-Snapshot ID: `MCwzNmY5YWY5MWVhM2RiYWY5YmExZTFkYjBlYTQ5MDUxYjQxMTYzMmU5`
+Snapshot ID: `MCwzYzBjMmFhNGRjNjAyZGMxNzE3MjY1YzUwY2RiOWZiYzRiMjBiNzJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,209 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,387 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Ex Dealer Flow 2 \(feat\. Jeezy\)](https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Ghost Mode](https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL) | 2:51 |
 | 100 | [Just Getting By](https://open.spotify.com/track/1PoBUMid74DdWs6CzlM2oL) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Never On Time](https://open.spotify.com/album/7ahn5M0aOm7w6vrgK8IIJq) | 2:44 |
 
-Snapshot ID: `MCxkZDkxNzc0NTc4MzY5YjE5NWQ2NDg4YjFiOGVmOWI0ZmE5YzEwNTM3`
+Snapshot ID: `MCw3YzM0MDgxNzExNWRjNDhmM2E5YjJkZTFkYTc3Njg4NDk5Nzk1MThl`

@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15469,
+  "num_followers": 15483,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmI3ZDhiOTlmZDliZWMyYTU5ZjM3NzQxZjU2NTQwYWQ2Y2VkY2Nj",
+  "snapshot_id": "MCxiNTI4ZjU5ZWY2OGY0ZDNhYmM1MjNjNTQyNzcxZDk5YWIwMDljMTg5",
   "tracks": [
     {
       "added_at": "2023-05-05 23:28:35",
@@ -371,6 +371,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "No Ves Tal Vez (Evlay Remix)",
         "url": "https://open.spotify.com/album/0GHjBHc8ZxFE22P9YATmku"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 313608,
       "name": "No Ves Tal Vez - Evlay Remix",
       "url": "https://open.spotify.com/track/6u9UrHLwwM51a69QUN9xcF"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
-      },
-      "artists": [
-        {
-          "name": "Armenia",
-          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
-        }
-      ],
-      "duration_ms": 196020,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Ni tan Bien",
         "url": "https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 193930,
       "name": "Cintura",
       "url": "https://open.spotify.com/track/1s6ZRDmdRmqXPAAiaxDCUh"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe"
+      },
+      "artists": [
+        {
+          "name": "Armenia",
+          "url": "https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx"
+        }
+      ],
+      "duration_ms": 196020,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Amor Perfecto (Reprise)",
-        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Amor Perfecto - Reprise",
-      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Amor Perfecto (Reprise)",
+        "url": "https://open.spotify.com/album/6IGOonzhGCcjLZodPzjCz7"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Amor Perfecto - Reprise",
+      "url": "https://open.spotify.com/track/7lnvtR4H8UUsu7Eap1lk0G"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Galactic Feelings",
         "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 250775,
       "name": "Galactic Feelings",
       "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Recuerdo Infinito",
+        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+      },
+      "artists": [
+        {
+          "name": "Christian Jean",
+          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+        }
+      ],
+      "duration_ms": 293386,
+      "name": "Recuerdo Infinito",
+      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 252026,
       "name": "Solos",
       "url": "https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Recuerdo Infinito",
-        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
-      },
-      "artists": [
-        {
-          "name": "Christian Jean",
-          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
-        }
-      ],
-      "duration_ms": 293386,
-      "name": "Recuerdo Infinito",
-      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Arcoiris",
+        "url": "https://open.spotify.com/album/6XaP7yGu872dZSBKiaVZjg"
+      },
+      "artists": [
+        {
+          "name": "Elia Ezker",
+          "url": "https://open.spotify.com/artist/4oXlT8L4CQfox2udsEFUHB"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Arcoiris",
+      "url": "https://open.spotify.com/track/6k9NhoSbRuVLofmhnjaA16"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "Uh",
         "url": "https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 291960,
       "name": "Sentir",
       "url": "https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Arcoiris",
-        "url": "https://open.spotify.com/album/6XaP7yGu872dZSBKiaVZjg"
-      },
-      "artists": [
-        {
-          "name": "Elia Ezker",
-          "url": "https://open.spotify.com/artist/4oXlT8L4CQfox2udsEFUHB"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Arcoiris",
-      "url": "https://open.spotify.com/track/6k9NhoSbRuVLofmhnjaA16"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Mejor no hablar de ciertas cosas",
+        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        }
+      ],
+      "duration_ms": 300782,
+      "name": "Mejor no hablar de ciertas cosas",
+      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "La Marea",
         "url": "https://open.spotify.com/album/2bRYrAFZSz2H1ABwD8hqSW"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 241418,
       "name": "Mitad Sombra Mitad Luz",
       "url": "https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Mejor no hablar de ciertas cosas",
-        "url": "https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 300782,
-      "name": "Mejor no hablar de ciertas cosas",
-      "url": "https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Burbuja",
+        "url": "https://open.spotify.com/album/2seHFJih4CwtUjk2dtDrhB"
+      },
+      "artists": [
+        {
+          "name": "Lalalas",
+          "url": "https://open.spotify.com/artist/4I3IevY23wtsnyApeZP3Xi"
+        }
+      ],
+      "duration_ms": 215585,
+      "name": "Pantano",
+      "url": "https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "Affaire",
         "url": "https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 247798,
       "name": "Extra\u00f1o ser",
       "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Burbuja",
-        "url": "https://open.spotify.com/album/2seHFJih4CwtUjk2dtDrhB"
-      },
-      "artists": [
-        {
-          "name": "Lalalas",
-          "url": "https://open.spotify.com/artist/4I3IevY23wtsnyApeZP3Xi"
-        }
-      ],
-      "duration_ms": 215585,
-      "name": "Pantano",
-      "url": "https://open.spotify.com/track/5AagTl4xb8fDDX0Tnp8dXA"
     },
     {
       "added_at": "2023-05-05 23:28:35",

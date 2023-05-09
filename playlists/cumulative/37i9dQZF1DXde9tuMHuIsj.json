@@ -657,7 +657,7 @@
     },
     {
       "album": {
-        "name": "Bancario (with Chucky73)",
+        "name": "Bancario",
         "url": "https://open.spotify.com/album/72cMfYH2JdMo7g8TWYcbPt"
       },
       "artists": [
@@ -674,7 +674,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209620,
-      "name": "Bancario (with Chucky73)",
+      "name": "Bancario",
       "url": "https://open.spotify.com/track/1YM3lPEvD32V4fK9JkdoMe"
     },
     {
@@ -3492,7 +3492,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 180000,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/6mna72pJ6vnWVM5HiDPXE4"

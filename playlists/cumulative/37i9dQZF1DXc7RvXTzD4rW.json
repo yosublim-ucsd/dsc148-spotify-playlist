@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u590f\u5ddd\u690e\u83dc (Shiina Natsukawa)",
+  "description": "A collection of music from voice actors/ actresses in Japan./ \u69d8\u3005\u306a\u611f\u60c5\u3092\u81ea\u5728\u306b\u8868\u73fe\u3057\u3001\u767b\u5834\u4eba\u7269\u306b\u547d\u3092\u5439\u304d\u8fbc\u3080\u58f0\u512a\u305f\u3061\u3002\u58f0\u306e\u30d7\u30ed\u30d5\u30a7\u30c3\u30b7\u30e7\u30ca\u30eb\u3067\u3042\u308b\u5f7c\u3089\u304c\u7d21\u3050\u6b4c\u306e\u4e16\u754c\u3002Cover: \u5cac\u306a\u3053(Misaki Nako)",
   "name": "\u58f0\u512a\u3001\u6b4c\u3046 -Sing Like Talking-",
   "tracks": [
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/619V173olJXnKT0Kj2C081"
+      },
+      "artists": [
+        {
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241240,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/5YdYpjoYAmI6IMSTDN2SHw"
+    },
     {
       "album": {
         "name": "Action",
@@ -222,7 +240,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 273666,
       "name": "Ashita no Katachi",
       "url": "https://open.spotify.com/track/09pGnc78yB3BXMVfz6kt4J"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 228306,
       "name": "Loud Hailer",
       "url": "https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o"
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 244746,
       "name": "LOVE CRAZY",
       "url": "https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 220853,
       "name": "Melancholic - From CrosSing",
       "url": "https://open.spotify.com/track/7y7prb3fMdkBrMLItiAFcW"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 249960,
       "name": "New Drama Paradise",
       "url": "https://open.spotify.com/track/6Ty1IRc5sun7YQMUqXealq"
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 241840,
       "name": "Shiko",
       "url": "https://open.spotify.com/track/7oerru3Cs2zeC0QhzNvNkM"
@@ -2457,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Tsuri demo Ikoka",
+        "url": "https://open.spotify.com/album/5PnhjnpVAhvoxN7TDeO279"
+      },
+      "artists": [
+        {
+          "name": "shiratoishy",
+          "url": "https://open.spotify.com/artist/24yb0gleFMY4a9XzOAWbPu"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Tsuri demo Ikoka",
+      "url": "https://open.spotify.com/track/5fUWOiDyqfgZC6cQnfY4Tw"
+    },
+    {
+      "album": {
         "name": "A PIECE OF CAKE",
         "url": "https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx"
       },
@@ -2754,6 +2790,24 @@
       "duration_ms": 260613,
       "name": "\u3046\u3064\u308d\u3044\u3068\u541b",
       "url": "https://open.spotify.com/track/7lGmBFs2YqvXAurQlh3Ry3"
+    },
+    {
+      "album": {
+        "name": "\u305d\u308c\u3092\u50d5\u306f\u5f37\u3055\u3068\u547c\u3073\u305f\u3044",
+        "url": "https://open.spotify.com/album/49SiuOsDwbRBCuFotey0pO"
+      },
+      "artists": [
+        {
+          "name": "\u6960\u6728 \u3068\u3082\u308a",
+          "url": "https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253760,
+      "name": "\u305d\u308c\u3092\u50d5\u306f\u5f37\u3055\u3068\u547c\u3073\u305f\u3044",
+      "url": "https://open.spotify.com/track/4fsekxb0iIBRP2JvzinstE"
     },
     {
       "album": {
@@ -3168,6 +3222,24 @@
       "duration_ms": 317640,
       "name": "\u30bb\u30d4\u30a2\u306e\u8679",
       "url": "https://open.spotify.com/track/4qnD3Qbl9pbKVLHtMtyjXo"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30e9\u30c8\u30ec\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/2pdmtPAlQKPR1YjwaLBi1O"
+      },
+      "artists": [
+        {
+          "name": "\u5cac \u306a\u3053",
+          "url": "https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244769,
+      "name": "\u30bd\u30e9\u30c8\u30ec\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/17ZbHhkoVWfG4aK0lqbSRj"
     },
     {
       "album": {
@@ -3719,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "2022/07/28-2023/02/26",
+        "url": "https://open.spotify.com/album/5nC1W71jAcgbXmEXvGzHm4"
+      },
+      "artists": [
+        {
+          "name": "\u5409\u91ce\u88d5\u884c",
+          "url": "https://open.spotify.com/artist/5NQL8eZZLN9UJ7Z3mqakXq"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234577,
+      "name": "\u65c5\u7acb\u3064\u541b\u3068\u4f59\u82b1\u3068\u30c1\u30a7\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/46NCHTik6jAuuKXraMtEGK"
+    },
+    {
+      "album": {
         "name": "\u6587\u5b66\u5c11\u5973\u306e\u6b4c\u96c6\u2161-\u6708\u3068\u30ab\u30a8\u30eb\u3068\u6587\u5b66\u5c11\u5973-",
         "url": "https://open.spotify.com/album/7oDD43xiiHGR1pBn5EssNE"
       },
@@ -3734,6 +3824,24 @@
       "duration_ms": 182800,
       "name": "\u6708\u3068\u30ab\u30a8\u30eb",
       "url": "https://open.spotify.com/track/2AC2a8IVi96iXdgtipWdJG"
+    },
+    {
+      "album": {
+        "name": "Do you agree?",
+        "url": "https://open.spotify.com/album/531CzMWVs4Z9xaV8O4W0AW"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u897f\u4e9c\u7396\u7483",
+          "url": "https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220813,
+      "name": "\u672c\u65e5\u306f\u6674\u5929\u306a\u308a",
+      "url": "https://open.spotify.com/track/6JRlmcX5Becr1oylsHFT8h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,718 likes - 58 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,754 likes - 58 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 27 | [Bill It To The Room](https://open.spotify.com/track/69YUtocGgaCndbXz64Jmac) | [Nilla Allin](https://open.spotify.com/artist/0v8Hiar0cerC2Yi3pc2Asi) | [Bill It To The Room](https://open.spotify.com/album/6wwU9wCjzv1TmImUJnz1GI) | 2:30 |
 | 28 | [OUT THE WINDOW](https://open.spotify.com/track/25d7Trux92YqeS1iZpa0TN) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 3:56 |
 | 29 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 |
-| 30 | [Melody](https://open.spotify.com/track/4q6QobkhmmqV6kftKM5Eer) | [Xian Bell](https://open.spotify.com/artist/1DD9ttmrDTrddo8JOqqS6z) | [Melody](https://open.spotify.com/album/376MhmZ1hUXTrb0hrdXhA5) | 2:46 |
+| 30 | [Melody](https://open.spotify.com/track/4q6QobkhmmqV6kftKM5Eer) | [Xian Bell](https://open.spotify.com/artist/3wTkmb4rz1lzj5wkq3sESM) | [Melody](https://open.spotify.com/album/376MhmZ1hUXTrb0hrdXhA5) | 2:46 |
 | 31 | [I've Been Waiting](https://open.spotify.com/track/2oRGtL4mO7TyYmVt2davbf) | [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I've Been Waiting](https://open.spotify.com/album/6cREBSkIEgQ8fxi2NbpfF0) | 3:07 |
 | 32 | [Deliverer](https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Deliverer](https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4) | 4:09 |
 | 33 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 57 | [It's Impossible! It's a Miracle!](https://open.spotify.com/track/0oQ5XTsSnSapzuahO5vE2i) | [Michael Sneed](https://open.spotify.com/artist/42KWzHkbr6Q6BV7gSfYkpl) | [Junior Varsity Blues](https://open.spotify.com/album/1SIeFvO8So4ow0vcFosVQ6) | 3:53 |
 | 58 | [Stutter](https://open.spotify.com/track/2oMFMuDI3p05ncKqltBAgp) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [Stutter](https://open.spotify.com/album/6bZg43jmUCts6gW2mi4AAm) | 2:37 |
 
-Snapshot ID: `MCw1NDAzZTE4YWFjOWUwNWZmZDdjMjM1NjNhODUxNzBjZDc5MGE4Mjll`
+Snapshot ID: `MCxkODRhNGUwOTMwODE0N2JmNjA3NmIwNWRlNzAyOWIxZmY2OWFiYjRh`

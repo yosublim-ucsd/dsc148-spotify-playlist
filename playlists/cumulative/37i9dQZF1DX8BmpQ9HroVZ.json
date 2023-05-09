@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 544565,
       "name": "Aye Khuda",
       "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
@@ -700,6 +700,28 @@
       "duration_ms": 230220,
       "name": "Dard",
       "url": "https://open.spotify.com/track/3MqZKfZyzc9LEhMASXCtV8"
+    },
+    {
+      "album": {
+        "name": "Darkest Hour (Asim Azhar Version)",
+        "url": "https://open.spotify.com/album/0XPSoFWnYLGteKJmPQcA2S"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131641,
+      "name": "Darkest Hour - Asim Azhar Version",
+      "url": "https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN"
     },
     {
       "album": {
@@ -1786,7 +1808,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 470500,
       "name": "Kun Faya Kun",
       "url": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
@@ -1908,6 +1930,36 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/3IHcOFALXIYAJ7FQBgkPVp"
+      },
+      "artists": [
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        },
+        {
+          "name": "Maanu",
+          "url": "https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY"
+        },
+        {
+          "name": "Shae Gill",
+          "url": "https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196250,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/1WMImncoIZZ7Bz0Y6cZGVp"
     },
     {
       "album": {

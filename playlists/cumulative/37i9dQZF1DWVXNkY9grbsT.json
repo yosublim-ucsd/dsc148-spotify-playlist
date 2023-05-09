@@ -990,7 +990,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 225000,
       "name": "Bouncing Rays",
       "url": "https://open.spotify.com/track/4ZvQwjVFNvq27c1Um6msmB"
@@ -1910,6 +1910,28 @@
       "duration_ms": 182883,
       "name": "Emanation",
       "url": "https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6"
+    },
+    {
+      "album": {
+        "name": "The Faded Orbit",
+        "url": "https://open.spotify.com/album/6CZhtAcrhCPXdSIohz5i44"
+      },
+      "artists": [
+        {
+          "name": "SaffronKeira",
+          "url": "https://open.spotify.com/artist/69l2nkHclpJMHqqgDuo8MW"
+        },
+        {
+          "name": "Siavash Amini",
+          "url": "https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182883,
+      "name": "Emanation",
+      "url": "https://open.spotify.com/track/7jLyC8ktSRNlliVexjC1YB"
     },
     {
       "album": {

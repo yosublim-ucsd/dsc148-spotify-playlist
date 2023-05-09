@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,121 songs - 2 day 17 hr 48 min
+1,122 songs - 2 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Slow Burn](https://open.spotify.com/track/6q7tjubdQjLjsofmp3eoQM) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Elayna Boynton](https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv) | [Slow Burn](https://open.spotify.com/album/4ni6WTX62ENbOfo0NT6Pm6) | 4:04 | 2019-08-20 | 2020-10-30 |
 | [Snowflakes \- Radio Edit](https://open.spotify.com/track/1c9g1DhWR7Nduge7YmVeCA) | [Pingpong](https://open.spotify.com/artist/38QgRkXw5Wm0RUrkFSh2z7), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Prayer](https://open.spotify.com/album/1FnkZ3HMw2v2WXTL1L5iHi) | 3:24 | 2019-08-09\* | 2019-08-27 |
 | [So Good To Me](https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [So Good To Me](https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38) | 3:36 | 2022-04-15 |  |
+| [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-05 |  |
 | [So Sweet](https://open.spotify.com/track/0UXqqOq4p6ycJXBBrOLjJ9) | [Thomaz Krauze](https://open.spotify.com/artist/2vYp24qYifgpdEUR2ebhDE) | [So Sweet](https://open.spotify.com/album/4fVj0O6kjlCv6eW3j6q4WG) | 6:22 | 2019-08-09\* | 2019-10-14 |
 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 | 2022-12-02 |  |
 | [Somebody](https://open.spotify.com/track/46hzMcgAeemcnGmMUAfX93) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Somebody](https://open.spotify.com/album/3o6cqWZ80KnWs99pG2EShI) | 3:30 | 2020-03-29 | 2021-09-11 |
@@ -1067,7 +1068,7 @@
 | [When We Were Young](https://open.spotify.com/track/4mEILaBM7bKZqKAun5tABu) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [When We Were Young](https://open.spotify.com/album/4KWqQzRQ0dsdHGpA0OWni0) | 3:13 | 2019-08-09\* | 2020-03-29 |
 | [When You Come Home](https://open.spotify.com/track/0QfYrtWTIrvl282F8KlKis) | [Trevor Dahl](https://open.spotify.com/artist/5070dZ0AH5BkTr9cPaXPbB) | [When You Come Home](https://open.spotify.com/album/78oRQ40cJ2nXV0hKyw3uCb) | 3:48 | 2019-08-09\* | 2019-08-27 |
 | [Where Have You Been](https://open.spotify.com/track/5XZXl7asBflC33KL5zaLXW) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP) | [Where Have You Been](https://open.spotify.com/album/4Cxw3Yre5tcD033nzdJMat) | 2:47 | 2022-06-24 |  |
-| [Where I Want To Be](https://open.spotify.com/track/2kPnS1YwvdyJM1f440hbDw) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Where I Want To Be](https://open.spotify.com/album/4i1iqVyb2sAuEF55xQCK86) | 3:15 | 2022-12-02 |  |
+| [Where I Want To Be](https://open.spotify.com/track/2kPnS1YwvdyJM1f440hbDw) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Where I Want To Be](https://open.spotify.com/album/4i1iqVyb2sAuEF55xQCK86) | 3:15 | 2022-12-02 | 2023-05-09 |
 | [Where We Started](https://open.spotify.com/track/5qnSeoDASVUFJXcVtG3SDr) | [PRXZM](https://open.spotify.com/artist/2uYisEeWBn5hp3e8ObdeUV) | [High Desert](https://open.spotify.com/album/51vsFjcphwxIXMxXYqrM6c) | 4:04 | 2019-08-09\* | 2020-03-29 |
 | [Where You Are](https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Where You Are](https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR) | 3:56 | 2023-03-07 |  |
 | [Wherever You Go](https://open.spotify.com/track/2NolG4iiuoPfBtofjRdctc) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Distance](https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF) | 2:44 | 2022-08-26 | 2023-03-01 |

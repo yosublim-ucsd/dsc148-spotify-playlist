@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-400 songs - 23 hr 51 min
+401 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Otha Thamarai \- Original Soundtrack](https://open.spotify.com/track/7e97QgqoYTXOj1s7JI0dHR) | [Bala](https://open.spotify.com/artist/2KGwmllYQr2BgxTkdOH5wt), [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Sandy Sandellow](https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv) | [Otha Thamarai \(Original Soundtrack\)](https://open.spotify.com/album/6sdalaw3mTPzUomDNnWjeN) | 3:39 | 2022-04-29 |  |
 | [Ovvoru Naalum \- Naatpadu Theral \- 2](https://open.spotify.com/track/0sPCPkr4hQoVheoaVGGrDw) | [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [Ovvoru Naalum \(Naatpadu Theral \- 2\)](https://open.spotify.com/album/3NkQzDjlurEUzEC9xW0M5P) | 5:22 | 2022-06-13 | 2022-07-01 |
 | [Paarvai Yenna](https://open.spotify.com/track/237fzFQBlOrVG0LSf5Im0t) | [Rhea Nair](https://open.spotify.com/artist/2Ghf8gICkT9WU9gLfw0UEF), [4 Musics](https://open.spotify.com/artist/7xXL0CQAFbyCFSmKLdK0PR) | [Paarvai Yenna](https://open.spotify.com/album/3U1cM2Wvdvn93eTjhl9Fql) | 4:10 | 2022-07-17 | 2022-08-10 |
+| [Paattan Adicha Parai \(From "MM Originals"\)](https://open.spotify.com/track/3BmQnBqG0iu7ovJre6v2qD) | [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Laverdhan](https://open.spotify.com/artist/6CulICnHjEMIa7FEIPCfqm), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Paattan Adicha Parai \(From "MM Originals"\)](https://open.spotify.com/album/0X36Jasz0VQlIY3cvZweEO) | 3:32 | 2023-05-08 |  |
 | [Paayum Oli Nee Yenaku](https://open.spotify.com/track/6fpzmhrXPkTU1rMIxkBgtB) | [Ratchakan Sridhar](https://open.spotify.com/artist/3Udd19ENueI0Bpe9QAvX4t) | [Paayum Oli Nee Yenaku](https://open.spotify.com/album/2mDrIqUGnjhrXhf4YSMoTo) | 4:12 | 2023-03-22 |  |
 | [Pagal Iravai \| Maraigirai](https://open.spotify.com/track/2jQQTuzwJWEtwayffAADIe) | [Pranav Das](https://open.spotify.com/artist/6OwdhjSwx9S20xgIhe8DYI) | [Pagal Iravai \| Maraigirai](https://open.spotify.com/album/4Et3flF6ldGOucwRw22VEd) | 4:48 | 2021-12-01 | 2023-02-07 |
 | [Pakka Beauty](https://open.spotify.com/track/6GnWKQobzTf9ttmrUnxVR9) | [Aathi](https://open.spotify.com/artist/2Yi3hZ5XdMAYxPQKZVOEvp), [Allan Preetham](https://open.spotify.com/artist/5fzwyKrgd74RioG5kFNY03) | [Maaran Ambu](https://open.spotify.com/album/3PfyF79cW79EclIsyQ2Xf4) | 3:20 | 2022-05-06 | 2022-05-31 |

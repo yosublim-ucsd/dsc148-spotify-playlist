@@ -4416,6 +4416,24 @@
     {
       "album": {
         "name": "Daptone Records Singles Collection: Volume 5",
+        "url": "https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx"
+      },
+      "artists": [
+        {
+          "name": "The Frightnrs",
+          "url": "https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213254,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL"
+    },
+    {
+      "album": {
+        "name": "Daptone Records Singles Collection: Volume 5",
         "url": "https://open.spotify.com/album/7DeXMePPzsB5ztt4CrZGAV"
       },
       "artists": [
@@ -8922,7 +8940,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 236886,
       "name": "Sun Khosi",
       "url": "https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj"

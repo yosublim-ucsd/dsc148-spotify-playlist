@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Abbey Cone, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,518 likes - 124 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,552 likes - 124 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 123 | [Didn't Wanna Settle Down](https://open.spotify.com/track/4CTG5JqMiVZ10nNBucvLX7) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Didn't Wanna Settle Down](https://open.spotify.com/album/3OeuZjVa0OazEv49zQbd5H) | 2:58 |
 | 124 | [Savannah](https://open.spotify.com/track/77TZYA7R03qohGlTzoD0f5) | [Blaine Bunting](https://open.spotify.com/artist/4k1ZyHpZJlHZhe7ToMeJab) | [Savannah](https://open.spotify.com/album/32y9M0MDZgwf20YRdy9TYw) | 3:38 |
 
-Snapshot ID: `MCxiMTRhNTdiNTA2OWJkNzRiYzRhOTBkZjgzMjMxMGM5YmIyMDY4ZjJm`
+Snapshot ID: `MCxlMTllZGMzNTQ0ZDViZjMxNjc2ZDQ0NWZjMWMxZWUzNmQ5NDRkZmUw`

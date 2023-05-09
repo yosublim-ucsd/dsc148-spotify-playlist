@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 111818,
       "name": "A Part of Everything",
       "url": "https://open.spotify.com/track/3sEQ7CcBmtQ2AgWBS33rld"
@@ -8406,7 +8406,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 153080,
       "name": "be around",
       "url": "https://open.spotify.com/track/44I5DNspCFgMGBiuq0Ailf"
@@ -11032,6 +11032,32 @@
       "duration_ms": 102117,
       "name": "Blossoms",
       "url": "https://open.spotify.com/track/3lUiZfl1FXEqRiemX0QdHf"
+    },
+    {
+      "album": {
+        "name": "Blow The Top",
+        "url": "https://open.spotify.com/album/2AfvG3Gv9gU5Mmm3nmFE5T"
+      },
+      "artists": [
+        {
+          "name": "digitalluc",
+          "url": "https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z"
+        },
+        {
+          "name": "Monno Briceno",
+          "url": "https://open.spotify.com/artist/1693Pk0uxRd9h3wrsw08ys"
+        },
+        {
+          "name": "Bland & Pale",
+          "url": "https://open.spotify.com/artist/1amaHii8ogT5by2h9C9cyX"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121348,
+      "name": "Blow The Top",
+      "url": "https://open.spotify.com/track/5ZL1uCUKOBkatiFqUWMQy5"
     },
     {
       "album": {
@@ -56204,6 +56230,24 @@
       "duration_ms": 171428,
       "name": "Lucid",
       "url": "https://open.spotify.com/track/5CDAHvlEZSWSPJEZnWGd7N"
+    },
+    {
+      "album": {
+        "name": "Lucid",
+        "url": "https://open.spotify.com/album/5OPsZYeGaez4KZcfpUOTPf"
+      },
+      "artists": [
+        {
+          "name": "YJKL",
+          "url": "https://open.spotify.com/artist/3BhHTALkwD57tJXbvOw3AR"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105302,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/74hNT5lq0nKsNEO0pilMgS"
     },
     {
       "album": {

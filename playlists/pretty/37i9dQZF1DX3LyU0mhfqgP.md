@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: Kimmese
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,780 likes - 57 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,630 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 56 | [Giọt Buồn Để Lại](https://open.spotify.com/track/5WMsvaWEPhBCIH6JYVhEn1) | [Hakoota](https://open.spotify.com/artist/7kE39OIlliCniD1AhI4jsJ) | [Giọt Buồn Để Lại](https://open.spotify.com/album/7h5wB7jLegDJ328aAlqwdU) | 4:17 |
 | 57 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
 
-Snapshot ID: `MCxjNjczNDhiMWY4ZGExYjQzMDI4YjE4MDc4ZTc3ZTQ3NzllOTc1ZjM4`
+Snapshot ID: `MCw5YWNkMmZmOTQ0YzI5YTRjYjMzOWU5MWFiYjFkNzUwOGE1ODU2Mjll`

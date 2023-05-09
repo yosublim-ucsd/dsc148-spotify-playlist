@@ -1857,6 +1857,28 @@
     },
     {
       "album": {
+        "name": "Never Gonna Give You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        },
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143040,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA"
+    },
+    {
+      "album": {
         "name": "Never Too Much (Acoustic)",
         "url": "https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4"
       },

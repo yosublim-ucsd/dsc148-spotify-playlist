@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 564594,
+  "num_followers": 564824,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMTVkN2EyMjE2Y2M5ZTllNTUzYjFiOTU1YjYzZjg0M2Y0Y2Q4MDRj",
+  "snapshot_id": "MCw3ZDA3YWI5MDNhNzhiNmY3ZDAzZTkyMDk5NDkxOTNjM2UzMmYwYzE2",
   "tracks": [
     {
       "added_at": "2023-03-07 16:54:09",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "The Battle Of Los Angeles",
-        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "Sleep Now In the Fire",
-      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -265,7 +249,23 @@
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
     },
     {
-      "added_at": "2023-05-08 01:11:01",
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "The Battle Of Los Angeles",
+        "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Sleep Now In the Fire",
+      "url": "https://open.spotify.com/track/1MQTmpYOZ6fcMQc56Hdo7T"
+    },
+    {
+      "added_at": "2023-05-09 01:05:57",
       "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
-      "added_at": "2023-05-08 01:11:01",
+      "added_at": "2023-05-09 01:05:57",
       "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
     },
     {
-      "added_at": "2023-05-08 01:11:01",
-      "album": {
-        "name": "Heartbreak Feels So Good",
-        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 217537,
-      "name": "Heartbreak Feels So Good",
-      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
-    },
-    {
       "added_at": "2023-03-07 16:54:09",
       "album": {
         "name": "Nimrod",
@@ -407,6 +391,22 @@
       "duration_ms": 171466,
       "name": "Hitchin' a Ride",
       "url": "https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF"
+    },
+    {
+      "added_at": "2023-05-09 01:05:57",
+      "album": {
+        "name": "Heartbreak Feels So Good",
+        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Blood Brothers",
-      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Elect the Dead (Deluxe)",
         "url": "https://open.spotify.com/album/6lEk9mHyHXxINEhTyFuYrz"
       },
@@ -537,7 +521,23 @@
       "url": "https://open.spotify.com/track/6Y2kW1mdHE0znPCjtOdt5m"
     },
     {
-      "added_at": "2023-05-08 01:11:01",
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M"
+    },
+    {
+      "added_at": "2023-05-09 01:05:57",
       "album": {
         "name": "Told You So",
         "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Hold Me Down",
-        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
-      },
-      "artists": [
-        {
-          "name": "You Me At Six",
-          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Sleeping With Ghosts",
         "url": "https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 190573,
       "name": "The Bitter End",
       "url": "https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Handwritten",
-        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "\"45\"",
-      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Figure Eight",
         "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 201556,
       "name": "Figure Eight",
       "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Handwritten",
+        "url": "https://open.spotify.com/album/1gsyJWUvwjnsNgYUxpOfLR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "\"45\"",
+      "url": "https://open.spotify.com/track/25Sd73fleKUVPNqITPZkn1"
     },
     {
       "added_at": "2023-03-07 16:54:09",

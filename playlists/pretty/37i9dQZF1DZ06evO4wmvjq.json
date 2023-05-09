@@ -1,15 +1,15 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 1233,
+  "num_followers": 1236,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTc4MTAsMDAwMDAwMDA3Yjg5MDg4NzBkYzA2OGI0YzliMDQ5ODA3YmRlNzk2YQ==",
+  "snapshot_id": "MjgwNTkxOTgsMDAwMDAwMDA1ZjZiNjExZDBlZjIxNGJjMGFmZjFjYmIyN2QwZTlkMQ==",
   "tracks": [
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/6cQsVzglHpnfzQ5fuHeUEw"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Terry Riley: Shri Camel",
-        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 446560,
-      "name": "Across the Lake of the Ancient World - Instrumental",
-      "url": "https://open.spotify.com/track/27XR6UTQv54sA2F29vqm3a"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
         "url": "https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/0aGvcIUEdMq9PelZIGJOBU"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Terry Riley: Shri Camel",
+        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 446560,
+      "name": "Across the Lake of the Ancient World - Instrumental",
+      "url": "https://open.spotify.com/track/27XR6UTQv54sA2F29vqm3a"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -93,23 +93,7 @@
       "url": "https://open.spotify.com/track/6PU7ov0CYZzsEOWoFlRFBK"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Terry Riley: Shri Camel",
-        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 565026,
-      "name": "Anthem of the Trinity - Instrumental",
-      "url": "https://open.spotify.com/track/2lxuwG64sM20cqzNxKVGXJ"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Persian Surgery Dervishes",
         "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Terry Riley: Shri Camel",
+        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 565026,
+      "name": "Anthem of the Trinity - Instrumental",
+      "url": "https://open.spotify.com/track/2lxuwG64sM20cqzNxKVGXJ"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Terry Riley: Shri Camel",
-        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 691440,
-      "name": "Celestial Valley - Instrumental",
-      "url": "https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -197,7 +181,23 @@
       "url": "https://open.spotify.com/track/2u3qI1WiuzNfu7pgbCvo6L"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Terry Riley: Shri Camel",
+        "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 691440,
+      "name": "Celestial Valley - Instrumental",
+      "url": "https://open.spotify.com/track/0qoFbRRIO9V8Pz99TkFk0H"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Terry Riley: A Rainbow in Curved Air & Poppy Nogood and the Phantom Band",
         "url": "https://open.spotify.com/album/7tMM2MIBklhAtmmsgbQrAq"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/7yX6clhxwVHuKMNcCXAyB9"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/3S7ue5i5UAW6kJmqogeort"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Cologne 1974 (Live 1974)",
         "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/7msH0Iwj6RHhWMQJcw1dem"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/2N1cxjxCFGJ7BQu6S5k7Cq"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Late Night Tales: Four Tet",
         "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "For the Birds: The Birdsong Project, Vol. I",
         "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
@@ -344,12 +344,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 400306,
-      "name": "In The Summer",
-      "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
+      "duration_ms": 1108053,
+      "name": "Journey From The Death Of A Friend",
+      "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Riley: In C",
         "url": "https://open.spotify.com/album/1IqXMVlNM4NBTA4otUziOr"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4IIt36M11AQ5bHdzFQLEny"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
@@ -385,7 +385,39 @@
       "url": "https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1293666,
+      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
+      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 400306,
+      "name": "In The Summer",
+      "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
         "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
@@ -405,10 +437,10 @@
       "url": "https://open.spotify.com/track/6H4YPhQoP8ykZ9wutYkqzO"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
       },
       "artists": [
         {
@@ -416,12 +448,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1108053,
-      "name": "Journey From The Death Of A Friend",
-      "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
+      "duration_ms": 132960,
+      "name": "The New Albion Chorale - Reprise",
+      "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
@@ -432,12 +464,28 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1293666,
-      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
-      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
+      "duration_ms": 305200,
+      "name": "The Harp of New Albion: IV. Cadence on the Wind",
+      "url": "https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Slow Melody In Bhairavi",
+      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -448,12 +496,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 448026,
-      "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
-      "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
+      "duration_ms": 276146,
+      "name": "Llanto",
+      "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -473,23 +521,7 @@
       "url": "https://open.spotify.com/track/2Z3e1jZPF25lEIYIEdL1Yp"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Slow Melody In Bhairavi",
-      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
@@ -500,12 +532,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 604333,
-      "name": "The Harp of New Albion: VI. Return of the Ancestors",
-      "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
+      "duration_ms": 396160,
+      "name": "The Harp of New Albion: V. Premonition Rag",
+      "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
         "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
@@ -521,7 +553,23 @@
       "url": "https://open.spotify.com/track/1xbNRIVkV4IaSxoHYSO4Vf"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 448026,
+      "name": "Innocencia - Se Aparace La Muerte Inocentmente Por La Tarde",
+      "url": "https://open.spotify.com/track/5QqUqGPrxtgjT6AEWYJu70"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Cadenza On The Night Plain And Other String Quartets (1985 Version)",
         "url": "https://open.spotify.com/album/0q7dOR7FSB9efKo1VRUXrq"
@@ -541,23 +589,7 @@
       "url": "https://open.spotify.com/track/5RQlKEz672VrGewNyimvbs"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 276146,
-      "name": "Llanto",
-      "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Riley: The Harp of New Albion",
         "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
@@ -568,28 +600,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 305200,
-      "name": "The Harp of New Albion: IV. Cadence on the Wind",
-      "url": "https://open.spotify.com/track/4qshB18VkXecfCmAR8bjAJ"
+      "duration_ms": 604333,
+      "name": "The Harp of New Albion: VI. Return of the Ancestors",
+      "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 132960,
-      "name": "The New Albion Chorale - Reprise",
-      "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Steve Reich: Six Pianos & Terry Riley: Keyboard Study #1",
         "url": "https://open.spotify.com/album/4tZdDTJcXvF7mDH9MTlC01"
@@ -613,7 +629,71 @@
       "url": "https://open.spotify.com/track/1w9GGVy7WJAUvxVQAv47o2"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 273746,
+      "name": "Quijote",
+      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Intuitive Leaps: Zeitgeist Plays Terry Riley",
+        "url": "https://open.spotify.com/album/3kqjx7WXd8t4850BJfhz7b"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 363200,
+      "name": "The Room Of Remembrance, Part II",
+      "url": "https://open.spotify.com/track/5yJJm4i3TmshnYgajZP3mg"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 930200,
+      "name": "The Harp of New Albion: II. The Orchestra of Tao",
+      "url": "https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Cologne 1974 (Live 1974)",
+        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 574081,
+      "name": "Part II - Live 1974",
+      "url": "https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -629,23 +709,7 @@
       "url": "https://open.spotify.com/track/1QJHdpZI0opRyXaXsNZCYk"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 396160,
-      "name": "The Harp of New Albion: V. Premonition Rag",
-      "url": "https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -665,7 +729,23 @@
       "url": "https://open.spotify.com/track/4vpwnM4ZGsqogffpvr3APP"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1000000,
+      "name": "The Harp of New Albion: III. Riding the Westerleys",
+      "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Cologne 1974 (Live 1974)",
         "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
@@ -681,7 +761,7 @@
       "url": "https://open.spotify.com/track/6PJDAsoCcmsvQqI6YsTGis"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "The book Of Abbeyozzud",
         "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
@@ -692,15 +772,15 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Quijote",
-      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
+      "duration_ms": 592026,
+      "name": "Zamorra",
+      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
       },
       "artists": [
         {
@@ -708,12 +788,12 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 930200,
-      "name": "The Harp of New Albion: II. The Orchestra of Tao",
-      "url": "https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM"
+      "duration_ms": 69306,
+      "name": "Mosque",
+      "url": "https://open.spotify.com/track/1iIprmzheT5eLyeoIpTziF"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
@@ -733,107 +813,7 @@
       "url": "https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Cologne 1974 (Live 1974)",
-        "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 574081,
-      "name": "Part II - Live 1974",
-      "url": "https://open.spotify.com/track/56f4vwvweMjYP1AKRxtKy7"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 592026,
-      "name": "Zamorra",
-      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Intuitive Leaps: Zeitgeist Plays Terry Riley",
-        "url": "https://open.spotify.com/album/3kqjx7WXd8t4850BJfhz7b"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 363200,
-      "name": "The Room Of Remembrance, Part II",
-      "url": "https://open.spotify.com/track/5yJJm4i3TmshnYgajZP3mg"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 1000000,
-      "name": "The Harp of New Albion: III. Riding the Westerleys",
-      "url": "https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Atlantis Nath",
-        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 69306,
-      "name": "Mosque",
-      "url": "https://open.spotify.com/track/1iIprmzheT5eLyeoIpTziF"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
-      "album": {
-        "name": "Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
-        }
-      ],
-      "duration_ms": 162785,
-      "name": "Dwarf",
-      "url": "https://open.spotify.com/track/0r3u5kfZhNaIDOYEtcYhul"
-    },
-    {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
         "name": "Cologne 1974 (Live 1974)",
         "url": "https://open.spotify.com/album/36qNiR69mPkh235nYuCAEU"
@@ -849,10 +829,30 @@
       "url": "https://open.spotify.com/track/0uq9fIUxNfEUxM5qa1zX8C"
     },
     {
-      "added_at": "2023-05-07 14:10:06",
+      "added_at": "2023-05-08 13:18:41",
       "album": {
-        "name": "No Man's Land",
-        "url": "https://open.spotify.com/album/3tK0ZIMXzEbme2OQK1bpP0"
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
+        }
+      ],
+      "duration_ms": 324680,
+      "name": "The Lake",
+      "url": "https://open.spotify.com/track/11p1Pf5SQjJBWD8NkyyYKM"
+    },
+    {
+      "added_at": "2023-05-08 13:18:41",
+      "album": {
+        "name": "Riley: Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 425440,
-      "name": "Conversation with the Sirocco",
-      "url": "https://open.spotify.com/track/4RFcJpJZt6NorK6jLAK2kM"
+      "duration_ms": 688000,
+      "name": "Eastern Man",
+      "url": "https://open.spotify.com/track/02DJWyW9y1TcwlhF3xScxR"
     }
   ],
   "unique_name": "This Is Terry Riley",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,118 likes - 35 songs - 2 hr 18 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,122 likes - 35 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Push It](https://open.spotify.com/track/1d45v8BGGwNAAWS1iu70dv) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [Push It](https://open.spotify.com/album/6C6vq8swk3cWy2MdIv07rW) | 3:12 |
+| 1 | [Offering](https://open.spotify.com/track/5yJ1OSF0SjazqXOqU2Rhxd) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ), [Mah Ze Tar](https://open.spotify.com/artist/3t1vbZuEQhRqLTUKLraNDn) | [Offering](https://open.spotify.com/album/3hOcuf2gvtwrTftQT2gMSv) | 3:43 |
 | 2 | [Underground](https://open.spotify.com/track/7u8p3u6rE0zwWOHVQbpfdq) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [High Tara](https://open.spotify.com/artist/3AY3TKMf77gAK03Y2yPlOI) | [Underground Ft\. High Tara](https://open.spotify.com/album/6bHLcabZtowoaPveCk6ujJ) | 3:17 |
 | 3 | [I Am Tiger](https://open.spotify.com/track/5BBbXALudSXzfwRy4aEChM) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I Am Tiger](https://open.spotify.com/album/0Wlb29T2xQGR0pgFVrQHKd) | 3:15 |
 | 4 | [I'm A Warrior](https://open.spotify.com/track/7hxQid9ZYmkZbqmyJtTtJ0) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV) | [I'm A Warrior](https://open.spotify.com/album/1MJUwXbIMpEsxVVLNlaaqC) | 2:53 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 34 | [Shroud](https://open.spotify.com/track/5048sG1m90o3QwBVj7y6T0) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Shroud](https://open.spotify.com/album/3oJD0kN86cenW074IGBhYP) | 3:46 |
 | 35 | [You \- Original Mix](https://open.spotify.com/track/4R6Q146obmbOCTcGS7yrqZ) | [David Starfire](https://open.spotify.com/artist/6nhEcP9sIqaoQ6hM5R55IB), [Oriel](https://open.spotify.com/artist/3BSLNWpFU1TCnEC1OcYLSS) | [You](https://open.spotify.com/album/02pWS51vtFYL4yqJa7gDQd) | 3:49 |
 
-Snapshot ID: `MjEzMCwzODExNTNlMGRhNTM0Yzk0MTYzYmEyZTM0NmY2ZDU4YmY4MTQ3MmJm`
+Snapshot ID: `MjEzNCxmMjk4MDg3NmY1MTdmYmZkNjdhODZmNGVlZWNjMDM3NWQ5NjJjN2Yw`

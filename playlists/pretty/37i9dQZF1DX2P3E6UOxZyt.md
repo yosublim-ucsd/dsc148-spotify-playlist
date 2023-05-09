@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,107 likes - 67 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,125 likes - 67 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 6 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
 | 7 | [Room247](https://open.spotify.com/track/6iFn69S297cgPduLovu9D6) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 3:51 |
 | 8 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
-| 9 | [晚安](https://open.spotify.com/track/7LhYXgN9eVMGQHm0aiGomG) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/0J0ntnsJRbGju0yyCOiCgQ) | 4:49 |
+| 9 | [晚安](https://open.spotify.com/track/34M0W5H5mj7e0D83ptYbhd) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/7HQwKPaXmVP98AOAWteDrz) | 4:49 |
 | 10 | [想你](https://open.spotify.com/track/7vAwqw2kiPVUTdI6SBouwy) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [想你](https://open.spotify.com/album/7xqdWIv7RyrvVwuHrTou9Q) | 3:59 |
 | 11 | [你的存在](https://open.spotify.com/track/6cf6V2DaTgF5QDKPx26i7M) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 4:03 |
 | 12 | [寂寞男孩 \(feat\. TYSON YOSHI\)](https://open.spotify.com/track/2nPOwaPw4wzXHJXzKCXJ7I) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 4:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [Let Go](https://open.spotify.com/track/370kG5AMoC2AKxmVPGFasg) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [Let Go](https://open.spotify.com/album/4t8AW2zluprck4qPTkMV3H) | 3:19 |
 | 67 | [因為我還年輕](https://open.spotify.com/track/2rJZJT8waYGkWIDlP6OKVI) | [Asiaboy 禁藥王 ＆ Lizi 栗子](https://open.spotify.com/artist/460u7AKt1ZvsPMB0zoXuAQ) | [因為我還年輕](https://open.spotify.com/album/6KGZcpuMVu6pKO7E0XMCDH) | 3:30 |
 
-Snapshot ID: `MCxmZGU1YTY1MmVjMTQzMzNjZWFkYzRjODkwZjZiMDY1YTM4M2U0Yjdi`
+Snapshot ID: `MCw1ZGNlMmFhMmZjYjVjMzkyMjJjOGQ0MGMyMmM0Nzc0ZDZlMDEzMWY3`

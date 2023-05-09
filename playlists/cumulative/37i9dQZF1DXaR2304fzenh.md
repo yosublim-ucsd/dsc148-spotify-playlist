@@ -2,7 +2,7 @@
 
 ### [Fiesta y Desmadre](https://open.spotify.com/playlist/37i9dQZF1DXaR2304fzenh)
 
-> The title says it all, a whole mood!
+> El título says it all, a whole mood!
 
 85 songs - 4 hr 24 min
 

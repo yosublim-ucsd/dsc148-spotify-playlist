@@ -1822,7 +1822,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 153846,
       "name": "All The King's Men",
       "url": "https://open.spotify.com/track/7BLKqhihCvwMsv58Mxae6q"
@@ -4164,7 +4164,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 207220,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/14OYOlqHpT1krZOhS9nVWp"
@@ -8618,7 +8618,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 273733,
       "name": "Curiosity",
       "url": "https://open.spotify.com/track/3N9Q7XaQyXEtuNZxRI0ZZ6"
@@ -16023,6 +16023,28 @@
     },
     {
       "album": {
+        "name": "Heavyhearted",
+        "url": "https://open.spotify.com/album/6s2bE2YKmh1kAjUvcL1g4k"
+      },
+      "artists": [
+        {
+          "name": "Gemma Navarrete",
+          "url": "https://open.spotify.com/artist/1n5jlVlseoXjchByqcdJZu"
+        },
+        {
+          "name": "D\u00e9j\u00e0 Miru",
+          "url": "https://open.spotify.com/artist/5oX0eBe2oPNBcYxeihnGGw"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228216,
+      "name": "Heavyhearted",
+      "url": "https://open.spotify.com/track/63uKgQjlGuXB4MTCey4DdE"
+    },
+    {
+      "album": {
         "name": "GAULTIER",
         "url": "https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH"
       },
@@ -16562,7 +16584,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 200000,
       "name": "Holy X",
       "url": "https://open.spotify.com/track/1PqpL3CkE4EMhbEQ0w51yt"
@@ -20052,7 +20074,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 133506,
       "name": "Kite",
       "url": "https://open.spotify.com/track/0TGOkdgALvt4KhBjtxYrRo"
@@ -21890,7 +21912,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 252533,
       "name": "Loser On The Ropes",
       "url": "https://open.spotify.com/track/3mZZjbqrrrwC6lsqnwXpxj"
@@ -28846,7 +28868,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 198391,
       "name": "Procrastinating",
       "url": "https://open.spotify.com/track/4sIOvktWsUIKEIUALX0ItC"
@@ -30800,7 +30822,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 181091,
       "name": "Sad Tunes",
       "url": "https://open.spotify.com/track/6HM7Xx9NvISFOB6ExfC1tA"
@@ -32550,7 +32572,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 201373,
       "name": "Snow Dusted Ponies",
       "url": "https://open.spotify.com/track/0RSBWdCa1P8xoXOG90uZZ6"
@@ -34010,6 +34032,24 @@
       "duration_ms": 225264,
       "name": "Strings",
       "url": "https://open.spotify.com/track/7sUP5q7AyJlC5aLHjt6pkD"
+    },
+    {
+      "album": {
+        "name": "Stronger / Love (and everything between)",
+        "url": "https://open.spotify.com/album/2jyZRrw9mLqG7mjdWsHf1v"
+      },
+      "artists": [
+        {
+          "name": "Mathilde Widding",
+          "url": "https://open.spotify.com/artist/7yiilgx7kKijTeHJs2FoWb"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200501,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/1IBFJqMbzTkPENRZsHzJZd"
     },
     {
       "album": {
@@ -37108,7 +37148,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 237808,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1nfNSVxFzWl8WN14Z9AMqY"
@@ -41074,7 +41114,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 198013,
       "name": "Worth Your While",
       "url": "https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9"
@@ -41852,7 +41892,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 178000,
       "name": "Young Forever",
       "url": "https://open.spotify.com/track/5SiI25910PKfqOib9joLN3"

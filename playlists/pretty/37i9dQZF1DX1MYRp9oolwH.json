@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Custody",
-  "num_followers": 81436,
+  "num_followers": 81459,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTczYjJjOWU4N2QzNjMxNjY4ZGU5NjgwMWVjMTgxMjg5ZGUxMTcw",
+  "snapshot_id": "MCwzZDMwNDExNDQxZmU4MTk1ZWFjMmUxY2RiY2Y4NWNiMDlmMjE0NTM5",
   "tracks": [
     {
       "added_at": "2023-04-24 06:03:36",
@@ -115,6 +115,34 @@
       "duration_ms": 222135,
       "name": "Nachavule Nachavule (From \"Virupaksha\")",
       "url": "https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay"
+    },
+    {
+      "added_at": "2023-05-08 08:13:04",
+      "album": {
+        "name": "Maama Mascheendra",
+        "url": "https://open.spotify.com/album/7KqrXZm8p26oMzjVC2QxoO"
+      },
+      "artists": [
+        {
+          "name": "Chaitan Bharadwaj",
+          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Nutana Mohan",
+          "url": "https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 279711,
+      "name": "Gaalullona",
+      "url": "https://open.spotify.com/track/6GcpFFSkEUgBObU8CVNLTW"
     },
     {
       "added_at": "2023-04-24 12:23:59",
@@ -235,26 +263,6 @@
       "duration_ms": 287741,
       "name": "Naa Tholi Chinnari Premo (From \"Month Of Madhu\")",
       "url": "https://open.spotify.com/track/6K8eAwWX94NjGQA5X5smfA"
-    },
-    {
-      "added_at": "2023-04-04 03:17:14",
-      "album": {
-        "name": "Richie Gadi Pelli",
-        "url": "https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp"
-      },
-      "artists": [
-        {
-          "name": "Shakthisree Gopalan",
-          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
-        },
-        {
-          "name": "Satyan",
-          "url": "https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Naa Ninnalaloo",
-      "url": "https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7"
     },
     {
       "added_at": "2022-11-10 13:17:20",

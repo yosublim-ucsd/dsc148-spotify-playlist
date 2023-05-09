@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-303 songs - 19 hr 5 min
+304 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:05 | 2022-11-26 |  |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/7mdaecge9hB8VZyrqQMDBM) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Mary Had A Little Lamb](https://open.spotify.com/album/7hSSwV7RWL4slYauUvt3BW) | 2:48 | 2021-12-24 | 2022-12-13 |
 | [May You Find a Light](https://open.spotify.com/track/4ihsQ2R46NSvGItUXcTpO7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [The Light Came Down](https://open.spotify.com/album/69jXtqUEHCVsB5geUWN1Yl) | 3:47 | 2021-12-24 |  |
+| [Maybe Christmas Will Make It Right](https://open.spotify.com/track/3pRy8US6Hud7z9VcOZ0FQW) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Maybe Christmas Will Make It Right](https://open.spotify.com/album/3e6V6QLVkYKxaOz6GssKp7) | 3:38 | 2022-12-11 |  |
 | [Messiah](https://open.spotify.com/track/07uDNxlcxJ9yc97VPJHZTy) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Greatest Hits: The First Ten Years](https://open.spotify.com/album/2W1v9Xz8vVmsDsvkPj78jS) | 3:38 | 2021-12-24 |  |
 | [Midwinter](https://open.spotify.com/track/2xWrohwZZ88teyMfIIucpN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Midwinter](https://open.spotify.com/album/2GIM7r9F1uJ8YmYTIHRfE3) | 4:04 | 2021-12-24 | 2022-07-27 |
 | [Mighty Christmas](https://open.spotify.com/track/0tgZq7jJMTmWCyIEZtlcwF) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Mighty Christmas](https://open.spotify.com/album/4LgcALN2RdRGWSULMJuL5d) | 3:33 | 2021-12-24 | 2022-07-27 |
@@ -283,7 +284,7 @@
 | [Virgin Mary Had One Son](https://open.spotify.com/track/718r6aSGVq5NXy2lP7JS6l) | [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Virgin Mary Had One Son](https://open.spotify.com/album/3dt28d9gqa65F8letCwdBF) | 2:44 | 2021-12-24 | 2022-07-28 |
 | [Waiting For The Dawn](https://open.spotify.com/track/7yia78B3ZYKjXqObGTdSfS) | [Salt Of The Sound](https://open.spotify.com/artist/0S3L6vtzNN4ArFWH2709SB) | [Waiting For The Dawn](https://open.spotify.com/album/4ft2IddmKZZ29X9jyO8BAH) | 3:44 | 2021-12-24 | 2022-07-24 |
 | [We Bow](https://open.spotify.com/track/49pJVkJhuISvkHBY65K6RG) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif), [Isa Ma](https://open.spotify.com/artist/0pWvGTyszb31m9wq2cLlJ0), [Astyn Turr](https://open.spotify.com/artist/2By37PSkMs1WNuiTY0CbQl) | [We Bow / Christmas Is Here](https://open.spotify.com/album/5XDAp6GrTOpatrrFuz30HB) | 3:48 | 2022-12-11 |  |
-| [We Need Christmas](https://open.spotify.com/track/6FmtDq0oN2cHJqvS0VWBRU) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [We Need Christmas](https://open.spotify.com/album/0zs3lYAdLSFv6wXkzEfqAx) | 3:54 | 2021-12-24 |  |
+| [We Need Christmas](https://open.spotify.com/track/6FmtDq0oN2cHJqvS0VWBRU) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [We Need Christmas](https://open.spotify.com/album/0zs3lYAdLSFv6wXkzEfqAx) | 3:54 | 2021-12-24 | 2023-05-09 |
 | [We Need Emmanuel](https://open.spotify.com/track/7ugp3qjriKzWj1Kluj0Awc) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [We Need Emmanuel](https://open.spotify.com/album/1iagly9M3C91gzkNAJSWZz) | 3:48 | 2021-12-24 | 2022-12-02 |
 | [We the Three \(feat\. the Ambassador, G.O.D\. Sent & Ad3\)](https://open.spotify.com/track/3cBjMpGwfxrJuLPSKM1HPO) | [God's Servant](https://open.spotify.com/artist/1wWqAErHj6qWBueakRoMWz), [The Ambassador ](https://open.spotify.com/artist/7CsXxTT7EPJbBT0FaIDVWJ), [God Sent](https://open.spotify.com/artist/4DPlSm8XoLpuEx9630gZVJ), [AD3](https://open.spotify.com/artist/4UfOr0WKTGClsUCMCPICqx) | [The Christ of Christmas](https://open.spotify.com/album/3C3ULfKYlsC809t6QOCGEf) | 5:22 | 2021-12-24 | 2022-07-21 |
 | [We Three Kings \(feat\. Britt Nicole\)](https://open.spotify.com/track/2RXca2IBMfwk3cawIXH5k3) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 4:22 | 2021-12-24 | 2022-07-29 |

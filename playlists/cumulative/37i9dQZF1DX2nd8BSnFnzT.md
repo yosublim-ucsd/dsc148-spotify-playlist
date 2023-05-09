@@ -4,7 +4,7 @@
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Hevo 84
 
-324 songs - 18 hr 11 min
+325 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Dinâmica de Bruto \(Locomotiva Sessions\) \- Live Session](https://open.spotify.com/track/51H1qbbRDFtTCUxv6XMoVN) | [Locomotiva](https://open.spotify.com/artist/4I4l9PY6kNpW4rRSZCxe6Z), [Autoramas](https://open.spotify.com/artist/6IwPtS5L4cV9yCB66mhheZ) | [Autoramas \(Locomotiva Sessions\) \[Live Session\]](https://open.spotify.com/album/5f6pa6GLk6U30lmOIGFfYM) | 3:16 | 2022-05-06 | 2022-05-20 |
 | [DISCÓRDIA](https://open.spotify.com/track/3uJ7nGe0COVBFMWcoUvTmD) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [DISCÓRDIA](https://open.spotify.com/album/31fDcR8XivjpJ9AK7kNjGt) | 3:23 | 2022-01-28 | 2022-03-05 |
 | [DISTOPIA](https://open.spotify.com/track/3D2eAZQWkf51qGGqgnPidY) | [Planet Hemp](https://open.spotify.com/artist/3nasa4yabzvUeb6DzejDYU), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [DISTOPIA](https://open.spotify.com/album/2lHk8KznqoZDeTNagjkSir) | 4:00 | 2022-09-23 | 2023-02-25 |
+| [Diz Pra Mim](https://open.spotify.com/track/2yHsmCovu6tuaq2avIKcz2) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Bruno Faglioni](https://open.spotify.com/artist/7oxPvng8qihFbzKHrnsf8G) | [Ao Vivo Em Paranavaí](https://open.spotify.com/album/4jgS1WLCGvyeCtxQjJB2Ob) | 3:33 | 2023-05-09 |  |
 | [Diz pra Mim / Sem Você](https://open.spotify.com/track/6vb5PT52GJKWh1OppKogUY) | [Malta](https://open.spotify.com/artist/17NbypXXnsLwf15wqq32IG), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Diz pra Mim / Sem Você](https://open.spotify.com/album/4lq1OnjIAJ2H7kqhaYI4wI) | 3:23 | 2023-03-10 |  |
 | [Do Nada Meu Tudo \(Jazzy Remix\)](https://open.spotify.com/track/5NNfVECIso4FnM0UnTYL5l) | [Os Bartira](https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w), [Tócaz](https://open.spotify.com/artist/2FMDbxdZ3FlMXC62BOebiQ) | [Do Nada Meu Tudo \(Jazzy Remix\)](https://open.spotify.com/album/797f5H1drLlLL7UJUG7DSD) | 4:13 | 2022-01-14 | 2022-01-22 |
 | [Dois Estranhos](https://open.spotify.com/track/33mkezmxRV63f3avjUMZyV) | [Lucas Andrade](https://open.spotify.com/artist/3oWuBS8Vm0T8JzhRB8wOZm) | [Dois Estranhos](https://open.spotify.com/album/7al7JLOuUgxxZQ5Cwq5Eyc) | 3:11 | 2023-03-03 | 2023-04-29 |
@@ -203,7 +204,7 @@
 | [Não Mudaria Nada](https://open.spotify.com/track/3hveh8lEmqaYjVoQAxpARe) | [Sebastianismos](https://open.spotify.com/artist/2L5ae8GHw7eJ0u4f331o4R), [Badaui CPM22](https://open.spotify.com/artist/3Qv5O95hn0ZxnBrshQCEZ5) | [Não Mudaria Nada](https://open.spotify.com/album/7fojJw1mlHS6wFLUg5mEF3) | 1:49 | 2022-01-14 | 2022-07-29 |
 | [Não Quero Mudar](https://open.spotify.com/track/32DOQVhMr9YTetdnZgA0AY) | [Rockstrada](https://open.spotify.com/artist/5FrbfTAZzH4ZxWQZ1ctXtm), [Vespas Mandarinas](https://open.spotify.com/artist/39wvetWmzobDSXSkCHPEcv) | [Não Quero Mudar](https://open.spotify.com/album/0VhZmawNhSQWuRaXOGvfk1) | 2:59 | 2023-01-27 | 2023-03-11 |
 | [não sei se eu tô legal](https://open.spotify.com/track/0XqbOyc2hkSmrrrgo2SHsF) | [Manifeste](https://open.spotify.com/artist/0n7mf2UgleldV4ShP6VY7f) | [Não Sei Se Eu Tô Legal](https://open.spotify.com/album/0xjeqZlmUkzixDMvXvU6RD) | 3:56 | 2022-04-01 | 2022-04-23 |
-| [Não Sou Poeta](https://open.spotify.com/track/6mo20XLvNQkFmO5Cfl654N) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Não Sou Poeta](https://open.spotify.com/album/1l0VCps6k6VghvS1HoZd8M) | 3:06 | 2023-04-07 |  |
+| [Não Sou Poeta](https://open.spotify.com/track/6mo20XLvNQkFmO5Cfl654N) | [Supla](https://open.spotify.com/artist/7F0xfkXz1ucZLGi6ktLelR) | [Não Sou Poeta](https://open.spotify.com/album/1l0VCps6k6VghvS1HoZd8M) | 3:06 | 2023-04-07 | 2023-05-09 |
 | [Não Tem Fim](https://open.spotify.com/track/4aOrlVeRIpFWstYelMfT8E) | [Ludov](https://open.spotify.com/artist/1oJr9YeNcCuMjUtB6lQDlp) | [Não Tem Fim](https://open.spotify.com/album/3s3ppgiKb1i30FmkLHB01O) | 2:25 | 2023-01-13 | 2023-02-25 |
 | [Não Vá](https://open.spotify.com/track/6hurdo0fzNhApT20XVDAoV) | [Cali](https://open.spotify.com/artist/45PtVszGYU0nqQfUS99Dyz), [Ivy Martins](https://open.spotify.com/artist/3476OGjD0Wy1AKp6wJ7xtV) | [Não Vá](https://open.spotify.com/album/67iqFpAbgZ1MjWKqCx9zR4) | 3:15 | 2023-02-03 |  |
 | [Não É Fácil Explicar para uma Criança](https://open.spotify.com/track/140SKZV6z5q1I6vPKL2b0U) | [Plebe Rude](https://open.spotify.com/artist/2azqeHE13Y8hP8YAjew9zL) | [Evolução, Vol\. 2](https://open.spotify.com/album/0FRBkaMVeWroXGrpBOmXxg) | 4:26 | 2023-03-24 |  |

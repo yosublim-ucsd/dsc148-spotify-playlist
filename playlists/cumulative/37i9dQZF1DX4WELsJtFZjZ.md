@@ -4,7 +4,7 @@
 
 > Mellow songs from the 1980s.
 
-320 songs - 23 hr 37 min
+321 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Hands To Heaven](https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN) | [Breathe](https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0) | [All That Jazz](https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf) | 4:19 | 2021-11-03 | 2022-07-29 |
 | [Hard to Say I'm Sorry](https://open.spotify.com/track/58DXqHKK7TfxUmhCq2ux4E) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [The Collection](https://open.spotify.com/album/3LKijZ37n62pTNd650EuFp) | 3:52 | 2021-02-02 | 2022-07-29 |
 | [Hard to Say I'm Sorry / Get Away \- 2005 Remaster](https://open.spotify.com/track/41e8y8N7OLiVTWMam9iebK) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Love Songs](https://open.spotify.com/album/6CttJqwyQqtUbElzGjNrHa) | 5:05 | 2021-02-02 | 2022-07-29 |
-| [Heartbreaker](https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Heartbreaker](https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD) | 4:18 | 2021-02-02 | 2023-05-08 |
+| [Heartbreaker](https://open.spotify.com/track/3iMLRCGHLQ135LtMjKLkO8) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Heartbreaker](https://open.spotify.com/album/1Iw6XX7uvOyQbq6dIht2hD) | 4:18 | 2021-02-02 |  |
 | [Heaven](https://open.spotify.com/track/4LOgi2TAAoKU9ImfzRrCPO) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/1DCI0mQQdf0LYoXheONDXi) | 4:03 | 2021-02-02 | 2022-07-29 |
 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 | 2022-05-25 |  |
 | [Hello](https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 4:06 | 2021-02-02 | 2022-07-29 |
@@ -169,7 +169,7 @@
 | [Licence To Kill](https://open.spotify.com/track/2ytwDkF0RLOi6qL2uJ2cQG) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0) | [Licence To Kill](https://open.spotify.com/album/5V870FgJNzMTiLAGo6OMmE) | 5:14 | 2022-01-10 | 2022-04-21 |
 | [Little Jeannie](https://open.spotify.com/track/19Kf8FxBJ5a1Bb8uKCrIIe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:13 | 2021-02-02 | 2022-07-29 |
 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 | 2022-01-10 |  |
-| [Live to Tell](https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:51 | 2021-02-02 |  |
+| [Live to Tell](https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:51 | 2021-02-02 | 2023-05-09 |
 | [Lost in Your Eyes](https://open.spotify.com/track/6PMDILZiYo4YzMBbE0dGK9) | [Debbie Gibson](https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp) | [Electric Youth](https://open.spotify.com/album/5PnwSSRbLcCLpNMe2LFhOC) | 3:35 | 2021-02-02 |  |
 | [Love Bites](https://open.spotify.com/track/4qWizh4UB8BuSypZ3T1zAz) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 5:46 | 2022-01-10 | 2022-11-13 |
 | [Love Don't Live Here Anymore](https://open.spotify.com/track/2r1Mfkds5Wik30Fq6Ic87A) | [Jimmy Nail](https://open.spotify.com/artist/5JmiJ0uN4rutaRsDfBUPHl) | [Take It Or Leave It](https://open.spotify.com/album/3mF6I77yAJ4eeZDjojozIC) | 3:56 | 2022-01-10 | 2022-04-21 |
@@ -279,6 +279,7 @@
 | [There's No Easy Way](https://open.spotify.com/track/4nFpuZQsnesW0RHD8DCN78) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Your Night](https://open.spotify.com/album/5hRRszeP0Kn8tLWvXDqcRC) | 3:47 | 2022-01-10 | 2022-04-18 |
 | [There's No Easy Way](https://open.spotify.com/track/7ePEIbrsRXk9En7noiLAo7) | [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [It's Your Night](https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs) | 3:47 | 2022-05-25 |  |
 | [These Dreams](https://open.spotify.com/track/22wWxHGHRH8gZXNDXRgSqY) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Heart](https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430) | 4:14 | 2021-02-02 |  |
+| [This Woman's Work \- 2018 Remaster](https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 3:36 | 2023-01-24 |  |
 | [Through the Barricades](https://open.spotify.com/track/75mx4MRQt4l7Gs49JSc6QV) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 5:21 | 2021-02-02 | 2022-07-29 |
 | [Through The Years](https://open.spotify.com/track/4pP5xVUYEZljcmfyYFQXsx) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Share Your Love](https://open.spotify.com/album/0RlTMOUZMLq2Tmj6K9NgX6) | 4:46 | 2022-01-10 |  |
 | [Throwing It All Away](https://open.spotify.com/track/4iYrHuW4C4IsjE7s9HbnxS) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [The Platinum Collection](https://open.spotify.com/album/3we7A7UllAuA6QH6U9jmHs) | 3:50 | 2021-02-02 | 2022-07-29 |
@@ -292,7 +293,7 @@
 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 | 2021-02-02 |  |
 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 | 2021-02-02 |  |
 | [Truly](https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Lionel Richie](https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ) | 3:20 | 2021-02-02 |  |
-| [Turn Back The Clock](https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 4:30 | 2021-02-02 |  |
+| [Turn Back The Clock](https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 4:30 | 2021-02-02 | 2023-05-09 |
 | [Two People](https://open.spotify.com/track/4Zu3egEh8DxX4Z8mSLjf8L) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Break Every Rule](https://open.spotify.com/album/1C9kaOfbTQ9dxYM4E2Yju2) | 4:09 | 2021-02-02 | 2022-07-27 |
 | [Under The Boardwalk](https://open.spotify.com/track/6a4mvE1CdiRMPyAvG8ByLN) | [Bruce Willis](https://open.spotify.com/artist/6UpHyjBIGRSHpna0GQ68bH) | [The Return Of Bruno](https://open.spotify.com/album/56jScJ8N9n8B4ZNu52KeHk) | 3:03 | 2021-02-02 | 2022-07-28 |
 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 | 2021-02-02 |  |

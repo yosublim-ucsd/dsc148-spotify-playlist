@@ -4984,7 +4984,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 130912,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/1nQUQsN7Kzt4G5JyerxNor"
@@ -17980,6 +17980,28 @@
       "duration_ms": 144081,
       "name": "Vem e hon",
       "url": "https://open.spotify.com/track/0iIPP1fRRYBzdjPnwcqGoQ"
+    },
+    {
+      "album": {
+        "name": "Vente vad",
+        "url": "https://open.spotify.com/album/2DvVni5UD3SRIRLYV1SO9B"
+      },
+      "artists": [
+        {
+          "name": "Zius",
+          "url": "https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA"
+        },
+        {
+          "name": "SHYDE",
+          "url": "https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126811,
+      "name": "Vente vad",
+      "url": "https://open.spotify.com/track/7H4ilcNKc4bZHAwW9cgTTi"
     },
     {
       "album": {

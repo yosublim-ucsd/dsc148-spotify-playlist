@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 1031,
+  "num_followers": 1303,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjhkNjBiYjIxYmYwNWU5NTMyYzc4NzI0NTI3MGI2MGU0NGI4YmMw",
+  "snapshot_id": "MCxiZTIyMmFjNmYwMjQ0ZGJiYTM5YTQ0MTA2MjIxYzQyZDkwNzQ3NDRl",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Sky's The Limit",
         "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Oh Honey",
-        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+      "duration_ms": 356200,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "La Vida Es Fr\u00eda",
-        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
-      },
-      "artists": [
-        {
-          "name": "Jason Joshua",
-          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
-        }
-      ],
-      "duration_ms": 202234,
-      "name": "La Vida Es Fr\u00eda",
-      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Where There's Smoke...",
         "url": "https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 352920,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "La Vida Es Fr\u00eda",
+        "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
+      },
+      "artists": [
+        {
+          "name": "Jason Joshua",
+          "url": "https://open.spotify.com/artist/47RTTEHKmO94V6qGq5xhbn"
+        }
+      ],
+      "duration_ms": 202234,
+      "name": "La Vida Es Fr\u00eda",
+      "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 141329,
+      "name": "Gimme Little Sign",
+      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 141329,
-      "name": "Gimme Little Sign",
-      "url": "https://open.spotify.com/track/1h4XVjt26ZCDKmeEoHxT07"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 201066,
       "name": "Didn't I (Blow Your Mind This Time)",
       "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Baby You Got It",
+        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -707,22 +723,6 @@
       "duration_ms": 238200,
       "name": "I Wanna Get Next To You",
       "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Baby You Got It",
-        "url": "https://open.spotify.com/album/6k6HGujFFmxxqt4cD1AL4N"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/6HTFY66ZttBULqR1108Zmy"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Too Hot to Handle (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
+      },
+      "artists": [
+        {
+          "name": "Heatwave",
+          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
+        }
+      ],
+      "duration_ms": 377106,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Too Hot to Handle (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1QeIO9ArYBB9vLiODTtWy8"
-      },
-      "artists": [
-        {
-          "name": "Heatwave",
-          "url": "https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY"
-        }
-      ],
-      "duration_ms": 377106,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3w0pyHgJJW9JN0cJxmi33Z"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "With Love",
+        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Make It With You",
+      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
@@ -1243,18 +1259,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "With Love",
-        "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
+        "name": "Nobody's Clown",
+        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
       },
       "artists": [
         {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+          "name": "Los Yesterdays",
+          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
         }
       ],
-      "duration_ms": 285098,
-      "name": "Make It With You",
-      "url": "https://open.spotify.com/track/1MTjPvCioj81IsSX66IB2a"
+      "duration_ms": 209200,
+      "name": "Nobody's Clown",
+      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Nobody's Clown",
-        "url": "https://open.spotify.com/album/4BW8awstXlQOU8AL0VFVYR"
-      },
-      "artists": [
-        {
-          "name": "Los Yesterdays",
-          "url": "https://open.spotify.com/artist/0Hfk4u1LGIA1lLY7yduUfq"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Nobody's Clown",
-      "url": "https://open.spotify.com/track/5y5AkEON3hWGuPJgxUJObc"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Baby, I'm Yours",
         "url": "https://open.spotify.com/album/0rmDDX6kd3GGmsfYVAlHfN"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 233430,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Will You Still Love Me Tomorrow",
-        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
-      },
-      "artists": [
-        {
-          "name": "The Shirelles",
-          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Baby It's You",
-      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1419,6 +1403,38 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Will You Still Love Me Tomorrow",
+        "url": "https://open.spotify.com/album/13MaoinwLDJqTHPMEr0efZ"
+      },
+      "artists": [
+        {
+          "name": "The Shirelles",
+          "url": "https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Baby It's You",
+      "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Seems Like",
+        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
+      },
+      "artists": [
+        {
+          "name": "Thee Sinseers",
+          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
+        }
+      ],
+      "duration_ms": 194020,
+      "name": "Seems Like",
+      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 133226,
       "name": "One Summer Night",
       "url": "https://open.spotify.com/track/5GEsOz5Pbln0j2RcmBGLa4"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
-        "name": "Seems Like",
-        "url": "https://open.spotify.com/album/2tap8Qg9edttnopPumKebe"
-      },
-      "artists": [
-        {
-          "name": "Thee Sinseers",
-          "url": "https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "Seems Like",
-      "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
-        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
-      },
-      "artists": [
-        {
-          "name": "Deniece Williams",
-          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
-        }
-      ],
-      "duration_ms": 249640,
-      "name": "It's Gonna Take a Miracle",
-      "url": "https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Somebody Please (Stereo Mix 2019)",
         "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 168773,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Best Of Deniece Williams: Gonna Take A Miracle",
+        "url": "https://open.spotify.com/album/40sKPUTUSt1t7F73DZ2ECT"
+      },
+      "artists": [
+        {
+          "name": "Deniece Williams",
+          "url": "https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd"
+        }
+      ],
+      "duration_ms": 249640,
+      "name": "It's Gonna Take a Miracle",
+      "url": "https://open.spotify.com/track/6AeOM7N0rK3tYOINY2k5qy"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
+        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
+        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
+      },
+      "artists": [
+        {
+          "name": "Lizette & Quevin",
+          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
+        }
+      ],
+      "duration_ms": 193620,
+      "name": "Grow Forever",
+      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
         "name": "I Like the Way You Love Me",
         "url": "https://open.spotify.com/album/4xVKAnImpAKsUJ1Z2WGkDR"
       },
@@ -2103,18 +2119,22 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Grow Forever b/w Now It\u2019s Your Turn To Sing",
-        "url": "https://open.spotify.com/album/1T6sOXNigseNAd33KdLGXL"
+        "name": "Ilusi\u00f3n De Amor",
+        "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
       },
       "artists": [
         {
-          "name": "Lizette & Quevin",
-          "url": "https://open.spotify.com/artist/1Ja8gq8kybmwpYcCSVNBqY"
+          "name": "Jensine Benitez",
+          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
+        },
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
         }
       ],
-      "duration_ms": 193620,
-      "name": "Grow Forever",
-      "url": "https://open.spotify.com/track/7lMJlw5lkmFXHjlH6KP5tt"
+      "duration_ms": 225796,
+      "name": "Ilusi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2167,26 +2187,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Ilusi\u00f3n De Amor",
-        "url": "https://open.spotify.com/album/5mnltZObN42BuoEMtv4QUa"
-      },
-      "artists": [
-        {
-          "name": "Jensine Benitez",
-          "url": "https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX"
-        },
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 225796,
-      "name": "Ilusi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/5rWvpSsk5b7wyyhBMoS05b"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "In The Still Of The Nite",
         "url": "https://open.spotify.com/album/1isEKzUnMZ6UdXKYNznV4e"
       },
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The Chicano Alliance",
-        "url": "https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1"
-      },
-      "artists": [
-        {
-          "name": "Rosie & The Originals",
-          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Angel Baby (Spanglish)",
-      "url": "https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "The Chicano Alliance",
+        "url": "https://open.spotify.com/album/26vF6HjaflI30q1EXqsfC1"
+      },
+      "artists": [
+        {
+          "name": "Rosie & The Originals",
+          "url": "https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Angel Baby (Spanglish)",
+      "url": "https://open.spotify.com/track/6H81RwUg1lNqJr7jI1KAHi"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Never Let Go, Vol. 1",
-        "url": "https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU"
-      },
-      "artists": [
-        {
-          "name": "Vicky Tafoya and the Big Beat",
-          "url": "https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v"
-        }
-      ],
-      "duration_ms": 244053,
-      "name": "Boy With the Angel Eyes",
-      "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "I Really Love You",
         "url": "https://open.spotify.com/album/0egWJ6uyEXJecs0TiP9vc7"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 186237,
       "name": "I Really Love You",
       "url": "https://open.spotify.com/track/1wwjrU9JBVzbSvcHlyntxt"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Never Let Go, Vol. 1",
+        "url": "https://open.spotify.com/album/4GgGewXgAejjm2FWeRppqU"
+      },
+      "artists": [
+        {
+          "name": "Vicky Tafoya and the Big Beat",
+          "url": "https://open.spotify.com/artist/6FMPLQPJx2sk8BPPVnv92v"
+        }
+      ],
+      "duration_ms": 244053,
+      "name": "Boy With the Angel Eyes",
+      "url": "https://open.spotify.com/track/5CIJEkPX1TiF1jazhDXxbY"
     },
     {
       "added_at": "2023-05-01 20:33:48",

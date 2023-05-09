@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODM1LDllNTc2NTUxZTUwOTUwODRhZjQwMGE0ZmMxMzI5ZWE1NzcxZGU2NDM=",
+  "snapshot_id": "ODQyLDFlNTU5MzU0MGEwMDZkNzgyY2YzYmExNzRiNTk2NDI4OTlkYWVmOTY=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -1521,22 +1521,6 @@
       "url": "https://open.spotify.com/track/7r9HZwjUZezpQpW4ToiEFL"
     },
     {
-      "added_at": "2022-09-17 22:38:10",
-      "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 257653,
-      "name": "Pretty Hurts",
-      "url": "https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr"
-    },
-    {
       "added_at": "2022-09-19 05:13:57",
       "album": {
         "name": "Hold The Girl",
@@ -2869,34 +2853,6 @@
       "url": "https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ"
     },
     {
-      "added_at": "2023-03-24 00:46:37",
-      "album": {
-        "name": "Deltron 3030",
-        "url": "https://open.spotify.com/album/04uhhcjGVCHodMgZjXOlye"
-      },
-      "artists": [
-        {
-          "name": "Deltron 3030",
-          "url": "https://open.spotify.com/artist/2efzHZrUGhawnSOTpyAHOQ"
-        },
-        {
-          "name": "Del The Funky Homosapien",
-          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
-        },
-        {
-          "name": "Dan The Automator",
-          "url": "https://open.spotify.com/artist/4fv5w0LJib9OMbXQegqZ01"
-        },
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 25853,
-      "name": "State of the Nation",
-      "url": "https://open.spotify.com/track/4FQVCrUvtl4yRJd5bWpupn"
-    },
-    {
       "added_at": "2023-03-24 16:58:13",
       "album": {
         "name": "Coco Moon",
@@ -3329,22 +3285,6 @@
       "url": "https://open.spotify.com/track/5VdaMUzoQetwxQwtWAd022"
     },
     {
-      "added_at": "2023-04-29 05:40:32",
-      "album": {
-        "name": "That! Feels Good!",
-        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "That! Feels Good!",
-      "url": "https://open.spotify.com/track/1XaHF28nrXBbyitGIGSdna"
-    },
-    {
       "added_at": "2023-04-30 21:36:50",
       "album": {
         "name": "Crushing",
@@ -3407,6 +3347,74 @@
       "duration_ms": 181965,
       "name": "Into the Deep Time (One Sun)",
       "url": "https://open.spotify.com/track/0lw2mLzNcwftfTvDojdySG"
+    },
+    {
+      "added_at": "2023-05-06 05:41:18",
+      "album": {
+        "name": "And Then Nothing Turned Itself Inside-Out",
+        "url": "https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 391933,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/0ameyezi8mF5HdFqBp7DLF"
+    },
+    {
+      "added_at": "2023-05-06 05:41:26",
+      "album": {
+        "name": "Electr-o-pura",
+        "url": "https://open.spotify.com/album/4z0y72X6GLvi4EOlezrFS9"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Decora",
+      "url": "https://open.spotify.com/track/4AAbuMTQKLT3ls8Maztnbn"
+    },
+    {
+      "added_at": "2023-05-06 17:27:01",
+      "album": {
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 223344,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/2gEuEnvHdyZhRoXQiaoY1Y"
+    },
+    {
+      "added_at": "2023-05-08 22:43:38",
+      "album": {
+        "name": "BEYONC\u00c9",
+        "url": "https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 257653,
+      "name": "Pretty Hurts",
+      "url": "https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT"
     }
   ],
   "unique_name": "Zacklog",

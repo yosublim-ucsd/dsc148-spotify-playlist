@@ -8,8 +8,8 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/09BF3kcZeMEG4Wzu0C4M9X) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Kolamavu Kokila](https://open.spotify.com/album/5F982BYjAKiPnliKexrHBi) | 0:00 | 2021-08-02 |  |
-| [](https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo) | 0:00 | 2021-08-02 |  |
+| [](https://open.spotify.com/track/09BF3kcZeMEG4Wzu0C4M9X) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Kolamavu Kokila](https://open.spotify.com/album/5F982BYjAKiPnliKexrHBi) | 0:00 | 2021-08-02 | 2023-05-09 |
+| [](https://open.spotify.com/track/54lWhyO1mesDCvdQXiafu0) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4dOzOEIHi3QhtjnafMLrPo) | 0:00 | 2021-08-02 | 2023-05-09 |
 | [Aathi \(From "Kaththi"\)](https://open.spotify.com/track/2B2Y1qGComLKdsHLktgCbV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 5:04 | 2021-08-02 |  |
 | [Ailasa Ailasa](https://open.spotify.com/track/6n8gWl0tiqrjsrytd24prO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Vanakkam Chennai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GDrPlprtCalr2sk3wbA4o) | 4:06 | 2021-08-02 |  |
 | [Alladhe Siragiye](https://open.spotify.com/track/4bBvORgFl84qcZ1Q4LtMoN) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Rum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7wOBAKgO7PkU1tsOMPI8LN) | 3:42 | 2021-08-02 | 2023-02-17 |

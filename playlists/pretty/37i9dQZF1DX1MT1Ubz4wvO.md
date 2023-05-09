@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Guadalupe Plata en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,728 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,741 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [En Silencio](https://open.spotify.com/track/075AQQ99tNbdeUckDTPxMN) | [The Volture](https://open.spotify.com/artist/1MWyIW6u0doYBqu4jjTmkG), [Maurizio Terracina](https://open.spotify.com/artist/1eZ0H2ylC40ZOUkjc2Zlx1) | [En Silencio](https://open.spotify.com/album/22PDcgUDrJ4GvTRWnV1ETL) | 3:43 |
 | 50 | [niña rata](https://open.spotify.com/track/3EYqMQzDerE3LiNsobNyo3) | [NO FUCKS](https://open.spotify.com/artist/2HmUEL1l2qRxneA9zN5pqV), [Ariadna Punsetes](https://open.spotify.com/artist/6FYsATaUMLDD3F7SVCWXNY) | [niña rata](https://open.spotify.com/album/2v4rLc4WIoNoKwSmVtAwLC) | 1:26 |
 
-Snapshot ID: `MCxlYTkxMzA5YjUyYWI1ZmNlYTkzMmVhOTQwNjc3MTNkYTI1OTg1YzY5`
+Snapshot ID: `MCw5YjgwYWI3ZmMzNGM1ODAwNTk3MjVkMWJiMzA4OTZkNjQxN2VmM2M4`

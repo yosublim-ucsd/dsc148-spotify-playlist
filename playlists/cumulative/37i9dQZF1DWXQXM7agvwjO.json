@@ -324,7 +324,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 218987,
       "name": "A380",
       "url": "https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ"
@@ -12792,6 +12792,24 @@
       "duration_ms": 265200,
       "name": "Wish Upon A Star",
       "url": "https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231422,
+      "name": "Witches",
+      "url": "https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy"
     },
     {
       "album": {

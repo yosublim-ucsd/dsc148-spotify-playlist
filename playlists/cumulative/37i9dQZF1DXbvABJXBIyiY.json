@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 209986,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
@@ -2172,6 +2172,24 @@
       "duration_ms": 196613,
       "name": "The Only Thing Worth Fighting For - From The HBO Series True Detective",
       "url": "https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ"
+    },
+    {
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/4WR9ZxxSx0vJN3exmSL1u6"
+      },
+      "artists": [
+        {
+          "name": "The Suitcase Junket",
+          "url": "https://open.spotify.com/artist/7Iew8GtdYcaznLxIJpJxeS"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/09pcOS99wvOAdsCFoC0VGS"
     },
     {
       "album": {

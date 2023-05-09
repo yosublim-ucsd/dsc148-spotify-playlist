@@ -1,12 +1,12 @@
 {
   "description": "The coldest sounds of Hip-Hop, coming out of Canada. Cover: Smiley",
-  "num_followers": 162331,
+  "num_followers": 162355,
   "original_name": "Northern Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYmU3MzEzOTY5YTBjODYzMmE3ZDA4MzkyY2NjYjk5ZTc3ZTY3YTVl",
+  "snapshot_id": "MCwxNTc1NjhiOWUyNTM3M2JiMGE5ZjhjYjE5ZTM2YmIxN2ZjNTVlMzVh",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -59,6 +59,30 @@
       "duration_ms": 167026,
       "name": "The Jungle",
       "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Go To Sleep",
+        "url": "https://open.spotify.com/album/1FYYGbPi1ZRituR7b6THpY"
+      },
+      "artists": [
+        {
+          "name": "Sukha",
+          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
+        },
+        {
+          "name": "AR Paisley",
+          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "duration_ms": 124863,
+      "name": "Go To Sleep",
+      "url": "https://open.spotify.com/track/5yPN6daDWtbMa3Osyqq5FH"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -163,6 +187,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Lemons",
+        "url": "https://open.spotify.com/album/3mnOeqIhz0DY2hj9aZF3NA"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 131180,
+      "name": "Lemons",
+      "url": "https://open.spotify.com/track/1mtD50z7VMf5nEg7KOM9Gc"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
       },
@@ -183,26 +223,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Go To Sleep",
-        "url": "https://open.spotify.com/album/1FYYGbPi1ZRituR7b6THpY"
+        "name": "Let's Slide",
+        "url": "https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK"
       },
       "artists": [
         {
-          "name": "Sukha",
-          "url": "https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG"
-        },
-        {
           "name": "AR Paisley",
           "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
-        },
-        {
-          "name": "Prodgk",
-          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
         }
       ],
-      "duration_ms": 124863,
-      "name": "Go To Sleep",
-      "url": "https://open.spotify.com/track/5yPN6daDWtbMa3Osyqq5FH"
+      "duration_ms": 144271,
+      "name": "Let's Slide",
+      "url": "https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -283,22 +315,6 @@
       "duration_ms": 126706,
       "name": "Wallets & Pockets",
       "url": "https://open.spotify.com/track/1lwekc1uvYQFoggTMxeL3N"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lemons",
-        "url": "https://open.spotify.com/album/3mnOeqIhz0DY2hj9aZF3NA"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 131180,
-      "name": "Lemons",
-      "url": "https://open.spotify.com/track/1mtD50z7VMf5nEg7KOM9Gc"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -495,22 +511,6 @@
       "duration_ms": 157419,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Let's Slide",
-        "url": "https://open.spotify.com/album/2yTm9rMmF7nklt9MV3rtxK"
-      },
-      "artists": [
-        {
-          "name": "AR Paisley",
-          "url": "https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd"
-        }
-      ],
-      "duration_ms": 144271,
-      "name": "Let's Slide",
-      "url": "https://open.spotify.com/track/1O8OlK7VP4R8LGLFgNlZvm"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -8125,6 +8125,24 @@
     },
     {
       "album": {
+        "name": "LIFE",
+        "url": "https://open.spotify.com/album/5Z0CKSYN5pXSYWdRUcWVoZ"
+      },
+      "artists": [
+        {
+          "name": "GReeeeN",
+          "url": "https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/6MUttdHjSIRbvZaEIvhOdv"
+    },
+    {
+      "album": {
         "name": "Paint Like a Child",
         "url": "https://open.spotify.com/album/1mOLA2DZpudlI6jwQWwUP5"
       },

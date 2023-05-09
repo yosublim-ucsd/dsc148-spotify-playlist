@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Miguel
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,513 likes - 70 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,525 likes - 70 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 69 | [Apply Pressure](https://open.spotify.com/track/2z7L8jakEq0POyRdufZCT9) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Candydrip \(Deluxe\)](https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL) | 3:14 |
 | 70 | [Like Me](https://open.spotify.com/track/14oEHHXAoTQvnlunHpY6xP) | [Indie Amoi](https://open.spotify.com/artist/5FP0p1lFLKPwhXkKbIoA9F) | [Like Me](https://open.spotify.com/album/7tNL7ALKbrG7vJviGnFlPR) | 3:02 |
 
-Snapshot ID: `MCw4ZjBlZDkyOTQ3MmI3NWNjZjgyYmIxZjg5Njg5M2RkMTcwM2IyOWY2`
+Snapshot ID: `MCw0ZjFmZDcxNWMzMjM1MWMwNDdmYTI4MDQ4MWI4OTkxMDg2M2Q0ZGIw`

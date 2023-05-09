@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Yung Snapp, Lele Blade e Icy Subzero in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,230 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,332 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 54 | [SOUTH](https://open.spotify.com/track/0wEo8YvNfaUwLNZtOuB1uL) | [Kunta](https://open.spotify.com/artist/2yJDUGrAgtX7NyJ1RULAnX) | [SOUTH](https://open.spotify.com/album/3IPcLcBII4ZfNMwtCGMnJ7) | 2:27 |
 | 55 | [Dio nun c mann a nisciun](https://open.spotify.com/track/3JVHZwqC5nz9ikKg6nUjn6) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [Dio nun c mann a nisciun](https://open.spotify.com/album/0hrFrBtJAgdIAsFsn4NHhA) | 2:29 |
 
-Snapshot ID: `MCw1MWQwNzNlZTJhYTliZmRiOTA0YjgxODJkODFjYTE0ODBiNTI3YjA0`
+Snapshot ID: `MCw5ZjQ0ZGI5ZTMyODEyNjFkMTMzN2M5YmNkMWM5ZWU1YmEzNDZjMzY1`

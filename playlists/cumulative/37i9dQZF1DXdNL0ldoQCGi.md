@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-355 songs - 18 hr 5 min
+356 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2023-01-16 | 2023-03-08 |
 | [Peças De Griffe](https://open.spotify.com/track/2hu1nbvST1AFS7BNqjLK0W) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [Trap Funk Star](https://open.spotify.com/album/2NfhHzk0maDZ33cJbqZzHg) | 3:26 | 2022-09-19 | 2023-01-10 |
 | [Pique Neymar \(feat\. Nuzzin\)](https://open.spotify.com/track/1TPaI8n966Y2QbN1HmHpwi) | [MC WC](https://open.spotify.com/artist/3DPUP3myboFQenFoHxVhKE), [Nuzzin](https://open.spotify.com/artist/1g720jZovsxcInLaYCf7NF) | [Pique Neymar](https://open.spotify.com/album/3fNZW3QFIq8BdzyRdysST3) | 2:14 | 2022-11-28 | 2022-12-21 |
+| [Pitbull Enraivado](https://open.spotify.com/track/7jWEgucKOoKvzrV9dV2E3Q) | [Oh Polêmico](https://open.spotify.com/artist/6sFRadg88wiacDp0uIQ6VW) | [POLLY HITMADO](https://open.spotify.com/album/2iQVaMwqHCSOtQaWvALe80) | 4:11 | 2023-05-08 |  |
 | [PLAYGROUND](https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd) | [Vivi](https://open.spotify.com/artist/4UhPHvXjn0st73ksfh8DjU) | [PLAYGROUND](https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi) | 2:19 | 2022-12-19 |  |
 | [Please Don't Go \- Single Version](https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Do You Wanna Go Party](https://open.spotify.com/album/1VyflnFsIEfcxPj4JgM5QR) | 3:50 | 2022-09-28 | 2022-10-22 |
 | [POCKET ROCKET](https://open.spotify.com/track/1FKG2wgJ75wS9MFNVZFiWd) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [POCKET ROCKET](https://open.spotify.com/album/2wq6cnNKGy6tP5c5ow5Uo8) | 2:11 | 2022-05-25 | 2022-07-29 |

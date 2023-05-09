@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 299076,
       "name": "Athana Per Mathiyila",
       "url": "https://open.spotify.com/track/4W4SHHoCvygUFYOLiOAgfL"
@@ -5094,7 +5094,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 262285,
       "name": "Kan Moodudho",
       "url": "https://open.spotify.com/track/2uIBoGulmh41LvW1kLn1tt"
@@ -7318,7 +7318,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 209449,
       "name": "Megham",
       "url": "https://open.spotify.com/track/2GVzulbmUb2sIFZbLwZ8SX"
@@ -8662,6 +8662,32 @@
       "duration_ms": 233709,
       "name": "Nila Mugam",
       "url": "https://open.spotify.com/track/0Ov9nKu1EY14LKeGpWAJBV"
+    },
+    {
+      "album": {
+        "name": "Virupaksha (Tamil) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6FmAgRnUydRARGfjXXCIfe"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229175,
+      "name": "Nila Nila Nerupil",
+      "url": "https://open.spotify.com/track/0kyKDRAnQuygg8DZOjsvz3"
     },
     {
       "album": {
@@ -10488,7 +10514,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 243491,
       "name": "Raavana Kottathula",
       "url": "https://open.spotify.com/track/5NlrcQ395izF94hWVHVID9"
@@ -11379,6 +11405,28 @@
     },
     {
       "album": {
+        "name": "Sevvandhi Poove (From \"Karumegangal Kalaigindrana\")",
+        "url": "https://open.spotify.com/album/49eAXNq9xrRNhcnqIvmdUF"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sathyaprakash",
+          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341785,
+      "name": "Sevvandhi Poove (From \"Karumegangal Kalaigindrana\")",
+      "url": "https://open.spotify.com/track/62HBorbLoTxmKYKPYNNLln"
+    },
+    {
+      "album": {
         "name": "Sindhi Chidhari (From \"Kadhal Conditions Apply\") - Single",
         "url": "https://open.spotify.com/album/0LAwEU8f70cJsgb0h0DujE"
       },
@@ -11610,6 +11658,28 @@
       "duration_ms": 134204,
       "name": "Sol (From \"Ponniyin Selvan Part-1\")",
       "url": "https://open.spotify.com/track/0XosgadxA79fBBV6meKDAs"
+    },
+    {
+      "album": {
+        "name": "Virupaksha (Tamil) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6FmAgRnUydRARGfjXXCIfe"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Sai Vignesh",
+          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224504,
+      "name": "Sollamale Sollamale",
+      "url": "https://open.spotify.com/track/6sXYxRbQmvbaGQaE3a9nJr"
     },
     {
       "album": {
@@ -11863,6 +11933,28 @@
     },
     {
       "album": {
+        "name": "Karumegangal Kalaigindrana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76ZQ1xtnX0WrlJwAOHfpmD"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296923,
+      "name": "Suththamulla Nenjam",
+      "url": "https://open.spotify.com/track/1bq1ED8i3NliwO06EE7hqi"
+    },
+    {
+      "album": {
         "name": "Suthura Boomi (From \"Varalaru Mukkiyam\") - Single",
         "url": "https://open.spotify.com/album/5XBoZwVxNnvBvIiBYEVLB9"
       },
@@ -11908,6 +12000,32 @@
       "duration_ms": 175365,
       "name": "Swasamae - From \"O2\"",
       "url": "https://open.spotify.com/track/4HcfZtzCyUpSHiFSab9oU2"
+    },
+    {
+      "album": {
+        "name": "Tea Kadai Veettile Ponnu (From \"Oda Vittu Sudalama\")",
+        "url": "https://open.spotify.com/album/1pVPFSPU1wLKUWxCNSkqQD"
+      },
+      "artists": [
+        {
+          "name": "Rijosh V.A",
+          "url": "https://open.spotify.com/artist/784kEFmgRX35NLoZIlO3Em"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Vineeth Mohan",
+          "url": "https://open.spotify.com/artist/3MXLnqP3OMYJB2Y9q4458I"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Tea Kadai Veettile Ponnu - From \"Oda Vittu Sudalama\"",
+      "url": "https://open.spotify.com/track/6YEXl57UOeAKepuAwKl1Cv"
     },
     {
       "album": {
@@ -15048,7 +15166,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 269369,
       "name": "Yele Yele",
       "url": "https://open.spotify.com/track/4T4TpaDw2tCeeUTMTd67IX"

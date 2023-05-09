@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best new music by independent artists and labels\. Updates every Wednesday\. Cover: MERŌN
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,112 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,144 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 99 | [Better Than the Boys](https://open.spotify.com/track/7GLpR7N8nD4yOmcDBx8rhx) | [Véyah](https://open.spotify.com/artist/3mBrMbg5lTkD2qv3Ft5o63) | [Better Than the Boys](https://open.spotify.com/album/5TAaro0o1fagEEBHhF9DmH) | 2:34 |
 | 100 | [Anything With You](https://open.spotify.com/track/2ltmosY3NkVRwt0RPOmynA) | [KASSEO](https://open.spotify.com/artist/76UKhIGvZtS7jjb1muDTUM) | [Anything With You](https://open.spotify.com/album/0x5njTr5rYoAbN0vhqR9fE) | 3:23 |
 
-Snapshot ID: `MCxjMTM4MjdhODY3MmYxOTlkMWEyZWYzY2UzZjY1OWY0MmU5MDUzYTk4`
+Snapshot ID: `MCwxMzg0YzU3ZDU2M2YwYTJmNmQ3ODE2NmI5MzgzNmI3Yzk4NjMyNDA3`

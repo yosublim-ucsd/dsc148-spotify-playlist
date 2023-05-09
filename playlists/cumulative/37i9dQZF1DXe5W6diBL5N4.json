@@ -23955,6 +23955,24 @@
     },
     {
       "album": {
+        "name": "PYGMALION",
+        "url": "https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "ERASE ME",
+      "url": "https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB"
+    },
+    {
+      "album": {
         "name": "erase my makeup",
         "url": "https://open.spotify.com/album/5ABWXUlaUvvgnTyOD13bga"
       },
@@ -75073,6 +75091,24 @@
     },
     {
       "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
         "name": "SPOTLIGHT",
         "url": "https://open.spotify.com/album/1eaaj3WRvBrBBASbVc3d4L"
       },
@@ -79759,6 +79795,24 @@
     },
     {
       "album": {
+        "name": "TAKE OFF",
+        "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167533,
+      "name": "Tantara",
+      "url": "https://open.spotify.com/track/07yTrKM5LJmKFfLyASA7O8"
+    },
+    {
+      "album": {
         "name": "Tantara",
         "url": "https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB"
       },
@@ -79770,7 +79824,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 167533,
       "name": "Tantara",
       "url": "https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0"

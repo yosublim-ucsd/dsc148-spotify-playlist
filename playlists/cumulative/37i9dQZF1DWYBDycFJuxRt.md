@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: DURDN \*👉 <a href="https://spice.eplus.jp/articles/317879?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-1,254 songs - 3 day 4 hr 14 min
+1,255 songs - 3 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Let's go down the street](https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [Let's go down the street](https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U) | 4:04 | 2023-03-21 | 2023-03-29 |
 | [Levia](https://open.spotify.com/track/3IGhQg2Kto8vFgj3cTVyNL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/0FEsV9OkvUAEie5BZEUkU7) | 4:28 | 2023-02-22 | 2023-03-01 |
 | [Levia](https://open.spotify.com/track/4MWgA0WnupVRiZNtdY64bL) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [鳳小岳](https://open.spotify.com/artist/3pr7TMfQrob0tDAfN3UeUh) | [Levia](https://open.spotify.com/album/5UFVnvpUGMZbms0f4hoGLo) | 4:28 | 2023-02-21 | 2023-02-23 |
+| [LIFE](https://open.spotify.com/track/6MUttdHjSIRbvZaEIvhOdv) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [LIFE](https://open.spotify.com/album/5Z0CKSYN5pXSYWdRUcWVoZ) | 3:19 | 2023-05-03 |  |
 | [Life is Art !](https://open.spotify.com/track/0oaCwrovpVWoijVhqV3FQ9) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Paint Like a Child](https://open.spotify.com/album/1mOLA2DZpudlI6jwQWwUP5) | 4:07 | 2023-03-21 | 2023-03-29 |
 | [LIFE IS WONDER](https://open.spotify.com/track/1g6J49uyIrlReC7ZyEGp1o) | [FNCY](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL) | [LIFE IS WONDER](https://open.spotify.com/album/5jSTeWNodobXSA4l1rnFG2) | 4:07 | 2023-03-07 | 2023-03-09 |
 | [LIFE IS WONDER](https://open.spotify.com/track/4i9qckw4bY5dD4E5ry29iw) | [FNCY](https://open.spotify.com/artist/1ii9VZ3CKfTvlEZSoCFVvL) | [LIFE IS WONDER](https://open.spotify.com/album/3Sdpc32kVdyFT1T7aAbwjL) | 4:07 | 2023-03-08 | 2023-03-15 |

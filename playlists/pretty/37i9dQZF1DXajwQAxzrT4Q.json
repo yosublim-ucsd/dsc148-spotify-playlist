@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 51203,
+  "num_followers": 51327,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWNhYThiNzQ5YTE0YzFlMTE4NDhmMzdiMDIyOTQxODRiNDA2NDQ4",
+  "snapshot_id": "MCwwYWUwNjc1NmJhN2RiNzgxMTEwNDVlOThhNzdlMjEyNTYzN2E0MDgz",
   "tracks": [
     {
       "added_at": "2023-04-27 21:18:57",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
         "name": "Vibe (If I Back It Up)",
         "url": "https://open.spotify.com/album/6oJ0HiLrr0wWLz9IUJf4w0"
       },
@@ -511,38 +527,6 @@
       "duration_ms": 139017,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 243227,
-      "name": "Sticky",
-      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -595,6 +579,22 @@
       "duration_ms": 184058,
       "name": "make it jump - Jersey Club Remix",
       "url": "https://open.spotify.com/track/2b3oftUheFa8YngoIiuf1a"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/0C6ShwHWvn4JyvcJc1LjbS"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
-        "name": "We Are Young (Jersey Club)",
-        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
-      },
-      "artists": [
-        {
-          "name": "Kyle Edwards",
-          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
-        },
-        {
-          "name": "DJ Smallz 732",
-          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
-        }
-      ],
-      "duration_ms": 109124,
-      "name": "We Are Young (Jersey Club)",
-      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
         "name": "miles",
         "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 162196,
       "name": "miles (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
+        "name": "We Are Young (Jersey Club)",
+        "url": "https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj"
+      },
+      "artists": [
+        {
+          "name": "Kyle Edwards",
+          "url": "https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "duration_ms": 109124,
+      "name": "We Are Young (Jersey Club)",
+      "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -719,6 +719,26 @@
       "duration_ms": 160975,
       "name": "Shake Dhat",
       "url": "https://open.spotify.com/track/5UESpuA78cd0mYIdu7CKq4"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
+        "name": "Club Godfather",
+        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
+      },
+      "artists": [
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "PIANO (feat. Lay Bankz)",
+      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -755,26 +775,6 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
-        "name": "Club Godfather",
-        "url": "https://open.spotify.com/album/76B56iUllijLjhuH7XFqBi"
-      },
-      "artists": [
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        },
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "PIANO (feat. Lay Bankz)",
-      "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
         "name": "Honesty (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 130612,
       "name": "Honesty - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1vBluRXN20JZBMA4G7oe7w"
-    },
-    {
-      "added_at": "2023-04-27 21:18:57",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -871,6 +855,22 @@
       "duration_ms": 116800,
       "name": "Candy",
       "url": "https://open.spotify.com/track/5XRBpyoHqvWl6sB5vIocwn"
+    },
+    {
+      "added_at": "2023-04-27 21:18:57",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
     },
     {
       "added_at": "2023-04-27 21:18:57",
@@ -951,22 +951,18 @@
     {
       "added_at": "2023-04-27 21:18:57",
       "album": {
-        "name": "say im ur luv (Jumbo Sounds Remix)",
-        "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
+        "name": "Ziggy Reloaded II",
+        "url": "https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil"
       },
       "artists": [
         {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "Jumbo Sounds",
-          "url": "https://open.spotify.com/artist/1DLHhMWrKCOBuR0Svpw3Hq"
+          "name": "Ziggy",
+          "url": "https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG"
         }
       ],
-      "duration_ms": 137032,
-      "name": "say im ur luv - Jumbo Sounds Remix",
-      "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
+      "duration_ms": 102187,
+      "name": "Look Back It (Club Mix)",
+      "url": "https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa"
     }
   ],
   "unique_name": "Jersey Club Heat",

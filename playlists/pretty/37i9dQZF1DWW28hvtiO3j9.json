@@ -1,12 +1,12 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 106533,
+  "num_followers": 106658,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTA0OWZkZjVmMjBiMDk5ZGFjMDdjZmM5Y2NkZjA0Yjc0Yzc5ODQz",
+  "snapshot_id": "MCxjMTY2Zjc0MGI1ZTE5MmI1NzI0ZTMxMGY0MDYyZGY0NmM4MTEyOWNi",
   "tracks": [
     {
       "added_at": "2023-03-21 15:00:00",
@@ -155,18 +155,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Heaven Beach",
-        "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6"
       },
       "artists": [
         {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        },
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
         }
       ],
-      "duration_ms": 299680,
-      "name": "Last Summer Whisper",
-      "url": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"
+      "duration_ms": 241253,
+      "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
+      "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -251,8 +255,8 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Timely!!",
-        "url": "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV"
+        "name": "Heaven Beach",
+        "url": "https://open.spotify.com/album/74XLaVRIeHY51nuXcC5RuS"
       },
       "artists": [
         {
@@ -260,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 246693,
-      "name": "WINDY SUMMER",
-      "url": "https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj"
+      "duration_ms": 299680,
+      "name": "Last Summer Whisper",
+      "url": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -347,22 +351,18 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6"
+        "name": "Timely!!",
+        "url": "https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV"
       },
       "artists": [
         {
-          "name": "S. Kiyotaka & Omega Tribe",
-          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
-        },
-        {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
         }
       ],
-      "duration_ms": 241253,
-      "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
-      "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
+      "duration_ms": 246693,
+      "name": "WINDY SUMMER",
+      "url": "https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "Bi\u30fbKi\u30fbNi",
-        "url": "https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT"
-      },
-      "artists": [
-        {
-          "name": "Anri",
-          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Good Bye Boogie Dance",
-      "url": "https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "REQUEST (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4IjRikscB01fLT0BtKT5g5"
       },
@@ -411,6 +395,26 @@
       "duration_ms": 318306,
       "name": "OH NO,OH YES!",
       "url": "https://open.spotify.com/track/7hT9QzdqxxoWB0JtCGuCnD"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "Another Summer",
+        "url": "https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB"
+      },
+      "artists": [
+        {
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        },
+        {
+          "name": "Kiyotaka Sugiyama",
+          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Dear Breeze",
+      "url": "https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -479,6 +483,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "Bi\u30fbKi\u30fbNi",
+        "url": "https://open.spotify.com/album/2ygK2uxtgO5sTZFs3ye1GT"
+      },
+      "artists": [
+        {
+          "name": "Anri",
+          "url": "https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Good Bye Boogie Dance",
+      "url": "https://open.spotify.com/track/5LZja1KAke25BqjsidAcsq"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "DOWN TOWN",
         "url": "https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 254213,
       "name": "DOWN TOWN",
       "url": "https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "Another Summer",
-        "url": "https://open.spotify.com/album/1ZluSoV6IVEiQxEfrnIYBB"
-      },
-      "artists": [
-        {
-          "name": "S. Kiyotaka & Omega Tribe",
-          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
-        },
-        {
-          "name": "Kiyotaka Sugiyama",
-          "url": "https://open.spotify.com/artist/5Zc8dRhik5WK1nxjzcqwfC"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Dear Breeze",
-      "url": "https://open.spotify.com/track/0DCzMvkONMvWDiOtVzyRUX"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
+        "name": "A LONG VACATION",
+        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        }
+      ],
+      "duration_ms": 266480,
+      "name": "\u96e8\u306e\u30a6\u30a7\u30f3\u30ba\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
         "name": "Yokohama Ragtime",
         "url": "https://open.spotify.com/album/7qjft00dDfIB21CxjCGjiJ"
       },
@@ -723,38 +739,6 @@
       "duration_ms": 278160,
       "name": "Ocean Side",
       "url": "https://open.spotify.com/track/6eyiIH5DfjHkqRQMZvdLUV"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "A LONG VACATION",
-        "url": "https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
-        }
-      ],
-      "duration_ms": 266480,
-      "name": "\u96e8\u306e\u30a6\u30a7\u30f3\u30ba\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
-        "name": "LIGHT'N UP",
-        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
-      },
-      "artists": [
-        {
-          "name": "Minako Yoshida",
-          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
-        }
-      ],
-      "duration_ms": 348240,
-      "name": "LIGHT'N UP",
-      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
     },
     {
       "added_at": "2023-03-21 15:00:00",
@@ -799,6 +783,22 @@
       "duration_ms": 266760,
       "name": "GATSBY WOMAN",
       "url": "https://open.spotify.com/track/4O02HMxIxGLptYi4ngd0es"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "LIGHT'N UP",
+        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "duration_ms": 348240,
+      "name": "LIGHT'N UP",
+      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
     },
     {
       "added_at": "2023-03-21 15:00:00",

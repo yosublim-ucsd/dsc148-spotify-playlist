@@ -375,6 +375,24 @@
     },
     {
       "album": {
+        "name": "Shelflife 8",
+        "url": "https://open.spotify.com/album/5Dmlbeex41aQxfSKKMVHn3"
+      },
+      "artists": [
+        {
+          "name": "Calibre",
+          "url": "https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333511,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/1hYilXtoru2HU5WFC4c6Hb"
+    },
+    {
+      "album": {
         "name": "Her Room",
         "url": "https://open.spotify.com/album/7MvGTXzbm57VVFMPdOsoQs"
       },

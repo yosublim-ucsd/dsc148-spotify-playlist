@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: The Chairs \(Taiwan\)
 
-760 songs - 1 day 21 hr 36 min
+761 songs - 1 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [A Place to Belong](https://open.spotify.com/track/4lun8QvR4sKXK1undQgIr7) | [Rifan Kalbuadi](https://open.spotify.com/artist/6dO5K9GKFs1yW4fHZLI3ys) | [A Place to Belong](https://open.spotify.com/album/14EI3GUx9auJPVLWh612jE) | 3:58 | 2022-12-15 | 2023-01-27 |
 | [A Thousand Miles](https://open.spotify.com/track/6TtYOU0GiN4PkN9oCvMvLx) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [A Thousand Miles](https://open.spotify.com/album/3E1GIabiOGaJDlHkX0iX4D) | 3:38 | 2023-04-13 | 2023-04-27 |
 | [A.Y.A](https://open.spotify.com/track/69JDZpQd5oHd0BVUh0RDCO) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [A.Y.A](https://open.spotify.com/album/6Ay96Z1STLD5A6pXo9Qudu) | 3:40 | 2023-02-16 | 2023-04-14 |
-| [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 | 2023-03-23 |  |
+| [A380](https://open.spotify.com/track/3To0tYY3XbAHcLFZPPmGSJ) | [COPAK](https://open.spotify.com/artist/1sHepQ4XjdF9ReWrHFAQTo), [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [A380](https://open.spotify.com/album/0fmZgp45c7GHciuETUBiEN) | 3:38 | 2023-03-23 | 2023-05-09 |
 | [Abeokuta](https://open.spotify.com/track/3nqujATHQsyEg104eXcaNI) | [Ki!](https://open.spotify.com/artist/68ZbJ6NBdeGlDRxv3jM0DP) | [The Boy from Haeundae Beach](https://open.spotify.com/album/4xcpRLcCpNEcAzPyR5GIHO) | 4:13 | 2022-11-17 | 2023-01-20 |
 | [Afterglow](https://open.spotify.com/track/38wNASXJl6tNRoVFpnctt9) | [Oakë](https://open.spotify.com/artist/5FFEE3urupCaWwOzfAfV4I) | [Afterglow](https://open.spotify.com/album/44WOydQRUhz1JihfRZT6Zi) | 3:29 | 2023-02-16 | 2023-03-10 |
 | [Afterglows](https://open.spotify.com/track/7l5PXeGa7zA8uHGVmnEZk0) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Afterglows](https://open.spotify.com/album/4rITnQeJvDzwZ4nhvFeCtv) | 5:27 | 2023-01-19 | 2023-02-24 |
@@ -679,6 +679,7 @@
 | [Wings](https://open.spotify.com/track/4XQnhcwRPRmGG4E6PakLMb) | [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Wings](https://open.spotify.com/album/1BzkLEFlQ4JQWUFWZrNIvC) | 3:15 | 2023-04-20 |  |
 | [Wintertime Is Over](https://open.spotify.com/track/6hAWz1CnpMd8a7JmkJiigT) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [ANT](https://open.spotify.com/artist/64ZqV2zqmap4c0HqxzAoYv) | [Wintertime Is Over](https://open.spotify.com/album/0MzjNHWmx9BwvnK0WOVOiY) | 3:09 | 2022-06-16 | 2022-07-22 |
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-09-22 | 2022-11-11 |
+| [Witches](https://open.spotify.com/track/4qTlJH6ZM4sUX39EB9VMFy) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3TymUlSYZsMS09A5NnY7Hc) | 3:51 | 2023-05-04 |  |
 | [Witches](https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g) | [Dreams](https://open.spotify.com/album/3gGYHCVl2KuIIk4iyDO81f) | 3:51 | 2022-05-12 | 2023-05-01 |
 | [Without You](https://open.spotify.com/track/113Vwa5fSdTwJJBDOn3McO) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Without You](https://open.spotify.com/album/2U4g8xgfPganstzWsCdm1b) | 3:38 | 2023-02-09 | 2023-04-01 |
 | [Wondrous](https://open.spotify.com/track/15PfU6ksL3o8ai3vVwcRuP) | [PENPRAPA](https://open.spotify.com/artist/4ZF777onMoSRG9Sf2tQDuU) | [Tryna make you smile](https://open.spotify.com/album/5Ab8nlraCKo5jVsKzDzaam) | 3:14 | 2023-02-16 | 2023-03-18 |

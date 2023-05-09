@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-167 songs - 8 hr 53 min
+168 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Mr Brightside \- Acoustic](https://open.spotify.com/track/5RO37qUgxkXi6OgzuFBgFu) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Mr Brightside \(Acoustic\)](https://open.spotify.com/album/5YwjHP3v74JIE4WZslG9hV) | 3:39 | 2020-03-16 |  |
 | [My Girl \- Acoustic](https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [My Girl \(Acoustic\)](https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY) | 3:00 | 2021-08-05 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2019-10-13 |  |
+| [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ) | 2:23 | 2023-05-06 |  |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/7JBJOztWePfdwXFURgC5Hn) | [Callum J Wright](https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/5dZh5PIzdaAL64XhWuwDV4) | 2:43 | 2023-02-10 |  |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/5pogDdn3JuddF2kkYXRJKb) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/75BcA0fgNTUDn9USI0VsYO) | 3:01 | 2022-06-03 | 2023-02-28 |
 | [Never Too Much \- Acoustic](https://open.spotify.com/track/1MVsvA4KgABP84K4yymwL1) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Never Too Much \(Acoustic\)](https://open.spotify.com/album/2vMJzstrV9NINEBu05fJMR) | 2:32 | 2022-07-02 | 2023-02-02 |

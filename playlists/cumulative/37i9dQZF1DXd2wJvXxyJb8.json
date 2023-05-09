@@ -2457,6 +2457,28 @@
     },
     {
       "album": {
+        "name": "Galopeira",
+        "url": "https://open.spotify.com/album/2v6Sz9UJQYq7EFy2gSoiJF"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "THEUZ ZL",
+          "url": "https://open.spotify.com/artist/0sf2x76J3BWkY9mIgFX2Lz"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240995,
+      "name": "Galopeira",
+      "url": "https://open.spotify.com/track/1Kb2zOLd3ua8kiiEtc82DE"
+    },
+    {
+      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK"
       },
@@ -2746,6 +2768,32 @@
       "duration_ms": 144138,
       "name": "Juliet E Chapel\u00e3o (Ao Vivo)",
       "url": "https://open.spotify.com/track/46oPxSyS5ZZLg0EbqsKW4x"
+    },
+    {
+      "album": {
+        "name": "J\u00e1 Ouviu Aquele Ditado",
+        "url": "https://open.spotify.com/album/0Vplc3s8GLCHdJHlBbo9Ru"
+      },
+      "artists": [
+        {
+          "name": "MC Fefe Da ZL",
+          "url": "https://open.spotify.com/artist/1SMznDhRBFnnUWJvFWXJgQ"
+        },
+        {
+          "name": "MC MN",
+          "url": "https://open.spotify.com/artist/4hV3aU0WKvFaiX5ugXP5hp"
+        },
+        {
+          "name": "DJ NOVATO",
+          "url": "https://open.spotify.com/artist/3Hdc7swmjddSFP8ZQavm43"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119182,
+      "name": "J\u00e1 Ouviu Aquele Ditado",
+      "url": "https://open.spotify.com/track/2vJCtLLG01jUOtM5p6CTtY"
     },
     {
       "album": {
@@ -4554,6 +4602,24 @@
       "duration_ms": 162461,
       "name": "Putariazinha",
       "url": "https://open.spotify.com/track/7JaxdBtSfqGGNyZEjGtSrg"
+    },
+    {
+      "album": {
+        "name": "QUE EU VOU TE BOTAR",
+        "url": "https://open.spotify.com/album/5fUkvbwQFcdsOHtEd1IkC3"
+      },
+      "artists": [
+        {
+          "name": "DJ JO\u00c3O PEREIRA",
+          "url": "https://open.spotify.com/artist/1tPQcKxMrvf09Ry8zk68gt"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136672,
+      "name": "QUE EU VOU TE BOTAR",
+      "url": "https://open.spotify.com/track/5KeRe32bIOU5rUa2MBzJnW"
     },
     {
       "album": {

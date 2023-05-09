@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: BENEE & Gus Dapperton
 
-1,631 songs - 3 day 11 hr 0 min
+1,632 songs - 3 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Caught Me a Rhythm](https://open.spotify.com/track/2J9wvPoaUMb9H7lmTgrZ3P) | [Viceroy](https://open.spotify.com/artist/5PzC9pOeviQlNF6iGlUF5C), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Caught Me a Rhythm](https://open.spotify.com/album/1AIsA7xPXGzPtTare72To6) | 3:18 | 2019-05-26\* | 2019-08-13 |
 | [cbb to b sad](https://open.spotify.com/track/6X8lrdPxnChWtIOpLK9vQ1) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [cbb to b sad](https://open.spotify.com/album/3LM0hAxLc8XAo2LQecLjcg) | 4:28 | 2021-08-13 | 2022-01-29 |
 | [Cdbaby<3](https://open.spotify.com/track/3YK3HLHO3srCfx8nJZjD89) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Cdbaby<3](https://open.spotify.com/album/3WHzz4ZNuKHGZLoQoJsq7V) | 2:42 | 2022-09-16 | 2022-10-08 |
+| [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 | 2023-05-05 |  |
 | [Cellophane](https://open.spotify.com/track/1LlpkuY6GTy6vBoh50ZbMs) | [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Cellophane](https://open.spotify.com/album/1Te4KAgshBCIik3JbxVHsu) | 2:39 | 2022-07-15 | 2022-07-29 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-01-14 | 2022-02-06 |
 | [Chameleon](https://open.spotify.com/track/4DuwypY8jTcKOT88WDYX3P) | [INViDA](https://open.spotify.com/artist/23ShYrOhu7gvdxz5NcIQx5), [Muza](https://open.spotify.com/artist/79jA5f2Sa3pgRT0ZTtYplo), [Juliette Reilly](https://open.spotify.com/artist/2HR1xMXsvA2zBfiiADeZo7) | [Chameleon](https://open.spotify.com/album/2E9wcd2LJ5mOWdsSmOrmiN) | 3:36 | 2019-06-27 | 2020-03-23 |
@@ -1601,7 +1602,7 @@
 | [Wild Girl](https://open.spotify.com/track/1suUAVuyZp8e2FY08XlZtK) | [Francisco Martin](https://open.spotify.com/artist/1L0Ma0IvvAlshDIUBxoOGE) | [Wild Girl](https://open.spotify.com/album/4RpMLn8j9XgfaHVdCGS8Ve) | 4:45 | 2021-03-02 | 2022-01-08 |
 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 | 2019-09-27 | 2021-03-19 |
 | [Wild Girls](https://open.spotify.com/track/5y4x94092ALbFl8aik6rew) | [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Wild Girls](https://open.spotify.com/album/1B9ub31GGcISelMWoubJrB) | 2:29 | 2022-09-09 | 2022-10-01 |
-| [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-22 |  |
+| [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 | 2023-04-22 | 2023-05-09 |
 | [wildfire](https://open.spotify.com/track/1mrPG8snf4maJMoM4Ec8Ag) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 2:43 | 2019-05-26\* | 2019-08-13 |
 | [Win](https://open.spotify.com/track/632CutbxIbe3zwr0Pg5oFK) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [What Do You Like In Me](https://open.spotify.com/album/56pGforwuUa5IegFeMqVru) | 2:44 | 2021-03-10 | 2021-08-20 |
 | [Window](https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Window](https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR) | 2:19 | 2021-01-25 | 2022-10-29 |

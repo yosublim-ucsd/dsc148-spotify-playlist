@@ -2,7 +2,7 @@
 
 ### [Disney Princess](https://open.spotify.com/playlist/37i9dQZF1DX9fDcF6S4tuJ)
 
-> Listen to all your favorite Disney Princess and Frozen songs during Disney’s Ultimate Princess Celebration.
+> Listen to all your favorite Disney Princess songs including songs from The Little Mermaid.
 
 56 songs - 2 hr 37 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Viraal gaan is ook gaan! Cover: Heuss L'enfoir\u00e9 & Jul\n",
-  "num_followers": 11808,
+  "num_followers": 11847,
   "original_name": "Viral Hits NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmUxNGYxN2U4MTU2MWQyMDk1NDllYzQyMGM3OWI4Mzg2ZWU2MzVj",
+  "snapshot_id": "MCxlMzc3ZTI1ZGU1OWRiZWE0NzU2ZWFkMzAzNjBiNjkxMDQ0YTMzODAw",
   "tracks": [
     {
       "added_at": "2023-05-04 17:04:17",
@@ -67,22 +67,6 @@
     {
       "added_at": "2023-05-04 17:04:17",
       "album": {
-        "name": "Chasing Highs",
-        "url": "https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP"
-      },
-      "artists": [
-        {
-          "name": "ALMA",
-          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
-        }
-      ],
-      "duration_ms": 195678,
-      "name": "Chasing Highs",
-      "url": "https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi"
-    },
-    {
-      "added_at": "2023-05-04 17:04:17",
-      "album": {
         "name": "All Eyez On Me (Gangsta Remix)",
         "url": "https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS"
       },
@@ -99,6 +83,26 @@
       "duration_ms": 165557,
       "name": "All Eyez On Me - Gangsta Remix",
       "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
+    },
+    {
+      "added_at": "2023-05-04 17:04:17",
+      "album": {
+        "name": "Bunda",
+        "url": "https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1"
+      },
+      "artists": [
+        {
+          "name": "Bram Krikke",
+          "url": "https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk"
+        },
+        {
+          "name": "Pieter Valley",
+          "url": "https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k"
+        }
+      ],
+      "duration_ms": 103972,
+      "name": "Bunda",
+      "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
     },
     {
       "added_at": "2023-05-04 17:04:17",
@@ -155,6 +159,62 @@
     {
       "added_at": "2023-05-04 17:04:17",
       "album": {
+        "name": "Past Lives",
+        "url": "https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8"
+      },
+      "artists": [
+        {
+          "name": "Farizki",
+          "url": "https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui"
+        }
+      ],
+      "duration_ms": 153170,
+      "name": "Past Lives",
+      "url": "https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj"
+    },
+    {
+      "added_at": "2023-05-04 17:04:17",
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
+    },
+    {
+      "added_at": "2023-05-04 17:04:17",
+      "album": {
+        "name": "Chasing Highs",
+        "url": "https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "duration_ms": 195678,
+      "name": "Chasing Highs",
+      "url": "https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi"
+    },
+    {
+      "added_at": "2023-05-04 17:04:17",
+      "album": {
         "name": "Het Beste Van: De Paladijns",
         "url": "https://open.spotify.com/album/7m9P64LLeRpFAObUwWrHhj"
       },
@@ -167,26 +227,6 @@
       "duration_ms": 186565,
       "name": "Jouw Liefste Wens",
       "url": "https://open.spotify.com/track/75KLtwkL3536HI37ko5A1c"
-    },
-    {
-      "added_at": "2023-05-04 17:04:17",
-      "album": {
-        "name": "Bunda",
-        "url": "https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1"
-      },
-      "artists": [
-        {
-          "name": "Bram Krikke",
-          "url": "https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk"
-        },
-        {
-          "name": "Pieter Valley",
-          "url": "https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k"
-        }
-      ],
-      "duration_ms": 103972,
-      "name": "Bunda",
-      "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
     },
     {
       "added_at": "2023-05-04 17:04:17",
@@ -595,22 +635,6 @@
     {
       "added_at": "2023-05-04 17:04:17",
       "album": {
-        "name": "Past Lives",
-        "url": "https://open.spotify.com/album/4mtlhZ8dDdNnXCFu5AzFv8"
-      },
-      "artists": [
-        {
-          "name": "Farizki",
-          "url": "https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui"
-        }
-      ],
-      "duration_ms": 153170,
-      "name": "Past Lives",
-      "url": "https://open.spotify.com/track/5kZtNsNOOm3Dp5pClPUEhj"
-    },
-    {
-      "added_at": "2023-05-04 17:04:17",
-      "album": {
         "name": "House of Pain (Fine Malt Lyrics)",
         "url": "https://open.spotify.com/album/0hWY4eSi2bZ8tWplgjO0ph"
       },
@@ -711,30 +735,6 @@
       "duration_ms": 185597,
       "name": "Flip A Switch. - Sped Up",
       "url": "https://open.spotify.com/track/0KGheDVtZf0HJNW44w792d"
-    },
-    {
-      "added_at": "2023-05-04 17:04:17",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     },
     {
       "added_at": "2023-05-04 17:04:17",

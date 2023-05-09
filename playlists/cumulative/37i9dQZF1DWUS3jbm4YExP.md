@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-534 songs - 1 day 15 hr 10 min
+535 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [I Can't Get Along Without You](https://open.spotify.com/track/0cIfVZj2lGNM4yNcQqF7te) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/2O3dAHww2VONqi9uFhBjzZ) | 6:40 | 2021-10-06 | 2023-04-16 |
 | [I Can't Get Along Without You](https://open.spotify.com/track/6mHUnQi6NWf1bq2f9GIbH5) | [Vance and Suzzanne](https://open.spotify.com/artist/6aoquwjUxOgIVS9nVLZxEe) | [I Can't Get Along Without You](https://open.spotify.com/album/3pSn6zXL2iV5pKBiVaFoel) | 6:40 | 2021-10-06 | 2022-07-20 |
 | [I Like It \(Don't Stop\)](https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9) | [Maxwell Udoh](https://open.spotify.com/artist/7sBObaY7xVN3bDVU9AW8O9) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 6:30 | 2021-10-06 | 2023-03-23 |
+| [I'd Rather Go Blind](https://open.spotify.com/track/0QTDCY85qljLPKHoekvrVL) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/6exNhKZyY5D4KOqSVJk0mx) | 3:33 | 2022-03-29 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/438vUZj0qwC0zM4HMF3trH) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Daptone Records Singles Collection: Volume 5](https://open.spotify.com/album/7DeXMePPzsB5ztt4CrZGAV) | 3:33 | 2022-03-29 | 2023-04-30 |
 | [I'm Gonna Make It](https://open.spotify.com/track/5oeL6Qnnlg4x789IMHQyl3) | [Gloria Jay](https://open.spotify.com/artist/6nF6ebJ5QfmyhqAfvo2mBG) | [Know What You Want](https://open.spotify.com/album/3SCzrlw8MWQzZxcGhG8moB) | 2:59 | 2021-10-06 | 2022-09-04 |
 | [I've Got Soul](https://open.spotify.com/track/1X4uGqysoMUdiX1yfWdwMT) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [David Marez](https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq) | [I've Got Soul](https://open.spotify.com/album/5kQf8G6z3pRu1Zd10oJ99Z) | 3:29 | 2021-10-06 | 2022-07-29 |
@@ -455,7 +456,7 @@
 | [Su Sızıyor](https://open.spotify.com/track/3kU6hohnnkNNk0tQCZubKk) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Su Sızıyor](https://open.spotify.com/album/0eVvTt2KZztpxztS0JvgMd) | 4:04 | 2023-03-29 | 2023-04-03 |
 | [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 |  |
 | [Suburban Breeze](https://open.spotify.com/track/5zz75fDAvsJj7e63D5iMyY) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Suburban Breeze](https://open.spotify.com/album/3fmEXZmMuAdvDGXqfRPeq9) | 2:07 | 2022-08-31 | 2022-11-04 |
-| [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2021-10-06 |  |
+| [Sun Khosi](https://open.spotify.com/track/0TFR4fugISTa7kMxqY6JJj) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/1MZqnwoL3zZjYWSSgGJ3Cb) | 3:56 | 2021-10-06 | 2023-05-09 |
 | [Sun Khosi](https://open.spotify.com/track/5jY2fC4kHyTwFfThR7CFTh) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Sun Khosi](https://open.spotify.com/album/5NgVPG2bQoy2wlGTFZZdRV) | 3:56 | 2021-10-06 | 2022-06-24 |
 | [Sunset Sound](https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [The Return of…](https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA) | 3:44 | 2021-10-06 | 2022-07-29 |
 | [Suro Nipa](https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [The Zongo Brigade](https://open.spotify.com/artist/0smAHgNDEZESnCeJmPkWAd) | [Wahala Wahala](https://open.spotify.com/album/1tFmkdeVZL0epm6ma8GWwx) | 6:01 | 2021-10-06 |  |

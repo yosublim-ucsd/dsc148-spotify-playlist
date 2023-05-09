@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Horror Vacui",
+        "url": "https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC"
+      },
+      "artists": [
+        {
+          "name": "Selma Savolainen",
+          "url": "https://open.spotify.com/artist/6TevDwYMUhsBwWNugUModU"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216840,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7"
+    },
+    {
+      "album": {
         "name": "Hiljainen",
         "url": "https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3"
       },
@@ -2310,6 +2328,36 @@
       "duration_ms": 340706,
       "name": "Veden alla - 2023",
       "url": "https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM"
+    },
+    {
+      "album": {
+        "name": "Wallbreaker",
+        "url": "https://open.spotify.com/album/1q8qoE8xtbEML7WnO5qAzW"
+      },
+      "artists": [
+        {
+          "name": "TRI-",
+          "url": "https://open.spotify.com/artist/3pDqn9WMu3VpFKOTKMxMFi"
+        },
+        {
+          "name": "Jesse Vilhomaa",
+          "url": "https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb"
+        },
+        {
+          "name": "Arttu Huopainen",
+          "url": "https://open.spotify.com/artist/6jJP71guHdMoczUV1XNZE7"
+        },
+        {
+          "name": "Tuomas Talvi",
+          "url": "https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289766,
+      "name": "Wallbreaker",
+      "url": "https://open.spotify.com/track/2a1QyKbVm0QjDk7TAczeM6"
     },
     {
       "album": {

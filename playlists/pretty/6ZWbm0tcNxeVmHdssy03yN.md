@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,046 likes - 101 songs - 5 hr 3 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,073 likes - 101 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 79 | [Encrucijada](https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [Encrucijada](https://open.spotify.com/album/6PGLD12DUPs8fRESapOVCX) | 3:39 |
 | 80 | [La Noche de Ayer](https://open.spotify.com/track/4L7ZCeOz4uYPvNh4oQPV8Q) | [Dhito Florez](https://open.spotify.com/artist/743CHODBxrpRQx9NvOrWGK) | [La Noche de Ayer](https://open.spotify.com/album/00SwxPP8jQkzMv3Kh6pte5) | 2:36 |
 | 81 | [Nº1 Cambio](https://open.spotify.com/track/4VyYrgbfOSEaJbPPdVa72T) | [Nau Leone](https://open.spotify.com/artist/4xf4u86Lsh1D8rIJxeuV7b) | [CAMBIO](https://open.spotify.com/album/7qIcOZMS70ACpXI06MIRRr) | 4:28 |
-| 82 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:36 |
+| 82 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:39 |
 | 83 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 | 84 | [Freedom](https://open.spotify.com/track/1ElC5GEhxPQGrYFM6Hu3k6) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [The Memoir](https://open.spotify.com/album/6ukeNt85CYtYlLjMPq2wmU) | 3:18 |
 | 85 | [woosah](https://open.spotify.com/track/2pDJMENPO7ECZJTWBx29vg) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [woosah](https://open.spotify.com/album/4l7AZRHP009foD9OjeOiQn) | 2:42 |

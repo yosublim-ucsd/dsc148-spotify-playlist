@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Best acoustic melodies from Bollywood
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,531 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,618 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pani da Rang \(Male\)](https://open.spotify.com/track/0ce9G1z2SstCXHJ9gTg6PB) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Putumayo Presents Indian Groove](https://open.spotify.com/album/10nxOUYmEhheGuBH3QdkIz) | 3:59 |
 | 2 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 |
 | 3 | [Sham](https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Aisha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc) | 4:44 |
-| 4 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/05nBv34NJeyLWEoezng4n5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jrhoBoX4Ktvq3PYL04PIR) | 3:48 |
+| 4 | [Jeena Jeena](https://open.spotify.com/track/7ydly2oSG22dAfTvL7YYB2) | [Arl1ny](https://open.spotify.com/artist/43cCBbsOk9AO5zkzOsQttq), [Thezth](https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj) | [Jeena Jeena](https://open.spotify.com/album/3SHqkQGJus8mEWgra9jQnI) | 3:55 |
 | 5 | [Meri Tum Ho \(Unplugged\)](https://open.spotify.com/track/1BVlbuPTabrUN73h7LgyaY) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 3:33 |
 | 6 | [Mere Sohneya](https://open.spotify.com/track/7sJQv0LRPgM2xCkkdWOlyj) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:13 |
 | 7 | [Tu Jaane Na \- Unplugged Version](https://open.spotify.com/track/2dEfpsiyIttecwUxkGH2yD) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 5:43 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 44 | [Kahaani \(Aankhon Ke Pardon Pe\)](https://open.spotify.com/track/7Ja9xfr9nlVNCfpwTZfx37) | [Joi Barua](https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v), [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Udaan](https://open.spotify.com/album/675yMfRB6Diis4V1bJi4KL) | 3:27 |
 | 45 | [Ek Charraiya \- Unplugged](https://open.spotify.com/track/780UgU7JF1TJZp9zjpzjFi) | [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl) | [Citylights \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Hn2O2s9NQ5EaPtwAc665L) | 4:47 |
 
-Snapshot ID: `MCwyZmY3YzQxODUyOTgyYzEzZTQ3YzYyZTQyMmIwM2RmYTAxN2FmNTA4`
+Snapshot ID: `MCwwNDgxYTkyMDE2NmJiNTk0ODZjZGQ3Yzk5ODA2NDc2ZTIxZThjNGM1`

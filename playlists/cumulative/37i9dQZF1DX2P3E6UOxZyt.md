@@ -4,7 +4,7 @@
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY
 
-333 songs - 19 hr 51 min
+334 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,8 @@
 | [放棄](https://open.spotify.com/track/5haSd5TSsrNR9G34J1W01V) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [放棄](https://open.spotify.com/album/2MD2XlJ9XntKndK3Pkhec7) | 2:41 | 2023-04-06 |  |
 | [時尚!](https://open.spotify.com/track/5UoX8DMcIrr95JN0jFDaag) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [時尚!](https://open.spotify.com/album/6RmFMOPZw4rS5v045VP6kN) | 2:40 | 2022-09-29 | 2022-12-24 |
 | [時間](https://open.spotify.com/track/1tFVSjwr5MNVvvb9W1Yk0u) | [KUNG 龔敬文](https://open.spotify.com/artist/568gCUXvFfGIyVUQ2SZa3R) | [甲洨斯丁](https://open.spotify.com/album/0JPLuTkTSLHLqIzyPSGFeK) | 3:20 | 2022-08-11 | 2023-05-05 |
-| [晚安](https://open.spotify.com/track/7LhYXgN9eVMGQHm0aiGomG) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/0J0ntnsJRbGju0yyCOiCgQ) | 4:49 | 2023-02-09 |  |
+| [晚安](https://open.spotify.com/track/34M0W5H5mj7e0D83ptYbhd) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/7HQwKPaXmVP98AOAWteDrz) | 4:49 | 2023-05-04 |  |
+| [晚安](https://open.spotify.com/track/7LhYXgN9eVMGQHm0aiGomG) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/0J0ntnsJRbGju0yyCOiCgQ) | 4:49 | 2023-02-09 | 2023-05-09 |
 | [晚安](https://open.spotify.com/track/0OYdHFOR8e5Aj5nSLKtFJf) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [晚安](https://open.spotify.com/album/6FTaERo06faESPdrMtFPSV) | 4:49 | 2022-10-20 | 2022-10-28 |
 | [景美](https://open.spotify.com/track/1jSX6c7mL2hcJVPWuNpUwL) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/41lFXP12zmvOQy6ziL2uPj) | 3:35 | 2022-05-12 | 2023-04-30 |
 | [景美](https://open.spotify.com/track/703QKP05wHYmeRvr8MGQ80) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [景美](https://open.spotify.com/album/6amaZpNGeX8DfC5XnbMeNV) | 3:35 | 2023-04-27 |  |

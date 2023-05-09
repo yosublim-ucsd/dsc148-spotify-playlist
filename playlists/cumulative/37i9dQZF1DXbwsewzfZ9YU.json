@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Boomerang / Cycle Killer",
+        "url": "https://open.spotify.com/album/78DHoATuJeFLEWNG8iqm8z"
+      },
+      "artists": [
+        {
+          "name": "SPACED",
+          "url": "https://open.spotify.com/artist/5vM2PNB3LjGceAKYvN3KI8"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117500,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/6rl9M2rBSpeRmgme2Q9d1v"
+    },
+    {
+      "album": {
         "name": "True Blue",
         "url": "https://open.spotify.com/album/1HFUXm75EX6cap0pOiSyYJ"
       },
@@ -1480,6 +1498,24 @@
       "duration_ms": 174110,
       "name": "The Whole World Is Going Insane",
       "url": "https://open.spotify.com/track/0vg20pb8LtH1g8aqPIDK6J"
+    },
+    {
+      "album": {
+        "name": "Theory of Mind",
+        "url": "https://open.spotify.com/album/7gZ9pMj6MrqrAZz4ilZ7qg"
+      },
+      "artists": [
+        {
+          "name": "Kublai Khan TX",
+          "url": "https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231030,
+      "name": "Theory of Mind",
+      "url": "https://open.spotify.com/track/2Xi6LZpHWcMHIV6ISd3cHU"
     },
     {
       "album": {

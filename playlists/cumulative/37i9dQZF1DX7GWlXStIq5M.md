@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Thiago Pantaleão
 
-402 songs - 21 hr 27 min
+403 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Culpa do Verão](https://open.spotify.com/track/0qTetrLWuQP3C5d0eYHxuk) | [Bella Mattar](https://open.spotify.com/artist/6f8BLLgjNAbewc3TnBOIL3) | [A Rua e Seus Encantos](https://open.spotify.com/album/2xEbKA5WQBAxVZnWH0KXic) | 2:46 | 2023-02-14 | 2023-03-25 |
 | [Código](https://open.spotify.com/track/5YFmDJxIcKRVhK0VTnECnZ) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Jordan Boyz 2](https://open.spotify.com/album/1D4r5f58KSmrcDCR4KzlNq) | 3:36 | 2020-10-20 | 2022-07-29 |
 | [Dababy](https://open.spotify.com/track/0JM7QnigP9A1jijogNpun0) | [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Dababy](https://open.spotify.com/album/3VQuuzb980WzIV29yv4oeq) | 1:45 | 2020-10-20 | 2022-07-12 |
+| [Dano Sarrada](https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:25 | 2023-05-08 |  |
 | [Deixa Fluir](https://open.spotify.com/track/1wOew8I9GjHsC9FtOPtZ7c) | [John Bianchi](https://open.spotify.com/artist/05hwMm996CzWNUUqiaLO7P) | [Clube dos Corações Partidos](https://open.spotify.com/album/6AVbmvq2Xau0692kLrF3be) | 2:41 | 2023-05-05 |  |
 | [Deixa Pra Lá](https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ) | [Verdan](https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y) | [Deixa Pra Lá](https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt) | 2:32 | 2023-02-14 | 2023-03-11 |
 | [Delírio](https://open.spotify.com/track/6KnH7EdHFpfg8bpyLUXq6R) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [Delírio](https://open.spotify.com/album/30YV6XbXKHwc4eloifG3FN) | 2:42 | 2023-03-17 |  |

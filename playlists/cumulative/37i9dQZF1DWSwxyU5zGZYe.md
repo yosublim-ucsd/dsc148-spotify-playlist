@@ -4,7 +4,7 @@
 
 > Best acoustic melodies from Bollywood
 
-80 songs - 4 hr 45 min
+81 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Humnava Mere Acoustic \(From "T\-Series Acoustics"\)](https://open.spotify.com/track/3JnbJ9nAK281xZRwWf8YpG) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rocky \- Shiv](https://open.spotify.com/artist/5Obu9ifz8EKdm0uL5CvgUY) | [Humnava Mere Acoustic \(From "T\-Series Acoustics"\)](https://open.spotify.com/album/4drFoVoclXIVGS8TgcRLxD) | 3:52 | 2022-04-11 | 2023-04-06 |
 | [Iktara](https://open.spotify.com/track/3jtKSUiVDowKNBqVQbWaig) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Wake Up Sid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fzE65RP7Gyhi8hdOv8eRQ) | 4:13 | 2022-04-11 |  |
 | [Ishq Di Baajiyaan \- Reprise \(From "Soorma"\)](https://open.spotify.com/track/5WLidqObeZ9jdH7puCZIBn) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Ishq Di Baajiyaan \[Reprise \(From "Soorma"\)\]](https://open.spotify.com/album/3uvpH4RpDmo2hWGgGhpPJG) | 3:47 | 2022-04-11 |  |
-| [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/05nBv34NJeyLWEoezng4n5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jrhoBoX4Ktvq3PYL04PIR) | 3:48 | 2022-04-11 |  |
+| [Jeena Jeena](https://open.spotify.com/track/7ydly2oSG22dAfTvL7YYB2) | [Arl1ny](https://open.spotify.com/artist/43cCBbsOk9AO5zkzOsQttq), [Thezth](https://open.spotify.com/artist/04xmzIVarlEkrLNKRPl3VU), [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj) | [Jeena Jeena](https://open.spotify.com/album/3SHqkQGJus8mEWgra9jQnI) | 3:55 | 2023-04-05 |  |
+| [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/05nBv34NJeyLWEoezng4n5) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2jrhoBoX4Ktvq3PYL04PIR) | 3:48 | 2022-04-11 | 2023-05-09 |
 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/2rDuCCupfPNcqgAOdYHqgI) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Love \- From Him](https://open.spotify.com/album/0IWURtezd0vRUdCAUgfcfE) | 3:48 | 2022-07-12 | 2022-11-13 |
 | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/track/5ZhKD46Q7mhsl0awl7ZMJc) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Jeena Jeena \(From "Badlapur"\)](https://open.spotify.com/album/0U2bBiUD6j9q0GIDsY3J7v) | 3:48 | 2022-07-12 | 2023-03-11 |
 | [Kabira](https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:43 | 2022-04-11 |  |

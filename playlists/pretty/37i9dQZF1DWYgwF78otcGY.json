@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25797,
+  "num_followers": 25806,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDIwMTNhYTk1MzY4ZmE1MzQxOGUwMGU2Mzc2MDZjMjY5ZThkZDVi",
+  "snapshot_id": "MCxhODI3OGQ3NDZhYTNkZDE2NmQ1YjQxOGQ2ZjM0MDUwNjE5ZTAxNTJj",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -251,6 +251,54 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
+        "name": "Genom Eld & Vatten",
+        "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
+      },
+      "artists": [
+        {
+          "name": "Sarek",
+          "url": "https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Genom Eld & Vatten",
+      "url": "https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Stand By For...",
+        "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns Zelmerl\u00f6w",
+          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Cara mia",
+      "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -283,50 +331,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Stand By For...",
-        "url": "https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV"
+        "name": "Bail\u00e1 Bail\u00e1",
+        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
       "artists": [
         {
-          "name": "M\u00e5ns Zelmerl\u00f6w",
-          "url": "https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe"
+          "name": "Alvaro Estrella",
+          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Cara mia",
-      "url": "https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Genom Eld & Vatten",
-        "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
-      },
-      "artists": [
-        {
-          "name": "Sarek",
-          "url": "https://open.spotify.com/artist/2tP82Obc3GVQTpFJkjUabp"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Genom Eld & Vatten",
-      "url": "https://open.spotify.com/track/20NfHnLzpw6qoAKOX8BFaQ"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
+      "duration_ms": 173124,
+      "name": "Bail\u00e1 Bail\u00e1",
+      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -343,22 +359,6 @@
       "duration_ms": 194933,
       "name": "(Du \u00e4r s\u00e5) Yeah Yeah, Wow Wow",
       "url": "https://open.spotify.com/track/7fsWDVy88i6gznoQtlbOio"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
-        "name": "Bail\u00e1 Bail\u00e1",
-        "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Estrella",
-          "url": "https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El"
-        }
-      ],
-      "duration_ms": 173124,
-      "name": "Bail\u00e1 Bail\u00e1",
-      "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -411,18 +411,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Alltid p\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
+        "name": "Bada Nakna",
+        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
       },
       "artists": [
         {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+          "name": "Samir & Viktor",
+          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
         }
       ],
-      "duration_ms": 182773,
-      "name": "H\u00e5ll om mig",
-      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
+      "duration_ms": 191047,
+      "name": "Bada nakna",
+      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Bada Nakna",
-        "url": "https://open.spotify.com/album/0byn7HEBmRx4OPUYQzbcas"
+        "name": "Alltid p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
       },
       "artists": [
         {
-          "name": "Samir & Viktor",
-          "url": "https://open.spotify.com/artist/4SR9oxWziAoPR4kTrekBi6"
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
         }
       ],
-      "duration_ms": 191047,
-      "name": "Bada nakna",
-      "url": "https://open.spotify.com/track/68jkh9nqSjpmRtkkA9f0ld"
+      "duration_ms": 182773,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
       "added_at": "2023-02-26 01:59:39",

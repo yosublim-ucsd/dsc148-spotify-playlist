@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-323 songs - 1 day 3 hr 21 min
+324 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Blaumeise](https://open.spotify.com/track/4mIa8n3SpM8qB0ekc8J0HI) | [Dominik Eulberg](https://open.spotify.com/artist/44zcDDVZOY0ck7KECNUPK1) | [Avichrom](https://open.spotify.com/album/41ipvn1E4Mbcetr3Wgs2oP) | 5:09 | 2022-03-04 |  |
 | [Blessed Are The Lovers](https://open.spotify.com/track/4r4nxAUZjc0yqscVMYqeSA) | [Soundwalk Collective](https://open.spotify.com/artist/3fo31cpxTYmcMT3m4A1RNC), [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Lovotic](https://open.spotify.com/album/6vvJSGqQBCtkNatM2nUyF0) | 5:47 | 2022-04-01 |  |
 | [Bluet](https://open.spotify.com/track/60bo73nbYGzjwrWqxbVJrG) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Bluet](https://open.spotify.com/album/6yTZTcsW4Q6hxaNI0kx3bP) | 4:51 | 2022-11-11 |  |
-| [Bouncing Rays](https://open.spotify.com/track/4ZvQwjVFNvq27c1Um6msmB) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Enroute](https://open.spotify.com/album/6qDEGPB0n5IDCx1oD5wXW1) | 3:45 | 2022-05-06 |  |
+| [Bouncing Rays](https://open.spotify.com/track/4ZvQwjVFNvq27c1Um6msmB) | [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Enroute](https://open.spotify.com/album/6qDEGPB0n5IDCx1oD5wXW1) | 3:45 | 2022-05-06 | 2023-05-09 |
 | [Breakdown \(The End of Chemical Romance\)](https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Breakdown](https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0) | 7:27 | 2021-12-26 |  |
 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 | 2022-01-24 |  |
 | [Burn It All Down](https://open.spotify.com/track/391s5MPi2RqJd99vTqteAr) | [Ibukun Sunday](https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI) | [The Last Wave](https://open.spotify.com/album/6Gm4Rualh1DmQD8MmbkSib) | 2:31 | 2022-11-11 |  |
@@ -102,6 +102,7 @@
 | [EA9633](https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32) | [Miyu Hosoi](https://open.spotify.com/artist/2lIvg1lgcyxIIyXEuHU06T) | [EA9633](https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB) | 3:12 | 2022-04-01 |  |
 | [Earthship](https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce) | [LAV](https://open.spotify.com/artist/2D9ZJ7EUNklTsO4UfJSfcW), [Purl](https://open.spotify.com/artist/3YdYnP4A4qJtw2sm4YmY1f) | [Earth and Beyond](https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR) | 9:56 | 2022-01-28 |  |
 | [Emanation](https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6) | [SaffronKeira](https://open.spotify.com/artist/69l2nkHclpJMHqqgDuo8MW), [Siavash Amini](https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo) | [Emanation](https://open.spotify.com/album/0qwJUyjwJhWKujcFPNFjMk) | 3:02 | 2021-12-26 | 2023-04-30 |
+| [Emanation](https://open.spotify.com/track/7jLyC8ktSRNlliVexjC1YB) | [SaffronKeira](https://open.spotify.com/artist/69l2nkHclpJMHqqgDuo8MW), [Siavash Amini](https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo) | [The Faded Orbit](https://open.spotify.com/album/6CZhtAcrhCPXdSIohz5i44) | 3:02 | 2023-05-05 |  |
 | [Entropic Decay](https://open.spotify.com/track/6ubkzRStCdbHkFJ0E04RHJ) | [Arpanet](https://open.spotify.com/artist/0nkHQhAX7bZUNGeEDnvFQ6) | [Quantum Transposition](https://open.spotify.com/album/7zjgIJ7DrGKmtQUOAUCULT) | 2:48 | 2023-02-24 | 2023-03-06 |
 | [Entropy](https://open.spotify.com/track/0IVwlvQ2NiuI6IjCXfzfFI) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/0qBy084Hayhv3cXrz2sJ6b) | 4:49 | 2022-01-24 | 2022-11-20 |
 | [Entropy](https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56) | [Bostro Pesopeo](https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD) | [Entropy](https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ) | 4:49 | 2022-11-22 |  |

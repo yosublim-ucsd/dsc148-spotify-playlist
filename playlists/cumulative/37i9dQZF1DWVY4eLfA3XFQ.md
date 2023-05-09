@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Ship Wrek
 
-1,050 songs - 2 day 13 hr 42 min
+1,051 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -494,7 +494,7 @@
 | [Let Me Take You](https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Let Me Take You](https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F) | 2:34 | 2022-05-13 | 2022-06-18 |
 | [Let Us Pray](https://open.spotify.com/track/3hgn6q5XdUJLCH6G8UtwgB) | [Hannah Wants](https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI), [Leonardo Gonnelli](https://open.spotify.com/artist/1oPZQYWNypR7DseLlEVhXe) | [Let Us Pray](https://open.spotify.com/album/0KswFZGl7qQibvbPhu2Kn7) | 3:00 | 2022-05-13 | 2022-06-11 |
 | [Let's Freak](https://open.spotify.com/track/5DbvVp3W55HN5igEic72Xs) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Let's Freak](https://open.spotify.com/album/681OCAwzVaNg6yPgMQ3uJx) | 2:34 | 2022-05-06 | 2022-08-06 |
-| [Let's Get Spicy](https://open.spotify.com/track/69uGCz0wFAFreywW6rnU39) | [Michael Feiner](https://open.spotify.com/artist/7qmLh6I9zRVpNL4abOjv50) | [Let's Get Spicy](https://open.spotify.com/album/5p1h9XJuLKqAhYpVizy665) | 2:50 | 2023-04-07 |  |
+| [Let's Get Spicy](https://open.spotify.com/track/69uGCz0wFAFreywW6rnU39) | [Michael Feiner](https://open.spotify.com/artist/7qmLh6I9zRVpNL4abOjv50) | [Let's Get Spicy](https://open.spotify.com/album/5p1h9XJuLKqAhYpVizy665) | 2:50 | 2023-04-07 | 2023-05-09 |
 | [Let's Go Dancing](https://open.spotify.com/track/6Ng1n2tzVpVOe3O5c2HaIf) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Let's Go Dancing](https://open.spotify.com/album/0dC3hdukoHUsgbVVCCLLYR) | 2:54 | 2022-05-27 | 2022-07-16 |
 | [Let's Talk](https://open.spotify.com/track/63ybiUtgEbNpDXHNz7HvKP) | [Wenzday](https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2), [N2N](https://open.spotify.com/artist/3ZnVC33s8MBcF0KmAC4rj5) | [Let's Talk](https://open.spotify.com/album/1aI1B79hFZewJR899XeOE2) | 3:04 | 2023-01-27 | 2023-03-25 |
 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 | 2021-11-26 | 2022-01-06 |
@@ -998,6 +998,7 @@
 | [Voy](https://open.spotify.com/track/7eVAueNTldeMplUKSlOKs9) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL) | [Voy](https://open.spotify.com/album/5vBQCLIMqBMZ1zyoidUtm7) | 3:05 | 2022-11-11 | 2023-04-09 |
 | [Wait A Minute](https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Wait A Minute](https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69) | 3:35 | 2021-11-26 | 2022-02-26 |
 | [Waiting](https://open.spotify.com/track/4CPYC9DggpZj3X4GcCFNIO) | [Huxley](https://open.spotify.com/artist/6fJvW51nWhRImJyos6O7sT) | [Waiting](https://open.spotify.com/album/6KGOu625irUoNb0yzzq1Ca) | 2:41 | 2022-02-04 | 2022-05-07 |
+| [Waiting For You](https://open.spotify.com/track/6VtbMBWi4sVVlTeZK5gOvD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [MAGNUS \(B\-Side\)](https://open.spotify.com/artist/5Y9lg0qkPvXCH8903RFC4J) | [Waiting For You](https://open.spotify.com/album/0MaWoxutAivbJbvMELQ7LJ) | 2:29 | 2023-05-05 |  |
 | [Walk Of Shame](https://open.spotify.com/track/3zVanl4mB1GgGWwlhdM0Yo) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Walk Of Shame](https://open.spotify.com/album/4MvEp6RWL0RdVXIgbmqiSi) | 2:28 | 2022-05-20 | 2022-07-09 |
 | [Walking](https://open.spotify.com/track/123zeArT5tWf1bQ5slqkwW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Running](https://open.spotify.com/album/16Kon7rTm0D4jOwEu2me2c) | 5:03 | 2021-12-10 | 2022-03-12 |
 | [Wanna Dance](https://open.spotify.com/track/6TFXABE6cy6UH9VK4MDI8u) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Wanna Dance EP](https://open.spotify.com/album/2fvC5Y9cNUXetWyiJQJjSp) | 3:23 | 2023-01-27 |  |

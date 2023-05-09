@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-959 songs - 1 day 18 hr 23 min
+960 songs - 1 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Dum](https://open.spotify.com/track/1PcFYA0p9UxvQkLe18s8gz) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [The Only Wan \(Deluxe\)](https://open.spotify.com/album/5nVKmygMgRj6Uw1fGUF6Rt) | 2:13 | 2022-10-13 | 2023-02-24 |
 | [Dum](https://open.spotify.com/track/0OterqJ9QPa44frf5djZ6P) | [FAH1DO](https://open.spotify.com/artist/01bjIiVhFb4SIlhhEa1gLn) | [Dum](https://open.spotify.com/album/51g2W4wG2FfybcO9No4j69) | 2:43 | 2023-03-16 | 2023-03-25 |
 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 | 2023-04-14 |  |
-| [Dum Dum](https://open.spotify.com/track/1nQUQsN7Kzt4G5JyerxNor) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [Dum Dum](https://open.spotify.com/album/6tJY2D961LB70nzYGOeEhV) | 2:10 | 2023-03-30 |  |
+| [Dum Dum](https://open.spotify.com/track/1nQUQsN7Kzt4G5JyerxNor) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [Dum Dum](https://open.spotify.com/album/6tJY2D961LB70nzYGOeEhV) | 2:10 | 2023-03-30 | 2023-05-09 |
 | [Duplantis](https://open.spotify.com/track/30brjBzRbL5MFUXWxSfG5A) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Duplantis](https://open.spotify.com/album/4CBmgdpkeOTRVcROYdeHGX) | 3:02 | 2023-02-02 | 2023-04-21 |
 | [Dyrbar tid](https://open.spotify.com/track/7ymV4ydTlFx6YQiBDJQyuu) | [Abadai](https://open.spotify.com/artist/3EAX0xy2xS8pWLu8ZWXRMW) | [AURINHO](https://open.spotify.com/album/4QB2qpnzelipDvMc9ifKMj) | 2:26 | 2022-03-04 | 2022-03-18 |
 | [ED HARDY](https://open.spotify.com/track/6snsrXkJUzGLEqgpZDuVZ3) | [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [ED HARDY](https://open.spotify.com/album/1K6Yk1Eae12WUiozsnssOH) | 1:49 | 2022-11-24 | 2023-01-06 |
@@ -907,6 +907,7 @@
 | [Vem](https://open.spotify.com/track/37I1hXdQVga3MAR9dOn0c3) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw), [LaStreet](https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Vem](https://open.spotify.com/album/6Kb2vhdaj624ZEC18vJCIG) | 2:18 | 2022-10-06 | 2022-12-09 |
 | [VEM E BIANCA \(feat\. Cherrie\)](https://open.spotify.com/track/73zv4De4MX9XLLqSkNfbFZ) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 3:05 | 2022-05-05 | 2022-06-10 |
 | [Vem e hon](https://open.spotify.com/track/0iIPP1fRRYBzdjPnwcqGoQ) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Vem e hon](https://open.spotify.com/album/0qz3dm5mwtPhvDKp2zZBPg) | 2:24 | 2023-03-23 | 2023-04-28 |
+| [Vente vad](https://open.spotify.com/track/7H4ilcNKc4bZHAwW9cgTTi) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Vente vad](https://open.spotify.com/album/2DvVni5UD3SRIRLYV1SO9B) | 2:06 | 2023-05-08 |  |
 | [Vera](https://open.spotify.com/track/3GC1xZ2h920Wk75nb3w2QW) | [Donzo x Mitchi](https://open.spotify.com/artist/6vyyCB5qh4EXjfz9Rpo2iv) | [Vera](https://open.spotify.com/album/63HMi5aTveYqJdPEX1p2kt) | 2:50 | 2022-06-09 | 2022-06-24 |
 | [Verklighetsförfattare](https://open.spotify.com/track/1fxlgsXuhm2SXApQxFkqLo) | [Lelo](https://open.spotify.com/artist/4GeZOI31ZG8C6PvdAk8Lbw) | [SEE WITH US YOU BE SMILING](https://open.spotify.com/album/2VzoWQFrv0EYBCNJjVlJQm) | 3:04 | 2021-12-16 | 2021-12-24 |
 | [Verratti](https://open.spotify.com/track/4dFAn9EvYwN2qQQjZaCRB2) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP) | [Verratti](https://open.spotify.com/album/0sWkIwKoRKTvUIXte760he) | 2:34 | 2023-02-23 | 2023-03-18 |

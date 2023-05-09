@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Ernia, Yung Snapp, Ensi e Nerone, e tanti altri.
 
-1,708 songs - 3 day 6 hr 7 min
+1,709 songs - 3 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Estorsione](https://open.spotify.com/track/2GRi9N2LVatxmdwHekDxpX) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az) | [Estorsione](https://open.spotify.com/album/6foFbS96f9s22rApLXyEOa) | 3:36 | 2022-09-08 | 2022-09-30 |
 | [EURO](https://open.spotify.com/track/3rzEdUTRzNQym0aiexeSy7) | [LUCHITOS](https://open.spotify.com/artist/1q4ioEGGMSQFjAt24zkXkX), [Draw Ice](https://open.spotify.com/artist/7bBsqA3ckjPt7nl9F2ETNG) | [EURO](https://open.spotify.com/album/5n6v2WO3aJLR8s7WJBeEru) | 2:48 | 2022-05-26 | 2022-06-10 |
 | [EURODOLLARI](https://open.spotify.com/track/3CguVdcW4WpN7Hd5SatVAD) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [LOWKEY](https://open.spotify.com/album/1dFObdpYkiKeHjD6OTIHyu) | 2:25 | 2022-10-06 | 2022-10-28 |
+| [Every Day](https://open.spotify.com/track/0JGdjtBcVWXrDLlPznVdDg) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [Every Day](https://open.spotify.com/album/6PS9hUi15RBV8WabaNcd2H) | 2:10 | 2023-05-08 |  |
 | [Everyday Everynight \(feat\. Gazo, Russ Millions\)](https://open.spotify.com/track/21VIZmEptg8NOr3M0g2slT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 4:04 | 2022-06-02 | 2022-06-23 |
 | [EYES OF THE TIGER](https://open.spotify.com/track/1OWN1K4Yb1Sd8g4xDnQg7R) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [EYES OF THE TIGER](https://open.spotify.com/album/5R6eqKWeUb9Suxt6CP6yR1) | 2:46 | 2023-04-13 | 2023-04-28 |
 | [Eyes on Me](https://open.spotify.com/track/16s0KUnRyx1pYGhIuDdYhJ) | [Spika](https://open.spotify.com/artist/0As7auDxhM3YkLHXfv8Nbe) | [Eyes on Me](https://open.spotify.com/album/2dgQBBGRsN8juAxPCgglK8) | 2:25 | 2022-05-26 | 2022-06-03 |
@@ -702,7 +703,7 @@
 | [HYPE](https://open.spotify.com/track/764DluEO5lr3E5bUFmUbFZ) | [Taxi B](https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL) | [HYPE](https://open.spotify.com/album/1njTyt5R5p19TxvP23v1Ae) | 2:11 | 2023-05-04 |  |
 | [I just wanna know](https://open.spotify.com/track/277746xxr6Ff3FkzFonVvC) | [Valos](https://open.spotify.com/artist/2lBSwGanSUwEoznDXPxOAv), [Otalay](https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b) | [I just wanna know](https://open.spotify.com/album/1AArGizGzdIwRn1htIDXha) | 3:08 | 2023-02-24 | 2023-03-10 |
 | [I miei panni](https://open.spotify.com/track/4jQabZAPrbQBaOx1MVh8LJ) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 2:50 | 2022-10-13 | 2022-11-09 |
-| [I Run Bo \(feat\. DrefGold\)](https://open.spotify.com/track/5DFdCW20I8fUA9H1D1ZVlW) | [Brenno Itani](https://open.spotify.com/artist/5wuoVcFaBcrTa4UiaBGRPz), [DrefGold](https://open.spotify.com/artist/4snhqiDSgdTF6wQFTNBrX3) | [Fino A Prova Contraria](https://open.spotify.com/album/2Xiqt3mRitin17cTkT1GuG) | 3:02 | 2023-04-27 |  |
+| [I Run Bo \(feat\. DrefGold\)](https://open.spotify.com/track/5DFdCW20I8fUA9H1D1ZVlW) | [Brenno Itani](https://open.spotify.com/artist/5wuoVcFaBcrTa4UiaBGRPz), [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso) | [Fino A Prova Contraria](https://open.spotify.com/album/2Xiqt3mRitin17cTkT1GuG) | 3:02 | 2023-04-27 |  |
 | [I soldi e la droga \(feat\. Lazza\)](https://open.spotify.com/track/20R9mqRNIAFyUl849j9DOc) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Ferro del mestiere](https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL) | 3:21 | 2022-06-16 | 2022-07-08 |
 | [I soldi non esistono \(feat\. Speranza & Jake La Furia\)](https://open.spotify.com/track/6GxPnaJKxjyWcGjWUSevOX) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [Pornostalgia](https://open.spotify.com/album/5H2vk8Zf1amNXQnibgEmoB) | 3:02 | 2022-05-10 | 2022-05-20 |
 | [IAIAIA](https://open.spotify.com/track/4u9LCUyWMUbam3reQgoWq0) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [IAIAIA](https://open.spotify.com/album/3D8F9heJX8ilVKSUNYfNBd) | 2:21 | 2022-11-10 | 2022-11-25 |

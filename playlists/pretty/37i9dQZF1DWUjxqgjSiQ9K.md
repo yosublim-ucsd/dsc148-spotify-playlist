@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5?si=246a8937e0ea4b76">Travy Joe</a> y <a href="https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE?si=nTHkL2uRTAuO1E8oXips9g">Miel San Marcos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,008 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,153 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCwyZGJiMDY0MDZkZmY0YzlmNDgxMDYwODNhZmU2MmI5YzIzZjQ3NjZk`
+Snapshot ID: `MCxlZTdjMjdlMDlmOGUxNWQwMGFmNDAxNzMxZDEwOGE1YjllY2E0MGRj`

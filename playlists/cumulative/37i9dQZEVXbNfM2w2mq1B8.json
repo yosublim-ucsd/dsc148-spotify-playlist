@@ -4060,7 +4060,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 260253,
       "name": "Die For You",
       "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 165333,
       "name": "Djanam",
       "url": "https://open.spotify.com/track/6x6r5gsO0fBzq7obAa2Fbu"
@@ -4959,6 +4959,24 @@
     },
     {
       "album": {
+        "name": "D\u017eanum",
+        "url": "https://open.spotify.com/album/66OKdF2UFS4TC5FToHWL5Y"
+      },
+      "artists": [
+        {
+          "name": "Teya Dora",
+          "url": "https://open.spotify.com/artist/5japL3H3OQvvJfhtsNh3eU"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174045,
+      "name": "D\u017eanum",
+      "url": "https://open.spotify.com/track/2fF8V1O1i1Y8s06FmJHJlz"
+    },
+    {
+      "album": {
         "name": "SlimeBall 2",
         "url": "https://open.spotify.com/album/6PRXKEq952eaaJWMUGNx5t"
       },
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 223216,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/4sO11a54gXayms6GDyqKep"
@@ -7834,7 +7852,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -11024,7 +11042,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -13370,7 +13388,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -14012,7 +14030,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 221347,
       "name": "RIDE OR DIE",
       "url": "https://open.spotify.com/track/2IiM2I6olZsJikwuCYzhOh"
@@ -16444,6 +16462,32 @@
       "duration_ms": 184248,
       "name": "Tally",
       "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
+    },
+    {
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/5y0GrnayjMRQmr5rkl6iyi"
+      },
+      "artists": [
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Pepi",
+          "url": "https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186772,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7yKsEFa4qLc9unbFWZWXKt"
     },
     {
       "album": {
@@ -20418,7 +20462,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 185006,
       "name": "\u041c\u0430\u0445\u043b\u0435\u043d\u0441\u043a\u0430 \u041b\u0438\u0442\u0443\u0440\u0433\u0438\u044f",
       "url": "https://open.spotify.com/track/1xKmlEOdg968TM16YIJwPX"
@@ -21218,7 +21262,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 183707,
       "name": "\u0421\u043b\u0443\u0447\u043a\u0438",
       "url": "https://open.spotify.com/track/4U97MoTFXfiPXGZVin4Hj3"
@@ -21370,7 +21414,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 240000,
       "name": "\u0422\u0435\u043b\u0435\u0444\u043e\u043d\u0430",
       "url": "https://open.spotify.com/track/5NNE4zYPnE7bcT6OCt8B3w"

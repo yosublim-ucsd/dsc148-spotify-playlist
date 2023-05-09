@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,891 likes - 57 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,906 likes - 57 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 56 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 |
 | 57 | [Let Yourself Go \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/5Fw86IXdNhRyDaY45PzeRx) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:00 |
 
-Snapshot ID: `MCw3Y2JmZjU1MWEyMjg2OTU0YTRmNzViYzdmNmM3MzI4NjU0NjljNTA2`
+Snapshot ID: `MCwxMDdhMjdkYTRlYjZiMDBmYzg5YTYyZTc4ZDZhOTgwMjJkOGYzYWM1`

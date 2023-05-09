@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaohnPXGkLv6.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,910 likes - 20 songs - 58 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 542,246 likes - 20 songs - 58 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaohnPXGkLv6.md) - [plain]
 | 19 | [Out of the Old](https://open.spotify.com/track/6YYF7BRXYbGIHd3FLeU9R4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [High School Musical: The Musical: The Series \(Original Soundtrack\)](https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI) | 2:48 |
 | 20 | [The Best Part \- From "High School Musical: The Musical: The Series \(Season 2\)"](https://open.spotify.com/track/0nZkXIhuH183AKwF1LAZUy) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Best Part \[From "High School Musical: The Musical: The Series \(Season 2\)"\]](https://open.spotify.com/album/2QvIqoT72oNaNuIrWR3FjC) | 1:47 |
 
-Snapshot ID: `MCw0NGFmYzg4MWQ5YmE4MmYxZGVmZjBhYmY3OWEzOGJjYmM4NWRiNzYw`
+Snapshot ID: `MCw1ZjRjODdlOTgxYmIxMmU4M2ZlYjgxYWFmZGNlYWQ5ZDA0YmQ5N2Y4`

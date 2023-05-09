@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 158360,
       "name": "Angel In The Snow",
       "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
@@ -938,10 +938,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 183053,
       "name": "No Name #1",
       "url": "https://open.spotify.com/track/09xUNc3vKdOmH74jWIYfAm"
+    },
+    {
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183373,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/1eDfnmvAgfetD1Sdbk0kcG"
     },
     {
       "album": {

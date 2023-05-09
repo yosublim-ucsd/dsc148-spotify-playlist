@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: iKON\)
 
-5,179 songs - 12 day 11 hr 33 min
+5,182 songs - 12 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1231,6 +1231,7 @@
 | [Enough \(Prod\. Primary\)](https://open.spotify.com/track/3LJZMmngKDvo1X04dBYG0J) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Little Women, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/58xp3aLV0FLfzuQAg4HKe3) | 3:45 | 2022-09-19 | 2022-11-07 |
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-08 | 2022-12-22 |
 | [Era of Lost Continent](https://open.spotify.com/track/6b6mSi4Y3gWTvmsqrz4RJ3) | [SAENG KI BOK DEOK 김반장과 생기복덕](https://open.spotify.com/artist/75qL5B7DmfQhpyIEvHBEY3) | [Sound of Light](https://open.spotify.com/album/76xkPHkTFphrpzRDbrLrVi) | 3:20 | 2022-10-07 | 2022-11-07 |
+| [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-08 |  |
 | [erase my makeup \(feat\. kenessi & Tamiz\)](https://open.spotify.com/track/569szOPTiwqEKyVKfhkXpr) | [Juvenil](https://open.spotify.com/artist/7uwoq7bClJVEIqaW9z1wjN), [kenessi](https://open.spotify.com/artist/27bcwLzt773uPUF2gyLx4C), [Tamiz](https://open.spotify.com/artist/2tbM2jTJQHly5lS3XUvZ3f) | [erase my makeup](https://open.spotify.com/album/5ABWXUlaUvvgnTyOD13bga) | 3:07 | 2022-07-04 | 2022-07-07 |
 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-13 | 2023-03-28 |
 | [Escape](https://open.spotify.com/track/2MObBaboL8bamO4nOvgFqw) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [ESCAPE](https://open.spotify.com/album/5xseEu5bbhsUORjWy5o74k) | 3:33 | 2022-11-20 | 2022-12-22 |
@@ -3858,6 +3859,7 @@
 | [Special Request \(Feat\. Boni\)](https://open.spotify.com/track/33PJUC4BJcLAcIjcvkaatv) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Boni](https://open.spotify.com/artist/0TeEkMKteI2ncRUrNLSOau) | [Special Request \(Feat\. Boni\)](https://open.spotify.com/album/5EBNKwIrEF2r51oKraHRex) | 3:32 | 2023-04-25 |  |
 | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/track/2XmCbrwNoZQFwbnElr4Ero) | [Copychu](https://open.spotify.com/artist/6Z1gtF3YEE2XvqMcS3aBBH), [JEON WON JU](https://open.spotify.com/artist/20iLEsY2WrXS3aWHZkZsxK) | [Spend all the money in my wallet \(Feat\. JEON WON JU\)](https://open.spotify.com/album/3QN9VjN4Nhk70uagoBB09X) | 3:46 | 2022-07-14 | 2022-07-28 |
 | [SPF](https://open.spotify.com/track/1sahSmH3EeJivtDILAciVk) | [Risso](https://open.spotify.com/artist/7zXv0fZJFxrDkYxAtWxoGM) | [SPF](https://open.spotify.com/album/2Wczf7pRRFOveAqvYRJxmk) | 3:28 | 2023-03-06 | 2023-03-28 |
+| [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-08 |  |
 | [SPOTLIGHT](https://open.spotify.com/track/1KxKoe7iIHv4b8p0E4xl4F) | [Clean cotton](https://open.spotify.com/artist/4zMXJUvne9BlGw8kDi07wb) | [SPOTLIGHT](https://open.spotify.com/album/1eaaj3WRvBrBBASbVc3d4L) | 3:38 | 2022-11-28 | 2022-12-22 |
 | [Spotlight](https://open.spotify.com/track/1fMCp60Wtrv6jqmp7awVXR) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [Dream](https://open.spotify.com/album/3vM1AXKOPmsUJYV8RF8fM8) | 3:01 | 2023-02-23 | 2023-03-28 |
 | [Spray](https://open.spotify.com/track/3HlKKZBQZMKfOXJ633hIJe) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Love Pt.2 : Passion](https://open.spotify.com/album/0Z2uhDbJLXLL8AEfksFBSO) | 3:17 | 2022-10-22 | 2022-11-15 |
@@ -4101,7 +4103,8 @@
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-26 | 2022-09-06 |
 | [Talk To Me](https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 | 2023-01-16 | 2023-02-01 |
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-04-29 | 2022-05-06 |
-| [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-25 |  |
+| [Tantara](https://open.spotify.com/track/07yTrKM5LJmKFfLyASA7O8) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 2:47 | 2023-05-08 |  |
+| [Tantara](https://open.spotify.com/track/2zbuoOgDU8rRvCqwJC91n0) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Tantara](https://open.spotify.com/album/5kXppcDQWMMADHJTzE1nOB) | 2:47 | 2023-04-25 | 2023-05-09 |
 | [TAP](https://open.spotify.com/track/2akAk7J7bCvf1aXwoqnYVx) | [SECRET NUMBER](https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V) | [TAP](https://open.spotify.com/album/0AV5eIIcY9AXVLIXKgPoGl) | 3:26 | 2022-11-16 | 2022-12-22 |
 | [Tap Tap](https://open.spotify.com/track/6h1gyj7xNRLKy7dNAfEFsI) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.LOVE](https://open.spotify.com/album/5zh19l4Nbzqd8h9Y7F74do) | 3:06 | 2022-11-14 | 2022-12-22 |
 | [TARANTULA](https://open.spotify.com/track/3MWiMRGVJLL2oqXddsuPA4) | [cwar](https://open.spotify.com/artist/3lJa5Qe2MABfNzwhxD7DqU), [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [TARANTULA](https://open.spotify.com/album/0xTdu7zKEt3q3hXn8H6hXp) | 4:09 | 2022-11-09 | 2022-12-22 |

@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-238 songs - 12 hr 8 min
+239 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Duvida](https://open.spotify.com/track/3KhRsuQ7tkEOkjhLeVwz4u) | [Saint Tropics](https://open.spotify.com/artist/7mwILxFemPgHuGJ1Jertc8) | [Duvida](https://open.spotify.com/album/0cmr2Hbr80WkzdcZt3NBeZ) | 2:17 | 2021-10-29 | 2022-07-16 |
 | [Echoes](https://open.spotify.com/track/6gSjsxT1iv3Rof2iQNYv5m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Echoes](https://open.spotify.com/album/4NPyGmVSGAqow9SoaQssXF) | 2:24 | 2023-01-11 | 2023-01-25 |
 | [Emorio](https://open.spotify.com/track/14VthBnru6kiREQUYAuNSL) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Fafá de Belém](https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d) | [Emorio](https://open.spotify.com/album/3yP0Nsb8jyXY4HMNb6tkO9) | 2:43 | 2023-04-28 |  |
-| [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 |  |
+| [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-04-28 | 2023-05-09 |
 | [Ever After](https://open.spotify.com/track/57hO2DGhBI2BbqCjVxpJcr) | [dvine](https://open.spotify.com/artist/3VV2pfR0CoFp9JbX6PsaLs) | [Confessions](https://open.spotify.com/album/5vvby3mFBAzt10wi3YvFyQ) | 3:47 | 2021-10-29 | 2022-01-17 |
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-04-01 | 2023-01-28 |
 | [Facing The Sun \- Revive \- Edit](https://open.spotify.com/track/2dpVPP9K2IL4YUbFs9hvmH) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Facing The Sun \(Revive\)](https://open.spotify.com/album/2PN6xvQL7Lcn7jEOgEeCyZ) | 3:49 | 2023-03-31 | 2023-04-29 |
@@ -113,6 +113,7 @@
 | [I See Blue](https://open.spotify.com/track/7McmRLT362Fss7WAUk670c) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Papaya Island](https://open.spotify.com/album/7y8NL266HSryni6nAYmdHK) | 4:07 | 2021-10-29 | 2022-01-21 |
 | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL) | [Davai](https://open.spotify.com/artist/0xZvYTiM5QT94j1abOm0nC), [Philip Rustad](https://open.spotify.com/artist/5U5Wgc7sVVNuUlLckaYMGr) | [I Should Go Home \(feat\. Philip Rustad\)](https://open.spotify.com/album/37Gm8Ovojuc443hvViW9mu) | 2:55 | 2021-10-29 | 2022-03-26 |
 | [I Want More](https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw) | [I Want More](https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r) | 2:09 | 2021-10-29 |  |
+| [I Want You](https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh) | [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [I Want You](https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E) | 3:07 | 2023-05-08 |  |
 | [I'd Love to Be Okay](https://open.spotify.com/track/6J7OHWdBeNbGmH82fqnabL) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [aericsn](https://open.spotify.com/artist/5srhr3Qbbi9TnRULQ2peGH) | [I'd Love to Be Okay](https://open.spotify.com/album/3gOCeUPs6Y1COmCRnDEvvJ) | 2:14 | 2022-04-15 | 2022-05-27 |
 | [Ibiza](https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/44O6Lmy2iJtJMNxar2nnlo) | 2:25 | 2021-10-29 | 2022-07-29 |
 | [Ibiza](https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S) | [Coffee Cub](https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC) | [Ibiza](https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC) | 2:25 | 2022-07-08 | 2023-03-11 |

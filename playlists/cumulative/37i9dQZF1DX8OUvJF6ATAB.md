@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-303 songs - 1 day 2 hr 20 min
+304 songs - 1 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Birthmark](https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On) | [Minotauro](https://open.spotify.com/artist/25adRravBvCxFrjrs3527m) | [Birthmark](https://open.spotify.com/album/3XTEDDQrax78NT8svV3tLj) | 3:09 | 2021-10-06 | 2022-09-17 |
 | [Blonde](https://open.spotify.com/track/1yy59D7L2Ym3wYLQct8dHR) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Blonde](https://open.spotify.com/album/725lNa4TQ4kMUOphWG0iCl) | 4:10 | 2021-10-06 |  |
 | [Boo Boo Tannenbaum](https://open.spotify.com/track/1QC4gJrhknpzziXGMmnHHr) | [Casey Scott](https://open.spotify.com/artist/2sjwDJ8VpQ2Oj0YjctNxpC) | [Orrery](https://open.spotify.com/album/2iYGCxK8yrOIFmGXHPMyf4) | 5:18 | 2022-03-15 | 2022-07-29 |
-| [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 |  |
+| [Boreal](https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Auroras](https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt) | 2:34 | 2021-10-06 | 2023-05-09 |
 | [Building Lights](https://open.spotify.com/track/5oGLsflNC9Y6xlZWyxi3j7) | [HELIOCHRYSUM](https://open.spotify.com/artist/0McohN0KW4zvtvJpATBGRy) | [Forbidden Structures](https://open.spotify.com/album/1kGckxkwJIXtE6IiueKjPd) | 3:30 | 2021-10-06 | 2022-07-23 |
 | [Burned](https://open.spotify.com/track/32bSNM2r6rNrj8abnSaXxP) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 4:28 | 2021-10-06 | 2022-07-28 |
 | [Caisson](https://open.spotify.com/track/7CvIZIUj1wwT2Kdq1Mnyxv) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [Caisson](https://open.spotify.com/album/6iRkzAQN5FmXmuoimn26q7) | 7:49 | 2021-10-06 |  |
@@ -309,6 +309,7 @@
 | [Yes! Come Parade With Us](https://open.spotify.com/track/1r6ydnQKC9Ukvh87ANT0Hh) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/0DGVDqsHo3NiZk59BnkMMz) | 4:54 | 2021-10-06 |  |
 | [Yes! Come Parade With Us](https://open.spotify.com/track/298GDYfwfCREA9RCpnQmq8) | [Leafcutter John](https://open.spotify.com/artist/1CJCThhtbSHWSihjWWRY9r) | [Yes! Come Parade With Us](https://open.spotify.com/album/5zajoik1fYvDE241lbpXxK) | 4:54 | 2021-10-06 | 2022-07-29 |
 | [You Were Always an Island](https://open.spotify.com/track/6e0Qx4lJaPmOUOVAOi9EWQ) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/0uegy8HcbYlg5k3TgImGu7) | 5:54 | 2021-10-06 | 2022-07-29 |
+| [You Were Always an Island](https://open.spotify.com/track/7lwRmnv3T5ECX3lCsCvK9v) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [You Were Always an Island](https://open.spotify.com/album/6QYUNnviiZt0saWnQVN6uM) | 5:54 | 2023-04-21 |  |
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-10-18 |
 | [Zorza](https://open.spotify.com/track/4n0L5PdzC1L0jvvBdkfYEj) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/78jXl5IqUjWoX4uA5tN3o6) | 5:36 | 2022-02-18 | 2023-04-10 |
 

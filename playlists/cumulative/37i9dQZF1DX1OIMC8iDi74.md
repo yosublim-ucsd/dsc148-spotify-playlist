@@ -4,7 +4,7 @@
 
 > The best of electronic trap\. Cover: RL Grime
 
-251 songs - 13 hr 51 min
+252 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [In My Room \(feat\. Ty Dolla $ign & Tyga\)](https://open.spotify.com/track/4lqEFIB9YZl8BwR99L5H3b) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blood For Mercy](https://open.spotify.com/album/7ACxS7rtYV8HyHgj0FD0cb) | 2:48 | 2022-02-01 |  |
 | [In Your Head](https://open.spotify.com/track/1NhilkWAvuOHN3c0m88N98) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 3:09 | 2021-11-19 | 2022-02-02 |
 | [Insomniac](https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq) | [AJ Salvatore](https://open.spotify.com/artist/5gLMXPUMc0uh9TedkRlng9), [Atarii](https://open.spotify.com/artist/1qqf6zmMJwD0v7gKAvbZMJ) | [Insomniac](https://open.spotify.com/album/6hMnN2Q7GA0HXLnB7Lpa0l) | 2:32 | 2021-11-19 | 2022-01-27 |
+| [Interstellar](https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Hucci](https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk) | [Say Less](https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK) | 2:53 | 2023-05-05 |  |
 | [INTHEENDITSYOU](https://open.spotify.com/track/6rNrdKs44k8ZsrB3Jpsozc) | [DJ Ride](https://open.spotify.com/artist/2Cy9j9uZwlKdqjb6fBNMqC) | [Sable Valley Summer Vol\. 2](https://open.spotify.com/album/7ybQzVkmLNJ0Lidjk1AEZ5) | 2:47 | 2021-11-19 | 2022-02-02 |
 | [Invasion](https://open.spotify.com/track/5i7bwIFZhhj90GjgJJnNvj) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Transformation](https://open.spotify.com/album/59MTZU0PKW3Cjen6rdbpVg) | 3:44 | 2021-11-19 | 2022-02-02 |
 | [Issa Bounce](https://open.spotify.com/track/7zeL5uEA13GJ6VN732HYyS) | [UpsideDown](https://open.spotify.com/artist/0Vjwka9dESqFMtbXD1phDu) | [Issa Bounce](https://open.spotify.com/album/7wveyi2W3dCEn8lUHIQdRi) | 1:57 | 2021-11-19 |  |
@@ -258,6 +259,6 @@
 | [Wobble](https://open.spotify.com/track/68Gszh9enogLwJUbTcjjWe) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Wobble](https://open.spotify.com/album/2AwBq94beluoQOYzHvIeMb) | 3:08 | 2022-02-01 |  |
 | [Wrong Kind](https://open.spotify.com/track/4RsiHeY3G77kcmDygKtqda) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Wrong Kind](https://open.spotify.com/album/7ypaimtNdehVcHnmYDiHc0) | 4:02 | 2021-11-19 | 2022-02-01 |
 | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/track/11VqZrskzYRWEjGqtqC4FP) | [DaWave](https://open.spotify.com/artist/08jQkfZ4SwCcuK32awx5Fu), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675) | [Yakisoba \(feat\. Wavehi\)](https://open.spotify.com/album/1SVe7vr8xtQfRtxsQtkdb5) | 2:53 | 2021-11-19 | 2022-02-02 |
-| [Yalla](https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo) | [Yalla](https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA) | 2:32 | 2023-03-17 |  |
+| [Yalla](https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [UZ](https://open.spotify.com/artist/2hndbDJCfHwD1o2ZTzKLMo) | [Yalla](https://open.spotify.com/album/5U2t7ENPjxeIK3fQexprEA) | 2:32 | 2023-03-17 | 2023-05-09 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

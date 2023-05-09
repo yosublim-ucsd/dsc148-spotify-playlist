@@ -4,7 +4,7 @@
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-138 songs - 7 hr 49 min
+139 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,9 +24,10 @@
 | [Balada para un Loco](https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Leopoldo Federico](https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ), [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 5:37 | 2022-03-18 |  |
 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 | 2022-03-18 |  |
 | [Barrio de Tango \- En Vivo](https://open.spotify.com/track/3d0IYd0xEiXbcS9bCEaWd5) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Orquesta Tipica](https://open.spotify.com/artist/04eoPYzcEUkOi9dyDYYUIk) | [A los Cantores \(En Vivo\)](https://open.spotify.com/album/2AN8JN4CJlc1BqgKLQEvvx) | 2:47 | 2022-03-18 |  |
-| [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 | 2022-03-18 |  |
+| [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 | 2022-03-18 | 2023-05-09 |
 | [Cafetín De Buenos Aires](https://open.spotify.com/track/6kAwFibVpTv18fdjBTI57S) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi) | [Cuarenta Obras Fundamentales](https://open.spotify.com/album/4yrpuF07ee39tCE3mfeXfs) | 2:51 | 2022-03-18 | 2022-07-29 |
 | [Cambalache \(with Leopoldo Federico y Su Orquesta\)](https://open.spotify.com/track/2cebuDRXBsi89lb1Jz3TFs) | [Julio Sosa](https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX), [Leopoldo Federico y su Orquesta](https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA) | [El Firulete](https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV) | 3:04 | 2022-03-18 |  |
+| [Che Buenos Aires](https://open.spotify.com/track/23ZBJ1Rno8l54Go7DMGQVY) | [Raul Garello](https://open.spotify.com/artist/1VURQTVc0y9vdnSWMhWnYu) | [Hoy Baile Hoy Vol\. 1](https://open.spotify.com/album/5cSEe96DBT8SY0yAPOsowh) | 3:26 | 2022-03-18 |  |
 | [Chiquilín de Bachín](https://open.spotify.com/track/2bR0drb2tOaznRIfOTHzwF) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:41 | 2022-03-18 |  |
 | [Chorra](https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ) | [Carlos Gardel](https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU) | [Milonguera: Des femmes et du tango](https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw) | 2:04 | 2022-03-18 |  |
 | [Chorra](https://open.spotify.com/track/4QHtUwt8Ivy1srQrjm06Ri) | [Edmundo Rivero](https://open.spotify.com/artist/6ULt24uY5oov72S2fY1qoi), [Orquesta Hector Stamponi](https://open.spotify.com/artist/3Fz7iQvidyZRjX2CEGyz30) | [Confesion](https://open.spotify.com/album/1DPWgNZxxhglQCZOVMRJcX) | 2:17 | 2022-03-18 | 2022-07-29 |

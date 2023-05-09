@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine.  ",
-  "num_followers": 166061,
+  "num_followers": 166209,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjBjZTgyZThlYzhkNTRkNmJjMjBmZDU1Y2YwNjdhNTgwNGI4NTk4",
+  "snapshot_id": "MCw1NmQ1NTRjNTc3NzAwYTg0MjcyMDI3ZjY0NjE2MzVjMWZiZjc0ZmU2",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Magui",
+        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+      },
+      "artists": [
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 217853,
+      "name": "Magui",
+      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5"
       },
@@ -155,54 +171,6 @@
       "duration_ms": 217853,
       "name": "A Nossa Vez",
       "url": "https://open.spotify.com/track/5o9k5OSBM4sAY2bMekl8a8"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Versos & Poesias #4: C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/0RuuM2yV5MrV0b4JtcrRxk"
-      },
-      "artists": [
-        {
-          "name": "Dj Black Spygo",
-          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
-        },
-        {
-          "name": "Penelas Sidney",
-          "url": "https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K"
-        },
-        {
-          "name": "Chelsea Dinorath",
-          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
-        },
-        {
-          "name": "LordCkOficial",
-          "url": "https://open.spotify.com/artist/67pgzB2Th41qM0tR3mZvpH"
-        },
-        {
-          "name": "Queen Marcy",
-          "url": "https://open.spotify.com/artist/1FpZb8gVHsR9NtEjEidlnT"
-        },
-        {
-          "name": "Sheila Da Cunha",
-          "url": "https://open.spotify.com/artist/56PqlWBrVp8gAxmPVFXu7w"
-        },
-        {
-          "name": "LilBoy Bruce",
-          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
-        },
-        {
-          "name": "Mary J",
-          "url": "https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY"
-        },
-        {
-          "name": "F\u00e1bio S",
-          "url": "https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU"
-        }
-      ],
-      "duration_ms": 366394,
-      "name": "Versos & Poesias #4: C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/3VPdA0kcMEOiOq5Pk1oOul"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -287,18 +255,50 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Magui",
-        "url": "https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf"
+        "name": "Versos & Poesias #4: C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/0RuuM2yV5MrV0b4JtcrRxk"
       },
       "artists": [
         {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+          "name": "Dj Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "Penelas Sidney",
+          "url": "https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "LordCkOficial",
+          "url": "https://open.spotify.com/artist/67pgzB2Th41qM0tR3mZvpH"
+        },
+        {
+          "name": "Queen Marcy",
+          "url": "https://open.spotify.com/artist/1FpZb8gVHsR9NtEjEidlnT"
+        },
+        {
+          "name": "Sheila Da Cunha",
+          "url": "https://open.spotify.com/artist/56PqlWBrVp8gAxmPVFXu7w"
+        },
+        {
+          "name": "LilBoy Bruce",
+          "url": "https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn"
+        },
+        {
+          "name": "Mary J",
+          "url": "https://open.spotify.com/artist/1UpLatwiEUHQne567fXpPY"
+        },
+        {
+          "name": "F\u00e1bio S",
+          "url": "https://open.spotify.com/artist/2pYNKkkC9h3O4R24K0xIvU"
         }
       ],
-      "duration_ms": 217853,
-      "name": "Magui",
-      "url": "https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb"
+      "duration_ms": 366394,
+      "name": "Versos & Poesias #4: C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/3VPdA0kcMEOiOq5Pk1oOul"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+        "name": "Teu Corpo",
+        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+      "duration_ms": 170548,
+      "name": "Teu Corpo",
+      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -351,34 +351,38 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Teu Corpo",
-        "url": "https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63"
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
       },
       "artists": [
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 170548,
-      "name": "Teu Corpo",
-      "url": "https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem"
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+        "name": "Tudo por Amor",
+        "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
       },
       "artists": [
         {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Kataleya",
+          "url": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
         }
       ],
-      "duration_ms": 202113,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+      "duration_ms": 206290,
+      "name": "Tudo por Amor",
+      "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -431,6 +435,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 202113,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Dando Love",
         "url": "https://open.spotify.com/album/5GME6mPAR9UIGX4WmbzOCz"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 182173,
       "name": "Dando Love",
       "url": "https://open.spotify.com/track/1h56pYe7mZgJ36J3Z1LOmQ"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Tudo por Amor",
-        "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
-      },
-      "artists": [
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Kataleya",
-          "url": "https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP"
-        }
-      ],
-      "duration_ms": 206290,
-      "name": "Tudo por Amor",
-      "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Nha Mos",
+        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Nha Mos",
+      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Meu Marido",
         "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 219218,
       "name": "Meu Marido",
       "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Nha Mos",
-        "url": "https://open.spotify.com/album/4YsmkX7Bv5xoCcGYQEKxa0"
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
       },
       "artists": [
         {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Nha Mos",
-      "url": "https://open.spotify.com/track/0qD5EcVudLAqPhJfnkdA3m"
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Nossas Coisas (feat. Ary)",
+        "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
+      },
+      "artists": [
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Ary",
+          "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
+        }
+      ],
+      "duration_ms": 200005,
+      "name": "Nossas Coisas (feat. Ary)",
+      "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Mininu Di Oru",
         "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Nossas Coisas (feat. Ary)",
-        "url": "https://open.spotify.com/album/3VRpKagyNwZ57LGI4otjpw"
-      },
-      "artists": [
-        {
-          "name": "C4 Pedro",
-          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
-        },
-        {
-          "name": "Ary",
-          "url": "https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST"
-        }
-      ],
-      "duration_ms": 200005,
-      "name": "Nossas Coisas (feat. Ary)",
-      "url": "https://open.spotify.com/track/0ty1TRfXkmeQj8jIyYA1vE"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Monarquia",
         "url": "https://open.spotify.com/album/5W7CSMrEuK1X5zq4ardsF2"
       },
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Retrato",
+        "url": "https://open.spotify.com/album/0Y8BgyJOGJysXefDgdvsOr"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "duration_ms": 216096,
+      "name": "Quero Mais",
+      "url": "https://open.spotify.com/track/3zaEXNek7bbObqAV7RibL0"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Vais Me Perder",
         "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 221462,
       "name": "Vais Me Perder",
       "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Desculpa",
-        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        }
-      ],
-      "duration_ms": 212504,
-      "name": "Desculpa",
-      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -911,38 +911,18 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Ref\u00fagio",
-        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+        "name": "Desculpa",
+        "url": "https://open.spotify.com/album/258S9L0PGKl7o0dRA1A27H"
       },
       "artists": [
         {
-          "name": "Landrick",
-          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
-        },
-        {
-          "name": "Jord\u00e2nia",
-          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
         }
       ],
-      "duration_ms": 237570,
-      "name": "Ref\u00fagio",
-      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Retrato",
-        "url": "https://open.spotify.com/album/0Y8BgyJOGJysXefDgdvsOr"
-      },
-      "artists": [
-        {
-          "name": "Badoxa",
-          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
-        }
-      ],
-      "duration_ms": 216096,
-      "name": "Quero Mais",
-      "url": "https://open.spotify.com/track/3zaEXNek7bbObqAV7RibL0"
+      "duration_ms": 212504,
+      "name": "Desculpa",
+      "url": "https://open.spotify.com/track/0TuuZwRot3vVK6tqV8zh2q"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1015,6 +995,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Ref\u00fagio",
+        "url": "https://open.spotify.com/album/3mlR2ML69miWGHrnyaEySa"
+      },
+      "artists": [
+        {
+          "name": "Landrick",
+          "url": "https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU"
+        },
+        {
+          "name": "Jord\u00e2nia",
+          "url": "https://open.spotify.com/artist/2c5g1W3OmA7GkOPZSWiwod"
+        }
+      ],
+      "duration_ms": 237570,
+      "name": "Ref\u00fagio",
+      "url": "https://open.spotify.com/track/2X340mkvzsLi2xRAIXrQZM"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Longe de Ti",
         "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
       },
@@ -1027,26 +1027,6 @@
       "duration_ms": 248000,
       "name": "Voc\u00ea Me Kuia",
       "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "4 Horas",
-        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
-      },
-      "artists": [
-        {
-          "name": "William Araujo",
-          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
-        },
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 194638,
-      "name": "4 Horas",
-      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1071,18 +1051,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Corno",
-        "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
+        "name": "4 Horas",
+        "url": "https://open.spotify.com/album/4r4tj6Q0pIvgKgaaduNwne"
       },
       "artists": [
         {
-          "name": "Messias Maricoa",
-          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+          "name": "William Araujo",
+          "url": "https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon"
+        },
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
         }
       ],
-      "duration_ms": 210424,
-      "name": "Corno",
-      "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
+      "duration_ms": 194638,
+      "name": "4 Horas",
+      "url": "https://open.spotify.com/track/13H03NbUrP5rbcKui0NCi9"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1103,6 +1087,22 @@
       "duration_ms": 173844,
       "name": "Boda",
       "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Corno",
+        "url": "https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ"
+      },
+      "artists": [
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "duration_ms": 210424,
+      "name": "Corno",
+      "url": "https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1175,18 +1175,26 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Sincera",
-        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+        "name": "Preparado",
+        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
       },
       "artists": [
         {
-          "name": "P\u00e9rola",
-          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+          "name": "Rapaz 100 Juiz",
+          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
+        },
+        {
+          "name": "Calema",
+          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
+        },
+        {
+          "name": "Klasszik",
+          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
         }
       ],
-      "duration_ms": 256979,
-      "name": "Sincera",
-      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+      "duration_ms": 279299,
+      "name": "Preparado",
+      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1211,6 +1219,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
+        "name": "Sincera",
+        "url": "https://open.spotify.com/album/3VjW8GG7L2KxIVDCm7TBdh"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        }
+      ],
+      "duration_ms": 256979,
+      "name": "Sincera",
+      "url": "https://open.spotify.com/track/7KGtx4NKAMLuY9vW0UbkKu"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
         "name": "Mad Love",
         "url": "https://open.spotify.com/album/6DxudgqAsL7IH8h1b5DYPZ"
       },
@@ -1223,30 +1247,6 @@
       "duration_ms": 192641,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6J724avGtyTfnIWfKjlzLD"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
-        "name": "Preparado",
-        "url": "https://open.spotify.com/album/4uEuKm5UyPuHd5zoLHIapf"
-      },
-      "artists": [
-        {
-          "name": "Rapaz 100 Juiz",
-          "url": "https://open.spotify.com/artist/3lWv4xqCdJgw3CmFkwnTt5"
-        },
-        {
-          "name": "Calema",
-          "url": "https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um"
-        },
-        {
-          "name": "Klasszik",
-          "url": "https://open.spotify.com/artist/4eHjLzgTRHd3OOmNaMkBRD"
-        }
-      ],
-      "duration_ms": 279299,
-      "name": "Preparado",
-      "url": "https://open.spotify.com/track/2CV9x25ByU2nmmeHSSn4NX"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -1475,22 +1475,22 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Se Eu Pudesse",
-        "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
+        "name": "Teu Ego",
+        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
       "artists": [
         {
-          "name": "Mr. Carly",
-          "url": "https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE"
+          "name": "Ivan Alekxei",
+          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
         },
         {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
         }
       ],
-      "duration_ms": 196567,
-      "name": "Se Eu Pudesse",
-      "url": "https://open.spotify.com/track/1K5Zb9auos324cI21vbQfy"
+      "duration_ms": 286093,
+      "name": "Teu Ego",
+      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2023-05-04 23:00:00",

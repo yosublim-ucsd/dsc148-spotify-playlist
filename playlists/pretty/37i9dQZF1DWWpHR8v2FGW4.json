@@ -1,12 +1,12 @@
 {
   "description": "Always come in 1st place.",
-  "num_followers": 237961,
+  "num_followers": 238878,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWUwNTExOGU3MGRiZjY1OTZhM2FhZTI4Njg5ZDM1ZmRmZGI3ZGQ5",
+  "snapshot_id": "MCwyMDlkODVlMDM0Y2I1NmJjOGNlZDBjNmI2ZmZlM2MyNzU1MjJkN2Q2",
   "tracks": [
     {
       "added_at": "2023-04-28 15:17:58",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-04-28 15:17:58",
       "album": {
-        "name": "Open Spaces",
-        "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Nevve",
-          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
-        }
-      ],
-      "duration_ms": 206399,
-      "name": "Open Spaces",
-      "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
-    },
-    {
-      "added_at": "2023-04-28 15:17:58",
-      "album": {
         "name": "Lions (VIP)",
         "url": "https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 235172,
       "name": "Vex",
       "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
+    },
+    {
+      "added_at": "2023-04-28 15:17:58",
+      "album": {
+        "name": "Open Spaces",
+        "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Nevve",
+          "url": "https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t"
+        }
+      ],
+      "duration_ms": 206399,
+      "name": "Open Spaces",
+      "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
     },
     {
       "added_at": "2023-04-28 15:17:58",

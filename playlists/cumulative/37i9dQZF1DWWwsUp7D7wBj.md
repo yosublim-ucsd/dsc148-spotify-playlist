@@ -2,7 +2,7 @@
 
 ### [cultura.now](https://open.spotify.com/playlist/37i9dQZF1DWWwsUp7D7wBj)
 
-> Todo lo que es cultura pop\. ¡La música mexicana está al tope con Eslabon Armado y Peso Pluma! \#1, \#2 y \#3  global 🏆
+> Todo lo que es cultura pop\. ¡Los mexicanos al tope con Eslabon Armado y Peso Pluma! \#1, \#2 y \#3  global 🏆
 
 72 songs - 3 hr 59 min
 

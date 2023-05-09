@@ -2851,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "Short Term Agreement",
+        "url": "https://open.spotify.com/album/0vY4bhdPZInooe1bqsFGA8"
+      },
+      "artists": [
+        {
+          "name": "NxxxxxS",
+          "url": "https://open.spotify.com/artist/36r4ltZmLqtiDBdAs9XSqn"
+        },
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97188,
+      "name": "Slump",
+      "url": "https://open.spotify.com/track/0RitOSkVYKplZ53BgJd1rY"
+    },
+    {
+      "album": {
         "name": "Slump",
         "url": "https://open.spotify.com/album/1uv38vrwfRawvt1fB77Azo"
       },
@@ -2866,7 +2888,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 97188,
       "name": "Slump",
       "url": "https://open.spotify.com/track/7c3WeEXTZly72n38QzZdKL"

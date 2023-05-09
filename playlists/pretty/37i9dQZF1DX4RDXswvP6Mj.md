@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Enjoy 50 K\-pop dance songs perfect for a party, selected by SM ScreaM Records! \(Cover: IMLAY, Mar Vista\) / SM ScreaM Records가 선정한 파티에 어울리는 케이팝 댄스곡 50곡을 즐겨보세요! \(Cover: IMLAY, Mar Vista\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,036 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,976 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 49 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 |
 | 50 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 |
 
-Snapshot ID: `MCxkMDkyMGZhZGFmNTA5MGRkNjM3ZjdhMTFhMWRmNjdmNTJmOTYzMjFh`
+Snapshot ID: `MCw2YzA5MDhiNTMyOTVhMmQ0OTExZTIxY2Q0ZmY4MDVlOGEwOTUwNDVi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: THAIMAY
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,318 likes - 142 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,321 likes - 142 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 141 | [TAITAI \(太太\)](https://open.spotify.com/track/7Gt2XwekPAYXZW79aU835U) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [TAITAI \(太太\)](https://open.spotify.com/album/2TWcKtOpTtyUOjzK9K98EQ) | 3:18 |
 | 142 | [Rosemary](https://open.spotify.com/track/2SVZHdvZX6wLCufft9ybBZ) | [Jonathan Yang](https://open.spotify.com/artist/6Ivb1T9PggzJSQZCkYQTRG) | [Rosemary](https://open.spotify.com/album/2YTZ1JrnsiUwlXArIQYMje) | 4:06 |
 
-Snapshot ID: `MCxlY2VkNTQ3OTMyZGY3M2QyNDE5MDNhOTdlMjc2Y2JkNWFmNzMxOWY3`
+Snapshot ID: `MCw4NTBhZWVkNjMwNTdiMjk0NWI0ZWRjYjc1MDEzNTEyMzFhNjE5Y2Ew`

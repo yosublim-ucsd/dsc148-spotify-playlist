@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Olivier Dion
 
-1,838 songs - 4 day 2 hr 30 min
+1,839 songs - 4 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [AMARU](https://open.spotify.com/track/5ymYY65E7II6wmpDlE8162) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Sea Dweller](https://open.spotify.com/album/2SHIDLpCnMQZSoD56EV6Ec) | 2:34 | 2022-05-27 | 2022-06-11 |
 | [Amer amour](https://open.spotify.com/track/23DUiB0lNRwMVlU46BfbB4) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Amer amour](https://open.spotify.com/album/0COlPqPWQtUZrBIqyqQsYd) | 2:55 | 2022-10-14 | 2022-10-29 |
 | [Ami](https://open.spotify.com/track/0N0Ymk2UB6yzGBL2Xqo82L) | [Conifère](https://open.spotify.com/artist/2dp3ze9ayQS05io3tAkcA2) | [Conifère II](https://open.spotify.com/album/27AJRwbqjpYYkXdN5d9e9z) | 2:48 | 2023-03-31 | 2023-04-09 |
+| [amnezia](https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [amnezia](https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t) | 3:34 | 2023-05-05 |  |
 | [Amnésia](https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1) | [Amnésia](https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm) | 3:40 | 2023-05-05 |  |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 | 2022-02-19 |
 | [Amour, Haine & Danger](https://open.spotify.com/track/0AwExghm7adTvBm2N8fiuX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Amour, Haine & Danger](https://open.spotify.com/album/6XXGJ69eGc1pjZCWcPuKm3) | 3:18 | 2022-09-30 | 2022-10-15 |
@@ -191,7 +192,7 @@
 | [BONKASA](https://open.spotify.com/track/62u6D0NgRPtFcCdF5rNLeh) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [BONKASA](https://open.spotify.com/album/4WfVv45jeLIbqBm5zriHs6) | 2:25 | 2022-07-22 | 2022-08-20 |
 | [Bonne Manière](https://open.spotify.com/track/5J5j58spTAqwweov7OyP5T) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA), [KOWZIE](https://open.spotify.com/artist/6gdUs4sLyfyUhZi598baea) | [Bonne Manière](https://open.spotify.com/album/3g5E6UMZkynwsB39sDcEkV) | 3:00 | 2022-10-07 | 2022-10-15 |
 | [Bonsaï](https://open.spotify.com/track/6LzREVOgZqgUhHkfuj209f) | [Gros Mené](https://open.spotify.com/artist/0dTjZUMqyvErZOdHwPQjaT) | [Pax et Bonum](https://open.spotify.com/album/46cTZARrHo7jivv9B8mg9f) | 3:43 | 2022-04-01 | 2022-04-16 |
-| [BOO](https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [BOO](https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V) | 2:20 | 2023-04-14 |  |
+| [BOO](https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [BOO](https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V) | 2:20 | 2023-04-14 | 2023-05-09 |
 | [Boomerang](https://open.spotify.com/track/1rcmr65eaea379nhSZVa4e) | [Masey](https://open.spotify.com/artist/1LduiMkStSCpFsZek4tXqL) | [Boomerang](https://open.spotify.com/album/1HNfPlgAqBhOlNrvb4f2in) | 3:12 | 2021-12-31 | 2022-01-22 |
 | [Bootleg](https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Bootleg](https://open.spotify.com/album/0HqGg6WYY7iaxWBlP2NY6P) | 1:55 | 2023-04-14 |  |
 | [Bosseur \(feat\. Tiakola\)](https://open.spotify.com/track/2rsXI0FAVX6fP70IvpwMcn) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LMDB](https://open.spotify.com/album/3o1net35E68el0fmiQO0Jx) | 2:56 | 2022-12-16 | 2023-01-21 |

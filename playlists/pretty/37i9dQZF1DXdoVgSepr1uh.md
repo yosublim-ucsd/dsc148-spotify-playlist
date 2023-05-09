@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 
 > Argentina en la casa! Foto: Rusherking, Yami Safdie & Micro TDH.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,478 likes - 107 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,481 likes - 107 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoVgSepr1uh.md) - [plain]
 | 106 | [Yo Ya No](https://open.spotify.com/track/7MRcgzjHn9S2QSub2W4eED) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Hot Plug Beats](https://open.spotify.com/artist/1fXCGECRsxOUDi7tj3hifF) | [Yo Ya No](https://open.spotify.com/album/5yU2AfvdBBZ56eq2pYoz1N) | 2:56 |
 | 107 | [Fantastic](https://open.spotify.com/track/25VGPBzih52Ou2gyJkaV9e) | [Lula RKT](https://open.spotify.com/artist/2SeUrRGDqeVT9mFwcmK96g), [Nico Melo](https://open.spotify.com/artist/3RRYZ1jmjvHKX6sxBP2ANo) | [Fantastic](https://open.spotify.com/album/7DrCJyYqlEVuoQi4zy27UH) | 2:47 |
 
-Snapshot ID: `MCxlODBiOTU1ZTBkMDYzM2JhNWRhZjViZmQzMTI2MzIzMjdjOTI0ZWE0`
+Snapshot ID: `MCw0YzY4YjQ2NTg3YWVjYjRiMzc1NzAxZTQ5M2NlNGQ1NjU5MjdmMjY0`

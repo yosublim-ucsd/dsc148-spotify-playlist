@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 9143,
+  "num_followers": 9144,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "OTU4LDNiOTA2MmJiZWNjYmFmNTI0NGNiNTdhYWJhN2VhMDhkNmE1ZGZhM2Q=",
+  "snapshot_id": "OTU5LDE5NjI0NTlhNjg4MzBjMzQzODdmMjM0YTUwZWQxYTJjOTdkZDdhZjE=",
   "tracks": [
     {
       "added_at": "2023-01-27 06:28:42",
@@ -375,6 +375,26 @@
       "duration_ms": 193280,
       "name": "Last Request (Recorded at Bush Studios) - Live; Acoustic",
       "url": "https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ"
+    },
+    {
+      "added_at": "2023-05-06 10:44:09",
+      "album": {
+        "name": "Never Gonna Give You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        },
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi"
+        }
+      ],
+      "duration_ms": 143040,
+      "name": "Never Gonna Give You Up - Acoustic",
+      "url": "https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA"
     },
     {
       "added_at": "2023-04-21 20:13:17",

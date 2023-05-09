@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 
 > <a href="spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf">Amelie Lens</a>' favorite tracks\. Updated regularly\. Curated by Amelie Lens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,022 likes - 57 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,104 likes - 57 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnqDRRcBlDX.md) - [plain]
 | 56 | [Intense Euphoria](https://open.spotify.com/track/2uV0XgjtnBQQpaCz5aCRts) | [Basswell](https://open.spotify.com/artist/4NzdIkiweEHJgVdg8q2Ruk) | [Intense Euphoria](https://open.spotify.com/album/4p5IXNVNBoPx0mFIrYsU4O) | 5:39 |
 | 57 | [1994 \- RBX Remix](https://open.spotify.com/track/7jWPpQXw5h41iq4AOqSuca) | [Stan Christ](https://open.spotify.com/artist/0aby7MYHsm3JS0eSifxu3I), [Gianni Di Bernardo](https://open.spotify.com/artist/7lS3FNTd0yoa06u0nv6ZTn), [RBX](https://open.spotify.com/artist/2G4dTLD07Q52jBjkO8kHST) | [1994](https://open.spotify.com/album/3wN1xtQgVdrZ3m5EdlAtJ9) | 5:27 |
 
-Snapshot ID: `MCw3Nzk3MTdhMjhjMWNiNGYxNjIxYzk2ZjJmYzgzMWRkYzcwZjdlNzhh`
+Snapshot ID: `MCw3YTY1M2E1NzAyZTcyM2E1YjdkY2U0MWZjN2Q5YmEzMGU4OWNlZmIz`

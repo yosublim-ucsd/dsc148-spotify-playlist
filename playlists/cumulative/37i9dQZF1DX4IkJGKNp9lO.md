@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-232 songs - 11 hr 11 min
+233 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Dricka Sprit Och Hålla Käften](https://open.spotify.com/track/3EtDZnjDsQxkj5c54Lmvoa) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 3:27 | 2021-12-14 |  |
 | [Drömmen](https://open.spotify.com/track/1zA5iPA3yabS8YVXDjNMir) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/6alELG3GTMImw9lW83tTQB) | 2:05 | 2021-12-14 | 2022-07-29 |
 | [Drömmen](https://open.spotify.com/track/3HP3I1YVPnDB2awjQ7lxFq) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/0rLAjBrkMIZpu9VoyqfhV3) | 2:05 | 2021-12-14 | 2023-04-30 |
+| [Drömmen](https://open.spotify.com/track/5b0r4KGSNjxplg8fmpsnva) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Labyrint](https://open.spotify.com/album/4KUhSI60vpQqSqWIWT9E5S) | 2:05 | 2023-05-04 |  |
 | [Du har fel](https://open.spotify.com/track/3gZdETvAlIjb1P2fjRQegC) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 3:01 | 2021-12-14 | 2022-07-20 |
 | [Du kan inte sälja din själ om du aldrig haft någon](https://open.spotify.com/track/23QNlWI3wQwfGocakHTikR) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 2:23 | 2021-12-14 | 2022-07-28 |
 | [Du ska va president](https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0) | [Imperiet](https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg) | [MNW Klassiker \- Imperiet](https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6) | 4:16 | 2021-12-14 |  |
@@ -140,7 +141,7 @@
 | [Masspsykos](https://open.spotify.com/track/6se6MaeLqy45xsfYXXzm7Q) | [Psykbryt](https://open.spotify.com/artist/2eL5agdfgaWDNetbgiuE8e) | [Ursäkta röran \- vi river allt](https://open.spotify.com/album/3jK2Jwr3V6pn1Gc23fpNA7) | 2:36 | 2021-12-14 | 2022-07-11 |
 | [Med munnen full av hat](https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h) | [Vet Hut](https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs) | [Med munnen full av hat](https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3) | 2:51 | 2021-12-14 | 2022-07-23 |
 | [Mellanstadiedisco](https://open.spotify.com/track/5OISH9zyF9DvBGbXneQoMG) | [Kapten Kermit](https://open.spotify.com/artist/1L835FxGKZLivabIOdzpwS) | [På Äventyr i Historien III](https://open.spotify.com/album/2AU8OSjplpDqnb5Gz61V3L) | 1:54 | 2021-12-14 | 2022-07-10 |
-| [Meningslösa Måndag](https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [What We Did Best](https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp) | 4:03 | 2021-12-14 |  |
+| [Meningslösa Måndag](https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4) | [Skumdum](https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS) | [What We Did Best](https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp) | 4:03 | 2021-12-14 | 2023-05-09 |
 | [Mer av mig](https://open.spotify.com/track/2RBChJ7EzoyxsUepxuwQf1) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Kryptonit](https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg) | 3:03 | 2021-12-14 | 2022-07-29 |
 | [Mina fåglar](https://open.spotify.com/track/6CHiFgpue84paf8mdhHHgP) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Tomat](https://open.spotify.com/album/7lMGMC2nQXYecUMqQy0bHf) | 3:17 | 2021-12-14 | 2022-07-25 |
 | [Mina polare](https://open.spotify.com/track/4duuMoNTupPnonWGY8B7q0) | [Dom Oönskade](https://open.spotify.com/artist/5EnbeKzG1eN7zwamYTXcwL) | [Mina Polare](https://open.spotify.com/album/6PcMYFEyLjOXSKE4YMEKp8) | 2:49 | 2021-12-14 | 2022-07-26 |

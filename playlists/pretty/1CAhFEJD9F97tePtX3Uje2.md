@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 352 likes - 215 songs - 12 hr 50 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 352 likes - 216 songs - 12 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,5 +223,6 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 213 | [Slow Drift](https://open.spotify.com/track/5jy9axQdjfOuDYGbIpX7WE) | [CRXSS](https://open.spotify.com/artist/1IQERBgPfRnsJ5b8RWTyZo), [Xyla](https://open.spotify.com/artist/2iaMZQyl8mOWr1eCMpRTqN) | [Slow Drift](https://open.spotify.com/album/3mVbkQbsyLR2KBz8yyhfJZ) | 2:48 |
 | 214 | [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 |
 | 215 | [Walk Alone](https://open.spotify.com/track/5Pn0C5E7oYHLcsr2llYzaZ) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR), [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Walk Alone](https://open.spotify.com/album/5EvWVv7sGSorTrLAQHRwvQ) | 2:51 |
+| 216 | [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 |
 
-Snapshot ID: `MjMxLDBkY2E0MzEyYzE2ZjZhZTA0ZWYwZWYzNzkxOGE0ZTA0YWM2ZDUxMDA=`
+Snapshot ID: `MjMyLGQxODhjZGE5NTE0ZWQ2MmUzNzQ2ODdiODdhNGJmYmI1MGJjYTViOTU=`

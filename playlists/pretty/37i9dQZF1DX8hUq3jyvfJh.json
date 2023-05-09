@@ -1,12 +1,12 @@
 {
   "description": "Rebecca e mais mulheres para serem ouvidas no volume m\u00e1ximo!",
-  "num_followers": 143356,
+  "num_followers": 143387,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmE5YWJkZmVmZDZiM2UxNGZjODQ1YWY3NGRmYzA5NTU0MDYxYjEx",
+  "snapshot_id": "MCxjYzdmMDU3YjdkMjNmZjc3Njg1ZTdkN2ZhYmQ2MWE4M2RkZjIxODJl",
   "tracks": [
     {
       "added_at": "2023-05-03 14:09:21",
@@ -163,6 +163,34 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
+        "name": "Avisa L\u00e1 (feat. Rebecca)",
+        "url": "https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Rebecca",
+          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Avisa L\u00e1 (feat. Rebecca)",
+      "url": "https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO"
+    },
+    {
+      "added_at": "2023-05-03 14:09:21",
+      "album": {
         "name": "REVERSA",
         "url": "https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj"
       },
@@ -199,30 +227,18 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Avisa L\u00e1 (feat. Rebecca)",
-        "url": "https://open.spotify.com/album/1PjqEdDTxIKyujzgdLG4K8"
+        "name": "Reverse",
+        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Rebecca",
-          "url": "https://open.spotify.com/artist/5MS6HieNmKxzkAM8amE8sr"
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 123870,
-      "name": "Avisa L\u00e1 (feat. Rebecca)",
-      "url": "https://open.spotify.com/track/058t1LUDIQuWs44iagnUlO"
+      "duration_ms": 133193,
+      "name": "Reverse",
+      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -247,22 +263,6 @@
       "duration_ms": 132923,
       "name": "8KG",
       "url": "https://open.spotify.com/track/2Q6tuyXDBYRPa0lu4uiIpr"
-    },
-    {
-      "added_at": "2023-05-03 14:09:21",
-      "album": {
-        "name": "Reverse",
-        "url": "https://open.spotify.com/album/7AeteQXJoHcRyOyB4du59D"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 133193,
-      "name": "Reverse",
-      "url": "https://open.spotify.com/track/2EMDPzYHzlRHggmbsJMtbo"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Ainda \u00c9 Ver\u00e3o",
-        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 175082,
-      "name": "N\u00e3o Mente pra Ela",
-      "url": "https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe"
-    },
-    {
-      "added_at": "2023-05-03 14:09:21",
-      "album": {
         "name": "Morango",
         "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 132857,
       "name": "Morango",
       "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+    },
+    {
+      "added_at": "2023-05-03 14:09:21",
+      "album": {
+        "name": "Ainda \u00c9 Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 175082,
+      "name": "N\u00e3o Mente pra Ela",
+      "url": "https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -563,38 +563,6 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Mapa de Estrelas",
-        "url": "https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 191615,
-      "name": "Mapa de Estrelas",
-      "url": "https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z"
-    },
-    {
-      "added_at": "2023-05-03 14:09:21",
-      "album": {
-        "name": "Chama Minha Gang",
-        "url": "https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Chama Minha Gang",
-      "url": "https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy"
-    },
-    {
-      "added_at": "2023-05-03 14:09:21",
-      "album": {
         "name": "Dose Dupla",
         "url": "https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N"
       },
@@ -615,6 +583,38 @@
       "duration_ms": 194413,
       "name": "Dose Dupla",
       "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
+    },
+    {
+      "added_at": "2023-05-03 14:09:21",
+      "album": {
+        "name": "Chama Minha Gang",
+        "url": "https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Chama Minha Gang",
+      "url": "https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy"
+    },
+    {
+      "added_at": "2023-05-03 14:09:21",
+      "album": {
+        "name": "Mapa de Estrelas",
+        "url": "https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Mapa de Estrelas",
+      "url": "https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Aquela N\u00e3o Fui Eu",
-        "url": "https://open.spotify.com/album/52thyQCvkrlu9H6wcI0jD4"
-      },
-      "artists": [
-        {
-          "name": "MAD\u00da",
-          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Aquela N\u00e3o Fui Eu",
-      "url": "https://open.spotify.com/track/016qZ4Rt7sDJ6S9nxYUrrx"
-    },
-    {
-      "added_at": "2023-05-03 14:09:21",
-      "album": {
         "name": "Faminta",
         "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 314653,
       "name": "Dois Dedim",
       "url": "https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN"
+    },
+    {
+      "added_at": "2023-05-03 14:09:21",
+      "album": {
+        "name": "Aquela N\u00e3o Fui Eu",
+        "url": "https://open.spotify.com/album/52thyQCvkrlu9H6wcI0jD4"
+      },
+      "artists": [
+        {
+          "name": "MAD\u00da",
+          "url": "https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Aquela N\u00e3o Fui Eu",
+      "url": "https://open.spotify.com/track/016qZ4Rt7sDJ6S9nxYUrrx"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Chama A Lexa",
-        "url": "https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S"
-      },
-      "artists": [
-        {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "Quebrar Seu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0ppEY5JtYxsrj4aZMMMj1j"
-    },
-    {
-      "added_at": "2023-05-03 14:09:21",
-      "album": {
         "name": "Madrugada",
         "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
       },
@@ -851,18 +831,22 @@
     {
       "added_at": "2023-05-03 14:09:21",
       "album": {
-        "name": "Faminta",
-        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+        "name": "Chama A Lexa",
+        "url": "https://open.spotify.com/album/1tOLPBLDxM18D5X3yDOF8S"
       },
       "artists": [
         {
-          "name": "Bia Ferreira",
-          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 217533,
-      "name": "Faminta",
-      "url": "https://open.spotify.com/track/5kvP2foAVQeYWxvozMLYgv"
+      "duration_ms": 140800,
+      "name": "Quebrar Seu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0ppEY5JtYxsrj4aZMMMj1j"
     },
     {
       "added_at": "2023-05-03 14:09:21",
@@ -919,6 +903,22 @@
       "duration_ms": 204011,
       "name": "Pega Fogo",
       "url": "https://open.spotify.com/track/1XNQ090zOQ6viFKKZwzE2t"
+    },
+    {
+      "added_at": "2023-05-03 14:09:21",
+      "album": {
+        "name": "Faminta",
+        "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
+      },
+      "artists": [
+        {
+          "name": "Bia Ferreira",
+          "url": "https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Faminta",
+      "url": "https://open.spotify.com/track/5kvP2foAVQeYWxvozMLYgv"
     },
     {
       "added_at": "2023-05-03 14:09:21",

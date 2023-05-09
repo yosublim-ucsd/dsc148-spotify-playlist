@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-12-15",
-  "description": "Songs to unwind",
-  "name": "Chill for awhile",
+  "description": "Lagu-lagu Pop untuk teman bersantai.",
+  "name": "Santai Sejenak",
   "tracks": [
     {
       "album": {
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-24",
+      "date_removed": null,
       "duration_ms": 234914,
       "name": "Pupus",
       "url": "https://open.spotify.com/track/4za8UJq7JI99ilRYQXVrkm"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 208104,
       "name": "Teman Bahagia",
       "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"

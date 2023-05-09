@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 178471,
       "name": "Focado",
       "url": "https://open.spotify.com/track/7gFnB4estwyHNeIERBQ5cM"
@@ -2244,7 +2244,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 154057,
       "name": "Grafitar N\u00e3o \u00c9 Estragar",
       "url": "https://open.spotify.com/track/2u3070e7rTNayuiwWTCiHp"
@@ -2390,6 +2390,24 @@
       "duration_ms": 184315,
       "name": "Ilha de Honshu Remix (feat. X-Tense)",
       "url": "https://open.spotify.com/track/5ak2duOykHrs0dXUhtPdtO"
+    },
+    {
+      "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312506,
+      "name": "JAMANTAH",
+      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
     },
     {
       "album": {
@@ -2872,6 +2890,28 @@
       "duration_ms": 203270,
       "name": "Marcas De Bikini",
       "url": "https://open.spotify.com/track/6lk0wakzghDJLnlQVK9qD3"
+    },
+    {
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/1lcl25OluaFNjHbWPlTux5"
+      },
+      "artists": [
+        {
+          "name": "Dino d'Santiago",
+          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162057,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/2YFwHixO0VL3V0iNNeXUac"
     },
     {
       "album": {
@@ -4164,7 +4204,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 193269,
       "name": "Roll Another One",
       "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
@@ -4470,6 +4510,24 @@
       "duration_ms": 180674,
       "name": "Socorro",
       "url": "https://open.spotify.com/track/3cxAhKg83buLsTYlmSIi9x"
+    },
+    {
+      "album": {
+        "name": "Sou Bem",
+        "url": "https://open.spotify.com/album/0V6k1ZXRZcWVtfziRleho3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Virtus",
+          "url": "https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224877,
+      "name": "Sou Bem",
+      "url": "https://open.spotify.com/track/7Ac5IGdhLqTzplHidnip3v"
     },
     {
       "album": {

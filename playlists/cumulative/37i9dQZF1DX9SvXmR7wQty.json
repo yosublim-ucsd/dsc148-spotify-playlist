@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "amnezia",
+        "url": "https://open.spotify.com/album/5ZKQDqhe3plohxAlowQ16t"
+      },
+      "artists": [
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214640,
+      "name": "amnezia",
+      "url": "https://open.spotify.com/track/223sTsABqhXPsTAXVF4EGL"
+    },
+    {
+      "album": {
         "name": "Amn\u00e9sia",
         "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
       },
@@ -3714,7 +3732,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 140629,
       "name": "BOO",
       "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"

@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Yoon Jiyoung(\uc724\uc9c0\uc601))",
-  "num_followers": 9818,
+  "num_followers": 9838,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzM2NjNiM2IyM2Y2Y2VjNzA1Yjg3NjFmNTZjYjMyZGQ4OTUzZTdm",
+  "snapshot_id": "MCxhNjBjM2YwZDQyN2Y2MGYzM2QzNDVkNGIzZjJjY2MxZjdlNDI2YTg1",
   "tracks": [
     {
       "added_at": "2023-05-02 09:08:15",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Evergray",
-      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -387,6 +371,38 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Evergray",
+      "url": "https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 146413,
+      "name": "always get lonely",
+      "url": "https://open.spotify.com/track/3n7yfICjsQoCV66J403qms"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 108226,
       "name": "Amoo-rae-do",
       "url": "https://open.spotify.com/track/0P2ZMsx0ZSORtoAltJje1B"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 146413,
-      "name": "always get lonely",
-      "url": "https://open.spotify.com/track/3n7yfICjsQoCV66J403qms"
     },
     {
       "added_at": "2023-05-02 09:08:15",
@@ -563,6 +563,38 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 165586,
+      "name": "too bad",
+      "url": "https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
+        "name": "Prologue : Love",
+        "url": "https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p"
+      },
+      "artists": [
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
         "name": "yayou hoi",
         "url": "https://open.spotify.com/album/1tnFNHePi4sCzUWPXSRFrD"
       },
@@ -579,22 +611,6 @@
       "duration_ms": 188149,
       "name": "yayou hoi",
       "url": "https://open.spotify.com/track/72uerGsS3eLO72OU4fZLjj"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 165586,
-      "name": "too bad",
-      "url": "https://open.spotify.com/track/1Jrvrr5kFl3ssC8Gm3h39N"
     },
     {
       "added_at": "2023-05-02 09:08:15",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
-        "name": "SPACE MULAN",
-        "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
-      },
-      "artists": [
-        {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        }
-      ],
-      "duration_ms": 159866,
-      "name": "SPACE MULAN",
-      "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
         "name": "\ud06c\ub9bc\ube75 Creamppang",
         "url": "https://open.spotify.com/album/63GZq7rpyZPIVV79W7Qol4"
       },
@@ -651,6 +651,38 @@
       "duration_ms": 169500,
       "name": "\ud06c\ub9bc\ube75 Creamppang",
       "url": "https://open.spotify.com/track/4WeheYfylgvepzqwV0WiLW"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
+        "name": "SPACE MULAN",
+        "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "SPACE MULAN",
+      "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
+        "name": "insatiable <3",
+        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
+      },
+      "artists": [
+        {
+          "name": "0WAVE",
+          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "stuck in my head",
+      "url": "https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E"
     },
     {
       "added_at": "2023-05-02 09:08:15",
@@ -687,38 +719,6 @@
       "duration_ms": 280760,
       "name": "LIKE WATER REMIX (Feat. Jambino, XINSAYNE, toigo, J'Kyun)",
       "url": "https://open.spotify.com/track/39L8LOL4kFsmvbHNvFd8EB"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
-        "name": "insatiable <3",
-        "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
-      },
-      "artists": [
-        {
-          "name": "0WAVE",
-          "url": "https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "stuck in my head",
-      "url": "https://open.spotify.com/track/27qngTthWLzhuoTgzWH06E"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
-        "name": "Prologue : Love",
-        "url": "https://open.spotify.com/album/3yt8hNed6gVceXKJTXmF8p"
-      },
-      "artists": [
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/0tpkkmyNjiOTPpR6Rwju4R"
     },
     {
       "added_at": "2023-05-02 09:08:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
-        "name": "O, Pruned!",
-        "url": "https://open.spotify.com/album/7iog4Q3nlBPrUv6MMkeaJi"
-      },
-      "artists": [
-        {
-          "name": "Jclef",
-          "url": "https://open.spotify.com/artist/4ccI4yOwtutWubdqv8gDwq"
-        }
-      ],
-      "duration_ms": 285594,
-      "name": "jonny's sofa",
-      "url": "https://open.spotify.com/track/56TV38BtyW9wYX4esR4HTL"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
         "name": "balaclava",
         "url": "https://open.spotify.com/album/225BhK3notA8fEXeJ4oHtX"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
+        "name": "O, Pruned!",
+        "url": "https://open.spotify.com/album/7iog4Q3nlBPrUv6MMkeaJi"
       },
       "artists": [
         {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "Jclef",
+          "url": "https://open.spotify.com/artist/4ccI4yOwtutWubdqv8gDwq"
         }
       ],
-      "duration_ms": 201080,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
+      "duration_ms": 285594,
+      "name": "jonny's sofa",
+      "url": "https://open.spotify.com/track/56TV38BtyW9wYX4esR4HTL"
     },
     {
       "added_at": "2023-05-02 09:08:15",
@@ -859,6 +843,22 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
         "name": "Gimme Love",
         "url": "https://open.spotify.com/album/5f9zyi5u2hzHMh9RAtssnl"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-02 09:08:15",
       "album": {
-        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
-      },
-      "artists": [
-        {
-          "name": "Lang Lee",
-          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
-      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
-    },
-    {
-      "added_at": "2023-05-02 09:08:15",
-      "album": {
         "name": "Circulation",
         "url": "https://open.spotify.com/album/7hnL3txw0rfEFY78IYh0by"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 226000,
       "name": "Fond",
       "url": "https://open.spotify.com/track/7lVbB0vEwm4eQiafyktZ1y"
+    },
+    {
+      "added_at": "2023-05-02 09:08:15",
+      "album": {
+        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
+      },
+      "artists": [
+        {
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
     }
   ],
   "unique_name": "Hipster K' Pack",

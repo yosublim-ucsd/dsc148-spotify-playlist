@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 753,631 likes - 109 songs - 5 hr 14 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 754,207 likes - 109 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 3 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 |
 | 4 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
 | 5 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
-| 6 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 |
+| 6 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 |
 | 7 | [Reflect](https://open.spotify.com/track/351BRPYm4aXYMPEvuOUYGm) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Reflect](https://open.spotify.com/album/3sDGWzEYgNvleBc5tM3p5G) | 3:04 |
 | 8 | [Your Highness](https://open.spotify.com/track/1r2epakXbNUm9jJFBwnYbR) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [Jstn Dmnd](https://open.spotify.com/artist/3apiGaGR4luHv38fTEw0I2) | [Your Highness](https://open.spotify.com/album/4K03B0jZLorCFqXj4LjXkU) | 3:06 |
 | 9 | [Forever Finally Ends](https://open.spotify.com/track/4FPx5Erta743sI6elzwMB9) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Laney](https://open.spotify.com/artist/21FWhAH9S758eTvvujmOqg) | [Forever Finally Ends](https://open.spotify.com/album/53yUbDnc8QdFVhm7h3ca5T) | 3:20 |

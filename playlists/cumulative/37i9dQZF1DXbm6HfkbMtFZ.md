@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-499 songs - 1 day 6 hr 10 min
+500 songs - 1 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [I Don't Wanna Lose](https://open.spotify.com/track/1o3QC3SiP40iupA6hzx4EH) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:20 | 2022-02-23 | 2022-04-28 |
 | [I Just Want To Talk To You](https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr) | [Charles Brown](https://open.spotify.com/artist/21DZF1qKLhIEpKTNvCA3tg), [Sleepy Creek](https://open.spotify.com/artist/28YkKGShPsq7y6Pf7NKE97) | [Circles](https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV) | 3:11 | 2023-04-25 |  |
 | [I Love Hot Nights](https://open.spotify.com/track/7H3cCK7jEp67pDf7fnJGwq) | [Jonathan Richman](https://open.spotify.com/artist/6hkch2KhRl0tywpeVK5xR5), [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [Modern Lovers '88](https://open.spotify.com/album/68YRhOJHjb0wXAJYvdWEVO) | 2:57 | 2022-03-30 | 2022-04-21 |
+| [I Might Be](https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY) | 3:36 | 2023-04-25 |  |
 | [I Might Be](https://open.spotify.com/track/5uKH4nY6ALq8jGNZ0BYlBH) | [Tōth](https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc) | [You and Me and Everything](https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth) | 3:36 | 2022-08-19 | 2023-04-30 |
 | [I Need a Win](https://open.spotify.com/track/3SoLwWljedAQ1gRNFlmmzu) | [Mamas Gun](https://open.spotify.com/artist/09bP40OuEV5tOM1rQnZNxI) | [I Need a Win](https://open.spotify.com/album/5JpGdKzgcd0mpViRp7ebPY) | 4:40 | 2021-12-16 | 2022-07-29 |
 | [I Root](https://open.spotify.com/track/0fjXpqcrqVYgDuMjjp9wYX) | [Michael Nau](https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs) | [Some Twist](https://open.spotify.com/album/3OEocibN8AMmDJ88cX8YHZ) | 2:18 | 2022-04-19 | 2022-07-29 |
@@ -340,7 +341,7 @@
 | [Periodically Double or Triple](https://open.spotify.com/track/58PkblZg918Ll5jYYllHIn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Popular Songs](https://open.spotify.com/album/20od2Wb9d393Pnp9cScsML) | 3:53 | 2022-03-30 | 2022-04-20 |
 | [Pick Up](https://open.spotify.com/track/5KgDztq0q1kEO4UXVDCrID) | [Bastien Keb](https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x) | [22.02.85](https://open.spotify.com/album/2yix6ciimzalVAJKBnQd0t) | 3:37 | 2022-03-30 | 2022-04-18 |
 | [Pig](https://open.spotify.com/track/7lNv1uR1e9JndPOPxrx2fo) | [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt) | [Future Disc](https://open.spotify.com/album/1Nmf8lD3yED6aaYWwWOlWc) | 3:19 | 2021-12-16 | 2022-04-21 |
-| [Planes, Boats and Trains](https://open.spotify.com/track/4DHzUFdHMJRouGGJ4XqrKQ) | [Andrew Jackman](https://open.spotify.com/artist/3FmPzdYKLHjE6gHIdghfhL) | [Bruton BRH6: Voices in Harmony](https://open.spotify.com/album/3UsjRBVhsLR097B4cNbAwn) | 1:35 | 2021-12-16 |  |
+| [Planes, Boats and Trains](https://open.spotify.com/track/4DHzUFdHMJRouGGJ4XqrKQ) | [Andrew Jackman](https://open.spotify.com/artist/3FmPzdYKLHjE6gHIdghfhL) | [Bruton BRH6: Voices in Harmony](https://open.spotify.com/album/3UsjRBVhsLR097B4cNbAwn) | 1:35 | 2021-12-16 | 2023-05-09 |
 | [Play It On My Radio](https://open.spotify.com/track/5TIwTmk9MukdTu9mOpraCy) | [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Everybody’s Heart Is Broken Now \(Deluxe\)](https://open.spotify.com/album/5F44JFAn5cKBkuDUZGxxuD) | 4:33 | 2022-03-30 | 2022-06-22 |
 | [Postmodern Girl](https://open.spotify.com/track/6KDKqDAi5e9pmb68tfOe7E) | [jeremy messersmith](https://open.spotify.com/artist/7ifrN0oUJbWF1EhktyTKte) | [Late Stage Capitalism](https://open.spotify.com/album/6dSVqMNOXBRgW3Jy8DtHVS) | 3:39 | 2021-12-16 | 2022-07-29 |
 | [Pretty Dirty \(In the Fading Light\)](https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Produce the Juice](https://open.spotify.com/album/2AWk4Vwrxfr0Ueso81gVLy) | 5:43 | 2022-01-07 | 2022-07-25 |

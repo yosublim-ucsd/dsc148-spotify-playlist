@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 232000,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL"
@@ -4168,6 +4168,24 @@
       "duration_ms": 188095,
       "name": "Ignore Them",
       "url": "https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt"
+    },
+    {
+      "album": {
+        "name": "In Loving Memories",
+        "url": "https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR"
+      },
+      "artists": [
+        {
+          "name": "Finding Mero",
+          "url": "https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "In Loving Memories",
+      "url": "https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ"
     },
     {
       "album": {
@@ -5498,7 +5516,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 208615,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
@@ -6618,6 +6636,28 @@
       "duration_ms": 233142,
       "name": "Pursuit of Violence",
       "url": "https://open.spotify.com/track/05bArpM2cVvDXOSr3sWFxK"
+    },
+    {
+      "album": {
+        "name": "Quantum Level",
+        "url": "https://open.spotify.com/album/7AQLiKBitTPJ9f8VrYYQxE"
+      },
+      "artists": [
+        {
+          "name": "Au5",
+          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
+        },
+        {
+          "name": "Prismatic",
+          "url": "https://open.spotify.com/artist/2W8zVw5vOEFKRz9k5GIZZl"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Quantum Level",
+      "url": "https://open.spotify.com/track/61Td1mc3CdLhIyMwXblkSU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Kids music the whole family can enjoy! Enjoy new tunes and old favorites alike on this kids playlist, and check back each week for more!
 
-100 songs - 4 hr 14 min
+102 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Fire Under My Feet](https://open.spotify.com/track/7eHFGqQLOzAdoBiuHPwplR) | [Take Note](https://open.spotify.com/artist/509L5C3vekoy7CbKYFYw9q) | [Take Note \(Original Music from the Series\)](https://open.spotify.com/album/5f2VvJLIoTqmJV54kACmMM) | 1:35 | 2023-03-26 |  |
 | [Firebuds Let's Roll \(Firebuds Theme\) \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Firebuds Let's Roll \(Firebuds Theme\) \[From "Disney Junior Music: Firebuds"\]](https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE) | 1:00 | 2022-10-25 |  |
 | [Ghostbusters](https://open.spotify.com/track/4moSfoSE5AtrVtSb4yta2Z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 3:20 | 2022-10-25 | 2022-11-08 |
+| [Go To Sleep](https://open.spotify.com/track/0jvUB9ZhpQ8g7xA4mIanu7) | [Astrid Lindgren](https://open.spotify.com/artist/3MDsnjqnEd5TJaYsuacX1I), [Annie Wiggins](https://open.spotify.com/artist/6g62t1HP0mIS394PDby3xB) | [Go To Sleep](https://open.spotify.com/album/3KC84qwDEw7VuGBV4Roibl) | 1:19 | 2023-05-08 |  |
 | [God Is A Freak](https://open.spotify.com/track/42ApAik1crGHN42WXIHxaa) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [God Is A Freak](https://open.spotify.com/album/4Dn0TrB9r7UZSMv94EXVct) | 3:07 | 2022-05-27 | 2022-10-26 |
 | [Going To The Beach](https://open.spotify.com/track/1rxOa5yXbJPRDfuOyoHf62) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg) | [Kids Sing Pete The Cat](https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd) | 1:56 | 2022-10-25 | 2022-11-01 |
 | [Hacky Smacky \(Brush Your Teeth\)](https://open.spotify.com/track/5rW7P3ZeKvQpJ09tSAfDLQ) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [Hacky Smacky \(Brush Your Teeth\)](https://open.spotify.com/album/6HOk99up52yxXcBOmi3mgo) | 2:12 | 2022-12-05 |  |
@@ -73,6 +74,7 @@
 | [On the Move](https://open.spotify.com/track/2Gdr98slaL73rUB7AC4IWC) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 0:47 | 2022-10-25 | 2023-02-21 |
 | [orange juice](https://open.spotify.com/track/1U40FhITl39l6flp0Hrc17) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [orange juice](https://open.spotify.com/album/4bmluZugh54DkReHoghYGu) | 2:43 | 2022-05-27 | 2022-10-26 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2022-05-27 | 2022-10-26 |
+| [Panda Dance](https://open.spotify.com/track/7c3AS3XZhymp0ivWpJnBrO) | [Panda and Friends](https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18) | [Panda Dance](https://open.spotify.com/album/7qVgSim0vqr6zt1PnbWJV9) | 3:17 | 2023-05-08 |  |
 | [Pete The Cat Theme \(feat\. Elvis Costello\)](https://open.spotify.com/track/2fcpeIoCs3pVmYzexXAnIk) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg), [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [Pete The Cat \(Expanded Version\)](https://open.spotify.com/album/3q9koO8kP01VWel8LYjd37) | 0:45 | 2022-10-25 |  |
 | [Rock On Mom & Dad](https://open.spotify.com/track/510ozdgI905xuxTAPvTYXG) | [Pete the Cat](https://open.spotify.com/artist/1KbfmqDS5wguok1IaKV9kg) | [Kids Sing Pete The Cat](https://open.spotify.com/album/7v6CHcEdArfur2YNSjBvvd) | 2:13 | 2022-10-25 |  |
 | [Roll Call](https://open.spotify.com/track/56XNZIljvMbFQQjSLfznf9) | [THE SQUISH](https://open.spotify.com/artist/3dM3C9jKAKYR94VMlQJoeP) | [Roll Call](https://open.spotify.com/album/6Ovv9zDZlMdF1f8SnOJQ8H) | 2:42 | 2022-10-25 |  |

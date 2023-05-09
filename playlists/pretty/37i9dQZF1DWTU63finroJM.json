@@ -1,12 +1,12 @@
 {
   "description": "From across the globe. New artists on the horizon. ",
-  "num_followers": 49252,
+  "num_followers": 49306,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYWFkNGY2MDA5OWVlMzRkNzQ0ZTliMzJlMDdkYjUwMTFmN2Q5YzFj",
+  "snapshot_id": "MCw3ODlkYWZjYjYzNmZlZWM4ZWRhMmQ3YmY3M2QyMGVhNDg0YTYzZWQ3",
   "tracks": [
     {
       "added_at": "2023-05-04 10:15:19",
@@ -43,6 +43,22 @@
       "duration_ms": 192896,
       "name": "Take Me Where Your Heart Is",
       "url": "https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI"
+    },
+    {
+      "added_at": "2023-05-08 07:50:27",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -293,22 +309,6 @@
       "url": "https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO"
     },
     {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Rendez-vous",
-        "url": "https://open.spotify.com/album/1NKIsDQiGPC5i8hoSYBINC"
-      },
-      "artists": [
-        {
-          "name": "Joseph Kamel",
-          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
-        }
-      ],
-      "duration_ms": 176093,
-      "name": "Vieux",
-      "url": "https://open.spotify.com/track/3PcnIkTtKWGppswX0FErvk"
-    },
-    {
       "added_at": "2023-04-17 14:05:23",
       "album": {
         "name": "what if i took it off for you?",
@@ -531,38 +531,6 @@
       "duration_ms": 172823,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Na \u00c1rea dos Boys",
-        "url": "https://open.spotify.com/album/2jmPZdF7AqusFZRDDeHjBW"
-      },
-      "artists": [
-        {
-          "name": "Tropa do Bruxo",
-          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Febem",
-          "url": "https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 225385,
-      "name": "Na \u00c1rea dos Boys",
-      "url": "https://open.spotify.com/track/2PYtXthvfINMFu1YWkAa4n"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -939,26 +907,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Anime Gemelle",
-        "url": "https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB"
-      },
-      "artists": [
-        {
-          "name": "Heartman",
-          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
-        },
-        {
-          "name": "Lie O'Neill",
-          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
-        }
-      ],
-      "duration_ms": 156644,
-      "name": "Anime Gemelle",
-      "url": "https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "Elle laisse (Radio Edit)",
         "url": "https://open.spotify.com/album/2iFptJp3EGJagpx0KdWlcr"
       },
@@ -1031,22 +979,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "one way",
         "url": "https://open.spotify.com/album/44YthLKFtNvEnn4Jzss8BA"
       },
@@ -1107,22 +1039,6 @@
       "duration_ms": 181240,
       "name": "Sky",
       "url": "https://open.spotify.com/track/7gviLGYxPwuAQqkvQKFOmX"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "i hate u",
-        "url": "https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 169767,
-      "name": "i hate u",
-      "url": "https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -1491,22 +1407,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
-        "url": "https://open.spotify.com/album/6HJHVbKJB854i2UIgqGzfl"
-      },
-      "artists": [
-        {
-          "name": "Only Monday",
-          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
-        }
-      ],
-      "duration_ms": 347500,
-      "name": "\u0e17\u0e34\u0e49\u0e07\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/0kQLcP9TrYqx79QIDZnnO0"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "Casei Com a Putaria",
         "url": "https://open.spotify.com/album/4cLbAcr21lNTq9oTGGTvQi"
       },
@@ -1527,26 +1427,6 @@
       "duration_ms": 157500,
       "name": "Casei Com a Putaria",
       "url": "https://open.spotify.com/track/1OZ4uv7OAP24Ix6j3vojLt"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "vaicaunoicokhiennguoithaydoi",
-        "url": "https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok"
-      },
-      "artists": [
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "vaicaunoicokhiennguoithaydoi",
-      "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -1719,26 +1599,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "\u610f\u7336\u672a\u76e1 (feat. \u6d3e\u5049\u4fca)",
-        "url": "https://open.spotify.com/album/6n8vZekJul6C1rYWF6IFBx"
-      },
-      "artists": [
-        {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
-        },
-        {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "\u610f\u7336\u672a\u76e1 (feat. \u6d3e\u5049\u4fca)",
-      "url": "https://open.spotify.com/track/4C6sMQ9maUCPzBrlOZUK39"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "CHEAP WINE",
         "url": "https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI"
       },
@@ -1783,22 +1643,6 @@
       "duration_ms": 245225,
       "name": "Dito, Sa Ilalim Ng Buwan",
       "url": "https://open.spotify.com/track/3FuZUeJbuejOfpbvuqp8QL"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "East Mpaka London",
-        "url": "https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu"
-      },
-      "artists": [
-        {
-          "name": "BURUKLYN BOYZ",
-          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
-        }
-      ],
-      "duration_ms": 211279,
-      "name": "Dream Ya Kutoka Kwa Block",
-      "url": "https://open.spotify.com/track/0dk1HdfPDYPflddHXFKc8h"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -1851,22 +1695,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Universum regelt",
-        "url": "https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh"
-      },
-      "artists": [
-        {
-          "name": "Schmyt",
-          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
-        }
-      ],
-      "duration_ms": 167899,
-      "name": "Abendkleider und Nadelstreifen",
-      "url": "https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "\u0e40\u0e1c\u0e37\u0e48\u0e2d\u0e27\u0e48\u0e32\u0e08\u0e30\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
         "url": "https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S"
       },
@@ -1883,38 +1711,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Broke Pop Kids",
-        "url": "https://open.spotify.com/album/2x7EOR1xG27FUU8rAzjwgG"
-      },
-      "artists": [
-        {
-          "name": "YA\u00d8",
-          "url": "https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ"
-        }
-      ],
-      "duration_ms": 114974,
-      "name": "Broke Pop Kids",
-      "url": "https://open.spotify.com/track/59GdwgTNBaUR9fUSxDbOUk"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "\u8def\u8fc7\u4f60\u7684\u53e4\u602a",
-        "url": "https://open.spotify.com/album/5TP8wK85RyPfyzrmEtl7UH"
-      },
-      "artists": [
-        {
-          "name": "Soph T.",
-          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
-        }
-      ],
-      "duration_ms": 237362,
-      "name": "\u8def\u8fc7\u4f60\u7684\u53e4\u602a",
-      "url": "https://open.spotify.com/track/1Tpx1pGZrySm8S0qwR4ram"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "\u501f\u5922",
         "url": "https://open.spotify.com/album/217H0K4lcncewRCzm1AXME"
       },
@@ -1927,38 +1723,6 @@
       "duration_ms": 284538,
       "name": "\u501f\u5922",
       "url": "https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/46mIIqrJLQdTpwy460Yaox"
-      },
-      "artists": [
-        {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
-        }
-      ],
-      "duration_ms": 187092,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/3sQBT0tor8HICVtn7YoNwt"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Pal Behta Jaaye",
-        "url": "https://open.spotify.com/album/0TGb91XBYJ9BZbFpgyNMjc"
-      },
-      "artists": [
-        {
-          "name": "Vismay Patel",
-          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Pal Behta Jaaye",
-      "url": "https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -1999,26 +1763,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Olivia",
-        "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
-      },
-      "artists": [
-        {
-          "name": "Antoon",
-          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
-        },
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
-        }
-      ],
-      "duration_ms": 141541,
-      "name": "Centraal Station",
-      "url": "https://open.spotify.com/track/7KRLuW6FGjcT0erRP4SLfW"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "sennik (vol.2)",
         "url": "https://open.spotify.com/album/2yCozxpnHoE06DqOrR5kFh"
       },
@@ -2047,26 +1791,6 @@
       "duration_ms": 127119,
       "name": "Cafeliko",
       "url": "https://open.spotify.com/track/1ke6DDQfH9iW2g1abrUdua"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Now You See Me",
-        "url": "https://open.spotify.com/album/3I56h2xHwElfL02U8grGT4"
-      },
-      "artists": [
-        {
-          "name": "Anna hisbbuR",
-          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
-        },
-        {
-          "name": "Jan Curious",
-          "url": "https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy"
-        }
-      ],
-      "duration_ms": 194550,
-      "name": "Dancing Cus It's Raining",
-      "url": "https://open.spotify.com/track/7667IhlsYqSQnXf3PH8p6O"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -2107,22 +1831,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "I GOT LOST BUT LOOK WHAT I FOUND",
         "url": "https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6"
       },
@@ -2151,38 +1859,6 @@
       "duration_ms": 170095,
       "name": "TU SI K TA LOKO",
       "url": "https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS"
-      },
-      "artists": [
-        {
-          "name": "Parekh & Singh",
-          "url": "https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp"
-        }
-      ],
-      "duration_ms": 186640,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/5DOXGmraTX5HolLqU6DE2j"
-      },
-      "artists": [
-        {
-          "name": "CHANKA",
-          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/6HfzX4R5fPu1PCzfairoes"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -2479,22 +2155,6 @@
     {
       "added_at": "2023-02-17 09:49:00",
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -2507,42 +2167,6 @@
       "duration_ms": 204906,
       "name": "Don't Call Me Again",
       "url": "https://open.spotify.com/track/3PObfP8Tm1PkPwo4vsZnaW"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "a quien culpar",
-        "url": "https://open.spotify.com/album/3V14MXZOAbr2QGXFyEgtp8"
-      },
-      "artists": [
-        {
-          "name": "Pavlo",
-          "url": "https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2"
-        },
-        {
-          "name": "husa.",
-          "url": "https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa"
-        }
-      ],
-      "duration_ms": 250604,
-      "name": "a quien culpar",
-      "url": "https://open.spotify.com/track/4nSXOnB7mY9gw8Rtd8v1SN"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Kebyar Kebyar",
-        "url": "https://open.spotify.com/album/1aenBmEoyGlTl8ozxY6HQC"
-      },
-      "artists": [
-        {
-          "name": "Shanna Shannon",
-          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
-        }
-      ],
-      "duration_ms": 227065,
-      "name": "Kebyar Kebyar",
-      "url": "https://open.spotify.com/track/1ZvNAOQk9uvqNDaSmWVJX0"
     },
     {
       "added_at": "2023-02-17 09:49:00",
@@ -2579,122 +2203,6 @@
       "duration_ms": 134117,
       "name": "Por Encima Del Dinero",
       "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622"
-      },
-      "artists": [
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
-        },
-        {
-          "name": "TNK MusiQ",
-          "url": "https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN"
-        },
-        {
-          "name": "DJ Stopper",
-          "url": "https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8"
-        },
-        {
-          "name": "EltonK",
-          "url": "https://open.spotify.com/artist/10pVHSoimTxm86twXjuEkG"
-        }
-      ],
-      "duration_ms": 351484,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 134264,
-      "name": "Matem\u00e1tica",
-      "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Temporada de Reggaet\u00f3n",
-        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "Juhn",
-          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        }
-      ],
-      "duration_ms": 248966,
-      "name": "BICI",
-      "url": "https://open.spotify.com/track/3TBZtPqL5tuOk5QYH9WvvK"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "Wave Deluxe",
-        "url": "https://open.spotify.com/album/2l7qyKFV7mDoDfZ3xS5luZ"
-      },
-      "artists": [
-        {
-          "name": "Slings",
-          "url": "https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj"
-        },
-        {
-          "name": "Heartman",
-          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 158914,
-      "name": "Diamanti (feat. Heartman & VillaBanks) - Remix",
-      "url": "https://open.spotify.com/track/39dekO8ZmqocCrKeBaBFty"
-    },
-    {
-      "added_at": "2023-02-17 09:49:00",
-      "album": {
-        "name": "S\u00e2mflowers",
-        "url": "https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m"
-      },
-      "artists": [
-        {
-          "name": "Haisam",
-          "url": "https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Hennesy - Acoustic Version",
-      "url": "https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh"
     }
   ],
   "unique_name": "RADAR Global",

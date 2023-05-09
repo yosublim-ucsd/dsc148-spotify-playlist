@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 21809,
+  "num_followers": 21836,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWRhNjVmMmE4N2I4MDllZDRkNmIwN2VhZDFkOTRkYzg0NTAxNGVi",
+  "snapshot_id": "MCwyMDAyZDk1NTdkMDliMDNiN2E1YTNkNzM5OGMyZDAxMmMyOGJjNTA2",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 216315,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "DAILY",
         "url": "https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 194368,
       "name": "DAILY",
       "url": "https://open.spotify.com/track/3dO540N74bBzkNctFZK76s"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Bridges",
-        "url": "https://open.spotify.com/album/3Q1tTDAW1SKfobpECr5LGk"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 216315,
-      "name": "Bridges",
-      "url": "https://open.spotify.com/track/3B7UFYjPaGma1Pm3ZZgWyf"
     },
     {
       "added_at": "2023-02-18 06:22:02",

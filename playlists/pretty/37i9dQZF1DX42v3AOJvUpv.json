@@ -1,12 +1,12 @@
 {
   "description": "Entre peinados, maquillajes y vestimentas ex\u00f3ticas, la est\u00e9tica domin\u00f3 la escena musical de los a\u00f1os \u201980. Foto:<a href=\"spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL\"> Soda Stereo</a>",
-  "num_followers": 34542,
+  "num_followers": 34590,
   "original_name": "Jet Set",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYzA0ZmYyMTFlYWQ5MTRlZmVkNDljNzMzNGQ5MTNhMjNiNWMwOGYz",
+  "snapshot_id": "MCxjMzExNWZkNThmODM0ODA1ZDc5ODg0OGQ3NWM5OWZjNDIzZTA2M2I2",
   "tracks": [
     {
       "added_at": "2020-03-16 16:12:42",
@@ -123,22 +123,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Signos (Remastered)",
-        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 292266,
-      "name": "Persiana Americana - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Ey!",
         "url": "https://open.spotify.com/album/1TscUipICOumgsnfvVqFS0"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 209240,
       "name": "Polaroid De Locura Ordinaria",
       "url": "https://open.spotify.com/track/0fAkoHmERNn6PuRqfK7411"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Signos (Remastered)",
+        "url": "https://open.spotify.com/album/7s2lDvm4FwnWE5RXEoY8Gi"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 292266,
+      "name": "Persiana Americana - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/71awpJoi5bqGMBrTkHDDoL"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -219,18 +219,50 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Ciudad De Pobres Corazones",
-        "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
+        "name": "Rata Blanca",
+        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "Rata Blanca",
+          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
         }
       ],
-      "duration_ms": 328800,
-      "name": "Ciudad De Pobres Corazones",
-      "url": "https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx"
+      "duration_ms": 432866,
+      "name": "El Sue\u00f1oDe La Gitana",
+      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "El Extra\u00f1o del Pelo Largo",
+      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -255,34 +287,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Rata Blanca",
-        "url": "https://open.spotify.com/album/19wA8bZa5CGUISYVPgM3kF"
+        "name": "Ciudad De Pobres Corazones",
+        "url": "https://open.spotify.com/album/4GGCNfkWRUgyu6UjstHlJj"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 432866,
-      "name": "El Sue\u00f1oDe La Gitana",
-      "url": "https://open.spotify.com/track/0jeONCVcTJdM3cT50MUSMm"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+      "duration_ms": 328800,
+      "name": "Ciudad De Pobres Corazones",
+      "url": "https://open.spotify.com/track/1PSsStvZmJsU3CiJg8hRAx"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -319,38 +335,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Clics Modernos",
-        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 263200,
-      "name": "No Me Dejan Salir",
-      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Originales - 20 Exitos",
-        "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "El Extra\u00f1o del Pelo Largo",
-      "url": "https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Noche y D\u00eda",
         "url": "https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl"
       },
@@ -383,6 +367,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Amor Descartable",
+      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Don Cornelio y La Zona",
         "url": "https://open.spotify.com/album/0mgoxCZiBu6HPvv9Dk4wNz"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 251173,
       "name": "Ella Vendr\u00e1 - Remastered",
       "url": "https://open.spotify.com/track/7Gl2RyA6Vn4KdgpacprbUg"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Clics Modernos",
+        "url": "https://open.spotify.com/album/3OyBf97NOuJjhEpQHY920H"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 263200,
+      "name": "No Me Dejan Salir",
+      "url": "https://open.spotify.com/track/6P6rudfmKr7FyArdyEs0Mk"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -415,18 +431,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/3JpFR1SeMvppqhUiXSsvT3"
+        "name": "Los Abuelos De La Nada 1",
+        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 210426,
-      "name": "Amor Descartable",
-      "url": "https://open.spotify.com/track/46lIx69EL4rkLtlfqoomyw"
+      "duration_ms": 194693,
+      "name": "Lunes Por La Madrugada",
+      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -447,38 +463,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Los Abuelos De La Nada 1",
-        "url": "https://open.spotify.com/album/2SoFsWPQgW2rSGiBmn1GMI"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Lunes Por La Madrugada",
-      "url": "https://open.spotify.com/track/0F9DOXIFk0rJW9AmDkUuSz"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 282840,
-      "name": "Buscando un S\u00edmbolo de Paz",
-      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "20 Grandes Canciones",
         "url": "https://open.spotify.com/album/0mdIXKbQrc2PlxyadOVO9o"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 258146,
       "name": "Menta y lim\u00f3n",
       "url": "https://open.spotify.com/track/6mFdDYmOzdE7suUpYi23Ie"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 269093,
+      "name": "Im\u00e1genes Paganas",
+      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 269093,
-      "name": "Im\u00e1genes Paganas",
-      "url": "https://open.spotify.com/track/6hiXQhwO98tEbNNbWtNS1Y"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Completo",
         "url": "https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 282840,
+      "name": "Buscando un S\u00edmbolo de Paz",
+      "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Perlas y Diamantes",
         "url": "https://open.spotify.com/album/7kO9imSCx60PuvubbTMDgt"
       },
@@ -571,22 +571,6 @@
       "duration_ms": 151493,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/6sCc07DOnWLnivJXaYvt6A"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "Seru Giran 92",
-        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 233306,
-      "name": "A Cada Hombre, A Cada Mujer",
-      "url": "https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -639,6 +623,22 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
+        "name": "Wadu Wadu",
+        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "Wadu Wadu",
+      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
         "name": "Heroes / Antologia 1986 - 1988",
         "url": "https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5"
       },
@@ -651,6 +651,22 @@
       "duration_ms": 379866,
       "name": "H\u00e9roes",
       "url": "https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "Seru Giran 92",
+        "url": "https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00fa Gir\u00e1n",
+          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
+        }
+      ],
+      "duration_ms": 233306,
+      "name": "A Cada Hombre, A Cada Mujer",
+      "url": "https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -671,18 +687,18 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Wadu Wadu",
-        "url": "https://open.spotify.com/album/54YcSxxN3pAX3HZtNclEsU"
+        "name": "La Dicha En Movimiento",
+        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Wadu Wadu",
-      "url": "https://open.spotify.com/track/76ibxRco0AGhgavIY4zSRh"
+      "duration_ms": 162360,
+      "name": "Jugando Hulla Hulla",
+      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
     },
     {
       "added_at": "2020-03-16 16:12:42",
@@ -735,38 +751,6 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "La Dicha En Movimiento",
-        "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
-      },
-      "artists": [
-        {
-          "name": "Los Twist",
-          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Jugando Hulla Hulla",
-      "url": "https://open.spotify.com/track/2cJ3haVTlqsA94NUD9Zmo2"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
-        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
-      },
-      "artists": [
-        {
-          "name": "Los Abuelos De La Nada",
-          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
-        }
-      ],
-      "duration_ms": 194954,
-      "name": "Sin Gamul\u00e1n",
-      "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
-    },
-    {
-      "added_at": "2020-03-16 16:12:42",
-      "album": {
         "name": "Cosm\u00e9ticos",
         "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
       },
@@ -799,18 +783,34 @@
     {
       "added_at": "2020-03-16 16:12:42",
       "album": {
-        "name": "Exhibici\u00f3n Condicionada (Remastered 2017)",
-        "url": "https://open.spotify.com/album/1fmO6qMzdt1euO1OI5WM0o"
+        "name": "1982-1987 - Himnos Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w"
       },
       "artists": [
         {
-          "name": "Graffiti",
-          "url": "https://open.spotify.com/artist/2ZgRrMPrfyF09AxK77ERBj"
+          "name": "Los Abuelos De La Nada",
+          "url": "https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me"
         }
       ],
-      "duration_ms": 255952,
-      "name": "Recuerdo Esa Canci\u00f3n - Remastered 2017",
-      "url": "https://open.spotify.com/track/55mh9gIYZ2OWd9mxLtt8hV"
+      "duration_ms": 194954,
+      "name": "Sin Gamul\u00e1n",
+      "url": "https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc"
+    },
+    {
+      "added_at": "2020-03-16 16:12:42",
+      "album": {
+        "name": "S.O.S. Sos Una Rica Banana - Serie Libre Acceso",
+        "url": "https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO"
+      },
+      "artists": [
+        {
+          "name": "Los Twist",
+          "url": "https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn"
+        }
+      ],
+      "duration_ms": 142026,
+      "name": "Pens\u00e9 Que Se Trataba De Cieguitos",
+      "url": "https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn"
     }
   ],
   "unique_name": "Jet Set",

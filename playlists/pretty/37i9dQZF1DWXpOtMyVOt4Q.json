@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 231703,
+  "num_followers": 231751,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzgyMDg4YzdhOTJkZTY4YmI1YjY3OGE3OWRmNjViZjlhOGYwNzcx",
+  "snapshot_id": "MCw4OTc0YTc1YTg2MjM2OWRlZjVmNjllYTZjNzg0YmZjMzNhMWEyYzY2",
   "tracks": [
     {
       "added_at": "2022-11-22 19:37:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-11-22 19:37:00",
       "album": {
-        "name": "Lovely Lofi",
-        "url": "https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8"
-      },
-      "artists": [
-        {
-          "name": "Bonsai Beats",
-          "url": "https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y"
-        }
-      ],
-      "duration_ms": 72727,
-      "name": "Lovely Lofi",
-      "url": "https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF"
-    },
-    {
-      "added_at": "2022-11-22 19:37:00",
-      "album": {
         "name": "Royal Lavender",
         "url": "https://open.spotify.com/album/0TbNZPiGBWn1umUcaY84gp"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 180779,
       "name": "Royal Lavender",
       "url": "https://open.spotify.com/track/1OXEB1PXryRhjQoa74GZDZ"
+    },
+    {
+      "added_at": "2022-11-22 19:37:00",
+      "album": {
+        "name": "Lovely Lofi",
+        "url": "https://open.spotify.com/album/0gaH5zVC6gwe397z6WYjg8"
+      },
+      "artists": [
+        {
+          "name": "Bonsai Beats",
+          "url": "https://open.spotify.com/artist/44HbOH5E0KjEBzoSs79j8Y"
+        }
+      ],
+      "duration_ms": 72727,
+      "name": "Lovely Lofi",
+      "url": "https://open.spotify.com/track/38IPo6fOXpTzSMmQ2ohDGF"
     },
     {
       "added_at": "2022-11-22 19:37:00",

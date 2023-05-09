@@ -3458,6 +3458,24 @@
     {
       "album": {
         "name": "You and Me and Everything",
+        "url": "https://open.spotify.com/album/0lRuRo9qWAokYKUW6PeJiY"
+      },
+      "artists": [
+        {
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216901,
+      "name": "I Might Be",
+      "url": "https://open.spotify.com/track/5Xn7YNELSHUulgaumQZqyV"
+    },
+    {
+      "album": {
+        "name": "You and Me and Everything",
         "url": "https://open.spotify.com/album/0csxZuCz56owUfU6dC7Dth"
       },
       "artists": [
@@ -6220,7 +6238,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 95972,
       "name": "Planes, Boats and Trains",
       "url": "https://open.spotify.com/track/4DHzUFdHMJRouGGJ4XqrKQ"

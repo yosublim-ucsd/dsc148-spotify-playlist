@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21902,
+  "num_followers": 21912,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzFkZDgxZTVmNDRiYWVjN2Q3NDA4YmViOTdiN2ZlNWZhNjc5Mjk5",
+  "snapshot_id": "MCwzNGM2YTMzYmQ1MWY3MGE5NDQ5MmUzOGI3MWY4YWQ1Y2M2ZGMzZTY2",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
+      },
+      "artists": [
+        {
+          "name": "CJ",
+          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 160000,
       "name": "Face",
       "url": "https://open.spotify.com/track/3xZTXYCcXMj7gAEw6PtcOA"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Gangsta",
-        "url": "https://open.spotify.com/album/2P89EHG7ewK38lrxqEUh27"
-      },
-      "artists": [
-        {
-          "name": "CJ",
-          "url": "https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/4ytxpbnZGX43rcMW1esxnx"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -487,6 +487,30 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Thicker Than Water",
+        "url": "https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x"
+      },
+      "artists": [
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        },
+        {
+          "name": "Emilio Rojas",
+          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
+        }
+      ],
+      "duration_ms": 265049,
+      "name": "One Day Left",
+      "url": "https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/0w2ljyq80oNCthKKKhS7Nl"
       },
@@ -587,30 +611,6 @@
       "duration_ms": 162353,
       "name": "With Me",
       "url": "https://open.spotify.com/track/2oDh8f3JLuLORqQWNsghbd"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "Thicker Than Water",
-        "url": "https://open.spotify.com/album/0Rm2QWl2jMihQP5Ml1398x"
-      },
-      "artists": [
-        {
-          "name": "Coyote",
-          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
-        },
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        },
-        {
-          "name": "Emilio Rojas",
-          "url": "https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co"
-        }
-      ],
-      "duration_ms": 265049,
-      "name": "One Day Left",
-      "url": "https://open.spotify.com/track/7MohmRhHrAwJ3kkAE5H02O"
     },
     {
       "added_at": "2023-03-10 22:02:53",

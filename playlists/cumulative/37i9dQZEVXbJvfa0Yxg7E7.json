@@ -2040,7 +2040,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 160868,
       "name": "Best p\u00e5 fest",
       "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
@@ -7410,7 +7410,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 156497,
       "name": "glorie",
       "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
@@ -13516,7 +13516,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -16160,6 +16160,24 @@
       "duration_ms": 187419,
       "name": "Pyton 2023 (Vet du vil ha meg)",
       "url": "https://open.spotify.com/track/0CzVygOVmW2rWPfCaVYpwU"
+    },
+    {
+      "album": {
+        "name": "Pyton 2023 (Vet du vil ha meg)",
+        "url": "https://open.spotify.com/album/5ZeH6lMZwqKG5ZLeu9HlhU"
+      },
+      "artists": [
+        {
+          "name": "LongMen",
+          "url": "https://open.spotify.com/artist/133YXJtJbXENkpvXj71lWn"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187419,
+      "name": "Pyton 2023 (Vet du vil ha meg)",
+      "url": "https://open.spotify.com/track/6zLT7LoAaYD4F9Hwkt2wJ1"
     },
     {
       "album": {

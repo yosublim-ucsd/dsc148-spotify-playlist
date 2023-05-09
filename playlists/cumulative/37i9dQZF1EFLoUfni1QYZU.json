@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "I'll Do It",
+        "url": "https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q"
+      },
+      "artists": [
+        {
+          "name": "Lucky Charms",
+          "url": "https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3"
+        },
+        {
+          "name": "6SIXSIX",
+          "url": "https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127334,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm"
+    },
+    {
+      "album": {
         "name": "Audacious Vol. 5",
         "url": "https://open.spotify.com/album/3f7P6z4G8Xtg9c1EycOEI5"
       },

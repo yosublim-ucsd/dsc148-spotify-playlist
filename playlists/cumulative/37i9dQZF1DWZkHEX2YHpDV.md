@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Waterparks
 
-945 songs - 2 day 2 hr 7 min
+946 songs - 2 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [April 7th](https://open.spotify.com/track/4QPQbk6HkNkszBnHQALb9o) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [April 7th](https://open.spotify.com/album/5g90vd8iTZrA3H8A4eo0mY) | 3:16 | 2021-12-10 | 2022-05-20 |
 | [April In Houston](https://open.spotify.com/track/4sx0VBcGm3TSIwfTcmFOgc) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [April In Houston / Berkeley's On Fire](https://open.spotify.com/album/4DVSu8zwhHxqYdJWqdI7Xf) | 3:05 | 2022-03-25 | 2022-04-19 |
 | [Apt\. 438](https://open.spotify.com/track/1NdtS7tLnCPWm84r7tlF7T) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:28 | 2022-03-25 | 2022-04-17 |
-| [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 |  |
+| [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 | 2023-05-09 |
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2023-04-10 | 2023-04-12 |
 | [Artorias](https://open.spotify.com/track/2Wtxf69QyhLU9fswgoD6Hd) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:11 | 2022-02-04 | 2022-04-27 |
 | [At Home](https://open.spotify.com/track/7Hnyju3PAzodUyRRvNFUY5) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [At Home](https://open.spotify.com/album/0w2M9Us4mt0DL6yAG4nj9W) | 2:39 | 2022-01-14 | 2022-06-10 |
@@ -781,6 +781,7 @@
 | [Superstition](https://open.spotify.com/track/1ranTRXpdqrriwYFK7pNt9) | [Spinning](https://open.spotify.com/artist/6IspENBNKAvxb47b8dMPJc) | [Superstition](https://open.spotify.com/album/4GkqgBZIq7QzO5mSoGE2hP) | 3:56 | 2021-12-10 | 2022-07-27 |
 | [Surrender](https://open.spotify.com/track/4EkI2iujq3AiwgmyGuP2xn) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Surrender](https://open.spotify.com/album/65XwIvA8vCbzSsdmgoAqlP) | 3:02 | 2022-04-01 | 2022-05-12 |
 | [Swear Jar](https://open.spotify.com/track/3sS8rnl4PiCn1VnM556GLg) | [Rival Town](https://open.spotify.com/artist/49KEHU4tamf9YVgxUvVKUM) | [Swear Jar](https://open.spotify.com/album/2djkhUdsL4SKIwjYfBzdnV) | 3:21 | 2021-12-10 | 2022-07-25 |
+| [Sweet Dream](https://open.spotify.com/track/0Ky4D8Dy9i3NJfB5svu381) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Sweet Dream](https://open.spotify.com/album/1x30HA2P0CuXjB3silJcee) | 3:26 | 2023-04-28 |  |
 | [Swinging Away](https://open.spotify.com/track/6L0tcB8up2j5F18rcd72Si) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Swinging Away](https://open.spotify.com/album/2ePVUu1lFLbhrYobMS9vy5) | 3:24 | 2022-03-25 | 2022-04-21 |
 | [Swiss Army Romance \(Dashboard Confessional Cover\)](https://open.spotify.com/track/0qnme3DQsIWQjCBp938ZnD) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Swiss Army Romance \(Dashboard Confessional Cover\)](https://open.spotify.com/album/2u3iKgrTVrQsoOqLDcNMJ5) | 3:18 | 2021-12-10 | 2022-07-25 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2021-12-10 | 2022-10-08 |

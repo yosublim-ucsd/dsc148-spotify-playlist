@@ -614,10 +614,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 206561,
       "name": "Kabut",
       "url": "https://open.spotify.com/track/7Id4XS3OoIh7XpMf7mwBya"
+    },
+    {
+      "album": {
+        "name": "Love Among the Ruins",
+        "url": "https://open.spotify.com/album/4GHHbsBZvQ6DhGpfTvkpAS"
+      },
+      "artists": [
+        {
+          "name": "Bangkutaman",
+          "url": "https://open.spotify.com/artist/241HQhMPjYIvEBJgh78302"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206561,
+      "name": "Kabut",
+      "url": "https://open.spotify.com/track/7yejFhyokyvYrsccyl8YRD"
     },
     {
       "album": {

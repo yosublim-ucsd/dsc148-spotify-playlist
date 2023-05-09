@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6001\)
+## Playlists \(6002\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -986,7 +986,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Chill Tracks](/playlists/pretty/37i9dQZF1DX6VdMW310YC7.md)
 - [Chill Vibes](/playlists/pretty/37i9dQZF1DX889U0CL85jj.md)
 - [Chill as Folk](/playlists/pretty/43rSnXFDoctqiZxvEqH14P.md)
-- [Chill for awhile](/playlists/pretty/37i9dQZF1DWTRkBYeInhLG.md)
 - [Chilled 80s](/playlists/pretty/37i9dQZF1DX6FdIcKzUp2r.md)
 - [Chilled Blues](/playlists/pretty/37i9dQZF1DWXavtCg2Z6Ng.md)
 - [Chilled Classical](/playlists/pretty/37i9dQZF1DWUvHZA1zLcjW.md)
@@ -1037,7 +1036,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Christmas in Canada](/playlists/pretty/37i9dQZF1DX5T5XRP5VmUL.md)
 - [Christmas is Coming](/playlists/pretty/37i9dQZF1DWWvHBEQLnV1N.md)
 - [Cinco de Mayo](/playlists/pretty/37i9dQZF1DWW6FKfbzAFjW.md)
-- [Cinco de Mayo Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [Cinematic Chillout](/playlists/pretty/37i9dQZF1DWVFJtzvDHN4L.md)
 - [Cinematic Indie Folk](/playlists/pretty/37i9dQZF1DWZyQUsU1vj4x.md)
 - [City Pop '00s](/playlists/pretty/37i9dQZF1DX0cgcWoYFXZp.md)
@@ -1883,6 +1881,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [GRWM Tamil](/playlists/pretty/37i9dQZF1DX8RXxAW8DgJV.md)
 - [GUNDAM SERIES \-ガンダムシリーズ\-](/playlists/pretty/37i9dQZF1DX6aZ9vrXqd1U.md)
 - [Gabry Ponte's DJ Mix](/playlists/pretty/37i9dQZF1DXcpzpfnVhpIz.md)
+- [Gacha Pop](/playlists/pretty/37i9dQZF1DX9ww9tisjowN.md)
 - [Gainsville Stockholm 2012](/playlists/pretty/6ClBNzH2PMh2jvkEuSFBFJ.md)
 - [Gamble & Huff](/playlists/pretty/37i9dQZF1DWXutrsZUdv7b.md)
 - [Game of Thrones: The Official Soundtrack](/playlists/pretty/37i9dQZF1DXdnZT5DhATDx.md)
@@ -1971,6 +1970,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Gospel Romântico](/playlists/pretty/37i9dQZF1DWXG4Kg5rawni.md)
 - [Got Blues](/playlists/pretty/37i9dQZF1DX0QNpebF7rcL.md)
 - [Got Djent?](/playlists/pretty/37i9dQZF1DX6GRSnGELn7L.md)
+- [Grad Night Perreo Party](/playlists/pretty/37i9dQZF1DWXRx4AFLjzB2.md)
 - [Grade A](/playlists/pretty/37i9dQZF1DWT59aKliWtId.md)
 - [Graduation](/playlists/pretty/5pxi1UkDk0BbUPDTPjmi4v.md)
 - [Graduation Songs](/playlists/pretty/37i9dQZF1DXdfjr8o5AMIT.md)
@@ -2013,7 +2013,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- Jhayco & Quevedo](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Thirty Seconds to Mars](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -3862,6 +3862,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sanación Profunda](/playlists/pretty/37i9dQZF1DWY6IkAj77bXq.md)
 - [Sand Between My Toes](/playlists/pretty/37i9dQZF1DX3ayfz12wpQs.md)
 - [Sang On Sunday](/playlists/pretty/37i9dQZF1DX4levbzTG2FX.md)
+- [Santai Sejenak](/playlists/pretty/37i9dQZF1DWTRkBYeInhLG.md)
 - [Satang Mix \(사탕 믹스\)](/playlists/pretty/37i9dQZF1DWTTHy0vndijk.md)
 - [Savasana](/playlists/pretty/37i9dQZF1DX0YDqnWWzvxD.md)
 - [Sax and the City](/playlists/pretty/37i9dQZF1DWYgA6FKKHSd6.md)

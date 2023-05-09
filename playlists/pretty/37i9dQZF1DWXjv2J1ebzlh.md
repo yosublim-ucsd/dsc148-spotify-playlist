@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,689 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,723 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -475,7 +475,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 465 | [Black but Sweet](https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw) | [Wilmoth Houdini](https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S) | [The Cooks in Trinidad](https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M) | 2:33 |
 | 466 | [Bucabu](https://open.spotify.com/track/6qmGk1FXKvAfrYqy327yJZ) | [Machito & His Afro Cubans](https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9) | [Feliz Dia Del nombre Teresa](https://open.spotify.com/album/75152bkDiq0YhA614CdJ8L) | 4:48 |
 | 467 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 |
-| 468 | [Watina](https://open.spotify.com/track/31o9PSp0HdR2Ai63jeO2fa) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Watina](https://open.spotify.com/album/7zphOHzIezpR3Q8jIHj8Sb) | 3:11 |
+| 468 | [Watina](https://open.spotify.com/track/31o9PSp0HdR2Ai63jeO2fa) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ), [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Watina](https://open.spotify.com/album/7zphOHzIezpR3Q8jIHj8Sb) | 3:11 |
 | 469 | [Corazón De Melón](https://open.spotify.com/track/0WZVKZm72bwzOW7MroZFET) | [Los Macao](https://open.spotify.com/artist/3JyAIfIbhv0JOfA4AWF4v6) | [Éxitos de Oro del Cha Cha Cha](https://open.spotify.com/album/5VDpa6dP7vPHdhGcaeW5SR) | 4:31 |
 | 470 | [Main Akeli Raat Jawan](https://open.spotify.com/track/4rGvQIhbqN5XMBPg9Ncllb) | [Ajit Singh](https://open.spotify.com/artist/1tmWfgiOMGLjKQS6XGkIyx), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Purana Mandir \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JGCo7abJV74z7rmy8MTv7) | 5:27 |
 | 471 | [La Cumbia Del Tarot](https://open.spotify.com/track/3nXc9uZp3wrJTBn18Iy5u4) | [Cuarto Mundo](https://open.spotify.com/artist/3IvaAkEg7LEtQHppHQvl4B), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [La Cumbia Del Tarot](https://open.spotify.com/album/5gfyAxXaHXKpzNK5cb3ckP) | 3:58 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCxlOWM3ZjEzYmU3NTcxYzE2YTY3OGUzZWUzNWNiMTQ2M2JlMjE4Mzkx`
+Snapshot ID: `MCw3YjgwNTU4ZjE2NjIyMDcxOTYxN2M2OTk5MjQ1Yzk2YTI0ODEzZGUw`

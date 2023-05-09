@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nerissima Serpe in cover.
 
-541 songs - 23 hr 35 min
+542 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [NON MI PIACI](https://open.spotify.com/track/3y6NcsWAhyGt89N8NzCJ3j) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [NON MI PIACI](https://open.spotify.com/album/5EwwqS9moFglO34EK1raeD) | 2:32 | 2022-11-03 | 2022-11-11 |
 | [NON MI VA](https://open.spotify.com/track/47VdKYEREq0LtxxHr12nUw) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [NON MI VA](https://open.spotify.com/album/081JgQyk3lZDneHdAiEGnw) | 3:08 | 2022-10-13 | 2022-10-21 |
 | [Non passa l’aria](https://open.spotify.com/track/3RnjkVaMG2n72ZzHwuzuDY) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Non passa l’aria](https://open.spotify.com/album/5KSnm4ibO84on8sxwzW8JT) | 2:43 | 2023-04-27 |  |
-| [Non ritorneranno mai](https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Non ritorneranno mai](https://open.spotify.com/album/3bnt2flUrBeiQaYQxe3Knp) | 2:48 | 2023-04-13 |  |
+| [Non ritorneranno mai](https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Non ritorneranno mai](https://open.spotify.com/album/3bnt2flUrBeiQaYQxe3Knp) | 2:48 | 2023-04-13 | 2023-05-09 |
 | [Non è un gioco](https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [Non è un gioco](https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM) | 2:12 | 2023-01-26 | 2023-03-18 |
 | [Notte bianca](https://open.spotify.com/track/3XXFvqyOSRCf1vXYT535kA) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Notte bianca](https://open.spotify.com/album/6y4T4ZbS8R7dDACoZAZgXm) | 3:23 | 2022-07-14 | 2022-08-12 |
 | [Notte in Caserma](https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Notte in Caserma](https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3) | 2:42 | 2023-03-09 |  |
@@ -501,6 +501,7 @@
 | [TOO EASY](https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [TOO EASY](https://open.spotify.com/album/0b78aAZFHgjxwXgKGDey1f) | 3:21 | 2022-05-10 | 2022-05-27 |
 | [Too Famous](https://open.spotify.com/track/2jPBMQ9EF1Zyrt3b6b8maS) | [Sapobully](https://open.spotify.com/artist/2u5doTfPeC2gnLwislKGLE) | [Too Famous](https://open.spotify.com/album/5wJ6w4a6xBxTBxkgT3ajGm) | 2:16 | 2022-09-01 | 2022-09-30 |
 | [Tookie Williams \(3/3\)](https://open.spotify.com/track/0byOney03xKL4Ze0RR18nJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [Tookie Williams \(3/3\)](https://open.spotify.com/album/7ehWKXdXES5KOnM5sSCOjE) | 2:33 | 2022-10-27 | 2023-03-31 |
+| [Tortellini alla Paulo Dybala](https://open.spotify.com/track/6t1LlfS4FM7lNPu4DvQVu9) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [Tortellini alla Paulo Dybala](https://open.spotify.com/album/3LDu3gqSvaVHqZmWlOtUHJ) | 2:14 | 2023-05-08 |  |
 | [Totò Riina](https://open.spotify.com/track/1tC2jyKepT8S8xd7vzBcPK) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Immigrato](https://open.spotify.com/album/7gyW0t8LnPglkkU1gICpCQ) | 2:22 | 2022-08-25 | 2023-02-17 |
 | [Towro Industria](https://open.spotify.com/track/7h9lrqaS0rg33ku8VaQC5Y) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria](https://open.spotify.com/album/1QV1q7sKhU756R4S4maDMu) | 2:34 | 2022-05-10 | 2022-05-27 |
 | [Towro Industria 2](https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i) | [ODT](https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf), [CrocoJonny](https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH), [Axell](https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka) | [Towro Industria 2](https://open.spotify.com/album/4qKL8ayTp3YmbAQyXKiseN) | 3:29 | 2023-04-06 | 2023-04-28 |

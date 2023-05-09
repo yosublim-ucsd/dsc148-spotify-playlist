@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-115 songs - 10 hr 16 min
+117 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Flores](https://open.spotify.com/track/11og6Mc6Zrz6mDULVTYppk) | [Max Zenger](https://open.spotify.com/artist/4BQaIjXZ3I0j8rDThV7C2b), [Globus](https://open.spotify.com/artist/18F5bmmZmitWWqYTkJqq95), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Kaisa Mäensivu](https://open.spotify.com/artist/7LueFk6L7bLSNynsATb1ck), [Anssi Tirkkonen](https://open.spotify.com/artist/49dmNgQJQPyyNdujxcaqLF) | [Flores](https://open.spotify.com/album/0YaGa6g2ntjSlBqfYb580T) | 15:04 | 2022-09-16 |  |
 | [G.G.'s Last Dance](https://open.spotify.com/track/5bfUURRfjsXDhicXAXMGUG) | [UMO Helsinki Jazz Orchestra](https://open.spotify.com/artist/7wfO8pXRKhjRBFVKdSvdWq), [Ed Partyka](https://open.spotify.com/artist/0MKfBJbsKUII0f4LDnC0ci), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT) | [Last Dance](https://open.spotify.com/album/1wf2PGDEaRQcc8NUIOX0lH) | 14:36 | 2022-09-02 |  |
 | [Good Woman](https://open.spotify.com/track/0yjKisEQNn4guL4s8HpABJ) | [Mariam Sandhu](https://open.spotify.com/artist/72X05Gus2qymTZGujpkmmm) | [Good Woman](https://open.spotify.com/album/5O6bsK4isDbbcr6Sp7bTqD) | 3:07 | 2022-09-02 |  |
+| [Haunted](https://open.spotify.com/track/10hgrMwVYsuM7WzoeZFhU7) | [Selma Savolainen](https://open.spotify.com/artist/6TevDwYMUhsBwWNugUModU) | [Horror Vacui](https://open.spotify.com/album/4NvSV7hcWuNEVKLjrsLZjC) | 3:36 | 2023-05-08 |  |
 | [Hiljainen](https://open.spotify.com/track/0zf7oA2yxkY0pf7FqJFBu8) | [Mikko Sarvanne Garden](https://open.spotify.com/artist/6BNkfqfvbnuPEVyBhANA39) | [Hiljainen](https://open.spotify.com/album/5lzBNkrexXp1rBeOJSIXi3) | 6:25 | 2022-09-22 |  |
 | [Hope](https://open.spotify.com/track/0wIIVAaIVEEezkbF3nywKF) | [Elena Mindru](https://open.spotify.com/artist/47QMhVp3uV1FqiU2RtAlWZ) | [Hope](https://open.spotify.com/album/1bph2eWLw0CiJawMFhb2Pu) | 5:30 | 2022-09-02 | 2023-03-04 |
 | [House of Brew](https://open.spotify.com/track/0eK8guIuSnsakNziWtlOjM) | [Odd Brew](https://open.spotify.com/artist/5XQcF20Zcta812J8zwBUkw) | [House of Brew](https://open.spotify.com/album/153lNWrM4FlgvSiG9SImyJ) | 6:00 | 2022-09-02 | 2022-09-23 |
@@ -120,6 +121,7 @@
 | [Utu](https://open.spotify.com/track/1vaPcZgalYASmWeOmFwNsq) | [Melomatic Orchestra](https://open.spotify.com/artist/1gwwXyk6bfMPCEGaEMvPvp) | [Utu](https://open.spotify.com/album/5O1QSu0FXMEOmb0cK2dsif) | 5:31 | 2022-09-02 |  |
 | [Vanhatie](https://open.spotify.com/track/1hLUkwJHzvVRhbPDkkhaWI) | [OK:KO](https://open.spotify.com/artist/4IKmn7iXDZUlmXShSemrrW) | [Vanhatie](https://open.spotify.com/album/2v4r8lY7yaGYP0TKJXpVZN) | 6:44 | 2022-09-02 |  |
 | [Veden alla \- 2023](https://open.spotify.com/track/6x7mh47gjmjznDKPzlcPcM) | [Emma Salokoski](https://open.spotify.com/artist/4lkbQDGu2L3lpSmZnb0b8U), [Jarmo Saari](https://open.spotify.com/artist/37iScztCuS0YBVo4ta3Gcn) | [Viileässä virrassa](https://open.spotify.com/album/4XVYgJbW4PstuNlOw9cH6k) | 5:40 | 2023-03-29 |  |
+| [Wallbreaker](https://open.spotify.com/track/2a1QyKbVm0QjDk7TAczeM6) | [TRI\-](https://open.spotify.com/artist/3pDqn9WMu3VpFKOTKMxMFi), [Jesse Vilhomaa](https://open.spotify.com/artist/3XNMlZZtmQ1X9sP9vXAkmb), [Arttu Huopainen](https://open.spotify.com/artist/6jJP71guHdMoczUV1XNZE7), [Tuomas Talvi](https://open.spotify.com/artist/149LsIxw1C3cJAuql4F8Rk) | [Wallbreaker](https://open.spotify.com/album/1q8qoE8xtbEML7WnO5qAzW) | 4:49 | 2023-05-08 |  |
 | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/track/0AnjhIB4R0t8xJ2mbAsvtF) | [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [5tet](https://open.spotify.com/artist/5Qm3npTJ6kO8wV8ZySNUbg) | [What Is It \(That You're so Afraid Of\)](https://open.spotify.com/album/34Br3pPRXwTkNWo9nIWjJp) | 6:33 | 2022-09-02 | 2023-02-18 |
 | [Wild Eyes](https://open.spotify.com/track/7sRQdwmpxShzEyYwmHHKbx) | [Martti Vesala Soundpost Quintet](https://open.spotify.com/artist/4yfLJzuJhNaBEJlfe53KnO) | [Wild Eyes](https://open.spotify.com/album/5WLUEKECPdjEr6OKG4YGlA) | 5:37 | 2022-09-02 | 2022-10-14 |
 | [Wings](https://open.spotify.com/track/2aIABbDuZrdLfmKZBFaxUN) | [Uxila Exile](https://open.spotify.com/artist/6I5HxrvGxLIEgDUaXUQjiy) | [Wings](https://open.spotify.com/album/4Qcz7q7xBtkcgfitmaWDnE) | 5:52 | 2022-09-02 |  |

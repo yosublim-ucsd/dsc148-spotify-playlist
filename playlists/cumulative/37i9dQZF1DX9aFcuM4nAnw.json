@@ -322,7 +322,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 208250,
       "name": "1st Night",
       "url": "https://open.spotify.com/track/12yR0xcp0nGr0pSsDzzMUe"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 194946,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/0yMaGil4yVbV6YhXXAXw83"
@@ -1054,6 +1054,24 @@
       "duration_ms": 176254,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/47Iu8veHUAGjZkZRtVmqfo"
+    },
+    {
+      "album": {
+        "name": "4:23",
+        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
+      },
+      "artists": [
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176327,
+      "name": "Goodbye Earth",
+      "url": "https://open.spotify.com/track/6BXYlEGEK7nqb3IMvkgAyT"
     },
     {
       "album": {
@@ -2140,7 +2158,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-09",
       "duration_ms": 307680,
       "name": "The Upside Down",
       "url": "https://open.spotify.com/track/5rwltqXrIniDtZIx4J6u50"

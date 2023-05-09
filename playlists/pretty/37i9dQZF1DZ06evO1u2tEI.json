@@ -1,15 +1,15 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 64848,
+  "num_followers": 64874,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNTc4MTAsMDAwMDAwMDA2YTJhOTg1ZjEwZjlmYWVhMDNjNjYyZGEwNGZhNmE5Nw==",
+  "snapshot_id": "MjgwNTkxOTksMDAwMDAwMDA2ZDgzMWViOWEwMTZiNjM0YTlhYWUxMWYxZTYxZWMwNQ==",
   "tracks": [
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "Waltz #2 (XO)",
-      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
@@ -57,39 +41,7 @@
       "url": "https://open.spotify.com/track/4xfAVJL8R7mVYbDk8a9xOY"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
@@ -100,28 +52,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+      "duration_ms": 280106,
+      "name": "Waltz #2 (XO)",
+      "url": "https://open.spotify.com/track/5AMrnF761nziCWUfjBgRUI"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Son Of Sam",
-      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "XO (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3uLHeL4d8aILBRlfpWNPYM"
@@ -137,7 +73,7 @@
       "url": "https://open.spotify.com/track/4zetUxeSCCDwrr1jJT0SuD"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
@@ -148,28 +84,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 140626,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
+      "duration_ms": 177200,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/0Ziohm1Ku8E2yUDYoclfhO"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Pitseleh",
-      "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
@@ -180,12 +100,28 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 157733,
-      "name": "Everything Reminds Me Of Her",
-      "url": "https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC"
+      "duration_ms": 184293,
+      "name": "Son Of Sam",
+      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
@@ -201,7 +137,7 @@
       "url": "https://open.spotify.com/track/1bFPKxP56XWDXJOwo3Kvfp"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
@@ -212,28 +148,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Ballad Of Big Nothing",
-      "url": "https://open.spotify.com/track/4HqRhdpxH9zFUkf1kzbr3H"
+      "duration_ms": 140626,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "Baby Britain",
-      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
@@ -244,12 +164,28 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 142893,
-      "name": "Everything Means Nothing To Me",
-      "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
+      "duration_ms": 157733,
+      "name": "Everything Reminds Me Of Her",
+      "url": "https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Pitseleh",
+      "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
@@ -265,7 +201,7 @@
       "url": "https://open.spotify.com/track/0AYECTSiSlE8sQtGKypxx2"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
@@ -276,28 +212,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 182560,
-      "name": "Speed Trials",
-      "url": "https://open.spotify.com/track/4gRySBzWoWD2JqEFZnfPuX"
+      "duration_ms": 168266,
+      "name": "Ballad Of Big Nothing",
+      "url": "https://open.spotify.com/track/4HqRhdpxH9zFUkf1kzbr3H"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 137533,
-      "name": "I Didn't Understand",
-      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
@@ -308,12 +228,28 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 194066,
-      "name": "L.A.",
-      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
+      "duration_ms": 142893,
+      "name": "Everything Means Nothing To Me",
+      "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Baby Britain",
+      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Heaven Adores You Soundtrack",
         "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
@@ -333,7 +269,7 @@
       "url": "https://open.spotify.com/track/1QUXSToImDkW7CUzJwRrWQ"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
@@ -344,28 +280,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 223453,
-      "name": "Alameda",
-      "url": "https://open.spotify.com/track/1tmMGcpr8JwkYDOZEK7B2I"
+      "duration_ms": 182560,
+      "name": "Speed Trials",
+      "url": "https://open.spotify.com/track/4gRySBzWoWD2JqEFZnfPuX"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Sweet Adeline",
-      "url": "https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Figure 8",
         "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
@@ -376,12 +296,28 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 113240,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
+      "duration_ms": 194066,
+      "name": "L.A.",
+      "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137533,
+      "name": "I Didn't Understand",
+      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
@@ -397,10 +333,10 @@
       "url": "https://open.spotify.com/track/4UPLlFF10U3St7PaaQGPgi"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
       },
       "artists": [
         {
@@ -408,15 +344,15 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 216480,
-      "name": "Roman Candle",
-      "url": "https://open.spotify.com/track/432cZXiWQjsN8GJgVBFemM"
+      "duration_ms": 223453,
+      "name": "Alameda",
+      "url": "https://open.spotify.com/track/1tmMGcpr8JwkYDOZEK7B2I"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
-        "name": "Heaven Adores You Soundtrack",
-        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
       "artists": [
         {
@@ -424,15 +360,15 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 84013,
-      "name": "Untitled Guitar Finger Picking - Demo",
-      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
+      "duration_ms": 113240,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
-        "name": "Either/Or (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3UVJu0QdTJBfGJBl1AMWEM"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
       "artists": [
         {
@@ -440,12 +376,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 117134,
-      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed And Remastered 2017",
-      "url": "https://open.spotify.com/track/5ZcaVWg9HsFf2DdMgH0FEl"
+      "duration_ms": 195893,
+      "name": "Sweet Adeline",
+      "url": "https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
@@ -461,7 +397,7 @@
       "url": "https://open.spotify.com/track/4R5su0RMFPUeReN0xkWalx"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
@@ -472,12 +408,44 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 193506,
-      "name": "No Name #3",
-      "url": "https://open.spotify.com/track/2AqFIGyQtszt9poExltU59"
+      "duration_ms": 216480,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/432cZXiWQjsN8GJgVBFemM"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Heaven Adores You Soundtrack",
+        "url": "https://open.spotify.com/album/7Ilu6VpX49cnTkgklQpz4M"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 84013,
+      "name": "Untitled Guitar Finger Picking - Demo",
+      "url": "https://open.spotify.com/track/6BXLntndW03EEgAZr5NC3Z"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Either/Or (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3UVJu0QdTJBfGJBl1AMWEM"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 117134,
+      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed And Remastered 2017",
+      "url": "https://open.spotify.com/track/5ZcaVWg9HsFf2DdMgH0FEl"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Figure 8 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
@@ -493,39 +461,7 @@
       "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/040SAslpJAljYm1TANiQJ2"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "Whatever (Folk Song In C)",
-      "url": "https://open.spotify.com/track/4B0ev59DimAmNoBNTQ0NGd"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Roman Candle",
         "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
@@ -536,28 +472,12 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 214520,
-      "name": "Condor Ave",
-      "url": "https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF"
+      "duration_ms": 193506,
+      "name": "No Name #3",
+      "url": "https://open.spotify.com/track/2AqFIGyQtszt9poExltU59"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 147453,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/2hHJhyR9zGSuk204Y5AcMC"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
@@ -573,7 +493,71 @@
       "url": "https://open.spotify.com/track/3Bl3v4pSVO1a2U0Pprm5KM"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/4B0ev59DimAmNoBNTQ0NGd"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 147453,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/2hHJhyR9zGSuk204Y5AcMC"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Condor Ave",
+      "url": "https://open.spotify.com/track/4Tz0TCqxlpMDDMQWMycyEF"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/040SAslpJAljYm1TANiQJ2"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
@@ -589,23 +573,7 @@
       "url": "https://open.spotify.com/track/00tFEPQtl9JiaIhpu1Ck8u"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/0V3n79cWMOFFRCji5HOUhN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "No Name #1",
-      "url": "https://open.spotify.com/track/09xUNc3vKdOmH74jWIYfAm"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
@@ -621,7 +589,23 @@
       "url": "https://open.spotify.com/track/1vQu2XkLm2mgw48oE84OjH"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/1eDfnmvAgfetD1Sdbk0kcG"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
@@ -637,7 +621,7 @@
       "url": "https://open.spotify.com/track/1GRafxm1wx4A31ULSBhKRt"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
@@ -653,23 +637,7 @@
       "url": "https://open.spotify.com/track/2t032KmOaOGSN0LiQ3Xjxx"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 214480,
-      "name": "No Name #2",
-      "url": "https://open.spotify.com/track/6M1NSKQGdJyfWlp0h2eYHD"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
@@ -685,7 +653,23 @@
       "url": "https://open.spotify.com/track/0YydEayh3crkMEovsELWbQ"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 214480,
+      "name": "No Name #2",
+      "url": "https://open.spotify.com/track/6M1NSKQGdJyfWlp0h2eYHD"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "Elliott Smith",
         "url": "https://open.spotify.com/album/0w0jXq1fLPMPCNsVmmxNnc"
@@ -701,7 +685,7 @@
       "url": "https://open.spotify.com/track/5A5q93kc6Lpf5gCIV45G9v"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "New Moon",
         "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
@@ -717,23 +701,7 @@
       "url": "https://open.spotify.com/track/34Bn5DJHKf75bxLztpTKmH"
     },
     {
-      "added_at": "2023-05-07 14:10:29",
-      "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Kiwi Maddog 20/20 (Version 2)",
-      "url": "https://open.spotify.com/track/4VVVIchlJFKul9vntEVNcz"
-    },
-    {
-      "added_at": "2023-05-07 14:10:29",
+      "added_at": "2023-05-08 13:19:06",
       "album": {
         "name": "From A Basement On The Hill",
         "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
@@ -747,6 +715,22 @@
       "duration_ms": 33800,
       "name": "Ostrich And Chirping",
       "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+    },
+    {
+      "added_at": "2023-05-08 13:19:06",
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/0vgbFgcYqm2B0csVXvo8d5"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Kiwi Maddog 20/20 (Version 2)",
+      "url": "https://open.spotify.com/track/4VVVIchlJFKul9vntEVNcz"
     }
   ],
   "unique_name": "This Is Elliott Smith",

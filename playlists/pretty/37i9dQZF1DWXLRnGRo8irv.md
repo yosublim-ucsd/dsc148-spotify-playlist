@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,991 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,988 likes - 51 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 50 | [That's all I have to do \(with Yoonhansol\)](https://open.spotify.com/track/1W1ISJ1PLQeimOCEqeflKP) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 4:34 |
 | 51 | [Because \(with KIMmM\)](https://open.spotify.com/track/3uYip19DHKDCRyPMipa2jX) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [KIMmM](https://open.spotify.com/artist/2G6OGPNjCA2OmUAeVD8lFN) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:46 |
 
-Snapshot ID: `MCw0YTNkNTlmOTJhZDJmNTA1MjQ4Yjc1ODFmY2E0ZmMyN2M3YjY1ODJk`
+Snapshot ID: `MCw0ZTRiNjRkYTE4NTljZmI3ZWVjNWIxZmM3ZTQ1N2ZlNWFmY2Y0OTUw`

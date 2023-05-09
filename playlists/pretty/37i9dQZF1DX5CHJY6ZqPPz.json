@@ -1,15 +1,115 @@
 {
   "description": "All about aespa: meeting another self and experiencing the new world",
-  "num_followers": 86822,
+  "num_followers": 87781,
   "original_name": "This Is aespa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODBiODY4M2E5ODMxOWNkMThkMzQyNjMwNjg5YTk0ZjUwZjE0MGMx",
+  "snapshot_id": "MCwyODAzZDk0ZWVkMGRmOGFiZmI1MzJkZDE3OWYzZDAwYmViZjk2N2Mz",
   "tracks": [
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "added_at": "2023-05-08 09:56:13",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "n\u00e6vis",
+          "url": "https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "Welcome To MY World (feat. n\u00e6vis)",
+      "url": "https://open.spotify.com/track/3q5qpprtugUIEPExuI7tRD"
+    },
+    {
+      "added_at": "2023-05-08 09:56:13",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Salty & Sweet",
+      "url": "https://open.spotify.com/track/4wQDjZtXjsFtU3BLSiIH4t"
+    },
+    {
+      "added_at": "2023-05-08 09:56:13",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 193413,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/6nICBdDevG4NZysIqDFPEa"
+    },
+    {
+      "added_at": "2023-05-08 09:56:13",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "I'm Unhappy",
+      "url": "https://open.spotify.com/track/6fzio74FGqFFsenYkbGPzR"
+    },
+    {
+      "added_at": "2023-05-08 09:56:13",
+      "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "'Til We Meet Again",
+      "url": "https://open.spotify.com/track/60Uio68M57PwKEgZxSutL6"
+    },
+    {
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
@@ -25,7 +125,7 @@
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Beautiful Christmas",
         "url": "https://open.spotify.com/album/1oniugll0x2gZ3l7o4z9iG"
@@ -45,7 +145,7 @@
       "url": "https://open.spotify.com/track/3k7FTBQkstaBcYHamx9jqe"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -61,7 +161,7 @@
       "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Life's Too Short",
         "url": "https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx"
@@ -77,7 +177,7 @@
       "url": "https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
@@ -93,7 +193,7 @@
       "url": "https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -109,7 +209,7 @@
       "url": "https://open.spotify.com/track/3tB10LUdisNWISpLw5gPCk"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -125,7 +225,7 @@
       "url": "https://open.spotify.com/track/1uIN3VCVKzMXqF2A2Qlw5q"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Girls - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
@@ -141,7 +241,7 @@
       "url": "https://open.spotify.com/track/11JpW4h96X4TlGt6LFpNCC"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Our Blues, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/0mP330aRyX4P4ZjarRKnXO"
@@ -161,7 +261,7 @@
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -177,7 +277,7 @@
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -193,7 +293,7 @@
       "url": "https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -209,7 +309,7 @@
       "url": "https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -225,7 +325,7 @@
       "url": "https://open.spotify.com/track/3UKKwGrpWWamc0XNSKXjmz"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -241,7 +341,7 @@
       "url": "https://open.spotify.com/track/5bMHrigI1EAmZdiyRzKoQi"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
@@ -257,7 +357,7 @@
       "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
@@ -273,7 +373,7 @@
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Dreams Come True - SM STATION",
         "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"
@@ -289,7 +389,7 @@
       "url": "https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
@@ -305,7 +405,7 @@
       "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Black Mamba",
         "url": "https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7"
@@ -321,7 +421,7 @@
       "url": "https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Forever (\uc57d\uc18d)",
         "url": "https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj"
@@ -337,7 +437,7 @@
       "url": "https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
@@ -357,7 +457,7 @@
       "url": "https://open.spotify.com/track/34r29cNzzV4elD0XTz1ihT"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
@@ -377,7 +477,7 @@
       "url": "https://open.spotify.com/track/1OscRS80PF5n0hDkI9S1F2"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
@@ -397,7 +497,7 @@
       "url": "https://open.spotify.com/track/7fKRGSEsy6Y5e1gE7trjAv"
     },
     {
-      "added_at": "2023-04-12 04:14:18",
+      "added_at": "2023-05-08 09:56:13",
       "album": {
         "name": "Dreams Come True - SM STATION",
         "url": "https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful"

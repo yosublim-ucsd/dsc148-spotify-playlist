@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-475 songs - 1 day 3 hr 35 min
+476 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [BACK ONLINE](https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [BACK ONLINE](https://open.spotify.com/album/4Jo971sLoS2lO4bf9hKe2j) | 3:37 | 2023-02-24 |  |
 | [Back Talk](https://open.spotify.com/track/3btt4vfOsIFPlW3HxcEf3R) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Back Talk](https://open.spotify.com/album/6Y4o40DOaXEAuqWpJWcHKk) | 3:42 | 2022-04-15 | 2022-08-06 |
 | [Back To Back](https://open.spotify.com/track/0hvKdjFlKowmHaAr6RJWBh) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [UBUR](https://open.spotify.com/artist/2m8lZUuPm2BLQ2c8gtIAV6), [Armanni Reign](https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI) | [Back To Back](https://open.spotify.com/album/3Scp9GrDoeAKbNfvX8vVRM) | 2:53 | 2021-12-17 | 2022-02-19 |
+| [Back To The Top](https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj) | 3:18 | 2023-04-28 |  |
 | [Back To The Top](https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Back To The Top](https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw) | 3:18 | 2022-05-27 | 2023-05-03 |
 | [Bad](https://open.spotify.com/track/3t7Zhr4y9osHilpdq6OHTQ) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27) | [Bad](https://open.spotify.com/album/5OEGVD1H1td8HGMBNS3EAW) | 3:31 | 2021-12-17 | 2022-03-12 |
 | [Badman](https://open.spotify.com/track/5RD6iZpOFkVuT3SW4eAHuZ) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [Badman](https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT) | 4:33 | 2022-06-03 |  |
@@ -396,7 +397,7 @@
 | [Spirit Showdown](https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Phocust](https://open.spotify.com/artist/3Aov39Y01vC3JXRQiw3Pd0) | [Spirit Showdown](https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs) | 3:21 | 2023-01-27 | 2023-02-28 |
 | [SPLIT PERSONALITY](https://open.spotify.com/track/6yOjZ2PR2FHvzfjXSDU4YS) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [SPLIT // PERSONALITY PT\. 02](https://open.spotify.com/album/7FJcgF7wIWAmzFN2uRi484) | 4:39 | 2021-12-17 | 2022-02-19 |
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-05-13 |  |
-| [Stay](https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Stay](https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY) | 2:32 | 2022-07-29 |  |
+| [Stay](https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Stay](https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY) | 2:32 | 2022-07-29 | 2023-05-09 |
 | [Stinger](https://open.spotify.com/track/0yrSc38VgNvTRVfzD01oDE) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [Stinger](https://open.spotify.com/album/0nXwYZwtzmke8C5VlMQDY3) | 3:50 | 2021-12-17 | 2022-02-19 |
 | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/track/6bfyfZ0UV3K9Broh54iXaw) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Stop Thinking \(feat\. Lights\)](https://open.spotify.com/album/2cC9ykuhZFjOaaytZGRi8K) | 4:52 | 2022-10-14 |  |
 | [Suffer \(feat\. Elle Vee\)](https://open.spotify.com/track/5gopgUCFUOnS60WqZRvDX4) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [MARAUDA](https://open.spotify.com/artist/3YLUvWzk9eBm1WrHFlZxM4), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH) | [Suffer \(feat\. Elle Vee\)](https://open.spotify.com/album/0ClwugGUZDLLGekquQgeyd) | 6:03 | 2021-12-17 | 2022-03-12 |

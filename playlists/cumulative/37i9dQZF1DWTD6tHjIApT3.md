@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Uru
 
-1,322 songs - 3 day 14 hr 5 min
+1,323 songs - 3 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -767,6 +767,7 @@
 | [あいたいわ](https://open.spotify.com/track/27vB0Sx5kEvVsjPOko8gDn) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [あいたいわ](https://open.spotify.com/album/29hrW061sEYxEqFdSxmUkv) | 3:20 | 2022-09-27 | 2022-10-05 |
 | [あいまって。](https://open.spotify.com/track/7cP0835n4b8PbT0eA2VttB) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [あいまって。](https://open.spotify.com/album/6wWxRz4EW01BgFG89CXw7l) | 3:45 | 2022-06-02 | 2022-07-27 |
 | [あかい](https://open.spotify.com/track/299XX9C7B56JuqGtokDeap) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あかい](https://open.spotify.com/album/4xHSKbJ1A4RlyCsT1J1siD) | 3:34 | 2022-08-17 | 2022-08-24 |
+| [あたしが死んでも](https://open.spotify.com/track/3bJUYzp2dq4ZPz448hCmzm) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [純愛クローゼット](https://open.spotify.com/album/5sZ9pXCCxfRLpVJ6QLrMw9) | 4:37 | 2023-05-08 |  |
 | [あたりまえに](https://open.spotify.com/track/1cNFIt4DtWVzH0rnbpEsio) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [あたりまえに](https://open.spotify.com/album/6u9Kg6Q7dP9L5s5IQ6O1Iq) | 3:49 | 2022-08-02 | 2022-09-02 |
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 |  |
 | [あなたが課金しないなら](https://open.spotify.com/track/0vvbQxbtAz2foovHOPkWQw) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv), [AATA](https://open.spotify.com/artist/73mPAqGn9r2CPr5kh28dX5) | [あなたが課金しないなら](https://open.spotify.com/album/0iHAdNeMIbKgA3oMMA03Jk) | 4:15 | 2022-06-21 | 2022-06-29 |
@@ -1297,7 +1298,7 @@
 | [都会の森](https://open.spotify.com/track/3ZSqz0qiV7R2pPbL4HqCB3) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [MEBAE](https://open.spotify.com/album/4lbg2191lwQjtdytyUuQfi) | 4:37 | 2022-06-07 | 2022-07-28 |
 | [都会ガール \- DE DE MOUSE 都会1988 Mix](https://open.spotify.com/track/6qE0R51Y2ipO1x1bNPuv4O) | [Lafuzin](https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo), [BRIAN SHINSEKAI](https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [都会ガール \(DE DE MOUSE 都会1988 Mix\)](https://open.spotify.com/album/5RFfoobiLbmSDJ0uHry30a) | 3:12 | 2022-11-15 | 2022-11-23 |
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-05-29 | 2022-07-29 |
-| [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 | 2022-08-09 |  |
+| [酸欠少女](https://open.spotify.com/track/2RZXA7qGu9Ei3iNpKhv4TP) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 4:08 | 2022-08-09 | 2023-05-09 |
 | [針が進む](https://open.spotify.com/track/1zFziWIZfb58Vk11aB6e0L) | [成田あより](https://open.spotify.com/artist/7MX2gMsKCZU1PcsL40wzNQ) | [針が進む](https://open.spotify.com/album/3A1ly5MHBI1i60t5XalAIN) | 3:58 | 2022-11-10 | 2022-11-16 |
 | [鎌倉 On The Beach](https://open.spotify.com/track/45vwX3MfenJhwt0W0D4vdK) | [Yuko Hara](https://open.spotify.com/artist/176umXeBGLzt8j80Bh53l0) | [鎌倉 On The Beach](https://open.spotify.com/album/4NA2AJQ9BrkoT5GrvlnHWB) | 4:17 | 2022-09-29 | 2022-10-01 |
 | [陶芸](https://open.spotify.com/track/7HcufLjbzyaRauzRET8hfj) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Mining](https://open.spotify.com/album/7KvPSi87joIQXyTgPLoHe8) | 2:17 | 2022-08-17 | 2022-09-03 |

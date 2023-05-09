@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー:  ちゃんみな \(CHANMINA\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,714 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,742 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Illegal](https://open.spotify.com/track/698DmNlHSMoRsRu7TljpLX) | [Marukido](https://open.spotify.com/artist/2TGGk4cLMH1vGMAktQBhZT), [Ayu](https://open.spotify.com/artist/7HF7JMvXXQFblGwMUYb8lP), [namichie](https://open.spotify.com/artist/3RtSsC1hY28YyW1UrYbA7V) | [Illegal](https://open.spotify.com/album/5GyV8gh1ptkAUOQHiIEXnd) | 4:08 |
 | 50 | [文句BOO](https://open.spotify.com/track/0KQNpbibprdmxZC5IqWZlT) | [Yoshida Rinne](https://open.spotify.com/artist/5gTFlmH6wrELPY1F9wjL4X), [Taiyo Doki](https://open.spotify.com/artist/6XgVTH23mwOsLLQoqwKjHz) | [文句BOO](https://open.spotify.com/album/6470zFVyUVT77yHp81YlvX) | 3:07 |
 
-Snapshot ID: `MCxmYTQ4YjE2NWUwNTdkZDU4ZDQzYThkNTE2ZDZhNWZkM2I1NmNhZmI0`
+Snapshot ID: `MCwzZTgwZjMwZWVjYTc5NjgzOGNhZjVjZDcyYzE4MzZiZWI2NTUzNmE0`
