@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378556,
+  "num_followers": 378583,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl",
+  "snapshot_id": "MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 252864,
+      "name": "Free In The Knowledge",
+      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 252864,
-      "name": "Free In The Knowledge",
-      "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "YOUNG",
-        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
-      },
-      "artists": [
-        {
-          "name": "Overcoats",
-          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
-        }
-      ],
-      "duration_ms": 168933,
-      "name": "Nighttime Hunger",
-      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Frail State Of Mind",
         "url": "https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 234811,
       "name": "Frail State Of Mind",
       "url": "https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm"
+      },
+      "artists": [
+        {
+          "name": "Overcoats",
+          "url": "https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Nighttime Hunger",
+      "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
+      },
+      "artists": [
+        {
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
+        },
+        {
+          "name": "Crooked Colours",
+          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
+        }
+      ],
+      "duration_ms": 185885,
+      "name": "superpowerful (with Crooked Colours)",
+      "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/68kXIO39vMHYsJ0OcMa6mx"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 207499,
       "name": "Fluff",
       "url": "https://open.spotify.com/track/0dIjXvuRcRJKMqiofuFeyc"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        },
-        {
-          "name": "Crooked Colours",
-          "url": "https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN"
-        }
-      ],
-      "duration_ms": 185885,
-      "name": "superpowerful (with Crooked Colours)",
-      "url": "https://open.spotify.com/track/3KgfNzfM4LfxP2v2miNIvh"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Losing Sleep",
-        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fraser",
-          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
-        }
-      ],
-      "duration_ms": 222885,
-      "name": "Losing Sleep",
-      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "The Color of Nothing",
         "url": "https://open.spotify.com/album/3T1U4lbkboCmPLvXf8iPLF"
       },
@@ -1631,18 +1615,38 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
+        "name": "Losing Sleep",
+        "url": "https://open.spotify.com/album/7o8ly8OTyBXGmh050Iu3A4"
       },
       "artists": [
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "Dylan Fraser",
+          "url": "https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D"
         }
       ],
-      "duration_ms": 173375,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
+      "duration_ms": 222885,
+      "name": "Losing Sleep",
+      "url": "https://open.spotify.com/track/6NBP6H1F1L5THU7DFoCNgU"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "A Million Times (HONNE remix)",
+        "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 246409,
+      "name": "A Million Times - HONNE remix",
+      "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "A Million Times (HONNE remix)",
-        "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
         }
       ],
-      "duration_ms": 246409,
-      "name": "A Million Times - HONNE remix",
-      "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
+      "duration_ms": 173375,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/3c2iJnktGttp0MqYq2OhWl"
     },
     {
       "added_at": "2023-01-11 21:01:15",

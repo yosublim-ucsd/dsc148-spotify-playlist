@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: AKA AFK
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,811 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,829 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 37 | [Baile](https://open.spotify.com/track/4YJ1XOQF5kywDHybuInr3P) | [TDL](https://open.spotify.com/artist/3K89zxSDqwJpcKuc92vwF1), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Baile](https://open.spotify.com/album/6afR5dNao04mJYz5Ykwrwl) | 2:59 |
 | 38 | [GISELE BITCH](https://open.spotify.com/track/6qMZAQuj67AMLJywtSGMZm) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [@yungg.prod](https://open.spotify.com/artist/6riBq3f3tO9DFWTNwOx3VI) | [Antiherói](https://open.spotify.com/album/2Ubq2vUBzaYlyH1kCHrshO) | 2:44 |
 | 39 | [Vida Bandida](https://open.spotify.com/track/7D6AtgWoXk6jfIruYHBmK7) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Da Lama ao Topo](https://open.spotify.com/album/7IGtw0TWJc1PnSeGf2jp5m) | 2:32 |
-| 40 | [Antes Do Flash](https://open.spotify.com/track/0vMe8XxjQjc3lNxT2VGkzn) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB) | [Top Boy Face \(Deluxe\)](https://open.spotify.com/album/3lJr7pZaTSuYRnY3hld2zQ) | 3:14 |
+| 40 | [Antes Do Flash](https://open.spotify.com/track/0vMe8XxjQjc3lNxT2VGkzn) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Top Boy Face \(Deluxe\)](https://open.spotify.com/album/3lJr7pZaTSuYRnY3hld2zQ) | 3:14 |
 | 41 | [Namorada Nova](https://open.spotify.com/track/65gAkSz41YfDQ4S70TG9Jd) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Sobs](https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9), [Sueth](https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX) | [Namorada Nova](https://open.spotify.com/album/3SggglQj8jp2Jgaf8sMTkX) | 3:46 |
-| 42 | [Direção](https://open.spotify.com/track/4hecOYH9nKVShk5gKu8OAC) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB) | [Top Boy Face, Vol\. 1](https://open.spotify.com/album/3NfBoZkmkSrABQ18BtghlM) | 2:43 |
+| 42 | [Direção](https://open.spotify.com/track/4hecOYH9nKVShk5gKu8OAC) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Top Boy Face, Vol\. 1](https://open.spotify.com/album/3NfBoZkmkSrABQ18BtghlM) | 2:43 |
 | 43 | [Midio](https://open.spotify.com/track/48x2oAieb2KwWhab3vhifB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u) | [Midio](https://open.spotify.com/album/0XiqFoJpqkH0DOHbq5bBlY) | 2:43 |
 | 44 | [SP igual Birmigham](https://open.spotify.com/track/1KlyWpzvFxUqP7Ni3ro6KA) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [Stretch DCM](https://open.spotify.com/artist/0jw96V6IggQqtxGzwbEyHM), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [Enigma](https://open.spotify.com/artist/0rHv4lpQmpMv4qboL8KaaQ) | [BR 140](https://open.spotify.com/album/103Rss3Qt0JvwKj8MFMPcC) | 2:30 |
 | 45 | [Final da Liberta](https://open.spotify.com/track/5QVwTAwVPZxaXnWwK8CJPi) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Frugi](https://open.spotify.com/artist/6pnILCpyHaqMnMASeLtpd8) | [Antiherói](https://open.spotify.com/album/1qXU9PGYsVT6hhwl1vVGlC) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Artilheiro](https://open.spotify.com/track/00F0BEVzn3O44RT9DFUsKo) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Artilheiro](https://open.spotify.com/album/4KGIXDOJ3hiZO4DGyVC8pn) | 2:26 |
 | 75 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCxjMzY2YTcyMTg0NTIyMDQ2NjhjYzBlNGNhM2YzMmYyMjFkNTgzNjZj`
+Snapshot ID: `MCwxYTU2YTkyYjc1NGMxMTcyZjQ5NTBlMGU2ZTM1NjQzNmM4OWFhZjcz`

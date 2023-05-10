@@ -1,12 +1,12 @@
 {
   "description": "All live, all blues. Cover: Jackie Venson",
-  "num_followers": 154718,
+  "num_followers": 154777,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2M4NDVhYzUyMDVhODQyYWFiYzQwMWViYTdkYjYxMjkwMWU1YTk4",
+  "snapshot_id": "MCwyNGNlYTEwOWZkZGM5MjFhM2JiZmJiZjk5ZGYzNTAzY2EyYzRjOGZm",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -869,6 +869,38 @@
       "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
     },
     {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Live In Europe",
+        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
+    },
+    {
+      "added_at": "2020-10-30 17:47:12",
+      "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "duration_ms": 387346,
+      "name": "Diamonds & Gold - Live",
+      "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
+    },
+    {
       "added_at": "2021-09-17 04:02:00",
       "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
@@ -891,38 +923,6 @@
       "duration_ms": 426835,
       "name": "Mr Luck (feat. Mick Taylor) - Live",
       "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Straight To You: Live",
-        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Wayne Shepherd",
-          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
-        }
-      ],
-      "duration_ms": 387346,
-      "name": "Diamonds & Gold - Live",
-      "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
-    },
-    {
-      "added_at": "2020-10-30 17:47:12",
-      "album": {
-        "name": "Live In Europe",
-        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
-      },
-      "artists": [
-        {
-          "name": "Tony Spinner",
-          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
     },
     {
       "added_at": "2020-10-30 17:47:12",

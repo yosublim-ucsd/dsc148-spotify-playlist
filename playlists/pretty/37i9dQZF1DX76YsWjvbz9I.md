@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic Jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,178 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,458 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 34 | [All Of You](https://open.spotify.com/track/3XOJhbofb4qTZdt0RLLrUq) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday With Ray Ellis And His Orchestra](https://open.spotify.com/album/780YbUDX22mHli9KRZZwKu) | 2:32 |
 | 35 | [Fly Me To The Moon](https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [If I Ruled The World: Songs For The Jet Set](https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX) | 4:09 |
 | 36 | [The More I See You](https://open.spotify.com/track/5Vtq6dHdwbjHqifCeSL4d3) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 1:44 |
-| 37 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
-| 38 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
+| 37 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 |
+| 38 | [Taking A Chance On Love](https://open.spotify.com/track/6gaYlANvT72vnO0cGACx2A) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 2:24 |
 | 39 | [Save Your Love For Me](https://open.spotify.com/track/4ur0Fd4coSwWtP8MWpkjR9) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:44 |
 | 40 | [As Long As I'm In Your Arms](https://open.spotify.com/track/77fsTNViSLqcwuSMQhSwB0) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [September In The Rain](https://open.spotify.com/album/1UMCHEE4nXBN2JLOgk7rQV) | 1:58 |
 | 41 | [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 51 | [My Romance](https://open.spotify.com/track/4y8icjzu6fZP503Mg31Tpn) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Rodgers And Hart Song Book](https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9) | 3:44 |
 | 52 | [Dream A Little Dream Of Me \- 1998 Remaster](https://open.spotify.com/track/50zTR9gR9NGol94nv0rZXf) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Amore](https://open.spotify.com/album/4u2mdmf6P2cTE5M2rhbovR) | 3:15 |
 | 53 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 |
-| 54 | [You Better Go Now](https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [You Better Go Now](https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i) | 3:02 |
-| 55 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:41 |
-| 56 | [Have You Met Miss Jones](https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Can't Resist You \- My Summer Love](https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K) | 2:05 |
+| 54 | [Bewitched, Bothered and Bewildered](https://open.spotify.com/track/0m4Ka878HsCzbypCAxLQWG) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [The Essential Doris Day](https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31) | 2:41 |
+| 55 | [You Better Go Now](https://open.spotify.com/track/5AkSRiCUdA4ozdXslHez1j) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [You Better Go Now](https://open.spotify.com/album/7jMUkrz9wcdHbW67l1gm8i) | 3:02 |
+| 56 | [The touch of your lips](https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:19 |
 | 57 | [Too Marvelous For Words](https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady Sings The Blues](https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo) | 2:12 |
-| 58 | [The touch of your lips](https://open.spotify.com/track/4QwzVlAJSkcLeCNQ6Ug30P) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Touch Of Your Lips](https://open.spotify.com/album/6c2YK2NhQfnN1eyVqxF5bm) | 8:19 |
+| 58 | [Have You Met Miss Jones](https://open.spotify.com/track/1gpAfQ8jtLxlqARnuhysFc) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Can't Resist You \- My Summer Love](https://open.spotify.com/album/3ZoUT0HdjBcsSpNR0Oi24K) | 2:05 |
 | 59 | [How Long Has This Been Going On?](https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [In Blue](https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp) | 5:39 |
 | 60 | [All The Way](https://open.spotify.com/track/4YZL8oBgTZrLYeAFHWuDJP) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra's Sinatra](https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5) | 3:29 |
 | 61 | [What a Difference a Day Makes](https://open.spotify.com/track/1qJZMKfspF92mDSeQtkjb6) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Winners](https://open.spotify.com/album/5t0NxBH6oTG4ycs7l7Qtgr) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 99 | [Then I'll Be Tired Of You](https://open.spotify.com/track/5OTjnQB7ZtlT6LtSSgfIqN) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq), [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK) | [Dinah Sings, Previn Plays](https://open.spotify.com/album/0WfnKepXKonBazvtxWVdLe) | 3:19 |
 | 100 | [Wait 'Til You See Her](https://open.spotify.com/track/4LXa7I51n7gzUf2TKu9vpM) | [Matt Dennis](https://open.spotify.com/artist/518N7qPrUx1WQJTl0IZC3I) | [Matt Dennis \- Four Complete Albums](https://open.spotify.com/album/3knF6YC5Rdeg8J7S7yu4vR) | 2:46 |
 
-Snapshot ID: `MCw2ZDhkNzU4OTFjYzc1YjM4MmQ2YzZhZWJjZTgwNTdmMTgwZTFmYWUx`
+Snapshot ID: `MCw2OTJkODQzYTAxODUxYWVmZTlhOGZlNjQzYWFmMTg2N2QyZTA1MGJk`

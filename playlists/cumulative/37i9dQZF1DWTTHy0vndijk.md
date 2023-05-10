@@ -2,9 +2,9 @@
 
 ### [Satang Mix \(사탕 믹스\)](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
 
-> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: tripleS \(트리플에스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
+> Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Feverse \(피버스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-341 songs - 19 hr 14 min
+342 songs - 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Angel Song](https://open.spotify.com/track/7pFK8TQPoGrLIiCB30SkGh) | [APRIL](https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa) | [APRIL 5th Mini Album 'The Blue'](https://open.spotify.com/album/6peri17gXJDs3LQeeD66ju) | 3:35 | 2022-03-29 | 2022-04-14 |
 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 | 2021-11-29 |  |
 | [ARIA](https://open.spotify.com/track/2ImbyerPmaYvCAijEsXtoD) | [Yerin](https://open.spotify.com/artist/7htnZJTm5SZsmKRrnOL5mk) | [ARIA](https://open.spotify.com/album/27QtRd7Fhr3ZaU0vdtwnHW) | 2:27 | 2022-05-18 | 2022-07-18 |
-| [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 | 2021-11-29 |  |
+| [As You Wish](https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [As You Wish](https://open.spotify.com/album/5QsZIQcV5BOX9Tzj3IPVyo) | 3:15 | 2021-11-29 | 2023-05-10 |
 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 | 2021-11-29 |  |
 | [ASSA](https://open.spotify.com/track/2VJpcZ7FnA1JAJaBYhY0ui) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [ASSA](https://open.spotify.com/album/7EwGbejnlFJdnqbXPG0EOx) | 3:21 | 2022-01-04 | 2022-04-14 |
 | [AURORA](https://open.spotify.com/track/41GURJxjE5urzLnrw2O2sI) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [cignature 3rd EP Album ‘My Little Aurora’](https://open.spotify.com/album/0Bhl5VhnxFho8slGxiBgZK) | 3:26 | 2023-01-17 | 2023-02-15 |
@@ -60,6 +60,7 @@
 | [Cherry Talk](https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [+\(KR\)ystal Eyes <AESTHETIC>](https://open.spotify.com/album/5GNSmUrJmZvgBvouXS8ZGp) | 2:51 | 2023-05-05 |  |
 | [Chi Mat Ba Ram](https://open.spotify.com/track/7od91jr6uXk0JoxVaIRA18) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Summer Queen](https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi) | 3:37 | 2021-11-29 | 2022-08-14 |
 | [Chillin' Chillin'](https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:26 | 2021-11-29 | 2022-07-29 |
+| [CHO](https://open.spotify.com/track/0I8H0lm68BUZphZx3Qu611) | [Feverse](https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ) | [CHO](https://open.spotify.com/album/3xRq6x8OjeM3rrLU2Mepgc) | 3:24 | 2023-05-09 |  |
 | [Chococo](https://open.spotify.com/track/3uJiBnEDBji3kNOA22exfL) | [gugudan](https://open.spotify.com/artist/0h7XZWgoxlY49uSUj7MVRY) | [Act.3 Chococo Factory](https://open.spotify.com/album/4FcriwGRWvBmjw1NYD87dO) | 3:40 | 2021-11-29 | 2022-05-02 |
 | [Close To You](https://open.spotify.com/track/1DS38HjEoXLWnPeIoyI2X9) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 6th Mini Album \[Once upon a time\]](https://open.spotify.com/album/5FH6bvjJY0GCZwMgNvarAR) | 3:36 | 2021-11-29 | 2022-06-27 |
 | [CLOVER](https://open.spotify.com/track/3NMNdvHprM0MoV1sAWO7LK) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [To\. Day](https://open.spotify.com/album/09r6g4aYjC6WqIxmTNHaZx) | 3:21 | 2022-01-04 | 2022-07-16 |
@@ -112,7 +113,7 @@
 | [FRESH](https://open.spotify.com/track/4Az5BSC0ud7E5Dx3xoI8Mh) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [FRESH](https://open.spotify.com/album/4pyOB4Ao8xUYXyfOd8Sj1f) | 3:27 | 2021-11-29 | 2022-06-25 |
 | [frozen](https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B) | [LOONA/yyxy](https://open.spotify.com/artist/5JPKwLsHGaPIlxqHiF29e4) | [beauty&thebeat](https://open.spotify.com/album/2kyVSOU7qUn6c3WqHjhMB1) | 3:27 | 2021-11-29 | 2022-07-26 |
 | [FUN!](https://open.spotify.com/track/2yEjyto6ztOMGffProMlgX) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/242r7I1BKR3nyDKwieT43f) | 3:03 | 2022-03-29 | 2022-04-21 |
-| [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-07-28 | 2023-03-28 |
+| [FUN!](https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [FUN FACTORY](https://open.spotify.com/album/3uMKUGH8pf5hzeyw44aiTF) | 3:03 | 2022-07-28 |  |
 | [Gee \- Live](https://open.spotify.com/track/3f5tqrL3PfRrfxFwoYrOhQ) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Into The New World \(The First Asia Tour\)](https://open.spotify.com/album/3gQKLh7YC3VjvO3AMDVuJt) | 3:21 | 2022-03-29 | 2022-05-18 |
 | [Glass Bead](https://open.spotify.com/track/2rFRa1eJ8RqlINbJCZwdtt) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 1st Mini Album 'Season Of Glass'](https://open.spotify.com/album/3yOVupLmLpD7Qosl08ow0u) | 3:23 | 2021-11-29 | 2022-07-20 |
 | [Glass Shoes](https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Fromis\_9 PRE\-DEBUT Single](https://open.spotify.com/album/3tm1tbyC1FgCrtMraqJXBr) | 3:11 | 2021-11-29 | 2022-07-29 |
@@ -202,7 +203,7 @@
 | [Now, We](https://open.spotify.com/track/6OwHKARRC2QrDllpextLMN) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 2nd Album Repackage \(Now, We\)](https://open.spotify.com/album/78NxvXVrMKH7s3CZqSQOcK) | 3:16 | 2021-11-29 | 2022-07-24 |
 | [NUMNUM](https://open.spotify.com/track/2JGy6nIFRqS0OGq0HRguk0) | [DayDream](https://open.spotify.com/artist/7skeDYplGZVR7Kgzpz49Bq) | [NUMNUM](https://open.spotify.com/album/6oPK3VHxcMgQ87kO76zmpa) | 3:02 | 2022-01-26 | 2022-07-04 |
 | [Nun Nu Nan Na](https://open.spotify.com/track/7ladzyHoK60op9Zq7wy9UN) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [Nun Nu Nan Na](https://open.spotify.com/album/7p3NTiZoaZRzgPmwlGMHtM) | 3:28 | 2022-01-04 | 2022-06-24 |
-| [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 | 2021-11-29 |  |
+| [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 | 2021-11-29 | 2023-05-10 |
 | [Obliviate](https://open.spotify.com/track/4cyVnu1W88UuIdNusX8D1A) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz 7th Mini Album \[Unforgettable\]](https://open.spotify.com/album/5M1EFepUUqZig7XzN6qtB8) | 3:22 | 2021-11-29 | 2022-07-28 |
 | [Oh \(Yes I Am\)](https://open.spotify.com/track/5l8Vpgx92aqAuniKsSKbyZ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[\#\]](https://open.spotify.com/album/3OOqAsk58Xv8DHu1gRGtaC) | 3:15 | 2022-06-24 | 2022-07-13 |
 | [One](https://open.spotify.com/track/7aR4PWVTC0okaPIQWMgePz) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND 2nd Mini Album 'Flower Bud'](https://open.spotify.com/album/2mou6C67yLJkKWjV0FuXg7) | 3:14 | 2022-03-29 | 2022-04-18 |

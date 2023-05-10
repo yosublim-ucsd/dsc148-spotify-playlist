@@ -80,7 +80,7 @@
 | [最愛雨天](https://open.spotify.com/track/0VeqU67IWMth9LiVqrmzTq) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [都是你](https://open.spotify.com/album/5QvOcQXGOQOtftNeU3niz5) | 4:10 | 2021-11-22 | 2022-07-15 |
 | [最愛雨天](https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD) | [小男孩樂團](https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5) | [Everything](https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe) | 4:10 | 2022-09-05 |  |
 | [毛毛雨 Rainy Days](https://open.spotify.com/track/3WxYFzZjMTwrsilbhjOf9P) | [Sharon Kwan](https://open.spotify.com/artist/1D4GTYNzBKdUrK1wyzTmyt) | [關在家](https://open.spotify.com/album/7IFAZ7L5mv9LlTuUD0zmu8) | 4:53 | 2021-11-22 | 2022-07-23 |
-| [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 | 2021-11-22 |  |
+| [淋雨中](https://open.spotify.com/track/1rJLmeWNZWCadABxGee6BO) | [林宇中](https://open.spotify.com/artist/5v5S1It3qh2HHacQj24HO2) | [淋雨中](https://open.spotify.com/album/5zRbDXc4LYF59A7oTo1dXO) | 3:58 | 2021-11-22 | 2023-05-10 |
 | [滯留鋒](https://open.spotify.com/track/4lMNnQmrG15MzxbFXECbCy) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/6cHxc7xRPejbtlr0VfOgxJ) | 5:07 | 2021-11-22 |  |
 | [滯留鋒](https://open.spotify.com/track/6T9B2sBqcAuLl53JeMwqVI) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [滯留鋒](https://open.spotify.com/album/4vbgeL7up3pJv699Hnku5A) | 5:07 | 2021-11-22 | 2022-07-29 |
 | [濕了,就不怕會下雨](https://open.spotify.com/track/4raq39Uzg89n9zPEVlmqjx) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 2:59 | 2022-09-05 | 2022-11-11 |
@@ -154,7 +154,7 @@
 | [雨聲街](https://open.spotify.com/track/3IdOjfIldeOXC8ZcSiQ6Rc) | [蔡詩蕓](https://open.spotify.com/artist/5gIoOoGK5jxeB3piPAnENq) | [紫外線](https://open.spotify.com/album/31D16NvXqqIEXgVyJ9t9G7) | 4:01 | 2023-01-10 |  |
 | [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 | 2021-11-22 | 2023-04-19 |
 | [雨还是不停地落下](https://open.spotify.com/track/4dk1UbPeJZEYEqZzKqy98O) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [克卜勒](https://open.spotify.com/album/3P400E8OP7u4dWMyCSosUn) | 4:49 | 2021-11-22 |  |
-| [風和日麗 下雨了](https://open.spotify.com/track/1HANH1bn2UhBnwllaPzJ2O) | [自然捲](https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr) | [風和日麗影音概念書](https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk) | 4:29 | 2021-11-22 | 2022-07-29 |
+| [風和日麗 下雨了](https://open.spotify.com/track/1HANH1bn2UhBnwllaPzJ2O) | [自然捲](https://open.spotify.com/artist/0Rsu8bbOYUkrZQAd1c2KSr) | [風和日麗影音概念書](https://open.spotify.com/album/2PTLuD7VN7ozWNqVD9iOjk) | 4:29 | 2021-11-22 |  |
 | [風雨](https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [盧廣仲 Good Morning & Good Evening 小巨蛋演唱會](https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi) | 4:16 | 2021-11-22 | 2022-07-29 |
 | [黑風暴雨](https://open.spotify.com/track/4aERDhzOp02MSlYVzUh2I5) | [Ronald Cheng](https://open.spotify.com/artist/66FF9LF0uO3W1zxEN0m8uN) | [怪胎](https://open.spotify.com/album/5EtVeNXucxhZvlz7v8wf7r) | 4:23 | 2021-11-22 |  |
 

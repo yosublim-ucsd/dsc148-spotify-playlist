@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: Tauren Wells
 
-394 songs - 1 day 0 hr 20 min
+395 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ambar Bossa Nova \- Spotify Singles](https://open.spotify.com/track/3d1SX0Fw0gqVKrdrWCJR12) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Spotify Singles](https://open.spotify.com/album/5MlYmVGHlWSCdKutrQcLAV) | 3:01 | 2022-06-07 | 2022-07-29 |
 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 | 2022-10-26 |  |
 | [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2Cyi6ezjKmGuXFrJglqQYl) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/67t8x1NVVqQDOsUYDc01es) | 3:13 | 2022-06-07 | 2023-04-30 |
+| [Amsterdam \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:13 | 2023-03-21 |  |
 | [Amsterdam \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/774yLThHwXXqrrH2bgF912) | 3:13 | 2021-09-24 | 2022-07-29 |
 | [Androgynous \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1moVuTTH3Kh1FLMAJoriAz) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Spotify Singles](https://open.spotify.com/album/4deTc6TA47HuQPM9xnZCsL) | 2:55 | 2021-09-24 | 2022-07-28 |
 | [Angel \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/04LUiStvr9tzObQuyFEEaD) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Spotify Singles](https://open.spotify.com/album/6ouu5a6YOUWJ6FfsxnjxB2) | 4:57 | 2021-09-24 | 2022-05-25 |
@@ -396,7 +397,7 @@
 | [Work from Home \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0qs6VLNCReflbJv8IQ8PvD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [Spotify Singles](https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz) | 2:39 | 2022-03-24 | 2022-04-20 |
 | [Yesterday \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/55BnnFc5P6bpgsZtzPXahA) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 4:07 | 2021-09-24 | 2022-07-29 |
 | [You and Your Folks, Me and My Folks \- Recorded at East West Studios](https://open.spotify.com/track/4gtHfvLdEVcGGRL2CkWjKr) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Spotify Singles](https://open.spotify.com/album/736ZS6qpLRbwq2y2clVA26) | 4:12 | 2021-09-24 | 2022-07-26 |
-| [you broke me first \- Spotify Singles](https://open.spotify.com/track/07Fxhwe3dsM2EkLAqTfrcF) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:05 | 2021-09-24 |  |
+| [you broke me first \- Spotify Singles](https://open.spotify.com/track/07Fxhwe3dsM2EkLAqTfrcF) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Spotify Singles](https://open.spotify.com/album/568wiTPWt5kE0Zk3joRigo) | 3:05 | 2021-09-24 | 2023-05-10 |
 | [You Can Call Me Al \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Spotify Singles](https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9) | 3:08 | 2021-09-24 |  |
 | [You Need To Calm Down \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:15 | 2021-09-24 | 2022-07-29 |
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-10-03 |  |

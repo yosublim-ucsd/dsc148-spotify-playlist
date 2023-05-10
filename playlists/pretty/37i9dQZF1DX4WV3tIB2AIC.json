@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 7013,
+  "num_followers": 7017,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGY4ZmIxMWRlNDJkNjY5ZWVlOGQzOTM1MTRjY2RhNmNlNDI1YWYx",
+  "snapshot_id": "MCwwMWVjNzk2MDU0ZTljY2ZlYTdmMjE2M2U0NDIzOWNkNDhlYzU4MDI3",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Gospel (with Eminem)",
         "url": "https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 210027,
       "name": "Gospel (with Eminem)",
       "url": "https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "BOW",
+        "url": "https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 182124,
+      "name": "BOW",
+      "url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Rips in Jeans",
         "url": "https://open.spotify.com/album/1hhHTkkClYXmZdIVzVfbX0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 176133,
       "name": "Ballin",
       "url": "https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "BOW",
-        "url": "https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 182124,
-      "name": "BOW",
-      "url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o"
     },
     {
       "added_at": "2022-11-30 13:46:00",

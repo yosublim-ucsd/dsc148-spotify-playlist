@@ -1,12 +1,12 @@
 {
   "description": "Do you remember when you fell in love with emo and post-hardcore? Cover: Weezer",
-  "num_followers": 100936,
+  "num_followers": 101119,
   "original_name": "mEMOries",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmQzZjUwMDZhNjhkMzE3MTcwNzZhMTA1OTY5NTc4MDk3ZDRmN2M5",
+  "snapshot_id": "MCw4YjQwMGY1ZWRkMjhkYWE3MThjYzY2MmFhNTRhYmNlODcwNjEyYWNm",
   "tracks": [
     {
       "added_at": "2023-03-14 22:36:58",
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF"
     },
     {
-      "added_at": "2023-05-09 01:07:02",
+      "added_at": "2023-05-10 01:01:04",
       "album": {
         "name": "Something to Write Home About",
         "url": "https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8"
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Progression Through Unlearning",
-        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
-      },
-      "artists": [
-        {
-          "name": "Snapcase",
-          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
-        }
-      ],
-      "duration_ms": 153586,
-      "name": "Caboose",
-      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Relationship Of Command",
         "url": "https://open.spotify.com/album/0Pv5bdtwTTBSHy9GyUe9um"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 260306,
       "name": "One Armed Scissor",
       "url": "https://open.spotify.com/track/4QYg0pee8jcGTHC3Uh2Vii"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Progression Through Unlearning",
+        "url": "https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu"
+      },
+      "artists": [
+        {
+          "name": "Snapcase",
+          "url": "https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W"
+        }
+      ],
+      "duration_ms": 153586,
+      "name": "Caboose",
+      "url": "https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw"
     },
     {
       "added_at": "2023-03-14 22:36:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-14 22:36:58",
       "album": {
-        "name": "Crimes (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F"
-      },
-      "artists": [
-        {
-          "name": "The Blood Brothers",
-          "url": "https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Love Rhymes With Hideous Car Wreck",
-      "url": "https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S"
-    },
-    {
-      "added_at": "2023-03-14 22:36:58",
-      "album": {
         "name": "Giving Birth to Thunder",
         "url": "https://open.spotify.com/album/1G6sKqeNTEbiDRu3M1TzM7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 445293,
       "name": "Woolworm",
       "url": "https://open.spotify.com/track/37QGYx2RmRM98Ag1bfDfXp"
+    },
+    {
+      "added_at": "2023-03-14 22:36:58",
+      "album": {
+        "name": "Crimes (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F"
+      },
+      "artists": [
+        {
+          "name": "The Blood Brothers",
+          "url": "https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR"
+        }
+      ],
+      "duration_ms": 194586,
+      "name": "Love Rhymes With Hideous Car Wreck",
+      "url": "https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S"
     },
     {
       "added_at": "2023-03-14 22:36:58",

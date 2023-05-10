@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more\.  Cover: Brooke Ligertwood
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 115,801 likes - 87 songs - 8 hr 38 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 115,817 likes - 87 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 86 | [Come And Behold \- Live](https://open.spotify.com/track/5k5jMmyP88T81vwcg1OOGJ) | [Community Music](https://open.spotify.com/artist/3JCosyk2TCRwvbOpSLzR5R), [Lucas & Evelyn Cortazio](https://open.spotify.com/artist/0IsZrX65y6CZ9TMbALhubp) | [A King Like No Other \(Live\)](https://open.spotify.com/album/7p7bRCJkZUAOPaRfhp52Fi) | 8:02 |
 | 87 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 |
 
-Snapshot ID: `Njk4OSxiOWUyNTg1MjJkNmMxNmRmYmQ3ZjVjYWUxMTNlMzZkNjdlMjJmMGIy`
+Snapshot ID: `Njk5MSxlOGVkNDg1MjAxNWQxNTM0ZDk4OGM5MDBhYTEyMTM4Njg3ZTQ1ZmFj`

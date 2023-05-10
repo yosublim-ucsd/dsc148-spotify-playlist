@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 
 > Entre peinados, maquillajes y vestimentas exóticas, la estética dominó la escena musical de los años ’80\. Foto:<a href="spotify:user:spotify:playlist:37i9dQZF1DWThxX36B17XL"> Soda Stereo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,590 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,642 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42v3AOJvUpv.md) - [plain]
 | 45 | [Conexión París](https://open.spotify.com/track/24X9r3zeRgB4VTLz75TRw9) | [Sobrecarga](https://open.spotify.com/artist/49UpIRD1s5bMEhbYYTnqUD) | [Sentidos Congelados](https://open.spotify.com/album/0wXerl0nWKYZYAaMj18oVQ) | 5:01 |
 | 46 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
 | 47 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
-| 48 | [El Ritual De La Banana](https://open.spotify.com/track/1LeGL6sChxxaQbFhKknOcG) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Ritual De Los Pericos](https://open.spotify.com/album/0BLRRSjs02ejUyDDIfYRSb) | 3:39 |
+| 48 | [Nada que perder](https://open.spotify.com/track/67RABWmvqhxgRt2shdCOrr) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Serie De Oro](https://open.spotify.com/album/1SdOnqeKXxOKAU6rVbS0z5) | 3:28 |
 | 49 | [Sin Gamulán](https://open.spotify.com/track/3UrNJH307Ij2jarZxijcbc) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [1982\-1987 \- Himnos Del Corazón](https://open.spotify.com/album/0DGCwJASSVCD2lJGyu0t9w) | 3:14 |
 | 50 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4gj3E6oY45dzFsZpUA9Dnn) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [S.O.S\. Sos Una Rica Banana \- Serie Libre Acceso](https://open.spotify.com/album/0qTnzXJEpAq4vE8EfQadWO) | 2:22 |
 
-Snapshot ID: `MCxjMzExNWZkNThmODM0ODA1ZDc5ODg0OGQ3NWM5OWZjNDIzZTA2M2I2`
+Snapshot ID: `MCxmYzA0ZmYyMTFlYWQ5MTRlZmVkNDljNzMzNGQ5MTNhMjNiNWMwOGYz`

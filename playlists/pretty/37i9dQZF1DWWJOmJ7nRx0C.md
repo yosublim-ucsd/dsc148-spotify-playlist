@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: From Ashes To New
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,178 likes - 151 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,380 likes - 151 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 29 | [House Of Mirrors \(feat\. Jelly Roll\)](https://open.spotify.com/track/25LxbyfZpZW6P58X2MYO4A) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hotel Kalifornia \(Deluxe Version\)](https://open.spotify.com/album/08mukWlu8RaDICE3GvqO3l) | 3:25 |
 | 30 | [Ice Cold](https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:27 |
 | 31 | [Another Celebration at the End of the World](https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Another Celebration at the End of the World](https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD) | 4:35 |
-| 32 | [Dinosaur](https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R) | 3:47 |
+| 32 | [Dinosaur](https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:48 |
 | 33 | [Spellbinding](https://open.spotify.com/track/74rpTA3zk1IWwBY944OK3r) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Spellbinding](https://open.spotify.com/album/2qkyWen9EcUJ1ZPTOsFTo3) | 4:06 |
 | 34 | [Nothing Ever After](https://open.spotify.com/track/2foma3XC28Wk4Fcthqu7lk) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 |
 | 35 | [Psycho In My Head](https://open.spotify.com/track/3cWQDKcIhP74CTfkxoCN0J) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:17 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Blow \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/3YqJ7QhsNbmluU3qzbd3ns) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Love, Drugs & Misery](https://open.spotify.com/album/0P49eFNrsqjfnz4txLvFe6) | 2:45 |
 | 151 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MCxiNDg1MWM4ZjRhYjk1NjJkNWNhMmZiNTQxYmU2OTRjMWI4NDFmNGQ5`
+Snapshot ID: `MCxhYjE4NGZjNzEwMDk5NDNiYzM0MzgzZjZjY2VjZWMyZDJkNjhiZGQx`

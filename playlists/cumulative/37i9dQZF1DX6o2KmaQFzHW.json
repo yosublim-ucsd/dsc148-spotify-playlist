@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+        "url": "https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 770851,
+      "name": "Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Ni\u00f1a y Amiga / Jazm\u00edn de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dorm\u00ed",
+      "url": "https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz"
+    },
+    {
+      "album": {
         "name": "Los Tekis-Los Elegidos",
         "url": "https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft"
       },
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 231400,
       "name": "La atardecida",
       "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"

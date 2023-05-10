@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 64594,
+  "num_followers": 64633,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDE2NjU2NjcyZWRkZjFhNDdiMzcyMTZiMzVlNzEyNzBhMGY0MjFk",
+  "snapshot_id": "MCw5YzIwZWQyOTcyMmIxNTc3YTkxMjEzMjIyN2ZiNmJkOThmYjUwMDhm",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Selecci\u00f3n Especial (Remastered)",
-        "url": "https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
-        }
-      ],
-      "duration_ms": 182546,
-      "name": "Si Nos Dejan - Remastered",
-      "url": "https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+        "name": "Selecci\u00f3n Especial (Remastered)",
+        "url": "https://open.spotify.com/album/5YHzSCQp8knlAlsoEh9DOR"
       },
       "artists": [
         {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
         }
       ],
-      "duration_ms": 137826,
-      "name": "En El Balcon Aquel",
-      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
+      "duration_ms": 182546,
+      "name": "Si Nos Dejan - Remastered",
+      "url": "https://open.spotify.com/track/5BOaXQYdApvDBVFCSxd23D"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -663,6 +647,22 @@
       "duration_ms": 307401,
       "name": "Mi Viejo / Recordando a Mi Padre",
       "url": "https://open.spotify.com/track/5sK9OW4DCGyfO7uaIR9pJq"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "En El Balcon Aquel",
+      "url": "https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "\u00c9poca de Oro",
-        "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00edo Los Brillantes",
-          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Sendas Distintas",
-      "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Rom\u00e1ntica",
         "url": "https://open.spotify.com/album/4BEpMDJEtdYszrAtlgCOnp"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 168829,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/02srYuHG7Wwiok9BDWQjQd"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "\u00c9poca de Oro",
+        "url": "https://open.spotify.com/album/6XW6Ia3kWV7xtS4r8frSWx"
+      },
+      "artists": [
+        {
+          "name": "Tr\u00edo Los Brillantes",
+          "url": "https://open.spotify.com/artist/34IbPLLHZ8mgTheWAToL2S"
+        }
+      ],
+      "duration_ms": 194351,
+      "name": "Sendas Distintas",
+      "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
     },
     {
       "added_at": "2021-12-17 05:01:00",

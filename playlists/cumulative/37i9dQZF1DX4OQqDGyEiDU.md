@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-485 songs - 1 day 3 hr 53 min
+486 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [アナフィラキシー](https://open.spotify.com/track/7yMLVDXbl1vyjrwtL8oQkG) | [Nanashi Hachiya](https://open.spotify.com/artist/3PZGJx5D1p3KvpvVsK2v8P) | [Anaphylaxie Bee](https://open.spotify.com/album/5udBqTGXlGI3bMZ2ju3m0J) | 3:46 | 2022-06-23 | 2022-07-04 |
 | [アニマル](https://open.spotify.com/track/1b0zIQJV4TMwPXudWcHjQv) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アニマル](https://open.spotify.com/album/2dPOTYm0jQ6elPeoCKJFE9) | 2:32 | 2022-06-09 | 2022-07-25 |
 | [アブノーマリティ・ダンシンガール](https://open.spotify.com/track/3sWcYSiFPCL5CNzU0H5Wau) | [ぐちり](https://open.spotify.com/artist/7AhWr9uwljlOcqY6eiX7ww) | [憂象夢象](https://open.spotify.com/album/5HdP7JlJXuOhqnraTBVeUP) | 3:28 | 2022-09-22 | 2023-01-13 |
-| [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 | 2023-03-21 |  |
+| [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 | 2023-03-21 | 2023-05-10 |
 | [アメリ](https://open.spotify.com/track/1u7mr7J4ylfkLS2CK642Ge) | [煮ル果実](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [アメリ](https://open.spotify.com/album/29r8WuUupgXV8BYV4FcDgX) | 3:26 | 2023-04-13 | 2023-04-28 |
 | [アユミ☆マジカルショータイム](https://open.spotify.com/track/2zuxjeU8HhNjhwAImmdLWn) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [アユミ☆マジカルショータイム](https://open.spotify.com/album/3DjcAS0tISWGmfmDsgohHS) | 3:53 | 2022-06-09 | 2022-07-25 |
 | [アルティメットセンパイ](https://open.spotify.com/track/5Lsdr0kU6beWlXns5yRzfT) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [アルティメットセンパイ](https://open.spotify.com/album/7jhZ6DlDkoave3d9EluECt) | 3:38 | 2022-06-09 | 2022-07-03 |
@@ -325,6 +325,7 @@
 | [ベルコメン](https://open.spotify.com/track/0FkaGYIzvLbAVNCWWjDpO3) | [香椎モイミ](https://open.spotify.com/artist/09bfsJNaKxdLPpxiX1kfwZ) | [偏愛](https://open.spotify.com/album/3Vw6LxPWbtDLKoSzoetvNK) | 3:51 | 2023-02-08 | 2023-02-17 |
 | [ペタペタ](https://open.spotify.com/track/0QfPdBYuquukh7i0cp7soC) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [ペタペタ](https://open.spotify.com/album/5wHBtD5cW9FKGi2Z0Olrhm) | 3:19 | 2022-06-14 | 2022-07-24 |
 | [ボッカデラベリタ](https://open.spotify.com/track/3sbj4p74huvGfIu3zKw7GJ) | [柊キライ](https://open.spotify.com/artist/6enAUr8uYLFYHKDcnRUst2) | [ヘイトフル](https://open.spotify.com/album/6AK0ZWjL1tdCfYM2p8mRJM) | 3:21 | 2022-06-14 | 2022-07-25 |
+| [ボニー&クライド](https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ボニー&クライド](https://open.spotify.com/album/1ml6frwbwpvD4XLWzSmYnD) | 2:45 | 2023-05-09 |  |
 | [ポジティブ☆ダンスタイム](https://open.spotify.com/track/7v5xPGDLbGMLqSnPfIrRgK) | [kinoshita](https://open.spotify.com/artist/5PBCVNjKu2JDCxHI0WNYa5) | [ポジティブ☆ダンスタイム](https://open.spotify.com/album/5SizyZsAfotoDLoNYbph5M) | 4:02 | 2022-06-09 | 2022-07-22 |
 | [マカロン](https://open.spotify.com/track/2VmOvzDdJmycCnGgCzkNrx) | [ATOLS](https://open.spotify.com/artist/1JiIdIqUZMFCPcZmTtSwLM) | [ATOLS/MIKU](https://open.spotify.com/album/3FXyXuRhxBSgj2r4v9PS7V) | 3:16 | 2022-06-14 | 2022-07-28 |
 | [マシンガンポエムドール](https://open.spotify.com/track/6XshXpv0LPjtTJbKkeilBQ) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [マシンガンポエムドール](https://open.spotify.com/album/2XdBm2tkrw0q2T5J1F0kF9) | 2:20 | 2022-06-09 | 2022-07-23 |

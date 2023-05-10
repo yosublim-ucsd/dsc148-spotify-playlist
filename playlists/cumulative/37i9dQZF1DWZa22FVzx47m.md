@@ -4,7 +4,7 @@
 
 > Canciones te inspiran a ti y a todas las mamás.
 
-167 songs - 11 hr 23 min
+168 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Insoportablemente Bella](https://open.spotify.com/track/5OAGFH0ezPr3jXSfQbMUpJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5SLdkbTxNK4lMPtEhmU3Jw) | 3:38 | 2022-05-09 | 2023-04-11 |
 | [Inventame](https://open.spotify.com/track/5RJuWtHaZqnHRCVzk1z1uS) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/1WHFGlWrRILqkkd2LLflFn) | 3:29 | 2022-05-09 | 2022-07-29 |
 | [Invéntame](https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:29 | 2022-05-09 | 2023-04-24 |
+| [Invéntame](https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Desamor y Despecho](https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC) | 3:33 | 2022-05-09 |  |
 | [Jueves](https://open.spotify.com/track/1UDToCUvhfhYrTFxA1Xi4w) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [A las Cinco en el Astoria](https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r) | 3:59 | 2023-04-11 |  |
 | [La Chica de Humo](https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Quisiera](https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH) | 5:31 | 2021-12-07 |  |
 | [La Cosa Mas Bella](https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Donde Hay Música \(Spanish Version\)](https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq) | 4:25 | 2021-12-07 |  |
@@ -118,7 +119,7 @@
 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2022-05-09 | 2023-04-11 |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:04 | 2021-12-07 | 2022-07-29 |
 | [Por Debajo De La Mesa](https://open.spotify.com/track/7nbBR2SdgNvu5ywLWFrhOI) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mis Boleros Favoritos](https://open.spotify.com/album/0KxKUvK8sDRyvmGN8uMdx2) | 3:04 | 2022-05-09 | 2022-11-13 |
-| [Prometiste](https://open.spotify.com/track/1Rl25VpYAmwet3uJrBBVbF) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 3:36 | 2021-12-07 |  |
+| [Prometiste](https://open.spotify.com/track/1Rl25VpYAmwet3uJrBBVbF) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Negociaré Con la Pena](https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx) | 3:36 | 2021-12-07 | 2023-05-10 |
 | [Que Lo Nuestro Se Quede Nuestro](https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:42 | 2021-12-07 |  |
 | [Que Me Quedes Tú](https://open.spotify.com/track/3pWF6sOdKOtwtIbVaFMN6U) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 4:47 | 2021-12-07 |  |
 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 | 2022-05-09 | 2023-04-11 |

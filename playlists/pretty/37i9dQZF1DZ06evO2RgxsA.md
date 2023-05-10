@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,869 likes - 50 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,900 likes - 50 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 33 | [Kids Of The K\-Hole](https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [So Long & Thanks For All The Shoes](https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb) | 2:16 |
 | 34 | [What's The Matter With Parents Today?](https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 1:58 |
 | 35 | [72 Hookers](https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 3:36 |
-| 36 | [Is It Too Soon If Time is Relative?](https://open.spotify.com/track/0q3BQGKPYPvZyJVhzE0gIh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:18 |
+| 36 | [My Favorite Enemy](https://open.spotify.com/track/6pPQKiJ4UWzgNeTmJlo4dU) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:34 |
 | 37 | [60%](https://open.spotify.com/track/6Rnht7CdElV3gwvTGv6It0) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 2:25 |
 | 38 | [Bottles To The Ground](https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 2:20 |
 | 39 | [I Believe in Goddess](https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Self Entitled](https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18) | 1:34 |
-| 40 | [My Favorite Enemy](https://open.spotify.com/track/6pPQKiJ4UWzgNeTmJlo4dU) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:34 |
+| 40 | [Is It Too Soon If Time is Relative?](https://open.spotify.com/track/0q3BQGKPYPvZyJVhzE0gIh) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Double Album](https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n) | 2:18 |
 | 41 | [The Longest Line](https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest Line](https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt) | 2:04 |
 | 42 | [Philthy Phil Philanthropist](https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Heavy Petting Zoo](https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2) | 3:10 |
 | 43 | [Instant Crassic](https://open.spotify.com/track/6VS4sE4kaGhZ9MMb52gwo2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 0:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [See Her Pee](https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 0:31 |
 | 50 | [Codependence Day](https://open.spotify.com/track/3poORAd5Fbx6nQp2WFizYQ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Cokie the Clown](https://open.spotify.com/album/0Ho8Jl9kBUG9HmVAdCTiNU) | 1:28 |
 
-Snapshot ID: `MjgwNTkxOTksMDAwMDAwMDBiMjE4ZWI2ZDgwOTk4NjU4Y2YxMzJhNzcwMWQ4ODJmYQ==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA5NzA3Nzc5NGZhNGFiZTc1YjNiYzE2ODM5MTZkNzk1NQ==`

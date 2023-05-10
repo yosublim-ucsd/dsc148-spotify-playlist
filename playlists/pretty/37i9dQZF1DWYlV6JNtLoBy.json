@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 568,
+  "num_followers": 575,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTgzNzY2ZjliMzg0MjBhNzEyMmIyMDhmOGU2ZTRhYWJmOTE1OTMx",
+  "snapshot_id": "MCwwMWYwNzg1N2E1MDI3ZDI5NzNhMmQ2N2IwZjI2MWY1NGE4ZWI5ZmE1",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mwema",
-        "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
-      },
-      "artists": [
-        {
-          "name": "Mercy Masika",
-          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
-        }
-      ],
-      "duration_ms": 232646,
-      "name": "Mwema",
-      "url": "https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Bwana Ni Ngome Yangu",
         "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Mwema",
+        "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
+      },
+      "artists": [
+        {
+          "name": "Mercy Masika",
+          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
+        }
+      ],
+      "duration_ms": 232646,
+      "name": "Mwema",
+      "url": "https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Mungu Ni Mungu Tu",
         "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
       },
@@ -431,38 +431,6 @@
       "duration_ms": 507425,
       "name": "Mungu Ni Mungu Tu",
       "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
-      },
-      "artists": [
-        {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Unikumbuke",
-        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 490293,
-      "name": "Mtetezi Wangu",
-      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
     },
     {
       "added_at": "2023-04-21 00:01:00",
@@ -483,6 +451,38 @@
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Unikumbuke",
+        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 490293,
+      "name": "Mtetezi Wangu",
+      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+      },
+      "artists": [
+        {
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
     },
     {
-      "added_at": "2023-04-21 00:01:00",
-      "album": {
-        "name": "Enjoy (Yo Blessings)",
-        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
-      },
-      "artists": [
-        {
-          "name": "Levixone",
-          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
-        }
-      ],
-      "duration_ms": 195056,
-      "name": "Enjoy (Yo Blessings)",
-      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
-    },
-    {
       "added_at": "2023-04-06 20:59:00",
       "album": {
         "name": "Uinuliwe Baba",
@@ -627,6 +611,22 @@
       "duration_ms": 418560,
       "name": "Yesu Nakupenda",
       "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
+      },
+      "artists": [
+        {
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
     },
     {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Pale Pale",
+        "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
+      },
+      "artists": [
+        {
+          "name": "Size 8",
+          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
+        }
+      ],
+      "duration_ms": 210809,
+      "name": "Pale Pale",
+      "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
+    },
+    {
       "added_at": "2023-04-14 00:30:00",
       "album": {
         "name": "Sure (Counting on You)",
@@ -755,22 +771,6 @@
       "duration_ms": 181176,
       "name": "Sure (Counting on You)",
       "url": "https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Pale Pale",
-        "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
-      },
-      "artists": [
-        {
-          "name": "Size 8",
-          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
-        }
-      ],
-      "duration_ms": 210809,
-      "name": "Pale Pale",
-      "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
     },
     {
       "added_at": "2023-04-06 20:59:00",

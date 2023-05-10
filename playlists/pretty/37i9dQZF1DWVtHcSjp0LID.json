@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 56047,
+  "num_followers": 56111,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzk1NTQwYmE1YjA1M2MzYmM2NzU2MzcxN2NlZTk1NWFhOTYxNzgz",
+  "snapshot_id": "MCw1OGE3ZWZkZjdkZTFlMDI1ZDQ5OGFiYjRjOGJmODE2MjlhN2M5NzU5",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Anatolia",
         "url": "https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 309840,
       "name": "Anatolia",
       "url": "https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Forward Escape",
+        "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
+      },
+      "artists": [
+        {
+          "name": "Tipper",
+          "url": "https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe"
+        }
+      ],
+      "duration_ms": 236500,
+      "name": "Gulch",
+      "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 528410,
       "name": "Between Dreams and Reality - Niko Schwind Remix",
       "url": "https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Forward Escape",
-        "url": "https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L"
-      },
-      "artists": [
-        {
-          "name": "Tipper",
-          "url": "https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe"
-        }
-      ],
-      "duration_ms": 236500,
-      "name": "Gulch",
-      "url": "https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Ring EP",
-        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
-      },
-      "artists": [
-        {
-          "name": "Lucci Minati",
-          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
-        }
-      ],
-      "duration_ms": 391680,
-      "name": "Take Your Place",
-      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Dance Machine",
         "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 340100,
       "name": "Dance Machine - Original Mix",
       "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Ring EP",
+        "url": "https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse"
+      },
+      "artists": [
+        {
+          "name": "Lucci Minati",
+          "url": "https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1"
+        }
+      ],
+      "duration_ms": 391680,
+      "name": "Take Your Place",
+      "url": "https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Breathing Underwater",
         "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 407038,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
     },
     {
       "added_at": "2022-07-15 17:34:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Alice et Moi
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,022 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,117 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Photographies](https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographies](https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD) | 2:56 |
 | 50 | [Laura](https://open.spotify.com/track/2PnOCPd9oZhbLGSzzFf8Ba) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Fantasy](https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ) | 4:08 |
 
-Snapshot ID: `MCw5OTdmNjYyNmQ2MWY1OTYyNTI1MjM2YWFjYTVlNDg0Nzg3NzI0OWQy`
+Snapshot ID: `MCxjNGUyMDNiYWVmZjBkOTE5Y2Q3ZDkzYTliOWEyOGU2ZTQyNWUyODdh`

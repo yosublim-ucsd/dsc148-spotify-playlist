@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Atreyu on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410,465 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,410,752 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
 | 75 | [72 Seasons](https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 7:39 |
 
-Snapshot ID: `MCwxMDQzNzU0MWY5MDM0NGE2YzdlNGYzOGMzODhmYjhjZTJkMzJlNGFh`
+Snapshot ID: `MCw0YmU0MWJjYjA4ZmExYjRlZGQ3OTcyNjk1OGYxMTExZjE2ZjFhZTdk`

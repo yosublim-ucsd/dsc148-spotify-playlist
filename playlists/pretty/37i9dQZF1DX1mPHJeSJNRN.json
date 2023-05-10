@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13447,
+  "num_followers": 13459,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDJiODY0NjJhYmZjY2E3OGUyODBiNWNhZTVlZDllYjM3ZTMzYzcy",
+  "snapshot_id": "MCxiNjdhYmM1MzgxYTRhMGVhOWFiNDE0ZDhhMjJiNjQ4ODY5NDNhNjRj",
   "tracks": [
     {
       "added_at": "2023-05-05 06:39:45",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
+        "name": "A Ballad for Alice",
+        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "A Ballad for Alice",
+      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -503,18 +519,18 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "A Ballad for Alice",
-        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
       },
       "artists": [
         {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 178728,
-      "name": "A Ballad for Alice",
-      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
+      "duration_ms": 220093,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/5xdgrltzlz2A5RH7VtShJx"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -551,22 +567,6 @@
       "duration_ms": 248813,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 220093,
-      "name": "Almost Like Being In Love",
-      "url": "https://open.spotify.com/track/5xdgrltzlz2A5RH7VtShJx"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
-        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Spring Is Here",
-      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Spring Waltz",
         "url": "https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Rodgers And Hart Song Book",
+        "url": "https://open.spotify.com/album/3DXgUbJhOxidQC3l0tegY9"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Spring Is Here",
+      "url": "https://open.spotify.com/track/5UAcWV35tYopQFrPj7mH7j"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "I Will Wait for You",
-      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Confessions",
         "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 208391,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "I Will Wait for You",
+      "url": "https://open.spotify.com/track/7lZEeFkTjWvwoVIVJ54vGT"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Happyfeet",
-        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 400980,
-      "name": "Joy Spring",
-      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "The Art Of Elegance",
         "url": "https://open.spotify.com/album/2ZdIKuNRW5Jn9Bt1jYkevo"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 401226,
       "name": "Up Jumped Spring",
       "url": "https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Happyfeet",
+        "url": "https://open.spotify.com/album/384kvE6BvSyX2mghUSW7FP"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 400980,
+      "name": "Joy Spring",
+      "url": "https://open.spotify.com/track/4wy9xl0qIefHzCyFP92oBE"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -1563,6 +1563,38 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 384360,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "Just Us, Just We",
+        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
+      },
+      "artists": [
+        {
+          "name": "Shaymus Hanlin Quartet",
+          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
+        }
+      ],
+      "duration_ms": 202570,
+      "name": "Almost Like Being in Love",
+      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1591,38 +1623,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Just Us, Just We",
-        "url": "https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP"
-      },
-      "artists": [
-        {
-          "name": "Shaymus Hanlin Quartet",
-          "url": "https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO"
-        }
-      ],
-      "duration_ms": 202570,
-      "name": "Almost Like Being in Love",
-      "url": "https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 384360,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/23kcsi6ginGDR2hAL0fxGV"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Simple Life",
         "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
       },
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "Caity Gyorgy Quartet",
-        "url": "https://open.spotify.com/album/0ArclBDeEc5gdeyAmsAawm"
+        "name": "No Bounds",
+        "url": "https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC"
       },
       "artists": [
         {
           "name": "Caity Gyorgy",
           "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Kyle Tarder-Stoll",
-          "url": "https://open.spotify.com/artist/2sPvH1xPHE8Ci36oCV7drd"
         }
       ],
-      "duration_ms": 347088,
-      "name": "I've Never Been in Love Before",
-      "url": "https://open.spotify.com/track/7rW3ZdTpDACUHz6gPr8frT"
+      "duration_ms": 287680,
+      "name": "East of The Sun",
+      "url": "https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe"
     },
     {
       "added_at": "2023-05-05 06:39:45",
@@ -1731,22 +1727,6 @@
     {
       "added_at": "2023-05-05 06:39:45",
       "album": {
-        "name": "From Here I See",
-        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
-      },
-      "artists": [
-        {
-          "name": "Ben Wolfe",
-          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
-        }
-      ],
-      "duration_ms": 248666,
-      "name": "Who's Lily?",
-      "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
-    },
-    {
-      "added_at": "2023-05-05 06:39:45",
-      "album": {
         "name": "Fellowship",
         "url": "https://open.spotify.com/album/7FtiFheUH43hI2aEFM8ndF"
       },
@@ -1759,6 +1739,22 @@
       "duration_ms": 396426,
       "name": "Westinghouse",
       "url": "https://open.spotify.com/track/5xBnT2MvhDcEmkE5OT9fvi"
+    },
+    {
+      "added_at": "2023-05-05 06:39:45",
+      "album": {
+        "name": "From Here I See",
+        "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
+      },
+      "artists": [
+        {
+          "name": "Ben Wolfe",
+          "url": "https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC"
+        }
+      ],
+      "duration_ms": 248666,
+      "name": "Who's Lily?",
+      "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
     },
     {
       "added_at": "2023-05-05 06:39:45",

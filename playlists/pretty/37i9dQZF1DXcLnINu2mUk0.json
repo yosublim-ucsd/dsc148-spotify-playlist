@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 31941,
+  "num_followers": 32028,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2M4ZDg3MmEwNjcxMzE0NTQ2Y2EyZGI5NTY1MzdlMjMxNzQwZDI5",
+  "snapshot_id": "MCxiODRkOGM3MWQ5OGJjNWYxYzhhNmZkMWQxYTZiMmJiMzU4MjI3YzUy",
   "tracks": [
     {
       "added_at": "2023-04-27 23:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-04-27 23:00:00",
       "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
-    },
-    {
-      "added_at": "2023-04-27 23:00:00",
-      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
+    },
+    {
+      "added_at": "2023-04-27 23:00:00",
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2023-04-27 23:00:00",

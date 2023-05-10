@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Temples on cover.",
-  "num_followers": 355471,
+  "num_followers": 355755,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MmUyN2FlODA1YjJiNTE2MTA2NjA3YzU5MDg0ODQxMjA3ZTVkYTU0",
+  "snapshot_id": "MCwzZDJmOWVhNmNlMWI2M2NlNDc2YzQwZWE3NTg4ZWI0YjAwNjdlNDk0",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
-      "added_at": "2022-04-12 18:03:13",
-      "album": {
-        "name": "Mercy Mountain",
-        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
-      },
-      "artists": [
-        {
-          "name": "Moses Gunn Collective",
-          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
-        }
-      ],
-      "duration_ms": 228015,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
@@ -119,6 +103,22 @@
       "duration_ms": 194293,
       "name": "Y\u00e8gell\u00e9 Tezeta",
       "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
+    },
+    {
+      "added_at": "2022-04-12 18:03:13",
+      "album": {
+        "name": "Mercy Mountain",
+        "url": "https://open.spotify.com/album/4zM61adzXFpgNQYyBSSufT"
+      },
+      "artists": [
+        {
+          "name": "Moses Gunn Collective",
+          "url": "https://open.spotify.com/artist/66riSKDVOc3vPkeyju0q0o"
+        }
+      ],
+      "duration_ms": 228015,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -491,38 +491,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "World Music",
-        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Golden Dawn",
-      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 366066,
-      "name": "Posthumous Forgiveness",
-      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Bacchanal",
         "url": "https://open.spotify.com/album/21c7ulNJzCSDIelgGBA1QF"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 288826,
       "name": "Three King Fishers",
       "url": "https://open.spotify.com/track/6w3bIc0BxTPGNHqyH4KNiY"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 366066,
+      "name": "Posthumous Forgiveness",
+      "url": "https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "World Music",
+        "url": "https://open.spotify.com/album/6E80uDKNQDGjggp5isU2Mb"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Golden Dawn",
+      "url": "https://open.spotify.com/track/2Cf7tc4zGyhizmKnfL3vQ0"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Wading Out / Shell Island",
-        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
-      },
-      "artists": [
-        {
-          "name": "Favourite People",
-          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Wading Out",
-      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
-    },
-    {
       "added_at": "2022-04-22 19:18:57",
       "album": {
         "name": "Spin",
@@ -807,6 +791,22 @@
       "duration_ms": 212203,
       "name": "Spin",
       "url": "https://open.spotify.com/track/31MLGEYrKwoTmMoH50JDEw"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Wading Out / Shell Island",
+        "url": "https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT"
+      },
+      "artists": [
+        {
+          "name": "Favourite People",
+          "url": "https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Wading Out",
+      "url": "https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -971,18 +971,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Death Hawks",
-        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
       "artists": [
         {
-          "name": "Death Hawks",
-          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
         }
       ],
-      "duration_ms": 546640,
-      "name": "Black Acid",
-      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
+      "duration_ms": 383100,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1003,34 +1003,18 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
+        "name": "Death Hawks",
+        "url": "https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv"
       },
       "artists": [
         {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
+          "name": "Death Hawks",
+          "url": "https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1"
         }
       ],
-      "duration_ms": 383100,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk"
-    },
-    {
-      "added_at": "2023-03-16 20:50:19",
-      "album": {
-        "name": "Plastic Eternity",
-        "url": "https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7"
-      },
-      "artists": [
-        {
-          "name": "Mudhoney",
-          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
-        }
-      ],
-      "duration_ms": 264573,
-      "name": "Almost Everything",
-      "url": "https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa"
+      "duration_ms": 546640,
+      "name": "Black Acid",
+      "url": "https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1047,6 +1031,22 @@
       "duration_ms": 384895,
       "name": "Jukebox Babe",
       "url": "https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV"
+    },
+    {
+      "added_at": "2023-03-16 20:50:19",
+      "album": {
+        "name": "Plastic Eternity",
+        "url": "https://open.spotify.com/album/7fZmi0BsBSDhX9AwQmJdb7"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "duration_ms": 264573,
+      "name": "Almost Everything",
+      "url": "https://open.spotify.com/track/6zj2ESvjOkDt1m32Y8SpLa"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM"
     },
     {
-      "added_at": "2022-09-03 03:45:18",
-      "album": {
-        "name": "Los Estimados",
-        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 277589,
-      "name": "Los Estimados",
-      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
-    },
-    {
       "added_at": "2021-11-12 05:23:58",
       "album": {
         "name": "Sophomore",
@@ -1111,6 +1095,22 @@
       "duration_ms": 332335,
       "name": "Time Frame",
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2022-09-03 03:45:18",
+      "album": {
+        "name": "Los Estimados",
+        "url": "https://open.spotify.com/album/30sX3OfIDl2WB1DwbtHqlB"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 277589,
+      "name": "Los Estimados",
+      "url": "https://open.spotify.com/track/4YiUEZRZL8Ns7pseiazQZa"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/53yknEeyyDEHCqyu8pRGrR"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Victor's Belt",
-        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
-      },
-      "artists": [
-        {
-          "name": "Jaialai",
-          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Victor's Belt",
-      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
-    },
-    {
       "added_at": "2022-11-15 16:39:12",
       "album": {
         "name": "Hippie Hourrah!",
@@ -1175,6 +1159,22 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Victor's Belt",
+        "url": "https://open.spotify.com/album/6wY4XmQTsy1neCkX1yzaQF"
+      },
+      "artists": [
+        {
+          "name": "Jaialai",
+          "url": "https://open.spotify.com/artist/3dFAQoWOP8AIuLcqhf416Q"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Victor's Belt",
+      "url": "https://open.spotify.com/track/05mUXc20CCu93SnqWVAscp"
     },
     {
       "added_at": "2021-11-12 05:23:58",

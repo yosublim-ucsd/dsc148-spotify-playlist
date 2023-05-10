@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-71 songs - 4 hr 7 min
+72 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Abstinencia](https://open.spotify.com/track/72tsfpEv65vC4UxuviirDb) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [Abstinencia](https://open.spotify.com/album/4qACZqHGBIQvjcB5OLnzDJ) | 4:44 | 2023-03-28 |  |
 | [Acércate a mí](https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acércate a mí](https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu) | 2:30 | 2023-03-19 |  |
 | [Algo](https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Algo](https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb) | 2:48 | 2023-03-19 |  |
-| [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 | 2023-03-19 |  |
+| [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 | 2023-03-19 | 2023-05-10 |
 | [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-03-19 | 2023-04-11 |
 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 | 2023-03-19 | 2023-05-09 |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 |  |
@@ -55,6 +55,7 @@
 | [Mito](https://open.spotify.com/track/0yN1zA3OSihsVrAwymehwX) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Mito](https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW) | 3:54 | 2023-03-19 |  |
 | [Más Tuyo](https://open.spotify.com/track/1u8sU7DnjQdm35QlLHzH3u) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Más Tuyo](https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6) | 2:59 | 2023-03-19 |  |
 | [Nadie Lo Diría](https://open.spotify.com/track/0b9xK6eoCf7BWpoUimY0r4) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Nadie Lo Diría](https://open.spotify.com/album/2Qa5RlEmohnGEoloswYbYW) | 3:40 | 2023-04-27 |  |
+| [Nawebona](https://open.spotify.com/track/699gDcpwPjEIySd499EG7s) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Nawebona](https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw) | 3:15 | 2023-05-09 |  |
 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 | 2023-03-19 |  |
 | [No Me Impulses a Ser Así](https://open.spotify.com/track/2QtUidiBF0jjlejAyNNDAm) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [No Me Impulses a Ser Así](https://open.spotify.com/album/5sQiPEkdWXYChUHdO6uos4) | 2:32 | 2023-03-19 |  |
 | [NT al sol](https://open.spotify.com/track/7maIZJiVUL5HBOzjFqOwp0) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31), [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V), [El Mundo Limon](https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB) | [NT al sol](https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse) | 3:22 | 2023-04-02 |  |

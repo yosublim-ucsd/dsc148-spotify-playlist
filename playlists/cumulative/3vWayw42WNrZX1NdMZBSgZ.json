@@ -4713,6 +4713,24 @@
     },
     {
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+    },
+    {
+      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },

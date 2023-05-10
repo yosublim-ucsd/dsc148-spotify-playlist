@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,620 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,627 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Sá Marina](https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Retratos](https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA) | 3:21 |
 | 100 | [Negro Gato](https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Renato e Seus Blue Caps](https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Leno](https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G), [Golden Boys](https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn), [Jerry Adriani](https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6), [Almir](https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3) | [Jovem Guarda \- O Pulo Do Negro Gato](https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF) | 4:11 |
 
-Snapshot ID: `MCxhYmQyZGRiNGRiZTdiMzUzMjc4M2E3ZGQwMzU2YjRmYjc3MDJiNjNk`
+Snapshot ID: `MCw3ZmVhNTBhNmY0ZDM1YjJkMjkzOWRkMzIyNDc1N2VhYzk5MzI5YWYy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,290 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,328 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 54 | [Libre y Natural](https://open.spotify.com/track/01f2S6GEXC6p7uyTqywAhb) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Libre y Natural](https://open.spotify.com/album/0feWJCXh1sNsrfSPlweONV) | 4:09 |
 | 55 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
 
-Snapshot ID: `MCwzYTk5OTA2M2I4YTM0NWM2MjBhYmQ5OWRmZWFlYmFlMWZiN2ZiZTVk`
+Snapshot ID: `MCw2Y2RkOTA2ZGJhMTlhMzAyMmNjZWEyOTk5YWExNzg4OTU2NzdhZjZh`

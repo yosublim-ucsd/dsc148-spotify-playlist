@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Lambrini Girls",
-  "num_followers": 48750,
+  "num_followers": 48760,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmZlZGIwM2VlYjRkYWVjZDRkN2ExN2I5ZjU1ZjU2MDU2YWVmNDFh",
+  "snapshot_id": "MCwyYmI4NWZlZDdkODU1M2I0ZTY0OTRhMWQ4ZWFiMDM4OWRjZDM1Mjhj",
   "tracks": [
     {
       "added_at": "2023-04-21 15:17:44",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "In The Wild",
-        "url": "https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg"
-      },
-      "artists": [
-        {
-          "name": "The Interrupters",
-          "url": "https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF"
-        }
-      ],
-      "duration_ms": 181797,
-      "name": "Raised By Wolves",
-      "url": "https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL"
       },
@@ -437,22 +421,6 @@
       "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
     },
     {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
-    },
-    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Baku's Revenge (Deluxe Edition)",
@@ -467,6 +435,22 @@
       "duration_ms": 151268,
       "name": "Facedown",
       "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Girl God Gun",
+        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
+      },
+      "artists": [
+        {
+          "name": "Gen and the Degenerates",
+          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
+        }
+      ],
+      "duration_ms": 205854,
+      "name": "Girl God Gun",
+      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "MY BRAIN AFTER THERAPY",
         "url": "https://open.spotify.com/album/7seqztJ0fn7NCs4YD7cCag"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 141352,
       "name": "AFTER THERAPY (feat. Hot Mulligan)",
       "url": "https://open.spotify.com/track/6SuaNvXzk4kADnudvmd5EN"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Girl God Gun",
-        "url": "https://open.spotify.com/album/2S0R1ILxzniCXfykA0A9BL"
-      },
-      "artists": [
-        {
-          "name": "Gen and the Degenerates",
-          "url": "https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E"
-        }
-      ],
-      "duration_ms": 205854,
-      "name": "Girl God Gun",
-      "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -679,22 +663,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Pah!",
-        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Bob Vylan Presents The Price Of Life",
         "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
       },
@@ -707,6 +675,22 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Pah!",
+        "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
     },
     {
       "added_at": "2023-04-21 15:17:44",
@@ -723,6 +707,22 @@
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "EXPLICIT: The MiXXXtape",
+        "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "D.R.I.L.D.O",
+      "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "EXPLICIT: The MiXXXtape",
-        "url": "https://open.spotify.com/album/0AGZmPToQJuD4DTh6bFGQ2"
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
       },
       "artists": [
         {
-          "name": "WARGASM (UK)",
-          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
         }
       ],
-      "duration_ms": 192226,
-      "name": "D.R.I.L.D.O",
-      "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -775,22 +775,6 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -929,6 +913,22 @@
       "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 195688,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+    },
+    {
       "added_at": "2023-04-21 15:17:44",
       "album": {
         "name": "Ready",
@@ -943,26 +943,6 @@
       "duration_ms": 107998,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Force 10 From Navarone",
-        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        },
-        {
-          "name": "Florence Shaw",
-          "url": "https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "Force 10 From Navarone",
-      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -983,18 +963,38 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo"
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
       },
       "artists": [
         {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
         }
       ],
-      "duration_ms": 195688,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa"
+      "duration_ms": 219133,
+      "name": "Knees Deep",
+      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Force 10 From Navarone",
+        "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        },
+        {
+          "name": "Florence Shaw",
+          "url": "https://open.spotify.com/artist/5PGw6aGfWBvSRnOZif7K84"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "Force 10 From Navarone",
+      "url": "https://open.spotify.com/track/3SOoS8pncqffzUA78NYj9p"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Knees Deep",
-      "url": "https://open.spotify.com/track/26nKaeICWQGG1EC3cTGliE"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "serotonin",
         "url": "https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 197660,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 197660,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
-    },
-    {
       "added_at": "2023-03-27 20:30:32",
       "album": {
         "name": "DBSAC",
@@ -1155,22 +1139,6 @@
       "duration_ms": 147764,
       "name": "DBSAC",
       "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Little Fix",
-        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
-      },
-      "artists": [
-        {
-          "name": "Sprints",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Little Fix",
-      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1191,6 +1159,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Little Fix",
+        "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
+      },
+      "artists": [
+        {
+          "name": "Sprints",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Little Fix",
+      "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1203,22 +1187,6 @@
       "duration_ms": 176902,
       "name": "Bye Bye Big Bear",
       "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1239,6 +1207,22 @@
       "duration_ms": 143551,
       "name": "Your Turn",
       "url": "https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1319,6 +1303,26 @@
       "duration_ms": 160884,
       "name": "Paying The Price",
       "url": "https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Here's What You Could Have Won (Deluxe)",
+        "url": "https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "New England",
+      "url": "https://open.spotify.com/track/3T43iJI71ZeD7V256LNxxn"
     },
     {
       "added_at": "2023-03-03 00:00:00",

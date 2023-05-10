@@ -222,6 +222,24 @@
     {
       "album": {
         "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi"
       },
       "artists": [
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 168000,
       "name": "Somebody's Watching Me",
       "url": "https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp"

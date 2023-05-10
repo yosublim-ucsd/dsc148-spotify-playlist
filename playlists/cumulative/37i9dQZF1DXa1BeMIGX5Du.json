@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 195680,
       "name": "Breathe It In",
       "url": "https://open.spotify.com/track/4d4HgFSblK8Nh53Snkgo3r"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 196067,
       "name": "Easy Tiger",
       "url": "https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 225801,
       "name": "Falling Down",
       "url": "https://open.spotify.com/track/3r12NB6FyVZODCEtLypGsr"
@@ -1229,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "It Wasn't Enough",
+        "url": "https://open.spotify.com/album/2uYM8TunmJhRP1U3ULUgXv"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265973,
+      "name": "It Wasn't Enough",
+      "url": "https://open.spotify.com/track/2RbS3JyHde84ytV36H884Q"
+    },
+    {
+      "album": {
         "name": "It's Easier When You're Standing There",
         "url": "https://open.spotify.com/album/6IEF4VkPdF34KwW130ssPA"
       },
@@ -1316,6 +1334,24 @@
       "duration_ms": 200000,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/5e6sklOXEsNqSrEPDR1T3Z"
+    },
+    {
+      "album": {
+        "name": "King of Disappointment",
+        "url": "https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251265,
+      "name": "King of Disappointment",
+      "url": "https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse"
     },
     {
       "album": {
@@ -1442,6 +1478,36 @@
       "duration_ms": 170830,
       "name": "Lay By Me",
       "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
+    },
+    {
+      "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Letter To An Old Poet",
+      "url": "https://open.spotify.com/track/1zShh2S3moxyqU6u6fJZVQ"
     },
     {
       "album": {
@@ -1572,6 +1638,28 @@
       "duration_ms": 276196,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/64bEffum8UMASd4IscbCVk"
+    },
+    {
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143560,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
     },
     {
       "album": {
@@ -2135,6 +2223,24 @@
     },
     {
       "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/1AqN9WyeYYPPLEvclp2xlI"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/7i6ba4Pz9c6i0TnDKUmI7F"
+    },
+    {
+      "album": {
         "name": "Talk To Me",
         "url": "https://open.spotify.com/album/4uG4LfViuKQNF3cqEQ2R6P"
       },
@@ -2190,6 +2296,28 @@
       "duration_ms": 216110,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H"
+    },
+    {
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267773,
+      "name": "The Alcott (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
     },
     {
       "album": {
@@ -2278,6 +2406,24 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "album": {
+        "name": "Till the Flame Turns Blue",
+        "url": "https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245160,
+      "name": "Till the Flame Turns Blue",
+      "url": "https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH"
     },
     {
       "album": {
@@ -2386,7 +2532,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 240171,
       "name": "Walk Above the City",
       "url": "https://open.spotify.com/track/2i7sd9qKptLrkXLkwAOX15"
@@ -2574,7 +2720,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 171240,
       "name": "With You",
       "url": "https://open.spotify.com/track/3s9hD6HdtpeaIbr2gxgGJr"
@@ -2610,7 +2756,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 216596,
       "name": "With You",
       "url": "https://open.spotify.com/track/33OQ226Toze7LT0D4ZYUTt"
@@ -2646,7 +2792,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 239435,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/7JOD18T9PdxSSOhuxPt1N6"

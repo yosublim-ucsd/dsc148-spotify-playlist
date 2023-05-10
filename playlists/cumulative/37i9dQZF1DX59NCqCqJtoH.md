@@ -4,7 +4,7 @@
 
 > We hear you.
 
-582 songs - 1 day 4 hr 43 min
+583 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [2 Hurt Me](https://open.spotify.com/track/2IpSgH91f8BVfoKSIVhCxu) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [2 Hurt Me](https://open.spotify.com/album/28I6rRHavLzqvdJb9GCQqA) | 2:51 | 2021-04-02 | 2022-04-17 |
 | [28](https://open.spotify.com/track/5IamsVoRYgCuO13ukiTtTN) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [CESSATION](https://open.spotify.com/album/7ymsg0HvXgQtf9FgTsy3fa) | 3:36 | 2022-11-11 | 2022-11-16 |
 | [5](https://open.spotify.com/track/2uhsLVdlg8eRs62cg0Ilm7) | [Max Leone](https://open.spotify.com/artist/4VrJDwgmhD1aIenZwn7JpE) | [5](https://open.spotify.com/album/7IsOTogU20hEtMwA7qZ9l8) | 4:03 | 2021-04-02 | 2022-04-19 |
-| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2023-04-26 |  |
+| [608](https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [608](https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi) | 3:24 | 2023-04-26 | 2023-05-10 |
 | [A Song About Being Sad](https://open.spotify.com/track/6Jl3ZOX6MUOlyoUc721bsX) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Bcos U Will Never B Free](https://open.spotify.com/album/32wYrmt3fg2c8maA80Ioc2) | 2:16 | 2021-04-02 | 2022-04-20 |
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2021-04-02 | 2023-05-06 |
 | [a world of chaos \(feat\. Rxseboy, Jomie & Ivri\)](https://open.spotify.com/track/2JcMKZhCd5RwcwRbEG58wu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [poems of the past](https://open.spotify.com/album/5pAEEkvjNXOVFUazjKJgps) | 2:42 | 2021-04-02 | 2022-04-21 |
@@ -289,6 +289,7 @@
 | [Just a Little Bit Lonely](https://open.spotify.com/track/5HkDr6w8kst095gAP09k8C) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Just a Little Bit Lonely](https://open.spotify.com/album/3H0itk6lTMK8zFHT7MvZul) | 2:03 | 2021-04-02 | 2022-04-18 |
 | [just don't hurt me](https://open.spotify.com/track/0mXltaK1ktzHAK4rd6jAbY) | [badly](https://open.spotify.com/artist/2REKndUsYi3335RA5rxbTT) | [just don't hurt me](https://open.spotify.com/album/6huHcFOz0Rbbg9zsGUTF39) | 2:38 | 2022-01-27 | 2022-07-05 |
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2021-04-02 | 2022-07-29 |
+| [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-26 |  |
 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-10 | 2023-05-07 |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-06-25 |  |
 | [killmeinmysleep](https://open.spotify.com/track/77zViu7V0wRnzTafJE6HUH) | [Eli Moon](https://open.spotify.com/artist/7w9kwVf3KJfvBBfE4o6K56) | [killmeinmysleep](https://open.spotify.com/album/1i7rFneH6LmqeeAuy96u4U) | 3:20 | 2021-04-02 | 2022-04-15 |

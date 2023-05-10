@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Neha Bhasin
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,907 likes - 59 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,930 likes - 59 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 20 | [Kale Rang Da Paranda \- Folk Recreation](https://open.spotify.com/track/039Oq1RHJnoD0kwq91qjha) | [Harshdeep Kaur](https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz) | [Kale Rang Da Paranda \(Folk Recreation\)](https://open.spotify.com/album/5YkV1sIY7bgXJGLhiXtTUb) | 3:22 |
 | 21 | [Pher Auna Hai](https://open.spotify.com/track/5acoH9Gwk4YOdGNW7MQsJR) | [Sumira Thakur](https://open.spotify.com/artist/3VH81IpQ87OQBRe2XQpCup) | [Pher Auna Hai](https://open.spotify.com/album/71pz9bZ4703sorThtx4FLN) | 8:26 |
 | 22 | [Kala Sha Kala](https://open.spotify.com/track/401L9cuL8my61jXIMZDV0t) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Kala Sha Kala](https://open.spotify.com/album/0T7GZkw5POnYikelmZTA1g) | 3:15 |
-| 23 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Walia](https://open.spotify.com/artist/00HXgtYHCfo0SAKRg1JJl5) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
+| 23 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 |
 | 24 | [Jugni](https://open.spotify.com/track/7GxCu2nL6ODGO2K9cAo0wl) | [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Jugni](https://open.spotify.com/album/3D783nXYZzw8b0snc5dz9e) | 5:01 |
 | 25 | [Bati Baal Ke](https://open.spotify.com/track/2RQj3BktqBSCYlvns7lM9Z) | [Maanya Arora](https://open.spotify.com/artist/2yis41rltks0pQr6nCBAD6) | [Bati Baal Ke](https://open.spotify.com/album/3LkK5f4Jub3h8HdvzHqIyq) | 3:44 |
 | 26 | [Chidiya Da Chamba](https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sukhwinder Singh](https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT) | [Chidiya Da Chamba](https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl) | 4:53 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 58 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 |
 | 59 | [Ek Meri Akk Kaashni](https://open.spotify.com/track/3DdCB4DFq9m6vzU2mtI6CM) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Asa Singh Mastana](https://open.spotify.com/artist/5MjQby5pq8m4mANED6jFbA), [Hazara Singh Ramta](https://open.spotify.com/artist/7LbnqdejlXAPj3k6T7rY4b) | [Folk Music of Punjab, Vol\. 1](https://open.spotify.com/album/71vtvcxf58EwWSv8Nnpzf9) | 3:22 |
 
-Snapshot ID: `MCwyYWMwNTNiMzcwNzY3YzFmOTk0MDU3NjlkNDk5MmI5MTMwOTk0YjMx`
+Snapshot ID: `MCw0MjYyZDgyZjczNTZlNmQ1NDdjNWI1MDBiNTY2NzU3YjI1YmE2MTRl`

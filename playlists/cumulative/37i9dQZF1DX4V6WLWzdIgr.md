@@ -4,7 +4,7 @@
 
 > Wes kadung sayang lalu ditinggal rabi 😢
 
-42 songs - 3 hr 23 min
+43 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [LungoO](https://open.spotify.com/track/4ThWoB0h7kZFH9KI8NqdHG) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [LungoO](https://open.spotify.com/album/1ajGUwvE5wkcXvUaSyAf1V) | 5:41 | 2021-09-08 |  |
 | [Matur Suwun](https://open.spotify.com/track/3vfjm9cp7EXPiwg1dM619J) | [Tri Hanna](https://open.spotify.com/artist/5gAnElZHeovABzndwUiYJO) | [Matur Suwun](https://open.spotify.com/album/3tWwVTVbfJaZxJf5dtnZzo) | 5:46 | 2021-09-08 |  |
 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 | 2021-09-08 |  |
+| [NEMEN](https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU) | [Sasya Arkhisna](https://open.spotify.com/artist/3k3ezqE9kuA9gkrojBhxeS) | [NEMEN](https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn) | 5:16 | 2023-05-09 |  |
 | [Ojo Dibandingke](https://open.spotify.com/track/6zwls2VhjHF9Ax7Xa2r54W) | [Farel Prayoga](https://open.spotify.com/artist/1hPyJFbjHuyBZZSFkMEGmj) | [Ojo Dibandingke](https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W) | 5:28 | 2023-02-03 |  |
 | [Ojo Nangis](https://open.spotify.com/track/4Iz7wW7kYwGOtGhv9bnO06) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Ojo Nangis](https://open.spotify.com/album/7yXCV83nLn5d9BKwsolEEE) | 5:23 | 2021-09-08 |  |
 | [Pamer Bojo](https://open.spotify.com/track/2rShm1AcEBSlydfHykf3uJ) | [Didi Kempot](https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4) | [Pamer Bojo](https://open.spotify.com/album/1GXYjNao7KW85iSodKqNMD) | 5:01 | 2021-09-08 |  |

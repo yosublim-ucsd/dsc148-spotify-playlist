@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 
 > sparkling, shimmery synth pop ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,815 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,939 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,25 +63,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcP8BbYEQaO.md) - [plain]
 | 53 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 |
 | 54 | [latenight](https://open.spotify.com/track/1a5JGx5dbSPHC4jqNtcqiX) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [latenight](https://open.spotify.com/album/5mo7fGpUrPSUt424yuPJdO) | 3:01 |
 | 55 | [No Romeo](https://open.spotify.com/track/2n4U8Qf9vkpl6rFQnXtLK5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [No Romeo EP](https://open.spotify.com/album/6dpPmjQADL8JE813YWKfQ3) | 3:11 |
-| 56 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 |
-| 57 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
-| 58 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 |
-| 59 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
+| 56 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
+| 57 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 |
+| 58 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
+| 59 | [cherry blossom](https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:04 |
 | 60 | [Save A Kiss](https://open.spotify.com/track/6rlQYRWG6ZN5X89LA0zBE7) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [What's Your Pleasure?](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp) | 4:02 |
 | 61 | [Replacements \(feat\. La Roux\)](https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [Replacements \(feat\. La Roux\)](https://open.spotify.com/album/677Ket8qKGVOMtXgE4Gpfk) | 3:49 |
 | 62 | [CGI](https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [CGI](https://open.spotify.com/album/0YTny8rNHTIhYKSApVcHcy) | 3:15 |
 | 63 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 |
 | 64 | [Naked In Manhattan](https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Naked In Manhattan](https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp) | 3:31 |
-| 65 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
-| 66 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
+| 65 | [What's It Gonna Be?](https://open.spotify.com/track/1Jb8fejyUddXtl2JKAEFmQ) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Nothing's Real](https://open.spotify.com/album/2igeHhP9UZ7ko10H1K0DbP) | 3:34 |
+| 66 | [Slow Song \(with Dragonette\)](https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Slow Song \(with Dragonette\)](https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6) | 4:13 |
 | 67 | [Heaven](https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Heaven](https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W) | 3:00 |
 | 68 | [Love You When You’re Gone](https://open.spotify.com/track/54liA2Xwyb7ZCrh9sDGQ3B) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd) | 3:04 |
-| 69 | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU) | 3:13 |
-| 70 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
+| 69 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
+| 70 | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [LUV \(I KNOW I WANT THIS FOR REAL\)](https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU) | 3:13 |
 | 71 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 |
 | 72 | [I will fall](https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 4:38 |
 | 73 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 |
 | 74 | [Where Do We Go From Here?](https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Easy / Where Do We Go From Here?](https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa) | 3:51 |
 | 75 | [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 |
 
-Snapshot ID: `MCwxOTE2ZmU0NGJhNDZmOWYwNjg4OTU3OTdmOWQxMGZhNzg0MGI1MWY1`
+Snapshot ID: `MCxjNmY1YjM5MWI2ZWRmN2E2NzY2NWUzNzZlMzU1NTEzNzJkMWFiNzQz`

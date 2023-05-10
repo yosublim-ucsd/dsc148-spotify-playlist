@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,909 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,948 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Know Better \(feat\. Rv\)](https://open.spotify.com/track/0IX9PL2dUVCHp6L4JQ9Rzq) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [The One](https://open.spotify.com/album/1y37t6X1wmEVbCke5Luugd) | 3:30 |
 | 50 | [Bella latina](https://open.spotify.com/track/1Win7IcNsGoZZBNtP85Lu4) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [Bella latina](https://open.spotify.com/album/52rEOwEWDXZOkJC4Rfp31p) | 3:01 |
 
-Snapshot ID: `MCxkMDc2NjE1OThiOTI0MWU0NDc1ZmQxN2IyMGY2ZmI5ZDAxYjk0YjEw`
+Snapshot ID: `MCw4NGMyNTllYWM4OWUyZDMyZjExZDU1NzQyNTc4MWJlMWNhNzQyODYz`

@@ -4,7 +4,7 @@
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-165 songs - 10 hr 7 min
+167 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [idoshiyo](https://open.spotify.com/track/4HXOB4iLo2O86YNzp7ksH1) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ), [SARA\-J](https://open.spotify.com/artist/5o11pS7iIyQ2H4Uw587jyL) | [idoshiyo](https://open.spotify.com/album/4SW8buxuzDa9pc1Pv3fGfk) | 2:18 | 2022-10-20 | 2022-11-11 |
 | [kid feat\. Yuga](https://open.spotify.com/track/4Br3h8cIKVoXrm7EXqXv27) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [kid feat\. Yuga](https://open.spotify.com/album/7uuWGVNmdf8O9FhnKW9XF4) | 4:13 | 2022-11-10 | 2022-11-14 |
 | [kid feat\. Yuga](https://open.spotify.com/track/7GMbDO1vB3nbUrPXnYeqkA) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf), [優河](https://open.spotify.com/artist/4Oy3S7MObkSt60p6D1qrua) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:13 | 2022-10-20 | 2022-11-16 |
-| [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 |  |
+| [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 | 2023-05-10 |
 | [La La La \- feat\. JQ from Nulbarich](https://open.spotify.com/track/5LvrsZy7CMNdtjEFRan63u) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [ohashiTrio collaboration best \-off White\-](https://open.spotify.com/album/3Ip5cak1FzlibuFBlI1Lay) | 4:05 | 2023-01-17 | 2023-03-14 |
 | [Lazy](https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Tasty](https://open.spotify.com/album/5Lo3gHY145xNnpdLRumiGo) | 3:53 | 2022-10-20 | 2023-03-25 |
 | [Like no one's done](https://open.spotify.com/track/1G8jWpWgCtTEuy4Zz3Ihfe) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [Like no one's done](https://open.spotify.com/album/5JysaNdHLF3SuPrpLfrcyE) | 3:55 | 2022-12-06 | 2022-12-08 |
@@ -133,6 +133,7 @@
 | [イタズラなKiss](https://open.spotify.com/track/2Ngw4fbjRDUemjt3y5ofPH) | [Swagcky](https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj) | [イタズラなKiss](https://open.spotify.com/album/5zHx02UPVQDtT6BEj1JZCr) | 3:05 | 2022-10-25 | 2023-02-03 |
 | [カタコト](https://open.spotify.com/track/1uYDXSXxBBZSNUs2dfbTxT) | [sloppy dim](https://open.spotify.com/artist/6uMBnBtHeJmhc2tx1vDCae) | [カタコト](https://open.spotify.com/album/0YhpfFtWqIZxnHLgnURBA7) | 2:38 | 2022-10-20 |  |
 | [ゲームオーバー](https://open.spotify.com/track/7wX4lU05mPcLejQXPhh4Gk) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ゲームオーバー](https://open.spotify.com/album/1W2ALpoA6PjU52mkFj2JwS) | 4:26 | 2022-11-23 | 2023-03-22 |
+| [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 | 2023-05-09 |  |
 | [サイダー](https://open.spotify.com/track/3XyMgMwiakVHJGrXquBRU7) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [サイダー](https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu) | 3:39 | 2022-10-20 | 2022-12-24 |
 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 | 2023-03-25 |  |
 | [タイムマシーン](https://open.spotify.com/track/6VVdhvbvGJZdm8f2f6ZKYo) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [TIME LEAP](https://open.spotify.com/album/1LSdYXveZ1weRohT3cAW9B) | 3:52 | 2023-01-31 | 2023-03-25 |
@@ -142,7 +143,7 @@
 | [リンジュー・ラヴ](https://open.spotify.com/track/4InoeTKoMnvrcKOAuvbUeT) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [wheel of life](https://open.spotify.com/album/23V4MjO0LO5wMfDg0Al29s) | 3:06 | 2023-03-25 | 2023-04-12 |
 | [光合成](https://open.spotify.com/track/3X32CwdqTR8TTfWwehsZfZ) | [QUMO](https://open.spotify.com/artist/10y7aB4LWIrk6syMVdQdI1) | [光合成](https://open.spotify.com/album/2S70Ij7aq8sm2i7rbkrj6h) | 4:07 | 2023-03-02 | 2023-03-14 |
 | [前夜](https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [余白にいたら、](https://open.spotify.com/album/7FRSMhZwqwmU1kmmqyljCW) | 2:49 | 2023-03-07 | 2023-03-25 |
-| [勿体無い](https://open.spotify.com/track/3GQJb7NMVZ8yBRpap7N3TJ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Shun Maruno](https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8) | [勿体無い](https://open.spotify.com/album/7eBRbpcDWdzLYpCShTY9Xb) | 3:35 | 2023-03-07 |  |
+| [勿体無い](https://open.spotify.com/track/3GQJb7NMVZ8yBRpap7N3TJ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Shun Maruno](https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8) | [勿体無い](https://open.spotify.com/album/7eBRbpcDWdzLYpCShTY9Xb) | 3:35 | 2023-03-07 | 2023-05-10 |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-03-25 |  |
 | [咲まう](https://open.spotify.com/track/07kglGIdrAd9p2NdtCLEaD) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 4:08 | 2023-04-04 |  |
 | [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-10-20 | 2023-04-05 |
@@ -152,6 +153,7 @@
 | [心目当てのオレンジ](https://open.spotify.com/track/6OIR1s8d49Wmx1ErT28nUj) | [中島涼之介](https://open.spotify.com/artist/5NJRHASQHwwrH2gYQHbBwx) | [心目当てのオレンジ](https://open.spotify.com/album/3rN0V3IvpN5c5CIlf1NKLx) | 3:49 | 2023-04-04 |  |
 | [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2023-02-15 | 2023-02-16 |
 | [散る 散る 満ちる feat\. 菅田将暉](https://open.spotify.com/track/7KjBcpSghszsNfxw8s8y0P) | [STRANGE REITARO](https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [散る 散る 満ちる feat\. 菅田将暉](https://open.spotify.com/album/5bnkpaxSaWSN1mVSBJVVjw) | 4:23 | 2023-04-11 | 2023-04-13 |
+| [星喫茶店](https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Blossom](https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz) | 4:04 | 2023-05-09 |  |
 | [星月夜](https://open.spotify.com/track/3kjByZ9bCHIxJR3nYofZEm) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [星月夜](https://open.spotify.com/album/5D5juwsPcrKPBrN6IIITIJ) | 4:25 | 2023-03-25 | 2023-04-19 |
 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 | 2023-03-25 |  |
 | [月に吠える](https://open.spotify.com/track/38ei5SpiWb0EU4hOVkMyCJ) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [月に吠える](https://open.spotify.com/album/5koJBFB1gkG0R5fpQ3n1m3) | 3:25 | 2022-10-25 | 2022-11-17 |

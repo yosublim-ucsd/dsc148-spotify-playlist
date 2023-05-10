@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-175 songs - 7 hr 54 min
+176 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Son Kolo Vikon](https://open.spotify.com/track/7vmQmkU4WoWcUGZuiQQfx3) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Son Kolo Vikon](https://open.spotify.com/album/11LxXHazpnLHyQi2vHFUNc) | 3:37 | 2022-12-06 | 2022-12-16 |
 | [Song For Grace](https://open.spotify.com/track/3izNSG6xnfb1QY2hJGxUA4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Song For Grace](https://open.spotify.com/album/0ZjOOwIyZXHvrByUU0VNzJ) | 1:53 | 2022-08-03 | 2022-12-07 |
 | [Staden](https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 2:01 | 2022-08-26 |  |
+| [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 |  |
 | [Sway](https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Sway](https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo) | 2:21 | 2022-08-03 |  |
 | [Symbios](https://open.spotify.com/track/36QUkXZd5QuCItDvIPSbH0) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Symbios](https://open.spotify.com/album/2GpcAcNttDQAU3wXWgEEHE) | 2:53 | 2022-08-03 |  |
 | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/track/6cpnzEVv7ukhlNn77azkVy) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Talisman, Pt\. III \(Flowers Over Your Body\)](https://open.spotify.com/album/5z5c0cyNP5K6jwi01Zra5k) | 2:12 | 2022-09-23 |  |

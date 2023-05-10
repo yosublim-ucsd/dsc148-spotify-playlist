@@ -5288,7 +5288,7 @@
       ],
       "date_added": "2021-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 158778,
       "name": "Hilma",
       "url": "https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W"
@@ -6016,7 +6016,7 @@
       ],
       "date_added": "2020-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Indivision",
       "url": "https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed"
@@ -6686,6 +6686,24 @@
       "duration_ms": 174352,
       "name": "Lady Ground",
       "url": "https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0"
+    },
+    {
+      "album": {
+        "name": "Laiski",
+        "url": "https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek"
+      },
+      "artists": [
+        {
+          "name": "Taganema",
+          "url": "https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115374,
+      "name": "Laiski",
+      "url": "https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p"
     },
     {
       "album": {
@@ -15118,7 +15136,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 160624,
       "name": "When I Am With Her",
       "url": "https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG"

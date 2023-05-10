@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,347 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,413 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 2 | [POWER \- A COLORS SHOW](https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [POWER \- A COLORS SHOW](https://open.spotify.com/album/3WsYrkH5xsidXVE9wTQLAS) | 2:53 |
 | 3 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 |
 | 4 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
-| 5 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 |
-| 6 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
-| 7 | [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 |
-| 8 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 |
-| 9 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 |
+| 5 | [Bin o Bin](https://open.spotify.com/track/25fl7uMj7hYWkjaxwDSKVI) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Atmosphere](https://open.spotify.com/album/3QgYe8FsYoWXUi362955BG) | 2:31 |
+| 6 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 |
+| 7 | [M3a L3echrane](https://open.spotify.com/track/2L1MgWewnKsCx9MKykjZJw) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [M3a L3echrane](https://open.spotify.com/album/66iERpoTGbFoSgy7FY96mk) | 3:52 |
+| 8 | [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 |
+| 9 | [MON LOVE OHO](https://open.spotify.com/track/06l63fDOp1qRltZbA6r4nP) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [MON LOVE OHO](https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9) | 2:19 |
 | 10 | [Silhouette](https://open.spotify.com/track/5uFJwscfsYN5NFL7bUl3p3) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Silhouette](https://open.spotify.com/album/10jax1tK9x6smIzmN12rGs) | 4:25 |
 | 11 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 |
 | 12 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 |
 | 50 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 |
 
-Snapshot ID: `MCw3OTM1Y2VkMjQ1NmZlYzE5NzAxZGM5MTZiYjliZTUyZGFhMWI4MzQ5`
+Snapshot ID: `MCwzOTFlYzM1ZWExMDYzMWUwNTBmOGJlNDk0ZmYxNjg0YzZkYmJjYzdj`

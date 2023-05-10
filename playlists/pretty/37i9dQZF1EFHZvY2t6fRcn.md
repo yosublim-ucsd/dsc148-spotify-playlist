@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 13 | [At Least We Tried](https://open.spotify.com/track/6vykq1FmiHr7e5CPyPyHX4) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:32 |
 | 14 | [Ooh Laa](https://open.spotify.com/track/0ulSIUvy5rSdkTEgUbJzm2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 2:59 |
 | 15 | [Messiah](https://open.spotify.com/track/5yRDS8rO2nWrNxcVcsCPl4) | [M\-Phazes](https://open.spotify.com/artist/4B1CeNsCcLfOvRBJ34UUSX), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Messiah](https://open.spotify.com/album/3oDCT5J0RlH4eGNFX51szn) | 3:43 |
-| 16 | [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/2emtg7AbAMwQSD7MF8uQSg) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Radio Edit\)](https://open.spotify.com/album/0DmsYE70jM3A7RbwNiTAlp) | 3:28 |
-| 17 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 |
+| 16 | [PIECES](https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PIECES](https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo) | 2:46 |
+| 17 | [Heaven \- Radio Edit \[Radio Edit\]](https://open.spotify.com/track/2emtg7AbAMwQSD7MF8uQSg) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heaven \(Radio Edit\)](https://open.spotify.com/album/0DmsYE70jM3A7RbwNiTAlp) | 3:28 |
 | 18 | [Remind Me](https://open.spotify.com/track/1Ky8xo7X6SeebLT1Co4RXX) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:24 |
 | 19 | [Stroke](https://open.spotify.com/track/01a0H5HPeCMOktdRMygi3t) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:26 |
-| 20 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 |
-| 21 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 |
+| 20 | [Godless](https://open.spotify.com/track/1eTL8yocTmire9gpOn2H2g) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:10 |
+| 21 | [Bones](https://open.spotify.com/track/39qWzdNJSioJzfemhwXtDw) | [Equinox](https://open.spotify.com/artist/6Q7UV9Oa87GypGTKiuOh6f) | [Bones](https://open.spotify.com/album/23R15MF9YuwmRBjIMk9Khk) | 2:59 |
 | 22 | [By The End Of The Night](https://open.spotify.com/track/41dA1g5HMbWO89XFj0Y6aR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:08 |
 | 23 | [warmer](https://open.spotify.com/track/5j1sD9Y23NBdidWUKx22Ss) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [aurora](https://open.spotify.com/album/2rQu10gUgBVYzgsitDZNyU) | 3:14 |
 | 24 | [Sadness](https://open.spotify.com/track/6R4fwYApPpBROATC6gLl10) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Good Cry](https://open.spotify.com/album/4X3qM37B4hEZIHIq5nGsMv) | 2:41 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 102 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 | 103 | [Back By The Weekend](https://open.spotify.com/track/5mt5VkHrCC1Za06vGFKrLK) | [IRIS](https://open.spotify.com/artist/4XpjwqXDE6hIJwISq69GOH) | [Back By The Weekend](https://open.spotify.com/album/6NWaFNsDGbS8YRxm6lkaDM) | 2:55 |
 
-Snapshot ID: `MjgwNTk5MDksMDAwMDAwMDAzMWFiYmRiNGFhNWYzZjEwYzBlMjA1NThmMzJmZjlmNQ==`
+Snapshot ID: `MjgwNjEzNDksMDAwMDAwMDA1MDJiYWU5MzAxZmM4M2MxOWIyMjI5NmEzMzAxOGNkOQ==`

@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI?si=LQYbpLmESgm81tBc0t3L9Q"> Young Jonn </a>
 
-167 songs - 8 hr 0 min
+168 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [HALLELUJAH \(feat\. Blaqbonez\)](https://open.spotify.com/album/1AyItMJ8g0claNyariIM6z) | 2:17 | 2023-05-04 |  |
 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 | 2022-06-09 |  |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-05-01 |
+| [Holiday](https://open.spotify.com/track/3ceZIRUX8m8qFFcnEDkj2K) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 2:39 | 2023-05-04 |  |
 | [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 | 2022-06-09 | 2023-03-15 |
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2022-08-12 | 2023-04-21 |
 | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [I Salute \(feat\. Zlatan\)](https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6) | 3:07 | 2023-04-20 |  |
@@ -120,7 +121,7 @@
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-18 |  |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 |  |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 |  |
-| [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 |  |
+| [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 | 2023-05-10 |
 | [Philo](https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Philo](https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl) | 2:45 | 2022-09-23 |  |
 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 | 2023-03-18 |  |
 | [PICANTO](https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [ECko Miles](https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD) | [PICANTO](https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc) | 3:04 | 2022-12-07 |  |

@@ -4,10 +4,11 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 37 min
+65 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [All the Best Cowboys Have Daddy Issues](https://open.spotify.com/track/6N4aWCy7FKUMoTGQAGNP1V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 4:05 | 2023-05-09 |  |
 | [Between the Mountains and the Sea](https://open.spotify.com/track/5x95e85zuMCIFWezlxCnHs) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 4:53 | 2022-10-25 |  |
 | [Bite to Break Skin](https://open.spotify.com/track/2cHu9HRqxVlS7MGSSb29Yh) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:31 | 2022-10-25 |  |
 | [Bloody Romance](https://open.spotify.com/track/0x0UjQv7TEFPzHlSATUo9N) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 3:50 | 2022-10-25 |  |
@@ -47,7 +48,7 @@
 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 | 2022-10-25 | 2023-04-09 |
 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [VOID ETERNAL](https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK) | 3:04 | 2023-04-08 |  |
 | [Mi Amor](https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:29 | 2022-10-25 |  |
-| [Negative Space](https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:21 | 2023-03-25 |  |
+| [Negative Space](https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:21 | 2023-03-25 | 2023-05-10 |
 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:59 | 2022-10-25 |  |
 | [New Year's Eve](https://open.spotify.com/track/4zVYTH3loQynQsWGn9ViiK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6IExM5Oz7rM77Qz27L0nYD) | 3:14 | 2022-12-12 | 2023-02-28 |
 | [NJ Falls Into the Atlantic](https://open.spotify.com/track/7EWKOfLgNr9f1NgQZkRIzp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Let It Enfold You](https://open.spotify.com/album/2NLyP6U1OZZ8d4PvbVANLT) | 3:48 | 2022-10-25 |  |

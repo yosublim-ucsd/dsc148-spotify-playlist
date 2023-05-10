@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 110934,
+  "num_followers": 111024,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDE3OTBiOGVjMGQxNDc5ZTEzNTA2ZWE0ZDZjMjI5NGMxMmEzYzgz",
+  "snapshot_id": "MCw0Zjc0NzJlNWY2NTQ5YmYxOTcwN2IwMWM5N2I3MDgxNTVkZmEwMTJh",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
-      "added_at": "2023-05-09 01:07:07",
-      "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
       "added_at": "2023-02-17 06:00:00",
       "album": {
         "name": "En Vivo, Desde Su Lugar",
@@ -355,6 +339,22 @@
       "duration_ms": 162146,
       "name": "Cheque En Blanco - Live",
       "url": "https://open.spotify.com/track/2aqarSktx1bU8WrZE9lW1X"
+    },
+    {
+      "added_at": "2023-05-10 00:53:35",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
         }
       ],
-      "duration_ms": 270600,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
+      "duration_ms": 199656,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
       },
       "artists": [
         {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 199656,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT"
+      "duration_ms": 270600,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/410oSeukkBVpi4w8cAJfDy"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Me Saludas A La Tuya",
-        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Me Saludas A La Tuya",
-      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Se Canta Con El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 193986,
       "name": "Quiero Un Amor",
       "url": "https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Me Saludas A La Tuya",
+        "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 163932,
+      "name": "Me Saludas A La Tuya",
+      "url": "https://open.spotify.com/track/17hGgn86Ir7YYtuTnOaKPy"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
         "name": "Mexicana Enamorada",
         "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "No Hay Quinto Malo",
-        "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
-      },
-      "artists": [
-        {
-          "name": "Paquita La Del Barrio",
-          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
-        }
-      ],
-      "duration_ms": 173407,
-      "name": "No Hay Quinto Malo",
-      "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg"
       },
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
+        "name": "No Hay Quinto Malo",
+        "url": "https://open.spotify.com/album/72szrpw0ttfJf0qKhEcPhx"
+      },
+      "artists": [
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "duration_ms": 173407,
+      "name": "No Hay Quinto Malo",
+      "url": "https://open.spotify.com/track/7tsW0yrg4oUGtjmg1FWsCl"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 143800,
       "name": "Las Margaritas",
       "url": "https://open.spotify.com/track/0CpDKuoEqUWou1jEVoZCeu"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "Canta Once Grandes Exitos De Juan Gabriel",
+        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
         }
       ],
-      "duration_ms": 190453,
-      "name": "Adios y Bienvenida",
-      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
+      "duration_ms": 204866,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Canta Once Grandes Exitos De Juan Gabriel",
-        "url": "https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl"
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 204866,
-      "name": "No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/1djvcwusUBPg7c8lGR9htm"
+      "duration_ms": 190453,
+      "name": "Adios y Bienvenida",
+      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Cuesti\u00f3n De Tiempo",
         "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 233879,
       "name": "Uno Y Uno",
       "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "La Reina de la Canci\u00f3n Mexicana",
-        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 178782,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Besos y Copas",
         "url": "https://open.spotify.com/album/5HTIRhX9JAFrHL1LVQK0xI"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 181000,
       "name": "Besos y Copas",
       "url": "https://open.spotify.com/track/2qHHBjkrs2KlzG1mb0A3Qc"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "La Reina de la Canci\u00f3n Mexicana",
+        "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 178782,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/4EPxEtHdumGMnUEROmrE3z"
     },
     {
       "added_at": "2023-02-17 06:00:00",

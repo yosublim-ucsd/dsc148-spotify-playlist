@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Roxana Amed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,189 likes - 76 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,197 likes - 76 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 63 | [Caminando Con Audífonos](https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im) | [Pat Nuño](https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN) | [En Las Afueras](https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my) | 3:50 |
 | 64 | [Wave](https://open.spotify.com/track/79Wgtrmp428O3j5H4k4etr) | [Marta Bellomo](https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm), [Alejandro Moro](https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7) | [Mensajes Secretos](https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g) | 8:44 |
 | 65 | [Viva Jujuy](https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5) | [Arturo Puertas](https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ) | [Viva Jujuy](https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm) | 6:01 |
-| 66 | [...Baby One More Time](https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [...Baby One More Time](https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M) | 3:21 |
-| 67 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 |
+| 66 | [Full Glasses](https://open.spotify.com/track/0ZJTETgpljZUOEsIqIvABa) | [Javier Malosetti](https://open.spotify.com/artist/0k0zJds09TLWzvBW9NoPqV) | [Onyx](https://open.spotify.com/album/5LhbsJBXOaqJe6NSTnXpj1) | 6:04 |
+| 67 | [...Baby One More Time](https://open.spotify.com/track/4rPDxqdzrNVf5Kjj8AngtC) | [Manto de Carne](https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy) | [...Baby One More Time](https://open.spotify.com/album/6WeqZRTUp9w2M6sNV0Hw6M) | 3:21 |
 | 68 | [Cafetin de Buenos Aires](https://open.spotify.com/track/1qMFhxqH3pg4op8TcWqDU6) | [Adrian Iaies Trio](https://open.spotify.com/artist/4MKtvJyVxI69nNamN4wWje) | [Las Tardecitas de Miton's](https://open.spotify.com/album/7lWZcmElRhLDZrLVJqSSC4) | 6:08 |
 | 69 | [Luna en Nueva York](https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg) | [Leo Genovese](https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk) | [Piano Tuerto](https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8) | 5:26 |
 | 70 | [Polacos](https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7) | [Pipi Piazzolla Trio](https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B) | [Polacos](https://open.spotify.com/album/3EbzOkNDvfYgvbT5xjqCmi) | 3:08 |
 | 71 | [9 de Copas](https://open.spotify.com/track/5rWHeoqcCoWfJgvsjuoBDt) | [Ramiro Flores](https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t), [Sergio Wagner](https://open.spotify.com/artist/1VjZ6iGHgNG98yD3pvlYxm), [Hernán Segret](https://open.spotify.com/artist/0ZsQYKiNIxkaBdbkftJQYU), [Carto Brandán](https://open.spotify.com/artist/6V37ntXjzq4ozdp0SYKsmB) | [9 de Copas](https://open.spotify.com/album/6s057GCrLIIKLJJIVp6Has) | 3:52 |
-| 72 | [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 |
-| 73 | [Pretos](https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Gabriel Domenicucci](https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0) | [El Ombligo de un Sueño](https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH) | 5:24 |
+| 72 | [Pretos](https://open.spotify.com/track/3qU2fhuzoTAHUkKtdcnz1H) | [Ernesto Amstein](https://open.spotify.com/artist/3RtoD2Lg2AMClwewzI109w), [Gabriel Domenicucci](https://open.spotify.com/artist/0RVTCxjrWgfnzamvKD61G0) | [El Ombligo de un Sueño](https://open.spotify.com/album/5WIyPkKZAMMCnzohJQMxkH) | 5:24 |
+| 73 | [Bye Bye Blackbird](https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Bye Bye Blackbird](https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v) | 3:08 |
 | 74 | [Tatami](https://open.spotify.com/track/2o08Et8AGn8tEusatrFYAJ) | [Esteban Sehinkman](https://open.spotify.com/artist/55CHAcVJ8aB6sOY4TbWDJ6) | [El Sapo Argentino de Boca Ancha](https://open.spotify.com/album/5IKVW5aNCv3eyoBUM0qENX) | 6:59 |
 | 75 | [Equinox](https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ) | [Nestor Astarita](https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x), [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [80 Años \- Jazztaríaenbaterita](https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo) | 6:53 |
 | 76 | [Coplas de Luna Quieta](https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs) | [Ignacio Montoya Carlotto](https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK) | [Inocencia Repetida](https://open.spotify.com/album/1ovII6dFGZDpvYU47qu4fX) | 2:37 |
 
-Snapshot ID: `MCw3M2RmOTg1M2JhNTAxMTExZDJmZDM0ZTA4ZGIyMGIyZGNjNzVmNGQ3`
+Snapshot ID: `MCw4MTUwYWQ5Yzc1NWE3YTRmNDYzYmUyMzI0NzQ1YzcxM2UxZDM5YTYx`

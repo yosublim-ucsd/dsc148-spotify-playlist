@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 393679,
+  "num_followers": 393761,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWQyNmJiMWM5MDcwYTFiNmM1ZDc0YjJkZGQ1MTg3NjYxZGY5OGZm",
+  "snapshot_id": "MCw5ZmFjMDBlYmI4OGE4ZTc4NTJlYzIwZjEzYTE5MDU2ZjMyMzllNjEz",
   "tracks": [
     {
       "added_at": "2023-04-17 16:05:42",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-04-17 16:05:42",
       "album": {
-        "name": "Lady Lady",
-        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Tadow",
-      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2023-04-17 16:05:42",
-      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2023-04-17 16:05:42",
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "added_at": "2023-04-17 16:05:42",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-04-17 16:05:42",
       "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "added_at": "2023-04-17 16:05:42",
+      "album": {
         "name": "Yesterday's Gone",
         "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 172653,
       "name": "Damselfly",
       "url": "https://open.spotify.com/track/32sBVB5HmrwJ6e9g0S2BRL"
-    },
-    {
-      "added_at": "2023-04-17 16:05:42",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-04-17 16:05:42",

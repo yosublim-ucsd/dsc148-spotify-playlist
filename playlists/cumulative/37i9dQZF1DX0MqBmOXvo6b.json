@@ -5273,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Particle rise",
+        "url": "https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR"
+      },
+      "artists": [
+        {
+          "name": "Ama Hemmah",
+          "url": "https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152850,
+      "name": "Particle rise",
+      "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
+    },
+    {
+      "album": {
         "name": "Passage sombre",
         "url": "https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9"
       },
@@ -6346,7 +6364,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 168125,
       "name": "Sand Between Our Fingers",
       "url": "https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex"

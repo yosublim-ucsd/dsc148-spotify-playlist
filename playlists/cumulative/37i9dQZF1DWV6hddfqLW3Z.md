@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-89 songs - 5 hr 23 min
+90 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Beija Eu](https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Mais](https://open.spotify.com/album/3hPEISGlVahSAoFUDE5m7M) | 3:14 | 2022-08-19 |  |
 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 | 2022-08-19 |  |
 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 | 2022-08-19 |  |
+| [Calmô](https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Calmô](https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1) | 4:14 | 2023-04-28 |  |
 | [Chega de Saudade](https://open.spotify.com/track/4fryIGUnJQ1XPg2QyasFQ4) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ) | 2:03 | 2022-08-19 | 2023-03-30 |
 | [Chega de Saudade](https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 2:03 | 2023-04-28 |  |
 | [Chega de Saudade \- Ultimate Mix](https://open.spotify.com/track/1cM4eMzeqalRs8HbXtfT9X) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade / O Amor o Sorriso e a Flor / João Gilberto \(1961\) \[Ultimate Mix\]](https://open.spotify.com/album/5QyRw84mq8qyaOfaMthydb) | 2:02 | 2023-01-20 | 2023-04-24 |
@@ -82,7 +83,7 @@
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-11-04 | 2023-04-14 |
 | [Se fosse tão fácil \- Acústico](https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Se fosse tão fácil \(Acústico\)](https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9) | 3:18 | 2022-08-19 |  |
 | [Se...](https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 4:51 | 2022-08-19 |  |
-| [Sede Pra Te Ver \- Acústica](https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Sede Pra Te Ver \(Acústica\)](https://open.spotify.com/album/7BlOX3pSGZHdVI5YyU8ZMf) | 3:00 | 2022-08-19 |  |
+| [Sede Pra Te Ver \- Acústica](https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Sede Pra Te Ver \(Acústica\)](https://open.spotify.com/album/7BlOX3pSGZHdVI5YyU8ZMf) | 3:00 | 2022-08-19 | 2023-05-10 |
 | [Sozinho](https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Marcas](https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM) | 3:23 | 2022-08-19 | 2022-11-13 |
 | [Só Hoje \- Acústico](https://open.spotify.com/track/3dQlFoNRi1mjKBPVXXEjYt) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Acústico Jota Quest](https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9) | 5:07 | 2022-08-19 |  |
 | [Só Louco](https://open.spotify.com/track/1733B1kOllykeA4kFffXqm) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Só Louco](https://open.spotify.com/album/1qYZNLNDWuY7tJjwAVGiB0) | 3:56 | 2022-11-09 | 2022-12-02 |

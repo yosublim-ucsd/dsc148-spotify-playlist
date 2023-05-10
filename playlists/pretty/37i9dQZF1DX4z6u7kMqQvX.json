@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 99856,
+  "num_followers": 99898,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjQ5ZDM3ZDE0ZWI5OTRhZWVhNzQwNjY4ZGM0OTg4M2M1MWY0ZWE5",
+  "snapshot_id": "MCw2Y2Y5NDViMDc2OTNiNDNiZDU1NzQ4MjhjZDlmYWYxMjM4MzBmN2Y1",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Para Vivir Mejor",
+        "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 151729,
+      "name": "Para Vivir Mejor",
+      "url": "https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "El Paradise",
         "url": "https://open.spotify.com/album/1Mu2ASzYyaoygPrhFH6xME"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 255240,
       "name": "Esp\u00e9rame (feat. Elastic Bond)",
       "url": "https://open.spotify.com/track/0iMhQB3iXc3I4Ef1261lrr"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Para Vivir Mejor",
-        "url": "https://open.spotify.com/album/6Hvl1yMEJWYNG72bHkZMZs"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 151729,
-      "name": "Para Vivir Mejor",
-      "url": "https://open.spotify.com/track/3WCJS3iT5DIHYYBd7Obm38"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Cada Letra Que Escribo",
+        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202804,
+      "name": "Cada Letra Que Escribo",
+      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Si Fueras Lluvia",
         "url": "https://open.spotify.com/album/46B8tnPwQdlw6jOY947lGu"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Cada Letra Que Escribo",
-        "url": "https://open.spotify.com/album/0aoLxPrjSF2e0BOxRFTS6G"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202804,
-      "name": "Cada Letra Que Escribo",
-      "url": "https://open.spotify.com/track/06cYrvLQxg2YngN0sx8zXS"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "La Danza del Espacio Tiempo",
+        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 128981,
+      "name": "La Danza del Espacio Tiempo",
+      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Tiempo Compartido",
         "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "La Danza del Espacio Tiempo",
-        "url": "https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 128981,
-      "name": "La Danza del Espacio Tiempo",
-      "url": "https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 157849,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Radar",
         "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 162288,
       "name": "Radar",
       "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/0F4Mcth9SWbVG0E6RvNyem"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 157849,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/6GvnbcWUY93ck0EO00enpm"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Romeo y Violeta",
-        "url": "https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 230296,
-      "name": "Romeo y Violeta",
-      "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Romeo y Violeta",
+        "url": "https://open.spotify.com/album/68s41NxvS7FDQzVdNfqryX"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 230296,
+      "name": "Romeo y Violeta",
+      "url": "https://open.spotify.com/track/4nVoM4pJT8CUTAJbenU2bx"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Crucero Cristal",
         "url": "https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 192070,
       "name": "Sad Balada",
       "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "No Te Quedes Solo",
-        "url": "https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U"
-      },
-      "artists": [
-        {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
-        }
-      ],
-      "duration_ms": 210611,
-      "name": "No Te Quedes Solo",
-      "url": "https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 187514,
       "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "No Te Quedes Solo",
+        "url": "https://open.spotify.com/album/2vpOJ0lq92uxDcTLoamm5U"
+      },
+      "artists": [
+        {
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+        }
+      ],
+      "duration_ms": 210611,
+      "name": "No Te Quedes Solo",
+      "url": "https://open.spotify.com/track/3Uaos9qJCxhbdUMrbq9NJP"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Ya ni mis amigos me contestan",
         "url": "https://open.spotify.com/album/4cRlAWKFa1WSqZ2JDcvP8b"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 255860,
       "name": "Los D\u00edas Que No Est\u00e1s",
       "url": "https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
     },
     {
       "added_at": "2023-04-14 03:00:00",

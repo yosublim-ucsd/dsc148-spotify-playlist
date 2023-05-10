@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,391 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,426 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 15 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
 | 16 | [Move Your Body](https://open.spotify.com/track/3YXIVMQLRRq2K7kxC7UYx6) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Move Your Body](https://open.spotify.com/album/7KrVkLXp05Tn5MoZYVEhop) | 3:16 |
 | 17 | [Feel My Needs](https://open.spotify.com/track/7nionv2ijjqUlg9m5iWPTc) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Feel My Needs](https://open.spotify.com/album/1DhXzsPrJjFpwOKRPV2Hpu) | 3:28 |
-| 18 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
-| 19 | [This Groove](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [This Groove](https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H) | 3:08 |
+| 18 | [This Groove](https://open.spotify.com/track/6ZvLKwgPKlyZtDPkTWjPI7) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7) | [This Groove](https://open.spotify.com/album/6V2cksv4xWiubhZdh2Kb1H) | 3:08 |
+| 19 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 20 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 |
 | 21 | [Back & Forth](https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Back & Forth](https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0) | 3:16 |
 | 22 | [Summer 91](https://open.spotify.com/track/7pARbCUoO1CTzU5ucMEaVF) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91](https://open.spotify.com/album/4eAbd696nAHRZy2g6RwLhL) | 2:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/track/0UBjV0qdhBKQLnl8tNXb9e) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Fake Friends \(feat\. Alex Hosking\)](https://open.spotify.com/album/0wmqUFbaNF1eVwTqs28zoc) | 2:53 |
 | 50 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 
-Snapshot ID: `MCwwYTAxM2JjMjA5N2NkNWRjMzI4ODFlNzgyZjZlMGE0YzNiN2RiMzhm`
+Snapshot ID: `MCxjMmEzMTFiMjU2NjBiODQyM2I5OTk2MmZkN2EyOWY0YmIzNjBhNTgz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,336 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,371 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 21 | [Tight Up Skirt](https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9) | [Red Rat](https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh) | [Oh No It's Red Rat](https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi) | 3:34 |
 | 22 | [Give It To Her](https://open.spotify.com/track/00FU5uypELwgQuM9IbFC6G) | [Tanto Metro & Devonte](https://open.spotify.com/artist/4mVpYIVAOE8sEdYuL8HDpd) | [The Beat Goes On](https://open.spotify.com/album/3nHyznRwytwaj0sBoa9RR1) | 3:29 |
 | 23 | [Stay So](https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Parts Of The Puzzle](https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx) | 3:40 |
-| 24 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
-| 25 | [Babylon Too Rough](https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 2:55 |
+| 24 | [Babylon Too Rough](https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 2:55 |
+| 25 | [Soul Provider](https://open.spotify.com/track/2C6JGwgXp5W9yPi21dBHsw) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Lifted](https://open.spotify.com/album/4E654ZenJUSulZS85NPMgg) | 4:14 |
 | 26 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
 | 27 | [Rasta Should Be Deeper](https://open.spotify.com/track/77DMJWGzzpLk8Fzd2jpqTI) | [Junior Kelly](https://open.spotify.com/artist/20aXKBdnVocEWJQjDyddN9) | [Tough Life](https://open.spotify.com/album/0j4h4INrckemf0kmGd2NHc) | 3:29 |
 | 28 | [Saddest Day](https://open.spotify.com/track/4qaxWylitp9qvg0zsaEqeo) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:43 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 45 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
 | 46 | [Sycamore Tree](https://open.spotify.com/track/7KijSBqHaE0gNsogRskdrq) | [Lady Saw](https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK) | [Passion](https://open.spotify.com/album/4a3q380ZHjnQCp93H8ihs0) | 3:31 |
 | 47 | [Sweep Over My Soul](https://open.spotify.com/track/5uSHCmZBRnSUcWcZ8kxWRk) | [Luciano](https://open.spotify.com/artist/3Vszg64mczF1dWEcW2dU5W) | [Sweep Over My Soul](https://open.spotify.com/album/1nluXd8QoqYjkRSr16r4qR) | 3:53 |
-| 48 | [Note To Self \(Okay\) \[feat\. Chronixx\]](https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Note To Self](https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV) | 4:04 |
-| 49 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
+| 48 | [Big Big](https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Big](https://open.spotify.com/album/6xeNkWALZtiy48cbs5rnDH) | 3:02 |
+| 49 | [Note To Self \(Okay\) \[feat\. Chronixx\]](https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA) | [Jah9](https://open.spotify.com/artist/6jNPkvFjV9LEguf2CrcFoH), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Note To Self](https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV) | 4:04 |
 | 50 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 
-Snapshot ID: `MCwwODBlNGJlM2FkOTEzOWJhZDUyYzQxMzAzYzRlZTY5YzE2ZTBiNjlk`
+Snapshot ID: `MCw0OGY0YWUwN2EwNmUwNTFhYWVkMTVhNWY2MmMzMzdmOTgzOTg5MThm`

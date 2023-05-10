@@ -5932,7 +5932,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 221811,
       "name": "Feberdr\u00f8mmer Xx Dubai",
       "url": "https://open.spotify.com/track/22fNmvVD1bC4rWv6hg29pC"
@@ -9040,7 +9040,7 @@
       ],
       "date_added": "2022-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 166000,
       "name": "hvad skal verden med s\u00e5dan en som mig?",
       "url": "https://open.spotify.com/track/3lt2vb4iuIJrvIccs2IlBU"
@@ -16196,7 +16196,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 187850,
       "name": "Rice & Peas",
       "url": "https://open.spotify.com/track/0lSLXxc1x5PYnDIHgFtlHD"
@@ -16464,7 +16464,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 169983,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK"
@@ -19796,7 +19796,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 266040,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/3LlqJkcXMBIAE5X1uUiZUN"
@@ -20326,6 +20326,28 @@
       "duration_ms": 150596,
       "name": "Violence (feat. Branco)",
       "url": "https://open.spotify.com/track/6YdvKXXBg33LPe40riAVCc"
+    },
+    {
+      "album": {
+        "name": "Ny Sejr",
+        "url": "https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ"
+      },
+      "artists": [
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        },
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177099,
+      "name": "Visit (feat. Stepz)",
+      "url": "https://open.spotify.com/track/4qPHvX6Mz5tp5lLdimYhDm"
     },
     {
       "album": {

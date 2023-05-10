@@ -9286,7 +9286,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 273160,
       "name": "Kod\u0117l Tu \u010cia?",
       "url": "https://open.spotify.com/track/2lqGtTJJv8KM514MrhOBdD"
@@ -10704,7 +10704,7 @@
       ],
       "date_added": "2023-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -12374,7 +12374,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -12638,10 +12638,28 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
+    },
+    {
+      "album": {
+        "name": "NARCISSISTICPERSONALITYDISORDER",
+        "url": "https://open.spotify.com/album/7vW1HMhMkyuDcGADlfM3PU"
+      },
+      "artists": [
+        {
+          "name": "FenoSkii",
+          "url": "https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110510,
+      "name": "NARCISSISTICPERSONALITYDISORDER",
+      "url": "https://open.spotify.com/track/4Gh7On1O5VzyFJ1mpHqdOw"
     },
     {
       "album": {
@@ -17095,6 +17113,28 @@
     },
     {
       "album": {
+        "name": "Slidu",
+        "url": "https://open.spotify.com/album/3lvpr0WJbNJigxO8iqXn7S"
+      },
+      "artists": [
+        {
+          "name": "Solo Ansamblis",
+          "url": "https://open.spotify.com/artist/3ijila8dsJCViL148nKkW9"
+        },
+        {
+          "name": "Roe Deers",
+          "url": "https://open.spotify.com/artist/1dgDxUpQTq1goeeck85apa"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260282,
+      "name": "Slidu",
+      "url": "https://open.spotify.com/track/7szvyCzmSGI8hJ0mlXiZDc"
+    },
+    {
+      "album": {
         "name": "SloMo",
         "url": "https://open.spotify.com/album/0UMDRKVU0rz2nALo2bms9d"
       },
@@ -20144,7 +20184,7 @@
       ],
       "date_added": "2023-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 147190,
       "name": "Vakar Vakare",
       "url": "https://open.spotify.com/track/51IryH1WKRsubEPLdEIqJl"
@@ -21568,6 +21608,24 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "KOD\u0116L TU \u010cIA?",
+        "url": "https://open.spotify.com/album/3AG71CU4i34I2Mj3xsKqvM"
+      },
+      "artists": [
+        {
+          "name": "Monika LIU",
+          "url": "https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318026,
+      "name": "\u012e Tave",
+      "url": "https://open.spotify.com/track/4EbZM1P99mTOdt9kqaMRcb"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 913349,
+  "num_followers": 913562,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzljZTk0NjYxM2Y2OWU5ZDk2YzRkYjMwYjQyZDhhMjcyZGQ3NjQw",
+  "snapshot_id": "MCw4MDU2ZDg2Zjc5ODlkOGQzNzQ2YzlkMDE1NmRjZTBjZmY5NDc3OWQ3",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Lipstick (feat. Robbie Rise)",
+        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "Robbie Rise",
+          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
+        }
+      ],
+      "duration_ms": 226615,
+      "name": "Lipstick (feat. Robbie Rise)",
+      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Eye To Eye",
         "url": "https://open.spotify.com/album/4MhknnFfLUIa16XZiicOvz"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 149268,
       "name": "No Piensa",
       "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Lipstick (feat. Robbie Rise)",
-        "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "Robbie Rise",
-          "url": "https://open.spotify.com/artist/7I3KcpUt82lD7bA5J7qQ8A"
-        }
-      ],
-      "duration_ms": 226615,
-      "name": "Lipstick (feat. Robbie Rise)",
-      "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -783,22 +783,6 @@
       "duration_ms": 192382,
       "name": "Outer Space",
       "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Goodies - Knock2 Remix",
         "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Smack That",
         "url": "https://open.spotify.com/album/6coZsT8OiaHO1a98kJkjVQ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 160952,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/2ttKP17aZtsb96c6sK1QDK"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Turn Off The Lights (Cloonee Remix)",
         "url": "https://open.spotify.com/album/716AWEWgxG0yhWfy0PfGhc"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 198754,
       "name": "Turn Off The Lights - Cloonee Remix",
       "url": "https://open.spotify.com/track/5pg2odADhTPe42uf0BghWA"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Come Together",
-        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
-      },
-      "artists": [
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "DJ Glen",
-          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
-        }
-      ],
-      "duration_ms": 219523,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 160047,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Come Together",
+        "url": "https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "DJ Glen",
+          "url": "https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd"
+        }
+      ],
+      "duration_ms": 219523,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Shakedown",
-        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
-      },
-      "artists": [
-        {
-          "name": "NUZB",
-          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
-        },
-        {
-          "name": "Mo Falk",
-          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
-        }
-      ],
-      "duration_ms": 160367,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Push And Pull",
         "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
       },
@@ -1763,6 +1743,26 @@
       "duration_ms": 167272,
       "name": "Power Stone",
       "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Shakedown",
+        "url": "https://open.spotify.com/album/7zclPlPYmivvLPyk4GQliz"
+      },
+      "artists": [
+        {
+          "name": "NUZB",
+          "url": "https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa"
+        },
+        {
+          "name": "Mo Falk",
+          "url": "https://open.spotify.com/artist/40U5WCKQ9YGndn2bqa5vEZ"
+        }
+      ],
+      "duration_ms": 160367,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/7sXuBbvVc7ntRShABTEcm5"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Other Side",
-        "url": "https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi"
-      },
-      "artists": [
-        {
-          "name": "Rnbstylerz",
-          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-        }
-      ],
-      "duration_ms": 171716,
-      "name": "Other Side",
-      "url": "https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 199384,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Other Side",
+        "url": "https://open.spotify.com/album/5NCLNQpMVsuEWQV5MlBefi"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "duration_ms": 171716,
+      "name": "Other Side",
+      "url": "https://open.spotify.com/track/00AM1H8UVnoPi3fOYvu5Nv"
     },
     {
       "added_at": "2023-04-28 04:00:00",

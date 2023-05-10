@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,750 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,777 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 3 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 |
 | 4 | [Be Somebody](https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Be Somebody](https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8) | 2:21 |
 | 5 | [Backbone](https://open.spotify.com/track/6mXHM9VN5p5Z9kWgtQsm2e) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Backbone](https://open.spotify.com/album/6Bdt1oU6mqRFhFroAopJOb) | 3:00 |
-| 6 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 |
+| 6 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 |
 | 7 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 |
 | 8 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
 | 9 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Sorry Instead](https://open.spotify.com/track/5rHD6gnDX7pyBiS5AuRMwT) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody \(Deluxe\)](https://open.spotify.com/album/3VHJ9vMV6k9gSxbI1yPPFz) | 3:19 |
 | 80 | [Ripple](https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM) | [Ripple](https://open.spotify.com/album/2SxQzTgVzdpzQwSNrTARks) | 3:34 |
 
-Snapshot ID: `MCw4N2YxYThiYzdmNmExNzllNzRlMTkxYTY0YjdhZWU2Y2QyNDlhNjU2`
+Snapshot ID: `MCwxYTk5ZDFhNDBhYmQ4ODRlYTZmMjMzNjI1MjA5MmY4ZWJhNWFmMjc3`

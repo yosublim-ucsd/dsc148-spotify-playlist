@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 
 > This is Jane's Addiction\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,791 likes - 39 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,798 likes - 39 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 23 | [I Would for You](https://open.spotify.com/track/5Uad25kem80E7o7L3p5HLw) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:52 |
 | 24 | [Then She Did...](https://open.spotify.com/track/6Y8eB9Qcami03h8TcKnh0V) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 8:20 |
 | 25 | [Sympathy for the Devil \- from Sons of Anarchy](https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Songs of Anarchy: Volume 2 \(Music from Sons of Anarchy\)](https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c) | 5:26 |
-| 26 | [End To The Lies](https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:31 |
-| 27 | [Ripple](https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:39 |
+| 26 | [Ripple](https://open.spotify.com/track/1DpCCcdyR4GIknFDQVZfLm) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 4:39 |
+| 27 | [End To The Lies](https://open.spotify.com/track/7zQEPFd7ubM7PaNRx2UMBG) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:31 |
 | 28 | [My Time](https://open.spotify.com/track/10pGH8aoEeHJNY7pjiFwGu) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 3:32 |
 | 29 | [My Cat's Name Is Maceo \- Demo](https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:23 |
-| 30 | [I'll Hit You Back](https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:48 |
-| 31 | [L.A\. Medley: L.A\. Woman / Nausea / Lexicon Devil \- Live, 1989](https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 3:43 |
+| 30 | [L.A\. Medley: L.A\. Woman / Nausea / Lexicon Devil \- Live, 1989](https://open.spotify.com/track/1emWNMyi5qMpp2zD7uYB6P) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [A Cabinet of Curiosities](https://open.spotify.com/album/3OruSfm0NBmUPhwTafdktT) | 3:43 |
+| 31 | [I'll Hit You Back](https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 3:48 |
 | 32 | [Whores](https://open.spotify.com/track/381qntd8NgIOAu1GswB0bZ) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Jane's Addiction \(Live\)](https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa) | 4:04 |
 | 33 | [So What!](https://open.spotify.com/track/5r9N2nRnW3IZhtQHFhAjxB) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:19 |
 | 34 | [Splash A Little Water On It](https://open.spotify.com/track/6OrXMm2Ml4caLuU8D3czwU) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [The Great Escape Artist](https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard) | 5:13 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZXcOE4.md) - [plain]
 | 38 | [City \- Soul Kiss 88](https://open.spotify.com/track/1KncvzweVpOpMmKgth4yok) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 2:30 |
 | 39 | [Been Caught Stealing \- Studio Out\-Take](https://open.spotify.com/track/2ingbF0o8bNLy68jUCqahX) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Kettle Whistle](https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw) | 4:20 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDAwZmZiZTM4NWU3OTI5YTI2ODA0OTYyMGI2NzE5MTI2Ng==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA0YTgwM2NjMTAxNjc4MjMzMmY1NzJmODIwZTc2ZTdiYg==`

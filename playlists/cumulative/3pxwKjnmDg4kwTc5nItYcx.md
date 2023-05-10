@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-685 songs - 1 day 12 hr 56 min
+686 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Delete Forever](https://open.spotify.com/track/71J2rawCGulCAyTMtNY3Ej) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 3:57 | 2022-10-21 | 2022-11-14 |
 | [Demons](https://open.spotify.com/track/0KW2JqqbzkzlebDjXI62OB) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Demons](https://open.spotify.com/album/0Y1lSBX381MOjxt5n72vN0) | 2:45 | 2020-01-17 | 2021-05-12 |
 | [Demons](https://open.spotify.com/track/0Y5nfKx3OnZWPIO0vHbinL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [I'm Too Sensitive For This Shit](https://open.spotify.com/album/2aH7vOX17njaGz6Th2e8kK) | 2:59 | 2019-10-11 | 2021-05-12 |
+| [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 | 2023-05-09 |  |
 | [Didn't Break It Enough](https://open.spotify.com/track/7zAPuRyZGRLPSGNnaj1H7X) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Didn't Break It Enough](https://open.spotify.com/album/2Zd8vhZtRzFkNWe2GQrc1v) | 3:01 | 2019-08-31 | 2020-04-06 |
 | [Didn't Mean to Kill a Man](https://open.spotify.com/track/1wbd3pC2wOXt83GxyUBa9k) | [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9), [Paul Couture](https://open.spotify.com/artist/3mnV8nHkDFtgj44qwt4rVt) | [Charly](https://open.spotify.com/album/4GosWvtTy9cLfJIFbF2Pow) | 3:09 | 2022-10-21 | 2022-11-14 |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 |  |

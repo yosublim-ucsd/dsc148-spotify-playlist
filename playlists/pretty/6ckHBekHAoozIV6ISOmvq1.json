@@ -6,7 +6,7 @@
     "name": "The Sounds of Spotify",
     "url": "https://open.spotify.com/user/thesoundsofspotify"
   },
-  "snapshot_id": "NTcyMSxhYjgwOWRlZGJlYWUwYTkzNjI2YzU1ZDk2NmUwMGIyMjc3Y2FiN2Jm",
+  "snapshot_id": "NTcyMiw5NGFlNGYzY2FkMGIyMDZkN2I1N2RmZjdhMjM1NzYzNzZhNGM5Nzdh",
   "tracks": [
     {
       "added_at": "2022-02-11 15:59:25",
@@ -433,26 +433,6 @@
       "url": "https://open.spotify.com/track/1xgaGXMJHbvtFVTdipXJOA"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Aremorica - Land of Elves",
-        "url": "https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Dufay",
-          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
-        },
-        {
-          "name": "Jessica Baran-Surel",
-          "url": "https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE"
-        }
-      ],
-      "duration_ms": 193465,
-      "name": "Vergene Bella",
-      "url": "https://open.spotify.com/track/02zyp3WiKpHPOjTf1lssrF"
-    },
-    {
       "added_at": "2023-03-31 17:34:50",
       "album": {
         "name": "Ballate e Madrigali",
@@ -479,6 +459,26 @@
       "duration_ms": 260278,
       "name": "I' vo' bene",
       "url": "https://open.spotify.com/track/4YX1LGuGT1t952JP4Qmi2I"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Aremorica - Land of Elves",
+        "url": "https://open.spotify.com/album/7BvELdzrU8gN4V6fTB2Xq6"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
+        },
+        {
+          "name": "Jessica Baran-Surel",
+          "url": "https://open.spotify.com/artist/3SD6u8y8I74U62Dzb05FuE"
+        }
+      ],
+      "duration_ms": 193465,
+      "name": "Vergene Bella",
+      "url": "https://open.spotify.com/track/02zyp3WiKpHPOjTf1lssrF"
     },
     {
       "added_at": "2018-02-09 19:10:59",
@@ -917,6 +917,30 @@
       "url": "https://open.spotify.com/track/7MohiOMxlzOQMasZUTo5Ai"
     },
     {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Percival's Lament",
+        "url": "https://open.spotify.com/album/6DZ8335tejfovF5ae5IgcR"
+      },
+      "artists": [
+        {
+          "name": "Wolfram Von Eschenbach",
+          "url": "https://open.spotify.com/artist/57eThHmPGEwICf7GROuR8S"
+        },
+        {
+          "name": "Jose Ferrero",
+          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
+        },
+        {
+          "name": "Capilla Antigua de Chinchilla",
+          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
+        }
+      ],
+      "duration_ms": 331093,
+      "name": "Do man den edelen syn gezelt (arr. J. Ferrero)",
+      "url": "https://open.spotify.com/track/6lv5wMcKLLZCw6sJZb2RJJ"
+    },
+    {
       "added_at": "2022-09-03 07:37:51",
       "album": {
         "name": "Paolo da Firenze: Narcisso speculando",
@@ -957,74 +981,6 @@
       "url": "https://open.spotify.com/track/2BxgCzuSywAJ7rNWFoXPiA"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Percival's Lament",
-        "url": "https://open.spotify.com/album/6DZ8335tejfovF5ae5IgcR"
-      },
-      "artists": [
-        {
-          "name": "Wolfram Von Eschenbach",
-          "url": "https://open.spotify.com/artist/57eThHmPGEwICf7GROuR8S"
-        },
-        {
-          "name": "Jose Ferrero",
-          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
-        },
-        {
-          "name": "Capilla Antigua de Chinchilla",
-          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
-        }
-      ],
-      "duration_ms": 331093,
-      "name": "Do man den edelen syn gezelt (arr. J. Ferrero)",
-      "url": "https://open.spotify.com/track/6lv5wMcKLLZCw6sJZb2RJJ"
-    },
-    {
-      "added_at": "2018-02-28 02:04:46",
-      "album": {
-        "name": "Codex Chantilly III - Biblioth\u00e8que du Ch\u00e2teau de Chantilly, Ms. 564",
-        "url": "https://open.spotify.com/album/3Q3w2G4KCssvcV0LbJwQl7"
-      },
-      "artists": [
-        {
-          "name": "Baude Cordier",
-          "url": "https://open.spotify.com/artist/4ZyE3ibPD6GNIdtSXEBEdE"
-        },
-        {
-          "name": "Tetraktys",
-          "url": "https://open.spotify.com/artist/58LZ1hCFww56TTbmD9XDwT"
-        }
-      ],
-      "duration_ms": 346038,
-      "name": "Belle bonne sage, Fol. IIV (Rondeau)",
-      "url": "https://open.spotify.com/track/7p4ChGgeXyyrcfuLgrSqfw"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Gesualdo: Responsoria 1611",
-        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
-      },
-      "artists": [
-        {
-          "name": "Carlo Gesualdo",
-          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
-        },
-        {
-          "name": "Philippe Herreweghe",
-          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
-        },
-        {
-          "name": "Collegium Vocale Gent",
-          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
-        }
-      ],
-      "duration_ms": 274978,
-      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
-      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
-    },
-    {
       "added_at": "2021-08-06 13:10:05",
       "album": {
         "name": "Figures of Harmony: Songs of Codex Chantilly c. 1390",
@@ -1051,22 +1007,26 @@
     {
       "added_at": "2023-04-14 20:51:40",
       "album": {
-        "name": "Bis an der Welt ihr Ende",
-        "url": "https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd"
+        "name": "Gesualdo: Responsoria 1611",
+        "url": "https://open.spotify.com/album/1VHufW3yPZBePSYL2oNx6U"
       },
       "artists": [
         {
-          "name": "Giacomo Gorzanis",
-          "url": "https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3"
+          "name": "Carlo Gesualdo",
+          "url": "https://open.spotify.com/artist/7wi1x9DxLtqnhzJIQa7JQF"
         },
         {
-          "name": "Marc Lewon",
-          "url": "https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV"
+          "name": "Philippe Herreweghe",
+          "url": "https://open.spotify.com/artist/2ozcTa5tl8qhSbhJKM60I5"
+        },
+        {
+          "name": "Collegium Vocale Gent",
+          "url": "https://open.spotify.com/artist/17BdLN9q8RRQQqyklLwac1"
         }
       ],
-      "duration_ms": 204253,
-      "name": "Saltarello I & II",
-      "url": "https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp"
+      "duration_ms": 274978,
+      "name": "Tenebrae Responsories, Feria quinta: II. Tristis est anima mea",
+      "url": "https://open.spotify.com/track/4P8V3vCiUiL6DVSH6ggk8a"
     },
     {
       "added_at": "2023-04-21 18:01:00",
@@ -1091,6 +1051,46 @@
       "duration_ms": 356440,
       "name": "Missa cantilena: Credo II (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/23SE386AcVZRnRjdr8C9o3"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Bis an der Welt ihr Ende",
+        "url": "https://open.spotify.com/album/0uYw7LNkcsScQ69xfJTgwd"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Gorzanis",
+          "url": "https://open.spotify.com/artist/5v1EIf3kNF2XUlgpevYoj3"
+        },
+        {
+          "name": "Marc Lewon",
+          "url": "https://open.spotify.com/artist/4NFHFqu4lLW38TWHbVWfCV"
+        }
+      ],
+      "duration_ms": 204253,
+      "name": "Saltarello I & II",
+      "url": "https://open.spotify.com/track/0AA77trqxrC447ZkBpVNYp"
+    },
+    {
+      "added_at": "2018-02-28 02:04:46",
+      "album": {
+        "name": "Codex Chantilly III - Biblioth\u00e8que du Ch\u00e2teau de Chantilly, Ms. 564",
+        "url": "https://open.spotify.com/album/3Q3w2G4KCssvcV0LbJwQl7"
+      },
+      "artists": [
+        {
+          "name": "Baude Cordier",
+          "url": "https://open.spotify.com/artist/4ZyE3ibPD6GNIdtSXEBEdE"
+        },
+        {
+          "name": "Tetraktys",
+          "url": "https://open.spotify.com/artist/58LZ1hCFww56TTbmD9XDwT"
+        }
+      ],
+      "duration_ms": 346038,
+      "name": "Belle bonne sage, Fol. IIV (Rondeau)",
+      "url": "https://open.spotify.com/track/7p4ChGgeXyyrcfuLgrSqfw"
     },
     {
       "added_at": "2021-01-29 09:00:09",
@@ -2305,30 +2305,6 @@
       "url": "https://open.spotify.com/track/536OAZBPEKsISmeWMHhLq8"
     },
     {
-      "added_at": "2023-03-31 17:34:50",
-      "album": {
-        "name": "Regina",
-        "url": "https://open.spotify.com/album/5druj6EoBtNLqutwdQuiD8"
-      },
-      "artists": [
-        {
-          "name": "Jacopo da Bologna",
-          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
-        },
-        {
-          "name": "Capella de Ministrers",
-          "url": "https://open.spotify.com/artist/2jOvK1TyxIca3pb50lHX9V"
-        },
-        {
-          "name": "Carles Magraner",
-          "url": "https://open.spotify.com/artist/2I8XJUpNoIU9Q6XapyIoOl"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Un bel sparver - Madrigal",
-      "url": "https://open.spotify.com/track/1LqJFxxumjicU7pqperXd2"
-    },
-    {
       "added_at": "2018-03-30 15:01:51",
       "album": {
         "name": "L'Amor de Lonh: Medieval Songs of Love and Loss",
@@ -2351,6 +2327,30 @@
       "duration_ms": 322106,
       "name": "Lanquan li jorn",
       "url": "https://open.spotify.com/track/67krtsz94ZMu4J5He9qA4R"
+    },
+    {
+      "added_at": "2023-03-31 17:34:50",
+      "album": {
+        "name": "Regina",
+        "url": "https://open.spotify.com/album/5druj6EoBtNLqutwdQuiD8"
+      },
+      "artists": [
+        {
+          "name": "Jacopo da Bologna",
+          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
+        },
+        {
+          "name": "Capella de Ministrers",
+          "url": "https://open.spotify.com/artist/2jOvK1TyxIca3pb50lHX9V"
+        },
+        {
+          "name": "Carles Magraner",
+          "url": "https://open.spotify.com/artist/2I8XJUpNoIU9Q6XapyIoOl"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Un bel sparver - Madrigal",
+      "url": "https://open.spotify.com/track/1LqJFxxumjicU7pqperXd2"
     },
     {
       "added_at": "2022-03-25 14:59:23",
@@ -2601,30 +2601,6 @@
       "url": "https://open.spotify.com/track/3rZK9LQ3YxLgGOfc35D3Xn"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Dufay: Motets",
-        "url": "https://open.spotify.com/album/7njYVThu4Z44WHSv1GXXni"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Dufay",
-          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
-        },
-        {
-          "name": "Blue Heron",
-          "url": "https://open.spotify.com/artist/2i3E1GGDvJoQg0vsmIrGEg"
-        },
-        {
-          "name": "Scott Metcalfe",
-          "url": "https://open.spotify.com/artist/4r5DWadnDM5H57xgX6H3Rc"
-        }
-      ],
-      "duration_ms": 286480,
-      "name": "Ave maris stella",
-      "url": "https://open.spotify.com/track/74ZO67W83WAwvOopHFiQ7j"
-    },
-    {
       "added_at": "2018-02-27 00:32:30",
       "album": {
         "name": "Stylems, Italian Music from the \"Trecento\"",
@@ -2675,6 +2651,30 @@
       "duration_ms": 326665,
       "name": "Tan m'abelis",
       "url": "https://open.spotify.com/track/0KOhKEu8gMk5hEVAZUkUBD"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Dufay: Motets",
+        "url": "https://open.spotify.com/album/7njYVThu4Z44WHSv1GXXni"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
+        },
+        {
+          "name": "Blue Heron",
+          "url": "https://open.spotify.com/artist/2i3E1GGDvJoQg0vsmIrGEg"
+        },
+        {
+          "name": "Scott Metcalfe",
+          "url": "https://open.spotify.com/artist/4r5DWadnDM5H57xgX6H3Rc"
+        }
+      ],
+      "duration_ms": 286480,
+      "name": "Ave maris stella",
+      "url": "https://open.spotify.com/track/74ZO67W83WAwvOopHFiQ7j"
     },
     {
       "added_at": "2020-07-28 22:10:03",
@@ -3121,6 +3121,30 @@
       "url": "https://open.spotify.com/track/0Wuvf9euZ42qRxjDG0KXXH"
     },
     {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "The Tristan's Harp",
+        "url": "https://open.spotify.com/album/08buFJ5wHwfG7qHaEvNIuy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Jose Ferrero",
+          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
+        },
+        {
+          "name": "Capilla Antigua de Chinchilla",
+          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Quarte Estampie Royale (13th century) (arr. J. Ferrero)",
+      "url": "https://open.spotify.com/track/0MZlRdDvf4YaSC7h8tksMD"
+    },
+    {
       "added_at": "2023-04-21 18:01:00",
       "album": {
         "name": "Paolo da Firenze: Narcisso speculando",
@@ -3159,66 +3183,6 @@
       "duration_ms": 274400,
       "name": "Istampita instrumentale \"Cosa non \u00e8\"",
       "url": "https://open.spotify.com/track/0ET9SvzlUP31o2Oq5FTjqa"
-    },
-    {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "The Tristan's Harp",
-        "url": "https://open.spotify.com/album/08buFJ5wHwfG7qHaEvNIuy"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Jose Ferrero",
-          "url": "https://open.spotify.com/artist/6F37i9Ro5xQpkjXGfAEtHE"
-        },
-        {
-          "name": "Capilla Antigua de Chinchilla",
-          "url": "https://open.spotify.com/artist/3qm0JDiRkbdVYD4BauZTuD"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Quarte Estampie Royale (13th century) (arr. J. Ferrero)",
-      "url": "https://open.spotify.com/track/0MZlRdDvf4YaSC7h8tksMD"
-    },
-    {
-      "added_at": "2023-04-28 17:25:40",
-      "album": {
-        "name": "Je voy le bon tens venir: Polyphonies & danses autour de 1400",
-        "url": "https://open.spotify.com/album/3WRG4VWPedigAmr8BIrktO"
-      },
-      "artists": [
-        {
-          "name": "Baude Cordier",
-          "url": "https://open.spotify.com/artist/4ZyE3ibPD6GNIdtSXEBEdE"
-        },
-        {
-          "name": "Les Musiciens De Saint-Julien",
-          "url": "https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q"
-        },
-        {
-          "name": "Fran\u00e7ois Lazarevitch",
-          "url": "https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm"
-        },
-        {
-          "name": "Simone Sorini",
-          "url": "https://open.spotify.com/artist/7L7NxSwxTQoLjqDKpwFdyK"
-        },
-        {
-          "name": "Enea Sorini",
-          "url": "https://open.spotify.com/artist/7lPEVZwStdmWTeVD6XSsH2"
-        },
-        {
-          "name": "Marc Busnel",
-          "url": "https://open.spotify.com/artist/3dhCKitk4GzrI0u4jB61hj"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Ce jour de l'an",
-      "url": "https://open.spotify.com/track/3jVDpThoBZnoKzVYB944EO"
     },
     {
       "added_at": "2022-12-30 17:02:22",
@@ -3267,6 +3231,42 @@
       "duration_ms": 436826,
       "name": "Missa cantilena: Ave sancta mundi salus panis - Agnus Dei (From Modena, Biblioteca estense MS M.5.24)",
       "url": "https://open.spotify.com/track/01TLrcWUV0i9z0UtK8JJcd"
+    },
+    {
+      "added_at": "2023-04-28 17:25:40",
+      "album": {
+        "name": "Je voy le bon tens venir: Polyphonies & danses autour de 1400",
+        "url": "https://open.spotify.com/album/3WRG4VWPedigAmr8BIrktO"
+      },
+      "artists": [
+        {
+          "name": "Baude Cordier",
+          "url": "https://open.spotify.com/artist/4ZyE3ibPD6GNIdtSXEBEdE"
+        },
+        {
+          "name": "Les Musiciens De Saint-Julien",
+          "url": "https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q"
+        },
+        {
+          "name": "Fran\u00e7ois Lazarevitch",
+          "url": "https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm"
+        },
+        {
+          "name": "Simone Sorini",
+          "url": "https://open.spotify.com/artist/7L7NxSwxTQoLjqDKpwFdyK"
+        },
+        {
+          "name": "Enea Sorini",
+          "url": "https://open.spotify.com/artist/7lPEVZwStdmWTeVD6XSsH2"
+        },
+        {
+          "name": "Marc Busnel",
+          "url": "https://open.spotify.com/artist/3dhCKitk4GzrI0u4jB61hj"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Ce jour de l'an",
+      "url": "https://open.spotify.com/track/3jVDpThoBZnoKzVYB944EO"
     },
     {
       "added_at": "2023-05-05 20:01:26",
@@ -3869,26 +3869,6 @@
       "url": "https://open.spotify.com/track/5T8LknaA1taIpevLAYsUhL"
     },
     {
-      "added_at": "2023-04-21 18:01:00",
-      "album": {
-        "name": "Bestiarium",
-        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
-      },
-      "artists": [
-        {
-          "name": "Jacopo da Bologna",
-          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
-        },
-        {
-          "name": "La Reverdie",
-          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Oseletto selvaggio",
-      "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
-    },
-    {
       "added_at": "2023-04-28 17:25:40",
       "album": {
         "name": "Music at the time of the Crusades",
@@ -3911,6 +3891,26 @@
       "duration_ms": 255413,
       "name": "Lanquan il jorn",
       "url": "https://open.spotify.com/track/1LQ7G2HyPgXaAnYCCkszLg"
+    },
+    {
+      "added_at": "2023-04-21 18:01:00",
+      "album": {
+        "name": "Bestiarium",
+        "url": "https://open.spotify.com/album/1buYMjSMX3yNzFqOjYyxtf"
+      },
+      "artists": [
+        {
+          "name": "Jacopo da Bologna",
+          "url": "https://open.spotify.com/artist/2eQllDA6iS34VpRZ6SteiP"
+        },
+        {
+          "name": "La Reverdie",
+          "url": "https://open.spotify.com/artist/68lFiOmFIrJGzXRs4sbmlQ"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "Oseletto selvaggio",
+      "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
     },
     {
       "added_at": "2023-04-14 20:51:40",
@@ -4185,30 +4185,6 @@
       "url": "https://open.spotify.com/track/40DbyVZlf3q0juUKLUSaML"
     },
     {
-      "added_at": "2023-04-14 20:51:40",
-      "album": {
-        "name": "Dufay: O gemma lux",
-        "url": "https://open.spotify.com/album/2gBjoSttubzrk7c5XZwFOk"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Dufay",
-          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
-        },
-        {
-          "name": "Huelgas Ensemble",
-          "url": "https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM"
-        },
-        {
-          "name": "Paul Van Nevel",
-          "url": "https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Isorhythmic Motets: Apostolo glorioso - Cum tua doctrina - Andreas, Christi famulus",
-      "url": "https://open.spotify.com/track/7nTwlmrw5dRthSvSTmCsKa"
-    },
-    {
       "added_at": "2018-02-09 19:10:59",
       "album": {
         "name": "Music of the Troubadours",
@@ -4239,6 +4215,30 @@
       "duration_ms": 295626,
       "name": "Tan m'abelis jois et amors e chans: Tant m'abelis",
       "url": "https://open.spotify.com/track/0p7LzVPYfpw9RUUEiR3lXS"
+    },
+    {
+      "added_at": "2023-04-14 20:51:40",
+      "album": {
+        "name": "Dufay: O gemma lux",
+        "url": "https://open.spotify.com/album/2gBjoSttubzrk7c5XZwFOk"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Dufay",
+          "url": "https://open.spotify.com/artist/0kLNgrvMXHTm4yWGrfMuLc"
+        },
+        {
+          "name": "Huelgas Ensemble",
+          "url": "https://open.spotify.com/artist/5NuE7LNgb3YPD3WLZQHNQM"
+        },
+        {
+          "name": "Paul Van Nevel",
+          "url": "https://open.spotify.com/artist/15bifbRTaFHRiZszGsA7G1"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Isorhythmic Motets: Apostolo glorioso - Cum tua doctrina - Andreas, Christi famulus",
+      "url": "https://open.spotify.com/track/7nTwlmrw5dRthSvSTmCsKa"
     },
     {
       "added_at": "2022-11-18 17:00:24",

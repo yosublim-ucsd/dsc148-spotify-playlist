@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-175 songs - 10 hr 16 min
+177 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Norwegian Wood](https://open.spotify.com/track/2bh6efWH0r9tFHa42PG5hv) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Beatles' Norwegian Wood](https://open.spotify.com/album/3kVjXxjeoWSanIECpV7b2W) | 2:07 | 2022-11-18 | 2022-11-26 |
 | [Nothing Compares To You](https://open.spotify.com/track/2tZw7jaxDXM7klb1lEL3u2) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Nothing Compares To You](https://open.spotify.com/album/6pfu6QZu1gPxpzUXr73HzN) | 2:25 | 2021-11-25 |  |
 | [Novocaine for the Soul](https://open.spotify.com/track/3DtqQPayLqTqcnDuMqRcCQ) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs Alternative Hits of the 90s](https://open.spotify.com/album/3M5lwpG7B3HuKhyYcBLfkn) | 2:15 | 2022-11-18 | 2022-11-26 |
+| [Old Town Road](https://open.spotify.com/track/0KUi4dptCJzeEHPr38B7j9) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Diamonds](https://open.spotify.com/album/2iYGCPpY33blb2OeqDMJ3n) | 2:22 | 2023-05-09 |  |
 | [One Dance](https://open.spotify.com/track/684mcUkgIA1OQwy5VpvHD1) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 2:11 | 2022-11-18 | 2022-11-26 |
 | [Papa, Can You Hear Me?](https://open.spotify.com/track/3ZfBUAzlJwJzctLtxykX5b) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Papa, Can You Hear Me?](https://open.spotify.com/album/0s8h7hCUsE7sXp9ZtV4FFK) | 4:41 | 2022-07-08 |  |
 | [Photograph](https://open.spotify.com/track/38bPQvz2gp0uTG1bI6rVlT) | [Alana Westwood](https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb) | [Photograph](https://open.spotify.com/album/5IK0TUzQUiNdOqwIqRIbEv) | 3:08 | 2023-03-07 |  |
@@ -128,6 +129,7 @@
 | [Riptide](https://open.spotify.com/track/7dEjQAnaMlb1oikHOXaTUO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 3](https://open.spotify.com/album/55GWGl6XdbV5M9OfhiGtMN) | 3:27 | 2022-11-18 | 2022-11-26 |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-02-14 |  |
 | [Royals](https://open.spotify.com/track/5cPxFYTRLgv9rHxaVZ67po) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2013, Vol\. 2](https://open.spotify.com/album/47UJihi0AVkgdfNvRNVUlF) | 3:23 | 2022-11-18 | 2022-11-26 |
+| [Run](https://open.spotify.com/track/1W0g9sj9trSjMUO49PAKWJ) | [Ron Marks](https://open.spotify.com/artist/0RCGr51rcB8GCdBZEHnpXX) | [Run](https://open.spotify.com/album/66Gs4R4tp24sKbBOu69bd3) | 3:41 | 2023-05-09 |  |
 | [SAD!](https://open.spotify.com/track/22QfL13HHu4ryuIksT4Fkj) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2018, Vol\. 2](https://open.spotify.com/album/2hk3pnDS8W2zp7QXgwTb4u) | 2:51 | 2022-11-18 | 2022-11-26 |
 | [Sailing](https://open.spotify.com/track/7vrm7MunIj4mXiEZdj8zfF) | [Nilo Almeida](https://open.spotify.com/artist/1FFwV2WdNXvSTHJAI0CZlF) | [Sailing](https://open.spotify.com/album/26VqwTUlZPYlDFdFr86HsM) | 1:45 | 2023-02-21 |  |
 | [Samson](https://open.spotify.com/track/3QEYwF3sQ8TFrJd4lGt1uM) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Regina Spektor](https://open.spotify.com/album/1LzX7qSVoKMGmmARb2DYbb) | 2:58 | 2022-11-18 | 2022-11-26 |

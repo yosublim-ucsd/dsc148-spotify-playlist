@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2428859,
+  "num_followers": 2429072,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODNhNGMyNjliMzVhYWRhMWI4NzQzMThlZjkyNjgxYzEzN2Y5NTNm",
+  "snapshot_id": "MCw0NmI2N2JkN2VkNThjOGU2YTJhNTU0OGM0NjY2MTYyNTIwZTMyYTFi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4"
     },
     {
+      "added_at": "2023-04-11 14:26:30",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 190546,
+      "name": "Can I Call You Rose?",
+      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
+    },
+    {
       "added_at": "2023-03-20 14:14:49",
       "album": {
         "name": "Cotton Candy Lemonade",
@@ -527,22 +543,6 @@
       "duration_ms": 301480,
       "name": "Buddy's Rendezvous",
       "url": "https://open.spotify.com/track/7qqrGV5WpQnMKqVTsDZd9J"
-    },
-    {
-      "added_at": "2023-04-11 14:26:30",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 190546,
-      "name": "Can I Call You Rose?",
-      "url": "https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS"
     },
     {
       "added_at": "2023-01-27 05:09:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/7a7gUCiBV0dgXziowAlR96"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Fuck Tha World",
-        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "Fuck Tha World",
-      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "comfortable silence",
@@ -719,6 +703,22 @@
       "duration_ms": 59999,
       "name": "braincells",
       "url": "https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
     },
     {
       "added_at": "2023-04-07 05:00:00",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/0goA2cYxU9k2XfQHzo6WcP"
     },
     {
+      "added_at": "2022-08-19 04:00:00",
+      "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 200213,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
+    },
+    {
       "added_at": "2022-12-21 22:28:08",
       "album": {
         "name": "letting you go (demo)",
@@ -959,22 +975,6 @@
     {
       "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 200213,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
         "name": "Cutworks",
         "url": "https://open.spotify.com/album/3oDrKpBfdjQPZsuqRGu0kW"
       },
@@ -987,26 +987,6 @@
       "duration_ms": 252266,
       "name": "Fleur Blanche",
       "url": "https://open.spotify.com/track/0vpxHngtbm6hrdQZHsmOMb"
-    },
-    {
-      "added_at": "2023-03-02 16:47:35",
-      "album": {
-        "name": "WATER COMES OUT OF MY EYES",
-        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        },
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 202945,
-      "name": "water comes out of my eyes",
-      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1041,6 +1021,26 @@
       "url": "https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD"
     },
     {
+      "added_at": "2023-03-02 16:47:35",
+      "album": {
+        "name": "WATER COMES OUT OF MY EYES",
+        "url": "https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk"
+      },
+      "artists": [
+        {
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+        },
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 202945,
+      "name": "water comes out of my eyes",
+      "url": "https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg"
+    },
+    {
       "added_at": "2022-09-29 20:59:16",
       "album": {
         "name": "INTO THE BLUE",
@@ -1057,20 +1057,24 @@
       "url": "https://open.spotify.com/track/66JOl2uj2S6t9h6BxtLhwO"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2022-08-19 04:00:00",
       "album": {
-        "name": "Supermoon",
-        "url": "https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0"
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
       "artists": [
         {
-          "name": "Summer Salt",
-          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 252106,
-      "name": "Supermoon",
-      "url": "https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW"
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "added_at": "2023-04-18 17:05:12",
@@ -1089,20 +1093,20 @@
       "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
     },
     {
-      "added_at": "2023-02-10 05:00:00",
+      "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "I Love Being Invisible",
-        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
+        "name": "Supermoon",
+        "url": "https://open.spotify.com/album/2Op7mnPBZOqeObaeuZJcZ0"
       },
       "artists": [
         {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
         }
       ],
-      "duration_ms": 181227,
-      "name": "I Love Being Invisible",
-      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
+      "duration_ms": 252106,
+      "name": "Supermoon",
+      "url": "https://open.spotify.com/track/0JfYy60f4RN77F04fReXmW"
     },
     {
       "added_at": "2023-01-15 22:06:44",
@@ -1121,24 +1125,20 @@
       "url": "https://open.spotify.com/track/6OBQJkM9RtQXcYL26Az2Pg"
     },
     {
-      "added_at": "2022-08-19 04:00:00",
+      "added_at": "2023-02-10 05:00:00",
       "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+        "name": "I Love Being Invisible",
+        "url": "https://open.spotify.com/album/1AQByoYFbZI7v8YNGquSfI"
       },
       "artists": [
         {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+      "duration_ms": 181227,
+      "name": "I Love Being Invisible",
+      "url": "https://open.spotify.com/track/41soii7TsX2M2AIAAOsNh5"
     },
     {
       "added_at": "2023-02-16 20:22:13",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/2N1xPOMaQRyQ9SAIiLkESd"
     },
     {
-      "added_at": "2022-12-22 19:24:46",
-      "album": {
-        "name": "The Modern Western World",
-        "url": "https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 141480,
-      "name": "The Modern Western World",
-      "url": "https://open.spotify.com/track/30bLh2OQSfIvDpdu8ckzRg"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Talk Memory",
@@ -1255,6 +1239,22 @@
       "duration_ms": 325828,
       "name": "Love Proceeding",
       "url": "https://open.spotify.com/track/5F8XPD481L6K2s8h02Vxuo"
+    },
+    {
+      "added_at": "2022-12-22 19:24:46",
+      "album": {
+        "name": "The Modern Western World",
+        "url": "https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 141480,
+      "name": "The Modern Western World",
+      "url": "https://open.spotify.com/track/30bLh2OQSfIvDpdu8ckzRg"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "J'aime les filles",
-        "url": "https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "J'aime les filles",
-      "url": "https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK"
-    },
-    {
       "added_at": "2022-08-19 04:00:00",
       "album": {
         "name": "Just Piano",
@@ -1427,6 +1411,22 @@
       "duration_ms": 212158,
       "name": "Sundays - Just Piano Version",
       "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "J'aime les filles",
+        "url": "https://open.spotify.com/album/6dPvgLmDxBa52kR1MPJoQ0"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "J'aime les filles",
+      "url": "https://open.spotify.com/track/6GiwLIxSRc3bEBaLj2RPjK"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1447,6 +1447,26 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
+    },
+    {
+      "added_at": "2022-09-02 18:35:19",
+      "album": {
+        "name": "Rose Pink Cadillac (LARRY PINK THE HUMAN Remix)",
+        "url": "https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        },
+        {
+          "name": "LARRY PINK THE HUMAN",
+          "url": "https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh"
+        }
+      ],
+      "duration_ms": 250160,
+      "name": "Rose Pink Cadillac - LARRY PINK THE HUMAN Remix",
+      "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1485,42 +1505,6 @@
       "url": "https://open.spotify.com/track/5SjdXpQqq54uRrlSXv12i4"
     },
     {
-      "added_at": "2022-09-02 18:35:19",
-      "album": {
-        "name": "Rose Pink Cadillac (LARRY PINK THE HUMAN Remix)",
-        "url": "https://open.spotify.com/album/3AcGrv7iQnICLDrFKat8XP"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        },
-        {
-          "name": "LARRY PINK THE HUMAN",
-          "url": "https://open.spotify.com/artist/0EcsZYsbHS6JATYiPJhomh"
-        }
-      ],
-      "duration_ms": 250160,
-      "name": "Rose Pink Cadillac - LARRY PINK THE HUMAN Remix",
-      "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
-    },
-    {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Godzilla",
-        "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
-      },
-      "artists": [
-        {
-          "name": "Nanna",
-          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
-        }
-      ],
-      "duration_ms": 289045,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
-    },
-    {
       "added_at": "2022-09-02 15:43:01",
       "album": {
         "name": "Y4",
@@ -1551,6 +1535,22 @@
       "duration_ms": 249543,
       "name": "Tears of Change",
       "url": "https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al"
+      },
+      "artists": [
+        {
+          "name": "Nanna",
+          "url": "https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7"
+        }
+      ],
+      "duration_ms": 289045,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/778rI4lJeJKKy34mAeq4KA"
     },
     {
+      "added_at": "2022-11-25 04:53:00",
+      "album": {
+        "name": "Blackphemy",
+        "url": "https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW"
+      },
+      "artists": [
+        {
+          "name": "Yb.",
+          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
+        }
+      ],
+      "duration_ms": 204771,
+      "name": "Blackphemy",
+      "url": "https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H"
+    },
+    {
       "added_at": "2023-01-13 05:00:00",
       "album": {
         "name": "About You",
@@ -1643,38 +1659,6 @@
       "duration_ms": 176413,
       "name": "About You",
       "url": "https://open.spotify.com/track/3VZxoBsfipwZTyb0cIvIPW"
-    },
-    {
-      "added_at": "2022-11-25 04:53:00",
-      "album": {
-        "name": "Blackphemy",
-        "url": "https://open.spotify.com/album/4PDdJvVN3LysSlGBoJKzCW"
-      },
-      "artists": [
-        {
-          "name": "Yb.",
-          "url": "https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i"
-        }
-      ],
-      "duration_ms": 204771,
-      "name": "Blackphemy",
-      "url": "https://open.spotify.com/track/5rYBgw7CHL5G4S6UJKOZ5H"
-    },
-    {
-      "added_at": "2023-03-02 21:20:04",
-      "album": {
-        "name": "Star Song",
-        "url": "https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD"
-      },
-      "artists": [
-        {
-          "name": "Medasin",
-          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
-        }
-      ],
-      "duration_ms": 210490,
-      "name": "Star Song",
-      "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"
     },
     {
       "added_at": "2022-08-19 04:00:00",
@@ -1713,20 +1697,36 @@
       "url": "https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Tell Me That You Love Me",
-        "url": "https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG"
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz"
       },
       "artists": [
         {
-          "name": "Baerd",
-          "url": "https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 192706,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"
+      "duration_ms": 162013,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x"
+    },
+    {
+      "added_at": "2023-03-02 21:20:04",
+      "album": {
+        "name": "Star Song",
+        "url": "https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD"
+      },
+      "artists": [
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "duration_ms": 210490,
+      "name": "Star Song",
+      "url": "https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4"
     }
   ],
   "unique_name": "Chill Vibes",

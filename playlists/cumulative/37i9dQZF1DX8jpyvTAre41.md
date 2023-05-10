@@ -4,7 +4,7 @@
 
 > The hottest tunes in rock\. Crank it up! Cover: grandson
 
-619 songs - 1 day 11 hr 3 min
+620 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,8 @@
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2023-01-13 | 2023-02-04 |
 | [Kill The Noise](https://open.spotify.com/track/2DyDyOW1hRYFFaMhBCAHJ9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:08 | 2022-04-08 | 2022-07-23 |
 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 | 2021-12-31 | 2022-04-09 |
-| [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 |  |
+| [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-05-10 |
+| [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 | 2023-05-05 |  |
 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 | 2022-02-18 | 2022-03-26 |
 | [Lady Mine \(feat\. Chad Kroeger\)](https://open.spotify.com/track/0afR9bRVOepZeNYj3pKCuq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Lady Mine \(feat\. Chad Kroeger\)](https://open.spotify.com/album/3bTZjLUpO6FQ8RXlHM9SC7) | 4:03 | 2021-12-31 | 2022-08-27 |
 | [Lady Of The Lake](https://open.spotify.com/track/0dO4yJPnKN7BreiWnwTgXs) | [Crown Lands](https://open.spotify.com/artist/0MnazDWzh4tAnT5y4vWZFr) | [Fearless](https://open.spotify.com/album/7pksbj88zVcexbacR0GfrP) | 5:06 | 2023-04-07 |  |

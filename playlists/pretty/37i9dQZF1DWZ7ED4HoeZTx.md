@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,651 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,883 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 47 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 |
 | 48 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |
 | 49 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
-| 50 | [君の知らない物語](https://open.spotify.com/track/434YBNY61Y9sqBSp7OINBa) | [supercell](https://open.spotify.com/artist/4Mc3zbnQx4wRb0tYg7A8sG) | [Today Is A Beautiful Day](https://open.spotify.com/album/48KseHW22uKEJjgTKZCtk7) | 5:39 |
+| 50 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 |
 
-Snapshot ID: `MCxhYjQxYzBhMDE3NTg0MDg3NTMyNTNlYzJmMzc2MGJkYTQxZjA4N2Ri`
+Snapshot ID: `MCxkMDdiOWE4ODUwODFkYmMyZDcxMGNkYzI3ZjQzYzdlOWUwMWJkMzJh`

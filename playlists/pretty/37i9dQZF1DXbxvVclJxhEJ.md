@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,997 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,034 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
 | 75 | [Jack I'm Mellow \(Alternate Take 2\)](https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Presenting Trixie Smith](https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu) | 2:45 |
 
-Snapshot ID: `MCxkNjhjNjc2ZjZjMjkwNjc5N2VjZDdjODE5NzIzYWZmNWQ4ZTFkZTY5`
+Snapshot ID: `MCwzMTNhMDIyZTg1YzQ1MmEzMDM0MTAwYmM5NWUxZDM5NGJmNGViYzVi`

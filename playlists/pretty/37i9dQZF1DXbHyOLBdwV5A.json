@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
-  "num_followers": 100694,
+  "num_followers": 100753,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmIwOTIxNGI3ZTgzYTk0ODJkZWEzNGRlMjJmMDc2MWQ0OWNiMWM3",
+  "snapshot_id": "MCxlOTY4YzY1YzliN2RiZjMxYzFlMGUwMjI2YjkxODgwNWFmNTJkZDU0",
   "tracks": [
     {
       "added_at": "2023-05-05 19:19:56",
@@ -499,26 +499,6 @@
     {
       "added_at": "2023-05-05 19:19:56",
       "album": {
-        "name": "Joquebede (Remix)",
-        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
-      },
-      "artists": [
-        {
-          "name": "Dj Yuuki",
-          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
-        },
-        {
-          "name": "Israel Santos",
-          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
-        }
-      ],
-      "duration_ms": 142285,
-      "name": "Joquebede - Remix",
-      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
-    },
-    {
-      "added_at": "2023-05-05 19:19:56",
-      "album": {
         "name": "Loucura (Remix)",
         "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 225519,
       "name": "Loucura - Remix",
       "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2023-05-05 19:19:56",
+      "album": {
+        "name": "Joquebede (Remix)",
+        "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
+      },
+      "artists": [
+        {
+          "name": "Dj Yuuki",
+          "url": "https://open.spotify.com/artist/1NzRv31U5R4nhzNFipOhUb"
+        },
+        {
+          "name": "Israel Santos",
+          "url": "https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu"
+        }
+      ],
+      "duration_ms": 142285,
+      "name": "Joquebede - Remix",
+      "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
     },
     {
       "added_at": "2023-05-05 19:19:56",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2023-05-05 19:19:56",
       "album": {
-        "name": "Renascido das Cinzas",
-        "url": "https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Viviane Franco",
-          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Das Trevas para Luz - VIP Version",
-      "url": "https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld"
-    },
-    {
-      "added_at": "2023-05-05 19:19:56",
-      "album": {
         "name": "Hora de Adorar",
         "url": "https://open.spotify.com/album/6sO9RyVqEKxYhryRHagDL9"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 190384,
       "name": "Hora de Adorar",
       "url": "https://open.spotify.com/track/6Klwfr1Bq30suJCpGD0WBt"
+    },
+    {
+      "added_at": "2023-05-05 19:19:56",
+      "album": {
+        "name": "Renascido das Cinzas",
+        "url": "https://open.spotify.com/album/2KlBD6CwyvCv9hMf77wVqS"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Das Trevas para Luz - VIP Version",
+      "url": "https://open.spotify.com/track/37R0NpssvQdZ1o6TB9F5ld"
     },
     {
       "added_at": "2023-05-05 19:19:56",

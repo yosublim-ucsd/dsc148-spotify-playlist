@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 20153,
+  "num_followers": 20468,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjVhYjQ5MzNlZGU5N2VlOTAwMzUxMWVlMWU3YzAxMmZiZTgyZTc5",
+  "snapshot_id": "MCxhMDg5ODM4MmEyYWY4Mzc2MTI2NzhjY2MwZWQyYzRhOThmYWJhYWIx",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Elva",
+        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
+      },
+      "artists": [
+        {
+          "name": "Doug Kaufman",
+          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "The Garden",
+      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Movement 5 - Pt. 2",
         "url": "https://open.spotify.com/album/2jIbt2grWCWpPCgOUwNpeX"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 252920,
       "name": "Movement 5 - Pt. 2 - Instrumental",
       "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Elva",
-        "url": "https://open.spotify.com/album/7hdlF6vtbKZROuiJE99zKs"
-      },
-      "artists": [
-        {
-          "name": "Doug Kaufman",
-          "url": "https://open.spotify.com/artist/3Z9VXDrGAFUoyvXvI0aFbZ"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "The Garden",
-      "url": "https://open.spotify.com/track/1QwnjxsFzruTTCbuuKQdnH"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Modulations: EP2",
-        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 201335,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "The Time It Takes",
         "url": "https://open.spotify.com/album/0cRO3Wyym9OcjtHezZD9Fc"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 181106,
       "name": "Respite",
       "url": "https://open.spotify.com/track/2Z3aDyQnxozf2mVjahDigG"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Modulations: EP2",
+        "url": "https://open.spotify.com/album/7fNhlZ4KOktVAWHggoaLut"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 201335,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5iqdZaQrlC4RoGunG5TgHM"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 238046,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 265872,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 238046,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Above (composed as the score to a Matthias Koenigswieser photograph)",
         "url": "https://open.spotify.com/album/578KRUD8wbv5en4bzsw0p7"
       },
@@ -1247,26 +1267,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 151402,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Vitamin String Quartet Performs Bjork",
         "url": "https://open.spotify.com/album/0JL6wzlO2S9sPwdDiBkawB"
       },
@@ -1315,42 +1315,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
-      },
-      "artists": [
-        {
-          "name": "Nils Frahm",
-          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
-        }
-      ],
-      "duration_ms": 286986,
-      "name": "No Step on Wing",
-      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "The Myth",
-        "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
-        }
-      ],
-      "duration_ms": 221796,
-      "name": "The Myth",
-      "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/4pyvUT61X7FcjvItZogGt3"
       },
@@ -1387,6 +1351,58 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "The Myth",
+        "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        }
+      ],
+      "duration_ms": 221796,
+      "name": "The Myth",
+      "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI"
+      },
+      "artists": [
+        {
+          "name": "Nils Frahm",
+          "url": "https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp"
+        }
+      ],
+      "duration_ms": 286986,
+      "name": "No Step on Wing",
+      "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "The Swimmer",
+        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+      },
+      "artists": [
+        {
+          "name": "Phil France",
+          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "The Swimmer",
+      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 175546,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "The Swimmer",
-        "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
-      },
-      "artists": [
-        {
-          "name": "Phil France",
-          "url": "https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "The Swimmer",
-      "url": "https://open.spotify.com/track/1xaWQ8IKeg0cJxqhs7RIF4"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1483,6 +1483,54 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Waterfelt",
+        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+      },
+      "artists": [
+        {
+          "name": "Joel Christian Goffin",
+          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+        }
+      ],
+      "duration_ms": 223326,
+      "name": "Waterfelt",
+      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 184389,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Tramlines",
+        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
+      },
+      "artists": [
+        {
+          "name": "Neil Cowley",
+          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
+        }
+      ],
+      "duration_ms": 226669,
+      "name": "Tramlines",
+      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "Old Friends New Friends",
         "url": "https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj"
       },
@@ -1495,6 +1543,22 @@
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Tranquillant",
+        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
+      },
+      "artists": [
+        {
+          "name": "Eyd\u00eds Evensen",
+          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Tranquillant",
+      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1519,18 +1583,34 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Waterfelt",
-        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
       "artists": [
         {
-          "name": "Joel Christian Goffin",
-          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
         }
       ],
-      "duration_ms": 223326,
-      "name": "Waterfelt",
-      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Where Do We Go From Here",
+        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
+      },
+      "artists": [
+        {
+          "name": "Njord",
+          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
+        }
+      ],
+      "duration_ms": 145333,
+      "name": "Where Do We Go From Here",
+      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1555,54 +1635,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Tramlines",
-        "url": "https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r"
-      },
-      "artists": [
-        {
-          "name": "Neil Cowley",
-          "url": "https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB"
-        }
-      ],
-      "duration_ms": 226669,
-      "name": "Tramlines",
-      "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Open",
-        "url": "https://open.spotify.com/album/0T7VDy1JChDiIR7ChafuWv"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 184389,
-      "name": "Time Out",
-      "url": "https://open.spotify.com/track/7eNynetsjM4rSbW5AdA5u4"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
-      },
-      "artists": [
-        {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
-        }
-      ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -1623,22 +1655,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Where Do We Go From Here",
-        "url": "https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU"
-      },
-      "artists": [
-        {
-          "name": "Njord",
-          "url": "https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Where Do We Go From Here",
-      "url": "https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1675,22 +1691,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Tranquillant",
-        "url": "https://open.spotify.com/album/6B9gEaeD0u9eaBZL1lznqs"
-      },
-      "artists": [
-        {
-          "name": "Eyd\u00eds Evensen",
-          "url": "https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "Tranquillant",
-      "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Bird's Tail (Slow Meadow Rework)",
         "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "No Home of the Mind",
-        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
-      },
-      "artists": [
-        {
-          "name": "Bing & Ruth",
-          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
-        }
-      ],
-      "duration_ms": 376956,
-      "name": "Starwood Choker",
-      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Postcards for the Backyard, Pt. 1",
         "url": "https://open.spotify.com/album/09x53A382I5YYYSGeUQYFG"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 240331,
       "name": "Youth",
       "url": "https://open.spotify.com/track/0kfVVKg58qkHeb9fcPWF1i"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "No Home of the Mind",
+        "url": "https://open.spotify.com/album/0CNDCFHe5E0EYQT39CwgNA"
+      },
+      "artists": [
+        {
+          "name": "Bing & Ruth",
+          "url": "https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0"
+        }
+      ],
+      "duration_ms": 376956,
+      "name": "Starwood Choker",
+      "url": "https://open.spotify.com/track/6aw2BGPAzY5kcM3WzELaN3"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "The Open",
-        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
-      },
-      "artists": [
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 214862,
-      "name": "The Open",
-      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 140453,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/2AcC9SJ0mMyKGJLONZx6lt"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 214862,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
     }
   ],
   "unique_name": "Not Quite Classical",

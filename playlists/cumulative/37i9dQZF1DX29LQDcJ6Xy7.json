@@ -92,7 +92,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 362482,
       "name": "A Matter of Time",
       "url": "https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q"
@@ -1212,6 +1212,24 @@
       "duration_ms": 219809,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm"
+    },
+    {
+      "album": {
+        "name": "Fault Lines",
+        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
+      },
+      "artists": [
+        {
+          "name": "IAMX",
+          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263126,
+      "name": "Fault Lines",
+      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
     },
     {
       "album": {

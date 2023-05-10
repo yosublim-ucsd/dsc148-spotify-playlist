@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,783 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,816 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 39 | [Nuestro Sueño](https://open.spotify.com/track/4rAeOQPV9iTP5FMglXzGEu) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:59 |
 | 40 | [Esos Ojitos Negros](https://open.spotify.com/track/0rjZnZyqRc95UlV4lQNhxn) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [25th Anniversary](https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn) | 4:34 |
 | 41 | [El Gran Varón](https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 6:54 |
-| 42 | [Lady Laura](https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:00 |
-| 43 | [Ay Amor, Cuando Hablan las Miradas](https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:19 |
-| 44 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
+| 42 | [Ay Amor, Cuando Hablan las Miradas](https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:19 |
+| 43 | [Lady Laura](https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR) | [Raulin Rosendo](https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF) | [El Sonero Quel El Pueblo Prefiere](https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G) | 5:00 |
+| 44 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
 | 45 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
 | 46 | [Achilipú](https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Sin Salsa No Hay Paraíso](https://open.spotify.com/album/2yc30O2X7cCE2LTzJCzO3l) | 4:41 |
-| 47 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
+| 47 | [Acuyuye](https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o) | [Pacheco Y Su Charanga Vol\. 3: Que Suene La Flauta](https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy) | 2:33 |
 | 48 | [Ran Kan Kan](https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Latin World Of Tito Puente](https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH) | 3:10 |
 | 49 | [Pirata](https://open.spotify.com/track/25yBFDuKXnpPdlBSYZPZvF) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA) | [Singles](https://open.spotify.com/album/6tiLc1GWbqY9MScyrQGeI9) | 5:38 |
 | 50 | [Tu Sin Mi](https://open.spotify.com/track/3My5e0LeWBuE8zJwLtqEs8) | [Jehu El Rey](https://open.spotify.com/artist/3bpLd5BxgDFSo6CqglwzZk) | [Legend](https://open.spotify.com/album/0MOhkz73OBpXs7TY9rFXeC) | 4:05 |
@@ -108,15 +108,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 98 | [Yo Me Quedo](https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Oro Salsero](https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ) | 4:59 |
 | 99 | [Ran Kan Kan](https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE) | [The Mambo Express](https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl) | [Mambo Mania Vol\. 3](https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m) | 2:59 |
 | 100 | [Pachito Eche](https://open.spotify.com/track/4Bo0925JisL1yD285mAPTu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Havana Nights](https://open.spotify.com/album/3zP5mtJGzeHuiHAhRiaI5s) | 3:40 |
-| 101 | [Matrimonio Feliz](https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [West Side Beat](https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2) | 2:47 |
-| 102 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
+| 101 | [Tanga](https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx) | [Machito & His Orchestra](https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h) | [Yo Soy La Rumba](https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx) | 3:34 |
+| 102 | [Matrimonio Feliz](https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [West Side Beat](https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2) | 2:47 |
 | 103 | [Tokyo Blues](https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [The Best Of The Concord Years](https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3) | 5:15 |
 | 104 | [La Peluca](https://open.spotify.com/track/3cr60B0NqxUVBQARustTmn) | [Dave Santiago](https://open.spotify.com/artist/4re8q1mKhYrYr3i1ivlsVq) | [Dave Santiago & Latin Affair](https://open.spotify.com/album/5nsIWHi6VDXMiQw7s55YHY) | 5:22 |
 | 105 | [Un Telegrama](https://open.spotify.com/track/6D2ZGTWXKrvvRrwpQK765o) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:57 |
 | 106 | [New York State of Mind](https://open.spotify.com/track/3HP07vhvfEXajpBL0pgdsW) | [Bobby Rodriguez y La Compania](https://open.spotify.com/artist/4AlehYieSy692kucODs8Na) | [Juntos Otra Vez](https://open.spotify.com/album/1aDMTl12KZoP0RqOdiEXow) | 5:17 |
-| 107 | [Free For All](https://open.spotify.com/track/2vCQYL28VsRJJo70fva5bB) | [Al Castellanos](https://open.spotify.com/artist/3SaQoDi8xQt9x6nJQjY0Pe) | [Vintage Cuba No\. 90 \- EP: Salta Perico](https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl) | 2:01 |
-| 108 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
-| 109 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
+| 107 | [Cuando Sale El Sol](https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [From Hollywood](https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf) | 2:52 |
+| 108 | [Free For All](https://open.spotify.com/track/2vCQYL28VsRJJo70fva5bB) | [Al Castellanos](https://open.spotify.com/artist/3SaQoDi8xQt9x6nJQjY0Pe) | [Vintage Cuba No\. 90 \- EP: Salta Perico](https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl) | 2:01 |
+| 109 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 | 110 | [Fiesta A La King](https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Instant Party](https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr) | 5:46 |
 | 111 | [Nuestro Sueño](https://open.spotify.com/track/0hrzWL0y3GVHEeWVDrWw5g) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Salsa Nama](https://open.spotify.com/album/0wKo8Gv5tffGXI18AxsfbG) | 5:32 |
 | 112 | [Contra La Corriente](https://open.spotify.com/track/22GxtWFeORJZaptz26pxet) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 5:04 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCw1YTNmMmQwYTkzMjUyNjJiNzdhMjg3ZTdiM2ZiNzliMjMzNmRjMjRh`
+Snapshot ID: `MCwyYzYxYmY5YzRmZWE5ZTkwYjczNGVjNjdiNjEwNzA1OTAwZjk4OWZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,485 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,536 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 33 | [Phenomena \(DA DA\) \- Live](https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Out Here On A Friday Where It Began \(Live\)](https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy) | 2:42 |
 | 34 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 35 | [Lifeline](https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Lifeline](https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW) | 3:14 |
-| 36 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
-| 37 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
+| 36 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
+| 37 | [Free](https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Free](https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38) | 3:20 |
 | 38 | [Nobody](https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Nobody](https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX) | 3:07 |
 | 39 | [Kingdom Come](https://open.spotify.com/track/4esSUk8jL15c63JLYWjVSY) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Kingdom Come](https://open.spotify.com/album/12KLexZOaKbk7KLI631KhO) | 3:58 |
 | 40 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 53 | [Right Where You Want Me](https://open.spotify.com/track/2gKLC4heAhc1awumKkTqfA) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 3:26 |
 | 54 | [Turn This Ship Around \- Gregatron Remix](https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown \(Deluxe\)](https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC) | 3:17 |
 | 55 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
-| 56 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
+| 56 | [I Feel Good About It](https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc), [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [I Feel Good About It](https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4) | 3:43 |
 | 57 | [I’ve Got A Fire](https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I've Got A Fire](https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI) | 3:38 |
-| 58 | [I Feel Good About It](https://open.spotify.com/track/3lsuL58UoCsdoHdYSJ8Fce) | [Foothills Collective](https://open.spotify.com/artist/1cMjSXEAuU5YA34WpMjlHc), [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [I Feel Good About It](https://open.spotify.com/album/1uhXkUZR3YSlPxhVrmH2C4) | 3:43 |
+| 58 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
 | 59 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 |
 | 60 | [It's Coming](https://open.spotify.com/track/08l9XA11fZJMCkU7urkO5n) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [It's Coming](https://open.spotify.com/album/2ajlFA4Z0LJYZXBuJPTr5j) | 2:34 |
 | 61 | [Hands High](https://open.spotify.com/track/6Hv6JPMfjyHa73pmuiRR05) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Hands High](https://open.spotify.com/album/2PQlsFpLR3e8BeT2aSD5Vm) | 3:43 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 68 | [Higher Than Mine \(Remix\)](https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 2:39 |
 | 69 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 70 | [Hunger](https://open.spotify.com/track/5SNdebTrDYFXA7hB0wsbmb) | [MDSN](https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD) | [Hunger](https://open.spotify.com/album/5IM9yRLsBVaZ2cJyik2Iow) | 3:50 |
-| 71 | [Help Me](https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Help Me](https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ) | 3:24 |
-| 72 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
+| 71 | [You Tell Me](https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T) | [One Common](https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9) | [You Tell Me](https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q) | 3:00 |
+| 72 | [Help Me](https://open.spotify.com/track/5V1Z5Onw8fVeSHn6Se89JX) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Help Me](https://open.spotify.com/album/0KK2IqQPjzy1pvrzmSxVqJ) | 3:24 |
 | 73 | [Heaven On Earth \- Radio Single](https://open.spotify.com/track/54xPBJBmLLI8JvsfPYJ670) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Heaven On Earth](https://open.spotify.com/album/5oNay5SgVIVqAnioxLq3lL) | 3:45 |
 | 74 | [Friends](https://open.spotify.com/track/0AqwIFVSJjp7bqHQqj2uVz) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:36 |
 | 75 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
 
-Snapshot ID: `MCw1NmY5NTVjYzIzMWJmYmQwMDUzZWI3OTNmYjQyYTkyNDE5MjIzNjEx`
+Snapshot ID: `MCxmZjMxNjU5YWI4ODU2NDYxNTMzY2ZiYzA3ZmE4Y2Q0ZTYzNDcyZjBm`

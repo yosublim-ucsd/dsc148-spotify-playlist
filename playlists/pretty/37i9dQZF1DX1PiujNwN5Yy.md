@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para uno de esos días.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,371 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,396 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 50 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
 | 51 | [Hacia Dentro](https://open.spotify.com/track/4UXCzqNeOBhEU0v7kiyyAM) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:51 |
 | 52 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 |
-| 53 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
-| 54 | [no estabas cerca](https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no estabas cerca](https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto) | 1:10 |
+| 53 | [no estabas cerca](https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no estabas cerca](https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto) | 1:10 |
+| 54 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 55 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 |
 | 56 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
 | 57 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 61 | [Paciencia](https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [01 \- EP](https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy) | 3:29 |
 | 62 | [Corazon partio \- En directo](https://open.spotify.com/track/5sNLvOP38aQxpjUeJ2VQsP) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3](https://open.spotify.com/album/3uw4KJSWPNDuW5PIjrXYhq) | 5:47 |
 | 63 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
-| 64 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
-| 65 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
+| 64 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
+| 65 | [Nadie Va](https://open.spotify.com/track/77DSKbAL8JZjoJybl2tcAU) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 3:38 |
 | 66 | [Serenata](https://open.spotify.com/track/073lF1ripsgcxAY8BKzWrl) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Yin Yang](https://open.spotify.com/album/3BgRFVJWjNkwseVvuGcS6O) | 3:27 |
 | 67 | [Al Final](https://open.spotify.com/track/6YwQwgNUvquozKP41xGmRs) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 3:17 |
 | 68 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 92 | [Nada Es Igual](https://open.spotify.com/track/4CKntyb4V1au0i1ieEfapR) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Nada Es Igual](https://open.spotify.com/album/4TouSDU0z4DXKuuheeCfZw) | 4:11 |
 | 93 | [A La Quien Quieres](https://open.spotify.com/track/4q9lwDou2FP4Vj3993sfAW) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Ojos Vacíos](https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB) | 3:41 |
 | 94 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
-| 95 | [Ayer yo estaba bien](https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg) | [De Los Santos](https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY) | [Ayer yo estaba bien](https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5) | 2:32 |
-| 96 | [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 |
+| 95 | [La Canción](https://open.spotify.com/track/2p6vZOWwUYqlmnDGIaAl72) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [La Canción](https://open.spotify.com/album/0JKeAs7WGDWdoCjvdqgiKQ) | 4:13 |
+| 96 | [Ayer yo estaba bien](https://open.spotify.com/track/6jLsHP0Z3Xryry93GvXBzg) | [De Los Santos](https://open.spotify.com/artist/6hvYBtG0PJ29gStB6pLXwY) | [Ayer yo estaba bien](https://open.spotify.com/album/3UIWYkquYH5QEDT2moAHy5) | 2:32 |
 | 97 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 | 98 | [Se que te iras](https://open.spotify.com/track/3n9pmKStvRwVrcelogQdwK) | [Jordano](https://open.spotify.com/artist/7CUuK6IqZ0lgSxUTkuSTqW) | [Amor Insustancial](https://open.spotify.com/album/0CnwaaEhdfbVDBE0HrhdVX) | 3:25 |
 | 99 | [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/track/2h5emEDptvBZZFeJ23a6G3) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [El mejor de tus errores \(feat\. Alice Wonder\)](https://open.spotify.com/album/6DUZuOW0k1ceSWMFisvMqZ) | 3:29 |
 | 100 | [Cóseme \(2:22am\)](https://open.spotify.com/track/30Ezk8NvcRzLL4PWcj6RYL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Dos y Veintidós](https://open.spotify.com/album/2NNHr7gzX5UIxW1tJpArpp) | 2:49 |
 
-Snapshot ID: `MCxkODE3NGMxMTZhZmUxMjVjMjE4YzE2NTcxNTAwN2UxODVjNDMxNTE2`
+Snapshot ID: `MCwzNWJjMmVhNzMzNjRhMmY4ZWNmNTM1ZDBjMDQ4YzMzMjEzZjMyMTlm`

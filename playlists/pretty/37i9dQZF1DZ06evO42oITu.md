@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,607 likes - 51 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,721 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 25 | [They Call Me The Breeze](https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 3:06 |
 | 26 | [Old Love \- Acoustic Live](https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 7:51 |
 | 27 | [Ten Long Years](https://open.spotify.com/track/4CayREZylZ5ij94y1v0zlc) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 4:40 |
-| 28 | [Heads in Georgia](https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:09 |
-| 29 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
+| 28 | [I've Got a Rock 'n' Roll Heart](https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Money and Cigarettes \(2007 Remaster\)](https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq) | 3:13 |
+| 29 | [Heads in Georgia](https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:09 |
 | 30 | [Before You Accuse Me \- Acoustic Live](https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 3:59 |
 | 31 | [Key to the Highway](https://open.spotify.com/track/1r6Xp7EiQQ7F63HjbFHNJn) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 3:39 |
 | 32 | [Let It Rain](https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Eric Clapton](https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh) | 5:01 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 45 | [Ride the River](https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [The Road to Escondido](https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079) | 4:35 |
 | 46 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
 | 47 | [Steppin' Out](https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0) | [James Bracken](https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 2:27 |
-| 48 | [Rock Me Baby](https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 6:37 |
-| 49 | [Don't Wait](https://open.spotify.com/track/4fQfVZa0h5qOQ6Nf9scgQx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:46 |
-| 50 | [Please Be With Me](https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 3:26 |
-| 51 | [I'm Tore Down](https://open.spotify.com/track/1udh1S7PnErSMMZoA1xF6x) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 3:02 |
+| 48 | [Don't Wait](https://open.spotify.com/track/4fQfVZa0h5qOQ6Nf9scgQx) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Eric Clapton & Friends: The Breeze \- An Appreciation Of JJ Cale](https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H) | 2:46 |
+| 49 | [Please Be With Me](https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 3:26 |
+| 50 | [I'm Tore Down](https://open.spotify.com/track/1udh1S7PnErSMMZoA1xF6x) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg) | 3:02 |
+| 51 | [Tulsa Time](https://open.spotify.com/track/5eq5ddS17QTksWdfLEastZ) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Backless](https://open.spotify.com/album/3Xgt0D7DlSQ5HluyECu33i) | 3:30 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA0MTMxOWJhM2RlNmYwNTIyNDk0OGJjYmU5ZmQxZjY0Ng==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAzNWE3NzRiMTEwMDFiMGViNTA4MmEzMzIzYmRiNWNhMQ==`

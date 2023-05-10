@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring HUGEL.",
-  "num_followers": 1808906,
+  "num_followers": 1809426,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTNlNDM2ZTRkYWFmZjVkNjEyMWVhZGUzMzg0ZmJlYjgzYzhmZGQ3",
+  "snapshot_id": "MCw5NjIzODNkMWFjMmU2OGQyMTJiNDM3ODYyMDNlOWNjZDdkMWQ1NDgy",
   "tracks": [
     {
       "added_at": "2023-05-05 18:31:09",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "California Dreamin' (feat. High Jinx)",
         "url": "https://open.spotify.com/album/4QNJtrJyZlV4CMzvQqPcjW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "People Ain't Dancing (feat. Kah-Lo)",
-        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
-      },
-      "artists": [
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 154859,
-      "name": "People Ain't Dancing (feat. Kah-Lo)",
-      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Miracle (with Ellie Goulding) [Mau P Remix]",
         "url": "https://open.spotify.com/album/2F5dzEAJZlxxMI0uGOQfYt"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 217734,
       "name": "Miracle (with Ellie Goulding) - Mau P Remix",
       "url": "https://open.spotify.com/track/3lsiqFV6SKhBgzQCpuM1JR"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "People Ain't Dancing (feat. Kah-Lo)",
+        "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
+      },
+      "artists": [
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 154859,
+      "name": "People Ain't Dancing (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "The Music Began To Play",
         "url": "https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc"
       },
@@ -1347,26 +1371,6 @@
       "duration_ms": 145984,
       "name": "The Music Began To Play",
       "url": "https://open.spotify.com/track/5jOhS3S7vTj9yQ4UmEk8qj"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "Talk It Over",
-        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 209178,
-      "name": "Talk It Over",
-      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1391,6 +1395,26 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "Talk It Over",
+        "url": "https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 209178,
+      "name": "Talk It Over",
+      "url": "https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "Give It to Me",
         "url": "https://open.spotify.com/album/2y9hIKMqVHkwFpK5qQzTUF"
       },
@@ -1403,30 +1427,6 @@
       "duration_ms": 210000,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Make Me Feel",
-        "url": "https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "Make Me Feel",
-      "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Coma Cat (Purple Disco Machine Re-Work)",
         "url": "https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 208544,
       "name": "Coma Cat - Purple Disco Machine Re-Work",
       "url": "https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "Make Me Feel",
+        "url": "https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Make Me Feel",
+      "url": "https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Disconnected",
-        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 194523,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 366141,
       "name": "Da Fonk (feat. Joni)",
       "url": "https://open.spotify.com/track/6ryPKHgiz6MSGJ1wYqn28b"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 194523,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
+        "name": "We Don\u2019t Need (Club Edit)",
+        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 158462,
+      "name": "We Don\u2019t Need - Club Edit",
+      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
+    },
+    {
+      "added_at": "2023-05-05 18:31:09",
+      "album": {
         "name": "Show Me (feat. Hannah Boleyn)",
         "url": "https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 177142,
       "name": "Show Me (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD"
-    },
-    {
-      "added_at": "2023-05-05 18:31:09",
-      "album": {
-        "name": "We Don\u2019t Need (Club Edit)",
-        "url": "https://open.spotify.com/album/5aW2wXp4q8UKrVEbBRt2g7"
-      },
-      "artists": [
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 158462,
-      "name": "We Don\u2019t Need - Club Edit",
-      "url": "https://open.spotify.com/track/3hp1sx2wqHipS9fanoPrzV"
     },
     {
       "added_at": "2023-05-05 18:31:09",
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2023-05-05 18:31:09",
       "album": {
-        "name": "Let Me Love U",
-        "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
+        "name": "Rock The Casbah",
+        "url": "https://open.spotify.com/album/6cRtfyZvWhfhrZZR1r4cRo"
       },
       "artists": [
         {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Let Me Love U",
-      "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
+      "duration_ms": 185625,
+      "name": "Rock The Casbah",
+      "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
     }
   ],
   "unique_name": "Housewerk",

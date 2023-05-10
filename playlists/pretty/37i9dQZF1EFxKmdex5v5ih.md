@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,797 likes - 220 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,799 likes - 220 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 71 | [Save Myself](https://open.spotify.com/track/3MBdq6U779PbN8WSfsRZAx) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:44 |
 | 72 | [MOONLIGHT](https://open.spotify.com/track/1KlMpUN2kGjUHzotQ5KMiu) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:39 |
 | 73 | [In Case You Don't Live Forever](https://open.spotify.com/track/4Svpc4QRvDW0J34AE30S9c) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:48 |
-| 74 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
-| 75 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 74 | [Joy](https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Joy](https://open.spotify.com/album/0Pq6IzsPjGObrhLlaqn9eM) | 3:13 |
+| 75 | [Julia](https://open.spotify.com/track/12YVZ3Tg4LyAJNsMJVtwQq) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:38 |
 | 76 | [Lonely Eyes](https://open.spotify.com/track/0r4l1Eco6JEbeexC8dEawI) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:16 |
-| 77 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
-| 78 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 |
+| 77 | [In The Kitchen](https://open.spotify.com/track/2VFetGqLYq0Pc8ZtRYCaeL) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:47 |
+| 78 | [Runaway](https://open.spotify.com/track/60sX1vz8ToXYuaAvW5sYMs) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Runaway](https://open.spotify.com/album/6wLkmUYF8riWVznDJQTsJ1) | 2:33 |
 | 79 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 80 | [I Don't Think About You](https://open.spotify.com/track/0LV7IsFZF2rm2CI52uSWra) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Meaning of Life](https://open.spotify.com/album/6GBu7GU6dztLYlZuUHiwA2) | 3:44 |
 | 81 | [Not 20 Anymore](https://open.spotify.com/track/7vWbERTWGCiu6fil02e9kj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Not 20 Anymore](https://open.spotify.com/album/50fjXOO6vhakOGaz3ATZlM) | 3:03 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 92 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
 | 93 | [Muddy Feet \(feat\. Sia\)](https://open.spotify.com/track/1S1WWTuydW6zljNeHOpZXe) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:16 |
 | 94 | [Magic](https://open.spotify.com/track/3hE9T8H1jzSS0SxLNtUtKl) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [A Wrinkle in Time \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0YgJxL6c6nh0izOMRDKypq) | 3:29 |
-| 95 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
-| 96 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 95 | [Nervous](https://open.spotify.com/track/1XNAH3h63O1hWFcgyHGbjf) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:08 |
+| 96 | [Try Again \(feat\. Lauv\)](https://open.spotify.com/track/0DHh3p0g7qmNNfNdRNwL6N) | [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Try Again \(feat\. Lauv\)](https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4) | 3:09 |
 | 97 | [El Tejano](https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:11 |
 | 98 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 |
 | 99 | [Island](https://open.spotify.com/track/0lJrPatloYarTbsKciShJu) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:59 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 219 | [Heaven](https://open.spotify.com/track/0t0Dqao4DNlyZkhjA8MLbh) | [Michael Wills](https://open.spotify.com/artist/2EXbEUh36k3Qjh48mcXvpf) | [Fire](https://open.spotify.com/album/7fT0kivs4DxyxoeSk7KphV) | 3:20 |
 | 220 | [Lied on Me](https://open.spotify.com/track/3DUaaUvTEebccVYvlTGBuL) | [Mike Riches Ross](https://open.spotify.com/artist/1EOsdKjjf2PWJf4OgT3pYT) | [Collected Thoughts](https://open.spotify.com/album/7HwchDhCZqyr4Y0XZV1G1T) | 4:31 |
 
-Snapshot ID: `MjgwNTk5MDYsMDAwMDAwMDAwYTQ4YTA0ZTlmNjg4YTIwY2QxODUxOTg4NDMwZDdmYQ==`
+Snapshot ID: `MjgwNjEzNDYsMDAwMDAwMDBjYjI4ZDg2MzYwMjdmNmIwZWQ5Y2E4ODNlZjVlMmFjMQ==`

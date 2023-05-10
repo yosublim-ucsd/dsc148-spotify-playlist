@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops. Cover: Flying Lotus",
-  "num_followers": 551842,
+  "num_followers": 551929,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDVjMjI0NWE1NjQ4MDc1YmIzYWVjNTljOWUwNTQ4YmY5YTE4NTky",
+  "snapshot_id": "MCwyMGUxMjQyZDgzZTM3Mjk3YjEyOTQ2Y2ExZTBlYmQzMDY5YzQwNDA1",
   "tracks": [
     {
       "added_at": "2023-01-13 05:01:00",
@@ -545,22 +545,6 @@
       "url": "https://open.spotify.com/track/4TS1SMLEEhjKr6qeKjfq5z"
     },
     {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "A Night in Tunisia",
-        "url": "https://open.spotify.com/album/3mW1oqsOSmA7kaRPJ8wDZp"
-      },
-      "artists": [
-        {
-          "name": "Grace Kelly",
-          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
-        }
-      ],
-      "duration_ms": 254505,
-      "name": "A Night In Tunisia",
-      "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
-    },
-    {
       "added_at": "2022-11-04 17:39:00",
       "album": {
         "name": "FACING",
@@ -575,6 +559,22 @@
       "duration_ms": 122997,
       "name": "BUBBA",
       "url": "https://open.spotify.com/track/1Im7xmfGDJo1WpnSdJNHbr"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "A Night in Tunisia",
+        "url": "https://open.spotify.com/album/3mW1oqsOSmA7kaRPJ8wDZp"
+      },
+      "artists": [
+        {
+          "name": "Grace Kelly",
+          "url": "https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn"
+        }
+      ],
+      "duration_ms": 254505,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -749,26 +749,6 @@
       "url": "https://open.spotify.com/track/2R0Tw7ZOCKUrTwGb9LEEVT"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "The Pilot",
-        "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
-      },
-      "artists": [
-        {
-          "name": "Mauricesax",
-          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
-        },
-        {
-          "name": "Bao",
-          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
-        }
-      ],
-      "duration_ms": 186414,
-      "name": "The Pilot",
-      "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
-    },
-    {
       "added_at": "2022-08-08 13:44:11",
       "album": {
         "name": "Cruiserweight",
@@ -787,6 +767,26 @@
       "duration_ms": 131006,
       "name": "Lift Off For AJ",
       "url": "https://open.spotify.com/track/60DBYLqdLMqF3x7FS0yL7K"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "The Pilot",
+        "url": "https://open.spotify.com/album/4WrzOyPrCEE9s9FVzWYhUL"
+      },
+      "artists": [
+        {
+          "name": "Mauricesax",
+          "url": "https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf"
+        },
+        {
+          "name": "Bao",
+          "url": "https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg"
+        }
+      ],
+      "duration_ms": 186414,
+      "name": "The Pilot",
+      "url": "https://open.spotify.com/track/6Vd9oj4XJPExClsCa9O6q2"
     },
     {
       "added_at": "2022-07-05 15:03:47",
@@ -873,26 +873,6 @@
       "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Altered Time",
-        "url": "https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN"
-      },
-      "artists": [
-        {
-          "name": "Knick",
-          "url": "https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX"
-        },
-        {
-          "name": "Nico Harris",
-          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Altered Time",
-      "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
-    },
-    {
       "added_at": "2022-09-02 04:02:00",
       "album": {
         "name": "Seventh Wonder",
@@ -941,20 +921,24 @@
       "url": "https://open.spotify.com/track/5QwPQLZIG0RwNn1NwiWskp"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
+      "added_at": "2022-02-18 05:02:00",
       "album": {
-        "name": "Between Days",
-        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+        "name": "Altered Time",
+        "url": "https://open.spotify.com/album/3ewzyQrB4kCYON9KVE5eVN"
       },
       "artists": [
         {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+          "name": "Knick",
+          "url": "https://open.spotify.com/artist/4JeYrBePUtaLKFSWP1BqZX"
+        },
+        {
+          "name": "Nico Harris",
+          "url": "https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+      "duration_ms": 130000,
+      "name": "Altered Time",
+      "url": "https://open.spotify.com/track/1swgntnR8aAPm23U1bBcM0"
     },
     {
       "added_at": "2023-03-03 05:01:00",
@@ -981,6 +965,22 @@
       "url": "https://open.spotify.com/track/7jl8cROOmTLw7Cj097oN5m"
     },
     {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Between Days",
+        "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6fHHWT7Vfdv71c70PHp5wq"
+    },
+    {
       "added_at": "2021-07-09 04:02:00",
       "album": {
         "name": "Northbound",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/7I2WxS94I9LWQSg1ACHOTN"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "Quantum Blackness",
-        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 387514,
-      "name": "Black Space Jazz",
-      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "The Whales",
@@ -1035,6 +1019,38 @@
       "duration_ms": 148000,
       "name": "The Whales",
       "url": "https://open.spotify.com/track/4UDwsQO8RFMoEzSUpboslN"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "Quantum Blackness",
+        "url": "https://open.spotify.com/album/2uKITXprtT9Wm9EUHIvbL4"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 387514,
+      "name": "Black Space Jazz",
+      "url": "https://open.spotify.com/track/09jflWcNgyBd0PiigbWVMZ"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "lamplighting",
+        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+      },
+      "artists": [
+        {
+          "name": "Wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 139419,
+      "name": "lamplighting",
+      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
     },
     {
       "added_at": "2023-02-24 05:01:00",
@@ -1059,6 +1075,22 @@
       "duration_ms": 427662,
       "name": "The Universe",
       "url": "https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Thoughts Under Water",
+        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
+      },
+      "artists": [
+        {
+          "name": "Daniel Brown",
+          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
+        }
+      ],
+      "duration_ms": 203597,
+      "name": "I Love Her",
+      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1097,36 +1129,36 @@
       "url": "https://open.spotify.com/track/3OpUldKxZMvn7eu3TIcLpK"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
+      "added_at": "2022-11-18 05:01:00",
       "album": {
-        "name": "Thoughts Under Water",
-        "url": "https://open.spotify.com/album/6zI0OaciTJ5QeypkEwo0fO"
+        "name": "Night Lands",
+        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
       },
       "artists": [
         {
-          "name": "Daniel Brown",
-          "url": "https://open.spotify.com/artist/0pY32AUl91JjgiuLHuuIcR"
+          "name": "Sunda Arc",
+          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
         }
       ],
-      "duration_ms": 203597,
-      "name": "I Love Her",
-      "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
+      "duration_ms": 308313,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
     },
     {
-      "added_at": "2022-09-30 04:00:00",
+      "added_at": "2021-02-26 05:01:00",
       "album": {
-        "name": "lamplighting",
-        "url": "https://open.spotify.com/album/7wtSaKf99Nez3J3VX7y0Oc"
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
       "artists": [
         {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 139419,
-      "name": "lamplighting",
-      "url": "https://open.spotify.com/track/5tRVVkdQTpHLUfvOzSlAJJ"
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1153,38 +1185,6 @@
       "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
     },
     {
-      "added_at": "2023-01-20 05:01:00",
-      "album": {
-        "name": "We Don't Need No Roads",
-        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
-      },
-      "artists": [
-        {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
-        }
-      ],
-      "duration_ms": 258334,
-      "name": "We Don't Need No Roads",
-      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
-    },
-    {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "SAMURAI",
@@ -1199,6 +1199,22 @@
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
+    },
+    {
+      "added_at": "2023-01-20 05:01:00",
+      "album": {
+        "name": "We Don't Need No Roads",
+        "url": "https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm"
+      },
+      "artists": [
+        {
+          "name": "FKAjazz",
+          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
+        }
+      ],
+      "duration_ms": 258334,
+      "name": "We Don't Need No Roads",
+      "url": "https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ"
     },
     {
       "added_at": "2022-11-11 05:01:00",
@@ -1237,6 +1253,34 @@
       "url": "https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD"
     },
     {
+      "added_at": "2021-08-27 04:01:00",
+      "album": {
+        "name": "Typhoon",
+        "url": "https://open.spotify.com/album/1ymrNMiHd7g6ehQHShettK"
+      },
+      "artists": [
+        {
+          "name": "Slowya.roll",
+          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
+        },
+        {
+          "name": "anbuu",
+          "url": "https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q"
+        },
+        {
+          "name": "elmo",
+          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
+        },
+        {
+          "name": "goosetaf",
+          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+        }
+      ],
+      "duration_ms": 223302,
+      "name": "Typhoon",
+      "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
+    },
+    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Tiger's Den (Radio Edit)",
@@ -1273,32 +1317,20 @@
       "url": "https://open.spotify.com/track/6MpFDEgG4ehiQUI7VMSWfB"
     },
     {
-      "added_at": "2021-08-27 04:01:00",
+      "added_at": "2021-02-26 00:47:37",
       "album": {
-        "name": "Typhoon",
-        "url": "https://open.spotify.com/album/1ymrNMiHd7g6ehQHShettK"
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
       },
       "artists": [
         {
-          "name": "Slowya.roll",
-          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
-        },
-        {
-          "name": "anbuu",
-          "url": "https://open.spotify.com/artist/00i4PzAbt6fpwgBqdtSP0q"
-        },
-        {
-          "name": "elmo",
-          "url": "https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f"
-        },
-        {
-          "name": "goosetaf",
-          "url": "https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 223302,
-      "name": "Typhoon",
-      "url": "https://open.spotify.com/track/3f5CmDMjox3b3xB7h9kcRu"
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1341,20 +1373,20 @@
       "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
-      "added_at": "2021-02-26 00:47:37",
+      "added_at": "2022-08-26 04:02:00",
       "album": {
-        "name": "Coral Jazz",
-        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+        "name": "Mind Racing",
+        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "Noah Rosen",
+          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
         }
       ],
-      "duration_ms": 183529,
-      "name": "Coral Jazz",
-      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
+      "duration_ms": 347368,
+      "name": "Carlyle Clyde",
+      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1389,22 +1421,6 @@
       "url": "https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa"
     },
     {
-      "added_at": "2022-08-26 04:02:00",
-      "album": {
-        "name": "Mind Racing",
-        "url": "https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR"
-      },
-      "artists": [
-        {
-          "name": "Noah Rosen",
-          "url": "https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf"
-        }
-      ],
-      "duration_ms": 347368,
-      "name": "Carlyle Clyde",
-      "url": "https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1"
-    },
-    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "Truly Another Classic",
@@ -1431,22 +1447,6 @@
       "duration_ms": 153174,
       "name": "Truly Another Classic",
       "url": "https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A"
-    },
-    {
-      "added_at": "2022-11-18 05:01:00",
-      "album": {
-        "name": "Night Lands",
-        "url": "https://open.spotify.com/album/1ip4yEivNrUpMTIuxvOg82"
-      },
-      "artists": [
-        {
-          "name": "Sunda Arc",
-          "url": "https://open.spotify.com/artist/0cWp5s4RU3EB86Vo0TQwFj"
-        }
-      ],
-      "duration_ms": 308313,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/7F3bKPr4SZCS8PmsQiLWeX"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -1501,24 +1501,64 @@
       "url": "https://open.spotify.com/track/1opaCjv9VoQ7ZPdlXpObXs"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2021-12-10 05:01:00",
       "album": {
-        "name": "Angels",
-        "url": "https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot"
+        "name": "Dribble",
+        "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
       },
       "artists": [
         {
-          "name": "Wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        },
-        {
-          "name": "David Ecker",
-          "url": "https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx"
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
         }
       ],
-      "duration_ms": 128173,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k"
+      "duration_ms": 210572,
+      "name": "Dribble",
+      "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
+    },
+    {
+      "added_at": "2022-11-25 05:00:00",
+      "album": {
+        "name": "Lollipop",
+        "url": "https://open.spotify.com/album/5cJ0fLM4xNcBJa5533LNUK"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        },
+        {
+          "name": "Damon the Soulful Samurai",
+          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/3465BrFB3rjk1rd4sQKPF9"
+    },
+    {
+      "added_at": "2022-08-08 13:44:11",
+      "album": {
+        "name": "Tukumtak",
+        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 182970,
+      "name": "Tukumtak",
+      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -1551,42 +1591,6 @@
       "duration_ms": 217080,
       "name": "Side Street",
       "url": "https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy"
-    },
-    {
-      "added_at": "2022-08-08 13:44:11",
-      "album": {
-        "name": "Tukumtak",
-        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "Tukumtak",
-      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Dribble",
-        "url": "https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc"
-      },
-      "artists": [
-        {
-          "name": "Anomalie",
-          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
-        }
-      ],
-      "duration_ms": 210572,
-      "name": "Dribble",
-      "url": "https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp"
     },
     {
       "added_at": "2022-07-08 04:02:00",

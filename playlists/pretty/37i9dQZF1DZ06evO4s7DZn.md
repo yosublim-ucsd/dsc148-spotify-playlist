@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,318 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,323 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 39 | [Morenita \- En Vivo](https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 2:47 |
 | 40 | [No Llega El Olvido](https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:07 |
 | 41 | [Signo Libra](https://open.spotify.com/track/5KwNLf671dgPXwECPw9glC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:47 |
-| 42 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 |
-| 43 | [Tomando Cerveza](https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Tomando Cerveza](https://open.spotify.com/album/5uQxB6KUC34UALiSsFPFNZ) | 3:01 |
+| 42 | [Tomando Cerveza](https://open.spotify.com/track/5TKwexlO82W5RCzWLRPFpk) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Tomando Cerveza](https://open.spotify.com/album/5uQxB6KUC34UALiSsFPFNZ) | 3:01 |
+| 43 | [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 |
 | 44 | [Ni Como Amigos](https://open.spotify.com/track/6y2PlqxIjnsRCy2ZR7vosI) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:24 |
 | 45 | [Ya Para Que](https://open.spotify.com/track/2vnldLYSPCg2gAuZRnnWjx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:19 |
 | 46 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s7DZn.md) - [plain]
 | 49 | [Se Terminó Lo Nuestro](https://open.spotify.com/track/4i3HvUEFP36nhC0jw6aOr7) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:25 |
 | 50 | [Pelao de Rancho](https://open.spotify.com/track/5ygvVYQlBgHV2SfvfikJcq) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 2:34 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA1YWMyNzg3ZmRmMGE5YTQyYWM2YmQzYzZhNjE2OWIwOQ==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA4NTFlZGZkZDZlZTZjMDkzYzQyMjA4YjY5NzI1N2EzNw==`

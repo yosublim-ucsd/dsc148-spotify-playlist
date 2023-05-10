@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,826 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,832 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 19 | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Chinatown \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM) | 4:07 |
 | 20 | [I Wonder Why](https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [I Wonder Why](https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD) | 3:48 |
 | 21 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
-| 22 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
-| 23 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
+| 22 | [Eyes On You](https://open.spotify.com/track/5yGD15DsGXfiNDg9d7fXmY) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Eyes On You](https://open.spotify.com/album/3NtZnt7iqak8rIW5o1BYkd) | 2:16 |
+| 23 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 24 | [The Walls Are Way Too Thin](https://open.spotify.com/track/6z3o8dAIjtnkXFNErciWHS) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:41 |
 | 25 | [AUATC](https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [AUATC](https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP) | 2:22 |
 | 26 | [Tethered, Wrapped Around](https://open.spotify.com/track/3GVmuXATyp9JAiAcwASlTJ) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Slow Reveal: Chapter One](https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s) | 3:15 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 31 | [Light \- Edit](https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Light \(Edit\)](https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz) | 3:05 |
 | 32 | [Like I Used To](https://open.spotify.com/track/1kZpYFQHUKv4xHELaaUSqP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Like I Used To](https://open.spotify.com/album/0nRjg8p3TOmImvztpYncra) | 4:23 |
 | 33 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
-| 34 | [Begin Again](https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:35 |
-| 35 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
+| 34 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
+| 35 | [Begin Again](https://open.spotify.com/track/2ksgMG1hHFHV979phZ2lkd) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:35 |
 | 36 | [Question It All](https://open.spotify.com/track/2IFhH2i9jxSZoqgzV9jipi) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Question It All / White Car](https://open.spotify.com/album/5G5O8QNkx2ocd2hY7ONJFj) | 4:02 |
 | 37 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 |
 | 38 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
@@ -76,18 +76,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 66 | [Icarus](https://open.spotify.com/track/78OhueBD5iAZuW2gPhZ5EF) | [Gengahr](https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J) | [Sanctuary](https://open.spotify.com/album/57DpPfLzyxA5iP8zjLQoY4) | 3:54 |
 | 67 | [Sunshine State](https://open.spotify.com/track/1qk4ro2OIR6Vsxbd41ZlFm) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/78k6vZLwOMeCjL8YPJ7iTq) | 2:18 |
 | 68 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 |
-| 69 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 |
-| 70 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
-| 71 | [It Might Take a Woman](https://open.spotify.com/track/2VCBaxzoHpkzKulBlWvpwd) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:10 |
+| 69 | [It Might Take a Woman](https://open.spotify.com/track/2VCBaxzoHpkzKulBlWvpwd) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Girlhood](https://open.spotify.com/album/3WSp38o6QVGRbRRvhUrb7M) | 3:10 |
+| 70 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 |
+| 71 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
 | 72 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
 | 73 | [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 |
 | 74 | [Beaches on the Thames](https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU) | [Sarah Carton](https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS) | [Beaches on the Thames](https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc) | 3:50 |
 | 75 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 76 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
-| 77 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
+| 77 | [Pure Shores](https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8) | 3:52 |
 | 78 | [Gladstone](https://open.spotify.com/track/7y8stO3CzbhstlHg6cYBs4) | [Blair Lee](https://open.spotify.com/artist/1pYkoc6a3QKymoCVfAWuNc) | [Gladstone](https://open.spotify.com/album/5XWJvBc60xAv1WSn3EIPPw) | 2:54 |
-| 79 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
-| 80 | [Pure Shores](https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Pure Shores](https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8) | 3:52 |
+| 79 | [Caught Up & Confused](https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO) | [MarthaGunn](https://open.spotify.com/artist/4Rt63oQJifMiMbQEcmeqK8) | [Something Good Will Happen](https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK) | 3:24 |
+| 80 | [Womxn](https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:54 |
 | 81 | [Goodbye Blue](https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Goodbye Blue](https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro) | 4:01 |
 | 82 | [Five and Dime](https://open.spotify.com/track/3HgwWsgkhXJ2LsEFWywrHj) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 2:53 |
 | 83 | [Held Down](https://open.spotify.com/track/2PHeCBCWESSAqfxpORbxKA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Held Down](https://open.spotify.com/album/0Mgg0Wv09HVGKnfj33Zo1K) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Beautiful Disaster](https://open.spotify.com/track/5TFS4aXfVOXxodj19Wq5AG) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [SAM DOTIA](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Four° In Winter](https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3) | 2:18 |
 | 100 | [So Simpatico \- Edit](https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [So Simpatico](https://open.spotify.com/album/3T6jlI15kmoraxuM5AvGkR) | 3:05 |
 
-Snapshot ID: `MCw5ZGQ5MDUzNDhjNGFhYTMxMmQ5M2QyMWFlZjhhNjc2MjI3ZDg4ODFm`
+Snapshot ID: `MCw2M2Y3NGVmNTc1YTMwYTkzNGZmYjIzM2VlOTQzOTZhMTgwMjlhOTZk`

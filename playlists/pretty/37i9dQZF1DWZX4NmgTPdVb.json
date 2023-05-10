@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 128621,
+  "num_followers": 128705,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2EyYWMxYWQ4YmNiOGQzMWVlYzJkNTcwMDdiYjViNmJjNzBhZGM1",
+  "snapshot_id": "MCw0NTFmZmYyZmQ4MTJiYzQyZmM1YzJiN2VjNDQxNjllNGZhZmQ0MjI3",
   "tracks": [
     {
       "added_at": "2022-04-18 23:11:58",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
+        "name": "Dancing in the Moonlight",
+        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
+      },
+      "artists": [
+        {
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
         "name": "Olivia's Greatest Hits (Vol. 2 / Deluxe Edition / Remastered)",
         "url": "https://open.spotify.com/album/4OkHkHfwoZOOZpQteKJkby"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 170485,
       "name": "You're The One That I Want - Remastered 2022",
       "url": "https://open.spotify.com/track/4sX1ehtL58WodjOP9bKZ18"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
-        "name": "Dancing in the Moonlight",
-        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
-      },
-      "artists": [
-        {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Cosmo's Factory",
         "url": "https://open.spotify.com/album/5w2X5ZmdE4u0XGkOU7BiLG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 159172,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Wild Cherry",
-        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
-      },
-      "artists": [
-        {
-          "name": "Wild Cherry",
-          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Play That Funky Music",
-      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 216733,
       "name": "We Are Family - 1995 Remaster",
       "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Wild Cherry",
+        "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+      },
+      "artists": [
+        {
+          "name": "Wild Cherry",
+          "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Play That Funky Music",
+      "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 233173,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Heaven Tonight",
         "url": "https://open.spotify.com/album/5w20U3G3GyWiPvvDeVzkhN"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 253733,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2ccUQnjjNWT0rsNnsBpsCA"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 233173,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
     },
     {
       "added_at": "2022-04-18 23:11:58",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-04-18 23:11:58",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 228326,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
-    },
-    {
-      "added_at": "2022-04-18 23:11:58",
-      "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/2v8XEhOPoKX7iVWq5mWWBM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 220573,
       "name": "Joy To The World",
       "url": "https://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x"
+    },
+    {
+      "added_at": "2022-04-18 23:11:58",
+      "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 228326,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN"
     },
     {
       "added_at": "2022-04-18 23:11:58",

@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Agradecer",
+        "url": "https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205574,
+      "name": "Agradecer",
+      "url": "https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt"
+    },
+    {
+      "album": {
         "name": "Romperayo",
         "url": "https://open.spotify.com/album/6s1doXtRUXaxXs2rnPSOsD"
       },
@@ -128,7 +146,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/22mVIMbschh7l57uvZuKma"
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Besar",
+        "url": "https://open.spotify.com/album/3ggnQ2EBey7bpJRuV7YhnX"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Besar",
+      "url": "https://open.spotify.com/track/1JfkGnktG9RRmQSxzN6jMC"
+    },
+    {
+      "album": {
         "name": "Saturno 2000 - La Rebajada de Los Sonideros 1962 - 1983",
         "url": "https://open.spotify.com/album/3mWxWw4Op4RkL5E3GzioL4"
       },
@@ -262,7 +298,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 281100,
       "name": "Bleu de lune (El Buho Remix)",
       "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
@@ -1228,7 +1264,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 269279,
       "name": "En Mi Escritorio",
       "url": "https://open.spotify.com/track/2pvfjoRy3OVfPDJuSKZ9cU"
@@ -1590,7 +1626,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 146680,
       "name": "La Danza de los Simpsons",
       "url": "https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U"
@@ -2777,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Reza en Voz Alta",
+        "url": "https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240448,
+      "name": "Reza en Voz Alta",
+      "url": "https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT"
+    },
+    {
+      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -2990,7 +3044,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 257333,
       "name": "Sonido Amazonico",
       "url": "https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1"

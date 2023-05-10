@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 534214,
+  "num_followers": 534530,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDVmY2VjODUyNzY0ZDQ1NjRkNDgzMGMxZDViODMwYzUxZmI3NmUz",
+  "snapshot_id": "MCwxZmU0ZTBjZmJlZDAyODA5YzcwY2Q2MmZiNWJlOTNiODlmNzU2Yzlh",
   "tracks": [
     {
       "added_at": "2023-05-05 04:19:51",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-05-05 04:19:51",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
-    },
-    {
-      "added_at": "2023-05-05 04:19:51",
-      "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 196458,
       "name": "because i liked a boy",
       "url": "https://open.spotify.com/track/32FhTAAjKZaBein150o3Px"
+    },
+    {
+      "added_at": "2023-05-05 04:19:51",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2023-05-05 04:19:51",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-05 04:19:51",
       "album": {
-        "name": "missin u",
-        "url": "https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk"
-      },
-      "artists": [
-        {
-          "name": "Tori Kelly",
-          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "missin u",
-      "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
-    },
-    {
-      "added_at": "2023-05-05 04:19:51",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+    },
+    {
+      "added_at": "2023-05-05 04:19:51",
+      "album": {
+        "name": "missin u",
+        "url": "https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk"
+      },
+      "artists": [
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "missin u",
+      "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
     },
     {
       "added_at": "2023-05-05 04:19:51",

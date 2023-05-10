@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: \u30a4\u30cf\u30e9\u30ab\u30f3\u30bf\u30ed\u30a6",
+  "description": "The freshest indie sounds from Japan. \u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002Cover: Deep Sea Diving Club",
   "name": "Edge!",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 250000,
       "name": "Ame no Nioi wa Message",
       "url": "https://open.spotify.com/track/7npdHuWN0SFOFGohsWjnef"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 150750,
       "name": "Brainstop",
       "url": "https://open.spotify.com/track/5EkY5awFL3ketwiDsWkJmS"
@@ -756,6 +756,24 @@
       "duration_ms": 183617,
       "name": "Chain - feat. Misi Ke",
       "url": "https://open.spotify.com/track/6TIaFPdO2FLhhFSAqrD4lV"
+    },
+    {
+      "album": {
+        "name": "Chandler Bing",
+        "url": "https://open.spotify.com/album/47fyjjJdkUJrpShiPEjwI7"
+      },
+      "artists": [
+        {
+          "name": "Helsinki Lambda Club",
+          "url": "https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282367,
+      "name": "Chandler Bing",
+      "url": "https://open.spotify.com/track/7an3pCqQnVo09Qa59I3Ek0"
     },
     {
       "album": {
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 234445,
       "name": "dawn",
       "url": "https://open.spotify.com/track/43w5CjBykSk8K07M1GHZyg"
@@ -1099,6 +1117,24 @@
     },
     {
       "album": {
+        "name": "door",
+        "url": "https://open.spotify.com/album/4lycjMMaKA1imPO6Wm4OUc"
+      },
+      "artists": [
+        {
+          "name": "ULTRA",
+          "url": "https://open.spotify.com/artist/0lyPo2zoahnoeFXTq1JHeS"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227913,
+      "name": "door",
+      "url": "https://open.spotify.com/track/2I4ispQ4UjY6cot5eSJHTg"
+    },
+    {
+      "album": {
         "name": "tatta ichi jikan",
         "url": "https://open.spotify.com/album/5uK3MAuCYsRp9DChPhpfK9"
       },
@@ -1146,7 +1182,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 217541,
       "name": "Drama",
       "url": "https://open.spotify.com/track/7q81qAmPUTbYiVOZ9uZDlk"
@@ -1963,6 +1999,24 @@
     },
     {
       "album": {
+        "name": "Hatati20",
+        "url": "https://open.spotify.com/album/6dGShhrVFOCyc1Ovbhqmbw"
+      },
+      "artists": [
+        {
+          "name": "Cape of good hope",
+          "url": "https://open.spotify.com/artist/71qVt23XtBAsadtjkBwjAZ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278755,
+      "name": "Hatati20",
+      "url": "https://open.spotify.com/track/61WBPwkpN6CKIWcVZJBHIM"
+    },
+    {
+      "album": {
         "name": "Heart Out",
         "url": "https://open.spotify.com/album/4Hy9cLV06yCCttpjFtClv8"
       },
@@ -2461,7 +2515,25 @@
     },
     {
       "album": {
-        "name": "If the Answer Isn't Love",
+        "name": "Ice Age",
+        "url": "https://open.spotify.com/album/1cNBJO2Qx0fLV2q5BsZbae"
+      },
+      "artists": [
+        {
+          "name": "Maika Loubt\u00e9",
+          "url": "https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241832,
+      "name": "Ice Age",
+      "url": "https://open.spotify.com/track/5scjv3pREcgPWjBSeQYPLw"
+    },
+    {
+      "album": {
+        "name": "If The Answer Isn't Love",
         "url": "https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3"
       },
       "artists": [
@@ -2474,7 +2546,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171800,
-      "name": "If the Answer Isn't Love",
+      "name": "If The Answer Isn't Love",
       "url": "https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA"
     },
     {
@@ -3009,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "Love Is Money?",
+        "url": "https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4"
+      },
+      "artists": [
+        {
+          "name": "ODD Foot Works",
+          "url": "https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199230,
+      "name": "Love Is Money?",
+      "url": "https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md"
+    },
+    {
+      "album": {
         "name": "ep2",
         "url": "https://open.spotify.com/album/4JFAmcIyNGWvwL9IPJmd0Q"
       },
@@ -3150,6 +3240,24 @@
       "duration_ms": 185400,
       "name": "MOONRAKER",
       "url": "https://open.spotify.com/track/11Ah6sl7XKIuHgPI5ZoO2c"
+    },
+    {
+      "album": {
+        "name": "Heavenly Heavenly",
+        "url": "https://open.spotify.com/album/219OTmvtVH4PzBiDWYLGp0"
+      },
+      "artists": [
+        {
+          "name": "polly",
+          "url": "https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "MORNINGRISE",
+      "url": "https://open.spotify.com/track/3ZmuvMWz1of98dbuKkjSR0"
     },
     {
       "album": {
@@ -3453,6 +3561,24 @@
     },
     {
       "album": {
+        "name": "No Direction Home",
+        "url": "https://open.spotify.com/album/5e9fkxJcZgby7uhDtX4BK8"
+      },
+      "artists": [
+        {
+          "name": "Pablo Haiku",
+          "url": "https://open.spotify.com/artist/6bjUYczHixvynXydjXfDMt"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "No Direction Home",
+      "url": "https://open.spotify.com/track/26R28QaYJGJ20mfxi0UXCx"
+    },
+    {
+      "album": {
         "name": "non zero sum game",
         "url": "https://open.spotify.com/album/0LBC4LqdAwyPUNdBZiuKjj"
       },
@@ -3720,7 +3846,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 221040,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z"
@@ -3964,6 +4090,24 @@
       "duration_ms": 141773,
       "name": "Rondo",
       "url": "https://open.spotify.com/track/4El6KySj1S0mkEc0FA5lZC"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3t7CqRlWGw1hsDXZ5yKUkZ"
+      },
+      "artists": [
+        {
+          "name": "Panorama Panama Town",
+          "url": "https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/47D4W2Heqb7XHKSdiuI0dZ"
     },
     {
       "album": {
@@ -4270,7 +4414,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 191428,
       "name": "Siesta",
       "url": "https://open.spotify.com/track/74J0ffff6Hp3fYCkp3ceKW"
@@ -6011,6 +6155,24 @@
     },
     {
       "album": {
+        "name": "\u308f\u304b\u3089\u306a\u3044\u3088\u306a",
+        "url": "https://open.spotify.com/album/36zXcsDPeCVntMrnxAyb06"
+      },
+      "artists": [
+        {
+          "name": "Hwyl",
+          "url": "https://open.spotify.com/artist/6bYzlsbs269Xa3z6L5OfjC"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183142,
+      "name": "\u308f\u304b\u3089\u306a\u3044\u3088\u306a",
+      "url": "https://open.spotify.com/track/7Ity0z6dLFuP42PnkmkYgu"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
         "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
       },
@@ -6026,6 +6188,24 @@
       "duration_ms": 325898,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
       "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "album": {
+        "name": "Mix Wave",
+        "url": "https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227291,
+      "name": "\u30b4\u30fc\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb"
     },
     {
       "album": {
@@ -6934,7 +7114,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 139440,
       "name": "\u5922\u5360",
       "url": "https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X"
@@ -7590,7 +7770,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 202101,
       "name": "\u6d99",
       "url": "https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot"
@@ -7684,7 +7864,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 207763,
       "name": "\u77e5\u3063\u3066\u308b",
       "url": "https://open.spotify.com/track/68MEVpTc9mRUJGydpXp8KZ"
@@ -7706,7 +7886,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 217331,
       "name": "\u7948\u308a",
       "url": "https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty"

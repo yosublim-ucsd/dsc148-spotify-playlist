@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 227140,
+  "num_followers": 227159,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDQ5MmY1ZDk2MmY2YzMxZTYwOTJmM2IwMDVhMzUzZWM5ZGY1Yzg0",
+  "snapshot_id": "MCxhNGI5N2U5MjA4NDZmMDVhNWI3MTBhNWNjODY2N2NkZjlkYTY0NmFi",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Mundu\u00ea",
+        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 211059,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 224376,
       "name": "Dependente Do Amor",
       "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Mundu\u00ea",
-        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -687,18 +687,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Quatro Grandes Do Samba",
-        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
       },
       "artists": [
         {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 144240,
-      "name": "Chove e N\u00e3o Molha",
-      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -715,6 +719,22 @@
       "duration_ms": 171293,
       "name": "Quando o povo entra na dan\u00e7a",
       "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+      },
+      "artists": [
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Chove e N\u00e3o Molha",
+      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -747,26 +767,6 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-01-25 16:05:09",

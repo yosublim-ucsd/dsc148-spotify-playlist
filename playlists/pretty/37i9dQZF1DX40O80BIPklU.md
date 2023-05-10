@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Vico C en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,398 likes - 93 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,492 likes - 93 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 19 | [Mi Testamento](https://open.spotify.com/track/7KaN9SAj75jQeiMxI39aUi) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [33](https://open.spotify.com/album/38H1ajetO9g4ROXNUEIsCx) | 3:11 |
 | 20 | [TIKI](https://open.spotify.com/track/4kf612vXDfbM5AHrFIVUN9) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [NEO](https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i) | 1:53 |
 | 21 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
-| 22 | [Nevada](https://open.spotify.com/track/0bHuCyPRZc5Pfx1Dm982ws) | [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [Nevada](https://open.spotify.com/album/4BCGrlLcmFBeY0JN7nTx7E) | 2:06 |
+| 22 | [NEVADA](https://open.spotify.com/track/0bHuCyPRZc5Pfx1Dm982ws) | [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [NEVADA](https://open.spotify.com/album/4BCGrlLcmFBeY0JN7nTx7E) | 2:06 |
 | 23 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 |
 | 24 | [Mitolo G's](https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [Bizor](https://open.spotify.com/artist/7F6fxMv0tz2Clj8H02Y2k7) | [Mitolo G's](https://open.spotify.com/album/4f0hu5GxLyap7KPUld6rX1) | 3:16 |
 | 25 | [SIN UN PLAN](https://open.spotify.com/track/0w3VooVHnwqRSCVXc9L3Bd) | [Las Ninyas del Corro](https://open.spotify.com/artist/3Iv34TRi6TpQqxSctG7PKh), [Esse Delgado](https://open.spotify.com/artist/0EbyCaJGcegI7KdTTWKuW0) | [SIN UN PLAN](https://open.spotify.com/album/5jJrIgfr6jyhOsIsNU16MU) | 3:21 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40O80BIPklU.md) - [plain]
 | 92 | [Uzumaki](https://open.spotify.com/track/5eO9DgpkoSm2k9eOkI14Xg) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Gudspella](https://open.spotify.com/artist/2xjF5imhTEr6WDS0EAqMtw) | [Uzumaki](https://open.spotify.com/album/7nJWw7EXntcF4EjsWsFMJJ) | 4:55 |
 | 93 | [Envidia](https://open.spotify.com/track/4NTOD6p2LLDYdeHzaxUYxk) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Envidia](https://open.spotify.com/album/0Vr2EIU3Dw3DAQKZTJ0Wqk) | 3:00 |
 
-Snapshot ID: `MCwxY2YwNzNiMGViOGE1Y2U0MTU1MzczNTM0YmNjM2MzYzVhYTJmNTY1`
+Snapshot ID: `MCxhNjMzMzVlZDEwMzYxMzk0MTVhOTY1NmZiNzM5YjYyNjllOGQ3Mzk3`

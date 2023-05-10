@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1119985,
+  "num_followers": 1120001,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODQ1ZTM2NGVlYTZjZTdkZDI4Yjc2NDg3ZjUzNmJhZjlkYjJmNGQ4",
+  "snapshot_id": "MCxkODYxYzJiZDZiY2M5NDRhMjg2YzhlN2I2YzUwZWM0MzU5NWI2NDNh",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Children Of The Internet (Remixes)",
         "url": "https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww"
       },
@@ -627,18 +607,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
       },
       "artists": [
         {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -659,6 +643,22 @@
       "duration_ms": 173181,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/0t89zjm5vxQCuW4jkOfT93"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Green Street (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
+      },
+      "artists": [
+        {
+          "name": "Jazz Spastiks",
+          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+        },
+        {
+          "name": "People Without Shoes",
+          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
+        }
+      ],
+      "duration_ms": 160508,
+      "name": "Super Fly Funk",
+      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Jazzmatazz Volume II: The New Reality",
         "url": "https://open.spotify.com/album/5xfPV8byJVCmeqe1LeVFqz"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 237733,
       "name": "Feel The Music",
       "url": "https://open.spotify.com/track/77QvKUhVeyPVVHGFRgAmQd"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Green Street (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5gGkZtYnMyoAvNUz88V47g"
-      },
-      "artists": [
-        {
-          "name": "Jazz Spastiks",
-          "url": "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
-        },
-        {
-          "name": "People Without Shoes",
-          "url": "https://open.spotify.com/artist/2Zef0Fnh4FEJ1OxrtnscxL"
-        }
-      ],
-      "duration_ms": 160508,
-      "name": "Super Fly Funk",
-      "url": "https://open.spotify.com/track/1gEdLgfWA7xkJ9TYaUJHmi"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "You Don\u2019t Know",
         "url": "https://open.spotify.com/album/4NAKerTspkqyqopTNwT82Q"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4kYA3PqnQ9nKhMtREJqW0i"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/7oedV61tJa8X3ZPE4egKpy"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Call You?",
-        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
-      },
-      "artists": [
-        {
-          "name": "ArmstrongWW",
-          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
-        }
-      ],
-      "duration_ms": 205865,
-      "name": "Call You?",
-      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "What Am I to Do?",
         "url": "https://open.spotify.com/album/2e4B1dudmjNKztr1qBEA7N"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 244733,
       "name": "What Am I to Do?",
       "url": "https://open.spotify.com/track/2HtpC9dJ6jOLa4OMN0nnfj"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Call You?",
+        "url": "https://open.spotify.com/album/1lvz5NIWxdePTu1h8vhLxC"
+      },
+      "artists": [
+        {
+          "name": "ArmstrongWW",
+          "url": "https://open.spotify.com/artist/6mlFpVUy70axjkS4iOZlPn"
+        }
+      ],
+      "duration_ms": 205865,
+      "name": "Call You?",
+      "url": "https://open.spotify.com/track/6FyDzOGcMClZZylQ44JQWl"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Escape Music",
-        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
-      },
-      "artists": [
-        {
-          "name": "The Mouse Outfit",
-          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
-        },
-        {
-          "name": "Sparkz",
-          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
-        }
-      ],
-      "duration_ms": 223772,
-      "name": "Got Me Thinkin' (feat. Sparkz)",
-      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1463,6 +1443,26 @@
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Escape Music",
+        "url": "https://open.spotify.com/album/2ZieYINaA8usZhjfwpFnlH"
+      },
+      "artists": [
+        {
+          "name": "The Mouse Outfit",
+          "url": "https://open.spotify.com/artist/3fZgTHf9UHEA1oLYLEhnk2"
+        },
+        {
+          "name": "Sparkz",
+          "url": "https://open.spotify.com/artist/3wKN85pgXHwvP8mTt7dVJf"
+        }
+      ],
+      "duration_ms": 223772,
+      "name": "Got Me Thinkin' (feat. Sparkz)",
+      "url": "https://open.spotify.com/track/47euMdzPz6bdj7EKPy369S"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 189082,
+      "name": "Gucci Tried to Tell Me",
+      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Practice Makes Perfect",
         "url": "https://open.spotify.com/album/7lO7SXE6Ijleoo4eOkLPvO"
       },
@@ -1707,22 +1723,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Elephant in the Room",
-        "url": "https://open.spotify.com/album/5u9fxl08KewKRV27T3nqGN"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/1ufp82dH3kwlqiPmeKNBVz"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Good Vibrations",
         "url": "https://open.spotify.com/album/6o4hzbJINIvqqDDZzfVbit"
       },
@@ -1735,22 +1735,6 @@
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
-      },
-      "artists": [
-        {
-          "name": "Zeballos",
-          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
-        }
-      ],
-      "duration_ms": 121974,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1779,6 +1763,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/0C8tHcg6JhCIy46FUgjyGe"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "duration_ms": 121974,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/314FEi04GJLNc89wCZVanH"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Can't Let You Go (feat. Nick Grant)",
         "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
       },
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Scottie Pippen",
+        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "duration_ms": 233154,
+      "name": "Scottie Pippen",
+      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1811,6 +1831,26 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Uhuru",
+        "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
+      },
+      "artists": [
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "C.Tappin",
+          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1891,42 +1931,18 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Uhuru",
-        "url": "https://open.spotify.com/album/7H88l7XMg9gALr0Ug4ZbGp"
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
       },
       "artists": [
         {
-          "name": "Summers Sons",
-          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "C.Tappin",
-          "url": "https://open.spotify.com/artist/09cx9hVWTix2e9uCcBXeds"
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
         }
       ],
-      "duration_ms": 250360,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/11rUmp24dnPKg5OuQUeyJb"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Scottie Pippen",
-        "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "serpentwithfeet",
-          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
-        }
-      ],
-      "duration_ms": 233154,
-      "name": "Scottie Pippen",
-      "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1955,22 +1971,6 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2023-05-04 22:00:00",

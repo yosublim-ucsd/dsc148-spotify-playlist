@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-262 songs - 13 hr 12 min
+263 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [On & On \- Time To Talk Remix](https://open.spotify.com/track/6SxnErPRbyesOjoTSbINTt) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Time To Talk](https://open.spotify.com/artist/1HbXE6X9zZ7qZTiZDgEpvh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On Remixes](https://open.spotify.com/album/6RUi11xJz970QRSpPRsIEy) | 3:00 | 2022-05-12 | 2023-04-28 |
 | [One more try](https://open.spotify.com/track/3SrXtpCZdFg17W1KBYRXQJ) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [One more try](https://open.spotify.com/album/5za49Q0yHp1JBrmcvM8l7C) | 3:17 | 2022-06-14 | 2023-04-28 |
 | [One Taste](https://open.spotify.com/track/0HwgZzRDcSC6dvDz7Eepsy) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [URBANO](https://open.spotify.com/artist/5NcdmGRGHbjCHY5yU4tzPE) | [One Taste](https://open.spotify.com/album/7z5mJozS5AxvzQqcXTvvtR) | 3:12 | 2023-03-31 |  |
+| [ONI](https://open.spotify.com/track/23KhGOR08Q40MyuaP9qAtf) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [ONI](https://open.spotify.com/album/5pXmKXrvvPsRULRXDSt7Cr) | 4:00 | 2023-05-09 |  |
 | [Online](https://open.spotify.com/track/2PgivAhiFtODlcuSrC9QO4) | [MANSHN](https://open.spotify.com/artist/1vskw9iPgYi9HvXcK2rNLG) | [Online](https://open.spotify.com/album/6PRAD7CISUhkoXegWG9mCD) | 3:04 | 2022-11-16 | 2023-04-28 |
 | [Out Of Here](https://open.spotify.com/track/1RpmCnc7AjpDYqacXYRLZY) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Out Of Here](https://open.spotify.com/album/6WL6RJfNBi89mntTBIvKua) | 2:14 | 2022-08-30 | 2023-04-28 |
 | [Overcome](https://open.spotify.com/track/0QTMzJWVw3RAEdgsdWbcTI) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Overcome](https://open.spotify.com/album/722r13TFSAi1uVzLeFcB9z) | 2:49 | 2023-04-19 |  |

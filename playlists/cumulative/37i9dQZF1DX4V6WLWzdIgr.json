@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "NEMEN",
+        "url": "https://open.spotify.com/album/7rKRjcEnQ3y8Ji1OK475tn"
+      },
+      "artists": [
+        {
+          "name": "Sasya Arkhisna",
+          "url": "https://open.spotify.com/artist/3k3ezqE9kuA9gkrojBhxeS"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "NEMEN",
+      "url": "https://open.spotify.com/track/0TuttExCt1JaKvrX2DvIXU"
+    },
+    {
+      "album": {
         "name": "Ojo Dibandingke",
         "url": "https://open.spotify.com/album/06cjzsgFqj0CCDt2LtTd0W"
       },

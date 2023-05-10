@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,813 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,017 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 66 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
 | 67 | [Love Is Like a Butterfly](https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 2:20 |
 | 68 | [You're The Reason Our Kids Are Ugly](https://open.spotify.com/track/76V1Tevc5kEPc861obdgSI) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl), [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Honky Tonk Girl: The Loretta Lynn Collection](https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb) | 2:34 |
-| 69 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
-| 70 | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [Winners](https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f) | 2:31 |
+| 69 | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [Winners](https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f) | 2:31 |
+| 70 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 71 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
 | 72 | [I'm Not Lisa](https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [I'm Jessi Colter](https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa) | 3:23 |
 | 73 | [San Antonio Stroll](https://open.spotify.com/track/2qXR5YWhvtYIoewHjvflss) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker's Greatest Hits](https://open.spotify.com/album/5T6WDAskZxpghDeEdHUtXn) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Till the End](https://open.spotify.com/track/7pwA0yTkSFYDiiplqmy8KE) | [Vern Gosdin](https://open.spotify.com/artist/4kNRotUiNCcfZhnpJJTDtl) | [Till The End](https://open.spotify.com/album/1D1ddPbzhq1L4w5AJler8F) | 2:46 |
 | 100 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:12 |
 
-Snapshot ID: `MCw1YjI1ZGQzOGVmYTFjZmIzNWEwNDljYzQwYjQzNjc1M2NhOTFjZDAx`
+Snapshot ID: `MCxiNzE2YzdiNjhkZGU1MzcxZDg1NDMwNmRhMjIxMTk2ZTMzZWJhM2M5`

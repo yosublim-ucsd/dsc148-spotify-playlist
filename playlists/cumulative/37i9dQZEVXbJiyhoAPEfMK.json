@@ -3460,7 +3460,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 143257,
       "name": "BAYERN FREESTYLE",
       "url": "https://open.spotify.com/track/5IzQvFuudkPEGIVgZMhpB9"
@@ -5502,7 +5502,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8"
@@ -5808,7 +5808,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 243711,
       "name": "CARRERA",
       "url": "https://open.spotify.com/track/3cfz2Kt5k1mZ2GLJDY45l2"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -11244,7 +11244,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 114182,
       "name": "Freestyle LVL UP 1",
       "url": "https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY"
@@ -13784,7 +13784,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 163603,
       "name": "How Do I Say Goodbye",
       "url": "https://open.spotify.com/track/1aOl53hkZGHkl2Snhr7opL"
@@ -15551,6 +15551,24 @@
     },
     {
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/4iLm0b2BMkkeVLhcMgLij0"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265733,
+      "name": "Jena Mbreter 2",
+      "url": "https://open.spotify.com/track/53EtdDJKwGu91FVLGXOKQV"
+    },
+    {
+      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -16678,7 +16696,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -20562,7 +20580,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
@@ -26284,7 +26302,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm"
@@ -27192,7 +27210,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 189800,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n"
@@ -27570,7 +27588,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -29544,6 +29562,28 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "album": {
+        "name": "TABU.",
+        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135302,
+      "name": "TABU.",
+      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
     },
     {
       "album": {
@@ -33284,7 +33324,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 131999,
       "name": "Wildberry Lillet",
       "url": "https://open.spotify.com/track/6LBmaJYwbLHfQwIreMCLlw"

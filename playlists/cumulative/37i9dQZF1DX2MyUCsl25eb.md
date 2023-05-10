@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-599 songs - 1 day 10 hr 49 min
+600 songs - 1 day 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 | 2022-03-18 | 2022-04-14 |
 | [Bed I Made](https://open.spotify.com/track/0YL1bs7CYi7mhG0FuctgcO) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [APART](https://open.spotify.com/album/3qBXZkDcgHfptEbAw840wL) | 3:00 | 2021-11-12 | 2022-07-29 |
 | [Begin Again](https://open.spotify.com/track/0KHNcNfG3vYvW67f664TtO) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Begin Again](https://open.spotify.com/album/0UJPu5Vup3p1Bl5rJ83Ae3) | 3:24 | 2022-04-01 | 2022-04-21 |
-| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-06 |  |
+| [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-01-13 |  |
+| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-06 | 2023-05-10 |
 | [Best Day Of My Life](https://open.spotify.com/track/1MtqOE9Uy6SZjPnBi1X7pQ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 2:26 | 2022-04-01 | 2023-01-28 |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-01 | 2022-11-24 |
 | [Better Angels](https://open.spotify.com/track/4ea8UWKf6mWySfzddxfKfE) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:25 | 2022-09-16 | 2023-04-29 |

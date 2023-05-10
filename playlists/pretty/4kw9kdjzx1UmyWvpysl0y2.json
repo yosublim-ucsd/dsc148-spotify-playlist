@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127105,
+  "num_followers": 127108,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE4MSxhZWU3MmRmZDU3Yjg3ZGQ2NDg3NmEyZjYyMzA2YTE1ODA3YTVkZmM4",
+  "snapshot_id": "NDE4Myw0MDNhYTFjMjBkMGEyMzA3MGVjZTc3ZjU2NTllZDUxZTk1MTE1NDIz",
   "tracks": [
+    {
+      "added_at": "2023-05-09 14:25:43",
+      "album": {
+        "name": "SCREAM",
+        "url": "https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "Typhon",
+          "url": "https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "SCREAM",
+      "url": "https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc"
+    },
     {
       "added_at": "2023-05-08 16:13:12",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Abo El Anwar & Husayn",
+  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: El Rass",
   "name": "Arab Hip-Hop",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 147817,
       "name": "23",
       "url": "https://open.spotify.com/track/1V49aRvUw5mTcXkfacnauF"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 158000,
       "name": "Ala El Hadi",
       "url": "https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 170270,
       "name": "Ballade",
       "url": "https://open.spotify.com/track/2if1mh9z5mNLYttJCctar2"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 153802,
       "name": "BASHA",
       "url": "https://open.spotify.com/track/1fgU43Ln9aByhg4kZpTJnX"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 147571,
       "name": "Buy or Bye",
       "url": "https://open.spotify.com/track/5YFJg5agjZv4keaAcjJ08z"
@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "EL-NEGM EL-SAHELY",
+        "url": "https://open.spotify.com/album/5fH5chAIaWvNR7rs1ExVyK"
+      },
+      "artists": [
+        {
+          "name": "Mousv",
+          "url": "https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133270,
+      "name": "EL-NEGM EL-SAHELY",
+      "url": "https://open.spotify.com/track/6kjHh3y3KItPG6fXLhxHW7"
+    },
+    {
+      "album": {
         "name": "ELGHIRA",
         "url": "https://open.spotify.com/album/22yFEfoVOJOtcvD0BHT3bm"
       },
@@ -1333,6 +1351,24 @@
     },
     {
       "album": {
+        "name": "Fi Rohak",
+        "url": "https://open.spotify.com/album/761lWXYS5YD8crXQzOWBvU"
+      },
+      "artists": [
+        {
+          "name": "Flenn",
+          "url": "https://open.spotify.com/artist/66OYzK2q18j4EVdMqRtf6L"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327428,
+      "name": "Fi Rohak",
+      "url": "https://open.spotify.com/track/6unuCQKefI6ZYBWcsZstma"
+    },
+    {
+      "album": {
         "name": "150",
         "url": "https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1"
       },
@@ -1384,7 +1420,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 195419,
       "name": "FOG",
       "url": "https://open.spotify.com/track/0TaJ7FYnHrlGFK6DR1FxFX"
@@ -1504,6 +1540,24 @@
       "duration_ms": 192632,
       "name": "Gazra",
       "url": "https://open.spotify.com/track/1MfMQGqZwuYRMuiKHISLLB"
+    },
+    {
+      "album": {
+        "name": "Gezira",
+        "url": "https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk"
+      },
+      "artists": [
+        {
+          "name": "Muhab",
+          "url": "https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193743,
+      "name": "Gezira",
+      "url": "https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh"
     },
     {
       "album": {
@@ -1856,7 +1910,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 252765,
       "name": "HVD",
       "url": "https://open.spotify.com/track/0HDgrspmVpjelFmCJ8OOoS"
@@ -1976,6 +2030,64 @@
       "duration_ms": 150013,
       "name": "Jack",
       "url": "https://open.spotify.com/track/4uWUAz8oZPGjj3Ly2YVx6q"
+    },
+    {
+      "album": {
+        "name": "Jordan Cypher (feat. Emsallam, The Synaptik, Shouly, El Faouri, Mahasneh, SalehMusic, Almukhtar, Satti, El Far3i & Mazz)",
+        "url": "https://open.spotify.com/album/3s3SJTvBm4bFepOJCC1NvY"
+      },
+      "artists": [
+        {
+          "name": "Big Hass",
+          "url": "https://open.spotify.com/artist/2ql58UK3Kq5d32topEu6Tv"
+        },
+        {
+          "name": "Emsallam",
+          "url": "https://open.spotify.com/artist/704S90MD8gMqUNd9LsXvd1"
+        },
+        {
+          "name": "The Synaptik",
+          "url": "https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS"
+        },
+        {
+          "name": "Shouly",
+          "url": "https://open.spotify.com/artist/5PV019IYHyagZwyJ6TJkvA"
+        },
+        {
+          "name": "El Faouri",
+          "url": "https://open.spotify.com/artist/03RYYDkFqGkLzO41RTSjRr"
+        },
+        {
+          "name": "Mahasneh",
+          "url": "https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX"
+        },
+        {
+          "name": "SalehMusic",
+          "url": "https://open.spotify.com/artist/6QLaJvoqcWSWuDdCRipshQ"
+        },
+        {
+          "name": "Almukhtar",
+          "url": "https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8"
+        },
+        {
+          "name": "Satti",
+          "url": "https://open.spotify.com/artist/3iWToV4JQqiNlJKik7VIVg"
+        },
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        },
+        {
+          "name": "Mazz",
+          "url": "https://open.spotify.com/artist/1CW8uyEFev7Wb5scfLvwYD"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360863,
+      "name": "Jordan Cypher (feat. Emsallam, The Synaptik, Shouly, El Faouri, Mahasneh, SalehMusic, Almukhtar, Satti, El Far3i & Mazz)",
+      "url": "https://open.spotify.com/track/35hKQKWhi3H4c0lsNmGzvW"
     },
     {
       "album": {
@@ -2137,6 +2249,28 @@
     },
     {
       "album": {
+        "name": "Khalisni",
+        "url": "https://open.spotify.com/album/3gYH2ky5iZ1SaKNveeP378"
+      },
+      "artists": [
+        {
+          "name": "Saud G",
+          "url": "https://open.spotify.com/artist/76VXSNBSY5pbsYgMe2dTYZ"
+        },
+        {
+          "name": "Ahmedoo Biggie",
+          "url": "https://open.spotify.com/artist/4srnmX4lNfxOKYNA8gdRMy"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189295,
+      "name": "Khalisni",
+      "url": "https://open.spotify.com/track/0T1nrCDa8G4pzzW92BgGIp"
+    },
+    {
+      "album": {
         "name": "Khataf",
         "url": "https://open.spotify.com/album/291zy8iPVZVVUFIu4BTmwQ"
       },
@@ -2258,7 +2392,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 170110,
       "name": "Langa (feat. Khayyat)",
       "url": "https://open.spotify.com/track/4VvgrTj4y6BIUYhh3J1Ab5"
@@ -2475,6 +2609,46 @@
     },
     {
       "album": {
+        "name": "Markaz El Madina",
+        "url": "https://open.spotify.com/album/3hkPcVtkxN2d8PCxx1T4Da"
+      },
+      "artists": [
+        {
+          "name": "Tribe of Monsters",
+          "url": "https://open.spotify.com/artist/6ZBkSEQim7hD4OpsvDuCh3"
+        },
+        {
+          "name": "El Far3i",
+          "url": "https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241098,
+      "name": "Markaz El Madina",
+      "url": "https://open.spotify.com/track/6VEcFlnTsnRc8ZrYKBQc88"
+    },
+    {
+      "album": {
+        "name": "Masna3 (\u0645\u0635\u0646\u0639)",
+        "url": "https://open.spotify.com/album/1jF8SmlOMQR93ePTpMbFi3"
+      },
+      "artists": [
+        {
+          "name": "Sanfara",
+          "url": "https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183451,
+      "name": "Masna3 - \u0645\u0635\u0646\u0639",
+      "url": "https://open.spotify.com/track/6xDb46g5ETNyA853muS6M3"
+    },
+    {
+      "album": {
         "name": "MATBOSESH 3AL SORA KTEER",
         "url": "https://open.spotify.com/album/6KEVEDUAhskxwMkMOT53PI"
       },
@@ -2577,6 +2751,28 @@
     },
     {
       "album": {
+        "name": "Karta",
+        "url": "https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        },
+        {
+          "name": "Wingii",
+          "url": "https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127754,
+      "name": "MI AMORI",
+      "url": "https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff"
+    },
+    {
+      "album": {
         "name": "Mia Mia",
         "url": "https://open.spotify.com/album/5r12pt8Lw8cf65c3aYOOT7"
       },
@@ -2606,7 +2802,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 119250,
       "name": "Mikhtfee",
       "url": "https://open.spotify.com/track/0nCNHWXXAhqL7hoi9ztGTs"
@@ -2765,6 +2961,28 @@
     },
     {
       "album": {
+        "name": "Awdet El Ebn El Dal",
+        "url": "https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb"
+      },
+      "artists": [
+        {
+          "name": "Karim Osama",
+          "url": "https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168005,
+      "name": "Nazlet Seman",
+      "url": "https://open.spotify.com/track/3kvFynFheCVVecaJLKketl"
+    },
+    {
+      "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV"
       },
@@ -2896,7 +3114,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 173617,
       "name": "POWER - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0K7JXyHrinnADZ7wSPsZGu"
@@ -3378,7 +3596,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 172584,
       "name": "SoloSquad | \u0633\u0648\u0644\u0648 \u0633\u0643\u0648\u0627\u062f",
       "url": "https://open.spotify.com/track/1lQp2Q1Inqum4mlc9aPBpc"
@@ -3734,6 +3952,28 @@
       "duration_ms": 312857,
       "name": "TOTLOB AMA TOTLOB",
       "url": "https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS"
+    },
+    {
+      "album": {
+        "name": "Toyota",
+        "url": "https://open.spotify.com/album/1E3RzUHEM0xLPqIxNAEMRl"
+      },
+      "artists": [
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        },
+        {
+          "name": "Anas",
+          "url": "https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Toyota",
+      "url": "https://open.spotify.com/track/2GtvTSPzrWKE4R2WFZpKYY"
     },
     {
       "album": {
@@ -4868,6 +5108,42 @@
       "duration_ms": 164863,
       "name": "\u0646\u0648\u0631 \u0648 \u0638\u0644\u0645\u0629",
       "url": "https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu"
+    },
+    {
+      "album": {
+        "name": "\u0647\u064f\u062f\u0647\u064f\u062f",
+        "url": "https://open.spotify.com/album/66OzLomoA361qfMwJG6c1Q"
+      },
+      "artists": [
+        {
+          "name": "El Rass",
+          "url": "https://open.spotify.com/artist/70JnprmV5bM5nyZ8YeZbDc"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156253,
+      "name": "\u0647\u064f\u062f\u0647\u064f\u062f",
+      "url": "https://open.spotify.com/track/0MiD1XbWUX72ZqqExysDIT"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0644\u0627 \u0639\u0644\u0649 \u0628\u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/6VrheuHCALL2N5QtBh2g2c"
+      },
+      "artists": [
+        {
+          "name": "Al9ine",
+          "url": "https://open.spotify.com/artist/0La66xyJsTyYMmXvh4ZW2o"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "\u0648\u0644\u0627 \u0639\u0644\u0649 \u0628\u0627\u0644\u064a",
+      "url": "https://open.spotify.com/track/4fFlBKt5bsLqEDBHOUtjwe"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,993 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,998 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 11 | [Mi Casa](https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [Mi Casa](https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt) | 2:47 |
 | 12 | [Sway \(Mucho Mambo\)](https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Sway \(Mucho Mambo\)](https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr) | 2:39 |
 | 13 | [Talamanca \- Vintage Culture Remix](https://open.spotify.com/track/1NnRhSfvmyJNSxtR9rGxlX) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talamanca \(Vintage Culture Remix\)](https://open.spotify.com/album/2iu8M4FmwaiMoaMw8TNWpd) | 3:10 |
-| 14 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 |
-| 15 | [Witch Doctor](https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Witch Doctor](https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4) | 3:06 |
+| 14 | [Witch Doctor](https://open.spotify.com/track/4lWGhzUW3dTPDMX9EII1Fc) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Witch Doctor](https://open.spotify.com/album/7etpucnkFPkpi89M5CCdu4) | 3:06 |
+| 15 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 |
 | 16 | [Tuyo](https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4) | [Jack Villa](https://open.spotify.com/artist/0l7O0oybr784STfyacus4o), [George Z](https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo) | [Tuyo](https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W) | 3:10 |
 | 17 | [Alma Roja \- DJ Chus Remix](https://open.spotify.com/track/0MlIalMAtTaIhOjmSFmCgW) | [Roger Sanchez](https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ), [Oba Frank Lords](https://open.spotify.com/artist/5JZJF4dsiH01QVSoJpReDM), [DJ Chus](https://open.spotify.com/artist/7kxOVclB0zQamtBR0syCrg) | [Alma Roja \(DJ CHUS Remix\)](https://open.spotify.com/album/5wJgKF4QlNNcsLX0xsxS8w) | 3:04 |
 | 18 | [Mamacita](https://open.spotify.com/track/0JhRhQYoZKUG3WxKiLpt2k) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Yellow Is The New White](https://open.spotify.com/artist/5GbkPjfZzysglxRE01dT9u) | [Mamacita](https://open.spotify.com/album/4q7suqxQ6SrQovyUHpDqfc) | 2:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 34 | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/track/1hllxtk5yhDY9PJF42iYGn) | [Michael Mendoza](https://open.spotify.com/artist/6BIhlaTDQjE12D2xHCxTZ2), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Remontada \(feat\. Totó La Momposina\)](https://open.spotify.com/album/6BFacrgHy3c6n1JJYDT0UH) | 2:52 |
 | 35 | [Di Nobo](https://open.spotify.com/track/7dWz63Qt1CFhg8nnlCMwk8) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Di Nobo / Shonuff](https://open.spotify.com/album/7kmo0jxMyOnX35nBMaEuzB) | 3:15 |
 | 36 | [Quemá](https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Quemá](https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB) | 2:29 |
-| 37 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 |
-| 38 | [Me Duele el Alma](https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi) | [Jesse Garcia](https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn) | [Me Duele el Alma](https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy) | 5:03 |
+| 37 | [Me Duele el Alma](https://open.spotify.com/track/3bfX8IHLcbE10AYhTMnMNi) | [Jesse Garcia](https://open.spotify.com/artist/6dTCOIQmUy1FlxNhITQhLn) | [Me Duele el Alma](https://open.spotify.com/album/7wvDYeqSsbcGI0mjE63Udy) | 5:03 |
+| 38 | [Ecua](https://open.spotify.com/track/6GzMDqmK5a0spb1CnDrngh) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ecua](https://open.spotify.com/album/4qwSyo9kMWuV92U9nXWq0o) | 3:48 |
 | 39 | [Umoja](https://open.spotify.com/track/0FfzWykvVPkB3f8ZcCoWVH) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Umoja](https://open.spotify.com/album/6NHWlnkX6Z8vfpP4kvrbOK) | 3:08 |
 | 40 | [Cuban Riddim](https://open.spotify.com/track/6alU7gZpSPKGy1VD2gCnPb) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Cuban Riddim](https://open.spotify.com/album/5Ey7YhSN7in831mPWfA1C1) | 2:47 |
 | 41 | [Safari](https://open.spotify.com/track/3GK8ZbB59raLSX21pp05ST) | [Ferra Black](https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD) | [Safari](https://open.spotify.com/album/0SdKouj4f0TqaDOOiBhSeA) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 49 | [Why Can't We Live Together \- Gregor Salto & Ibitaly Edit](https://open.spotify.com/track/261BVXzaPgsLFTSPQ3NmiP) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ibitaly](https://open.spotify.com/artist/2w2qxed232KjsPPcr2FMlb) | [Why Can't We Live Together \(Gregor Salto & Ibitaly Remix\)](https://open.spotify.com/album/25d1r7ct9OcRhTgfetw7AB) | 3:30 |
 | 50 | [Cumbia Tropical](https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW) | [Ilary Montanari](https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA) | [Cumbia Tropical](https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn) | 6:21 |
 
-Snapshot ID: `MCw2ZWEzMzVhMDZlZmVmMjBlMjYwOGRiN2ExYjg0NWU0MzdmMDRjNDIx`
+Snapshot ID: `MCw3NWE3YTVmZmQzMjRkMWRmZTNiZjg0NzRkYTRhOTRlNzM2ODYwYWZh`

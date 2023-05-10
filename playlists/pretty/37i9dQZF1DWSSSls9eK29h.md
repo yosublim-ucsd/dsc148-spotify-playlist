@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,444 likes - 60 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,537 likes - 60 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 45 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
 | 46 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 47 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
-| 48 | [Greener Grass](https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Voices In The Rain](https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM) | 5:20 |
-| 49 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
+| 48 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
+| 49 | [Greener Grass](https://open.spotify.com/track/3lrOns0djV4xYUh1sSLfbx) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Voices In The Rain](https://open.spotify.com/album/6OJNzlbzjFRHOevcIli9TM) | 5:20 |
 | 50 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
 | 51 | [107 In the Shade](https://open.spotify.com/track/5ioqsF16uhzZXqKLrScHCj) | [Alex Bugnon](https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1) | [107 In The Shade](https://open.spotify.com/album/5r23P7VKbhAr2lt7128bdF) | 5:22 |
 | 52 | [The East from the West](https://open.spotify.com/track/4EBl72N2kmIvGjkCtJwf2O) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [A River In The Desert](https://open.spotify.com/album/52mMRE71ydh5k344gaCmBX) | 5:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
 | 60 | [Personal Touch](https://open.spotify.com/track/0NA50DOtbAqH4LDngxH3Xw) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:55 |
 
-Snapshot ID: `MCwxODQ5ZGRmZTNhNzk3ZTVmYWE3Nzc4YTJjZjQyOTFhMTA4MjRhMTdk`
+Snapshot ID: `MCxkYmNkNzhhMmQ0ZjdjYmI3NjBmYTEzY2IwNWFmMDZkNjVlMjk3NjI3`

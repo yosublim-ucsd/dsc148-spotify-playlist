@@ -1,12 +1,12 @@
 {
   "description": "Smooth joints. Cover: KIRBY",
-  "num_followers": 778338,
+  "num_followers": 778299,
   "original_name": "BUTTER",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjcxMTJmOWU4OGM4MzljODI3M2Q3NTBjNzU5ZTU5NTczNzc5NzEz",
+  "snapshot_id": "MCxhNDg5NjZiMGM3YzRiNzIxN2JkZWI1Y2M0ZjNjODg2NGQ1Zjk4MjY1",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 186432,
-      "name": "raw",
-      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "MANGO (feat. Adi Oasis)",
         "url": "https://open.spotify.com/album/0f3ZSmX6rtHdMIzohJI9P0"
       },
@@ -655,26 +639,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
+        "name": "soft thing",
+        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
       },
       "artists": [
         {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
         }
       ],
-      "duration_ms": 171706,
-      "name": "Sticky (feat. Childish Gambino & KIRBY)",
-      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
+      "duration_ms": 186432,
+      "name": "raw",
+      "url": "https://open.spotify.com/track/5WjTrSEmsfIC1WDwIquuwT"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -743,6 +719,30 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
+      },
+      "artists": [
+        {
+          "name": "Ni'jah",
+          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 171706,
+      "name": "Sticky (feat. Childish Gambino & KIRBY)",
+      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "MOVIN'",
         "url": "https://open.spotify.com/album/5ufrlZ2S0Wv7P1cjTT02Bm"
       },
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Yasuke",
+        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 133520,
+      "name": "Crust",
+      "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 201933,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0pMs1gXODWwGQ1pK3qKVtz"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Yasuke",
-        "url": "https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 133520,
-      "name": "Crust",
-      "url": "https://open.spotify.com/track/6ri6ZQWxqIZgYd2RfsnKNa"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "So Sunshine",
-        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 136007,
-      "name": "So",
-      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Right My Wrongs",
         "url": "https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 140973,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "So Sunshine",
+        "url": "https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 136007,
+      "name": "So",
+      "url": "https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hello Poison",
-        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+        "name": "The Exciting Sounds of Menahan Street Band",
+        "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
       },
       "artists": [
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 166256,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
+      "duration_ms": 67720,
+      "name": "Queens Highway",
+      "url": "https://open.spotify.com/track/1h8idoR6jWpwnKBv6ADnYN"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Hello Poison",
+        "url": "https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS"
+      },
+      "artists": [
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/1de4FXWMEcCQq5F5yGkXdZ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "HONEYSUCKLE NECKBONE",
         "url": "https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 200560,
       "name": "HONEYSUCKLE NECKBONE",
       "url": "https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The Exciting Sounds of Menahan Street Band",
-        "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 67720,
-      "name": "Queens Highway",
-      "url": "https://open.spotify.com/track/1h8idoR6jWpwnKBv6ADnYN"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Mr. Police",
-        "url": "https://open.spotify.com/album/5MGatoheqRcLpPfQgGttck"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 172255,
-      "name": "Mr. Police",
-      "url": "https://open.spotify.com/track/61LOPrbWz3Ymh6bNdCsJAz"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Advantage",
         "url": "https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 205813,
       "name": "Advantage",
       "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Mr. Police",
+        "url": "https://open.spotify.com/album/5MGatoheqRcLpPfQgGttck"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        }
+      ],
+      "duration_ms": 172255,
+      "name": "Mr. Police",
+      "url": "https://open.spotify.com/track/61LOPrbWz3Ymh6bNdCsJAz"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Grey Doubt",
+        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
+      },
+      "artists": [
+        {
+          "name": "The Colours That Rise",
+          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 204005,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Make Me Say It Again, Girl",
         "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
       },
@@ -1667,26 +1687,6 @@
       "duration_ms": 198400,
       "name": "Beh Beh",
       "url": "https://open.spotify.com/track/5863KoQ2dlUnkEJI6LgQie"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Grey Doubt",
-        "url": "https://open.spotify.com/album/3UTSxCYSRe6B9MO2EtHMHW"
-      },
-      "artists": [
-        {
-          "name": "The Colours That Rise",
-          "url": "https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 204005,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/0PWtb8aCf6vVudatSVUSst"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "When Flowers Bloom",
-        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 199770,
-      "name": "Alone In Kenzo",
-      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Gold Plated",
         "url": "https://open.spotify.com/album/7hwUPvNBszLlTXFcYg5TOB"
       },
@@ -1807,6 +1791,26 @@
       "duration_ms": 215648,
       "name": "Gold Plated",
       "url": "https://open.spotify.com/track/5giA96riscHWo0h3Aq3uPz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "SUNRISE (feat. Arlo Parks)",
+        "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        },
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "SUNRISE (feat. Arlo Parks)",
+      "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1847,22 +1851,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "SUNRISE (feat. Arlo Parks)",
-        "url": "https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb"
+        "name": "When Flowers Bloom",
+        "url": "https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG"
       },
       "artists": [
         {
-          "name": "MICHELLE",
-          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
-        },
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
         }
       ],
-      "duration_ms": 176666,
-      "name": "SUNRISE (feat. Arlo Parks)",
-      "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
+      "duration_ms": 199770,
+      "name": "Alone In Kenzo",
+      "url": "https://open.spotify.com/track/6H5DZBYLOJ8pbmYy6JdTfq"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,765 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,867 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [That's All](https://open.spotify.com/track/3itB2xTfBKKuYFMXCNPRuq) | [Lauren Coleman](https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek) | [That's All](https://open.spotify.com/album/2ytd2pxd1DDjiDNbqqJPaY) | 2:13 |
 | 100 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
 
-Snapshot ID: `MCw5YTQ3MjY5NjlkNzUwMDQ1ZjZlMzdlYTNkNjU5ZWUwMTU3YTFmMWY5`
+Snapshot ID: `MCw0YjE0YjhkYjE3MmM2ZDZiYWFmNTM5YzJjMGEzNTU2OGU5OGMzOGRk`

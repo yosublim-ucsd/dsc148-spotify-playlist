@@ -4,11 +4,12 @@
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-63 songs - 4 hr 26 min
+64 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Action \- Revised Version](https://open.spotify.com/track/1PUCeAtLlyLCSeoBkfb9my) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Retro Active](https://open.spotify.com/album/51JMDhly9GKYXgFrOekyIR) | 3:40 | 2022-11-04 |  |
+| [All I Want Is Everything](https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Slang \(Deluxe Edition\)](https://open.spotify.com/album/3LpT9dg2VmGmWd57TNKxl7) | 5:20 | 2023-05-09 |  |
 | [All We Need](https://open.spotify.com/track/2gMEHHQ3aDoHHHT6RebFGr) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 4:46 | 2022-11-04 | 2023-05-04 |
 | [Animal](https://open.spotify.com/track/4qjscZh4jfhkpcQG4ZQfi2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria](https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82) | 4:04 | 2022-11-04 | 2023-03-20 |
 | [Animal](https://open.spotify.com/track/7G1Y5i1Hc4uUm57dqz7pAd) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Animal](https://open.spotify.com/album/1CNvsKCyvEW8X3rlLyx31L) | 4:03 | 2023-03-19 |  |
@@ -28,7 +29,7 @@
 | [Hysteria](https://open.spotify.com/track/3Qmd2CaJzPkqZEh2Tc50Bl) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/1mUwxZgyoD795awXthjCSu) | 5:54 | 2023-05-07 |  |
 | [Hysteria \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2RWd4riqvRVk586L76g9Vq) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 6:05 | 2022-11-04 | 2023-05-08 |
 | [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 | 2022-11-04 |  |
-| [It Could Be You](https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 2:33 | 2023-05-03 |  |
+| [It Could Be You](https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [On Through The Night](https://open.spotify.com/album/7AWItpp4bk6lA1wFtcfWRj) | 2:33 | 2023-05-03 | 2023-05-10 |
 | [Kick](https://open.spotify.com/track/0sVq4exSBXyXP86svk8JBV) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Diamond Star Halos](https://open.spotify.com/album/5arLkguGPIDSGzCT8Cjt6K) | 3:42 | 2023-03-17 |  |
 | [Kick](https://open.spotify.com/track/2l0P9ERrM4S0T0uX9BcX7h) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Kick](https://open.spotify.com/album/5Hckd2gMvqMuVJwrV7lFtl) | 3:42 | 2022-11-04 | 2023-03-18 |
 | [Lady Strange](https://open.spotify.com/track/7dDwYtWBlsCCUMcsU6fe3n) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:38 | 2022-11-04 |  |

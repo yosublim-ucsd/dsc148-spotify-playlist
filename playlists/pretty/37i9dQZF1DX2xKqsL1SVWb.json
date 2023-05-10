@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Silvana Estrada en portada.",
-  "num_followers": 96236,
+  "num_followers": 96245,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDYyMDhjODMyMjAyMjY5NzgyMjY3ZjhjMzE2MDQ4NzY0ODBhYjlk",
+  "snapshot_id": "MCwwN2EzZjFhNGU3YmE0ZjQ1ZDJhN2MyZTY2NTNlZmMxNTM5MWMwNzU0",
   "tracks": [
     {
       "added_at": "2023-05-05 23:03:19",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
+        "name": "Loza",
+        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a Tormenta",
+          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
+        }
+      ],
+      "duration_ms": 267958,
+      "name": "Que Entre el Fr\u00edo",
+      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
         "name": "Af\u00e9rrate a la Vida",
         "url": "https://open.spotify.com/album/2CihWNIsCMahuxYTFt3zRx"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 209250,
       "name": "Afe\u0301rrate a la Vida",
       "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
-        "name": "Loza",
-        "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a Tormenta",
-          "url": "https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY"
-        }
-      ],
-      "duration_ms": 267958,
-      "name": "Que Entre el Fr\u00edo",
-      "url": "https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
-      },
-      "artists": [
-        {
-          "name": "Los Americanos",
-          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
-        }
-      ],
-      "duration_ms": 245187,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "Sobre el Mar",
         "url": "https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 227070,
       "name": "Sobre el Mar",
       "url": "https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
+      },
+      "artists": [
+        {
+          "name": "Los Americanos",
+          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
+        }
+      ],
+      "duration_ms": 245187,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "Dejar Ir",
-        "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
-      },
-      "artists": [
-        {
-          "name": "Carope",
-          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Dejar Ir",
-      "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "Al Pie del Volc\u00e1n",
         "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 245422,
       "name": "Al Pie del Volc\u00e1n",
       "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "Dejar Ir",
+        "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
+      },
+      "artists": [
+        {
+          "name": "Carope",
+          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Dejar Ir",
+      "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
     },
     {
       "added_at": "2023-05-05 23:03:19",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-05-05 23:03:19",
       "album": {
-        "name": "El Fin",
-        "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
-      },
-      "artists": [
-        {
-          "name": "Karla Cruise",
-          "url": "https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs"
-        }
-      ],
-      "duration_ms": 177813,
-      "name": "El Fin",
-      "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
-    },
-    {
-      "added_at": "2023-05-05 23:03:19",
-      "album": {
         "name": "Antes de Partir - Cap.1",
         "url": "https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 211456,
       "name": "Antes de Partir - Cap.1",
       "url": "https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND"
+    },
+    {
+      "added_at": "2023-05-05 23:03:19",
+      "album": {
+        "name": "El Fin",
+        "url": "https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8"
+      },
+      "artists": [
+        {
+          "name": "Karla Cruise",
+          "url": "https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs"
+        }
+      ],
+      "duration_ms": 177813,
+      "name": "El Fin",
+      "url": "https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N"
     },
     {
       "added_at": "2023-05-05 23:03:19",

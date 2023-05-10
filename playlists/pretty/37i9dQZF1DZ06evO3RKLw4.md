@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,088 likes - 51 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,114 likes - 51 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 50 | [If The Kids Are United](https://open.spotify.com/track/5aL313wM2AQsQvdDNXrMXR) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Give Em The Boot II](https://open.spotify.com/album/2N7UbvqcQZDXWZrfHDeoYa) | 2:41 |
 | 51 | [Spirit of '87](https://open.spotify.com/track/11LLAA8ur0h06BjAJmG4zl) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 3:22 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA4Nzk5YTg4NjQxODAxMmNlZWZkYTlkZDM2ZDIyODRmNA==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDBlMTJlMDBmYTA0ZTgxOTU0OTQwNTE4Y2EzOTg0OWRhMQ==`

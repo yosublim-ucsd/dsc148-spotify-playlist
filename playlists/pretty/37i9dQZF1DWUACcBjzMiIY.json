@@ -1,12 +1,12 @@
 {
   "description": "Easy listening for a pleasant drive.",
-  "num_followers": 206843,
+  "num_followers": 206869,
   "original_name": "Mellow Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGI3Mjk5YTEwYTY0ZTg2MDFlMjAxY2IyNjdlNjQ0ZDUzNmNjZDRk",
+  "snapshot_id": "MCw2MjAwNjA1YTM0ZjJkMTNkOGY4ZDg5MGI3ZWE2ZjdlYTc0N2I1YzJl",
   "tracks": [
     {
       "added_at": "2019-06-21 00:09:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "dont smile at me",
-        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 177523,
-      "name": "watch",
-      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "dont smile at me",
+        "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 177523,
+      "name": "watch",
+      "url": "https://open.spotify.com/track/7eB1V5LvAdxCc7brfGhRRo"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -875,6 +875,26 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
         "name": "Come Away With Me (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 269600,
       "name": "What About Us",
       "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
-      },
-      "artists": [
-        {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "The Element Of Freedom",
-        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 216480,
-      "name": "Empire State of Mind (Part II) Broken Down",
-      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Bringing Down The Horse",
         "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 312626,
       "name": "One Headlight",
       "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "The Element Of Freedom",
+        "url": "https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 216480,
+      "name": "Empire State of Mind (Part II) Broken Down",
+      "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
-      },
-      "artists": [
-        {
-          "name": "Joel Adams",
-          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Sigh No More",
         "url": "https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 217984,
       "name": "The Cave",
       "url": "https://open.spotify.com/track/3vUn7FE3ZaQgJmkhIrIirF"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/2SF8Wbc61u8hlQkZYGVCnx"
+      },
+      "artists": [
+        {
+          "name": "Joel Adams",
+          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Broad Stories",
-        "url": "https://open.spotify.com/album/0DjyKeAM1LL48qIipVMOBD"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5M5IB1cNzJqbWFEUK4a1MD"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Freya Ridings",
         "url": "https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 225853,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Broad Stories",
+        "url": "https://open.spotify.com/album/0DjyKeAM1LL48qIipVMOBD"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5M5IB1cNzJqbWFEUK4a1MD"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2051,6 +2051,22 @@
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/4X6F9xoYUyJh4OhnXbAZv2"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2099,22 +2115,6 @@
       "duration_ms": 223640,
       "name": "Mess Is Mine",
       "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Living Mirage",
         "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 196055,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/5fpEDGQX0Ah3utGnFYulQZ"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2667,22 +2667,6 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Love In The Future (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 252653,
-      "name": "You & I (Nobody in the World)",
-      "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"
-    },
-    {
-      "added_at": "2019-06-21 00:09:37",
-      "album": {
         "name": "Amos Lee",
         "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
@@ -2699,18 +2683,18 @@
     {
       "added_at": "2019-06-21 00:09:37",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         }
       ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+      "duration_ms": 252653,
+      "name": "You & I (Nobody in the World)",
+      "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"
     },
     {
       "added_at": "2019-06-21 00:09:37",
@@ -2743,6 +2727,22 @@
       "duration_ms": 232586,
       "name": "Just A Little Bit Of Your Heart",
       "url": "https://open.spotify.com/track/5lvnGiTAH9BVlJLHc0DXZz"
+    },
+    {
+      "added_at": "2019-06-21 00:09:37",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
     },
     {
       "added_at": "2019-06-21 00:09:37",

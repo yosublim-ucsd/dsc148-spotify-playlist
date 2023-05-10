@@ -1,12 +1,12 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 254849,
+  "num_followers": 255036,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTRlMWUzZTc4YTIwN2I3NTY4Zjc5ZDM3MjZhZjI4ZWMyYzNjMjg1",
+  "snapshot_id": "MCwxZTU1MGEzYjJkMGQ1YzE2YjI4OTllZGEwZDY5N2RhNjViNDYyNGZl",
   "tracks": [
     {
       "added_at": "2023-03-03 13:28:12",
@@ -127,26 +127,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "We Contain Multitudes \u2014 piano reworks",
-        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
-      },
-      "artists": [
-        {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 264052,
-      "name": "We Contain Multitudes \u2014 piano reworks",
-      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 160226,
       "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
       "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/2ZrF3UfwS50CKE8jQQVjWj"
     },
     {
-      "added_at": "2023-05-09 01:41:22",
+      "added_at": "2023-05-10 00:41:41",
       "album": {
         "name": "C. Schumann: 3 Romances, Op. 22: No. 1, Andante molto (Arr. Knoth for Cello and Piano)",
         "url": "https://open.spotify.com/album/3q0ogG562Nocti3uDkZmAP"
@@ -715,6 +715,34 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
+        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
+        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
+          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
+        },
+        {
+          "name": "Didier Bouture",
+          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
+        },
+        {
+          "name": "Ensemble Orchestral Harmonia Nova",
+          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
+      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
         "name": "Saint-Sa\u00ebns: Le Carnaval des Animaux; Pha\u00e9ton; Danse Macabre etc.",
         "url": "https://open.spotify.com/album/6i0HvFnPJrXbbEk3JhNxRQ"
       },
@@ -747,30 +775,22 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Johann Sebastian Bach, Michel Richard Delalande, Henry Purcell, Antonio Vivaldi, Wolfgang Amadeus Mozart: L'Europe Musicale des XVII et XVII",
-        "url": "https://open.spotify.com/album/0wzY6cMuHfuyJ0VRxxtAug"
+        "name": "The Flemish Piano Sonatina in the 20th Century",
+        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
       },
       "artists": [
         {
-          "name": "Henry Purcell",
-          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+          "name": "Georges Lonque",
+          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
         },
         {
-          "name": "Ensemble Orchestral Harmonia Nova & Didier Bouture",
-          "url": "https://open.spotify.com/artist/0Ujx9OMRc595IoVDwlwiKF"
-        },
-        {
-          "name": "Didier Bouture",
-          "url": "https://open.spotify.com/artist/42Bd2IhLltsbqINlfZPpkL"
-        },
-        {
-          "name": "Ensemble Orchestral Harmonia Nova",
-          "url": "https://open.spotify.com/artist/564UyyHYTqGWAsAvDabSdt"
+          "name": "Daniel Blumenthal",
+          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
         }
       ],
-      "duration_ms": 85000,
-      "name": "Suite d'Abdelazer: or, the moor's revenge: Rondeau",
-      "url": "https://open.spotify.com/track/1ZIFF4VPWGYA9OG3uYcFgI"
+      "duration_ms": 112000,
+      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -791,26 +811,6 @@
       "duration_ms": 425506,
       "name": "Schwanengesang, S. 560: Schubert - Schwanengesang, S. 560/R. 245: No. 7, Standchen (Leise flehen meine Lieder) [After F. Schubert]",
       "url": "https://open.spotify.com/track/4oLjLPHIqx6vGJXGlQUMbh"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
-        "name": "The Flemish Piano Sonatina in the 20th Century",
-        "url": "https://open.spotify.com/album/6XYxParjHfJUUN2wiZKZH0"
-      },
-      "artists": [
-        {
-          "name": "Georges Lonque",
-          "url": "https://open.spotify.com/artist/52FJC1xrA8G9pjnTqoBWBG"
-        },
-        {
-          "name": "Daniel Blumenthal",
-          "url": "https://open.spotify.com/artist/0Ks41NxSMIGc9jdSGVELba"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Sonatine in D Major, Op. 32: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/7APFpoGpfOeQ94f5kKwBWj"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -859,26 +859,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
-        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Jen\u0151 Jand\u00f3",
-          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
-      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "50 Masterworks - Arthur Rubinstein",
         "url": "https://open.spotify.com/album/49fd44zRwokYUaIBJRohZE"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Beethoven: Piano Sonatas Woo 47, 'Kurfurstensonaten'",
+        "url": "https://open.spotify.com/album/2g0ZrCg26w6cM2zH9nMVdW"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Piano Sonata in E-Flat Major, WoO 47, No. 1, \"Kurfurstensonaten\": II. Andante",
+      "url": "https://open.spotify.com/track/4dbQI0xIj9w88vvRBqa4LS"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
-        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 83960,
-      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
-      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Early One Morning",
         "url": "https://open.spotify.com/album/4fYC3U6IjW0DrxgR06hWqe"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 180066,
       "name": "Valse lente, Op. 33 (arr. for orchestra)",
       "url": "https://open.spotify.com/track/6t2UFULQXc3N0oO0ujaK39"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
+        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 83960,
+      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
+      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
-        "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 233920,
-      "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
-      "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1667,50 +1647,22 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Mozart: Petite musique de nuit",
-        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
+        "name": "J.S. Bach: Partitas Nos. 3-4, BWV 827-828",
+        "url": "https://open.spotify.com/album/19p19pPECnHDX3mtuecf97"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "La Grande \u00c9curie et la Chambre du Roy",
-          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
-        },
-        {
-          "name": "Jean-Claude Malgoire",
-          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
         }
       ],
-      "duration_ms": 143693,
-      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
-      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
-      },
-      "artists": [
-        {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
-        },
-        {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
-      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
+      "duration_ms": 233920,
+      "name": "Partita No. 3 In A Minor, BWV 827 : I. Fantasia",
+      "url": "https://open.spotify.com/track/2rwutsPWAKDybfbVuBRC4L"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1739,6 +1691,54 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+      },
+      "artists": [
+        {
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+        },
+        {
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
+      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Mozart: Petite musique de nuit",
+        "url": "https://open.spotify.com/album/3aiuQXwqA9zGr40vsV2w2f"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "La Grande \u00c9curie et la Chambre du Roy",
+          "url": "https://open.spotify.com/artist/0NXpAUHEoJkTDu5YIKHenS"
+        },
+        {
+          "name": "Jean-Claude Malgoire",
+          "url": "https://open.spotify.com/artist/0Dm0OYp3kyz8ML9Pkh4uwu"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "Les petits riens, K. Anh. 10/299b: Gavotte",
+      "url": "https://open.spotify.com/track/1oINJUWROwSmP7Z3S9056B"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
         "name": "Myslivecek: Symphonies",
         "url": "https://open.spotify.com/album/2iNn6zLNV5YIakjGtE58cl"
       },
@@ -1759,6 +1759,26 @@
       "duration_ms": 158000,
       "name": "Overtures For 2 Horns, 2 Oboes And Strings / Overture No. 2 In A: 2. Andante",
       "url": "https://open.spotify.com/track/4WxImfB2vIXWCibwyRQgql"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 93400,
+      "name": "Invention No. 14 in B-Flat Major, BWV 785",
+      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1799,26 +1819,6 @@
       "duration_ms": 69693,
       "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
       "url": "https://open.spotify.com/track/1XwYcsWCKFocYLi7n5VJYd"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
-        }
-      ],
-      "duration_ms": 93400,
-      "name": "Invention No. 14 in B-Flat Major, BWV 785",
-      "url": "https://open.spotify.com/track/3kE3KZiHM0nim6t34J9Hqf"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -1879,6 +1879,26 @@
       "duration_ms": 118992,
       "name": "Valsinha",
       "url": "https://open.spotify.com/track/6TCXOiDc8KWztKlpKPvpSE"
+    },
+    {
+      "added_at": "2023-03-03 13:28:12",
+      "album": {
+        "name": "Bach: Inventions & Sinfonias",
+        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Simone Dinnerstein",
+          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+        }
+      ],
+      "duration_ms": 88573,
+      "name": "Invention No. 1 in C Major, BWV 772",
+      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -2027,26 +2047,6 @@
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Jo\u00e3o Carlos Victor",
-          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
-        }
-      ],
-      "duration_ms": 354560,
-      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
-      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
-    },
-    {
-      "added_at": "2023-03-03 13:28:12",
-      "album": {
         "name": "Telemann Collection",
         "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
@@ -2112,9 +2112,9 @@
           "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 230426,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
-      "url": "https://open.spotify.com/track/5115ToGBzzSrwBSmcaPPTh"
+      "duration_ms": 138239,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
+      "url": "https://open.spotify.com/track/1uCnDVzdxzyUoAk2xZahYj"
     },
     {
       "added_at": "2023-03-03 13:28:12",
@@ -2136,15 +2136,15 @@
           "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
         }
       ],
-      "duration_ms": 138239,
-      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: III. (b) Andante",
-      "url": "https://open.spotify.com/track/1uCnDVzdxzyUoAk2xZahYj"
+      "duration_ms": 230426,
+      "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
+      "url": "https://open.spotify.com/track/5115ToGBzzSrwBSmcaPPTh"
     },
     {
       "added_at": "2023-03-03 13:28:12",
       "album": {
-        "name": "Bach: Inventions & Sinfonias",
-        "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
+        "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+        "url": "https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4"
       },
       "artists": [
         {
@@ -2152,13 +2152,13 @@
           "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
         },
         {
-          "name": "Simone Dinnerstein",
-          "url": "https://open.spotify.com/artist/6I5PzbEIGEQaQqWRmwKmFQ"
+          "name": "Jo\u00e3o Carlos Victor",
+          "url": "https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb"
         }
       ],
-      "duration_ms": 88573,
-      "name": "Invention No. 1 in C Major, BWV 772",
-      "url": "https://open.spotify.com/track/3pfdjnHlyKoLd6UYYrifWs"
+      "duration_ms": 354560,
+      "name": "Wachet auf, ruft uns die Stimme, BWV 645",
+      "url": "https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv"
     },
     {
       "added_at": "2023-03-03 13:28:12",

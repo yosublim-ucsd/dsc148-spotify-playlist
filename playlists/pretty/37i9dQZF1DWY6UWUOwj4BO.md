@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,986 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,044 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 50 | [Dancing With A Stranger \(With Normani\) \- Acoustic](https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(With Normani\) \[Acoustic\]](https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ) | 3:07 |
 | 51 | [Alien \- Acoustic](https://open.spotify.com/track/5IYKZF1nw5V0GtxQN7mspQ) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Alien \(Acoustic\)](https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU) | 2:20 |
 
-Snapshot ID: `MCxhYjE2NTcyMjc2NDRlYWE4Y2I5MWY1NTI0Y2IwMjY2NGNlMDhmNzkz`
+Snapshot ID: `MCwxNzQ0ZTM3YzBhOGI3NTQzNjcyNDNlYTUwYTU2OThiNzU5ZTk1ODg0`

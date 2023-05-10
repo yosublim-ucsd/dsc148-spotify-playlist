@@ -1,12 +1,12 @@
 {
   "description": "A mediterranean sundown soundtrack.",
-  "num_followers": 92223,
+  "num_followers": 92291,
   "original_name": "Balearic Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTgxN2YwOTQ5YTA4MDk0MDBjMjVmMzY0OGIyZTU5Y2MzZGFiODY0",
+  "snapshot_id": "MCxkMmE0OTdjNzNkMjFhMmFhNTFkYzM3YmEzMDYyYmFhNzRmMDAxYmFl",
   "tracks": [
     {
       "added_at": "2023-02-02 23:01:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "sketches of transition",
-        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
       "artists": [
         {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 243213,
-      "name": "sketches",
-      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
+      "duration_ms": 216506,
+      "name": "One Evening",
+      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "sketches of transition",
+        "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "sketches",
+      "url": "https://open.spotify.com/track/0AYl5nMugFsfR26LpRN791"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Around The Sun",
         "url": "https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 216506,
-      "name": "One Evening",
-      "url": "https://open.spotify.com/track/4Wo3ZATquIN6z4Zr1W4749"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Intimate Fantasy - EP",
-        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 493000,
-      "name": "Intimate Fantasy",
-      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Quiet Night",
         "url": "https://open.spotify.com/album/3qrdALmql8njlLqI0Ek4ep"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 212000,
       "name": "Quiet Night",
       "url": "https://open.spotify.com/track/37uDjCFbCIj8Doz8NMyiHT"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Intimate Fantasy - EP",
+        "url": "https://open.spotify.com/album/5gkN7t6aczEdOCwKxGeYkW"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 493000,
+      "name": "Intimate Fantasy",
+      "url": "https://open.spotify.com/track/6plKjqeFQ30GbfAbvS3srq"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Pacific Standard Time",
-        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 262990,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 214014,
       "name": "Tiefer - Edit",
       "url": "https://open.spotify.com/track/6viySkKsEuxhiNSMW1nOIe"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Pacific Standard Time",
+        "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 262990,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2M7fA5L6zH9oxq53WsaYB4"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "Am\u00e9rica",
-        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
-      },
-      "artists": [
-        {
-          "name": "Pietro Nicosia",
-          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Am\u00e9rica",
-      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
         "name": "Just Landed",
         "url": "https://open.spotify.com/album/4UpreRuEiLfSJhUw3XYjOG"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 330973,
       "name": "Tabarin",
       "url": "https://open.spotify.com/track/6waLS9FxU3tW6FVjntCgsP"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
+        "name": "Am\u00e9rica",
+        "url": "https://open.spotify.com/album/0EcZMXi07XsJDJEcDs8Cro"
+      },
+      "artists": [
+        {
+          "name": "Pietro Nicosia",
+          "url": "https://open.spotify.com/artist/5ksf5Zro72jXPwmV8gnFGG"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2Mm7MLp976hA04NQi2dBF8"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Into Daylight",
+        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        },
+        {
+          "name": "Hush Forever",
+          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
+        }
+      ],
+      "duration_ms": 295989,
+      "name": "Verbana (feat. Hush Forever)",
+      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Montara",
         "url": "https://open.spotify.com/album/7aIvhwqFnvV3hFp0ocKwzO"
       },
@@ -1367,26 +1387,6 @@
       "duration_ms": 222680,
       "name": "Camino Del Sol",
       "url": "https://open.spotify.com/track/4UFm6Kib5Jxzw9FL0F6x0q"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Into Daylight",
-        "url": "https://open.spotify.com/album/6BqQtWIZEpt4HgLF3de81l"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        },
-        {
-          "name": "Hush Forever",
-          "url": "https://open.spotify.com/artist/5MIIeE6xoDQNqwSMTweWlv"
-        }
-      ],
-      "duration_ms": 295989,
-      "name": "Verbana (feat. Hush Forever)",
-      "url": "https://open.spotify.com/track/0QnPvTkCivRaMPrc6r1o9P"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Cantoma (Deluxe)",
+        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
+      },
+      "artists": [
+        {
+          "name": "Cantoma",
+          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
+        }
+      ],
+      "duration_ms": 325760,
+      "name": "Pandajero",
+      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "E.P.",
         "url": "https://open.spotify.com/album/6ZCxOD387eOYLvwTkzgIvm"
       },
@@ -1531,6 +1547,26 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
+        "name": "Give It To You",
+        "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
+      },
+      "artists": [
+        {
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Paula",
+          "url": "https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK"
+        }
+      ],
+      "duration_ms": 228159,
+      "name": "Give It To You - Ralf GUM Radio Edit",
+      "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
+    },
+    {
+      "added_at": "2023-02-02 23:01:00",
+      "album": {
         "name": "Through Your Hands Love Can Shine (Turbotito Remix)",
         "url": "https://open.spotify.com/album/59LOmRApH3tOESVQc0GujE"
       },
@@ -1551,42 +1587,6 @@
       "duration_ms": 349565,
       "name": "Through Your Hands Love Can Shine - Turbotito Remix",
       "url": "https://open.spotify.com/track/1GXk8hH4VHZcUlNx7PpVUv"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Cantoma (Deluxe)",
-        "url": "https://open.spotify.com/album/6lskV9a36IHabSEEN45dRm"
-      },
-      "artists": [
-        {
-          "name": "Cantoma",
-          "url": "https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax"
-        }
-      ],
-      "duration_ms": 325760,
-      "name": "Pandajero",
-      "url": "https://open.spotify.com/track/6TgwzcTeYxNZ7adg0rc2gb"
-    },
-    {
-      "added_at": "2023-02-02 23:01:00",
-      "album": {
-        "name": "Give It To You",
-        "url": "https://open.spotify.com/album/1igCm1p286pDmWPgoYC5nP"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Paula",
-          "url": "https://open.spotify.com/artist/0ONShQYbM9pQ4LaC7sLMHK"
-        }
-      ],
-      "duration_ms": 228159,
-      "name": "Give It To You - Ralf GUM Radio Edit",
-      "url": "https://open.spotify.com/track/4Jlibu79z626cTAfJJlqdK"
     },
     {
       "added_at": "2023-02-02 23:01:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-02-02 23:01:00",
       "album": {
-        "name": "10.000 Hours",
-        "url": "https://open.spotify.com/album/0ha8DYzt39EzBddFCwzPGr"
+        "name": "KOKOROKO",
+        "url": "https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF"
       },
       "artists": [
         {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
         }
       ],
-      "duration_ms": 267697,
-      "name": "House in the Hills",
-      "url": "https://open.spotify.com/track/1QIdwf7rpK52EohMniSmXQ"
+      "duration_ms": 424080,
+      "name": "Abusey Junction",
+      "url": "https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q"
     },
     {
       "added_at": "2023-02-02 23:01:00",

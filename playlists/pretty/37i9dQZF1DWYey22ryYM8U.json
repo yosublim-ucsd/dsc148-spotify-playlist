@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 591729,
+  "num_followers": 591821,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTQzMmFlNDY4ZDcwNDQ0YWMzZDIwMDRjNGEwYWY3NGQxZTk3Mzk3",
+  "snapshot_id": "MCw5ZThhMjcyNzhjODMwNzFlOGRmOTIxYjhiNDJkMWJkZjk2MDRkN2Yz",
   "tracks": [
     {
       "added_at": "2023-04-13 22:50:37",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "Cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "You Salsa",
+          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
         }
       ],
-      "duration_ms": 206412,
-      "name": "Cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
+      "duration_ms": 276433,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
     },
     {
       "added_at": "2023-04-13 22:50:37",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-13 22:50:37",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86"
-      },
-      "artists": [
-        {
-          "name": "You Salsa",
-          "url": "https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU"
-        }
-      ],
-      "duration_ms": 276433,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl"
-    },
-    {
-      "added_at": "2023-04-13 22:50:37",
-      "album": {
         "name": "Nuestro Amor",
         "url": "https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 204324,
       "name": "Nuestro Amor",
       "url": "https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz"
+    },
+    {
+      "added_at": "2023-04-13 22:50:37",
+      "album": {
+        "name": "Cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp"
+      },
+      "artists": [
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "duration_ms": 206412,
+      "name": "Cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3"
     },
     {
       "added_at": "2023-04-13 22:50:37",

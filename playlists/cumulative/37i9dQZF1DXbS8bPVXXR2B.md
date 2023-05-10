@@ -4,7 +4,7 @@
 
 > We just wanna rock you all night long.
 
-185 songs - 17 hr 37 min
+186 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Crushed Ice](https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat EP](https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0) | 4:40 | 2022-02-10 |  |
 | [Crushed Ice](https://open.spotify.com/track/4KA6HKfdRbq5CwSshbQhY3) | [MAM](https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi) | [Modern Heat](https://open.spotify.com/album/6Nkw7I7WaFL3am2rLlelFT) | 4:40 | 2022-02-10 | 2022-07-29 |
 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 | 2022-02-10 |  |
-| [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 | 2022-02-10 |  |
+| [Dancing in Outer Space](https://open.spotify.com/track/0OYKPDicsx5rFpScHnWIoH) | [Atmosfear](https://open.spotify.com/artist/1DqpAdUZXDlOEUHdiawMJF) | [Dancing in Outer Space](https://open.spotify.com/album/4MF1H26SPWJ74EcEpkg11r) | 9:37 | 2022-02-10 | 2023-05-10 |
 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2) | 3:49 | 2022-09-05 |  |
 | [Disco Baby \- Floating Points & Red Greg Edit](https://open.spotify.com/track/5A6LXTH8bVu8ItBFME5pBF) | [Y\. Gershovsky](https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW) | [Disco Baby](https://open.spotify.com/album/0prnfqEbMp2H9Wkmo7jw29) | 3:49 | 2022-02-10 | 2022-11-09 |
 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 | 2022-02-10 | 2022-07-29 |
@@ -47,6 +47,7 @@
 | [Don't Leave Me This Way \- Single Version](https://open.spotify.com/track/6YnHWESPWTp7XWuc25onCX) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [Soul Essentials](https://open.spotify.com/album/2HEREQzFsq56E8Wh66s0V7) | 3:36 | 2022-09-05 | 2022-11-14 |
 | [Don't Let Love Get You Down](https://open.spotify.com/track/2GOnaGFMVPMYqRNRteDw3h) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Where Will You Go When The Party's Over](https://open.spotify.com/album/59RUNgFXzj7NmK5QagHViQ) | 4:19 | 2022-02-10 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/2WNNwabbizIDP9evAIyY3K) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K) | 6:16 | 2022-02-10 | 2023-04-29 |
+| [Enjoy Your Life](https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm) | 6:16 | 2022-09-05 |  |
 | [Enjoy Your Life](https://open.spotify.com/track/6cCjkGOjdA2F3C3ZShdm40) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2HrTsqwGyIXPvEAfZAwSYE) | 6:16 | 2022-02-10 | 2022-07-29 |
 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 | 2022-02-10 |  |
 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 | 2022-02-10 |  |

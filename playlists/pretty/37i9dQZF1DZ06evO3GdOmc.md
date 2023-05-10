@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 
 > This is Casting Crowns\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,925 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,971 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GdOmc.md) - [plain]
 | 49 | [The Well](https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 4:55 |
 | 50 | [What If I Gave Everything](https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 3:23 |
 
-Snapshot ID: `MjgwNTkxOTksMDAwMDAwMDA2ZWViYzQxNjgyZWVkMDAyMjE4MzI4YzBhNTM2MDhmMg==`
+Snapshot ID: `MjgwNjA1NjAsMDAwMDAwMDAyZTQzOWIxNzIxOWRmOTFkZGEyMmYyZTNlYmIzOTdlZQ==`

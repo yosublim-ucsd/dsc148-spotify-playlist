@@ -537,6 +537,32 @@
     },
     {
       "album": {
+        "name": "Double XL",
+        "url": "https://open.spotify.com/album/4Ph5B4SriYVmiFCJVJr4oz"
+      },
+      "artists": [
+        {
+          "name": "Teee Dollar",
+          "url": "https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Billirano",
+          "url": "https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145005,
+      "name": "Double XL",
+      "url": "https://open.spotify.com/track/19ppeor2G2v8Db8dvNZ7ot"
+    },
+    {
+      "album": {
         "name": "Ejon Jor",
         "url": "https://open.spotify.com/album/2vi93kioAQWcTESp3bCIST"
       },
@@ -958,7 +984,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 188000,
       "name": "Instagram",
       "url": "https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D"

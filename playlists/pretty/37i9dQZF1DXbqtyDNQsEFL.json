@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 34820,
+  "num_followers": 34885,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzcyNTI3OWNiM2E0ODMzYzQ3YjBiZWZjMDg0YjI4NTU3YmM1NWM4",
+  "snapshot_id": "MCwyYzNjYjNjYzA5NWM0MTE1ZDhhNDlmZDVlZjE1M2I2YWNmOGRiMzNh",
   "tracks": [
     {
       "added_at": "2023-04-14 13:13:25",
@@ -899,18 +899,26 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
+        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
       },
       "artists": [
         {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Melodie Wagner",
+          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
         }
       ],
-      "duration_ms": 461003,
-      "name": "Spontaneous Worship 1 - Live",
-      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -951,26 +959,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
       },
       "artists": [
         {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Melodie Wagner",
-          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
         }
       ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "Journey To The Deep (Prayer Chants)",
+        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
+      },
+      "artists": [
+        {
+          "name": "Praiz Singz",
+          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
+        }
+      ],
+      "duration_ms": 131640,
+      "name": "Eyes of The Spirit Chant (Prayer Chant)",
+      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 272000,
       "name": "Calvary",
       "url": "https://open.spotify.com/track/6VZNytD5nlpuLRV2btnA0w"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Journey To The Deep (Prayer Chants)",
-        "url": "https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag"
-      },
-      "artists": [
-        {
-          "name": "Praiz Singz",
-          "url": "https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h"
-        }
-      ],
-      "duration_ms": 131640,
-      "name": "Eyes of The Spirit Chant (Prayer Chant)",
-      "url": "https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "Won\u2019t Settle",
         "url": "https://open.spotify.com/album/0aN04XDOdQaanGUnvE9jrJ"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 263168,
       "name": "Won\u2019t Settle",
       "url": "https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1339,38 +1339,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
-      },
-      "artists": [
-        {
-          "name": "Tobi Adey",
-          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
-        }
-      ],
-      "duration_ms": 132785,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Olowo Orimi (The One Who Paid For Me)",
-        "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
-      },
-      "artists": [
-        {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
-        }
-      ],
-      "duration_ms": 489493,
-      "name": "Olowo Orimi (The One Who Paid For Me)",
-      "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Eze Ebube II",
         "url": "https://open.spotify.com/album/79Mo9c2Nw15CQVfePk7IWh"
       },
@@ -1399,6 +1367,38 @@
       "duration_ms": 397531,
       "name": "Nailed - Live",
       "url": "https://open.spotify.com/track/023LkJYmuKsq8D27i0UC5K"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Olowo Orimi (The One Who Paid For Me)",
+        "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 489493,
+      "name": "Olowo Orimi (The One Who Paid For Me)",
+      "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "duration_ms": 132785,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1455,18 +1455,26 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "No Longer Slaves",
-        "url": "https://open.spotify.com/album/6w0xnygQekr0Ta9iwhwrtu"
+        "name": "Great is Your Faithfulness",
+        "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
       "artists": [
         {
-          "name": "Florocka",
-          "url": "https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Victor Okose",
+          "url": "https://open.spotify.com/artist/6WihWvmRbICbjLHixWcsKk"
+        },
+        {
+          "name": "Dejaks",
+          "url": "https://open.spotify.com/artist/1RuU4EyXOXFcXyLAmu4Oux"
         }
       ],
-      "duration_ms": 350981,
-      "name": "No Longer Slaves",
-      "url": "https://open.spotify.com/track/0rjkZDvV1ZVKaAYkP4Brk2"
+      "duration_ms": 1147000,
+      "name": "Great is Your Faithfulness",
+      "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
     }
   ],
   "unique_name": "Be Lifted ",

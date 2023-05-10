@@ -2930,7 +2930,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 202105,
       "name": "C\u00d3 CH\u1eaeC Y\u00caU L\u00c0 \u0110\u00c2Y",
       "url": "https://open.spotify.com/track/2z9iLlNBt1aLZUCFgXby97"
@@ -7222,7 +7222,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -11333,6 +11333,24 @@
     },
     {
       "album": {
+        "name": "MY WORLD - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Spicy",
+      "url": "https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP"
+    },
+    {
+      "album": {
         "name": "You Never Walk Alone",
         "url": "https://open.spotify.com/album/6THpewjqJ15ORBJkh5CEYb"
       },
@@ -13390,7 +13408,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh",
       "url": "https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH"

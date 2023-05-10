@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 8302,
+  "num_followers": 8342,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzQ4MDI2MjBiOTNmOTNjYjQwNWU5ZTM5Zjg0YjcxMDFiMzhiMTc5",
+  "snapshot_id": "MCxiM2I0NDBiMmQ1MjE1N2JjYjZmZmFlNTcwNmJmMjk5Mzg0NzE3MGU0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:13:28",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "I Wanna Go There",
+        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
+      },
+      "artists": [
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "How You Gonna Act Like That",
+      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "I Wanna Go There",
-        "url": "https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G"
-      },
-      "artists": [
-        {
-          "name": "Tyrese",
-          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "How You Gonna Act Like That",
-      "url": "https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d"
     },
     {
       "added_at": "2022-10-01 16:13:28",

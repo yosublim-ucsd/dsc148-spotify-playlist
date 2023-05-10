@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,219 likes - 82 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,229 likes - 82 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 48 | [Juro](https://open.spotify.com/track/1xaVKzZFgo1UQUVfko19Zk) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz) | [Juro](https://open.spotify.com/album/47YH8c1MK1RC5dg2Pmd2nQ) | 3:39 |
 | 49 | [Outros Planos](https://open.spotify.com/track/1F0pZfGO3vb652DSVwHjT4) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Outros Planos](https://open.spotify.com/album/5aAL68GASfefbEwoCbka4P) | 3:16 |
 | 50 | [Eu te fiz sofrer](https://open.spotify.com/track/7LJ4i3QW0lri9IDg1FPRFZ) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Eu te fiz sofrer](https://open.spotify.com/album/3S2JOAUJ7NdY0QbrFksthT) | 2:44 |
-| 51 | [Atende o Celular](https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/6K0ErGr3QPMvDttVAnG8di) | 2:54 |
+| 51 | [Atende o Celular](https://open.spotify.com/track/6EuHqKLUuSp6taKVdfhafF) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/0jryDdYQKwEwB2HrdNuQLs) | 2:54 |
 | 52 | [A Música Mais Sincera do Ano](https://open.spotify.com/track/5iINpVOwXLU1xP2cVMzZwc) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [A Música Mais Sincera do Ano](https://open.spotify.com/album/5r9prD8tMsVkjLKF8bv3Dk) | 2:51 |
 | 53 | [Quando a Gente Briga](https://open.spotify.com/track/6xa79iVBuj8VYcXRb7CEbO) | [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h), [Erix](https://open.spotify.com/artist/1nBbgjGsyozg0Ybfr49tma), [Rakky](https://open.spotify.com/artist/7Gf8nW5S8PtsnSkeeglQej) | [Quando a Gente Briga](https://open.spotify.com/album/6kJqYkJVUU8tE9uHICPQSi) | 3:25 |
 | 54 | [Paralelo](https://open.spotify.com/track/57Fuyq4pqYjG9KNd6bMZkD) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Paralelo](https://open.spotify.com/album/47L7kWkSr4lbgFfnAdjgYd) | 3:26 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 57 | [Crises](https://open.spotify.com/track/7uk8JQm6Ahe2wTSEDSgako) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Crises](https://open.spotify.com/album/4RikHwOkP42dtOsbVJnT0O) | 2:41 |
 | 58 | [Não sei o que você viu em mim](https://open.spotify.com/track/1YkJXJGTkKYgKlvdOkgkr0) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kourah](https://open.spotify.com/artist/0ZZjUA7WDQGjBN416iSBae) | [Não sei o que você viu em mim](https://open.spotify.com/album/0yD3aNHrXCYFYUfuNjOIbm) | 2:16 |
 | 59 | [Madrugada Fria](https://open.spotify.com/track/3EStz3jCq7hbfsKHl6K6iO) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Madrugada Fria](https://open.spotify.com/album/3FBYAIJEp1HIefkzPcTj4l) | 2:38 |
-| 60 | [Utopia Em Sétima Arte](https://open.spotify.com/track/1e8bhMOq2kzJ7Onm6PrXqQ) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Utopia Em Sétima Arte](https://open.spotify.com/album/5MVXWqnRbzsWjHg1ntooAY) | 5:01 |
+| 60 | [Utopia Em Sétima Arte](https://open.spotify.com/track/27u8P5MJ78VTfq1cymIQZ4) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [H o u d i n i](https://open.spotify.com/artist/2xysuV21VYh93dle4QZq7T), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Utopia Em Sétima Arte](https://open.spotify.com/album/7zYDoX1xT995sBKYflSJTU) | 5:01 |
 | 61 | [Game Over](https://open.spotify.com/track/3K4ob6HwtPzya2X1uAi4vs) | [Preto & Branco](https://open.spotify.com/artist/0gozYYUszYsIkCyzGAOM9d), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Game Over](https://open.spotify.com/album/4Zn8bqwMPMU8Aeose3mnJt) | 2:57 |
 | 62 | [Odeio o Passado](https://open.spotify.com/track/4cRoho7eVz33km11QPG73v) | [Hied](https://open.spotify.com/artist/7apIn8Whh0BHgnRnU2RePF) | [Odeio o Passado](https://open.spotify.com/album/50jTAY69VIGNBGEewKf6hN) | 2:39 |
 | 63 | [Presente](https://open.spotify.com/track/34pf0CAtIPtztdocjwS5yD) | [LYO](https://open.spotify.com/artist/0m2GWCsffYDtGCrsGsYi0V) | [Presente](https://open.spotify.com/album/0Byz0vlMRohSn50v5OFDv8) | 3:33 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 81 | [Que não te falte amor](https://open.spotify.com/track/4e8mbXLx3DRgLbTafPpNat) | [Lil Chainz](https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Que não te falte amor](https://open.spotify.com/album/70YMa2rpfCE4LQ1Q7clQws) | 2:43 |
 | 82 | [Por Nós Dois](https://open.spotify.com/track/0vAa3jsBGC9u2orV5rJjxG) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Por Nós Dois](https://open.spotify.com/album/7FGoFdKxKxFjk4cYwY1bpL) | 2:58 |
 
-Snapshot ID: `MCw0OTgxNjJjNDNkNTVmNDBjYTAzZjQxOTIxYzRhNWU2OGM5ZGI5MTg3`
+Snapshot ID: `MCw5MGY2ZjQ2ZmM5MDdkYTkwMjVlNDZhNWQyYWRiNzE5M2E0MWIzYTI2`

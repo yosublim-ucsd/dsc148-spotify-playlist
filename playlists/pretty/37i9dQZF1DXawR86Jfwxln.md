@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Revisit the year in Folk & Americana with the best songs released in 2022\. Cover: Madison Cunningham \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,593 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,591 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 47 | [First High](https://open.spotify.com/track/6i7Xiao5B0cNpR3lFqrf9P) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/1AEHp7Ufjc2GEZGUlfFsML) | 3:07 |
 | 48 | [Hangover](https://open.spotify.com/track/57lBDEtlUhzU18Co0DToLg) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Hangover](https://open.spotify.com/album/304pJgIaQAkuG19OLfjfyi) | 3:35 |
 | 49 | [Satan](https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Satan / Jacob Rose](https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I) | 3:16 |
-| 50 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 |
+| 50 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 |
 | 51 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 |
 | 52 | [This Is A Photograph](https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 3:30 |
 | 53 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 74 | [The Spur](https://open.spotify.com/track/1Wa3kpcwsBdkuQ5XMWjnP2) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/17JVuhlvgwEEk5fv3ISJdQ) | 3:52 |
 | 75 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 |
 
-Snapshot ID: `MCxmNjE3MTljMTI5YTk4YTYzMWU4MGY3ZGY4ODVkMzQ3Y2FjMmUwZmUx`
+Snapshot ID: `MCwyZDFiMWZhOTg4NTlmY2RiN2QwZjAwMTdhNjc4OTQ4MmI3YzM1Y2E4`

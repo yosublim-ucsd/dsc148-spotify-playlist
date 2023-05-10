@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,129 likes - 83 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,161 likes - 83 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 67 | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/track/3htZk2uZHjlkRhlaqaM3d8) | [Crystal Relaxations](https://open.spotify.com/artist/2fOp9yWKqkoEaLevqSKkHi) | [Crystal Bowl & Shamanic Shells](https://open.spotify.com/album/448uGKK2wcs9EXl8NX8KMO) | 4:28 |
 | 68 | [Melting Snow](https://open.spotify.com/track/3P7VUd2zZQiAGoHVv5kx6P) | [Riley Lee](https://open.spotify.com/artist/7eJJlXsiOqFXsaxRDyelMO) | [Buddha's Dream](https://open.spotify.com/album/4I6REoU5dcDWZts0uMiFbH) | 7:11 |
 | 69 | [Lilac Dreams](https://open.spotify.com/track/4GabGOCeMRKXL5saC9xGqa) | [Li Xiangting](https://open.spotify.com/artist/6MNJAzxaTlmDAHMCvJJIfr) | [Sleeping Lotus](https://open.spotify.com/album/5ZxXawZx4LSHdQtZvdj7pt) | 4:29 |
-| 70 | [Autumn Moon Over The Han Palace](https://open.spotify.com/track/1dhiCB2adQsroqpK7KinTB) | [Anonymous](https://open.spotify.com/artist/2kYpqEOmwO3ktb16Dsutqa), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Jiang Fengzhi](https://open.spotify.com/artist/2R6xnMGOazNpsU8GTB7eAY) | [Treasures Of Chinese Instrumental Music: Erhu](https://open.spotify.com/album/78viJ5XqBADz1Jvwfk3ReB) | 6:06 |
+| 70 | [Autumn Moon Over The Han Palace](https://open.spotify.com/track/1dhiCB2adQsroqpK7KinTB) | [Jiang Fengzhi](https://open.spotify.com/artist/2R6xnMGOazNpsU8GTB7eAY) | [Treasures Of Chinese Instrumental Music: Erhu](https://open.spotify.com/album/78viJ5XqBADz1Jvwfk3ReB) | 6:06 |
 | 71 | [Kitsune Village](https://open.spotify.com/track/7fQDGOxvHnfG5WGqcxifcQ) | [Brandon Fiechter](https://open.spotify.com/artist/2XDOBQOobSTxtmFhWKdm6x) | [The Tea House](https://open.spotify.com/album/2i4lMaPmAzJvzrZskBuEut) | 3:49 |
 | 72 | [A Prayer to Dispel Sickness and Harm](https://open.spotify.com/track/3Umg3h2GYJ3vv4LH253wVp) | [Kelsang Chukie Tethong](https://open.spotify.com/artist/4Cmf9jS7jDovDDUDXul2LS) | [Putumayo Presents World Yoga](https://open.spotify.com/album/7tytEAPRW0BZo4cAWMnbLB) | 4:52 |
 | 73 | [Flowery Paradise](https://open.spotify.com/track/1kpKBDxwtqUWvWc5bUA6V3) | [Marth](https://open.spotify.com/artist/4ra04l1rxEPVm8Hxx1P1I8) | [SHIZUKESA](https://open.spotify.com/album/6dBXn2a8EmM1w90ouCVnfV) | 7:40 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 82 | [Hot Stone Massage](https://open.spotify.com/track/6ECjbXSjaUHBkAig0SipLD) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:59 |
 | 83 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
 
-Snapshot ID: `MCxiMDY1NjI0M2NhMTgzZjg0NzA4Y2IwMTU5Mjk3ZjQxOWM4ZjM1YjBj`
+Snapshot ID: `MCw0OWY2M2JkNjU2MzJmN2JhZTQ1MmQ4NGMyMmQ0Y2RlMzVlNzJiYTEz`

@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 166950,
+  "num_followers": 167080,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTVmNTNjYWUyNjE1MDI5OTVkN2JlNDg0YmQzNDA1YzkxNjBkODYw",
+  "snapshot_id": "MCwwZWJiMjEwOThjNmUzZjI5YTRiMmFjMjJjNDBmOGU0MmFjNTU4MTVm",
   "tracks": [
     {
       "added_at": "2023-05-05 13:50:59",
@@ -1299,22 +1299,22 @@
     {
       "added_at": "2023-05-05 13:50:59",
       "album": {
-        "name": "Welcome To Dinna",
-        "url": "https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk"
+        "name": "Fashion Week (with Channel Tres)",
+        "url": "https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         },
         {
-          "name": "Black Uhuru",
-          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 231840,
-      "name": "Welcome To Dinna",
-      "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
+      "duration_ms": 214575,
+      "name": "Fashion Week (with Channel Tres)",
+      "url": "https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM"
     }
   ],
   "unique_name": "Umami",

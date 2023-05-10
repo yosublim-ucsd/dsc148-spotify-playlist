@@ -1,12 +1,12 @@
 {
   "description": "Himnos de Resistencia: Somos un pueblo fuerte que no se calla.",
-  "num_followers": 170162,
+  "num_followers": 170234,
   "original_name": "Himnos de Resistencia Latinoamericana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzc5M2E5YmFkZGM1N2QwZTA2YThlYTcxN2E1ZjExNTkzZDUxMjk4",
+  "snapshot_id": "MCxiY2M4Nzg4NTI1YWUzZGVlNmU5MTA3YjYyNDUzYzE4NjA1YTEzYzVj",
   "tracks": [
     {
       "added_at": "2021-09-24 14:38:22",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 280546,
+      "name": "Cerca De La Revolucion",
+      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "El Derecho de Vivir en Paz",
         "url": "https://open.spotify.com/album/72TMw0zavcWwbzU8j2gOmg"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 227444,
       "name": "El Derecho de Vivir en Paz",
       "url": "https://open.spotify.com/track/2xuYcmQW7sFoVHygnyP2k1"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Piano Bar",
-        "url": "https://open.spotify.com/album/17utekM9a95MchXbkbh47k"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 280546,
-      "name": "Cerca De La Revolucion",
-      "url": "https://open.spotify.com/track/66grIvFLGrI4tNhggO2DAd"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -955,22 +955,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "Clandestino / Bloody Border",
-        "url": "https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 173977,
-      "name": "Bloody Bloody Border",
-      "url": "https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "La Voz de los '80 (Edici\u00f3n 30 A\u00f1os)",
         "url": "https://open.spotify.com/album/21KLKcu16r2Rg2rMxw2ksa"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 242216,
       "name": "Latinoam\u00e9rica Es un Pueblo al Sur de Estados Unidos",
       "url": "https://open.spotify.com/track/6Y57xXG66eowb6BqZfbd0U"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "Clandestino / Bloody Border",
+        "url": "https://open.spotify.com/album/09U5RBDuQaH2Lwzhocwyj6"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 173977,
+      "name": "Bloody Bloody Border",
+      "url": "https://open.spotify.com/track/7jWnrn6gQVWQ2W3PGNWP08"
     },
     {
       "added_at": "2022-04-01 20:17:41",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
+      },
+      "artists": [
+        {
+          "name": "Los Prisioneros",
+          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "Por Qu\u00e9 No Se Van",
+      "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Cantos revolucionarios de america latina",
         "url": "https://open.spotify.com/album/2bD2Qk8NESRcHDcMmoHg9k"
       },
@@ -1091,6 +1107,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Los Dinosaurios - Live",
+      "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/4mAVKOe8vgXZf8Yyzfetqz"
       },
@@ -1119,38 +1151,6 @@
       "duration_ms": 346506,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/26YfhyustEuuQpTzxp4tdP"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Coleccion Suprema",
-        "url": "https://open.spotify.com/album/62mYqA8S00dcrD42jmml86"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros",
-          "url": "https://open.spotify.com/artist/2mSHY8JOR0nRi3mtHqVa04"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Por Qu\u00e9 No Se Van",
-      "url": "https://open.spotify.com/track/2Q81Tu7mnx5g5vfyVPCvCV"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Los Dinosaurios - Live",
-      "url": "https://open.spotify.com/track/0BWhmRyHvBLMcEJDAos2PD"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
-        "name": "La Nueva Cancion Chilena, Vol. 1",
-        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
-      },
-      "artists": [
-        {
-          "name": "Quilapay\u00fan",
-          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
-        }
-      ],
-      "duration_ms": 279333,
-      "name": "La Muralla",
-      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
         "name": "Almismotiempo",
         "url": "https://open.spotify.com/album/0DdeLpEFBKlHGUT72nyxAQ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 222432,
       "name": "Millones",
       "url": "https://open.spotify.com/track/6EYVI4zwxzP3EnViyiI5x0"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
+        "name": "La Nueva Cancion Chilena, Vol. 1",
+        "url": "https://open.spotify.com/album/6lXAQ5Gozo845iSrcQEvfI"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "La Muralla",
+      "url": "https://open.spotify.com/track/7xTdDHBepVRqP9BqobHI75"
     },
     {
       "added_at": "2021-09-24 14:38:22",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2021-09-24 14:38:22",
       "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
+    },
+    {
+      "added_at": "2021-09-24 14:38:22",
+      "album": {
         "name": "Octubre",
         "url": "https://open.spotify.com/album/4ds5vTznbduvC2aTg041Or"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 228456,
       "name": "Octubre",
       "url": "https://open.spotify.com/track/36Mq1PveDyp8vsdbnBHDRb"
-    },
-    {
-      "added_at": "2021-09-24 14:38:22",
-      "album": {
-        "name": "La Velocidad de la Luz",
-        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "La Maldici\u00f3n de Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/5UMI3R8gkfBrCpF7zX2g3U"
     },
     {
       "added_at": "2022-09-26 22:09:52",

@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-219 songs - 11 hr 59 min
+221 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [After You've Gone](https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [After You've Gone](https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N) | 3:00 | 2023-03-23 |  |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2023-03-23 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 | 2023-03-23 |  |
-| [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-04-20 |  |
+| [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-04-20 | 2023-05-10 |
 | [Around Me](https://open.spotify.com/track/3GCaoFaGqlbsSXFCFrHozb) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Around Me](https://open.spotify.com/album/6878HE0QBMwKRpceYf0U5z) | 2:42 | 2023-04-20 |  |
 | [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 | 2023-03-23 |  |
 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 | 2023-03-23 |  |
@@ -105,6 +105,7 @@
 | [In a sentimental mood](https://open.spotify.com/track/3gmQ3tklUt8IJixvO3jVAp) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [In a sentimental mood](https://open.spotify.com/album/0zukKIRRaLdu8NcLxY61cH) | 2:26 | 2023-03-23 |  |
 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 | 2023-03-23 |  |
 | [In My Solitude](https://open.spotify.com/track/22NftQ2VUEMoD1DqUbi8rF) | [Andy Luma](https://open.spotify.com/artist/6GjiL3RcaPgKpYfk3Q8Gof) | [My Shining Hour](https://open.spotify.com/album/4RFgQUMZWRpdqP28HhEQH4) | 3:44 | 2023-03-23 | 2023-05-07 |
+| [In the Still of the Night](https://open.spotify.com/track/5pIMrMuwl2lJEG76fOF8s3) | [Seth Bluebird](https://open.spotify.com/artist/1DyC6srMJye16IeKdJYplZ) | [In the Still of the Night](https://open.spotify.com/album/4n4at7yvCzw3knrToEAd9S) | 2:19 | 2023-05-04 |  |
 | [Infant Eyes](https://open.spotify.com/track/5DxtTMAODwWNThoTt33YgQ) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Infant Eyes](https://open.spotify.com/album/7FMCO2zoEfzaHzpXoP8YZc) | 3:40 | 2023-04-20 |  |
 | [It Could Happen To You](https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [It Could Happen To You](https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS) | 3:28 | 2023-03-23 |  |
 | [It Could Happen to You](https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2) | [Maurillo](https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg) | [It Could Happen to You](https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf) | 2:35 | 2023-03-23 |  |
@@ -135,7 +136,7 @@
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-03-23 |  |
 | [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2023-03-23 |  |
 | [My Funny Valentine](https://open.spotify.com/track/16ux8DXCSRapY8mxHavplM) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [My Funny Valentine](https://open.spotify.com/album/0N33fi2a8iGqcs5WWbnIdC) | 2:50 | 2023-03-23 |  |
-| [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 | 2023-03-23 |  |
+| [My Golden Hour](https://open.spotify.com/track/3IpJ670QsPqQqRXiR0puyR) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [My Golden Hour](https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj) | 2:18 | 2023-03-23 | 2023-05-10 |
 | [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2023-03-23 |  |
 | [My Old Town](https://open.spotify.com/track/4bgcSZ5LgC8O6KBHyybI6T) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [My Old Town](https://open.spotify.com/album/5Fen3A5kz69GvxgEl016un) | 3:33 | 2023-03-23 |  |
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2023-03-23 |  |
@@ -165,6 +166,7 @@
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-03-23 |  |
 | [Skating in Central Park](https://open.spotify.com/track/5DL2qEB0QeLlMNFjcYfcDm) | [Sean Eastman](https://open.spotify.com/artist/4SMptkAtq8f31ziDjPuint) | [Skating in Central Park](https://open.spotify.com/album/3dgfesW8kzGn0ePWdsZlMo) | 2:58 | 2023-03-23 |  |
 | [Skylark](https://open.spotify.com/track/5XzlyI2iS6Km2SNsEQ4O91) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Skylark](https://open.spotify.com/album/6DEaWap07T8LIFfnHVSVIr) | 3:29 | 2023-03-23 |  |
+| [Slowing Down](https://open.spotify.com/track/1aItJE8RukUc0lnMdj45FJ) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [Slowing Down](https://open.spotify.com/album/4DOFbLvmNKJhD0mcEv0hUt) | 3:28 | 2023-05-04 |  |
 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/6LJWQLh4DaQqiYrimdO5Ep) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Smoke Gets In Your Eyes](https://open.spotify.com/album/4ZY1K4JlzmoxdCJF6M18O5) | 4:40 | 2023-03-23 |  |
 | [Some kind of friend](https://open.spotify.com/track/2UQ6oJL6UV5CeoO4VejBYl) | [Marilyn Morris](https://open.spotify.com/artist/46iL28eIvIrr2mhp956mEx) | [Some kind of friend](https://open.spotify.com/album/0E1hU35PyKJn70EiD0pCgo) | 3:07 | 2023-04-27 |  |
 | [some other time](https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:14 | 2023-03-23 |  |

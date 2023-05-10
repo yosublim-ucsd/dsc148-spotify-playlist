@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 403903,
+  "num_followers": 404174,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzViNWRlZmExOTk4MGU3MGJiNzk5ZTY2NTk2NDliNDZjNTdmN2Jm",
+  "snapshot_id": "MCxhZTNkODY2ODY3ZTU1MmNiNWNjMTZmMjg3MjE0MTZhYWRhYWJjOTA0",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Where Did You Go (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 177689,
-      "name": "Where Did You Go? (feat. MNEK)",
-      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Love Tonight (David Guetta Remix)",
         "url": "https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 158095,
       "name": "Love Tonight (David Guetta Remix Edit)",
       "url": "https://open.spotify.com/track/2prnn41CblB8B4yWACDljP"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Where Did You Go (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 177689,
+      "name": "Where Did You Go? (feat. MNEK)",
+      "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "My Heart Goes (La Di Da) (feat. Topic)",
-        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 148960,
-      "name": "My Heart Goes (La Di Da) (feat. Topic)",
-      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Turn Me On (feat. Vula)",
         "url": "https://open.spotify.com/album/7mtnp7B5yFt3D3PAznGzc8"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 208473,
       "name": "Turn Me On (feat. Vula)",
       "url": "https://open.spotify.com/track/0qaWEvPkts34WF68r8Dzx9"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "My Heart Goes (La Di Da) (feat. Topic)",
+        "url": "https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 148960,
+      "name": "My Heart Goes (La Di Da) (feat. Topic)",
+      "url": "https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -2843,26 +2843,6 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
-        "name": "Stereo Love",
-        "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
-      },
-      "artists": [
-        {
-          "name": "Edward Maya",
-          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-        },
-        {
-          "name": "Vika Jigulina",
-          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Stereo Love - Radio Edit",
-      "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE"
       },
@@ -2879,6 +2859,26 @@
       "duration_ms": 243536,
       "name": "Heat Waves - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/65xvfgI2nNrOYHhGUzw9XP"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF"
+      },
+      "artists": [
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Stereo Love - Radio Edit",
+      "url": "https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN"
     },
     {
       "added_at": "2023-05-05 04:01:00",

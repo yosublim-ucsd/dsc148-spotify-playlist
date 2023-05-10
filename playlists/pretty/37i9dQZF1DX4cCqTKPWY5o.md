@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 
 > Move it and groove it to these great tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,572 likes - 35 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,603 likes - 35 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cCqTKPWY5o.md) - [plain]
 | 34 | [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 |
 | 35 | [Faith \- From "Sing" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Ol9VB4eBkSuM9sghD4lgP) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sing \(Original Motion Picture Soundtrack / Deluxe\)](https://open.spotify.com/album/5Sdmly0VRVw0wIow5eMHAW) | 2:42 |
 
-Snapshot ID: `MCxlNzMwMGFhYTZmNjZiMDJjYzg5NDM3YzQxNWNmZmJmYTA5YjgwYjUy`
+Snapshot ID: `MCwxZjZhMmUxYzNjMjRmZjIxOGVlMThjMTU2ZjU5NDQzMzYzYzgxMGY0`

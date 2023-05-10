@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Mike Bah\u00eda",
-  "num_followers": 251488,
+  "num_followers": 251529,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzU3MmRjYTJjMmZjMjI1ZGUwYTVkNDE3MWJiZTg0YWJmMzkzNmM0",
+  "snapshot_id": "MCwzYTNlYTFjOTljN2YwZGNkZDlmOTUzNzI3MDE5MmJkOGYyYzJmZDQ2",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -611,26 +611,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Esta Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
-      },
-      "artists": [
-        {
-          "name": "Tutto Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
-        },
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        }
-      ],
-      "duration_ms": 214145,
-      "name": "Esta Canci\u00f3n",
-      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Rom\u00e1ntica Champeta",
         "url": "https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 202641,
       "name": "Rom\u00e1ntica Champeta",
       "url": "https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Esta Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr"
+      },
+      "artists": [
+        {
+          "name": "Tutto Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ"
+        },
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 214145,
+      "name": "Esta Canci\u00f3n",
+      "url": "https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 271030,
-      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
-      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -755,18 +739,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Desn\u00fadate",
-        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
+        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
       },
       "artists": [
         {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 231363,
-      "name": "Desn\u00fadate",
-      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
+      "duration_ms": 271030,
+      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
+      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -783,6 +767,22 @@
       "duration_ms": 167689,
       "name": "No Pasa De Moda",
       "url": "https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Desn\u00fadate",
+        "url": "https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 231363,
+      "name": "Desn\u00fadate",
+      "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lado A Lado B",
-        "url": "https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n"
+        "name": "La Vida Da Vuelta",
+        "url": "https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
         }
       ],
-      "duration_ms": 276726,
-      "name": "Decid\u00ed Tener Pantalones",
-      "url": "https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL"
+      "duration_ms": 162882,
+      "name": "La Vida Da Vuelta",
+      "url": "https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad"
     }
   ],
   "unique_name": "el nuevo tropical",

@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 64191,
+  "num_followers": 64258,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjMwNDU2ZDgwZTIzZDQ3MGMzYWJiM2QwOWRiYzdhZTBjZTgxMjA1",
+  "snapshot_id": "MCw1MmRiNDFjNjk3YTlmOGNkNzA1NmMzZThkMzk1NGQ0Y2EzNjk0MGMz",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Do Right Woman, Do Right Man",
-      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Couldn't Stand The Weather (Legacy Edition)",
         "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 240986,
       "name": "Cold Shot",
       "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Do Right Woman, Do Right Man",
+      "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 478746,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 445533,
       "name": "Bad News Is Coming",
       "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 478746,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -891,22 +891,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 227751,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Suitcase",
         "url": "https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 256493,
       "name": "Life Is Beautiful",
       "url": "https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 227751,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/2hv2NiSq8p4pgL28pxcqAJ"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Genuine Houserocking Music",
         "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 210493,
       "name": "Ain't Got Nobody",
       "url": "https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 228019,
-      "name": "Fresh Out",
-      "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "You Can't Teach An Old Dog New Tricks",
         "url": "https://open.spotify.com/album/19NWR3uhtr9uIMIms0alvr"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 214053,
       "name": "You Can't Teach An Old Dog New Tricks",
       "url": "https://open.spotify.com/track/2YXJSAmQ6teroFJLAkYI7f"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 228019,
+      "name": "Fresh Out",
+      "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Road I Call Home",
-        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 232724,
-      "name": "What's the Matter with You",
-      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Trouble Is...",
         "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 334800,
       "name": "Somehow, Somewhere, Someway",
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Road I Call Home",
+        "url": "https://open.spotify.com/album/3isKOTZKofEvSaMmYUgkCT"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 232724,
+      "name": "What's the Matter with You",
+      "url": "https://open.spotify.com/track/4A6f46GmPGqzz1lV3gm8ns"
     },
     {
       "added_at": "2021-03-03 17:28:10",

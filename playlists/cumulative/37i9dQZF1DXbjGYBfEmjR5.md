@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-481 songs - 1 day 3 hr 19 min
+482 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Kuudere Crush](https://open.spotify.com/track/2POY4U4R7lxUM61ryNHRmL) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Kuudere Crush](https://open.spotify.com/album/30yExUgU7Q1AItAXaSKBaf) | 3:03 | 2021-12-08 | 2022-07-16 |
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/album/3tXVxjXrXJMTBXorraiZHQ) | 2:49 | 2022-03-04 | 2022-03-12 |
 | [La la la](https://open.spotify.com/track/0FHBSf6b8BMiBHklvEHfqk) | [Tui](https://open.spotify.com/artist/5bGWwQe5HEzyeWZOPlWKdP) | [Castto IV](https://open.spotify.com/album/1zY5IszNk3TilG9zBF4bMa) | 3:45 | 2022-01-25 | 2022-06-01 |
+| [La Musique](https://open.spotify.com/track/1kT2lldHeWUXUzCWRql3ey) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [ERA](https://open.spotify.com/album/2Kcqp44sybZLCjNxIgD322) | 3:11 | 2022-11-04 |  |
 | [La Musique](https://open.spotify.com/track/7iyb4S0aR3dmvRTNn6dHKo) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Era](https://open.spotify.com/album/26pAoDv2hi7pjc6vcuIkiz) | 3:11 | 2022-02-27 | 2023-04-12 |
 | [Lady Paradise](https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [Paradise Break](https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf) | 2:55 | 2022-04-12 | 2022-04-21 |
 | [Laser Beams](https://open.spotify.com/track/6LF3nHngr3WiJoapILAw9W) | [Remlarr](https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ) | [Edges](https://open.spotify.com/album/0Mjm737nZYCZsEnc2TIots) | 4:16 | 2021-12-08 | 2022-07-11 |
@@ -324,7 +325,7 @@
 | [Prophecy](https://open.spotify.com/track/6ZtBwt3SJIMLTyHRb6c9MG) | [FIBRE](https://open.spotify.com/artist/4TTEh9cj0iUXFJFBHsysF4) | [Prophecy](https://open.spotify.com/album/5tRUJC0mUm5hect2JyynN3) | 4:13 | 2022-07-15 | 2022-08-19 |
 | [Prysm](https://open.spotify.com/track/5hS0NoR2jtln7HEUzgQxqd) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Textures](https://open.spotify.com/album/25xCGzP8gWJ70RLCvxVCva) | 4:10 | 2022-01-25 | 2022-04-21 |
 | [quarterback](https://open.spotify.com/track/6OliMSA14nkLCNqg3Z7IHH) | [Versiple](https://open.spotify.com/artist/0cEFiT4m9AYmMcV9iB5tfU), [D 4 1 N](https://open.spotify.com/artist/3jPIkCadgrUjKlqMoUqsAw) | [quarterback](https://open.spotify.com/album/6kNfkid5vtggYikSGzHRlZ) | 3:42 | 2022-09-16 | 2022-12-02 |
-| [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 | 2021-12-08 |  |
+| [Querelle](https://open.spotify.com/track/0BqdzJOqFf5Xm3MQhB431C) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:51 | 2021-12-08 | 2023-05-10 |
 | [R&B](https://open.spotify.com/track/2FGT4Tpk5M9qO2nBHpNE6R) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [R&B](https://open.spotify.com/album/7FlTwgH1CA7Yqpz2zUku1z) | 3:25 | 2022-11-04 |  |
 | [Radiant Memories](https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ) | [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8) | [Kanji Title](https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo) | 3:19 | 2021-12-08 |  |
 | [Rainbow Badge](https://open.spotify.com/track/58maRxsmhNQcne43mcphIV) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [Pokéwave III](https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw) | 3:28 | 2021-12-08 |  |

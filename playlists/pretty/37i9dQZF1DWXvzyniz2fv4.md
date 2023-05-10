@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,286 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,308 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 40 | [Todas as Cidades](https://open.spotify.com/track/2XQQNpvvGwIVWei7Deg9o9) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Todas as Cidades](https://open.spotify.com/album/12zQoI9qCsnBo6t9Qe176A) | 2:15 |
 | 41 | [Nada comum](https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [Nada Comum](https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO) | 3:19 |
 | 42 | [Fica](https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3) | [Nitto](https://open.spotify.com/artist/2of8A9ksNq06cDBiWVWSgT), [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Fica](https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty) | 2:49 |
-| 43 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 |
-| 44 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
+| 43 | [Certo pra Você](https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI) | [MTK](https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9) | [Certo pra Você](https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv) | 3:31 |
+| 44 | [Stories](https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc) | [24por7](https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF) | [Stories](https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R) | 2:08 |
 | 45 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 |
 | 46 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 |
 | 47 | [Mais uma Chance](https://open.spotify.com/track/7n3aPIJq9ZxTyAOEg85hf8) | [Buia Kalunga](https://open.spotify.com/artist/5p4CIQBC5IfTxV8HLIIHq3), [Macaia](https://open.spotify.com/artist/3B2EYNLazFL31hMcM44lEV) | [Mais uma Chance](https://open.spotify.com/album/28jyVUfpa6fxNk2pToC92M) | 3:03 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [27 Dias](https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6) | [Douriel](https://open.spotify.com/artist/4gYOZZdzJ8PMurmOD72ZLF), [Dracko](https://open.spotify.com/artist/6gOq16KSO2ORGiVS7yDZHY), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [27 Dias](https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX) | 2:19 |
 | 75 | [Voe](https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Voe](https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs) | 2:32 |
 
-Snapshot ID: `MCxmZjFkMDA4MTRiNTA4MmZkZDk0ZjQxODY3ZGRkYjBjODdlZDQ2YWFj`
+Snapshot ID: `MCw1ZTQ1MWRiMTc0MTZlMjY5MDZmNDIzYmVjZWFlNjExYmJjMjMwMmFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,749 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,772 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 49 | [Hazme Olvidarla \- En Vivo](https://open.spotify.com/track/5SgtDlep0eOfVwcdyf5Heh) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Lo Nuevo Y Lo Mejor \(En Vivo\)](https://open.spotify.com/album/7iHGyYhoSAKDQG9UA2HsHy) | 6:32 |
 | 50 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 
-Snapshot ID: `MCxlMTZiZTAwNTliZDE2NTFhMGM3ODEyYmJmOTdjY2ZiM2Q2OTkxNjFk`
+Snapshot ID: `MCw5NWMwMDFiOWFlMzAwZjhhODIzNTFiODg4YmE0MTJjMWExZjkzNDU3`

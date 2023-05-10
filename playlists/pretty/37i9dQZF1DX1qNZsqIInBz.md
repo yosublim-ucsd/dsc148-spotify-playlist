@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 
 > smooth drifting only
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,007 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,362 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 71 | [After World](https://open.spotify.com/track/43jFJOD28MIG9vgcqVlvhn) | [chipbagov](https://open.spotify.com/artist/0sd6x399jllqi3BqxgBvlw) | [After World](https://open.spotify.com/album/42cJG6MAXsrjoR7wV5e22G) | 2:11 |
 | 72 | [Cyanide](https://open.spotify.com/track/2FqBlSZxiRuxjgQcMvQAUP) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [Cyanide](https://open.spotify.com/album/1AlwyKku3ObMAl0jkz8Qwf) | 2:57 |
 | 73 | [EUPHORIA](https://open.spotify.com/track/3BNv1ZzyYexaVGUYkEYSRI) | [DVRKLXGHT](https://open.spotify.com/artist/4tfNkqJHj0rmRuERAZJDxf) | [EUPHORIA](https://open.spotify.com/album/1t32gKI0EhGB4z5hnwKjSs) | 3:03 |
-| 74 | [Night Drive](https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/1WAQ6fdYFjJuSjs0rKDx31) | 2:51 |
+| 74 | [Night Drive](https://open.spotify.com/track/3dEiXRHTDuBsG1C3An4aP2) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/3CCeB3HbTc1UjhOEFBN2J2) | 2:51 |
 | 75 | [LIGHTS XFF](https://open.spotify.com/track/1hxhlE5DUTZTcToXlCDTSk) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [LIGHTS XFF](https://open.spotify.com/album/285Vwbiv1lPB5hjFHUra02) | 2:20 |
 | 76 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 |
 | 77 | [MACHINE](https://open.spotify.com/track/2Ygz10JmWDwVigM6jN94H8) | [mxnarch](https://open.spotify.com/artist/42WdWoZDRwUeWhGOYDhfuj), [CERAZ](https://open.spotify.com/artist/2qN0KCCSg4BwDSagUxmEfR) | [MACHINE](https://open.spotify.com/album/6QeJDinj9YHIbiermHKxB6) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qNZsqIInBz.md) - [plain]
 | 99 | [nothing is eternal](https://open.spotify.com/track/7h3K4ED9jiEO447oGAvISz) | [deadsouls](https://open.spotify.com/artist/0mM8z9rf7HGXaqR0JWBlQE) | [nothing is eternal](https://open.spotify.com/album/7hEjkOUvBZKI3S3pHOGV3l) | 2:29 |
 | 100 | [This Feeling](https://open.spotify.com/track/3vefdW0Zsk57Qn0qxXeVCI) | [my!lane](https://open.spotify.com/artist/5AEk8UqmJ2lCUG3xke82Or) | [Sakura's Shadows](https://open.spotify.com/album/2Ve9vOvILPIDomVfrFr4bH) | 2:43 |
 
-Snapshot ID: `MCwzYzQ2MDdlZmFlYjc3YzQzNzUyOTU1MTdiNGJiOGYxYmFhNzhhZDNj`
+Snapshot ID: `MCwwMTg5YjliNzgzZTY2MjkzOWM3MDIwMGE0NWJlNzRmOTc2MTZmNjRm`

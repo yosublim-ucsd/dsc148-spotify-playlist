@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1990s. ",
-  "num_followers": 7735718,
+  "num_followers": 7737591,
   "original_name": "All Out 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzBiYmQxNWVjMzJiOWNhYTk4NjlmODVkMGRlZjc0NmQ3M2I5NGY2",
+  "snapshot_id": "MCxkMTc2ZjY0YmZmMzIwNDQ2NjQ2ZGMzMzVmOGU1NDg3NmQyMDAzMjYw",
   "tracks": [
     {
       "added_at": "2022-12-22 14:12:20",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 329733,
-      "name": "Californication",
-      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 261973,
       "name": "Maria Maria (feat. The Product G&B)",
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 329733,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Sixpence None the Richer",
-        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Sixpence None the Richer",
+        "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "All That She Wants",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Maybe You've Been Brainwashed Too",
         "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Pony",
-      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1867,6 +1851,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -1879,54 +1879,6 @@
       "duration_ms": 284160,
       "name": "They Don't Care About Us",
       "url": "https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "I Should Coco",
-        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 180880,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Genie In a Bottle",
-      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -1951,6 +1903,54 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "I Should Coco",
+        "url": "https://open.spotify.com/album/3YfIjaJEWqiSbKPguS9Bxd"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 180880,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
         "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "We See The Same Sun",
-        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
-      },
-      "artists": [
-        {
-          "name": "Mr. President",
-          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Coco Jamboo",
-      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Ronan",
         "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "duration_ms": 218733,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 316826,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 316826,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Yourself or Someone Like You",
         "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 225946,
       "name": "3AM",
       "url": "https://open.spotify.com/track/5vYA1mW9g2Coh1HUFUSmlb"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
-      },
-      "artists": [
-        {
-          "name": "Deep Blue Something",
-          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Tal Bachman",
         "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
@@ -2267,22 +2251,6 @@
       "duration_ms": 224693,
       "name": "She's so High",
       "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
-        "name": "Mezzanine",
-        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
-      },
-      "artists": [
-        {
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        }
-      ],
-      "duration_ms": 330773,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2303,6 +2271,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
+      },
+      "artists": [
+        {
+          "name": "Deep Blue Something",
+          "url": "https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -2319,18 +2303,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Massive Attack",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         }
       ],
-      "duration_ms": 351466,
-      "name": "End Of The Road",
-      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
+      "duration_ms": 330773,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/67Hna13dNDkZvBpTXRIaOJ"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2351,18 +2335,18 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Boombastic",
-        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
       "artists": [
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Boombastic",
-      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
+      "duration_ms": 351466,
+      "name": "End Of The Road",
+      "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
     },
     {
       "added_at": "2022-12-22 14:12:20",
@@ -2383,6 +2367,22 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
+        "name": "Boombastic",
+        "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "duration_ms": 249933,
+      "name": "Boombastic",
+      "url": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2022-12-22 14:12:20",
       "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "The Bad Touch",
-      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
-    },
-    {
-      "added_at": "2022-12-22 14:12:20",
-      "album": {
         "name": "Nobody Else (Expanded Edition)",
         "url": "https://open.spotify.com/album/5SjK8QSqZEHMkzlq2LgM8e"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ"
+    },
+    {
+      "added_at": "2022-12-22 14:12:20",
+      "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "The Bad Touch",
+      "url": "https://open.spotify.com/track/5EYdTPdJD74r9EVZBztqGG"
     },
     {
       "added_at": "2022-12-22 14:12:20",

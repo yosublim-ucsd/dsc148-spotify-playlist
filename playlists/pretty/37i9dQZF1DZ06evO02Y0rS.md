@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 
 > This is Bonobo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,368 likes - 48 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,396 likes - 48 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 23 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |
 | 24 | [Sapphire](https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:47 |
 | 25 | [We Could Forever](https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 4:19 |
-| 26 | [Noctuary](https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:22 |
-| 27 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
+| 26 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
+| 27 | [Noctuary](https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Dial 'M' for Monkey](https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K) | 5:22 |
 | 28 | [Jets](https://open.spotify.com/track/3cg38isdTrBH63B4BMywsw) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 4:34 |
 | 29 | [The Plug](https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Animal Magic](https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql) | 5:18 |
 | 30 | [El Toro](https://open.spotify.com/track/6bwcWOibIUyOJQ2FgMbeIH) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:44 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO02Y0rS.md) - [plain]
 | 47 | [Flashlight](https://open.spotify.com/track/0CPEvRFKdvpK0veEeY56T6) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:30 |
 | 48 | [No Reason](https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 7:28 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA0ZjhjNWRjZGRhODQ1NjgyZTc0MGUyM2ViNWI3NDIwNg==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA2OTg2ZmE2ZjE5YjJlYmEyZjA4OTUyNTc1YzgyYWRjMA==`

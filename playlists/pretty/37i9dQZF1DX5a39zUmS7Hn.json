@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: The Hives",
-  "num_followers": 392322,
+  "num_followers": 392372,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjRhN2ExNTgxM2JmZjc5YTIwOTBkMzI4YzRhNGNkNjQ0ZDhlNmRi",
+  "snapshot_id": "MCwzYTQ5YWI5ZTFjYTk0YWRhOWU5YWMyY2JkNTA0NDZlMmJiNjE5ZWM5",
   "tracks": [
     {
       "added_at": "2023-05-04 23:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 199342,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Seven Inches Of Satanic Panic",
         "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 244804,
       "name": "Mary On A Cross",
       "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/7bN4OM5mtWq0UrAxdN6qMC"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/373gDROnujxNTFa1FojYIl"
     },
     {
       "added_at": "2023-05-04 23:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-04 23:00:00",
       "album": {
-        "name": "Substance",
-        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 449160,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
-    },
-    {
-      "added_at": "2023-05-04 23:00:00",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 301866,
       "name": "All These Things That I've Done",
       "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "added_at": "2023-05-04 23:00:00",
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 449160,
+      "name": "Blue Monday",
+      "url": "https://open.spotify.com/track/6hHc7Pks7wtBIW8Z6A0iFq"
     },
     {
       "added_at": "2023-05-04 23:00:00",

@@ -4,7 +4,7 @@
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-150 songs - 11 hr 44 min
+151 songs - 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,11 +21,12 @@
 | [Affirmation Pt\. II](https://open.spotify.com/track/2k1u3DMlWX82JcaLy88Xvr) | [Sally Decker](https://open.spotify.com/artist/4a4XbzVUadFOng9sQsvp7l), [Briana Marela](https://open.spotify.com/artist/35iTyTjBjpcGsXWRui2ZvX), [Emily Cardwell](https://open.spotify.com/artist/5ypl6CBT7VZfDjDEnMExOH) | [In the Tender Dream](https://open.spotify.com/album/6mOXe8Zou8L1DUvebPX2G6) | 3:27 | 2022-05-18 | 2023-01-18 |
 | [Afraid](https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg) | 3:46 | 2022-05-18 | 2022-07-28 |
 | [Afraid](https://open.spotify.com/track/6mIRfLOXlbVVI03oHrg8b1) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/4QAYOB5v6hxBRJxsinOuL8) | 3:46 | 2022-07-01 | 2023-04-30 |
+| [Afraid](https://open.spotify.com/track/77N3e7R99NiCkHpkQltWzn) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Afraid](https://open.spotify.com/album/7lhN1kGdks7l95IDSI8Ot9) | 3:46 | 2023-05-05 |  |
 | [After its own death: Side A](https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3) | [Nivhek](https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl) | [After its own death / Walking in a spiral towards the house](https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB) | 16:41 | 2022-05-18 |  |
 | [ahead](https://open.spotify.com/track/2OFqPVwWQw2si7wFPLQpwO) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [ahead](https://open.spotify.com/album/2Cg3oKoQAJmDDSQ1XTwYvJ) | 2:04 | 2022-11-11 |  |
 | [alive & well \(gratitude mantra\)](https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [alive & well \(gratitude mantra\)](https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI) | 10:34 | 2023-05-05 |  |
 | [All Things Devour \- Botany Remix](https://open.spotify.com/track/4iNffLEhCYNSpvcJEwRHMX) | [aeseaes](https://open.spotify.com/artist/52KatchKjz0L2amwBDxxwO), [Botany](https://open.spotify.com/artist/4X8xPTUQoC19tQjPG40M81) | [All Things Devour \(Botany Remix\)](https://open.spotify.com/album/03HQK0q3fWW6f06fL1tJ70) | 5:26 | 2022-05-18 |  |
-| [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 | 2022-05-18 |  |
+| [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 | 2022-05-18 | 2023-05-10 |
 | [Anomaly](https://open.spotify.com/track/2qbm8KA7O83nPviXa5aK5I) | [Dania](https://open.spotify.com/artist/6zT9Hqr8CQBZGevQoo9S9O) | [Voz](https://open.spotify.com/album/3uY9APJcADScKquOCujhw3) | 2:31 | 2022-09-07 |  |
 | [Around Me](https://open.spotify.com/track/3DpgXewqgwLcwQBmrd5oGE) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/1XxCgww2zlUU8Yp0L5uFh2) | 1:29 | 2022-12-02 | 2023-05-01 |
 | [Around Me](https://open.spotify.com/track/6SPE7i4gvYAERzSYiQJdPj) | [The Bug](https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw), [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [In Blue](https://open.spotify.com/album/3Yuv4qdWt1yzO5GuDLOygK) | 1:29 | 2022-05-18 | 2022-07-28 |

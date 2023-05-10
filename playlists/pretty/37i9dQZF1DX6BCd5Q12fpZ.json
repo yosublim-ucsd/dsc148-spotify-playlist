@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 61678,
+  "num_followers": 61879,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTQzYWExNTljNzQ4NzNjYzhiOTUyNDZiNGUyOWM5MmVkZTExOTY4",
+  "snapshot_id": "MCw4ZjkyYzhjMzllNzM4ZDMwOTNiMjUzYjg3NGRiMDAxZjJiMjg4Zjk5",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
-      },
-      "artists": [
-        {
-          "name": "Dami Im",
-          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
-        }
-      ],
-      "duration_ms": 195479,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 186000,
       "name": "You are the only one",
       "url": "https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Sound of Silence",
+        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "Sound of Silence",
+      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Vive la vie (Edition sp\u00e9ciale)",
-        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
-      },
-      "artists": [
-        {
-          "name": "Twin Twin",
-          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
-        }
-      ],
-      "duration_ms": 169181,
-      "name": "Moustache",
-      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3glqvX58NEoX9D7Y60N429"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 180586,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/0JGbU6NlewrskD138Wq04b"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Vive la vie (Edition sp\u00e9ciale)",
+        "url": "https://open.spotify.com/album/64TJ7px9P7xSUXHB3604uf"
+      },
+      "artists": [
+        {
+          "name": "Twin Twin",
+          "url": "https://open.spotify.com/artist/2hJPfJfj1VpL2AJvelxxzx"
+        }
+      ],
+      "duration_ms": 169181,
+      "name": "Moustache",
+      "url": "https://open.spotify.com/track/6ILOO5bZA9x6zanAMO0hKr"
     },
     {
       "added_at": "2023-05-05 17:20:54",

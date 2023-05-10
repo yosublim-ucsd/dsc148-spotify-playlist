@@ -1,12 +1,12 @@
 {
   "description": "Dos estilos, dos sonidos, un mismo origen: El Barrio. Eladio Carri\u00f3n & Peso Pluma en portada.",
-  "num_followers": 125978,
+  "num_followers": 126188,
   "original_name": "El Barrio MP3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODVmOTVmMzc4Y2U2ZWVmYjc3MzczNTNiMmI5ZjY1YThkMDAwYTJk",
+  "snapshot_id": "MCw2ZDNmYWM1N2I3MTg4NjRiNzcxMzRkMDk1Yzg1ZmVhZmVmMTc5ZTcz",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -785,20 +801,20 @@
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
-      "added_at": "2023-04-19 16:02:16",
+      "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -819,22 +835,6 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "Morritas",
-        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 216330,
-      "name": "Morritas",
-      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
+        "name": "Morritas",
+        "url": "https://open.spotify.com/album/4rl0XbWJhc8ZD2aTPwo7a7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 216330,
+      "name": "Morritas",
+      "url": "https://open.spotify.com/track/5RQKSb1oqK7bAkuNpu1NSC"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -911,26 +927,6 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
-        "name": "Que Me Importa",
-        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "Que Me Importa",
-      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1033,20 +1029,24 @@
       "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
     },
     {
-      "added_at": "2023-05-05 06:00:00",
+      "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
+        "name": "Que Me Importa",
+        "url": "https://open.spotify.com/album/0AParm3sgfEHQUXnUP4ivI"
       },
       "artists": [
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
+      "duration_ms": 208541,
+      "name": "Que Me Importa",
+      "url": "https://open.spotify.com/track/7rp5s1fEFuu42FoeHrrPyx"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "Sin Rencores",
-        "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 148624,
-      "name": "Sin Rencores",
-      "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
         "name": "Ciudad Peligrosa",
         "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 226000,
       "name": "Ciudad Peligrosa",
       "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
+        "name": "Sin Rencores",
+        "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 148624,
+      "name": "Sin Rencores",
+      "url": "https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-04-19 16:02:16",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
-    },
-    {
-      "added_at": "2023-04-19 16:02:16",
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 192053,
       "name": "El Deportivo",
       "url": "https://open.spotify.com/track/00UbH8ziTAgSGvc8vf9qRt"
+    },
+    {
+      "added_at": "2023-04-19 16:02:16",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
     },
     {
       "added_at": "2023-04-19 16:02:16",
@@ -1481,6 +1481,26 @@
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
     },
     {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "\u00bfCu\u00e1les Fronteras?",
+        "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u00bfCu\u00e1les Fronteras?",
+      "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
+    },
+    {
       "added_at": "2023-04-19 16:02:16",
       "album": {
         "name": "30 Blindadas",
@@ -1519,26 +1539,6 @@
       "duration_ms": 161816,
       "name": "Mi Porvenir",
       "url": "https://open.spotify.com/track/1qOAfH6GJZ7IVuOkOsDit9"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "\u00bfCu\u00e1les Fronteras?",
-        "url": "https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u00bfCu\u00e1les Fronteras?",
-      "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
     },
     {
       "added_at": "2023-04-19 16:02:16",

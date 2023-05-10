@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 422193,
+  "num_followers": 422300,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzkzNTY3ZDNjMjkzZmI4NTAzYWVmOGVhNWZiYWQzZGYyNDc0M2Vm",
+  "snapshot_id": "MCxjOTY5ZDk4M2ZkNjE3ZTAyZjAxMjA0ZjA2MGIwOWU0MjdiYTEwYTcy",
   "tracks": [
     {
       "added_at": "2021-12-21 17:00:46",
@@ -579,6 +579,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "Mi Vida es un Tango",
+      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "L\u00e1grimas y Risas",
         "url": "https://open.spotify.com/album/1jJ6OrqBxHEwOuhow0zCHR"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 233253,
       "name": "Ciegos de Amor",
       "url": "https://open.spotify.com/track/4HPxUGVThsV0tUPNU30LZI"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "Mi Vida es un Tango",
-      "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/3Osgqk5IT0FTUc9HehVjXP"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
       "added_at": "2022-09-07 01:07:35",
       "album": {
         "name": "Batuco",
@@ -887,22 +903,6 @@
       "duration_ms": 328680,
       "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
       "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1001,6 +1001,22 @@
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
     },
     {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Sonora Skandalera",
+        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+      },
+      "artists": [
+        {
+          "name": "Sonora Skandalera",
+          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+        }
+      ],
+      "duration_ms": 254589,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+    },
+    {
       "added_at": "2022-09-29 00:17:43",
       "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Sonora Skandalera",
-        "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
       "artists": [
         {
-          "name": "Sonora Skandalera",
-          "url": "https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac"
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
         }
       ],
-      "duration_ms": 254589,
-      "name": "Algo De Suerte",
-      "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
+      "duration_ms": 240072,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 264354,
       "name": "Fuera de Ritmo",
       "url": "https://open.spotify.com/track/2wjG05ZMz3Cgy4opzpNNd7"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Ojos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Antih\u00e9roes",
-        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables",
-          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Criminales Sudamericanos",
-      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Mugre",
         "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 222373,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Antih\u00e9roes",
+        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Criminales Sudamericanos",
+      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "Chamuyo",
+        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 190580,
+      "name": "Caras y Caretas",
+      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "Que Empiece Ya!",
         "url": "https://open.spotify.com/album/5rQsMlFFUEnqbhlJPjoAti"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 280750,
       "name": "Del Ayer",
       "url": "https://open.spotify.com/track/3jBY6x8LCx4X6ylaFWTMeR"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Chamuyo",
-        "url": "https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 190580,
-      "name": "Caras y Caretas",
-      "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "P\u00e1ginas en Blanco",
-        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 273559,
-      "name": "Pasa la Vida",
-      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 274960,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "P\u00e1ginas en Blanco",
+        "url": "https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 273559,
+      "name": "Pasa la Vida",
+      "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
     },
     {
       "added_at": "2021-12-21 17:00:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。©2023 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,227 likes - 44 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,462 likes - 44 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 2 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 3 | [灰原哀からのスペシャルメッセージ!](https://open.spotify.com/track/6TmpGpKzDbYXZMCVw3ZsoF) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』灰原哀からのスペシャルメッセージ!](https://open.spotify.com/album/7dD0QT1x6GXv6XFxXqJj63) | 0:27 |
 | 4 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 |
-| 5 | [江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/track/0GZpMl78mXdua1rM8UJrJ9) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4z6QTN01hvtWpDegAtyMEC) | 0:42 |
+| 5 | [江戸川コナンからのスペシャルメッセージ!その1](https://open.spotify.com/track/0GZpMl78mXdua1rM8UJrJ9) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』](https://open.spotify.com/artist/0OpbGNQiAXWZA67syHiDgV) | [『名探偵コナン 黒鉄の魚影\(サブマリン\)』江戸川コナンからのスペシャルメッセージ!](https://open.spotify.com/album/4z6QTN01hvtWpDegAtyMEC) | 0:42 |
 | 6 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 | 7 | [永遠の不在証明](https://open.spotify.com/track/7FL5iSLdKcersBgDiwijis) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [永遠の不在証明](https://open.spotify.com/album/5y7E3hUWGNoY98C1TubePY) | 4:21 |
 | 8 | [BLUE SAPPHIRE \- 劇場版「名探偵コナン 紺青の拳」ver.](https://open.spotify.com/track/3ANL0oA1nNnLg7el1ARcrf) | [Hiroomi Tosaka](https://open.spotify.com/artist/4lsSLCTKrmfULsRivqAShx) | [BLUE SAPPHIRE \(劇場版「名探偵コナン 紺青の拳」ver.\)](https://open.spotify.com/album/5w2fizvxJ7cG5oXiEcAr5Q) | 3:52 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 43 | [INTERNATIONAL CASE\(INSIDENT\)](https://open.spotify.com/track/2eUhhG0b51SflzpapeSW26) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン 紺碧の棺」オリジナル・サウンドトラック](https://open.spotify.com/album/6xbpuwe49yXIlobUjuxXsv) | 2:07 |
 | 44 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 |
 
-Snapshot ID: `MCxmOWYwZTExNGE5YTA2ZDcyOTVjYmZkM2MxODFkOTAwNWNlM2Q3MWIz`
+Snapshot ID: `MCxmMjI1YjcxMzc1OTgxZTY3ZjhlOGVlMmQ4YWRmYTgxZjA3NTA5ZWNl`

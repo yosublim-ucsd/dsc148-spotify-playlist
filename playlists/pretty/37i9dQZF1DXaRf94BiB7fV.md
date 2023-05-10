@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Raveena Paul , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,501 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,554 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [City Kids](https://open.spotify.com/track/2HsfsVzrhKk1kDM2x0JFVU) | [Taash](https://open.spotify.com/artist/4glG3WdHQSKUUQHCdJiDeW) | [City Kids](https://open.spotify.com/album/6l4yceymHyxDMJJwta9DO2) | 3:08 |
 | 100 | [Strangers](https://open.spotify.com/track/4wjmpT55HGFwiGM3CTzz8K) | [Cinnamon Cigars](https://open.spotify.com/artist/6GwJ3ZmZtspuQoytbgtUfE) | [Strangers](https://open.spotify.com/album/6D9yr0xY8GnM7L2aDDmy0Y) | 4:16 |
 
-Snapshot ID: `MCxhNGE1ZmQwMjI3OTlmZjVkNjVhMjUxNzcxZmRkZjhlMWIxZGQ5YTA0`
+Snapshot ID: `MCxiNjVlZjk3ZTUyY2E4OTM1MTdjNmU2ODBmMGFiMDhkZjhkMWJkYTNi`

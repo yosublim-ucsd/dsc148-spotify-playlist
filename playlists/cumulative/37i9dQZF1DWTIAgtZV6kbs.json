@@ -2709,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "EVANGELION ETERNALLY",
+        "url": "https://open.spotify.com/album/6oS76VmrAJrkcnCzzVglzh"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253052,
+      "name": "\u7f6a\u3068\u7f70 \u7948\u3089\u3056\u308b\u8005\u3088",
+      "url": "https://open.spotify.com/track/5Oe8juA7RR7qMan9BOAb6g"
+    },
+    {
+      "album": {
         "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Chill & Bumpy
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,950 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,080 likes - 70 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 67 | [GOOD TIMES \- Sofia Kourtesis Remix](https://open.spotify.com/track/28UChihFP3bGpMJ2oaRpzF) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [GOOD TIMES \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/6GMsMXs7FPVMWZ6QOOo6JN) | 4:29 |
 | 68 | [Moonbeam, Midnight, Howl](https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Violet Drive](https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu) | 5:41 |
 | 69 | [Floating on Silence](https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Floating on Silence](https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO) | 6:21 |
-| 70 | [Welcome To Dinna](https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Black Uhuru](https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3) | [Welcome To Dinna](https://open.spotify.com/album/61b4it6tuS4aBt4Q9bxRVk) | 3:51 |
+| 70 | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/track/22dTRFvs4NIWcfynMRHWxM) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Fashion Week \(with Channel Tres\)](https://open.spotify.com/album/25ru5khx1Ak99m4a2n2YBB) | 3:34 |
 
-Snapshot ID: `MCxkMTVmNTNjYWUyNjE1MDI5OTVkN2JlNDg0YmQzNDA1YzkxNjBkODYw`
+Snapshot ID: `MCwwZWJiMjEwOThjNmUzZjI5YTRiMmFjMjJjNDBmOGU0MmFjNTU4MTVm`

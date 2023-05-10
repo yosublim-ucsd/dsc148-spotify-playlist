@@ -2,9 +2,9 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: Jukjae\(적재\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: Lee Mujin\(이무진\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
-455 songs - 1 day 3 hr 5 min
+456 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 | 2022-03-31 | 2022-04-06 |
 | [Calling Your Name \(Feat\. Jeong hae il\)](https://open.spotify.com/track/30koQ2yWTshLUqx0d4xGLG) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Jeong Haeil](https://open.spotify.com/artist/63AlyeATteOmFWtJPgWlH6) | [Calling Your Name](https://open.spotify.com/album/4HcnHcyHWCqbdXlSuKHDfm) | 3:03 | 2022-12-21 | 2023-01-11 |
 | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/track/7KlXPh6RPpuNea6wvJY6WY) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Camping Episode: Let's Go Camping \(Music From "Sound Garden"\)](https://open.spotify.com/album/4Vi3kP5TmbgJq1y7K5kIIm) | 2:31 | 2021-12-10 | 2022-06-04 |
-| [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 |  |
+| [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2023-05-10 |
 | [Cat 고양이](https://open.spotify.com/track/5MPYoxKteBooWtMDcL97ix) | [TAEG.E](https://open.spotify.com/artist/6gVunSTeWBpsD4pc78szcv) | [Cat 고양이](https://open.spotify.com/album/3WdXtwhYtSGrRuNPShw3L5) | 3:15 | 2022-04-12 | 2022-04-20 |
 | [Celebrity \- Acoustic](https://open.spotify.com/track/6sYwUFG8bG02yRtwDMuc8H) | [Dragon Stone](https://open.spotify.com/artist/0psw89QmbwHJemhN1kqPLh) | [Celebrity \(Acoustic\)](https://open.spotify.com/album/0zDLUzfQQCPFLJiROj5AAG) | 3:24 | 2022-02-10 | 2022-04-14 |
 | [Chapter of our love](https://open.spotify.com/track/0xqij7BqOzbnwcjmNqWMIG) | [Microdot](https://open.spotify.com/artist/1ToWoFmtIc9NTPFy7lR690), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [PROPHET](https://open.spotify.com/album/6llFy3B9EZt3H0QQTVzLxA) | 4:23 | 2022-03-31 | 2022-04-21 |
@@ -244,7 +244,7 @@
 | [My Dearest](https://open.spotify.com/track/5wypJbC2SO46N03RaEhy3w) | [DRAWMODE](https://open.spotify.com/artist/5GyIzYxwroBU1oR2y7cdDB) | [My Dearest](https://open.spotify.com/album/7vmIcDy2nEGulK63hHo3HY) | 3:21 | 2023-01-19 | 2023-02-07 |
 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 | 2023-01-11 | 2023-01-26 |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-12-10 |  |
-| [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 | 2023-05-09 |
+| [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 |  |
 | [My Night My Star](https://open.spotify.com/track/1SXVfhKdeOm5zEVtB5KLWG) | [GUNHO](https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb) | [My Night My Star](https://open.spotify.com/album/6XPt8zxnyX6fww9hiTxIcd) | 3:41 | 2022-03-31 | 2022-04-13 |
 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 | 2022-05-13 |  |
 | [My World Is](https://open.spotify.com/track/2Daki1bJOM9Hc2fggCGwTR) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:14 | 2022-03-31 | 2022-04-14 |
@@ -262,7 +262,7 @@
 | [Officially Missing You](https://open.spotify.com/track/1xyOVyoRq03sR3dAcyZ86q) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/3taD89onznp39CDh6MhGeA) | 3:30 | 2022-03-31 | 2022-04-20 |
 | [Officially Missing You](https://open.spotify.com/track/7CkjU55ROZSwb95dzGan0o) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/6hE4TNufMSOti5r2qdfHAl) | 3:30 | 2022-11-20 |  |
 | [OH NONONO](https://open.spotify.com/track/0rJj6xWfFKbBVNw6dG54yb) | [INYU](https://open.spotify.com/artist/3DGTTI7kUEwQUoBOykiS0t), [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7tYKa7avcGAwqcYZOpX8ed) | 3:01 | 2022-03-09 | 2022-03-11 |
-| [Oh, Love](https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Oh, Love](https://open.spotify.com/album/2MujROsBWLNsCZo2B3udec) | 3:44 | 2023-04-27 |  |
+| [Oh, Love](https://open.spotify.com/track/1G0TFPZipyn1bLyQvKtPnx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Oh, Love](https://open.spotify.com/album/2MujROsBWLNsCZo2B3udec) | 3:44 | 2023-04-27 | 2023-05-10 |
 | [Oh, My Sun](https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW) | [Kevin Oh](https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy) | [Oh, My Sun](https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi) | 4:47 | 2021-12-10 | 2022-07-29 |
 | [On My Way Home](https://open.spotify.com/track/6CZkzTRpn5uK67QAim9jPw) | [KOLAVO](https://open.spotify.com/artist/3yR502TEuKfRu3qwLcn4sx) | [On My Way Home](https://open.spotify.com/album/0huLDoldnbqWCJQnxjCWv3) | 3:59 | 2022-01-10 | 2022-04-13 |
 | [Once again](https://open.spotify.com/track/0397OJPbHsKQVMYK7P34vI) | [Haeun Jang](https://open.spotify.com/artist/2qYrryru6IIfZVMN8HyGnn) | [Once again](https://open.spotify.com/album/2N2GWrRzPjpcEr6Ihy6tpB) | 3:59 | 2022-12-21 | 2023-01-11 |
@@ -271,6 +271,7 @@
 | [Only in the evening](https://open.spotify.com/track/2o87KX4RWcjQbikKl7MZIA) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [aftersunset](https://open.spotify.com/album/3P7ArYxQfuMfjL9eF122Ka) | 3:10 | 2022-04-12 | 2022-04-16 |
 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 | 2021-12-10 |  |
 | [only you](https://open.spotify.com/track/3kq53cvkH6hjNnmMgf5Gqa) | [Oh Si Young](https://open.spotify.com/artist/0l5rg9dt1t4L9MZWfm8bTI) | [only you](https://open.spotify.com/album/4kaFDSEth7PBYSKrIa4rOZ) | 3:10 | 2022-03-31 | 2022-07-09 |
+| [Ordinary Confession](https://open.spotify.com/track/6JIm38KbaDGfi65VGETDi9) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ordinary Confession](https://open.spotify.com/album/45oQjPValwYlPUeOQKUd68) | 3:48 | 2023-05-09 |  |
 | [Ordinary life](https://open.spotify.com/track/5Ivx0LkXUVGSybJgPXwQNE) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [Ordinary life](https://open.spotify.com/album/6oTKzZ9cRz3xgAcbPRV3fT) | 4:06 | 2022-03-31 | 2022-04-16 |
 | [Our Forgiveness](https://open.spotify.com/track/6xVlRWDlQDna2yVCwOPE30) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Our Forgiveness](https://open.spotify.com/album/1K8aYJrq8a8WiwNniSuzrw) | 3:19 | 2022-09-05 | 2022-09-28 |
 | [our last winter 그게 우리의 마지막인 줄 알았다면 \(With Sung youngjoo\)](https://open.spotify.com/track/1AHQmB0Q7BpayL8YBanihL) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Seong Young Joo](https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt) | [our last winter 그게 우리의 마지막인 줄 알았다면 \(With Sung youngjoo\)](https://open.spotify.com/album/5M518nxUKbUCvKIdaWujpc) | 3:59 | 2022-03-31 | 2022-04-19 |

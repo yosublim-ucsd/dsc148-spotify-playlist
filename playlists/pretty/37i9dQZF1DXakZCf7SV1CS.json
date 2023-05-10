@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 40638,
+  "num_followers": 40772,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2M4NmQzMWM4ZmZhYTk0MDI0MzQ3NzYzMGEyZmJmY2I3ODE2NTJm",
+  "snapshot_id": "MCwwZmNiMGRiNzNkMWZjNmY0NWQ4MWJjMTEyZjI5NmU3YmQ2NjNjOWE5",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "masquerade",
-        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
-      },
-      "artists": [
-        {
-          "name": "siouxxie sixxsta",
-          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
-        }
-      ],
-      "duration_ms": 144535,
-      "name": "masquerade",
-      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "SugarCrash!",
         "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 80080,
       "name": "SugarCrash!",
       "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "masquerade",
+        "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
+      },
+      "artists": [
+        {
+          "name": "siouxxie sixxsta",
+          "url": "https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr"
+        }
+      ],
+      "duration_ms": 144535,
+      "name": "masquerade",
+      "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "i dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/3KgJ3C3LTkIGjn7uqY42My"
-      },
-      "artists": [
-        {
-          "name": "Cardingfraud",
-          "url": "https://open.spotify.com/artist/7dlJAAr67mxtAK8wT96aR7"
-        }
-      ],
-      "duration_ms": 110067,
-      "name": "i dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/1xFuBxI09SRHgGqWXhQD1r"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb"
       },
@@ -1007,22 +991,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Faceshopping",
-      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Whatuworried4?",
         "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
       },
@@ -1039,22 +1007,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH"
       },
       "artists": [
         {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+      "duration_ms": 236937,
+      "name": "Faceshopping",
+      "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1119,22 +1083,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "clueless",
         "url": "https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg"
       },
@@ -1151,6 +1099,42 @@
       "duration_ms": 127634,
       "name": "clueless",
       "url": "https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 122153,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1339,6 +1323,22 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "PC Music, Vol. 1",
+        "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        }
+      ],
+      "duration_ms": 227750,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3"
     }
   ],
   "unique_name": "Hyperpop Classics",

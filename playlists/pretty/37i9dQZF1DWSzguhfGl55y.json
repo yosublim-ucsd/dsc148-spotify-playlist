@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 603852,
+  "num_followers": 603934,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODRiZDkzZTljZDJhZjdkNWZkNDNhNWM3NjgyZjhkZjkyMTIwZGE5",
+  "snapshot_id": "MCwzMGNiYjQ5Yjg3ZWM1NjcwNzJlMDlhNzQyMWI2MTdhMWFiNDZjMDEz",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -890,11 +890,15 @@
         {
           "name": "Beginner",
           "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

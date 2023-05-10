@@ -1,12 +1,12 @@
 {
   "description": "la primavera non \u00e8 una stagione, \u00e8 un mood \ud83c\udf37",
-  "num_followers": 57124,
+  "num_followers": 57140,
   "original_name": "primavera chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTA5MWQ1NDAwN2FmMDUxNWNkNDhlZDUwZTkxOWRkOWI1NDI1NjFj",
+  "snapshot_id": "MCw0MDQ5NDVjMDNjNzkxZjRlNzg5OGFmYWI3NDIwZDNjODc5NDJmY2I3",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 186043,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 211466,
       "name": "Say You Won't Let Go",
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 186043,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Takin' It Back (Deluxe)",
-        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 147481,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "A/B",
         "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 200733,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Takin' It Back (Deluxe)",
+        "url": "https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 147481,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/69ZzhvHnSSnzMO8SMYEJWb"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -651,22 +635,6 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "How I'm Feeling Now",
-        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "How I'm Feeling Now",
-      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -687,6 +655,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Woodland",
         "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "How I'm Feeling Now",
+        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "How I'm Feeling Now",
+      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "WORTHLESS",
-        "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 163049,
-      "name": "WORTHLESS",
-      "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Upside Down",
         "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 209546,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "WORTHLESS",
+        "url": "https://open.spotify.com/album/3hNpYeCH7WOUNhXxV7AosH"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 163049,
+      "name": "WORTHLESS",
+      "url": "https://open.spotify.com/track/13b4mk5KeJxL0GllHLvtXQ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "this is what losing someone feels like",
-        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 172325,
-      "name": "this is what losing someone feels like",
-      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Oh, Inverted World (20th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 230866,
       "name": "New Slang - 2021 Remaster",
       "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "this is what losing someone feels like",
+        "url": "https://open.spotify.com/album/4fU1IAiidcbKjProAZuoLF"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 172325,
+      "name": "this is what losing someone feels like",
+      "url": "https://open.spotify.com/track/38tKvVe3iURKRFm5X50zLZ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Chapters",
         "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 347520,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4"
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
       },
       "artists": [
         {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 203653,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/1VyiUi0mRnSKgtHa5dBoUd"
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1139,22 +1155,6 @@
       "duration_ms": 130666,
       "name": "Butterflies (feat. AURORA)",
       "url": "https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Night Visions (Deluxe)",
-        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "On Top Of The World",
-      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 248733,
-      "name": "Ice Cream Man.",
-      "url": "https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Meet The Vamps",
         "url": "https://open.spotify.com/album/3XDvXyhPzaPRpGoEjoQI8P"
       },
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Lean On Me",
-        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
       "artists": [
         {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
         }
       ],
-      "duration_ms": 182497,
-      "name": "Lean On Me",
-      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
+      "duration_ms": 248733,
+      "name": "Ice Cream Man.",
+      "url": "https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1467,6 +1451,22 @@
       "duration_ms": 185400,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Lean On Me",
+        "url": "https://open.spotify.com/album/7fsU6pyrq6AKkucdXwrPWs"
+      },
+      "artists": [
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 182497,
+      "name": "Lean On Me",
+      "url": "https://open.spotify.com/track/43Hit5V2BpPq2vxvca3ysc"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "a little more time",
-        "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 210202,
-      "name": "a little more time",
-      "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "7 Layers",
         "url": "https://open.spotify.com/album/2rQtlZamCmgyyfXk30duG5"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "a little more time",
+        "url": "https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 210202,
+      "name": "a little more time",
+      "url": "https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 144530,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Weekend Vibe",
+        "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "Weekend Vibe",
+      "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1619,22 +1635,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Weekend Vibe",
-        "url": "https://open.spotify.com/album/1TYoCRyxN8wUMNuQ7nLUJR"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "Weekend Vibe",
-      "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Sad to Breathe",
         "url": "https://open.spotify.com/album/0sGBhfoO2V3a2gJejL2Li6"
       },
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/3viPcBAym7FXyZWuvTM5T7"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "duration_ms": 156505,
+      "name": "parachute",
+      "url": "https://open.spotify.com/track/3orJ0XpgXRG1LTA521BpDz"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "To be honest",
         "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "still",
-        "url": "https://open.spotify.com/album/4x7J5fPgM0IYVRJW6fwpZ3"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 179642,
-      "name": "still",
-      "url": "https://open.spotify.com/track/6EoI0gxW5egUN3SFxgQb7H"
     }
   ],
   "unique_name": "primavera chill",

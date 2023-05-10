@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,603 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,635 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Eres Diferente](https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [22 Grandes Exitos](https://open.spotify.com/album/245rgwEnRg54XD7xQSCLOM) | 2:03 |
 | 50 | [Patricia](https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Greatest Hits](https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux) | 2:06 |
 
-Snapshot ID: `MCwxODY5MzFjOTVlYTcyNzcxM2IzMjRiNWQwNGFmZTcyYTA2NWJjMzUz`
+Snapshot ID: `MCw5ZmQ4MWVkOGNlY2QxOTBhY2RkN2M5ZjE3MzQwZDZhYjczNzEzZDQy`

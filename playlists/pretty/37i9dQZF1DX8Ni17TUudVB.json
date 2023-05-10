@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 136113,
+  "num_followers": 136131,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjJmZDM5YWUxZTM4OTQyMDQ4NDBjMGIzYjNkZDY2N2U2ZjVkZjhm",
+  "snapshot_id": "MCxmOWQ3MTNkMDNhODY0ZmFmY2RjNTc4NzVlMTA2OTIxZTRkZDg5YWE2",
   "tracks": [
     {
       "added_at": "2022-10-12 15:43:07",
@@ -227,30 +227,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "BED",
-        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 178087,
-      "name": "BED",
-      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -271,6 +247,30 @@
       "duration_ms": 185194,
       "name": "Loco Contigo (feat. J. Balvin & Tyga)",
       "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "BED",
+        "url": "https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 178087,
+      "name": "BED",
+      "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -391,34 +391,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
         "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
       },
@@ -463,6 +435,34 @@
       "duration_ms": 358983,
       "name": "The Last Goodbye",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
     },
     {
       "added_at": "2022-10-12 15:43:07",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2022-10-12 15:43:07",
       "album": {
-        "name": "Ojos Chiquitos",
-        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
-      },
-      "artists": [
-        {
-          "name": "Ghetto Kids",
-          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 152796,
-      "name": "Ojos Chiquitos",
-      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
-    },
-    {
-      "added_at": "2022-10-12 15:43:07",
-      "album": {
         "name": "Roses [(Imanbek Remix) [Latino Gang]]",
         "url": "https://open.spotify.com/album/6ccX7hrWPnlaBv1hYLok2u"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 208449,
       "name": "Roses - (Imanbek Remix) [Latino Gang]",
       "url": "https://open.spotify.com/track/2JCOFv3vvv6HIfw7QOqpIz"
+    },
+    {
+      "added_at": "2022-10-12 15:43:07",
+      "album": {
+        "name": "Ojos Chiquitos",
+        "url": "https://open.spotify.com/album/00SdwuIqSDD6nRcFiVGl5A"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Kids",
+          "url": "https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 152796,
+      "name": "Ojos Chiquitos",
+      "url": "https://open.spotify.com/track/66az7qVFB80jqy7cQq2hz6"
     },
     {
       "added_at": "2022-10-12 15:43:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,408 likes - 45 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,425 likes - 45 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 39 | [De Otro Planeta](https://open.spotify.com/track/15BmVmvT8ii39sqLZFbMtF) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 3:10 |
 | 40 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 |
 | 41 | [Cada paso \(feat\. Esteman\) \- Acústica](https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fin de la primera vida](https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku) | 3:02 |
-| 42 | [El Pasado](https://open.spotify.com/track/5PRvX4Rtw01lwywwBiA05Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:24 |
+| 42 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 |
 | 43 | [Se Nos Perdió](https://open.spotify.com/track/64UtnXxfVtC0MjGt9wpJjs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 4:19 |
-| 44 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 |
+| 44 | [El Pasado](https://open.spotify.com/track/5PRvX4Rtw01lwywwBiA05Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:24 |
 | 45 | [No Te Metas A Mi Facebook](https://open.spotify.com/track/6tUFAewWAb5OkcYiwzSdr0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [No Te Metas A Mi Facebook](https://open.spotify.com/album/6LFKWnhCAXntAHAvfPHAx0) | 3:24 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDBmMzBmNjlmNTNiOGY2NzM3NWVlM2Q2Y2U5NjYxMzU2Ng==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA2NTZhY2JjZGY2NzAzZjI5NDAwMDdlMTc4OGU3YTcyNg==`

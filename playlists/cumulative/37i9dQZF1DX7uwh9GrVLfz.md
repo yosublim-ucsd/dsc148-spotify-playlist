@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Hi\-STANDARD
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Dizzy Sunfist
 
-543 songs - 1 day 5 hr 28 min
+544 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 | 2022-08-19 |
 | [ANGRY ANGRY](https://open.spotify.com/track/01wCGnjMdXAS8DHiBrUknz) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA) | 2:16 | 2023-04-13 | 2023-04-15 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-04-13 |  |
-| [ANTI ANGER CONTROL](https://open.spotify.com/track/1uPPNErpuO72oAPnzwhdzn) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:43 | 2023-04-11 |  |
+| [ANTI ANGER CONTROL](https://open.spotify.com/track/1uPPNErpuO72oAPnzwhdzn) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [i!i!i!i!](https://open.spotify.com/album/4fSo1ByAhFJSzhQ5YyMDaZ) | 1:43 | 2023-04-11 | 2023-05-10 |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-03-07 | 2023-04-12 |
 | [Ashtray](https://open.spotify.com/track/4wFaKe5coaqpWw38VJUqNo) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:18 | 2022-05-17 | 2022-07-26 |
 | [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 | 2022-05-17 | 2022-08-18 |
@@ -66,7 +66,7 @@
 | [Carry on](https://open.spotify.com/track/5sIiN8iqkOF1PMkoyoXRtT) | [Four Get Me A Nots](https://open.spotify.com/artist/18V3SfrN6aSc7QP3fqmUBp) | [Carry on](https://open.spotify.com/album/3MrbnGTLDYhI4hSgs4SP5d) | 2:32 | 2022-05-12 | 2022-07-29 |
 | [Carry On](https://open.spotify.com/track/70gtaFoNImbXqKe3WKJdUV) | [Local Sound Style](https://open.spotify.com/artist/5pSklCda6nOLySukqnp886) | [All That Remains](https://open.spotify.com/album/6gWmIrKhTOmUbv5NLLnXp7) | 3:48 | 2022-05-19 | 2022-07-27 |
 | [CELEBRATION](https://open.spotify.com/track/1eHB8BTIR5OcrMb62Z1bkq) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CELEBRATION](https://open.spotify.com/album/5grADPBkuCUGm8U55EwOCY) | 3:58 | 2022-05-12 | 2022-07-28 |
-| [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 | 2023-05-05 |
+| [Chain of Emotions](https://open.spotify.com/track/6TD4IgWz4W3tyyh2MBUY7S) | [The Winking Owl](https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE) | [Into Another World](https://open.spotify.com/album/633gkF2gOK4kJGTiCfNoWl) | 4:07 | 2022-05-12 |  |
 | [Chain Reaction](https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [illuminate](https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC) | 3:23 | 2022-05-12 | 2023-02-14 |
 | [CHANGES](https://open.spotify.com/track/2LJu1JfpZw1ekxaHGMIam3) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [CHANGES](https://open.spotify.com/album/0N9hph6Prr4UgH9ah1EZaH) | 3:23 | 2022-05-12 | 2022-11-13 |
 | [Chopped Grill Chicken](https://open.spotify.com/track/0KgDHXpxRbjpJVDzBbScCu) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Chopped Grill Chicken](https://open.spotify.com/album/5zXUaK0xAXkUJt6yqk2B5Y) | 1:46 | 2022-05-12 | 2022-07-25 |
@@ -123,6 +123,7 @@
 | [Focus on me](https://open.spotify.com/track/2LW2YGQdWWYW3glzf0gERU) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Focus on me](https://open.spotify.com/album/2tORGVHZEBoiLJt9qKkewn) | 4:10 | 2022-07-06 |  |
 | [Fog Clears Up](https://open.spotify.com/track/0ishJ42sJvi318qCPuqt5v) | [sunsetinfall](https://open.spotify.com/artist/0MPnJcSWZI8g7YCvvFAG60), [Keito](https://open.spotify.com/artist/1ZN5zKSOJqJrgWDYqWSI1e) | [Fog Clears Up / The lines](https://open.spotify.com/album/6ZJCIi17cGoePlubOW10MC) | 4:07 | 2022-05-17 | 2022-07-23 |
 | [Forever](https://open.spotify.com/track/4hW5YF0MtXHBl5tkPp7gEP) | [Good Grief](https://open.spotify.com/artist/0CiZp5RMtcwR2JGTvmTXa8) | [Square One](https://open.spotify.com/album/4YqcVthrzbgI4cWE7Ofkko) | 3:35 | 2022-05-12 | 2022-07-14 |
+| [Foundation](https://open.spotify.com/track/5xS7BWHaNQUgPlM9lccVvY) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [Rude Foundation](https://open.spotify.com/album/2KwPr77XNGJGL61BulYD16) | 2:24 | 2023-05-09 |  |
 | [FULLTEN](https://open.spotify.com/track/0qxmUHAyp68P5BZGEyCASo) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [FULLTEN](https://open.spotify.com/album/3WxUCSO4WCLAt6Z2wdVUrp) | 1:26 | 2022-05-12 | 2022-05-18 |
 | [Garland House](https://open.spotify.com/track/7mZiT9lOvNAkGt1la3TKfn) | [SPOILMAN](https://open.spotify.com/artist/0uGQyvjvTF0f3wKGiDHQrp) | [SOLID GREEN](https://open.spotify.com/album/7Hdvoz87VtxTkFRNj20CTF) | 3:19 | 2022-05-12 | 2022-07-11 |
 | [Get Me Back](https://open.spotify.com/track/7DyYH1hRVEDTDjxXJP9wHl) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:54 | 2022-05-12 | 2022-07-20 |
@@ -317,7 +318,7 @@
 | [Star Falls On Our Hands Tonight](https://open.spotify.com/track/4oR4CLlb28cJfhnLy8cOVi) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [RINGS](https://open.spotify.com/album/6Pq5LR08qt9lf1YyP6pZtX) | 3:28 | 2022-05-19 | 2022-07-29 |
 | [Starting Over](https://open.spotify.com/track/1QjYeLtMl3hCdAvUGfEsOV) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc), [Takeshi Hosomi](https://open.spotify.com/artist/1XptSgswMTLHwDNN3js2B4), [TOSHI\-LOW](https://open.spotify.com/artist/0dqiMqznI1h0vFn1j4jwfz) | [Starting Over](https://open.spotify.com/album/2erFzGSZP5HVNfW97BM5BN) | 3:42 | 2022-11-22 |  |
 | [STAY GLOW](https://open.spotify.com/track/3JdLuVZzVu8NAb6n2Ml49h) | [KYONO](https://open.spotify.com/artist/4LgM76I3ubiFUtX0nuVgmr), [TAKUMA](https://open.spotify.com/artist/4nOzNf1MhztxPec9rMTQ1i) | [S.A.L](https://open.spotify.com/album/7sWgmxbx6fOYBxiQbyMG2L) | 5:10 | 2022-05-19 | 2022-07-27 |
-| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 |  |
+| [STAY GOLD](https://open.spotify.com/track/1YOjTz7D3IdqkxyAUUArLR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/3rwiRN4pofymsM0Ex9oYoY) | 2:00 | 2022-08-02 | 2023-05-10 |
 | [STAY GOLD](https://open.spotify.com/track/4fyZ8EqPZzxPyrpMmr1CYQ) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/5ZLz1cMuiUoRDHx9qLmqqg) | 2:00 | 2022-05-12 | 2022-07-27 |
 | [STAY GOLD \- PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/track/1bFjI57VlMreMqR4Vtp2TJ) | [Akihiro Namba](https://open.spotify.com/artist/7F1stPkk7RZf19mw2mwtJH) | [PUNK ROCK THROUGH THE NIGHT☆ 2011.3.4 @ SHIBUYA QUATTRO](https://open.spotify.com/album/02tJBtvZr9frKBKY2cIJaW) | 2:29 | 2022-05-19 | 2022-07-27 |
 | [Stay Punk Forever](https://open.spotify.com/track/4kO0rBpUaPKV0d2r9w3Fip) | [THE STARBEMS](https://open.spotify.com/artist/6SXxBrj5sKrSXiAV2tpWWq) | [STAY PUNK FOREVER](https://open.spotify.com/album/0bIO2OKQ3k4fnE8tqUw03U) | 2:41 | 2022-05-19 | 2022-07-28 |

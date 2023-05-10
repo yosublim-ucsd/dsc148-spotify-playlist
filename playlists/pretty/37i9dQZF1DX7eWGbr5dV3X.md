@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,224 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,226 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 44 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
 | 45 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 
-Snapshot ID: `MCwxZGVlNzAxOTY3MzNjOGUxODAyYWQ0MzI4ZWM2NzM3M2NlYjc3MTQw`
+Snapshot ID: `MCw4OWE0OTFhZjVhMmQyMjc3YTdlNzY0MTY0NGUzYWEyN2ZmZWQwMDBi`

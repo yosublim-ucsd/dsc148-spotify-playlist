@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/08INhXDzBNUQMUycuG2Ep1"
@@ -1536,6 +1536,44 @@
       "duration_ms": 258472,
       "name": "Besharam Rang (From \"Pathaan\")",
       "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
+    },
+    {
+      "album": {
+        "name": "Beach Vibes Only",
+        "url": "https://open.spotify.com/album/4TSyO6NzbDnSC2hbL5rQDs"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Caralisa Monteiro",
+          "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258472,
+      "name": "Besharam Rang (From \"Pathaan\")",
+      "url": "https://open.spotify.com/track/6nDWZ0trzEr10qec5NfhIU"
     },
     {
       "album": {
@@ -3264,7 +3302,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 233666,
       "name": "Dil Nu",
       "url": "https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm"
@@ -9380,7 +9418,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 226600,
       "name": "Night Changes",
       "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"

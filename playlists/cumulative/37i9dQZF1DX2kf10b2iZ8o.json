@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -09 FRAME",
+        "url": "https://open.spotify.com/album/79Tij9DwEitAmsRHck6aD6"
+      },
+      "artists": [
+        {
+          "name": "FRAME",
+          "url": "https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252546,
+      "name": "ONE to DREAM!",
+      "url": "https://open.spotify.com/track/4KMxhxjRp3f44v1nNzje6S"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 01",
         "url": "https://open.spotify.com/album/4M8yao8zlVcUWmUGZM9oV3"
       },
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 295506,
       "name": "PRIDE STAR",
       "url": "https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 305400,
       "name": "Reason!!",
       "url": "https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP"
@@ -1938,6 +1956,24 @@
       "duration_ms": 260252,
       "name": "Toward Pole Star",
       "url": "https://open.spotify.com/track/3ttWXcnYMaTc5IUgRmQndI"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -10 F-LAGS",
+        "url": "https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh"
+      },
+      "artists": [
+        {
+          "name": "F-LAGS",
+          "url": "https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Tricolor Rendezvous",
+      "url": "https://open.spotify.com/track/6yaeRVB0HADNegcJlmg9d8"
     },
     {
       "album": {
@@ -2442,7 +2478,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 246240,
       "name": "\u30d5\u30a7\u30a4\u30d0\u30ea\u30c3\u30c8\u306b\u8e0a\u3089\u305b\u3066",
       "url": "https://open.spotify.com/track/0a84EhebDYw0aQZOboXivx"
@@ -2486,7 +2522,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 228333,
       "name": "\u30ea\u30d3\u30f3\u30b0\u30a2\u30a4\u30ba\u30d2\u30fc\u30ed\u30fc",
       "url": "https://open.spotify.com/track/1lfwRXGtNgLirpV3F1W8Wz"

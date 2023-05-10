@@ -4,7 +4,7 @@
 
 > This is Esteban Gabriel\. The essential tracks, all in one playlist.
 
-36 songs - 1 hr 47 min
+38 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Damas y Placeres](https://open.spotify.com/track/08o5hHml4niGUHhsmimaHp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:49 | 2023-03-10 |  |
 | [Diablitos](https://open.spotify.com/track/2cyXIrnsHJUN0HoRaf4HyR) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:15 | 2023-03-10 |  |
 | [En Mis Dedos un Gallito](https://open.spotify.com/track/0w05EANAQs2Cf3xj5daRPY) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [En Mis Dedos un Gallito](https://open.spotify.com/album/6MntOYfLUMaSqfabw1KfVb) | 3:08 | 2023-03-10 |  |
+| [Es Prohibido](https://open.spotify.com/track/7s4uLGtxqsyxQEjmCkvCok) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 2:50 | 2023-05-09 |  |
 | [Frostix](https://open.spotify.com/track/1MQ0aEWXfQiuoPqyuZDxhn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:48 | 2023-03-10 |  |
 | [Gordo Pesado](https://open.spotify.com/track/4rOwSMUEJ13rbqsDLzmPSp) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Gordo Pesado](https://open.spotify.com/album/5T8B8zyX6KzfVZSBfgOIxF) | 3:34 | 2023-03-10 |  |
 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 | 2023-03-10 |  |
@@ -28,7 +29,8 @@
 | [Maryjane y Blancanieves](https://open.spotify.com/track/1x7KRBVwvqgA0vYU6UeXHP) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:32 | 2023-03-10 |  |
 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 | 2023-03-10 |  |
 | [Mi Reyna](https://open.spotify.com/track/4iynrE7kJRxQgpQ9XTr9Wy) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:10 | 2023-03-10 |  |
-| [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2023-03-10 |  |
+| [Mil Horas](https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Damas y Placeres](https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC) | 3:16 | 2023-03-10 | 2023-05-10 |
+| [Mil Horas \- En Vivo](https://open.spotify.com/track/7MaFVQ1ZYwXk0K5ehUU9dX) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:49 | 2023-05-09 |  |
 | [Morro Loco](https://open.spotify.com/track/13jmfAORh7hAITtCvzVJ9i) | [Los Bravos De La H](https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Nietos Del Viejo](https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH) | [Morro Loco](https://open.spotify.com/album/5SqZnMWQE3La3QJSeeOX0c) | 3:11 | 2023-03-10 |  |
 | [Noche de Desmadre](https://open.spotify.com/track/0sTjY3KgI4zsabA6XYRxxG) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Noche de Desmadre](https://open.spotify.com/album/0pJRvRrnlEMn6kP9oNcvhu) | 2:39 | 2023-03-10 |  |
 | [Otra Noche Mas \- En Vivo](https://open.spotify.com/track/39QQtDOT5fy2sEudXonn7J) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:21 | 2023-03-10 |  |

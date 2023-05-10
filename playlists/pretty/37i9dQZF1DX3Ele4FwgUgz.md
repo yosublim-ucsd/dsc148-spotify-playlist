@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,886 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,903 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 14 | [DIVE!](https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Dream with You / Poppin' Up! / DIVE! \(優木せつ菜盤\)](https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ) | 4:03 |
 | 15 | [ENJOY IT!](https://open.spotify.com/track/0tgisyzU6IT2FRLtoTJuM7) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [ENJOY IT!](https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN) | 4:13 |
 | 16 | [決意の光](https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s) | [三船栞子 \(CV.小泉萌香\)](https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 3:54 |
-| 17 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
-| 18 | [Solitude Rain](https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Butterfly / Solitude Rain / VIVID WORLD \(桜坂しずく盤\)](https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T) | 4:06 |
+| 17 | [Solitude Rain](https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Butterfly / Solitude Rain / VIVID WORLD \(桜坂しずく盤\)](https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T) | 4:06 |
+| 18 | [無敵級\*ビリーバー](https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [無敵級\*ビリーバー](https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn) | 4:04 |
 | 19 | [VIVID WORLD](https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI) | [朝香果林 \(CV.久保田未夢\)](https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku) | [Butterfly / Solitude Rain / VIVID WORLD \(朝香果林盤\)](https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm) | 4:35 |
 | 20 | [Love Triangle](https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:13 |
 | 21 | [Colorful Dreams! Colorful Smiles!](https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Colorful Dreams! Colorful Smiles!](https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO) | 4:24 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 28 | [SUPER NOVA](https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [SUPER NOVA](https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH) | 4:14 |
 | 29 | [LIKE IT!LOVE IT!](https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:21 |
 | 30 | [ドキピポ☆エモーション](https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:30 |
-| 31 | [NEO SKY, NEO MAP!](https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [NEO SKY, NEO MAP!](https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M) | 4:37 |
+| 31 | [繚乱!ビクトリーロード](https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [夢が僕らの太陽さ](https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T) | 4:01 |
 | 32 | [MONSTER GIRLS](https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73) | [R3BIRTH](https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:56 |
 | 33 | [Beautiful Moonlight](https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 3:58 |
 | 34 | [オードリー](https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 49 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
 | 50 | [サイコーハート](https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:12 |
 
-Snapshot ID: `MCxlZmExY2YwZTI1NzNkOTQ1YmRlYjRjNDYwNGFiZWM5Y2NiMjJkMWZi`
+Snapshot ID: `MCw5MWZkYWIxMTJhMjZiNmNkYjFkNWI3ZTc5YTM3NWMxNjliZjAzNjRi`

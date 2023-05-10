@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-496 songs - 1 day 18 hr 2 min
+497 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2021-12-16 |  |
 | [Chandler](https://open.spotify.com/track/0xaTg3VQlkaeWmmBuzSKR4) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/7hfF5ThQJ3JPuQ4EWqDzZj) | 3:41 | 2022-02-10 | 2023-04-30 |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-10 | 2022-07-26 |
+| [Chandler](https://open.spotify.com/track/5iRwSWZwwpfDXL33Z7BYAA) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Honk If You're Sad](https://open.spotify.com/album/6vaViTZ9Hqlj2zo30JVR4U) | 3:41 | 2022-02-10 |  |
 | [Change Of Tone \- Live](https://open.spotify.com/track/24cUdJ56uzTMJF0UJr1sDw) | [R+R=NOW](https://open.spotify.com/artist/6YwDgZxJVXO6N24VU8XMU5), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn), [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [R+R=Now Live](https://open.spotify.com/album/5tKVgcTumS8Nz7xSdeWnCv) | 9:01 | 2021-12-16 |  |
 | [Chaser](https://open.spotify.com/track/60GMtbLVJQ8flHXTLOOCuz) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Captured Spirits](https://open.spotify.com/album/3C69O5UprPEvhb9YVrPVFz) | 3:43 | 2021-12-16 | 2022-07-28 |
 | [Chaser](https://open.spotify.com/track/7fP561jBsiphdCvlB37UxG) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Captured Spirits](https://open.spotify.com/album/6Uut2mKX2dOJMYDjNvg45n) | 3:43 | 2022-02-10 |  |
@@ -345,7 +346,7 @@
 | [Relationships](https://open.spotify.com/track/4yIXHZyba42VV7gCpec6h4) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Meditations](https://open.spotify.com/album/19SzhIssFZJ5pPHmZuJOWK) | 5:13 | 2021-12-16 |  |
 | [Repurposing 1 D L W](https://open.spotify.com/track/2z6MdFZ4GGK2WinGqvtCG4) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Christopher Dell](https://open.spotify.com/artist/2Q5s4iYdCXKILxmqPjBfer), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26), [Jonas Westergaard](https://open.spotify.com/artist/367P7Sb8eJw6mRwH9wBG9P) | [Repurposing 1 D L W](https://open.spotify.com/album/5qXbFbCDxQqEIZBe8OWLrl) | 3:16 | 2021-12-16 | 2022-07-29 |
 | [Reste un oiseau](https://open.spotify.com/track/4miACj3Pi7Pox3ylFNFZ9s) | [Anne Paceo](https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL) | [Reste un oiseau](https://open.spotify.com/album/6803wHGAlnx5ABcWhjgmJy) | 3:15 | 2022-02-10 |  |
-| [Retro Metro](https://open.spotify.com/track/5sHcZRsYpoWVYS1boixW2H) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Retro Metro](https://open.spotify.com/album/2pBZQ9XUB2jFMp2Y8suW3a) | 4:23 | 2021-12-16 |  |
+| [Retro Metro](https://open.spotify.com/track/5sHcZRsYpoWVYS1boixW2H) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Retro Metro](https://open.spotify.com/album/2pBZQ9XUB2jFMp2Y8suW3a) | 4:23 | 2021-12-16 | 2023-05-10 |
 | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/track/3BwbQAO0hBmYwUKuTwFYNq) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW), [Morgan Ågren](https://open.spotify.com/artist/5RuOFOelX9c4oibUNzmDSE) | [Revisiting the Film \(feat\. Morgan Ågren\)](https://open.spotify.com/album/3L6Ftrxf6KXKMOd5vXWquC) | 4:08 | 2021-12-16 |  |
 | [Rhythm in Your Mind](https://open.spotify.com/track/4wBTN0gGIPG5k3N3LfMhu2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Rhythm in Your Mind](https://open.spotify.com/album/5ucT5KRFJGXRuW8vVu7Zmk) | 3:45 | 2021-12-21 | 2022-01-14 |
 | [Riverfest](https://open.spotify.com/track/5jrbxebGvMjQBk4cAQwEAk) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 5:37 | 2021-12-16 |  |

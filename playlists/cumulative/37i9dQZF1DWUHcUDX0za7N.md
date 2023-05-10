@@ -2,7 +2,7 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX?si=d0hf2IO\-T9m3Boh8CcZn7A"> A\-Q</a> and <a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=GLVEnDSgRv6NWAaIdIM\-wg"> Ruger</a>
+> Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/2PUsyFmjG6fN0GCsmllmrX?si=d0hf2IO\-T9m3Boh8CcZn7A"> A\-Q</a> and <a href="https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W?si=GLVEnDSgRv6NWAaIdIM\-wg">Blaqbonez</a>
 
 198 songs - 9 hr 39 min
 
@@ -152,7 +152,7 @@
 | [Shakur](https://open.spotify.com/track/6FAZgSguZfXqdpqtVjV7iP) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC) | [Resan](https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd) | 2:23 | 2022-10-14 | 2022-10-29 |
 | [Shut Up](https://open.spotify.com/track/0NWt2GeH14qHbs3S9dgdXl) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Mr\. Boombastic](https://open.spotify.com/album/3xTfkqfqwu6qwhdi3lgITb) | 3:20 | 2022-10-14 | 2022-10-29 |
 | [Sigh](https://open.spotify.com/track/61pbywwUdnOdgiBXmDQwLy) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Icen B4 the Cake](https://open.spotify.com/album/1z1mjM7ERkcVau0B0OWQhF) | 2:13 | 2022-10-14 | 2022-10-29 |
-| [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 |  |
+| [Silent Mode](https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 3:20 | 2022-11-04 | 2023-05-10 |
 | [Sinner](https://open.spotify.com/track/7vHlCu70F8GQyA9cBvCoNg) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [YPSZN3](https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp) | 2:45 | 2022-11-04 | 2022-11-19 |
 | [SKI](https://open.spotify.com/track/1vE1nV0Q3t9gcw6ZlZ0yJT) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SKI](https://open.spotify.com/album/24rTvY9feCnZe0SLsLdzbF) | 2:34 | 2022-06-09 | 2022-11-16 |
 | [Smackdown](https://open.spotify.com/track/1ws0w64Ktn6k51cLXTnnhH) | [AttiFaya](https://open.spotify.com/artist/4cAyqsHFXraGJp8eztAeO0), [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Smackdown](https://open.spotify.com/album/0AyrSIbCRoTSmL3ceHQ5gn) | 2:42 | 2023-04-27 |  |
@@ -167,7 +167,7 @@
 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 | 2022-10-28 | 2023-04-20 |
 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 | 2022-06-09 | 2023-04-28 |
 | [Superstar](https://open.spotify.com/track/6v3uGqyVkVIfFfoWHNHH6v) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Superstar](https://open.spotify.com/album/4NR3st0lpRq63g3oSp5wj3) | 2:26 | 2022-11-18 | 2023-02-08 |
-| [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 | 2022-06-09 | 2023-05-05 |
+| [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 | 2022-06-09 |  |
 | [The Emperor's Killz](https://open.spotify.com/track/4Dji6d3OBRuQ8AVSkoiCvy) | [Ikechukwu](https://open.spotify.com/artist/7xhdfJjebilccfAhprilhE), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT) | [The Emperor's Killz](https://open.spotify.com/album/1ntps2YD2MokdrfPpgPSRV) | 2:53 | 2023-02-11 | 2023-02-17 |
 | [THE GOAT](https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy \(Deluxe Version\)](https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp) | 2:33 | 2022-12-08 | 2023-02-17 |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-21 |  |

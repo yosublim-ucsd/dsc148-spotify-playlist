@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:55EarwWraRQY9diMo9Oeul”>Deb Never</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,462 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,452 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,25 +33,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 23 | [FreakyT \(feat\. Latto\) \- Remix](https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(feat\. Latto\) \[Remix\]](https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx) | 2:29 |
 | 24 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 |
 | 25 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 |
-| 26 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
-| 27 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 |
+| 26 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 |
+| 27 | [Ricota](https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Ricota](https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3) | 2:40 |
 | 28 | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz) | [Mello Buckzz](https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Boom Pt\. 2 \(feat\. Latto\)](https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU) | 2:12 |
 | 29 | [I've Loved You For So Long](https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [I've Loved You For So Long](https://open.spotify.com/album/1d4SG4S7oEKwHcPCyQsC2J) | 2:56 |
-| 30 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 |
-| 31 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
+| 30 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
+| 31 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 |
 | 32 | [The Water](https://open.spotify.com/track/0N0qxAHq26ZK91AcUXyq9C) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [All of This Will End](https://open.spotify.com/album/15eosxhQvPKQ1g0tfrnAt2) | 3:23 |
 | 33 | [My Body](https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [My Body](https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32) | 2:00 |
 | 34 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 |
 | 35 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 |
 | 36 | [sickly sweet](https://open.spotify.com/track/5VmWAuIo8jMKef4DcPy6S5) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [sickly sweet](https://open.spotify.com/album/5BlMzd8siEvlbtsCV5rGJD) | 2:14 |
-| 37 | [HOW DARE YOU](https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [HOW DARE YOU](https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih) | 3:02 |
-| 38 | [What Makes A Life Good?](https://open.spotify.com/track/4IU62RQTQlHDjU9Uk44p8x) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [What Makes A Life Good?](https://open.spotify.com/album/0jgTUkzTvA8f4j5WiGbw58) | 3:48 |
-| 39 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
-| 40 | [Inigo](https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Inigo](https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P) | 4:16 |
+| 37 | [What Makes A Life Good?](https://open.spotify.com/track/4IU62RQTQlHDjU9Uk44p8x) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [What Makes A Life Good?](https://open.spotify.com/album/0jgTUkzTvA8f4j5WiGbw58) | 3:48 |
+| 38 | [HOW DARE YOU](https://open.spotify.com/track/2mPqRhxkdcszi5MSX6b211) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [HOW DARE YOU](https://open.spotify.com/album/6h4qAwlP3jGlG7b7YVQVih) | 3:02 |
+| 39 | [Inigo](https://open.spotify.com/track/120oPV0jNIWalyFlMknzY6) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Inigo](https://open.spotify.com/album/3DhznXynw9F1GuNYBs8z9P) | 4:16 |
+| 40 | [TURNIN' HEADS](https://open.spotify.com/track/3MT8ekypV5xYBLstqFpDkV) | [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP) | [TURNIN' HEADS](https://open.spotify.com/album/2vEstBvc73vJEJ39gFwE50) | 2:56 |
 | 41 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 |
 | 42 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
 | 43 | [no fun/party](https://open.spotify.com/track/1HoSyT8MIKRUZ3q3ohEFiK) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 5:56 |
 | 44 | [God Herself](https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [God Herself](https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H) | 2:32 |
 | 45 | [Cigarette](https://open.spotify.com/track/0mgi4eJrjd0uv0PGIx4MJo) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Cigarette](https://open.spotify.com/album/0Xv7O6PBVUdkdma1Qe5nbK) | 3:16 |
 
-Snapshot ID: `MCw2OWYzYTE3YzgyNDdmMWUzOGI2ZmJjNDE0YzA4NDgzZTQ1ZjJkODM5`
+Snapshot ID: `MCxlNzNkZmI5OTIzMWI2NjU2OTcyZmFhMzM0MmVkZWRiZGE2MTAzNjQx`

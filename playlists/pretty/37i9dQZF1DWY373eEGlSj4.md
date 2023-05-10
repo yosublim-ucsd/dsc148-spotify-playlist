@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,284,279 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,775 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [I'll Never Love This Way Again](https://open.spotify.com/track/4V3AGIIQeJoBUPaTCLiscB) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [Dionne \(Expanded Edition\)](https://open.spotify.com/album/77WC3SytwaxwNdzWPC1Jn9) | 3:31 |
 | 50 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 |
 
-Snapshot ID: `MCxjMWNlNDFmZGVhZDI0ODM0YjExYmViYzhjMjIyZTdhMjE4OGM3MDM1`
+Snapshot ID: `MCxjNzA4MmQyNTk4OTdjM2I0ZTUwMThiMzEzMTQ1N2E1YzQwZjkxZDhj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,283 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,328 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 21 | [In Bloom \(Acoustic\)](https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [In Bloom: Versions](https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85) | 3:32 |
 | 22 | [how big is your brain?](https://open.spotify.com/track/2g6FvhvSzYUq9f6uZeyDip) | [Super American](https://open.spotify.com/artist/2rYqBfxSvw45tW4WP5drQ2) | [SUP](https://open.spotify.com/album/3F548DjidPk7Z3kh4JCFnq) | 3:05 |
 | 23 | [Limits \- Unplugged](https://open.spotify.com/track/4WcOPeBNUtQCvGmSIneuA1) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Limits](https://open.spotify.com/album/1rfwzthKH7XyJ5yIJ4OZ71) | 3:16 |
-| 24 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
-| 25 | [She's Quiet \- Acoustic](https://open.spotify.com/track/4PkfRaum27YPheL0Kdu6wx) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/7Grtj3qLvoDzw8glKBPIfF) | 3:20 |
+| 24 | [She's Quiet \- Acoustic](https://open.spotify.com/track/4PkfRaum27YPheL0Kdu6wx) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [She's Quiet \(Acoustic\)](https://open.spotify.com/album/7Grtj3qLvoDzw8glKBPIfF) | 3:20 |
+| 25 | [Jasey Rae \(Acoustic\)](https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Put Up or Shut Up \(Deluxe Version\)](https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ) | 3:33 |
 | 26 | [You Were The Letdown \(Chasing California\)](https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo) | [Oh, Weatherly](https://open.spotify.com/artist/02lQyTg7WFMOKP1wsmJFHQ) | [Lips Like Oxygen Reimagined](https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX) | 3:11 |
 | 27 | [Toothpick](https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Skinny Dipping](https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F) | 3:35 |
 | 28 | [Into The Dark \(Acoustic\)](https://open.spotify.com/track/7mSgUS6LGK7Q8KoSHb0P4q) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Into The Dark \(Acoustic\)](https://open.spotify.com/album/3nXOMnWY6IHDkyZWRotMDd) | 3:40 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 43 | [Transient \(acoustic\)](https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j) | [Makari](https://open.spotify.com/artist/4YW1GDcW9hobRPMDi8v6XH) | [Transient \(acoustic\)](https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs) | 4:20 |
 | 44 | [Dammit \(Acoustic\)](https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Dammit \(Acoustic\)](https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC) | 4:01 |
 | 45 | [Monsters \- Acoustic \- Live From Lockdown](https://open.spotify.com/track/141C5AoyVsKC7vrKtiILTV) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Monsters \(Acoustic \- Live From Lockdown\)](https://open.spotify.com/album/6dP9IbytNzRKcHJZXkjKis) | 3:03 |
-| 46 | [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 |
-| 47 | [Cruel Summer](https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 2:54 |
-| 48 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
+| 46 | [Fashion Forward \(Acoustic\)](https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Fashion Forward \(Acoustic\)](https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj) | 3:42 |
+| 47 | [Ache](https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO) | 1:53 |
+| 48 | [Cruel Summer](https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq) | [Miss Fortune](https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l) | [Cruel Summer](https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED) | 2:54 |
 | 49 | [Tide](https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn) | [Bearings](https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn) | [Blue in the Dark](https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42) | 2:39 |
 | 50 | [Aquamarine \- Acoustic](https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [The Afterglow / Aquamarine](https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo) | 3:52 |
 | 51 | [Patience](https://open.spotify.com/track/3Tdm0rR9xKlHDVr6QY1dYU) | [Cory Wells](https://open.spotify.com/artist/4iLkUR4VnW577DOxOYjxwG) | [The Way We Are](https://open.spotify.com/album/35Gpjsc0v57PxfeCNL8ovv) | 3:45 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 59 | [Disarm](https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Disarm](https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq) | 3:19 |
 | 60 | [10 Am](https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Unplugged](https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV) | 3:34 |
 | 61 | [Wax Poetic \(Acoustic\)](https://open.spotify.com/track/62BBvS1Wr9Uw9IoSbumxxK) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Haunted](https://open.spotify.com/album/3Nhu3uQ7njNRKdQXz2HUhC) | 3:29 |
-| 62 | [A Decade Under The Influence \- Acoustic](https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:12 |
-| 63 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
-| 64 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
-| 65 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
+| 62 | [Hunnie](https://open.spotify.com/track/0AL6tELBUTtpU4g4jChm5B) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [All Out](https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm) | 3:35 |
+| 63 | [A Decade Under The Influence \- Acoustic](https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:12 |
+| 64 | [Leave It All Behind \- Acoustic](https://open.spotify.com/track/4B6ODLVDLIWcQxNUWmjlmY) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 2:59 |
+| 65 | [sleepwalking](https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Owen](https://open.spotify.com/artist/4PJbP0dXALttfo1PFPY1Pt), [Mike Kinsella](https://open.spotify.com/artist/65MqFenJZqxNAPxnEATV8U) | [sleepwalking](https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI) | 3:35 |
 | 66 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 |
 | 67 | [Dial Tones \- Acoustic Version](https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After \(Deluxe Edition\)](https://open.spotify.com/album/1yQpnfhLfNZTZi85osX4W4) | 3:24 |
 | 68 | [Still Dreaming \(Acoustic\)](https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Redux: The First 10 Years](https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l) | 4:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Last To Know \- From Exile](https://open.spotify.com/track/6M8Vmvrr4URtl1WFO5YTN6) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [From Exile](https://open.spotify.com/album/4NA26Wy1s046SpVs6VYij9) | 3:59 |
 | 75 | [Smokestack](https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d) | [Alkaline Trio](https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR) | [E.P.](https://open.spotify.com/album/7f6VPDEapsQExFKB58VQbY) | 2:36 |
 
-Snapshot ID: `MCw4NTEyY2ViYjVjMDg4M2NmM2NkZjU0MjY2YmVhZThhMjEwZjQ4NTlk`
+Snapshot ID: `MCw2ZjZmZmI4MDEwYzhlMmI1NWJkMDkxYTc3MDgzMWQ3YTQwYzU1ZGE1`

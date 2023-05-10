@@ -3398,7 +3398,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-17",
+      "date_removed": null,
       "duration_ms": 136500,
       "name": "Heartfelt",
       "url": "https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1"
@@ -4172,7 +4172,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 156000,
       "name": "June",
       "url": "https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ"
@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 122832,
       "name": "kawaguchiko",
       "url": "https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 136250,
       "name": "M\u00e8re bien-aim\u00e9e",
       "url": "https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh"
@@ -6534,6 +6534,24 @@
       "duration_ms": 153842,
       "name": "Paisible",
       "url": "https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7"
+    },
+    {
+      "album": {
+        "name": "Particle rise",
+        "url": "https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR"
+      },
+      "artists": [
+        {
+          "name": "Ama Hemmah",
+          "url": "https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152850,
+      "name": "Particle rise",
+      "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
     },
     {
       "album": {
@@ -9652,7 +9670,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 139807,
       "name": "Uprise",
       "url": "https://open.spotify.com/track/2Ys6Pl9WewP7ubO6kpevWI"

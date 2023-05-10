@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,941 likes - 60 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,949 likes - 60 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 30 | [Olhares](https://open.spotify.com/track/29gjSnpSaHYKV62A8uwQ1y) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89) | [Olhares](https://open.spotify.com/album/2uEThThOM8x9bDSSvYK8p3) | 3:57 |
 | 31 | [Vagabundo Também Ama / Vida Longa Mundo Pequeno \- Acústico](https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE) | [Oriente \(Acústico\)](https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ) | 8:49 |
 | 32 | [Castelos & Ruínas](https://open.spotify.com/track/56U1WCUL6mbxoSSYgbBame) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/5BCxlla9sHRzzP302BOMH0) | 4:09 |
-| 33 | [Muleque De Vila](https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 4:34 |
-| 34 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
+| 33 | [Rosas e Rimas](https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR) | [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Slow Flow](https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3) | 2:39 |
+| 34 | [Muleque De Vila](https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 4:34 |
 | 35 | [Estilo Coyote](https://open.spotify.com/track/0S8wE0j00zo0giZ2PkWmUD) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [Estilo Coyote](https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq) | 2:54 |
 | 36 | [Respeito É pra Quem Tem](https://open.spotify.com/track/4pZt1KU0y9Ckrw5Bcp60GB) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [RZO](https://open.spotify.com/artist/1CQJtHMGhqvrSZiRTjSeOU) | [Rap É Compromisso \(Edição Comemorativa\)](https://open.spotify.com/album/4KJARfekEfYH6zGKus6zvz) | 5:29 |
 | 37 | [Rap, Cerva, Erva e Muita Larica](https://open.spotify.com/track/3MT349AygkDxEp3eHpD6VL) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Bonde da Madrugada pt\. 2](https://open.spotify.com/album/2jOQG9qOUtpMvOrScJ5EMW) | 4:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 59 | [Diáspora](https://open.spotify.com/track/5Ry5dvgGqRn6FJzF3dlH25) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [DV Tribo](https://open.spotify.com/artist/4cePVnCFqOt3chPXh4qAMr) | [Diáspora](https://open.spotify.com/album/1Q03zZsHWMBmW1LJ0Qo9f8) | 5:15 |
 | 60 | [Linda, Louca e Mimada](https://open.spotify.com/track/1rcZKMWbCac4FDnUvtYfyK) | [Oriente, Rebeca](https://open.spotify.com/artist/4OihQRMAYzuKUobEFCpmLE) | [Oriente](https://open.spotify.com/album/5i7yYQx7XGmfl5G6XZIsUu) | 3:22 |
 
-Snapshot ID: `MCw4MTE2MTI0N2FjNjFjZTE2YjY3MDFmMjdlODQ1MzZhOTcyMDFlZmNk`
+Snapshot ID: `MCw2NmE2ZTFiNGE1OWVmNWI4NzI5MWUxYzNlNTQ5ZTVmMzdkZjA5ZWIx`

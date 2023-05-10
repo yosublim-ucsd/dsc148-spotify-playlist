@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية اليوم🤩 الغلاف: فريد
 
-419 songs - 1 day 0 hr 23 min
+420 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Fe Makan Ma](https://open.spotify.com/track/3nF4YhL8rIDjYKfPpnzTBS) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Makan Ma](https://open.spotify.com/album/2pGUBaoowc7BvZIye0pob7) | 3:51 | 2022-03-09 | 2022-07-07 |
 | [Fi 7eta Tanya](https://open.spotify.com/track/1Z2EZuhLqHvLXlhYs2McXy) | [Abdelbaset Hamooda](https://open.spotify.com/artist/2DPKmLpLRwOVg8u0ylBsyt) | [Fi 7eta Tanya](https://open.spotify.com/album/1iSgUh21DNUOm1BhnJxMiL) | 3:14 | 2022-01-23 | 2022-04-08 |
 | [Fi Zeroof Tanya](https://open.spotify.com/track/5efRgvpDUMrX2ivUimYPcJ) | [Nouran AbuTaleb](https://open.spotify.com/artist/0b8NJrWFSqne10bMREfuQh) | [Fi Zeroof Tanya](https://open.spotify.com/album/1T0slUpWgsXe7i5yzNdLf0) | 3:19 | 2023-02-16 | 2023-04-21 |
+| [Fou2 W Et3lem](https://open.spotify.com/track/1Nl83PQaY3bpy1PphPAdBf) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Fou2 W Et3lem](https://open.spotify.com/album/4i5xtXsOMluVbBAgdK4zmA) | 2:51 | 2023-05-09 |  |
 | [Ga7da](https://open.spotify.com/track/2OeBH98G3LNrCybb8J9E5a) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Ga7da](https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2) | 3:06 | 2022-10-20 | 2023-01-06 |
 | [Gadir Belzikr](https://open.spotify.com/track/7tglXNSp6h9NCiNTFmeOew) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Gadir Belzikr](https://open.spotify.com/album/3V8bmFz2r2Ll4hTMNMvR0X) | 3:15 | 2023-03-09 | 2023-05-09 |
 | [Gamalha Estethnaey](https://open.spotify.com/track/3CYwmM56BETkTSpcr3LEiL) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Gamalha Estethnaey](https://open.spotify.com/album/77LRIbp593ruGyVw5uQRBZ) | 3:07 | 2022-05-01 | 2022-06-24 |
@@ -199,7 +200,7 @@
 | [Law Faker \- لو فاكر](https://open.spotify.com/track/0YvgaPYmXbdYd0brGlZEkI) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Law Faker \(لو فاكر\)](https://open.spotify.com/album/0zLiKpIZUGHJvMDvzjwY78) | 3:26 | 2021-12-23 | 2022-01-21 |
 | [lawen hayatak](https://open.spotify.com/track/0SlWoAV4uthRhahfVpQk8D) | [Mohamed Adawya](https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN) | [lawen hayatak](https://open.spotify.com/album/0ZAYYAv1gKfSLzIKoUpZk1) | 4:02 | 2023-01-06 | 2023-02-17 |
 | [Layali Taweela](https://open.spotify.com/track/0hA2CXgMOXTAuwV9iDNZEq) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:58 | 2021-12-29 | 2022-03-18 |
-| [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 | 2023-03-10 |  |
+| [Laykoon](https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi) | [Dareen](https://open.spotify.com/artist/2FcLH6GszL9gLAkmlZ0NDj), [Rashed Muzik](https://open.spotify.com/artist/3h9Fk9MDHxGBx3QmHiGfk5) | [Laykoon](https://open.spotify.com/album/1edTtSiMnmKiAHI4p53gg8) | 2:39 | 2023-03-10 | 2023-05-10 |
 | [Le3btek](https://open.spotify.com/track/4639bUl0D2CTpXDBKUdSRQ) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Le3btek](https://open.spotify.com/album/4hnF2534JU5IlbhiLFjAzC) | 3:48 | 2022-02-01 | 2022-05-19 |
 | [Leeh](https://open.spotify.com/track/3d0MpbuzPk1H7ocM7G9OSG) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Leeh](https://open.spotify.com/album/3MeDB8esgcm5JtzFOu8kS2) | 3:58 | 2022-06-23 | 2022-09-24 |
 | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/track/6XqswjwRHsf5DMSdxEhFSm) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Leh Badary Men Film Hashtag Gawwzny](https://open.spotify.com/album/2kSwBV93jeWgrbYcLUVXHV) | 3:45 | 2022-10-26 | 2023-01-08 |

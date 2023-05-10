@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,950 likes - 45 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,998 likes - 45 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 44 | [We are the Clash](https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Cut The Crap](https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn) | 3:02 |
 | 45 | [He Who Dares or Is Tired](https://open.spotify.com/track/5qDs46EokLqDHpQ7sqcHWE) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock + The People's Hall](https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh) | 2:53 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA4MWUyMTg5YjUxMGYxMjJiZWI1ZDZhN2ZmODk5N2Q2NQ==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAzNWM4NjkzOTE0NTUzNzlkZjc2NWZlYzJkMGU2MGJlNw==`

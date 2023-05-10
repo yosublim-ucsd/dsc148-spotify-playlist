@@ -1,56 +1,28 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Custody",
-  "num_followers": 81459,
+  "description": "Bringing out the best of latest love tracks\nCover : Kushi",
+  "num_followers": 81530,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDMwNDExNDQxZmU4MTk1ZWFjMmUxY2RiY2Y4NWNiMDlmMjE0NTM5",
+  "snapshot_id": "MCxmNTNmNmJhNjUyYWRmYmQxYzVlNmZkYWE0YTkyMTUzNDlhY2E3MTJk",
   "tracks": [
     {
-      "added_at": "2023-04-24 06:03:36",
+      "added_at": "2023-05-09 06:55:53",
       "album": {
-        "name": "Timeless Love (From \"Custody\")",
-        "url": "https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr"
+        "name": "Na Roja Nuvve (From \"Kushi\") (Telugu)",
+        "url": "https://open.spotify.com/album/2rYw1yEuTj2qOHj3J8YTJN"
       },
       "artists": [
         {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-        },
-        {
-          "name": "Madan Karky",
-          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Timeless Love (From \"Custody\")",
-      "url": "https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz"
-    },
-    {
-      "added_at": "2023-02-22 14:11:25",
-      "album": {
-        "name": "Malli Malli (From \"Agent\")",
-        "url": "https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        }
-      ],
-      "duration_ms": 207210,
-      "name": "Malli Malli (From \"Agent\")",
-      "url": "https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU"
+      "duration_ms": 242526,
+      "name": "Na Roja Nuvve",
+      "url": "https://open.spotify.com/track/2mFkD2KjL1dUhkpNKteaKP"
     },
     {
       "added_at": "2023-04-17 12:14:47",
@@ -97,26 +69,6 @@
       "url": "https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY"
     },
     {
-      "added_at": "2023-03-25 03:18:29",
-      "album": {
-        "name": "Nachavule Nachavule (From \"Virupaksha\")",
-        "url": "https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        }
-      ],
-      "duration_ms": 222135,
-      "name": "Nachavule Nachavule (From \"Virupaksha\")",
-      "url": "https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay"
-    },
-    {
       "added_at": "2023-05-08 08:13:04",
       "album": {
         "name": "Maama Mascheendra",
@@ -143,6 +95,26 @@
       "duration_ms": 279711,
       "name": "Gaalullona",
       "url": "https://open.spotify.com/track/6GcpFFSkEUgBObU8CVNLTW"
+    },
+    {
+      "added_at": "2023-03-25 03:18:29",
+      "album": {
+        "name": "Nachavule Nachavule (From \"Virupaksha\")",
+        "url": "https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 222135,
+      "name": "Nachavule Nachavule (From \"Virupaksha\")",
+      "url": "https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay"
     },
     {
       "added_at": "2023-04-24 12:23:59",
@@ -193,6 +165,22 @@
       "url": "https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa"
     },
     {
+      "added_at": "2023-02-22 14:11:25",
+      "album": {
+        "name": "Malli Malli (From \"Agent\")",
+        "url": "https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        }
+      ],
+      "duration_ms": 207210,
+      "name": "Malli Malli (From \"Agent\")",
+      "url": "https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU"
+    },
+    {
       "added_at": "2023-03-03 17:10:41",
       "album": {
         "name": "Phalana Abbayi Phalana Ammayi",
@@ -235,6 +223,34 @@
       "duration_ms": 239298,
       "name": "Sogasuke Soku",
       "url": "https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO"
+    },
+    {
+      "added_at": "2023-04-24 06:03:36",
+      "album": {
+        "name": "Timeless Love (From \"Custody\")",
+        "url": "https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Madan Karky",
+          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Timeless Love (From \"Custody\")",
+      "url": "https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz"
     },
     {
       "added_at": "2023-04-22 11:54:53",
@@ -1059,22 +1075,6 @@
       "duration_ms": 246805,
       "name": "Kalalo Kooda",
       "url": "https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN"
-    },
-    {
-      "added_at": "2022-10-28 01:29:35",
-      "album": {
-        "name": "Urvasivo Rakshasivo",
-        "url": "https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX"
-      },
-      "artists": [
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Seethakoka Chiluka",
-      "url": "https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU"
     }
   ],
   "unique_name": "Latest Romance Telugu",

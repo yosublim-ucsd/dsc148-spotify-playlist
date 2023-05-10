@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 61688,
+  "num_followers": 61777,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGNhMTc2NWRmZjVjOWViZDEwMzQ3MGMwNjAzZWEzN2M3MjYxMzQ4",
+  "snapshot_id": "MCw4NzU5NWI1NDgyNzhlMjdhYTc4ODlmNDNlODFmYmMyY2Y1Y2E1NjY5",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
+        "name": "One Nation Under God",
+        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 418261,
+      "name": "It's Yours",
+      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
+    },
+    {
+      "added_at": "2023-02-18 05:28:04",
+      "album": {
         "name": "Adoration",
         "url": "https://open.spotify.com/album/1wsXZGszbQUTJnfuJABlZp"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
-    },
-    {
-      "added_at": "2023-02-18 05:28:04",
-      "album": {
-        "name": "One Nation Under God",
-        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 418261,
-      "name": "It's Yours",
-      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
     },
     {
       "added_at": "2023-02-18 05:28:04",

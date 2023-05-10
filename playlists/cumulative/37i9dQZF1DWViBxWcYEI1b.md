@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Ed Sheeran
 
-680 songs - 1 day 13 hr 53 min
+681 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Bed on Fire](https://open.spotify.com/track/1Qbh6UdiFpmdwRwNty6ISh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:48 | 2021-12-17 | 2022-02-19 |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-28 | 2023-04-15 |
 | [Believe It When I See It](https://open.spotify.com/track/33YWjVRW1hiipua8g6eTjV) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [We're Getting Older](https://open.spotify.com/album/0m3K3323vCX8dMauAGd4Ch) | 2:42 | 2022-09-30 | 2022-11-19 |
-| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-06 |  |
+| [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-05-05 |  |
+| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-06 | 2023-05-10 |
 | [Best Day Of My Life](https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day Of My Life](https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX) | 2:26 | 2022-04-01 | 2022-04-29 |
 | [Best Friend](https://open.spotify.com/track/3OCTonHd9l53kBjGFvW29a) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/4vgoKoyq3ep6PLN25XtS6w) | 2:39 | 2023-02-03 | 2023-03-18 |
 | [Best Night of My Life](https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB) | 2:34 | 2023-01-13 | 2023-03-04 |

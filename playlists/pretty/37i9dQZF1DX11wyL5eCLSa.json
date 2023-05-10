@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. Juan Carlos Bodoque en Portada. ",
-  "num_followers": 148188,
+  "num_followers": 148381,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTc3MDYyZjcxNTYyNTllZGM0MGViMjAzODdhMmM4MDk1YjEzZGE2",
+  "snapshot_id": "MCwyMjkyNTk5ZTJjNzliZTZhOGM4MDUwZTM4MWQxYWJlYThiNzY1MGE3",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -349,22 +349,6 @@
       "url": "https://open.spotify.com/track/7uMBJGgc3QWdDQWBtBoPzj"
     },
     {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cambio Estacional",
-        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 218175,
-      "name": "Los Imanes",
-      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
-    },
-    {
       "added_at": "2023-04-28 06:00:00",
       "album": {
         "name": "Jaula de Oro",
@@ -383,6 +367,22 @@
       "duration_ms": 238926,
       "name": "Jaula de Oro",
       "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Cambio Estacional",
+        "url": "https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 218175,
+      "name": "Los Imanes",
+      "url": "https://open.spotify.com/track/4CoJ7RN7myJHXYIx1pB8IF"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "D\u00edas De Fuego",
-        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "D\u00edas De Fuego",
-      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "N\u00e1ufrago",
         "url": "https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK"
       },
@@ -507,18 +491,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Tiempos Mejores",
-        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+        "name": "D\u00edas De Fuego",
+        "url": "https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 203320,
-      "name": "Amiga - Bonus Track",
-      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+      "duration_ms": 185640,
+      "name": "D\u00edas De Fuego",
+      "url": "https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -543,6 +527,38 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Tiempos Mejores",
+        "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Amiga - Bonus Track",
+      "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Br\u00fajula",
+        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 252661,
+      "name": "Br\u00fajula",
+      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Sonidos De Karm\u00e1tica Resonancia",
         "url": "https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 270906,
       "name": "Popular",
       "url": "https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Donde los Ponys Pastan",
-        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 322013,
-      "name": "Espiral",
-      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Br\u00fajula",
-        "url": "https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz"
+        "name": "Donde los Ponys Pastan",
+        "url": "https://open.spotify.com/album/0trdxYmH6A4QEtdlbYWjtx"
       },
       "artists": [
         {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
         }
       ],
-      "duration_ms": 252661,
-      "name": "Br\u00fajula",
-      "url": "https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo"
+      "duration_ms": 322013,
+      "name": "Espiral",
+      "url": "https://open.spotify.com/track/3LLMudAmQlHRqmD5BG3CQS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Su Majestad La Eternidad",
+      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 194769,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Amantes - Su Majestad La Eternidad",
-        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Su Majestad La Eternidad",
-      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 288554,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Trebol",
         "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 162758,
       "name": "Trebol",
       "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 288554,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Inevitable",
         "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 204963,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1075,6 +1075,38 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "La Desgracia Ajena",
+        "url": "https://open.spotify.com/album/6qpVVIUEh8c96RWaa9dZgS"
+      },
+      "artists": [
+        {
+          "name": "31 Minutos",
+          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
+        }
+      ],
+      "duration_ms": 136893,
+      "name": "La Desgracia Ajena",
+      "url": "https://open.spotify.com/track/3FSaKGcPziAbqiw5wPy38g"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Mejor Que Nadie",
+        "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        }
+      ],
+      "duration_ms": 280263,
+      "name": "Mejor Que Nadie",
+      "url": "https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Contracorriente",
         "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
       },
@@ -1091,22 +1123,6 @@
       "duration_ms": 190500,
       "name": "Contracorriente",
       "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "La Desgracia Ajena",
-        "url": "https://open.spotify.com/album/6qpVVIUEh8c96RWaa9dZgS"
-      },
-      "artists": [
-        {
-          "name": "31 Minutos",
-          "url": "https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG"
-        }
-      ],
-      "duration_ms": 136893,
-      "name": "La Desgracia Ajena",
-      "url": "https://open.spotify.com/track/3FSaKGcPziAbqiw5wPy38g"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mejor Que Nadie",
-        "url": "https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE"
+        "name": "AAAAAA",
+        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
       },
       "artists": [
         {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
         }
       ],
-      "duration_ms": 280263,
-      "name": "Mejor Que Nadie",
-      "url": "https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ"
+      "duration_ms": 190087,
+      "name": "AAAAAA",
+      "url": "https://open.spotify.com/track/4TicUXZlUkSzDrrATRbi2Q"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 182967,
       "name": "Ser\u00e1 Lo Que T\u00fa Quieras",
       "url": "https://open.spotify.com/track/24knCOVLEJZ25gLRmCRqYI"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "AAAAAA",
-        "url": "https://open.spotify.com/album/1oBoWEuVhiOvT5WFljqkRi"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 190087,
-      "name": "AAAAAA",
-      "url": "https://open.spotify.com/track/4TicUXZlUkSzDrrATRbi2Q"
     },
     {
       "added_at": "2023-04-14 06:00:00",

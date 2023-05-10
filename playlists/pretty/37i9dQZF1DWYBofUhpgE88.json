@@ -1,12 +1,12 @@
 {
   "description": "La carica giusta per i tuoi allenamenti!",
-  "num_followers": 306930,
+  "num_followers": 307068,
   "original_name": "Rap Motivazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWYwYzc0ZDk0ZmJkNzUyOTNjMTU5M2UwNDFhYzY4MzYwOWFmY2Fj",
+  "snapshot_id": "MCw2M2Y5ODBkMzFlNWE2MTJmNTEyNmQ2OTc5NjQyYzY2Nzg2NGUzNTBl",
   "tracks": [
     {
       "added_at": "2023-04-19 14:12:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-19 14:12:10",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2023-04-19 14:12:10",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 200186,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
+    },
+    {
+      "added_at": "2023-04-19 14:12:10",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2023-04-19 14:12:10",
@@ -1327,22 +1327,18 @@
     {
       "added_at": "2023-04-19 14:12:10",
       "album": {
-        "name": "DUMMY BOY",
-        "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
       "artists": [
         {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 136031,
-      "name": "KIKA",
-      "url": "https://open.spotify.com/track/0IFMbLUK5ttPmXyK16qUQu"
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     }
   ],
   "unique_name": "Rap Motivazionale",

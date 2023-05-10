@@ -4,7 +4,7 @@
 
 > ついにシリーズ完結！最新作映画『シン・エヴァンゲリオン劇場版』公開記念『エヴァンゲリオン』シリーズの音楽をプレイリストで！（C）カラー
 
-157 songs - 9 hr 27 min
+158 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [残酷な天使のテーゼ](https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [残酷な天使のテーゼ/魂のルフラン](https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K) | 4:07 | 2021-08-31 | 2023-02-02 |
 | [激突!轟天対大魔艦](https://open.spotify.com/track/2ESv5rWXvpKL4sKXfowNBy) | [Shiro Sagisu](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Shiro SAGISU Music from "SHIN EVANGELION"](https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG) | 3:18 | 2021-08-31 | 2022-07-29 |
 | [真実一路のマーチ](https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy) | [Kiyoko Suizenji](https://open.spotify.com/artist/3v8X96lvVXfrwC4bMrM4On) | [水前寺清子全曲集 \~熊本城・三百六十五歩のマーチ\~](https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk) | 3:32 | 2021-08-31 |  |
+| [罪と罰 祈らざる者よ](https://open.spotify.com/track/5Oe8juA7RR7qMan9BOAb6g) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [EVANGELION ETERNALLY](https://open.spotify.com/album/6oS76VmrAJrkcnCzzVglzh) | 4:13 | 2023-05-09 |  |
 | [翼をください](https://open.spotify.com/track/2CYFFxqdK9wFcpUmSc2g82) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [ヱヴァンゲリヲン新劇場版:破 オリジナルサウンドトラック](https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP) | 4:50 | 2021-08-31 |  |
 | [翼をください](https://open.spotify.com/track/4BVC2Ou8Ka1kmT11wtZFl6) | [Megumi Hayashibara](https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p) | [EVANGELION FINALLY](https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj) | 4:54 | 2021-08-31 | 2022-07-29 |
 | [蒼いレジェンド](https://open.spotify.com/track/2Fy7Qe48dNYidRmb5KLvKq) | [三石琴乃](https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod) | [ヱヴァンゲリヲン新劇場版:序 オリジナルサウンドトラック](https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG) | 4:34 | 2021-08-31 |  |

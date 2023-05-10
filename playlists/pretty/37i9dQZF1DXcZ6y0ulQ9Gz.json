@@ -1,12 +1,12 @@
 {
   "description": "An eclectic mix of past & current Indie favourites. Cover: Arlo Parks",
-  "num_followers": 28036,
+  "num_followers": 28038,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2RkNjk3ZDVjNGIxN2RkYTcyNzMxMDU0MDI1MTRlYTEwMWY4ZTIx",
+  "snapshot_id": "MCw2YzA4YzRjYThiMTBmMTM3MTcwN2JhMWZiOGUyZmNhOTI0MWZhYTdh",
   "tracks": [
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-04-21 14:06:50",
       "album": {
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Teardrops",
+      "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
         "name": "Cracker Island (feat. Thundercat)",
         "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/6SbuufeFjg252z6GFG1lXV"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 198331,
-      "name": "Teardrops",
-      "url": "https://open.spotify.com/track/3GdogCZTpPHBODiiEJbqQm"
     },
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-21 14:06:50",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
         "name": "There is no Neil Frances",
         "url": "https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 174213,
       "name": "dancing",
       "url": "https://open.spotify.com/track/2blNIRZz1KKV4fAC5OgI1o"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2023-04-21 14:06:50",
       "album": {
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+      },
+      "artists": [
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "Charcoal Baby",
+      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
         "name": "Odyss\u00e9e - EP",
         "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 115800,
       "name": "Just for me",
       "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
-      },
-      "artists": [
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 242341,
-      "name": "Charcoal Baby",
-      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
     },
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1563,6 +1563,22 @@
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2023-04-21 14:06:50",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "Mary",
+      "url": "https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n"
     },
     {
       "added_at": "2023-04-21 14:06:50",
@@ -1659,22 +1675,6 @@
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
-    },
-    {
-      "added_at": "2023-04-21 14:06:50",
-      "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     }
   ],
   "unique_name": "Indie Favourites",

@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Another Universe",
+        "url": "https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Another Universe",
+      "url": "https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x"
+    },
+    {
+      "album": {
         "name": "souvenir",
         "url": "https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq"
       },
@@ -3055,6 +3073,28 @@
     },
     {
       "album": {
+        "name": "V I N C E N T",
+        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234213,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
+    },
+    {
+      "album": {
         "name": "Greener",
         "url": "https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK"
       },
@@ -3096,28 +3136,6 @@
       "duration_ms": 234213,
       "name": "Greener",
       "url": "https://open.spotify.com/track/4nYtmcShP6O7QQX7dEPcQM"
-    },
-    {
-      "album": {
-        "name": "V I N C E N T",
-        "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        },
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 234213,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy"
     },
     {
       "album": {
@@ -7918,7 +7936,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 192706,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT"

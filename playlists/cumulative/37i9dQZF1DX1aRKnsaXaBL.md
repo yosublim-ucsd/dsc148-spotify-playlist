@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1aRKnsaXaBL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1aRKnsaXaBL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1aRKnsaXaBL)
 
-### [anaranjado](https://open.spotify.com/playlist/37i9dQZF1DX1aRKnsaXaBL)
+### [canciones para ver atardeceres](https://open.spotify.com/playlist/37i9dQZF1DX1aRKnsaXaBL)
 
-> Catching sunsets con indie rock de fondo.
+> Chasing sunsets con indie rock de fondo.
 
 68 songs - 3 hr 55 min
 

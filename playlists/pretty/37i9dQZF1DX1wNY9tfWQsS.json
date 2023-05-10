@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 509431,
+  "num_followers": 509520,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTgyMWQ0MWU0Zjk0NTAzOWNjYWQ0YTBkN2ZiZmJkMDZhZTM3ZmIw",
+  "snapshot_id": "MCxmNjgxOWRhMmJjYjg3MjY0NTA4NTdlNjVmNGM4OGM3OTg5NmRhODlj",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
         "name": "Wild Side (feat. Cardi B)",
         "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 209476,
       "name": "Wild Side (feat. Cardi B)",
       "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2022-03-08 19:58:52",

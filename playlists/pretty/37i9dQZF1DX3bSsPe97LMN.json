@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Franco Rey en portada.",
-  "num_followers": 53690,
+  "num_followers": 53720,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWY1NGMyODU4MDcxM2VlMDcxNzFkODZhNmY2MGFkZDcwNjdiN2Zh",
+  "snapshot_id": "MCw4YmRiZTIzYjZmNTY3M2NjNDBiNzY4ZTVjODVkNjA0MzM3MDM1NzMx",
   "tracks": [
     {
       "added_at": "2023-05-05 18:32:45",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/2JdkZ3WmXOngJih4zluAdm"
+      },
+      "artists": [
+        {
+          "name": "Konzentido de Afid Ferrer",
+          "url": "https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp"
+        }
+      ],
+      "duration_ms": 210945,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/0vGh3sL5U8JMl0LBAU2JAo"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "El Sello Adixion",
         "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Quedate",
-        "url": "https://open.spotify.com/album/2JdkZ3WmXOngJih4zluAdm"
-      },
-      "artists": [
-        {
-          "name": "Konzentido de Afid Ferrer",
-          "url": "https://open.spotify.com/artist/7FONGfnHl6HPvHaJAik9yp"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Quedate",
-      "url": "https://open.spotify.com/track/0vGh3sL5U8JMl0LBAU2JAo"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Este Sentimiento",
         "url": "https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
-        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kenwood En Los Radios (En Vivo)",
-      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
         "url": "https://open.spotify.com/album/2hXb1mTtXkbmcZPgJKcUEy"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 148213,
       "name": "Esta Borrachera Va Por Ti (Chalino por Camilo)",
       "url": "https://open.spotify.com/track/2r0llg6rLNN99PaTiAjUA7"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Desde Culiac\u00e1n Con Servando Zl (En Vivo)",
+        "url": "https://open.spotify.com/album/0ASqLiVfTGiu2VIFlUH5Kg"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kenwood En Los Radios (En Vivo)",
+      "url": "https://open.spotify.com/track/5mOKBqqo0UMIJ2hgFPStZU"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "El Sera Y El Chavo",
         "url": "https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 170173,
       "name": "El Sera Y El Chavo",
       "url": "https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -695,6 +695,30 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Al Mill\u00f3n",
+        "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
+      },
+      "artists": [
+        {
+          "name": "El Burger",
+          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
+        },
+        {
+          "name": "Razeth",
+          "url": "https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n"
+        },
+        {
+          "name": "Alann Mora",
+          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
+        }
+      ],
+      "duration_ms": 138028,
+      "name": "Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "El Coquito",
         "url": "https://open.spotify.com/album/0eAzuW5tEOtU71DWUoD9fO"
       },
@@ -727,30 +751,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Al Mill\u00f3n",
-        "url": "https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0"
-      },
-      "artists": [
-        {
-          "name": "El Burger",
-          "url": "https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT"
-        },
-        {
-          "name": "Razeth",
-          "url": "https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n"
-        },
-        {
-          "name": "Alann Mora",
-          "url": "https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb"
-        }
-      ],
-      "duration_ms": 138028,
-      "name": "Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Traigo Un Equip\u00f3n",
         "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
       },
@@ -779,6 +779,22 @@
       "duration_ms": 174213,
       "name": "Pa Que Te Digo Que No",
       "url": "https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Rolitas De Oro",
+        "url": "https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "Juan Ayon",
+      "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -891,22 +907,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Rolitas De Oro",
-        "url": "https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "Juan Ayon",
-      "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Barba De Herencia",
         "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 264003,
       "name": "De La Nada",
       "url": "https://open.spotify.com/track/6v9NpFk0H4fGGW1Rr1xV82"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Casa en Llamas",
-        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
-      },
-      "artists": [
-        {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        }
-      ],
-      "duration_ms": 194403,
-      "name": "Casa en Llamas",
-      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Estos D\u00edas",
         "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 204826,
       "name": "Estos D\u00edas",
       "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Casa en Llamas",
+        "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
+      },
+      "artists": [
+        {
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        }
+      ],
+      "duration_ms": 194403,
+      "name": "Casa en Llamas",
+      "url": "https://open.spotify.com/track/6naKryi0ST0D0gdatCyfaR"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Qui\u00e9n Te Entiende (En Vivo)",
-        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
-      },
-      "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        }
-      ],
-      "duration_ms": 193920,
-      "name": "Qui\u00e9n Te Entiende - En Vivo",
-      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Hombre Normal",
         "url": "https://open.spotify.com/album/5FUQoA6Vw1X6JsjSNVlM04"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 254999,
       "name": "Hombre Normal",
       "url": "https://open.spotify.com/track/2ZrDe83QNYiddNxvsjzKyC"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Qui\u00e9n Te Entiende (En Vivo)",
+        "url": "https://open.spotify.com/album/7glmtrjzSNF8IVS5M5jIK8"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Qui\u00e9n Te Entiende - En Vivo",
+      "url": "https://open.spotify.com/track/5jSa4sy1TnJXNDYgcHw1YH"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Sigo Avanzando",
+        "url": "https://open.spotify.com/album/20Tn8yKqrTZGL7TMH3H44Q"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "Noriel Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/1M9Q34BeOyKykb5GZjC0JI"
+        }
+      ],
+      "duration_ms": 131351,
+      "name": "Sigo Avanzando",
+      "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Con Tololoche y Charchetas (En Vivo)",
         "url": "https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI"
       },
@@ -1239,6 +1259,22 @@
       "duration_ms": 186274,
       "name": "Sin Lado Izquierdo - En Vivo",
       "url": "https://open.spotify.com/track/4EfiD65iGGfMHAR8c93Pwk"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "En Cada Trago",
+        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 172645,
+      "name": "En Cada Trago",
+      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1279,42 +1315,6 @@
       "duration_ms": 148578,
       "name": "No Le Muevan Al Viej\u00f3n",
       "url": "https://open.spotify.com/track/5vEO1CsJTtXg4myKwjiZZp"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Sigo Avanzando",
-        "url": "https://open.spotify.com/album/20Tn8yKqrTZGL7TMH3H44Q"
-      },
-      "artists": [
-        {
-          "name": "Dylan Coronel",
-          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
-        },
-        {
-          "name": "Noriel Dur\u00e1n",
-          "url": "https://open.spotify.com/artist/1M9Q34BeOyKykb5GZjC0JI"
-        }
-      ],
-      "duration_ms": 131351,
-      "name": "Sigo Avanzando",
-      "url": "https://open.spotify.com/track/5JKWwVkoGymp4clv8DsLZf"
     },
     {
       "added_at": "2023-05-05 18:32:45",

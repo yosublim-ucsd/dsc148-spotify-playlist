@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 173884,
+  "num_followers": 174044,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQ1MjU5OTZmNjZjM2FkMjFiM2Y1NmY5NjY5ZWZmOGI2NzcxMDA3",
+  "snapshot_id": "MCxlYjZkYThhZGM4YTAwNGVlNTNmMDlhZTEyMzExM2RmMjYzZDQxYmZi",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -27,22 +27,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Samuel T. Herring",
-          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 273864,
-      "name": "Time Moves Slow",
-      "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -63,18 +59,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+        "name": "IV",
+        "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Samuel T. Herring",
+          "url": "https://open.spotify.com/artist/6K4I1MPd7m8IztUdtrF4YU"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
+      "duration_ms": 273864,
+      "name": "Time Moves Slow",
+      "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Become A Shade",
         "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 237945,
       "name": "Stay With Us",
       "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Fourth Wall",
         "url": "https://open.spotify.com/album/1Wh2Vtq5hxHwCOmevQNWei"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 245123,
       "name": "Half Hour Verve",
       "url": "https://open.spotify.com/track/0ffiGkNSrTfbvkXHLz2gGk"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "runnersz",
-      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Crooks & Lovers",
-        "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
         }
       ],
-      "duration_ms": 250338,
-      "name": "Before I Move Off",
-      "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
+      "duration_ms": 140226,
+      "name": "runnersz",
+      "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1115,6 +1099,22 @@
       "duration_ms": 236703,
       "name": "Appeayl 2 U part 1",
       "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Crooks & Lovers",
+        "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 250338,
+      "name": "Before I Move Off",
+      "url": "https://open.spotify.com/track/6rcBB3zLdFn6RjEzienOdm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Tiny Reminders",
-        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
-      },
-      "artists": [
-        {
-          "name": "Two Lone Swordsmen",
-          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Constant Reminder",
-      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "I Will Make Room for You (Four Tet Remix)",
         "url": "https://open.spotify.com/album/6PI10ucPVSfshOfIDhGesh"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/0MUyYLTGossGLHTkHQH65W"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Tiny Reminders",
+        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Constant Reminder",
+      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Lost At Sea (Kelly Moran remix)",
+        "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        },
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "duration_ms": 296681,
+      "name": "Lost At Sea - Kelly Moran remix",
+      "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Karma & Desire",
         "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 229158,
       "name": "Permanence",
       "url": "https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Lost At Sea (Kelly Moran remix)",
-        "url": "https://open.spotify.com/album/2y8gds5sFhAgJO7kY4oZpE"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        },
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 296681,
-      "name": "Lost At Sea - Kelly Moran remix",
-      "url": "https://open.spotify.com/track/26XyyAXLjXU4a1TVkwzjd0"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "The Tunnel and the Clearing",
-        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
-      },
-      "artists": [
-        {
-          "name": "Colleen",
-          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
-        }
-      ],
-      "duration_ms": 333706,
-      "name": "Implosion-Explosion",
-      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Dissolvi",
         "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
       },
@@ -1647,18 +1631,18 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "L.O.S.S.",
-        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+        "name": "The Tunnel and the Clearing",
+        "url": "https://open.spotify.com/album/6iVlwI2lSSNISO2ypqXBQV"
       },
       "artists": [
         {
-          "name": "Daith\u00ed",
-          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+          "name": "Colleen",
+          "url": "https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3"
         }
       ],
-      "duration_ms": 267250,
-      "name": "Nobody New Around You",
-      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
+      "duration_ms": 333706,
+      "name": "Implosion-Explosion",
+      "url": "https://open.spotify.com/track/3XFE2WVHJ8VpSue33r9POm"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1675,6 +1659,22 @@
       "duration_ms": 197346,
       "name": "\u2665",
       "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "L.O.S.S.",
+        "url": "https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58"
+      },
+      "artists": [
+        {
+          "name": "Daith\u00ed",
+          "url": "https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz"
+        }
+      ],
+      "duration_ms": 267250,
+      "name": "Nobody New Around You",
+      "url": "https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG"
     }
   ],
   "unique_name": "Electronica Romantica",

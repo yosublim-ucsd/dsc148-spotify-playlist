@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > it's scary hours...⛈️  cover: Ashanti
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,021 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,688 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 48 | [Tell Me](https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg) | [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [Groove Theory](https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc) | 3:56 |
 | 49 | [Honey \(feat\. Mase & The Lox\) \- Bad Boy Remix](https://open.spotify.com/track/4fT89rIpn1BOJh6hvdp3n7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 5:33 |
 | 50 | [Get It On Tonite](https://open.spotify.com/track/0AcLrSfAEBQcUnHOTm5pXg) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT) | [Best Of Montell Jordan](https://open.spotify.com/album/6J9fX2iXc9W7ILQUWvEhAx) | 4:37 |
-| 51 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
+| 51 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 52 | [Too Close](https://open.spotify.com/track/5IFCyWplye09HytIP80RCF) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:19 |
 | 53 | [U Don't Have to Call](https://open.spotify.com/track/5PCJldueshnwqQVjS16543) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:29 |
 | 54 | [Complicated](https://open.spotify.com/track/0XHt0UmBzFJy1KKigTZ0tN) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 3:52 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 64 | [Addictive](https://open.spotify.com/track/36jSIOSE72neBbKntCthqw) | [Truth Hurts](https://open.spotify.com/artist/0HCeK90YUyjWi0utTPYXw1), [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [Truthfully Speaking](https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0) | 3:46 |
 | 65 | [How You Want It?](https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [How You Want It?](https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff) | 3:42 |
 | 66 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
-| 67 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
+| 67 | [Doin' It](https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Leshaun](https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 4:53 |
 | 68 | [Freak Like Me](https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA) | [Adina Howard](https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ) | [Do You Wanna Ride?](https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk) | 4:13 |
 | 69 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 70 | [On the Hotline](https://open.spotify.com/track/3bsoEOP4NHEoeVbAAYdbaU) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Late Night Special](https://open.spotify.com/album/0xbRSFuLwoNrRurfUXkN09) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 99 | [Diana \(feat\. King Combs\)](https://open.spotify.com/track/4Tc9PHEoeP17PQj3OOKXPu) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:08 |
 | 100 | [90's Love](https://open.spotify.com/track/6izMYA7zfbugQijioqoUIi) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [90's Love](https://open.spotify.com/album/2Hk0ZF1VM15CuaN2f8aWbF) | 3:27 |
 
-Snapshot ID: `MCw1YzBmMWEyNTNjNWU2Yzk4NmM1ODFjMGVlNDExYWQzNTRkMmVjOWY3`
+Snapshot ID: `MCw4OGJkOWQ0ZjQwZmU2NDQ2MGNmYjMxYjRlMTUwNjQwOGIyODQwMDJi`

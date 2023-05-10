@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56476,
+  "num_followers": 56481,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTViNTQzNGMxN2M2ZjY2ZTM0MGYwMzEwY2Q3M2EzY2ZhNGZjYjA4",
+  "snapshot_id": "MCwzMjcwMjk4ZmI5MzlhMDk0MTExNmRiY2VhY2E2NTBkZTQ4ZGYxZjZm",
   "tracks": [
     {
       "added_at": "2023-05-08 03:57:20",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 165560,
-      "name": "It's Easy To Remember",
-      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 165560,
+      "name": "It's Easy To Remember",
+      "url": "https://open.spotify.com/track/1lZ41PumDFX0e82XTGx4sE"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -231,26 +231,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Stan Getz & Bill Evans",
-        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 280840,
-      "name": "But Beautiful",
-      "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Blues Walk",
         "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
       },
@@ -263,6 +243,22 @@
       "duration_ms": 294666,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
+        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -287,22 +283,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
-        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Quiet Kenny",
         "url": "https://open.spotify.com/album/4B0pF1WLB3pCaZ4eTx5U8S"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 190400,
       "name": "Alone Together - Rudy Van Gelder Remaster 2006",
       "url": "https://open.spotify.com/track/3GOZbK2epuHzCt5YvvVFHO"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 280840,
+      "name": "But Beautiful",
+      "url": "https://open.spotify.com/track/1XCBWtTJZuHbwa6GLUutjo"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -399,6 +399,22 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
+        "name": "The New Classic Trio",
+        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "duration_ms": 408600,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
         "name": "The Essential Stan Getz: The Getz Songbook",
         "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 147906,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
-        "name": "The New Classic Trio",
-        "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 408600,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Boss Tenor",
-        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
-      },
-      "artists": [
-        {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "My Romance - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Standard Time Vol. 3: The Resolution Of Romance",
         "url": "https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 168666,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Boss Tenor",
+        "url": "https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "My Romance - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/3jaUMGTyi4XHBZpXpIWzo2"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Stride",
         "url": "https://open.spotify.com/album/0o05AbCCpC7ae3h0NGJBKg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 396520,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Fading Love",
-        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
+        "name": "Rhapsody in Blue",
+        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
       },
       "artists": [
         {
-          "name": "Burt Mitchell",
-          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
+          "name": "Dominick Farinacci",
+          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
         }
       ],
-      "duration_ms": 280750,
-      "name": "Fading Love",
-      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
+      "duration_ms": 249453,
+      "name": "Rhapsody in Blue",
+      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -963,18 +963,18 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Rhapsody in Blue",
-        "url": "https://open.spotify.com/album/0qrqm7a77kUuX8GgttNs4p"
+        "name": "Fading Love",
+        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
       },
       "artists": [
         {
-          "name": "Dominick Farinacci",
-          "url": "https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB"
+          "name": "Burt Mitchell",
+          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
         }
       ],
-      "duration_ms": 249453,
-      "name": "Rhapsody in Blue",
-      "url": "https://open.spotify.com/track/5up8HNHkEfnK47K1H74R2F"
+      "duration_ms": 280750,
+      "name": "Fading Love",
+      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1331,18 +1331,26 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Everytime around",
-        "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
+        "name": "Wisteria",
+        "url": "https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s"
       },
       "artists": [
         {
-          "name": "Vernon Sanders",
-          "url": "https://open.spotify.com/artist/1gys0wFhj7eK75U30auAF4"
+          "name": "Steve Kuhn",
+          "url": "https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt"
+        },
+        {
+          "name": "Steve Swallow",
+          "url": "https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV"
+        },
+        {
+          "name": "Joey Baron",
+          "url": "https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW"
         }
       ],
-      "duration_ms": 325562,
-      "name": "Everytime around",
-      "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+      "duration_ms": 347146,
+      "name": "Wisteria",
+      "url": "https://open.spotify.com/track/4lKiH7lACKR3hAdd1bONzp"
     }
   ],
   "unique_name": "\u50ac\u7720\u7235\u58eb",

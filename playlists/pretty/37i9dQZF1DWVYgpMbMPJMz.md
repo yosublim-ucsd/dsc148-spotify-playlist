@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5?si=ccd26b8deb094ff3">Abbie Gamboa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,863 likes - 100 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,981 likes - 100 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 93 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 | 94 | [I Belong To Jesus \- Studio Version](https://open.spotify.com/track/1x9OaN0jg6lCw1aBH7Xtcg) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [I Belong To Jesus \(Studio Version\)](https://open.spotify.com/album/1fVKQ3Cm2hr8uREfBDlJpg) | 4:15 |
 | 95 | [Plans](https://open.spotify.com/track/0XRBOG71jFxR8ygkkVcPrf) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [Plans](https://open.spotify.com/album/0kMwokkiRTrwI3JL1QamlE) | 4:29 |
-| 96 | [Rejoice](https://open.spotify.com/track/7GUpDKXuFJ161rnYt4e0Lu) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 9:01 |
+| 96 | [Rejoice](https://open.spotify.com/track/5veHy0qzJ3sESiWOEj8Fq0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 9:01 |
 | 97 | [He Wears A Crown](https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown](https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ) | 3:37 |
 | 98 | [Behold \- Live](https://open.spotify.com/track/2uhrVuH8Rz1nQfrRLWIKDU) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Behold / Never See the End \(Live\)](https://open.spotify.com/album/18RhikJuwitNdNMdEhmVAr) | 5:02 |
 | 99 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 | 100 | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/track/0CEaIQxIFxpvVsZqDIpkcz) | [Krissy Nordhoff](https://open.spotify.com/artist/6JuQ1D9qv2atxeYHJmkgw0), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [How Good It Is \(Even In The Winter\)](https://open.spotify.com/album/46oRc7TlVThSB8eLUIEjLL) | 5:05 |
 
-Snapshot ID: `MCxkNmIzY2I2YTk2ZDQ1NTM5YjBhOWE2YTJmMDU1ZTYyZGExODM0YjY0`
+Snapshot ID: `MCxiN2I5NTA0OGE3NTY3ZjUwYzM5YmUzZGVhYmJhZDAyODhhMzIwNjFl`

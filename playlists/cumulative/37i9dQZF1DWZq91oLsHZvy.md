@@ -4,7 +4,7 @@
 
 > Run to indie and alternative hits.
 
-205 songs - 12 hr 0 min
+206 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Car Crash](https://open.spotify.com/track/65cbALAFiczk5VQvzn0VOe) | [Happyalone.](https://open.spotify.com/artist/07cGsRL23DtuPJnawMKACY) | [Car Crash](https://open.spotify.com/album/5HN1L24YbwQxmS5IB8u2Ul) | 2:00 | 2022-04-08 | 2022-07-29 |
 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 | 2022-02-21 |  |
 | [Changing](https://open.spotify.com/track/3n9EGVIBNZZlqA6thJds2b) | [The Sway](https://open.spotify.com/artist/6B6d0AGSEYsweJ1siqwyZb) | [Sunshine Seekers](https://open.spotify.com/album/68htlytWqfe95k6StSMnPJ) | 3:02 | 2022-04-11 | 2022-07-29 |
-| [Chariot](https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Chariot](https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0) | 3:20 | 2023-02-10 |  |
+| [Chariot](https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Chariot](https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0) | 3:20 | 2023-02-10 | 2023-05-10 |
+| [Chariot](https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:20 | 2023-02-10 |  |
 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 | 2022-03-31 |  |
 | [Chelsea Dagger](https://open.spotify.com/track/0HyzQzPSy0YEYlDjQLxOHE) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Rock Workout](https://open.spotify.com/album/5j2OY6R6Jsdl2HJiXS8Mwv) | 3:35 | 2022-09-30 | 2022-11-13 |
 | [Chelsea Dagger](https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 | 2022-01-21 | 2022-07-29 |

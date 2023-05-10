@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 107581,
+  "num_followers": 107654,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTBiZmJiZmYwNDU5ZmIzYjMzZTg1NGUwNmJmMjU2MDQ5MDU4ZmMx",
+  "snapshot_id": "MCwxMzg2Mjk4YWExNGRkNzAzZTNkYzRiNmUwMTE5NDkxMDYwMzcxNWQ4",
   "tracks": [
     {
       "added_at": "2023-05-08 10:32:53",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "MOSLADO",
-      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "MOSLADO",
+      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
     },
     {
       "added_at": "2023-05-08 10:32:53",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2023-05-08 10:32:53",
       "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
+    },
+    {
+      "added_at": "2023-05-08 10:32:53",
+      "album": {
         "name": "Sugarcane (Latin Remix)",
         "url": "https://open.spotify.com/album/1hYhofVEnifqrcjvaFs366"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 258048,
       "name": "Sugarcane - Latin Remix",
       "url": "https://open.spotify.com/track/5ArzZq6UEHyTBOraJVdL1N"
-    },
-    {
-      "added_at": "2023-05-08 10:32:53",
-      "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
     },
     {
       "added_at": "2023-05-08 10:32:53",

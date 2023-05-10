@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,990 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,079 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 6 | [Where's Garvey](https://open.spotify.com/track/3wUehGunfvxPKXqTD3jS00) | [The Bongo Man](https://open.spotify.com/artist/2pBVJLkrOeSpjMzCSBQNMI) | [Reggae For House Parties](https://open.spotify.com/album/1ibmkILOdPOQSNrFIIn53c) | 2:14 |
 | 7 | [No No No](https://open.spotify.com/track/6CWghtCtJOgJgP58GyFx2m) | [Dawn Penn](https://open.spotify.com/artist/6mLXvSt7Xxy2r9uBba1O6Z) | [Feel Like Jumping: The Best of Studio One Women](https://open.spotify.com/album/3RTeh1T46KVNuoSyTYE2Ns) | 4:29 |
 | 8 | [Mad World](https://open.spotify.com/track/6oZymvG8LsXxMzDFPwBqRf) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [This Girl Loves Reggae](https://open.spotify.com/album/1TuWq3VmQSEC18DBlED4BD) | 1:48 |
-| 9 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
-| 10 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
+| 9 | [Never Give Your Heart Away](https://open.spotify.com/track/00NZUSWCUszqs2MFEfReTj) | [Carlton & The Shoes](https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet) | [Love Me Forever](https://open.spotify.com/album/29SbydyD69yI0qs7Ma3xMs) | 3:05 |
+| 10 | [Freedom Sounds](https://open.spotify.com/track/7DEq4R8yj8rsuRMI6e1OHw) | [The Soul Brothers](https://open.spotify.com/artist/3isQPVgtrl9CewKkyRPjBq) | [Fat Back Ska, Vol\. 2](https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw) | 4:10 |
 | 11 | [Buffalo Soldier](https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 4:15 |
 | 12 | [Addis Ababa](https://open.spotify.com/track/7BpfGzM57fK5fIw7Pt0yBO) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Foundation Ska](https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v) | 2:24 |
 | 13 | [Jah Jah Go Before Us](https://open.spotify.com/track/0zUagLtFMJJWhXtTBp5OLT) | [The Gladiators](https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP) | [Presenting The Gladiators](https://open.spotify.com/album/2k0QrDX5MJCGHp0XyHyOBg) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [The People Skanking](https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx) | [New Establishment](https://open.spotify.com/artist/4zV2neXlhnE7v964YxFgek) | [Studio One Scorcher](https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi) | 2:41 |
 | 60 | [More Creation](https://open.spotify.com/track/0UEFVv1SWszuI53WXwKfSv) | [Lennie Hibbert](https://open.spotify.com/artist/5t4dVHPMK33Uj2B89FSnW2) | [Studio One Roots](https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI) | 4:18 |
 
-Snapshot ID: `MCxiNmFkNWFhNGJiMjE3MTVhMTU4YjM2MWU5YWJlNzEwOWU3MjkyNGFm`
+Snapshot ID: `MCw5NjZjZjIzZTQxODkyMGYwYThiNGU1MDA5OTM5ZmNmOTFlOTkzYWI3`

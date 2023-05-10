@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,068 songs - 2 day 1 hr 29 min
+1,069 songs - 2 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,7 +597,7 @@
 | [Бэлмэйн](https://open.spotify.com/track/1IiTqFqIT8BNUsTcJIwqaH) | [Skryptonite](https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn) | [Свистки и бумажки](https://open.spotify.com/album/6Y0flenCeLFFmVocXSd10n) | 4:41 | 2021-04-29 | 2021-04-30 |
 | [Бібліотека](https://open.spotify.com/track/6ekNzvEmnCPbIdTFjRtw6L) | [Колос](https://open.spotify.com/artist/362iRKPQbIK8S5Eu5rHqtU) | [Kamasutra](https://open.spotify.com/album/2eZfffj22Wsk7zFFkaP2Ld) | 3:05 | 2021-10-09 | 2021-10-30 |
 | [Біля серця](https://open.spotify.com/track/20SSuP71R4A88qHQu4BKY6) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Біля серця](https://open.spotify.com/album/5QKwlUsyDw4fJ4c3zTPZPY) | 2:16 | 2022-09-27 |  |
-| [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 |  |
+| [Біля тополі](https://open.spotify.com/track/1NMcQpg1J5RaUxPTLifSnq) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/2MgSHC8yz1vt0ItAdH0tuJ) | 3:29 | 2023-03-15 | 2023-05-10 |
 | [Біля тополі](https://open.spotify.com/track/3MqaB8TndvgRZ1QSQXH7J7) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz) | [Біля тополі](https://open.spotify.com/album/3ladULEuZfnDeQ43IL3kjy) | 3:29 | 2022-07-23 | 2023-01-29 |
 | [В диапазоне](https://open.spotify.com/track/1cmIuauHOxvxzTCFXFnNRL) | [Pornofilmy](https://open.spotify.com/artist/47jBQjRmURjRn3XfLIaHvV) | [В диапазоне между отчаянием и надеждой](https://open.spotify.com/album/6qOOpX7g5uEw3NhOgmy3iq) | 5:31 | 2022-03-09 | 2022-03-27 |
 | [В Клубе](https://open.spotify.com/track/0GhGWqedLDtuNlNIJIlTC3) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Sosa Muzik](https://open.spotify.com/album/2YAGIocNPp0fc29od97AKh) | 2:40 | 2021-08-15 | 2021-08-16 |
@@ -693,7 +693,7 @@
 | [ДУЛО](https://open.spotify.com/track/2Db7e6H4R5XXnyuTtxUggp) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ДУЛО](https://open.spotify.com/album/6f2VuDAHzWpNAjEN5QxeOH) | 2:06 | 2021-05-09 | 2021-07-28 |
 | [Думи](https://open.spotify.com/track/3bKxhUuoRvSRwIdyZfQa3F) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Думи](https://open.spotify.com/album/2y2j37kI9RbPyLWZoCTtup) | 2:45 | 2022-06-08 | 2023-03-11 |
 | [Думи](https://open.spotify.com/track/5vwSFo758pgsLcQ7WYtT51) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW), [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Твої Вірші, Мої Ноти PT.1](https://open.spotify.com/album/5WNjZdBlj83NeNSJF3xgrJ) | 2:45 | 2023-03-11 | 2023-03-14 |
-| [Дурак и молния](https://open.spotify.com/track/1aAcW69jxv3pp3I84oZGqP) | [Korol i Shut](https://open.spotify.com/artist/0qc4X567Fs1DUbQ7bS2XSJ) | [Камнем по голове](https://open.spotify.com/album/4xTAyz6fCGXWbT3PywmAAl) | 1:54 | 2023-03-24 |  |
+| [Дурак и молния](https://open.spotify.com/track/1aAcW69jxv3pp3I84oZGqP) | [Korol i Shut](https://open.spotify.com/artist/0qc4X567Fs1DUbQ7bS2XSJ) | [Камнем по голове](https://open.spotify.com/album/4xTAyz6fCGXWbT3PywmAAl) | 1:54 | 2023-03-24 | 2023-05-10 |
 | [Если я спал с тобой](https://open.spotify.com/track/6UsqOehjmlpuWqo9ghiIrP) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [ДО ТОГО КАК СТАЛ ИЗВЕСТЕН](https://open.spotify.com/album/3pZQRzdfyMxZHTimg1yGSo) | 3:35 | 2021-07-04 | 2021-07-06 |
 | [Жальменiна](https://open.spotify.com/track/4WDasHtnmPeZr17S2OvFKH) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [\#Ідиназвук](https://open.spotify.com/album/0rZDKDmMcweiFIHsc2r7yl) | 3:43 | 2022-03-24 | 2022-04-10 |
 | [Жизнь не Голливуд](https://open.spotify.com/track/5gHtv8AcvKadJWzalS8w2Q) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:05 | 2021-12-18 | 2021-12-19 |
@@ -712,6 +712,7 @@
 | [Зажигать/JoMo](https://open.spotify.com/track/15DFn3vTau6cWzB427va8o) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Зажигать/JoMo](https://open.spotify.com/album/4AaElpZnz6adEVD6EmGzVY) | 3:28 | 2021-07-25 | 2021-08-03 |
 | [Замигает свет](https://open.spotify.com/track/0EDYTUzZPOcxUkki7HcHgV) | [KENTUKKI](https://open.spotify.com/artist/6ZABFsOXu6JmKCmmV0yauD) | [Замигает свет](https://open.spotify.com/album/7qzKEHyc4HZyySe4VTFDzr) | 3:53 | 2021-10-23 | 2021-11-14 |
 | [Заново завоевать](https://open.spotify.com/track/7FbLIFBTQiSu1bHP3BQoWl) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Заново завоевать](https://open.spotify.com/album/1RGLoDpF1QSaHjLuL6TE4N) | 1:52 | 2023-05-01 |  |
+| [Заново завоевать \(Speed Up\)](https://open.spotify.com/track/5KmAZ5rjYffZZcVPDsKf8E) | [Pepel Nahudi](https://open.spotify.com/artist/4AM93R2m6QIKGPWH6QILF3) | [Заново завоевать](https://open.spotify.com/album/1RGLoDpF1QSaHjLuL6TE4N) | 1:27 | 2023-05-09 |  |
 | [Заправка](https://open.spotify.com/track/1f1hDwHzgF9NW4z1B05pDv) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 4:16 | 2021-12-18 | 2021-12-19 |
 | [Запятые](https://open.spotify.com/track/0qOeaKEGBuBP7c0udCx1tf) | [FrozenGangBeatz](https://open.spotify.com/artist/1eAUUUcwxH9iffCv8L49Xf), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [RVMZES](https://open.spotify.com/artist/3JbHE7IAQOdrvy9633SF5Y) | [Запятые](https://open.spotify.com/album/6AiVOmJtnZoz097rnYCn9f) | 2:51 | 2021-09-24 | 2021-10-19 |
 | [Заставлял](https://open.spotify.com/track/24wc81Y0AA6uMsikUF4NSv) | [daryana](https://open.spotify.com/artist/5GVO9K6Iaebk8oQnXGTzqL), [Daybe](https://open.spotify.com/artist/3kD7WYKPDrC4C9SwFh7XLD) | [Заставлял](https://open.spotify.com/album/3w80i2cVvQtpNDXMSsavBT) | 2:10 | 2023-03-28 | 2023-04-23 |
@@ -1014,7 +1015,7 @@
 | [Фэм \(feat\. blago white\)](https://open.spotify.com/track/3Hn9fQkOSSuq4YFa6QK6ot) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [blago white](https://open.spotify.com/artist/5UlVY7KwBwUPvHs1JtmUqy) | [Фэм \(feat\. blago white\)](https://open.spotify.com/album/1eQL6BtYwo6xftQI5KhsOe) | 2:45 | 2021-09-26 | 2021-09-28 |
 | [Халливуд Хоус](https://open.spotify.com/track/24OKb78jzb0IEUKlNWnfcR) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [Халливуд Хоус](https://open.spotify.com/album/0mEvl65Cm91K1EAIjiGfOG) | 2:25 | 2022-03-26 | 2022-04-06 |
 | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/track/0fQ4uYwlzD6TYVobAoz8Qt) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Хвилi \(feat\. Jerry Heil\)](https://open.spotify.com/album/0wiLpMXy37lbSQIlU3oZpN) | 3:01 | 2022-05-16 | 2022-05-29 |
-| [Хвилями](https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Хвилями](https://open.spotify.com/album/4FtIkDZ8ceS33JGXrZOGo4) | 2:29 | 2023-03-11 | 2023-05-09 |
+| [Хвилями](https://open.spotify.com/track/5u6TLP2prHSvtKi0SPUKFI) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg) | [Хвилями](https://open.spotify.com/album/4FtIkDZ8ceS33JGXrZOGo4) | 2:29 | 2023-03-11 |  |
 | [Хентай](https://open.spotify.com/track/5UA91vNE3eOl7xeRGFa7tg) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Rakhim](https://open.spotify.com/artist/78G8FdUykcn02tsgMLi3q0) | [Anima](https://open.spotify.com/album/0ewDEDSjEdKbz5js3v7q2v) | 3:20 | 2021-07-25 | 2021-08-12 |
 | [ХЛОПАЙ](https://open.spotify.com/track/0UDtb0fUqBkpXLF52Ry2lg) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [MONEYDEALER](https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR) | 2:02 | 2021-11-21 | 2021-12-14 |
 | [Хоп\-механика](https://open.spotify.com/track/3KGyzyAIUPP6wLXc7NhtrH) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:18 | 2021-12-03 | 2021-12-18 |

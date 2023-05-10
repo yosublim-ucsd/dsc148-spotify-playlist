@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,724 likes - 68 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,964 likes - 68 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 43 | [WHY YOU?](https://open.spotify.com/track/76ikZIYciIVbTPfNLTAAwX) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [WHY YOU?](https://open.spotify.com/album/29OG07EpYadviilDMVEgd4) | 2:55 |
 | 44 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 |
 | 45 | [New Youth](https://open.spotify.com/track/5bZh97EswRz053YzhNQI9P) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Summer Plumage](https://open.spotify.com/album/4hGJv9dB3hlzFXZJQmKdpq) | 4:49 |
-| 46 | [I Fxxking Love You](https://open.spotify.com/track/0amQL57HiAFWSO6Yz64tD1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love, Pt\. 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:03 |
+| 46 | [I Fxxking Love You](https://open.spotify.com/track/0amQL57HiAFWSO6Yz64tD1) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Love Part 1](https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp) | 4:03 |
 | 47 | [MUNG](https://open.spotify.com/track/746IIP4nhFrFcKXNkqtj2m) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 4:59 |
 | 48 | [Girl Scout](https://open.spotify.com/track/3S4u5vm5ThxB68vevwDDMH) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Good Luck To You, Girl Scout!](https://open.spotify.com/album/00DOgIzvYICsW0Wjc4UJGR) | 3:57 |
 | 49 | [Restless](https://open.spotify.com/track/4AHNi316rl3KI3hKIsdxZe) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [LISTEN 035 Restless](https://open.spotify.com/album/5xDX8Uv4ojXg0ONDEcAMra) | 4:27 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Z20Qthwz58.md) - [plain]
 | 67 | [FALLING \(Prod\. by DPR CREAM\)](https://open.spotify.com/track/1sGc6tYogGNv3t09uGlucD) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [FALLING](https://open.spotify.com/album/2MKQwaFRybLOoQ1Cl19OLm) | 3:34 |
 | 68 | [Butterfly](https://open.spotify.com/track/6wNKKoUQfLPmch7cqSFytV) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[X X\]](https://open.spotify.com/album/49CwarPH45v2tFRHhnjtPf) | 3:57 |
 
-Snapshot ID: `MCw0NDExZmM3ZjY5ZmU0MjAzYTRjN2Q1NzEwYWZjYjkxN2FjODhjOWYw`
+Snapshot ID: `MCwyMThhMTQ0NWFhYmQyMWRlMjcyNGY3NDllNjk0MzkzNTEwMTQ3ODc2`

@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 182493,
       "name": "AMBER",
       "url": "https://open.spotify.com/track/5Q967UCPfCsQeEgFhT1umT"
@@ -2190,7 +2190,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 203560,
       "name": "Bamba (feat. Aitch & BIA)",
       "url": "https://open.spotify.com/track/7sJNeWTXkZCEC7OnFMpGWL"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 176746,
       "name": "Bolide allemand",
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
@@ -3116,7 +3116,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 164460,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/62nJY8TBrrlxl9hTHoQpkF"
@@ -3454,7 +3454,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 201533,
       "name": "C'est carr\u00e9 le S",
       "url": "https://open.spotify.com/track/2f8JQJctq8LZtaq6Hgdgb8"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -4510,7 +4510,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 207873,
       "name": "Como Tu (feat. Ivandro)",
       "url": "https://open.spotify.com/track/5BGdBH8MsaHCgfr4TMpRin"
@@ -5620,7 +5620,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 240413,
       "name": "DIE",
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
@@ -5660,7 +5660,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 232857,
       "name": "Die For You (with Ariana Grande) - Remix",
       "url": "https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2"
@@ -7634,7 +7634,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 114182,
       "name": "Freestyle LVL UP 1",
       "url": "https://open.spotify.com/track/6RLVnSWFkT7ywpXv0XyRhY"
@@ -7884,7 +7884,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 118804,
       "name": "Gang",
       "url": "https://open.spotify.com/track/0DM5FYw5uIrsNqMqIKtw7r"
@@ -8234,6 +8234,24 @@
       "duration_ms": 128186,
       "name": "GIVE ME SOMETHING",
       "url": "https://open.spotify.com/track/4azXYfSLSM2FXLz3DyusMS"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/4XrC3jymiinwXmPBHG1hMb"
+      },
+      "artists": [
+        {
+          "name": "Stefano Cilio",
+          "url": "https://open.spotify.com/artist/47xoaIx5kSY8Cn607qXt4N"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221544,
+      "name": "Glance",
+      "url": "https://open.spotify.com/track/5xn01KFZmtMRvX2qwTVyb9"
     },
     {
       "album": {
@@ -9380,7 +9398,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 129802,
       "name": "I AM HiM",
       "url": "https://open.spotify.com/track/2J4n7gDyygM33Y9QAzY0Fh"
@@ -9986,7 +10004,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 151216,
       "name": "In The Air",
       "url": "https://open.spotify.com/track/28no7gwdF7PBCQQMuwHmXL"
@@ -10468,7 +10486,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 159573,
       "name": "Jolie (feat. Ninho)",
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
@@ -12512,7 +12530,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
@@ -13544,7 +13562,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 259127,
       "name": "Minha Terra",
       "url": "https://open.spotify.com/track/2EtBqr037rsEcUHlaSTcT6"
@@ -13566,7 +13584,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -14104,7 +14122,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
@@ -14952,7 +14970,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 178229,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/4IaVPQJHfn8P2B9U7NyDuC"
@@ -16632,7 +16650,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 166800,
       "name": "Questions",
       "url": "https://open.spotify.com/track/5esdxYOtEkCJro3jgcHo9i"
@@ -18008,7 +18026,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -18136,7 +18154,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 214945,
       "name": "Shakira: Bzrp Music Sessions, Vol. 53",
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -20666,7 +20684,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
@@ -20710,7 +20728,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -21746,7 +21764,7 @@
       ],
       "date_added": "2021-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
@@ -22062,7 +22080,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 219320,
       "name": "XT4S1S",
       "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"

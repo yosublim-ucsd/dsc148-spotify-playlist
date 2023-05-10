@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: NLE Choppa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,296 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,496 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
-| 2 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
-| 3 | [Chromosomes](https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX) | 2:31 |
-| 4 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
-| 5 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 |
-| 6 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
-| 7 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 |
-| 8 | [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 |
-| 9 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 |
+| 1 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
+| 2 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
+| 3 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 |
+| 4 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 |
+| 5 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
+| 6 | [Low Down](https://open.spotify.com/track/5m0yZ33oOy0yYBtdTXuxQe) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 2:24 |
+| 7 | [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 |
+| 8 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 |
+| 9 | [Chromosomes](https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX) | 2:31 |
 | 10 | [Whip It](https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I) | 2:17 |
 | 11 | [They Don't Love It](https://open.spotify.com/track/2dSKFFNoNXKo3hPnlwUdPe) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:53 |
 | 12 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 49 | [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 |
 | 50 | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/track/4nZ4aGaAixvW9D7TethGee) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3), [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [KISS N' TELL \(feat\. Dro Kenji\)](https://open.spotify.com/album/6v6K6TQa2Scbn2OKhDCnDp) | 2:06 |
 
-Snapshot ID: `MCxkYmExYTJmZWVmNGQ3Y2I2NDhlZjg3OThlMzQzYmUxOGMxNGMzOTkw`
+Snapshot ID: `MCw0Mzk3Y2NlYWFmNWFkNjYyNWNiZTM0YmViNjdmNmRkN2RlMWFiZDhh`

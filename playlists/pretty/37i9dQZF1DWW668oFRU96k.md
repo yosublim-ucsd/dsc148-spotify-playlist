@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,008 likes - 77 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,057 likes - 77 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 76 | [Recall](https://open.spotify.com/track/2uJOUSKm3ldZmKJWHoWT3L) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq), [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF) | [Recall](https://open.spotify.com/album/5j9WlW3KIL3c3uKkRHyiCX) | 2:52 |
 | 77 | [Dancing](https://open.spotify.com/track/5CZsM040tBpIv3nlJJEHnu) | [KiLLTEQ](https://open.spotify.com/artist/1ShDbHyjuFZA9xA1lP8GYi), [D.Hash](https://open.spotify.com/artist/01F66fhZtaW1DppwBADfTK), [DIMESTRIX](https://open.spotify.com/artist/16dhp16kLV09cD99YsJc8k) | [Dancing](https://open.spotify.com/album/3KyXo0R5i3hszmsK9LWnEI) | 3:05 |
 
-Snapshot ID: `MCw3ZmQ5YjQzZDIxOGM3NjUxZjk2OWYxM2UxYjc2ZWNmZjkwNzUyYWUy`
+Snapshot ID: `MCwyODMzZjBhYjg3NmQ3NGQ4Yzk4MjFiZTNmZmFhZWVlNjE2MDA3OTIx`

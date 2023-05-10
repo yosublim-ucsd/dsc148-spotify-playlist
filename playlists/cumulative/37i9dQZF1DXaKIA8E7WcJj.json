@@ -9680,7 +9680,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 178533,
       "name": "Reach Out I'll Be There",
       "url": "https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY"
@@ -12188,6 +12188,24 @@
       "duration_ms": 126040,
       "name": "The Game Of Love",
       "url": "https://open.spotify.com/track/3YaSR3Ug3nTBTP6N1iSgYf"
+    },
+    {
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320253,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z"
     },
     {
       "album": {

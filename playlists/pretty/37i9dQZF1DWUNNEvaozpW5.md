@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,367 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,529 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 60 | [Rumbapop](https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Rumbapop](https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu) | 2:38 |
 | 61 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 |
 | 62 | [Aquellas Cosas Que Solíamos Hacer](https://open.spotify.com/track/10706ilBOvqVSOAbUoxean) | [Benito Kamelas](https://open.spotify.com/artist/6pds73TcYgdgd1UOBWHRqn), [Poncho K](https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz) | [Sin Trampa Ni Cartón](https://open.spotify.com/album/45ctqDxKNe2QVYVvq0dGRR) | 4:49 |
-| 63 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
-| 64 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 |
+| 63 | [Dulce condena](https://open.spotify.com/track/1J2XL5ciqUgCQ92TmFDAAZ) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [¡Hasta luego!](https://open.spotify.com/album/26vh26M3hPs7BMelYSQ6iH) | 4:41 |
+| 64 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
 | 65 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
 | 66 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 |
 | 67 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 | 75 | [Maneras de Vivir \(Single Estudio\)](https://open.spotify.com/track/7kCiAaismDVaCjpyGF3YJB) | [Leño](https://open.spotify.com/artist/5CA8MVh6ESzTlJcsB8wcFJ) | [Maneras De Vivir](https://open.spotify.com/album/62ej3kUjSLwWV9MnAtb20s) | 4:12 |
 
-Snapshot ID: `MCwwMzJlYTk4YzEwZWEzYmMwMTA1NDhjMTA1ZTk5YTY2NjA5NWJmMDc2`
+Snapshot ID: `MCxjYjc1MmJhMjIxMGM1M2E4ODdjMWU5OTdiYTM1NzgyMjk0Yzk2OTI5`

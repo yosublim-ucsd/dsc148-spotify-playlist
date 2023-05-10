@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 18783,
+  "num_followers": 18816,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTNmMmQwYTkzMjUyNjJiNzdhMjg3ZTdiM2ZiNzliMjMzNmRjMjRh",
+  "snapshot_id": "MCwyYzYxYmY5YzRmZWE5ZTkwYjczNGVjNjdiNjEwNzA1OTAwZjk4OWZm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Lady Laura",
-      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
         "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
@@ -719,18 +703,34 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
-        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
       "artists": [
         {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
         }
       ],
-      "duration_ms": 153608,
-      "name": "Acuyuye",
-      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+      "duration_ms": 300106,
+      "name": "Lady Laura",
+      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Grandes Exitos de Salsa",
+        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+      },
+      "artists": [
+        {
+          "name": "Los Titanes",
+          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Grandes Exitos de Salsa",
-        "url": "https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E"
+        "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
+        "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
       "artists": [
         {
-          "name": "Los Titanes",
-          "url": "https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
         }
       ],
-      "duration_ms": 252826,
-      "name": "Sobredosis",
-      "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
+      "duration_ms": 153608,
+      "name": "Acuyuye",
+      "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "West Side Beat",
-        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Matrimonio Feliz",
-      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Yo Soy La Rumba",
         "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 214360,
       "name": "Tanga",
       "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "West Side Beat",
+        "url": "https://open.spotify.com/album/1f1d2MmipD04zEtytUAhT2"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "Matrimonio Feliz",
+      "url": "https://open.spotify.com/track/2dk2tOQ35mWaIkdv6HYE2X"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "From Hollywood",
+        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 172226,
+      "name": "Cuando Sale El Sol",
+      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Vintage Cuba No. 90 - EP: Salta Perico",
         "url": "https://open.spotify.com/album/0PP7vABwnCQJAwR6g2nGnl"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 376013,
       "name": "La rebelion",
       "url": "https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "From Hollywood",
-        "url": "https://open.spotify.com/album/7EXzKJRYWTAnZdmxCKtxtf"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 172226,
-      "name": "Cuando Sale El Sol",
-      "url": "https://open.spotify.com/track/0uf3jiwe0HBtiQL8zUbVmO"
     },
     {
       "added_at": "2023-03-17 00:52:56",

@@ -9359,6 +9359,24 @@
     },
     {
       "album": {
+        "name": "Demerol",
+        "url": "https://open.spotify.com/album/15l3tr1Ew6L6jWpDdvgTEu"
+      },
+      "artists": [
+        {
+          "name": "Albert Mikkelsen",
+          "url": "https://open.spotify.com/artist/1oo52O7yO42i7HPz1PPxpd"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Demerol",
+      "url": "https://open.spotify.com/track/36DASxyRjxTMpvllB80ayp"
+    },
+    {
+      "album": {
         "name": "Depth",
         "url": "https://open.spotify.com/album/3I3QXEvXSYQq872cn0AUwh"
       },
@@ -32336,6 +32354,28 @@
       "duration_ms": 221053,
       "name": "Sirens Found Me",
       "url": "https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67"
+    },
+    {
+      "album": {
+        "name": "Sister Switch",
+        "url": "https://open.spotify.com/album/4JptphwhDq0PEGrEYX07eJ"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Nathan Thomas",
+          "url": "https://open.spotify.com/artist/3EFOH4vydSGrN61cySTpvR"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243609,
+      "name": "Sister Switch",
+      "url": "https://open.spotify.com/track/3ovEjhgUxM5Dn1yqvj113I"
     },
     {
       "album": {

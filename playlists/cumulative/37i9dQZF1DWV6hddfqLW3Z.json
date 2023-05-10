@@ -259,6 +259,32 @@
     },
     {
       "album": {
+        "name": "Calm\u00f4",
+        "url": "https://open.spotify.com/album/3sd79IarRG4KrhNIRlxNy1"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254558,
+      "name": "Calm\u00f4",
+      "url": "https://open.spotify.com/track/5DHApowmRCAlCHRiLapAPh"
+    },
+    {
+      "album": {
         "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
         "url": "https://open.spotify.com/album/5ecK3BBBIk4xNixVydBYtZ"
       },
@@ -1480,7 +1506,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 180050,
       "name": "Sede Pra Te Ver - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS"

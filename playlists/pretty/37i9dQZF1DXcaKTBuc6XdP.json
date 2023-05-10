@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 5565,
+  "num_followers": 5572,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzAyMWI0ZWIzMzJjZjI4MDhhZTc3M2Q0ZjA2MWI4YWY0MWVjZDEz",
+  "snapshot_id": "MCxhZWM5ZGY0NGM3ZjA4ZmVlMWVkNTQ2ZDlmYzgxNTc4MmEwOWE0M2Zl",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -651,6 +651,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "You Tell Me",
+        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "You Tell Me",
+      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "We Belong To Jesus (feat. New Life Kids)",
         "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 160130,
       "name": "Fear Get Out of Here",
       "url": "https://open.spotify.com/track/4eBEZDnYDOrCJqBLg6JobM"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "You Tell Me",
-        "url": "https://open.spotify.com/album/4RXdxAM1qZd91aLI3o6H9q"
-      },
-      "artists": [
-        {
-          "name": "One Common",
-          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "You Tell Me",
-      "url": "https://open.spotify.com/track/18tCFWknS0gTJBBRLCuI0T"
     },
     {
       "added_at": "2021-06-29 13:36:02",

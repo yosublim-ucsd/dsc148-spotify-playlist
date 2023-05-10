@@ -348,7 +348,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 248813,
       "name": "Applause - Empire Of The Sun Remix",
       "url": "https://open.spotify.com/track/4RLcgyT99Rctgc05rd4DkD"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 234000,
       "name": "Baddest Bitch Alive",
       "url": "https://open.spotify.com/track/3SYZ0mOICOUYjzde3oUnPd"
@@ -3760,7 +3760,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 251440,
       "name": "Boom Boom Pow",
       "url": "https://open.spotify.com/track/3opVsyWVYEAFK9bJAG8Opa"
@@ -3778,7 +3778,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 169866,
       "name": "Boom Clap",
       "url": "https://open.spotify.com/track/0Y1MWB026LYxGvhq4EcMiC"
@@ -4142,7 +4142,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 214840,
       "name": "Break Free",
       "url": "https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4"
@@ -4504,7 +4504,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 231213,
       "name": "Burn",
       "url": "https://open.spotify.com/track/5lF0pHbsJ0QqyIrLweHJPW"
@@ -4638,7 +4638,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-31",
+      "date_removed": null,
       "duration_ms": 219146,
       "name": "Cake By The Ocean",
       "url": "https://open.spotify.com/track/76hfruVvmfQbw0eYn1nmeC"
@@ -4736,7 +4736,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
@@ -7078,7 +7078,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 211920,
       "name": "Die Young",
       "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
@@ -8446,7 +8446,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 213720,
       "name": "F**kin' Perfect - Radio Edit",
       "url": "https://open.spotify.com/track/3ueoTboomKEQpI3r9z47Kg"
@@ -10724,7 +10724,7 @@
       ],
       "date_added": "2022-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 248706,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/2BnfMbmWbfqi7ac5y7GHXn"
@@ -11658,7 +11658,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -12896,7 +12896,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 157152,
       "name": "I Love It (feat. Charli XCX)",
       "url": "https://open.spotify.com/track/6HZ9VeI5IRFCNQLXhpF4bq"
@@ -13628,6 +13628,28 @@
       "duration_ms": 211000,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/7MuAcLki5HkO0rHa8eFzUh"
+    },
+    {
+      "album": {
+        "name": "I'm Crazy for Love",
+        "url": "https://open.spotify.com/album/1WMO8dbHAZvAUfsyBaf5AH"
+      },
+      "artists": [
+        {
+          "name": "Craig Reever",
+          "url": "https://open.spotify.com/artist/3OEFtQRq38Ysp1BZdmbK7h"
+        },
+        {
+          "name": "Emmi",
+          "url": "https://open.spotify.com/artist/5NTlLxVgju6V06VVCHUxnH"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178521,
+      "name": "I'm Crazy for Love",
+      "url": "https://open.spotify.com/track/1me279fqNEfvXy9aIEzdgh"
     },
     {
       "album": {
@@ -14374,7 +14396,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 244453,
       "name": "Into You",
       "url": "https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6"
@@ -14736,7 +14758,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 249066,
       "name": "Judas",
       "url": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
@@ -14878,7 +14900,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 242733,
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e"
@@ -14914,7 +14936,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 220734,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
@@ -16268,7 +16290,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 211853,
       "name": "Look What You Made Me Do",
       "url": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il"
@@ -16658,7 +16680,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 221720,
       "name": "Love Myself - KREAM Remix",
       "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
@@ -16712,7 +16734,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 236266,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/1D4PL9B8gOg78jiHg3FvBb"
@@ -16886,7 +16908,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 216333,
       "name": "LoveGame",
       "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
@@ -17444,7 +17466,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 260573,
       "name": "Marry The Night - Zedd Remix",
       "url": "https://open.spotify.com/track/3acHQsIoaXtCPX96CDgivm"
@@ -18998,7 +19020,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 205920,
       "name": "no tears left to cry",
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
@@ -19610,7 +19632,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 197266,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
@@ -20146,7 +20168,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 202066,
       "name": "Party In The U.S.A.",
       "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
@@ -20688,7 +20710,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "Poker Face - LLG vs GLG Radio Mix",
       "url": "https://open.spotify.com/track/2eTXVFThonrp3Cet0n2rHf"
@@ -21534,7 +21556,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
@@ -21778,7 +21800,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 256213,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh"
@@ -22140,7 +22162,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 162973,
       "name": "River",
       "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
@@ -24222,7 +24244,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 215160,
       "name": "So What",
       "url": "https://open.spotify.com/track/0JiY190vktuhSGN6aqJdrt"
@@ -24348,7 +24370,7 @@
       ],
       "date_added": "2021-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 285240,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
@@ -25702,7 +25724,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 166748,
       "name": "Sweaty (Soaking Wet)",
       "url": "https://open.spotify.com/track/0Ia3zUirG1Eq8B70Jycmoi"
@@ -26654,7 +26676,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 236066,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
@@ -26994,7 +27016,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 190360,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
@@ -27724,7 +27746,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": true,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
@@ -28220,7 +28242,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
@@ -28256,7 +28278,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 247906,
       "name": "Try",
       "url": "https://open.spotify.com/track/1jF7IL57ayN4Ity3jQqGu0"
@@ -28842,7 +28864,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 183560,
       "name": "Va Va Voom",
       "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
@@ -29260,7 +29282,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 193146,
       "name": "We Are Never Ever Getting Back Together",
       "url": "https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND"
@@ -29296,7 +29318,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 231240,
       "name": "We Can't Stop",
       "url": "https://open.spotify.com/track/2y4lAQpi5VTNLu2ldeTdUH"
@@ -29318,7 +29340,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
@@ -29402,7 +29424,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 204760,
       "name": "We R Who We R",
       "url": "https://open.spotify.com/track/3LUWWox8YYykohBbHUrrxd"
@@ -30000,7 +30022,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 196160,
       "name": "Whenever, Wherever",
       "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
@@ -30112,7 +30134,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/7Emwu6FcGIENbWKmDiD2ct"
@@ -30332,7 +30354,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 220601,
       "name": "Wig",
       "url": "https://open.spotify.com/track/4HuRHiYqoQTsxqiAGbJNdI"
@@ -30744,7 +30766,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 221360,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE"

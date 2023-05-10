@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-621 songs - 1 day 13 hr 36 min
+623 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Take My Breath](https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/6DmXKM13nNgIIby2FdK0f8) | 3:40 | 2021-08-09 | 2021-08-18 |
 | [Talk that Talk](https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f) | 2:57 | 2022-08-27 | 2022-08-29 |
 | [Talk that Talk](https://open.spotify.com/track/0kqTXMHiQiB7IECD0WwcPq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [BETWEEN 1&2](https://open.spotify.com/album/5QdY7RvuEg2tznpYJG8gP2) | 2:57 | 2022-08-28 | 2022-11-27 |
-| [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-17 |  |
+| [Tally](https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:04 | 2022-09-17 | 2023-05-10 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-07 | 2022-06-05 |
 | [That's Hilarious](https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [That's Hilarious](https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz) | 2:26 | 2022-04-14 | 2022-05-29 |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-21 | 2021-10-28 |
@@ -341,6 +341,7 @@
 | [Way Up](https://open.spotify.com/track/41xYqsuvsCcmCHDTdqPfHY) | [瘦子E.SO](https://open.spotify.com/artist/2qXGNIlmY3JrYkxOWyXZsd) | [Way Up](https://open.spotify.com/album/2005Z9ovSc1wa3GzcrZWko) | 3:23 | 2021-12-24 | 2022-01-20 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2021-03-27\* | 2021-04-06 |
 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 | 2021-07-09 | 2021-07-29 |
+| [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-09 |  |
 | [What a Life](https://open.spotify.com/track/18FEkn4hwZKVPJ4KmvqPja) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [What a Life](https://open.spotify.com/album/0s1JRNrcz7YcRyNaqV2fMp) | 2:19 | 2021-04-30 | 2021-05-06 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-02 | 2022-05-02 |
 | [Who I Am](https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Who I Am](https://open.spotify.com/album/6rossoBfDzEiVWn0EdD8DQ) | 3:45 | 2021-10-08 | 2021-10-14 |
@@ -463,6 +464,7 @@
 | [床](https://open.spotify.com/track/2C1Wgc25XHm7SUGnkC920N) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/3GzVqFTntf7x3CdsE2a3XW) | 3:52 | 2023-04-15 |  |
 | [床](https://open.spotify.com/track/5UZ8FOWUJaZMIwsPbdzMKJ) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [床](https://open.spotify.com/album/0O5CfpoY982EgydHjOg4ot) | 3:52 | 2023-04-08 | 2023-04-16 |
 | [很久以後 \- 電影《可不可以,你也剛好喜歡我》主題曲](https://open.spotify.com/track/6lZKB76djHxzO0p2Y3E8vj) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 4:50 | 2021-03-27\* | 2021-07-09 |
+| [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/track/6Uy0XOFJC3cxAxdTIQNLKI) | [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP), [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [得意的一天 A no is a no ft\. 陳嫺靜 \- Netflix《人選之人—造浪者》片尾曲](https://open.spotify.com/album/0I7RCQGDGZoXI2ZyUYlhNL) | 3:07 | 2023-05-09 |  |
 | [忽然](https://open.spotify.com/track/7628wHlTHencodj9Z244Rt) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [忽然](https://open.spotify.com/album/1GASFFJ8U2ewmMNHIHYRhr) | 4:37 | 2021-08-13 | 2021-09-27 |
 | [怎麼了](https://open.spotify.com/track/5cU1O9P0EDA0rPkPDykhIm) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [終於了解自由 \(Deluxe\)](https://open.spotify.com/album/2lrmHLTedOpdP6TaZDZ77F) | 5:21 | 2021-03-27\* | 2022-10-27 |
 | [怎麼忘記了你 \(feat.魏如昀\)](https://open.spotify.com/track/4a1lAgW1N5l2LJT5oInbRc) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [無視](https://open.spotify.com/album/5CkigNhinaroKJrFWQVLWQ) | 4:38 | 2021-12-22 | 2022-01-05 |
@@ -511,7 +513,7 @@
 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 | 2021-04-19 | 2021-05-14 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2021-10-11 | 2021-12-16 |
 | [晚风告白](https://open.spotify.com/track/6ZxvapmYLdLdRCdIFR0NRQ) | [星野](https://open.spotify.com/artist/0TCVoMXRAScM2rS0pvopLM) | [晚风告白](https://open.spotify.com/album/4b3cNiY27Dw9tuQG3hcuxO) | 3:55 | 2022-12-19 | 2023-03-19 |
-| [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 |  |
+| [晴天](https://open.spotify.com/track/0F02KChKwbcQ3tk4q1YxLH) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [葉惠美](https://open.spotify.com/album/41FqSrFn288xsdvADjJGxH) | 4:29 | 2022-07-09 | 2023-05-10 |
 | [最偉大的作品](https://open.spotify.com/track/26vo1FuxIs0rINePq3lOx8) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:04 | 2022-07-15 | 2022-10-25 |
 | [最好的時光](https://open.spotify.com/track/3UNnCf5rqnVbWvGDNs2Bup) | [安溥](https://open.spotify.com/artist/7m3hJRouj4fFil1ksJDx0I) | [最好的時光](https://open.spotify.com/album/6C05yqffaG1dElVIqOlcAn) | 3:55 | 2022-08-06 | 2022-08-25 |
 | [最後一堂課 \- 《媽,別鬧了!》影集片尾曲](https://open.spotify.com/track/2OR5FUKy3GQ7I9DCbRnfsW) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [最後一堂課 \(《媽,別鬧了!》影集片尾曲\)](https://open.spotify.com/album/5x6j8vBf5m91MUBEO5Jdxy) | 4:38 | 2022-07-23 |  |

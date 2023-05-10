@@ -4,7 +4,7 @@
 
 > Everything new, notable and happening in the world of indie\. Cover: Q
 
-1,568 songs - 3 day 22 hr 5 min
+1,570 songs - 3 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [17](https://open.spotify.com/track/1yrJuYAIcCH9oNS9T0QJPt) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 3:06 | 2021-09-03 | 2022-04-09 |
 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 | 2020-12-22 | 2021-12-10 |
 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 | 2022-05-27 | 2022-07-01 |
+| [20191009 I Like Her](https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:16 | 2023-05-09 |  |
 | [20200817 Proud True Toyota](https://open.spotify.com/track/4OeO5Xc50TRVG3ofaxM1rn) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 2:02 | 2023-04-28 |  |
 | [23](https://open.spotify.com/track/23KrCGwx1EedHUaZsQe6H5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [23](https://open.spotify.com/album/57q2kosvxOb8SfHusM99zM) | 2:44 | 2021-03-16 | 2022-04-07 |
 | [2516](https://open.spotify.com/track/0R6sz2EUOMSM3qaZHEpG63) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:08 | 2023-01-13 | 2023-05-06 |
@@ -148,7 +149,8 @@
 | [Before We Knew](https://open.spotify.com/track/2tPXuksuhokCBYmAcKnx5B) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Before We Knew](https://open.spotify.com/album/6dwYzHRbq3591ac7ThF4rn) | 3:31 | 2021-08-20 | 2022-05-20 |
 | [Before You Gotta Go](https://open.spotify.com/track/0KzBGWNhCWXU2PTG0LP5if) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Before You Gotta Go](https://open.spotify.com/album/2Ezwhfk2dT0ZDfFzqThwV1) | 3:45 | 2021-08-20 | 2022-04-08 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-08-08 | 2023-01-14 |
-| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-13 |  |
+| [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-04-13 |  |
+| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-13 | 2023-05-10 |
 | [Belinda Says](https://open.spotify.com/track/1kSMqCHHCrNwsJJXJRLEoT) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 2:45 | 2022-12-16 | 2023-01-07 |
 | [Belinda Says](https://open.spotify.com/track/6P68mPQLzCYoxa6d5Xemr1) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/4BvnbCJbTPkyZYYBWVijgq) | 2:45 | 2022-10-11 | 2022-10-27 |
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-05-22 | 2021-10-16 |
@@ -969,7 +971,7 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-01-20 |  |
 | [Nothing New \(feat\. Phoebe Bridgers\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:18 | 2021-11-19 | 2022-04-02 |
 | [nothing to do](https://open.spotify.com/track/4LkMLBc3HDYi7lQsaeq7C7) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [sore thumb](https://open.spotify.com/album/6EjM6iU0bqurQwwSN3Ln0T) | 3:04 | 2022-03-24 | 2022-04-20 |
-| [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-17 |  |
+| [Nothing's Free](https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Nothing's Free](https://open.spotify.com/album/5pltEj0ae0InqT2P908pOJ) | 4:38 | 2023-03-17 | 2023-05-10 |
 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 | 2022-02-18 | 2022-04-19 |
 | [Now I'm In It](https://open.spotify.com/track/5K7x78NAL50rhfhm73ePNb) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Now I'm In It](https://open.spotify.com/album/3ZQmXtYVICH0hhck3f53rm) | 3:24 | 2019-11-09 | 2020-03-27 |
 | [Now That You're Gone](https://open.spotify.com/track/0t3BGP2os4LjXL9TVQn6O0) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Sunday Driver / Now That You're Gone](https://open.spotify.com/album/0vOrIwTMeu6vTRRkBkdkoG) | 3:56 | 2019-05-26\* | 2019-08-13 |

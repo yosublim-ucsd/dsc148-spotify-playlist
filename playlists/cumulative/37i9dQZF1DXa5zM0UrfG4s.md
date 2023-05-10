@@ -4,7 +4,7 @@
 
 > Spillelisten som byr på en rekke bøgdebangers du kan spelle i kjerra! Cover: Hagle
 
-293 songs - 13 hr 37 min
+294 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 | 2021-12-16 | 2023-04-09 |
 | [Mango IPA \- Remix](https://open.spotify.com/track/6TUkYXRUzsB9i5fBK0BJ30) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ), [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Mr\. Pimp\-Lotion](https://open.spotify.com/artist/6mRXYOEezrC6RPOtpmEi0X), [Bendik](https://open.spotify.com/artist/4krYRNHjKcETSEY2Ghf9Mo), [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Mango IPA \(Remix\)](https://open.spotify.com/album/4ykZO8NjS3qSnvg5H1JTQM) | 3:22 | 2021-12-16 | 2022-10-16 |
 | [Mawbys](https://open.spotify.com/track/6R20ReFHCSjtK3vMUZI3Yv) | [Brødrene Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Thomskalle](https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn), [Ginger Joe](https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS) | [Mawbys](https://open.spotify.com/album/55wTUqbJh1I6jhmNZKexO8) | 3:04 | 2022-10-15 |  |
-| [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 |  |
+| [Mcdonalds](https://open.spotify.com/track/4cFsatzEJO0qROt1Dj5z8u) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [ALBUMTRAOZ](https://open.spotify.com/album/0aSekP2NH4d58pk4Oyxz6e) | 2:07 | 2022-12-01 | 2023-05-10 |
 | [Mcdonalds](https://open.spotify.com/track/4um6ufqR4iLTP11FnrrXfJ) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Mcdonalds](https://open.spotify.com/album/4oLEUIj1vMpVxFbJ1j7Nb8) | 2:07 | 2021-12-16 | 2022-10-16 |
 | [MDG \(Jada, jada, jada\)](https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [MDG \(Jada, jada, jada\)](https://open.spotify.com/album/79cMNOvhoUDp7JvyndUw3r) | 1:02 | 2021-12-16 | 2022-06-29 |
 | [Medbrakt](https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Medbrakt](https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG) | 2:11 | 2022-01-06 | 2022-07-29 |
@@ -235,6 +235,7 @@
 | [Scania fra 1973](https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [3](https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b) | 3:52 | 2022-02-03 | 2022-04-18 |
 | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/album/4Jz3pUrONbYOyGZ7bnJiJS) | 1:59 | 2022-12-08 | 2023-02-20 |
 | [Sexylubben](https://open.spotify.com/track/0SGHKXTxAxfmaTsfv7Dle1) | [Rød Mix](https://open.spotify.com/artist/5C98HIFpOjDEJKslOt7SI8) | [Sexylubben](https://open.spotify.com/album/49Yrzg0zu7dY2N2qTlYJkR) | 3:50 | 2022-01-13 | 2022-04-19 |
+| [Shakira](https://open.spotify.com/track/6kGas3qqqBNAoDdgwvuuxT) | [Kjartan Lauritzen](https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf) | [Shakira](https://open.spotify.com/album/5GOs9VMAYF6Ot8GUwCjTNb) | 1:58 | 2023-05-04 |  |
 | [Shotski](https://open.spotify.com/track/0RndJ3YX7oQTm1UXLQMrRR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3) | [Shotski](https://open.spotify.com/album/6nKlpUiUlrfjqESyLk9lq3) | 3:00 | 2022-02-17 | 2022-07-28 |
 | [Sidehilling](https://open.spotify.com/track/7ncIIf7l61q5H61J7RKwPQ) | [Harlekin](https://open.spotify.com/artist/0GGmZz0VoDEve3it63Rtw1) | [Sidehilling](https://open.spotify.com/album/3roB4NCsetfmEuevwxbJWZ) | 4:01 | 2021-12-16 | 2022-07-10 |
 | [Silikon](https://open.spotify.com/track/3NQUo82llGnP5GytRVbHdI) | [DUNK F.E.S.T](https://open.spotify.com/artist/6Cps3rLMAUgatcFnZOC5H6), [MÆG](https://open.spotify.com/artist/6vEJhqegkxcodFIqGYx3IG) | [Silikon](https://open.spotify.com/album/3L2iGhiY2HqEZpQZz3AUZl) | 2:48 | 2022-03-31 | 2022-05-08 |

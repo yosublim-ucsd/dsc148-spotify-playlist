@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,291 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,296 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 10 | [Montrose Ave](https://open.spotify.com/track/1kFu2TuUmsARXGYc2eYXiC) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Montrose Ave](https://open.spotify.com/album/38FmGb1NtDyPwZtHHoL8x5) | 2:53 |
 | 11 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
 | 12 | [Anyone](https://open.spotify.com/track/2jdObkXiyca07k9r6UwqaL) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Summer Crush](https://open.spotify.com/album/7u3rOTDTne8OfLdo79a0Go) | 3:06 |
-| 13 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
+| 13 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
-| 15 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
+| 15 | [Back To You \- Joey Pecoraro Remix](https://open.spotify.com/track/216afVgCJWieLyqPDwziwq) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Back To You \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5YOxoeO5DRUWEBbDt9A3jU) | 3:46 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
 | 17 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
 | 18 | [Wicked Hearts](https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [Wicked Hearts](https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk) | 3:09 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 47 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 48 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 |
 | 49 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
-| 50 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 |
-| 51 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
-| 52 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
-| 53 | [Make It Work](https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Make It Work](https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9) | 2:49 |
-| 54 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
+| 50 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
+| 51 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
+| 52 | [Donum](https://open.spotify.com/track/76NiKsl9kFNjjqITQFGo3G) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Donum](https://open.spotify.com/album/6q1CGoZqOygFjGb08Linko) | 2:40 |
+| 53 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
+| 54 | [Make It Work](https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Make It Work](https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9) | 2:49 |
 | 55 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
 | 56 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 57 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 59 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 60 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 
-Snapshot ID: `MCw2MGE5YjA5ZTc2ZjliYmNkY2UzYmY2MWNhZjY1NGE5ZDFiZGI3NzRh`
+Snapshot ID: `MCwwMmY2NmRmZGNlNzQ5Mzk3MGU0ZWUxZWI1ZTc2OWIxNGI3NjNiMDdk`

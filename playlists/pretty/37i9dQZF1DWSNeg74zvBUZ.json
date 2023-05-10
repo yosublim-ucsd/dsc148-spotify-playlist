@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18704,
+  "num_followers": 18705,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGZkZjljMGY2YzBiNzQ5NmY3MDgzNjUwZjk2MmI0NzQyMDFhMTNi",
+  "snapshot_id": "MCxiMjcyMTZiOWI2OTgxNjZhZmY0NWU3NmVhNDFlMmU1ZDI1YTg5MzFk",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 288866,
-      "name": "Brockley",
-      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Komachi",
         "url": "https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 236040,
       "name": "Nami",
       "url": "https://open.spotify.com/track/45m8T6QIgYoCZnUNxYeyml"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 288866,
+      "name": "Brockley",
+      "url": "https://open.spotify.com/track/5gz0QlcMMxQXZgXC1uvi5k"
     },
     {
       "added_at": "2021-11-12 19:00:50",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/6RPQdkI8t1eaG2abymrYVK"
     },
     {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
       "added_at": "2022-04-23 02:33:42",
       "album": {
         "name": "Rest Proof Clockwork",
@@ -459,6 +443,22 @@
       "duration_ms": 269240,
       "name": "Ralome",
       "url": "https://open.spotify.com/track/5CBtcSv8jmVWI9j37qCzZz"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2021-11-12 05:17:41",
@@ -557,6 +557,22 @@
       "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
+      },
+      "artists": [
+        {
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
+        }
+      ],
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
+    },
+    {
       "added_at": "2022-01-07 02:01:58",
       "album": {
         "name": "Two",
@@ -575,22 +591,6 @@
       "duration_ms": 163733,
       "name": "Natural Bridges",
       "url": "https://open.spotify.com/track/43oEjzPLnmve0ea2WjqV6W"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -851,18 +851,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Fi",
-        "url": "https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7"
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
       },
       "artists": [
         {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
         }
       ],
-      "duration_ms": 122012,
-      "name": "It Was Willow",
-      "url": "https://open.spotify.com/track/7qpuXw0hLcJtZ6aa5WiagC"
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     }
   ],
   "unique_name": "Morning First Light",

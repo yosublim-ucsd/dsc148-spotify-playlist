@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-471 songs - 1 day 3 hr 29 min
+472 songs - 1 day 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Saving Lives](https://open.spotify.com/track/6OK7OQyyvNPd2XQIHCB1wz) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Saving Lives](https://open.spotify.com/album/1q3TxKjmvdwSE8SmOsAsjt) | 4:27 | 2021-11-19 | 2022-02-25 |
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 |  |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 | 2023-01-13 |
+| [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 |  |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 | 2022-08-27 |
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |

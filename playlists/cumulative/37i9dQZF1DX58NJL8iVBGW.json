@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Out Of Hands We Go",
+        "url": "https://open.spotify.com/album/2TBHUDbwjZoNir22a43aSr"
+      },
+      "artists": [
+        {
+          "name": "O'Death",
+          "url": "https://open.spotify.com/artist/5oTGxE6TDRsEr0jfbIlp7O"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233873,
+      "name": "Herd",
+      "url": "https://open.spotify.com/track/7Gp6rliJK9iw8CEJvvD8oe"
+    },
+    {
+      "album": {
         "name": "April",
         "url": "https://open.spotify.com/album/04XRtyMhwCe9HoWbzBO1eE"
       },
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 177359,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/59yvm9n65pPkykLU3e0Kf0"

@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 152990,
       "name": "Innamorarsi",
       "url": "https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97"
@@ -2314,6 +2314,24 @@
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
+    },
+    {
+      "album": {
+        "name": "Kay's Recovery",
+        "url": "https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Conor",
+          "url": "https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114275,
+      "name": "Kay's Recovery",
+      "url": "https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA"
     },
     {
       "album": {
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 137169,
       "name": "Mandeville",
       "url": "https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08"
@@ -2764,6 +2782,24 @@
       "duration_ms": 143874,
       "name": "Marietta",
       "url": "https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2"
+    },
+    {
+      "album": {
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/2dSKOwskMESQyrroTG5sLW"
+      },
+      "artists": [
+        {
+          "name": "Ava Cerasoli",
+          "url": "https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178937,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/19LkgC0gfH6XkcmkNyDMO6"
     },
     {
       "album": {
@@ -5036,7 +5072,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 185723,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me"
@@ -6000,6 +6036,24 @@
       "duration_ms": 176400,
       "name": "Winter im Herzen",
       "url": "https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr"
+    },
+    {
+      "album": {
+        "name": "Woman traveling alone",
+        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126396,
+      "name": "Woman traveling alone",
+      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
     },
     {
       "album": {

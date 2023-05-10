@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
+      },
+      "artists": [
+        {
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "album": {
         "name": "The Unforgetting Heart",
         "url": "https://open.spotify.com/album/0urqmPjvhqU7BqEDZ0C0Hs"
       },
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 167522,
       "name": "Mysterium",
       "url": "https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm"

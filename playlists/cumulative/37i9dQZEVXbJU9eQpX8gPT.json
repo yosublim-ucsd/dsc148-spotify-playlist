@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Abala Ya Bali",
+        "url": "https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228925,
+      "name": "Abala Ya Bali",
+      "url": "https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -4114,7 +4132,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -5336,7 +5354,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -5430,7 +5448,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 165773,
       "name": "ELGHIRA",
       "url": "https://open.spotify.com/track/5Zqqq0hj7FdMMOmkshNA7X"
@@ -8771,6 +8789,24 @@
     },
     {
       "album": {
+        "name": "JMI",
+        "url": "https://open.spotify.com/album/7gwIZVNyGFEZf9993pp78W"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "JMI",
+      "url": "https://open.spotify.com/track/1PlEAxwiW6xk3rrVDlztcB"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -11599,6 +11635,28 @@
     },
     {
       "album": {
+        "name": "Mandem",
+        "url": "https://open.spotify.com/album/4Lvndlgi6IBB4L4jn6d6RF"
+      },
+      "artists": [
+        {
+          "name": "OUENZA",
+          "url": "https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8"
+        },
+        {
+          "name": "Amine K (Moroko Loko)",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278095,
+      "name": "Mandem",
+      "url": "https://open.spotify.com/track/68n0XVahvsr0v0usJzykTH"
+    },
+    {
+      "album": {
         "name": "JVLIVS II",
         "url": "https://open.spotify.com/album/7eKvzMoLTENJaukj2pHrw7"
       },
@@ -11988,7 +12046,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 214360,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -19380,7 +19438,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"

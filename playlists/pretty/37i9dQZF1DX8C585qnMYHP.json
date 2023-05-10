@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Isabel Do Diego on cover. Artwork Thami Nabil. Updates every Wednesday.",
-  "num_followers": 106519,
+  "num_followers": 106582,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZDIyZTFkYmQ1ZTMxYTg1MGYzNGU4Mzk4NGE0ZTc1ZWNlZjQ5MzEz",
+  "snapshot_id": "MCxkMjRlZDczODg3ZjdiMzJhMTI1NThkMjc4MDFlOGIzNWE2ZTc3ZmI5",
   "tracks": [
     {
       "added_at": "2023-04-12 14:55:04",
@@ -405,20 +405,20 @@
       "url": "https://open.spotify.com/track/5QqfpPDI2NAHVm0vmq7NWc"
     },
     {
-      "added_at": "2023-03-22 15:04:33",
+      "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/5En0oSbOCytMKIlTKa8UUE"
+        "name": "Green-Yellow Field",
+        "url": "https://open.spotify.com/album/29Ee7Aj2DPakARy3SJQXIB"
       },
       "artists": [
         {
-          "name": "Hanakiv",
-          "url": "https://open.spotify.com/artist/5nz3Ya545dAVjfMwX60LPq"
+          "name": "Blue Lake",
+          "url": "https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc"
         }
       ],
-      "duration_ms": 355293,
-      "name": "Meditation III",
-      "url": "https://open.spotify.com/track/0JHgNrW1AHnjR9ncWNIQSw"
+      "duration_ms": 150000,
+      "name": "Green-Yellow Field",
+      "url": "https://open.spotify.com/track/0ZX5GDnY4cmcLEtUmVd0GF"
     },
     {
       "added_at": "2023-03-29 03:26:22",
@@ -437,20 +437,20 @@
       "url": "https://open.spotify.com/track/5KhXlSbrNF3MgP4SkzgDL7"
     },
     {
-      "added_at": "2023-04-05 14:48:06",
+      "added_at": "2023-03-22 15:04:33",
       "album": {
-        "name": "Green-Yellow Field",
-        "url": "https://open.spotify.com/album/29Ee7Aj2DPakARy3SJQXIB"
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/5En0oSbOCytMKIlTKa8UUE"
       },
       "artists": [
         {
-          "name": "Blue Lake",
-          "url": "https://open.spotify.com/artist/6I1HySHVBxauGTpv00Gohc"
+          "name": "Hanakiv",
+          "url": "https://open.spotify.com/artist/5nz3Ya545dAVjfMwX60LPq"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Green-Yellow Field",
-      "url": "https://open.spotify.com/track/0ZX5GDnY4cmcLEtUmVd0GF"
+      "duration_ms": 355293,
+      "name": "Meditation III",
+      "url": "https://open.spotify.com/track/0JHgNrW1AHnjR9ncWNIQSw"
     },
     {
       "added_at": "2023-03-29 03:26:22",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/3JFPrx5bYq1uOVesfuBGpm"
     },
     {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
-        "name": "The Cosmic Memoirs Of The Late Great Rupert J. Rosinthrope",
-        "url": "https://open.spotify.com/album/5S5RwhSDhxQFYqRCyiR7Q6"
-      },
-      "artists": [
-        {
-          "name": "Shifted Phases",
-          "url": "https://open.spotify.com/artist/2UzQKeFMlRdgmlcRAMrBbd"
-        }
-      ],
-      "duration_ms": 382800,
-      "name": "Solar Wind",
-      "url": "https://open.spotify.com/track/6fgOFppcpVwu4673h4OlFu"
-    },
-    {
       "added_at": "2023-03-22 15:04:33",
       "album": {
         "name": "Perpetual Care",
@@ -731,6 +715,38 @@
       "duration_ms": 200865,
       "name": "Radiant Mist",
       "url": "https://open.spotify.com/track/1MJWoMzHdQrjhZSieEdXOM"
+    },
+    {
+      "added_at": "2023-03-15 15:20:26",
+      "album": {
+        "name": "All Hands Bury The Cliffs At Sea",
+        "url": "https://open.spotify.com/album/0PxPgYaRsqhf83G7FHfoRC"
+      },
+      "artists": [
+        {
+          "name": "Wanderwelle",
+          "url": "https://open.spotify.com/artist/2042fteQud87cIM8K6VARW"
+        }
+      ],
+      "duration_ms": 290239,
+      "name": "Water Hymn",
+      "url": "https://open.spotify.com/track/3wsiOrVabcwXiSz6U5CJMR"
+    },
+    {
+      "added_at": "2023-04-05 14:48:06",
+      "album": {
+        "name": "The Cosmic Memoirs Of The Late Great Rupert J. Rosinthrope",
+        "url": "https://open.spotify.com/album/5S5RwhSDhxQFYqRCyiR7Q6"
+      },
+      "artists": [
+        {
+          "name": "Shifted Phases",
+          "url": "https://open.spotify.com/artist/2UzQKeFMlRdgmlcRAMrBbd"
+        }
+      ],
+      "duration_ms": 382800,
+      "name": "Solar Wind",
+      "url": "https://open.spotify.com/track/6fgOFppcpVwu4673h4OlFu"
     },
     {
       "added_at": "2023-03-29 03:26:22",
@@ -765,36 +781,20 @@
       "url": "https://open.spotify.com/track/2FM93fq0WRpHrJMyIztrQL"
     },
     {
-      "added_at": "2023-03-15 15:20:26",
+      "added_at": "2023-03-22 15:04:33",
       "album": {
-        "name": "All Hands Bury The Cliffs At Sea",
-        "url": "https://open.spotify.com/album/0PxPgYaRsqhf83G7FHfoRC"
+        "name": "Ebb And Flow",
+        "url": "https://open.spotify.com/album/346UIsEmdNK2hevuepxXf9"
       },
       "artists": [
         {
-          "name": "Wanderwelle",
-          "url": "https://open.spotify.com/artist/2042fteQud87cIM8K6VARW"
+          "name": "Mischa Blanos",
+          "url": "https://open.spotify.com/artist/5E4HJCimcNGvRGADllJUUk"
         }
       ],
-      "duration_ms": 290239,
-      "name": "Water Hymn",
-      "url": "https://open.spotify.com/track/3wsiOrVabcwXiSz6U5CJMR"
-    },
-    {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
-        "name": "xyz",
-        "url": "https://open.spotify.com/album/5Xo1WX5L1eIlXgHCYVKfYQ"
-      },
-      "artists": [
-        {
-          "name": "jeremixyz",
-          "url": "https://open.spotify.com/artist/0k9fItikT99X79gOQxSCx1"
-        }
-      ],
-      "duration_ms": 84857,
-      "name": "xyz2",
-      "url": "https://open.spotify.com/track/18MZiUKNdsFZd2Vb40U4Pa"
+      "duration_ms": 217205,
+      "name": "Ebb And Flow",
+      "url": "https://open.spotify.com/track/6cH8JlVBOpGXHLyjbYj6QD"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/3aaXPp8wg0Nezf5V45VBOo"
     },
     {
-      "added_at": "2023-03-22 15:04:33",
+      "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "Ebb And Flow",
-        "url": "https://open.spotify.com/album/346UIsEmdNK2hevuepxXf9"
+        "name": "xyz",
+        "url": "https://open.spotify.com/album/5Xo1WX5L1eIlXgHCYVKfYQ"
       },
       "artists": [
         {
-          "name": "Mischa Blanos",
-          "url": "https://open.spotify.com/artist/5E4HJCimcNGvRGADllJUUk"
+          "name": "jeremixyz",
+          "url": "https://open.spotify.com/artist/0k9fItikT99X79gOQxSCx1"
         }
       ],
-      "duration_ms": 217205,
-      "name": "Ebb And Flow",
-      "url": "https://open.spotify.com/track/6cH8JlVBOpGXHLyjbYj6QD"
+      "duration_ms": 84857,
+      "name": "xyz2",
+      "url": "https://open.spotify.com/track/18MZiUKNdsFZd2Vb40U4Pa"
     },
     {
       "added_at": "2023-03-15 15:20:26",
@@ -845,22 +845,6 @@
       "url": "https://open.spotify.com/track/453H5qpem3JqCPi0pTWX3C"
     },
     {
-      "added_at": "2023-03-29 03:26:22",
-      "album": {
-        "name": "Actoma",
-        "url": "https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3"
-      },
-      "artists": [
-        {
-          "name": "James Emrick",
-          "url": "https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "MWLHWOF-4",
-      "url": "https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx"
-    },
-    {
       "added_at": "2023-03-15 15:20:26",
       "album": {
         "name": "\u10e1 \u10d0 \u10d3 \u10d2 \u10e3 \u10e0 \u10d8 [Station]",
@@ -877,6 +861,22 @@
       "url": "https://open.spotify.com/track/2R6xXb1GHmTLawsUzHJWkD"
     },
     {
+      "added_at": "2023-03-29 03:26:22",
+      "album": {
+        "name": "Actoma",
+        "url": "https://open.spotify.com/album/0RXhS7XWJ1spd3UTLIU0u3"
+      },
+      "artists": [
+        {
+          "name": "James Emrick",
+          "url": "https://open.spotify.com/artist/246T2idxs2MWDrX6ntZNBm"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "MWLHWOF-4",
+      "url": "https://open.spotify.com/track/6GKgMjq46lNr3Xv8aexQOx"
+    },
+    {
       "added_at": "2023-03-22 15:04:33",
       "album": {
         "name": "More from it all",
@@ -891,6 +891,22 @@
       "duration_ms": 270891,
       "name": "What are you running towards?",
       "url": "https://open.spotify.com/track/7vzetKouwT6eP3rE0VdUFW"
+    },
+    {
+      "added_at": "2023-03-29 03:26:22",
+      "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 199894,
+      "name": "Echo Drift",
+      "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
     },
     {
       "added_at": "2023-04-12 14:55:04",
@@ -925,22 +941,6 @@
       "url": "https://open.spotify.com/track/5YY5lDQo2bxR45EtqevyD3"
     },
     {
-      "added_at": "2023-03-29 03:26:22",
-      "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/5u97udfdEmIOR9xf5lW7pT"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 199894,
-      "name": "Echo Drift",
-      "url": "https://open.spotify.com/track/4HFsG0QhOBTaGymFSVE0bg"
-    },
-    {
       "added_at": "2023-03-15 15:20:26",
       "album": {
         "name": "o'yea",
@@ -955,6 +955,22 @@
       "duration_ms": 75490,
       "name": "o'yea",
       "url": "https://open.spotify.com/track/18vEFaXUerg8mtGdKo4odS"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Blood Quantum",
+        "url": "https://open.spotify.com/album/0WKJqZUlLBA8rR1M8AvpIL"
+      },
+      "artists": [
+        {
+          "name": "Divide And Dissolve",
+          "url": "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Blood Quantum",
+      "url": "https://open.spotify.com/track/6J6A3SuiMvLPBtkaGsThyj"
     },
     {
       "added_at": "2023-03-22 15:04:33",
@@ -975,22 +991,6 @@
     {
       "added_at": "2023-03-22 15:04:33",
       "album": {
-        "name": "dub",
-        "url": "https://open.spotify.com/album/7ytdBiDlBFmjHOJG8lNGBv"
-      },
-      "artists": [
-        {
-          "name": "OP Lilypad",
-          "url": "https://open.spotify.com/artist/2vsaJQdb6H1LkF8kaR02NY"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "dub",
-      "url": "https://open.spotify.com/track/42TYk7Yq6CRXxdxfbX9RPn"
-    },
-    {
-      "added_at": "2023-03-22 15:04:33",
-      "album": {
         "name": "Perpetual Care",
         "url": "https://open.spotify.com/album/4dwbddU1EGBZHnBGa8ZVvY"
       },
@@ -1005,36 +1005,20 @@
       "url": "https://open.spotify.com/track/102lV2Y3osSKUxA7XpTrhF"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-03-22 15:04:33",
       "album": {
-        "name": "Blood Quantum",
-        "url": "https://open.spotify.com/album/0WKJqZUlLBA8rR1M8AvpIL"
+        "name": "dub",
+        "url": "https://open.spotify.com/album/7ytdBiDlBFmjHOJG8lNGBv"
       },
       "artists": [
         {
-          "name": "Divide And Dissolve",
-          "url": "https://open.spotify.com/artist/4YmPo9Zke9OYNmV5WW7CMS"
+          "name": "OP Lilypad",
+          "url": "https://open.spotify.com/artist/2vsaJQdb6H1LkF8kaR02NY"
         }
       ],
-      "duration_ms": 292573,
-      "name": "Blood Quantum",
-      "url": "https://open.spotify.com/track/6J6A3SuiMvLPBtkaGsThyj"
-    },
-    {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
-        "name": "OXI Ambigan",
-        "url": "https://open.spotify.com/album/4uUL7GvJCrN1aKgV6xVslz"
-      },
-      "artists": [
-        {
-          "name": "Yushh",
-          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
-        }
-      ],
-      "duration_ms": 350120,
-      "name": "OXI Ambigan",
-      "url": "https://open.spotify.com/track/0I6p5V2zo7TSYmyi8AroOF"
+      "duration_ms": 265160,
+      "name": "dub",
+      "url": "https://open.spotify.com/track/42TYk7Yq6CRXxdxfbX9RPn"
     },
     {
       "added_at": "2023-03-22 15:04:33",
@@ -1053,20 +1037,20 @@
       "url": "https://open.spotify.com/track/0FkRqHKhrfvpj7miTVQVRs"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-04-05 14:48:06",
       "album": {
-        "name": "Guilt, Avoidance",
-        "url": "https://open.spotify.com/album/5alysBOXpkdf8bDYjRwoAg"
+        "name": "OXI Ambigan",
+        "url": "https://open.spotify.com/album/4uUL7GvJCrN1aKgV6xVslz"
       },
       "artists": [
         {
-          "name": "Harvey Waters",
-          "url": "https://open.spotify.com/artist/6LyUy71EiLEedyCCEspfdy"
+          "name": "Yushh",
+          "url": "https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew"
         }
       ],
-      "duration_ms": 153013,
-      "name": "Thorn",
-      "url": "https://open.spotify.com/track/04yjZ1cCkeyBs0WAXVwbTF"
+      "duration_ms": 350120,
+      "name": "OXI Ambigan",
+      "url": "https://open.spotify.com/track/0I6p5V2zo7TSYmyi8AroOF"
     },
     {
       "added_at": "2023-03-15 15:20:26",
@@ -1083,6 +1067,22 @@
       "duration_ms": 296948,
       "name": "Fishermen Lost",
       "url": "https://open.spotify.com/track/3bAUIY59XLTzx3pLO8t3P9"
+    },
+    {
+      "added_at": "2023-04-12 14:55:04",
+      "album": {
+        "name": "Guilt, Avoidance",
+        "url": "https://open.spotify.com/album/5alysBOXpkdf8bDYjRwoAg"
+      },
+      "artists": [
+        {
+          "name": "Harvey Waters",
+          "url": "https://open.spotify.com/artist/6LyUy71EiLEedyCCEspfdy"
+        }
+      ],
+      "duration_ms": 153013,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/04yjZ1cCkeyBs0WAXVwbTF"
     },
     {
       "added_at": "2023-03-15 15:20:26",
@@ -1293,22 +1293,6 @@
       "url": "https://open.spotify.com/track/1DntDGq1JGQyRNbNKd4iCj"
     },
     {
-      "added_at": "2023-03-29 03:26:22",
-      "album": {
-        "name": "find me again",
-        "url": "https://open.spotify.com/album/3xbsOnMlqxDKZUt45gU6Ib"
-      },
-      "artists": [
-        {
-          "name": "EXPCTR",
-          "url": "https://open.spotify.com/artist/3ipgUyTWKYk6KAm91kTdrk"
-        }
-      ],
-      "duration_ms": 134741,
-      "name": "find me again",
-      "url": "https://open.spotify.com/track/3LoUBHfGeTTwHeK93282eQ"
-    },
-    {
       "added_at": "2023-03-22 15:04:33",
       "album": {
         "name": "Megaverse",
@@ -1323,6 +1307,22 @@
       "duration_ms": 254000,
       "name": "Megaverse",
       "url": "https://open.spotify.com/track/2mXwdevJGWff7qRGpuNKnJ"
+    },
+    {
+      "added_at": "2023-03-29 03:26:22",
+      "album": {
+        "name": "find me again",
+        "url": "https://open.spotify.com/album/3xbsOnMlqxDKZUt45gU6Ib"
+      },
+      "artists": [
+        {
+          "name": "EXPCTR",
+          "url": "https://open.spotify.com/artist/3ipgUyTWKYk6KAm91kTdrk"
+        }
+      ],
+      "duration_ms": 134741,
+      "name": "find me again",
+      "url": "https://open.spotify.com/track/3LoUBHfGeTTwHeK93282eQ"
     },
     {
       "added_at": "2023-03-15 15:20:26",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/1eo97er6QMEqwD7kzGZtDA"
     },
     {
-      "added_at": "2023-03-29 03:26:22",
-      "album": {
-        "name": "Prequel",
-        "url": "https://open.spotify.com/album/79cEd6PLap7uBwJrPeSW4s"
-      },
-      "artists": [
-        {
-          "name": "Infinite River",
-          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
-        }
-      ],
-      "duration_ms": 163269,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4zw9OaUPhpNzmlgcL9idu7"
-    },
-    {
       "added_at": "2023-03-15 15:20:26",
       "album": {
         "name": "Hadal EP",
@@ -1371,6 +1355,22 @@
       "duration_ms": 197000,
       "name": "Aberration",
       "url": "https://open.spotify.com/track/6NqYd3hVrDKqElo16HCjLN"
+    },
+    {
+      "added_at": "2023-03-29 03:26:22",
+      "album": {
+        "name": "Prequel",
+        "url": "https://open.spotify.com/album/79cEd6PLap7uBwJrPeSW4s"
+      },
+      "artists": [
+        {
+          "name": "Infinite River",
+          "url": "https://open.spotify.com/artist/5Pmm6i4hOWqqm2oVM90VAm"
+        }
+      ],
+      "duration_ms": 163269,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4zw9OaUPhpNzmlgcL9idu7"
     },
     {
       "added_at": "2023-03-15 15:20:26",
@@ -1405,20 +1405,20 @@
       "url": "https://open.spotify.com/track/28MSYPyVLEqo2AyKtIclXX"
     },
     {
-      "added_at": "2023-03-29 03:26:22",
+      "added_at": "2023-04-12 14:55:04",
       "album": {
-        "name": "Oddisea, Pt. 3",
-        "url": "https://open.spotify.com/album/4bVKhWV6O0wgm2pot5ZTHe"
+        "name": "Dog Dreams",
+        "url": "https://open.spotify.com/album/0XKauAjKNc9I6WUEyGS5FY"
       },
       "artists": [
         {
-          "name": "Oddity",
-          "url": "https://open.spotify.com/artist/5hravQJP0eUEmr7rDmAdhu"
+          "name": "Lucy Liyou",
+          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
         }
       ],
-      "duration_ms": 197373,
-      "name": "Abyssal",
-      "url": "https://open.spotify.com/track/12QrjwNr8RYRGq9KjGEYLT"
+      "duration_ms": 868067,
+      "name": "Dog Dreams",
+      "url": "https://open.spotify.com/track/6czAPpUz0Q5OZ5w4HtF1Sm"
     },
     {
       "added_at": "2023-03-22 15:04:33",
@@ -1437,20 +1437,20 @@
       "url": "https://open.spotify.com/track/3ciMlkzAPI1foefduTNXCB"
     },
     {
-      "added_at": "2023-04-12 14:55:04",
+      "added_at": "2023-03-29 03:26:22",
       "album": {
-        "name": "Dog Dreams",
-        "url": "https://open.spotify.com/album/0XKauAjKNc9I6WUEyGS5FY"
+        "name": "Oddisea, Pt. 3",
+        "url": "https://open.spotify.com/album/4bVKhWV6O0wgm2pot5ZTHe"
       },
       "artists": [
         {
-          "name": "Lucy Liyou",
-          "url": "https://open.spotify.com/artist/0oGtixfxP0ukNPM6KVuwC1"
+          "name": "Oddity",
+          "url": "https://open.spotify.com/artist/5hravQJP0eUEmr7rDmAdhu"
         }
       ],
-      "duration_ms": 868067,
-      "name": "Dog Dreams",
-      "url": "https://open.spotify.com/track/6czAPpUz0Q5OZ5w4HtF1Sm"
+      "duration_ms": 197373,
+      "name": "Abyssal",
+      "url": "https://open.spotify.com/track/12QrjwNr8RYRGq9KjGEYLT"
     },
     {
       "added_at": "2023-04-05 14:48:06",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/0J2qW42ZQ3oaF0a0yULxAn"
     },
     {
-      "added_at": "2023-04-05 14:48:06",
-      "album": {
-        "name": "MOMOKO blooms in 1.26D",
-        "url": "https://open.spotify.com/album/0EsiR4QsUoThy4LCFRE4gg"
-      },
-      "artists": [
-        {
-          "name": "MON/KU",
-          "url": "https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df"
-        }
-      ],
-      "duration_ms": 340839,
-      "name": "al8",
-      "url": "https://open.spotify.com/track/551kEgRlD41qyCNXvNWgQ0"
-    },
-    {
       "added_at": "2023-04-12 16:40:53",
       "album": {
         "name": "Depueblo",
@@ -1579,6 +1563,22 @@
       "duration_ms": 143342,
       "name": "Halagas (Himno Hacia Geograf\u00eda)",
       "url": "https://open.spotify.com/track/4JOA9TRiQWxSXK260U04UZ"
+    },
+    {
+      "added_at": "2023-04-05 14:48:06",
+      "album": {
+        "name": "MOMOKO blooms in 1.26D",
+        "url": "https://open.spotify.com/album/0EsiR4QsUoThy4LCFRE4gg"
+      },
+      "artists": [
+        {
+          "name": "MON/KU",
+          "url": "https://open.spotify.com/artist/4SpTEmOFzoqGQYI53t13Df"
+        }
+      ],
+      "duration_ms": 340839,
+      "name": "al8",
+      "url": "https://open.spotify.com/track/551kEgRlD41qyCNXvNWgQ0"
     },
     {
       "added_at": "2023-04-12 14:55:04",

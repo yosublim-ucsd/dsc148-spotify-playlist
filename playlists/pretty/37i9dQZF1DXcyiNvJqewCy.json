@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 127977,
+  "num_followers": 128051,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGY4Y2U5MjBhOTBlMDAwMjUxZDBiNWE4ZmYwNzkzYzI2NzlmMTMy",
+  "snapshot_id": "MCw3OWEzMDNhOGNhMDU1MzVkYjliMjNkMjdmZDUyNzNiMDQzMDIyNGU3",
   "tracks": [
     {
       "added_at": "2023-05-03 09:55:39",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "The Lumineers",
         "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 163133,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Knockin' On Heaven's Door",
-      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Four Tops Second Album",
         "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 160280,
       "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
       "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -735,6 +735,22 @@
       "duration_ms": 227186,
       "name": "Remember That Night?",
       "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "4runner",
+        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 265453,
+      "name": "4runner",
+      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "4runner",
-        "url": "https://open.spotify.com/album/3I7cYBHqayM3NGqX6tG5m2"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 265453,
-      "name": "4runner",
-      "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Slide Away",
-        "url": "https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 233654,
-      "name": "Slide Away",
-      "url": "https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4Sr5ckiFddtONS3KewaXyb"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 203680,
       "name": "Can't Take My Eyes off You",
       "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Slide Away",
+        "url": "https://open.spotify.com/album/0SHGFAL8WZUvpWb5iLPp6E"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 233654,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/44ADyYoY5liaRa3EOAl4uf"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
+        "name": "The Foundations",
+        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+      },
+      "artists": [
+        {
+          "name": "The Foundations",
+          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "Build Me Up Buttercup",
+      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
         "name": "Everybody Needs Someone (feat. Vance Joy)",
         "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
       },
@@ -1283,22 +1299,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
-      },
-      "artists": [
-        {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 197160,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "Garden Song",
+      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1343,22 +1359,6 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 230146,
-      "name": "So Good At Being in Trouble",
-      "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
-    },
-    {
-      "added_at": "2023-05-03 09:55:39",
-      "album": {
         "name": "Typical of Me EP",
         "url": "https://open.spotify.com/album/7pooeoqY4uJkTaW70qxm3z"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 216586,
       "name": "When We Are Together",
       "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z"
+    },
+    {
+      "added_at": "2023-05-03 09:55:39",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/2UrexGLK8RBKbv07j7ui19"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 230146,
+      "name": "So Good At Being in Trouble",
+      "url": "https://open.spotify.com/track/2lwi35A2ym3FAmSlvOGnQp"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
+      "duration_ms": 235506,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
     },
     {
       "added_at": "2023-05-03 09:55:39",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-05-03 09:55:39",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 235506,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/07AbRgKmb5KfppwtZbZqDI"
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2023-05-03 09:55:39",

@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love Cover: Blusher
 
-914 songs - 2 day 4 hr 5 min
+915 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Be with You](https://open.spotify.com/track/2ECjeYPCdRNeuCzO0W1UMW) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:07 | 2022-09-08 | 2022-12-09 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-02-03 | 2022-04-08 |
 | [Being In Love](https://open.spotify.com/track/4VBE0mwU8Nmm8hiqfCe4Ve) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:02 | 2023-03-02 | 2023-03-31 |
-| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-12 |  |
+| [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-05-05 |  |
+| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-12 | 2023-05-10 |
 | [Best Friend](https://open.spotify.com/track/6VZXTCIXbgypt0erc2U1Uk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:28 | 2022-06-23 | 2022-08-12 |
 | [Better \(feat\. Rhys Rich\)](https://open.spotify.com/track/0jPnkROmh96PsFAmmuOmnL) | [Cellarr](https://open.spotify.com/artist/40hdxU4tcrbRkopSgr0arC), [Rhys Rich](https://open.spotify.com/artist/5NUjwOnA599cEmrIpSSw7d) | [Golden Minds Resort](https://open.spotify.com/album/3khX74NKQ8aLNiBHH0JtEZ) | 3:05 | 2022-10-06 | 2022-12-02 |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-03 | 2022-05-20 |

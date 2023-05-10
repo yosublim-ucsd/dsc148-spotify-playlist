@@ -1059,6 +1059,24 @@
     },
     {
       "album": {
+        "name": "Desamor y Despecho",
+        "url": "https://open.spotify.com/album/7otDfsqCNejESwOZAd5YVC"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213080,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/3uRy6UyIWB1FHIoLcMtsLN"
+    },
+    {
+      "album": {
         "name": "A las Cinco en el Astoria",
         "url": "https://open.spotify.com/album/2x2ZnWT2gqKGXYul03g47r"
       },
@@ -2032,7 +2050,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 216000,
       "name": "Prometiste",
       "url": "https://open.spotify.com/track/1Rl25VpYAmwet3uJrBBVbF"

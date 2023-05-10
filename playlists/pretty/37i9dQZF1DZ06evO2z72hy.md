@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 
 > This is Gondwana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,059 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,081 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2z72hy.md) - [plain]
 | 44 | [Vivo Esperandote](https://open.spotify.com/track/0fmrLB98vvk3Z5wFTmkho9) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Crece](https://open.spotify.com/album/3B5dbgQh0IvFD47xLnDvPr) | 3:35 |
 | 45 | [Down Under](https://open.spotify.com/track/6vDl3LpYcIkuqKM0XIbqBe) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [La 100 Vivo! 2da Edición \(Parte 2\)](https://open.spotify.com/album/028601b3iM0PZtzD76eKRv) | 3:36 |
 | 46 | [Mártires](https://open.spotify.com/track/2dgC2dinAbcyHW15OLeSPB) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Grandes Exitos](https://open.spotify.com/album/5t2pcgpZR6Lo51JNb6s7jp) | 3:20 |
-| 47 | [Medley: Libros Sagrados / Orgullosa Mole \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/3DJDWiD41D6pVhC4gdt4NF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 3:29 |
-| 48 | [Traficantes De Fe](https://open.spotify.com/track/10vTdkkK4noQfgt0oexX06) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza Por La Fuerza De La Razón](https://open.spotify.com/album/7mzgCNDT0IVvixRnHKcGmj) | 3:41 |
+| 47 | [Traficantes De Fe](https://open.spotify.com/track/10vTdkkK4noQfgt0oexX06) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Alabanza Por La Fuerza De La Razón](https://open.spotify.com/album/7mzgCNDT0IVvixRnHKcGmj) | 3:41 |
+| 48 | [Medley: Libros Sagrados / Orgullosa Mole \- En Vivo en el Teatro Caupolicán](https://open.spotify.com/track/3DJDWiD41D6pVhC4gdt4NF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [En Vivo Teatro Caupolicán](https://open.spotify.com/album/30XuoYBnW180J7KY2y7OKA) | 3:29 |
 | 49 | [Suave Pero Intenso](https://open.spotify.com/track/2aIUhZGLfRpG1AYCy4oX9d) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:36 |
 | 50 | [Me Verás](https://open.spotify.com/track/4tnguLiUs6l0QtfcocbSdF) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Revolución \(Bonus Track Version\)](https://open.spotify.com/album/2q9SKZyjttHPnRTcV7cDAg) | 4:06 |
 | 51 | [El Rito](https://open.spotify.com/track/5iccBUGytEmsMoJhaFeRag) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Reggae N Roll](https://open.spotify.com/album/0xvEOmEMONX0ohVCUcudb5) | 5:00 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDBkNzUzZDY4NzM2NzgwNGRjMDQyMWMyNTg0MTk0YzBhOA==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA4ZDM2MWQyMjZjYjE0OTcyYTRmYjRmZTUwOWJjMjhiZg==`

@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Austin Snell
 
-304 songs - 18 hr 59 min
+305 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Love Yourself](https://open.spotify.com/track/7g6KRfjT9n3JWNJtyZtcA5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Love Yourself](https://open.spotify.com/album/2WHKbOZVfSDTJny1dNQnsJ) | 3:39 | 2022-01-21 | 2022-05-30 |
 | [Lover, Lover](https://open.spotify.com/track/5UzU0qw21okODBNUnxptVo) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [Judge Jerrod & The Hung Jury](https://open.spotify.com/album/3VzLXlCQo9voFegEhlJPd9) | 3:13 | 2021-12-10 |  |
 | [Lucky Man](https://open.spotify.com/track/4rDIVgCEeGUYn872ainYoy) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Lucky Man](https://open.spotify.com/album/2PMX7yThL1uuvo4Uqr3BI0) | 3:14 | 2021-12-10 | 2022-07-30 |
+| [Make Me Want To](https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Maoli Music Overload](https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA) | 2:55 | 2023-05-05 |  |
 | [Make Me Want To](https://open.spotify.com/track/4zBfFrS00t3HNpW50Q2lew) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Make Me Want To](https://open.spotify.com/album/0yeIgCIOOONw8YBtZCFzu9) | 2:55 | 2023-01-06 | 2023-04-24 |
 | [Make Me Want To](https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Make Me Want To](https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU) | 2:55 | 2022-09-13 | 2023-01-01 |
 | [Make Me Want To](https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Little More Tequila](https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew) | 2:55 | 2023-02-10 | 2023-04-10 |
@@ -311,6 +312,6 @@
 | [You're Still the One](https://open.spotify.com/track/0x5LOBSGVRXtZWeGeaMQFK) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Pickaxe](https://open.spotify.com/album/21veZBfGnyYnvn5LXWFkMS) | 3:29 | 2022-09-23 | 2023-03-02 |
 | [You're Still the One](https://open.spotify.com/track/1Lmtr7tJasX392hKpbHPx1) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Western](https://open.spotify.com/album/4SVARHCaBlRSrfUO5YWMRy) | 3:29 | 2023-03-10 |  |
 | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/track/0cBjARqDzROgtgo99Ppi5q) | [Matt Austin](https://open.spotify.com/artist/4x6n7QYlPdUoaf7gwaqNq5) | [Young Dumb & Broke \(Stripped\)](https://open.spotify.com/album/77rlszvmPmrGtt1DCWJYd6) | 3:07 | 2022-03-25 | 2022-04-21 |
-| [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 |  |
+| [Your Body Is a Wonderland](https://open.spotify.com/track/4MK7QI7Z3kwAv6utvZNcEw) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [David Ryan](https://open.spotify.com/artist/14BqDDTDZgUk7ue2rmlkLX) | [Your Body Is a Wonderland](https://open.spotify.com/album/27P5OkGiawj435vcXE0zwM) | 3:37 | 2021-12-10 | 2023-05-10 |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

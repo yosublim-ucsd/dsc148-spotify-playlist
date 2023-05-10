@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Flavio Vitor Jr.
 
-100 songs - 7 hr 55 min
+100 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Divino Esposo](https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO), [Irmã Kelly Patrícia](https://open.spotify.com/artist/59QxXQdSzooggAKxCzWprV) | [Divino Esposo](https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV) | 3:38 | 2022-09-02 |  |
 | [DNA de Maria](https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [DNA de Maria](https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55) | 3:38 | 2022-09-02 |  |
 | [Dá\-Me de Beber](https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ) | [Talita Garcia](https://open.spotify.com/artist/79PrCRcmFlfkoSyeIeqPLt), [Padre Diogo Albuquerque](https://open.spotify.com/artist/0qDsevmatzNXsSGjnN0g7b) | [Dá\-Me de Beber](https://open.spotify.com/album/0wNAjHSApYAxMoWokVeEIx) | 4:16 | 2022-09-02 |  |
-| [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 6:16 | 2023-03-24 |  |
+| [Egito \- Ao Vivo Em São Paulo](https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe) | [Flavio Vitor Jr.](https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF) | [O Fogo Não Se Apagou \(Ao Vivo Em São Paulo\)](https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi) | 7:29 | 2023-03-24 |  |
 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Resiliência \(Ao Vivo\)](https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q) | 9:29 | 2022-12-04 |  |
 | [Ele Não Perde Batalhas](https://open.spotify.com/track/5OmNg2zBWb61x2QxxPwldC) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07) | [Ele Não Perde Batalhas](https://open.spotify.com/album/4SsKBPyKq3uVm4NKzGo5J0) | 7:37 | 2023-04-28 |  |
 | [Em Silêncio](https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg) | [Ministério Tua Palavra](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS), [Padre Denis\-Ricard](https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb) | [Em Silêncio](https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z) | 3:48 | 2022-09-02 |  |

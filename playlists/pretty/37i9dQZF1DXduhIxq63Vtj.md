@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 
 > ¡Achis achis los mariachis!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,432 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,458 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
-| 2 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
+| 2 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
 | 3 | [Como Quien Pierde una Estrella](https://open.spotify.com/track/4tfawx7oL39IUS0GyOlmcP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:33 |
 | 4 | [Yo...El Aventurero](https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [La Más Completa Colección](https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA) | 2:59 |
 | 5 | [Mi Gusto Es](https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Mi Gusto Es Con Tambora](https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg) | 3:26 |
 | 6 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
 | 7 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 8 | [Caballero](https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:49 |
-| 9 | [Sabes Una Cosa](https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:20 |
+| 9 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
 | 10 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
 | 11 | [Carta a Eufemia](https://open.spotify.com/track/0Y2OF1xhhOkC7PlI1M00wq) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 3:10 |
 | 12 | [Paloma Negra](https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:29 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 27 | [La Raspa \- Remastered](https://open.spotify.com/track/5xxy1vBcEG9W9rzZeUlz12) | [Mariachi México de Pepe Villa](https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz) | [Selección Especial \(Remastered\)](https://open.spotify.com/album/0cIdrD4KzNHtGwyWRKf5ac) | 2:17 |
 | 28 | [Alta Y Delgadita](https://open.spotify.com/track/6pMOQCVMyHPo7TgL0Rv0vA) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 2:53 |
 | 29 | [Osito carpintero](https://open.spotify.com/track/7nx4DJCKRjAGzAjBL7tKYC) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Cien años..\. pensando en ti](https://open.spotify.com/album/5K5BgnDkPONrnmL35nHrFc) | 2:38 |
-| 30 | [El Niño Perdido](https://open.spotify.com/track/5Frkx683FObfMc5dAJJmb3) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 3:14 |
+| 30 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
 | 31 | [La Interesada](https://open.spotify.com/track/5UbjsmHa2M69q2Q1bzmDBE) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [De Buen Humor, Con Las Canciones Y La Voz De Chava Flores](https://open.spotify.com/album/3AS7o4ZD2AYKG5VhuOJSmg) | 2:21 |
 | 32 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 |
 | 33 | [Negrita de Mis Pesares](https://open.spotify.com/track/4yHL70akK2dL99EU0DviKH) | [Mariachi Pablo Olmedo](https://open.spotify.com/artist/57eFfYB14GxTUGPoZCCtvR) | [Mexican Music: Best Mariachi Music\. Traditional & Popular Mexican Songs, Rancheras & Corridos](https://open.spotify.com/album/7ynAgcVHO5LuUTQ8SkkG2L) | 2:59 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 37 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 |
 | 38 | [Los Gorrones](https://open.spotify.com/track/4hav6tDhruXYtf86MlYIOo) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:16 |
 | 39 | [El Mecate](https://open.spotify.com/track/4GeAHN6TGFh32Yan6KgyAs) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Y Tenerte Otra Vez](https://open.spotify.com/album/3XOL5NajeukV0zKqmexjC5) | 2:21 |
-| 40 | [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 |
+| 40 | [El Niño Perdido](https://open.spotify.com/track/5Frkx683FObfMc5dAJJmb3) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Canciones Mexicanas Que El Mundo Canta](https://open.spotify.com/album/3jIy0sTCKvICnOyFCWoxrM) | 3:14 |
 | 41 | [Que Se Mueran los Feos](https://open.spotify.com/track/46GSlzR2O4cceIOBImlAnJ) | [Mariachi Loco](https://open.spotify.com/artist/68PBeAZ9MN8Nvg1UV1wiHq) | [Mariachi Loco: 30 Pegaditas](https://open.spotify.com/album/2sZm194vZ5Tm8sH6I8vNLK) | 2:21 |
 | 42 | [La Huevona](https://open.spotify.com/track/7BfMKclY3GQ0opA0fK7d9N) | [Mariachi Tepalcatepec De Michoacan](https://open.spotify.com/artist/5mESQ2V39GTGfFbXcAIHJI) | [Puras Rancheritas](https://open.spotify.com/album/55D5G5C78fRVD5pcDKO2Ev) | 2:41 |
 | 43 | [El gato Viudo](https://open.spotify.com/track/6bdqRGViPQGT16RNpKFzhh) | [Chava Flores Con Mariachi Azteca Y Grupo La Miel](https://open.spotify.com/artist/5CCYSxsSV6BmX7Twe0P0PS) | [Exitos De Chava Flores](https://open.spotify.com/album/0PJ1sZj98PPca3SBScQegW) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXduhIxq63Vtj.md) - [plain]
 | 49 | [El gavilán pollero \(feat\. la Banda Estrellas de Sinaloa de Germán Lizárraga\)](https://open.spotify.com/track/7BHcZVdtSGyw1AbD4gi6w7) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV), [Banda Estrellas De Sinaloa De German Lizarraga](https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX) | [Pedro Infante Con Banda](https://open.spotify.com/album/4AB6kzi9s6lBccjhoNcA6s) | 1:56 |
 | 50 | [Adiós mis chorreadas](https://open.spotify.com/track/6doE0vQHWZDpg3Yj4NKYjJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [57 Aniversario](https://open.spotify.com/album/5NJ4vWaVFLcIpQAxT8t9Lu) | 3:12 |
 
-Snapshot ID: `MCxiNTc4NDBiOTViZTc4ODQ3MmNhYzFjM2E4N2UyNDRhZGI1NjQyMmU2`
+Snapshot ID: `MCwzNjBhZjY1OTRkN2VmMTdhMmNiNzkwZGNhN2M0ZTkyOTJkOTNjMmFh`

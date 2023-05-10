@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Ibara",
+        "url": "https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261045,
+      "name": "Ibara",
+      "url": "https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT"
+    },
+    {
+      "album": {
         "name": "I\u2019m a Controversy",
         "url": "https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd"
       },

@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-216 songs - 13 hr 40 min
+217 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Caliente](https://open.spotify.com/track/0efgPvuswa3D7pghLVpQwV) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/6lFWmZ8hXqAu4qNN8CNYfM) | 4:54 | 2022-08-31 | 2023-02-13 |
 | [Caliente](https://open.spotify.com/track/5sTSeo2f3Rjo7eMV1AdlEM) | [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [The Soul Rebels](https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Caliente](https://open.spotify.com/album/1tWaj0v0w6h9M9PRmh8BQe) | 4:54 | 2021-12-09 | 2022-10-14 |
 | [Caminando por Quisqueya](https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Caminando por Quisqueya](https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4) | 6:00 | 2023-04-14 |  |
-| [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 |  |
+| [Canta Mundo](https://open.spotify.com/track/4KKu46t4zWtQPcM7NHzCvr) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Orquesta Sinfónica de Caldas](https://open.spotify.com/artist/387J8CNFZB9AJ0feSx7PB0) | [Canta Mundo](https://open.spotify.com/album/24HC9D5W71Twk747rBx4Pl) | 3:51 | 2021-12-09 | 2023-05-10 |
 | [Carmesí](https://open.spotify.com/track/3fk5fBFB27GbWGATdBpOgr) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:01 | 2021-12-09 |  |
 | [Carnaval](https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:02 | 2021-12-09 | 2023-03-08 |
 | [Cartagena](https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71) | [Rafael Pondé](https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc), [Melo Gía](https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU) | [Cartagena](https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9) | 3:41 | 2021-12-09 |  |
@@ -186,6 +186,7 @@
 | [Spanish Grease](https://open.spotify.com/track/4FOFC3YNvDgLesoVqRthZh) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Spanish Grease](https://open.spotify.com/album/1EbOCYQR6OJB1EtSYEZBHq) | 2:48 | 2022-01-01 | 2023-03-08 |
 | [Spanish Grease](https://open.spotify.com/track/69B68Pfllp2jTX9sKn2hH9) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr), [Melvin Lastie](https://open.spotify.com/artist/29l5fqHj3Sr1dxofGKpyb3) | [Latin Jazz Lounge](https://open.spotify.com/album/5sdnyPZcJTGc5Udi3NTP25) | 2:44 | 2021-12-09 | 2022-07-29 |
 | [Speakin' Nuyorican](https://open.spotify.com/track/15xWljr5P1FSxbrcP9l7u6) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Latin Concrete: A Modern Latin Beat Suite mixed and compiled by Chris Read](https://open.spotify.com/album/5sImLUIHsB11XCDNHSBfgf) | 3:29 | 2021-12-09 | 2022-07-29 |
+| [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 | 2023-04-28 |  |
 | [Speakin' Nuyorican](https://open.spotify.com/track/26x75c32oXBl5fQMFAYptW) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/021DHyGZjaaAX37sopdmgH) | 3:29 | 2022-01-01 | 2023-04-30 |
 | [Summertime](https://open.spotify.com/track/6isTy6o9mfgOzS2PujEdBf) | [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9) | [Colour](https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz) | 3:57 | 2023-03-07 |  |
 | [Summertime](https://open.spotify.com/track/4tjCdTEwREnFeaETEwmINN) | [Rulo](https://open.spotify.com/artist/5jVRhyt3gfWO2ZsyiO6kVQ), [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9) | [Latin Lounge](https://open.spotify.com/album/0Zji6ySjISz2lQGUrAxzmo) | 3:57 | 2021-12-09 | 2022-07-29 |

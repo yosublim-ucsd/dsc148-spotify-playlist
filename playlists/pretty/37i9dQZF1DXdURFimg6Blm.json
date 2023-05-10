@@ -1,12 +1,12 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 447891,
+  "num_followers": 448385,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGUzOGJjNjk4NjBhMWI4NmNlMjhiZjNkNDkxZmUxZTM4NDZmNDk2",
+  "snapshot_id": "MCw3YTdlNzAwZmI2ZGNjNmU4NDNhNDY5ZWE2ZjZkYTRlYjczNDg5MzM5",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 206019,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 165800,
       "name": "Kernkraft 400 (A Better Day)",
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/4fmtd5CduUYx2bmMOvXwX4"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 206019,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/4tRhRLBxIZ34Iw0eCuiC03"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -631,26 +631,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
+        "name": "Praising You (feat. Fatboy Slim)",
+        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
       },
       "artists": [
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         },
         {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
         }
       ],
-      "duration_ms": 157205,
-      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+      "duration_ms": 164693,
+      "name": "Praising You (feat. Fatboy Slim)",
+      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -679,22 +675,26 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Praising You (feat. Fatboy Slim)",
-        "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
+        "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         },
         {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
         }
       ],
-      "duration_ms": 164693,
-      "name": "Praising You (feat. Fatboy Slim)",
-      "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
+      "duration_ms": 157205,
+      "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -885,6 +885,26 @@
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Quest For Fire",
@@ -951,6 +971,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
         "name": "Million Dollar Baby",
         "url": "https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC"
       },
@@ -967,18 +1003,22 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+        "name": "In The Yuma (feat. Aatig)",
+        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
         }
       ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
+      "duration_ms": 156215,
+      "name": "In The Yuma (feat. Aatig)",
+      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1003,26 +1043,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "In The Yuma (feat. Aatig)",
-        "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 156215,
-      "name": "In The Yuma (feat. Aatig)",
-      "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1063,6 +1083,26 @@
       "duration_ms": 141931,
       "name": "Rain In Ibiza",
       "url": "https://open.spotify.com/track/5u8Y0lAUlBLwuhpXSDUGf4"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1115,42 +1155,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
         }
       ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
+        "name": "Lose You (Felix Jaehn Remix)",
+        "url": "https://open.spotify.com/album/2cEfd4AeRYQRRxiT0Q4BHu"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 156404,
+      "name": "Lose You - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1YXS5uFWQnwQbN9dmXgYrC"
+    },
+    {
+      "added_at": "2023-05-05 04:01:00",
+      "album": {
         "name": "10 Out Of 10 (feat. Kylie Minogue)",
         "url": "https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0"
       },
@@ -1511,30 +1531,6 @@
       "duration_ms": 170602,
       "name": "10 Out Of 10 (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Guddi Riddim",
-        "url": "https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
-        },
-        {
-          "name": "Nooran Sisters",
-          "url": "https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Guddi Riddim",
-      "url": "https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G"
     }
   ],
   "unique_name": "Beast Mode Dance",

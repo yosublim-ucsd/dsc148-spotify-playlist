@@ -1292,12 +1292,12 @@
       },
       "artists": [
         {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        },
-        {
           "name": "Lucas Arnau",
           "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
         }
       ],
       "date_added": "2023-04-28",

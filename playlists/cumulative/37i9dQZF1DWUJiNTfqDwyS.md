@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-161 songs - 11 hr 27 min
+162 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Battery](https://open.spotify.com/track/41qtH15yLXrhzzP2Dx9Vcm) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Blackening](https://open.spotify.com/album/5sZi94xs9Q1aUpFVLx9RLI) | 5:04 | 2022-05-25 | 2022-07-29 |
 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 | 2022-05-25 |  |
 | [Blank Space](https://open.spotify.com/track/2ZiJidFdQ30nVJEP4u44l3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 4:00 | 2023-02-20 |  |
+| [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 | 2023-05-10 |  |
 | [Blinding Lights](https://open.spotify.com/track/7js8kgidJpIpFuFaB8e8qp) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/6kuMKz2YDKCmHd5njGXsbi) | 3:03 | 2023-02-20 | 2023-05-05 |
 | [Blue on Black](https://open.spotify.com/track/0JHREzo9WzIP4vyybhSKPa) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Blue on Black](https://open.spotify.com/album/0kGUgf5DwZvaDbjmupbPsc) | 4:34 | 2022-06-13 | 2023-02-20 |
 | [Blue On Black \(feat\. Kenny Wayne Shepherd, Brantley Gilbert & Brian May\)](https://open.spotify.com/track/3lwpE0SEaQV5DWNjqMtYEk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Brian May](https://open.spotify.com/artist/2NcbLU1bW55eahD0UgD7U3) | [Blue On Black \(feat\. Kenny Wayne Shepherd, Brantley Gilbert & Brian May\)](https://open.spotify.com/album/5CmhQvNnH3x3xObNLccLxh) | 4:34 | 2022-05-25 | 2022-07-23 |
@@ -135,7 +136,7 @@
 | [Small Town Boy](https://open.spotify.com/track/0jfNgP8sP2tnOloYDw0HoM) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Symbol Of Life](https://open.spotify.com/album/1lvVqodR4aT3R8WemeIgDN) | 5:17 | 2023-02-20 |  |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/0XiXBC9yfWtIryuu3vYW34) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Smells Like Teen Spirit](https://open.spotify.com/album/4VjxICkdJ5s6hCLFK8cPL2) | 4:32 | 2022-05-25 | 2022-07-20 |
 | [Somebody Told Me](https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Somebody Told Me](https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS) | 3:19 | 2023-02-20 |  |
-| [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 | 2022-05-25 |  |
+| [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 | 2022-05-25 | 2023-05-10 |
 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 | 2023-02-20 |  |
 | [SOS](https://open.spotify.com/track/6tH3UEamkNsZjZZqlu1egP) | [Amberian Dawn](https://open.spotify.com/artist/01DQQFGEOzbFugH5FcVAgI) | [SOS](https://open.spotify.com/album/3hudUutcEtY3bKxEyA75IM) | 3:01 | 2022-10-06 | 2023-02-20 |
 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 | 2022-05-25 |  |

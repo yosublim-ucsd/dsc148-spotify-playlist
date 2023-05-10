@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Introspect",
+        "url": "https://open.spotify.com/album/6AxKd6jWuhiHs5hiVPi92Y"
+      },
+      "artists": [
+        {
+          "name": "Shin Suzuma",
+          "url": "https://open.spotify.com/artist/6a3Jke3IQZCLtEkZOjro89"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198277,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1RrzJG3MHtVbgmnpFuUKG9"
+    },
+    {
+      "album": {
         "name": "Always Be Mine",
         "url": "https://open.spotify.com/album/25JlVcp9yswRjYpzsllnzB"
       },
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 158250,
       "name": "Fristad",
       "url": "https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2"
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 171615,
       "name": "Hour Glass",
       "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
@@ -4715,6 +4733,24 @@
     },
     {
       "album": {
+        "name": "Keys of the mountains",
+        "url": "https://open.spotify.com/album/236fA8DlkFs1wmaA7mJEnl"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Kruse",
+          "url": "https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128813,
+      "name": "Keys of the mountains",
+      "url": "https://open.spotify.com/track/1w3FLtV4CGE1gZCXP2NtWC"
+    },
+    {
+      "album": {
         "name": "Kokyu",
         "url": "https://open.spotify.com/album/5C72uHPlWlDljYbWxVGjhU"
       },
@@ -4978,7 +5014,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 130291,
       "name": "Le cr\u00e9puscule",
       "url": "https://open.spotify.com/track/7EFwlg7IwnYdrfNCYCOGDd"
@@ -5371,6 +5407,24 @@
     },
     {
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX"
+      },
+      "artists": [
+        {
+          "name": "Ben Crosland",
+          "url": "https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143406,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL"
+    },
+    {
+      "album": {
         "name": "Lullaby For L",
         "url": "https://open.spotify.com/album/5iWaH7AclBCLgV8cgJQ7Tc"
       },
@@ -5566,6 +5620,24 @@
       "duration_ms": 182500,
       "name": "Mare\u0301e",
       "url": "https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD"
+    },
+    {
+      "album": {
+        "name": "mathilde",
+        "url": "https://open.spotify.com/album/2s1gEWS04b7A2SmAwO5ijP"
+      },
+      "artists": [
+        {
+          "name": "Klaus Weissmuller",
+          "url": "https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138673,
+      "name": "mathilde",
+      "url": "https://open.spotify.com/track/5iZp32nOmq9h1vIMVtjkAR"
     },
     {
       "album": {
@@ -5984,7 +6056,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 189250,
       "name": "Morgenstern",
       "url": "https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA"
@@ -6038,7 +6110,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 119523,
       "name": "Moving Slowly",
       "url": "https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3"
@@ -7018,6 +7090,24 @@
       "duration_ms": 230183,
       "name": "Parisian Walkways",
       "url": "https://open.spotify.com/track/0Iv417JLAl33iLcVvfnkul"
+    },
+    {
+      "album": {
+        "name": "Particle rise",
+        "url": "https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR"
+      },
+      "artists": [
+        {
+          "name": "Ama Hemmah",
+          "url": "https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152850,
+      "name": "Particle rise",
+      "url": "https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3"
     },
     {
       "album": {

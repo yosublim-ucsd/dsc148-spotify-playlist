@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-81 songs - 3 hr 49 min
+82 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Ainda Lembro 2](https://open.spotify.com/track/5zEu047A1dckMMPk2ipsIP) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Ainda Lembro 2](https://open.spotify.com/album/7JmNFkUeNhHBgqAHlOucMP) | 3:00 | 2022-04-29 |  |
 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 | 2022-04-29 |  |
 | [As Luzes da Lua](https://open.spotify.com/track/26WbIQvHX81NlsgsCJQdyv) | [Pedrosa](https://open.spotify.com/artist/41iSmIaCOZWguy6ZVspcF2) | [O Ciclo da Decepção](https://open.spotify.com/album/0u6ZJA3YRfRIJiE2du5zcz) | 3:03 | 2022-09-23 |  |
-| [Atende o Celular](https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/6K0ErGr3QPMvDttVAnG8di) | 2:54 | 2022-04-29 |  |
+| [Atende o Celular](https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/6K0ErGr3QPMvDttVAnG8di) | 2:54 | 2022-04-29 | 2023-05-10 |
+| [Atende o Celular](https://open.spotify.com/track/6EuHqKLUuSp6taKVdfhafF) | [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Nanasai](https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S) | [Atende o Celular](https://open.spotify.com/album/0jryDdYQKwEwB2HrdNuQLs) | 2:54 | 2023-04-28 |  |
 | [BECKSTAR](https://open.spotify.com/track/7yqLFVLpu9i41mQvMkQNUv) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [BECKSTAR](https://open.spotify.com/album/38m3QTMDvnfTMz12tAZmBa) | 2:21 | 2022-04-29 |  |
 | [Com Você](https://open.spotify.com/track/1DpeR4mARvKqjLakvmISxa) | [Clarê](https://open.spotify.com/artist/3tCje10vtuMxVbrL64EsMF) | [Com Você](https://open.spotify.com/album/4cWeVMCz1c5n7kVS0nzEgp) | 3:03 | 2022-04-29 | 2022-06-25 |
 | [Como Se Fosse a Primeira Vez](https://open.spotify.com/track/7feU3MT0RImQ1pC2DJHbCw) | [Victor de Albuquerque](https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD), [Dudu Pacceli](https://open.spotify.com/artist/5O6LBBltqS4jHn90iy85Bj) | [Como Se Fosse a Primeira Vez](https://open.spotify.com/album/0y13SIfG3kpyhMJWx01kYK) | 2:16 | 2022-04-29 |  |

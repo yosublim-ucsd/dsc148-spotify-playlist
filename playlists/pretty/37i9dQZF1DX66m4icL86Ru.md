@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 
 ### [BBE](https://open.spotify.com/playlist/37i9dQZF1DX66m4icL86Ru)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice & Nicki Minaj
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,810 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,213 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX66m4icL86Ru.md) - [plain]
 | 75 | [Feeling Myself](https://open.spotify.com/track/6ORDoQ6jxdfqNyqvUKDHF0) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 3:57 |
 | 76 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 |
 
-Snapshot ID: `MCw0ZWE5YTdmNmY4NzFmYTc0NGIwOTM1NzYwZDhhNzcyZDkzODVmMWM5`
+Snapshot ID: `MCxjZWU4ZDQ2NzA2NDY5NTZlMjZiMWE5MzQ3Yjk3M2UzNWUwNzIwNzdm`

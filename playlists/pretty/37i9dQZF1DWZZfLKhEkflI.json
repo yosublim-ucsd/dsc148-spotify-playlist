@@ -1,12 +1,12 @@
 {
   "description": "Funky Jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
-  "num_followers": 60761,
+  "num_followers": 60798,
   "original_name": "Hard Bop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzc2ZWFlODI3YTRjNzBlNDRjODRjMzQxZDJiNDkzN2UwYmU1YjY1",
+  "snapshot_id": "MCw1OGY0OWZmMzA0YWExYWE1MDU2ZDU3MDJiN2M3OTg5YTE0MjIyMTRm",
   "tracks": [
     {
       "added_at": "2023-05-04 09:37:08",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-05-04 09:37:08",
       "album": {
-        "name": "Back To The Tracks",
-        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
+        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
       },
       "artists": [
         {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
         }
       ],
-      "duration_ms": 483293,
-      "name": "Back To The Tracks",
-      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
+      "duration_ms": 511853,
+      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
     },
     {
       "added_at": "2023-05-04 09:37:08",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-05-04 09:37:08",
       "album": {
-        "name": "No Room For Squares (Remastered 2000 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3qer0IWDm6mSLUJy4ji0Oi"
+        "name": "Back To The Tracks",
+        "url": "https://open.spotify.com/album/1bMz9hj91rrk0lj8SbTdgE"
       },
       "artists": [
         {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
         }
       ],
-      "duration_ms": 511853,
-      "name": "Up A Step - Remastered 2000 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/3ltk3yU2BcHXixu1ykWsCo"
+      "duration_ms": 483293,
+      "name": "Back To The Tracks",
+      "url": "https://open.spotify.com/track/5HkIObvZo2mjjt3JMJRqGR"
     },
     {
       "added_at": "2023-05-04 09:37:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-04 09:37:08",
       "album": {
-        "name": "Lee-Way",
-        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 565106,
-      "name": "These Are Soulful Days",
-      "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
-    },
-    {
-      "added_at": "2023-05-04 09:37:08",
-      "album": {
         "name": "Rollin' With Leo (Remastered)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 385200,
       "name": "Rollin' With Leo - Remastered",
       "url": "https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3"
+    },
+    {
+      "added_at": "2023-05-04 09:37:08",
+      "album": {
+        "name": "Lee-Way",
+        "url": "https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 565106,
+      "name": "These Are Soulful Days",
+      "url": "https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs"
     },
     {
       "added_at": "2023-05-04 09:37:08",

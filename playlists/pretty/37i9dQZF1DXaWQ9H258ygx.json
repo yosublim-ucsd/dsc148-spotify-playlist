@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/keithpowers/\">Keith Powers</a>",
-  "num_followers": 48806,
+  "num_followers": 49018,
   "original_name": "Keith Power's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2MzZmFjNjM2YjcwM2RlM2RhMzQzZTgyNTMzNDExMGViYzJlZjBh",
+  "snapshot_id": "MCxlYjMwYmJmMTdmMmE0OWRlMGRhMzYxMmNjMDVmYTExZDI4ZTM2MTMy",
   "tracks": [
     {
       "added_at": "2022-10-03 04:00:00",
@@ -667,6 +667,26 @@
     {
       "added_at": "2022-10-03 04:00:00",
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
+      },
+      "artists": [
+        {
+          "name": "River Tiber",
+          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 152250,
+      "name": "West",
+      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
+    },
+    {
+      "added_at": "2022-10-03 04:00:00",
+      "album": {
         "name": "The House Is Burning",
         "url": "https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 301594,
       "name": "King Of The Fall",
       "url": "https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm"
-    },
-    {
-      "added_at": "2022-10-03 04:00:00",
-      "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU"
-      },
-      "artists": [
-        {
-          "name": "River Tiber",
-          "url": "https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 152250,
-      "name": "West",
-      "url": "https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY"
     },
     {
       "added_at": "2022-10-03 04:00:00",

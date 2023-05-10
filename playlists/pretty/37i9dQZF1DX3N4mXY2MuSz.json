@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGI2YWRhZjhjNmMzZWM3YmFjOTU0YWVlMjE5ODc1ZGNiYTg4Y2E2",
+  "snapshot_id": "MCxkYjEwZTBjN2UwOTBiOTNmZDkwYzFkODcxYmRjYjFmZmE5MTVmY2Y1",
   "tracks": [
     {
       "added_at": "2022-11-09 11:58:09",
@@ -59,22 +59,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "McCartney II (Special Edition)",
-        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
-      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Take Off Your Pants And Jacket",
         "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 42400,
       "name": "Happy Holidays, You Bastard",
       "url": "https://open.spotify.com/track/5lE1g5Qsi1stIjYh8O5FC1"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx"
     },
     {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Is This Christmas? - Radio Edit",
+      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
+    },
+    {
       "added_at": "2022-11-18 01:09:25",
       "album": {
         "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
@@ -359,22 +375,6 @@
       "duration_ms": 267773,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
-        "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
-      },
-      "artists": [
-        {
-          "name": "The Wombats",
-          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Is This Christmas? - Radio Edit",
-      "url": "https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -683,18 +683,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Punk Goes Christmas (Deluxe)",
-        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
+        "name": "Christmas Song",
+        "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
       },
       "artists": [
         {
-          "name": "Jarrod Alonge",
-          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
         }
       ],
-      "duration_ms": 207255,
-      "name": "12 Days Of A Pop-Punk Christmas",
-      "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
+      "duration_ms": 174000,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -731,18 +731,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Song",
-        "url": "https://open.spotify.com/album/1xQ5XJsYtbSUvsJrEkZCW9"
+        "name": "Punk Goes Christmas (Deluxe)",
+        "url": "https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "Jarrod Alonge",
+          "url": "https://open.spotify.com/artist/3zLWOB0I86EiVgG5NrX1ht"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
+      "duration_ms": 207255,
+      "name": "12 Days Of A Pop-Punk Christmas",
+      "url": "https://open.spotify.com/track/3a0JYuE4yo9xtGon59a7t9"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Horror Xmas",
         "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 132637,
       "name": "You\u2019re a Mean One, Mr. Grinch",
       "url": "https://open.spotify.com/track/385QXeZY8UHFDde2FvFwuS"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/2sgvSTSQ2ZxyBeL587NAjT"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -843,6 +843,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Horror Xmas",
+        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 102483,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -875,6 +891,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Punk Goes Christmas",
+        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "I Had A Heart",
+      "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "It's Christmas And I Fucking Miss You",
         "url": "https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn"
       },
@@ -891,38 +923,6 @@
       "duration_ms": 161083,
       "name": "It's Christmas And I Fucking Miss You",
       "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Horror Xmas",
-        "url": "https://open.spotify.com/album/51xCpAiS0IrrmV2t7evgiR"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 102483,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/2IHqPevgWedxpKHPVMHX5g"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Goes Christmas",
-        "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "I Had A Heart",
-      "url": "https://open.spotify.com/track/32l3HV3vwkoVjagjLGdJll"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -959,6 +959,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Christmas With Weezer",
+        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 92706,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Stoke Extinguisher",
         "url": "https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "The Human Highlight Reel",
-        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
-      },
-      "artists": [
-        {
-          "name": "Man Overboard",
-          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Decemberism",
-      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas With Weezer",
-        "url": "https://open.spotify.com/album/0CxHijFYwiAVHCGmwN0hAq"
+        "name": "The Human Highlight Reel",
+        "url": "https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3"
       },
       "artists": [
         {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+          "name": "Man Overboard",
+          "url": "https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO"
         }
       ],
-      "duration_ms": 92706,
-      "name": "Hark! The Herald Angels Sing",
-      "url": "https://open.spotify.com/track/6myYlIrIBlKhGxYpRwfh03"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Santa Baby",
-        "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 158408,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
+      "duration_ms": 184880,
+      "name": "Decemberism",
+      "url": "https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH"
+      },
+      "artists": [
+        {
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
+        }
+      ],
+      "duration_ms": 158408,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
         "name": "Happy Skalidays",
         "url": "https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 228868,
       "name": "Skank For Christmas",
       "url": "https://open.spotify.com/track/3VblSLAooy2B3mFwHbApLy"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 188031,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2021-11-19 13:39:50",
       "album": {
-        "name": "Christmas Rock",
-        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 188031,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/3LIvL6OHsGWIdOzLz8sv9c"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 209373,
       "name": "Father Christmas",
       "url": "https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn"
+    },
+    {
+      "added_at": "2021-11-19 13:39:50",
+      "album": {
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Punk Rawk Christmas",
+      "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
     },
     {
       "added_at": "2021-11-19 13:39:50",
@@ -1167,22 +1183,6 @@
       "duration_ms": 234893,
       "name": "Things I Want",
       "url": "https://open.spotify.com/track/7gfa6TiFiesmwQjUbIzv8c"
-    },
-    {
-      "added_at": "2021-11-19 13:39:50",
-      "album": {
-        "name": "Punk Rawk Christmas",
-        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
-      },
-      "artists": [
-        {
-          "name": "MxPx",
-          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Punk Rawk Christmas",
-      "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
     },
     {
       "added_at": "2021-11-19 13:39:50",

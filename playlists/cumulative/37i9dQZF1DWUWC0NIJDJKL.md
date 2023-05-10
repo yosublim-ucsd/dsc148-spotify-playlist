@@ -4,7 +4,7 @@
 
 > The perfect indie mixtape for spring & summer.
 
-282 songs - 16 hr 7 min
+283 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,7 +257,7 @@
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2023-04-11 |  |
 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 | 2020-01-31 |  |
 | [The Joke \- Bayonne Remix](https://open.spotify.com/track/51BzuUGYPrKP9j1kG64OQ3) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP), [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [The Joke \(Bayonne Remix\)](https://open.spotify.com/album/4QfgH4IG1WDCxwN3dwluWJ) | 4:27 | 2020-01-31 | 2022-06-17 |
-| [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2023-03-28 |  |
+| [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 | 2023-03-28 | 2023-05-10 |
 | [The King](https://open.spotify.com/track/4M6XHrTc4RtdgKN9gzEAM6) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/7jLKIQhOF5Umjmo99VY9AM) | 3:26 | 2022-06-10 | 2022-07-29 |
 | [The Loop](https://open.spotify.com/track/4E8SsodyGGLgv7HPeSisw5) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [MAHAL](https://open.spotify.com/album/16AQyjz1z9rOsTm6iVrBUR) | 4:01 | 2022-06-10 | 2022-07-20 |
 | [The Ring](https://open.spotify.com/track/1anctgvz1HhbvrO6hb6fGa) | [Ev Bird](https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [The Ring](https://open.spotify.com/album/7cf8z97FmxtiztoxqZX69J) | 3:09 | 2022-08-24 | 2023-03-21 |
@@ -281,6 +281,7 @@
 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 | 2022-09-02 |  |
 | [When Am I Gonna Lose You](https://open.spotify.com/track/7ze7X8r4fopBs9ZRtwYFOX) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [When Am I Gonna Lose You / Café Amarillo](https://open.spotify.com/album/5H8ISmLN3YojIx9mM9CslN) | 4:24 | 2020-01-31 | 2022-07-29 |
 | [When I'm With You](https://open.spotify.com/track/7Cb9fYGYtFaANCaqYEOCDC) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy For You](https://open.spotify.com/album/2lLjGAmDHjCNiydZ4Yp8bT) | 2:58 | 2020-01-31 | 2022-07-10 |
+| [When The Day Is Done](https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When The Day Is Done](https://open.spotify.com/album/6lzMbDwLT43JtvRbmcuBLn) | 3:00 | 2023-04-28 |  |
 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 | 2022-06-10 |  |
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2022-06-10 | 2023-04-09 |
 | [Witches](https://open.spotify.com/track/4CZgaNdobtnTfBevPBje0c) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/63OtMpfcpIe7FiXY2Cpb4v) | 3:15 | 2022-06-10 | 2022-07-24 |

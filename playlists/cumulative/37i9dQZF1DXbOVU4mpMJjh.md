@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-679 songs - 2 day 1 hr 39 min
+680 songs - 2 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,7 +156,7 @@
 | [Dreamsville](https://open.spotify.com/track/24M4rafgMYq9b49CEYPpm9) | [David Halliday](https://open.spotify.com/artist/1tPE7mBsjG1eu2w2BikKry) | [Dreamsville](https://open.spotify.com/album/71Vzhdj0zMdTZKh2YNmld7) | 7:57 | 2022-04-14 | 2022-09-23 |
 | [Duke Ellington's Sound of Love](https://open.spotify.com/track/48jxbecHxRFUKKG53mJRjl) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [Plays Charles Mingus](https://open.spotify.com/album/5qjOXWAkl5levqzlFxFj4f) | 3:24 | 2022-08-10 | 2022-08-30 |
 | [Early Morning Thoughts](https://open.spotify.com/track/4QUlDSxJVMTYKaz3xBQ8F9) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Early Morning Thoughts](https://open.spotify.com/album/3GlIiRzG6zVuAU683UpagO) | 6:44 | 2022-09-13 |  |
-| [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 |  |
+| [Easy Living](https://open.spotify.com/track/1UuGIqqp2QhYZU0N2PRh9G) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/5IVK6ouWKcCUNLygavq4pg) | 4:53 | 2022-06-30 | 2023-05-10 |
 | [Easy Living](https://open.spotify.com/track/78RAfPGFpTUqnPSTV0LcmT) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr) | [How My Heart Sings](https://open.spotify.com/album/79jNUOF7HaumY5JoP3TpVr) | 4:53 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/082zyi189u5lRp2gPkE8Lb) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/1FCCVEhBrN6ISs9xHmf9kr) | 4:49 | 2022-04-14 | 2022-07-29 |
 | [Eleanor](https://open.spotify.com/track/0e73D9vZrxLVUPRhHae6r1) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Jimmy Cobb](https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ) | [West of 5th](https://open.spotify.com/album/6LLXvVf6WOOrL4YFy9BVy1) | 4:49 | 2022-06-30 | 2022-10-05 |
@@ -193,6 +193,7 @@
 | [For Wee Folks](https://open.spotify.com/track/7kFpCWoKe2iqZSsBe9xwm5) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Countdown](https://open.spotify.com/album/4WHtmqNJCJtXiaQojOHHEC) | 6:28 | 2022-06-30 | 2022-10-02 |
 | [Forbidden Fruit](https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr) | 3:16 | 2022-06-30 | 2022-10-08 |
 | [Forbidden Fruit](https://open.spotify.com/track/6Ip3L1WWFnlGUp55H4A0G0) | [Kandace Springs](https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O) | [Kandace Springs](https://open.spotify.com/album/4jrfba3omPZcFt9YXiaqt4) | 3:16 | 2022-04-14 | 2022-07-29 |
+| [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-04 |  |
 | [Forever and Ever](https://open.spotify.com/track/0AaTNHKAophhP8sZuGqg1I) | [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Silent World](https://open.spotify.com/album/1TpgHVGapenLBD1Mcboy1L) | 4:32 | 2023-03-09 | 2023-04-19 |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-12-01 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-09-29 |  |

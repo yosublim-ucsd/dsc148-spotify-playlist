@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Cisco Swank Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,446 likes - 90 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,459 likes - 90 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 2 | [7PM](https://open.spotify.com/track/1dXG8xVXSiYmsfC5FqNPqk) | [Harrison](https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT) | [Birds, Bees, The Clouds & The Trees](https://open.spotify.com/album/1YSgHnC5sdVXfT9E5fOUVJ) | 1:31 |
 | 3 | [\(If You Don't Leave\) The City Will Kill You](https://open.spotify.com/track/1Tyueib4sanXNBBgH59EOr) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf), [Daedelus](https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK) | [\(If You Don’t Leave\) The City Will Kill You](https://open.spotify.com/album/2NDA4o8vqNr0IpwHJIUPXJ) | 5:11 |
 | 4 | [RagJazz](https://open.spotify.com/track/7DAuQoUWFq40NBVXwWs4xU) | [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [RagJazz](https://open.spotify.com/album/3zxutQ3DFl5sBX7sxI2nVZ) | 4:19 |
-| 5 | [If the Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If the Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
+| 5 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
 | 6 | [Free Form](https://open.spotify.com/track/3YvKlVywx0Tv1WqM4j42H1) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Amané Suganami](https://open.spotify.com/artist/6oUpfsBBLUsGlpMZng9QbT), [Yelfris Valdés](https://open.spotify.com/artist/5maB2WqB6U2Mi7DKZQYmcS), [Luke Wynter](https://open.spotify.com/artist/2n5NBtzyUBpq0LuWXyknFk), [Temesgen](https://open.spotify.com/artist/6YpRbuU8Dl3yezRNhM85XN) | [Nrg 1](https://open.spotify.com/album/2grKccYdedT1GvygqBerfD) | 3:36 |
 | 7 | [Oropendola](https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Oropendola](https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7) | 4:15 |
 | 8 | [Corner of Memories](https://open.spotify.com/track/29gW43okMTzFR6P9g0yi41) | [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m), [Milye](https://open.spotify.com/artist/27KnUptbEwPYfjC1KMKK9P), [flywilliums](https://open.spotify.com/artist/7uhWdP3433h56j0KPmadTF), [Woojinee](https://open.spotify.com/artist/5VrBgtUUMPP1yGE6mIPUNu) | [Corner of Memories](https://open.spotify.com/album/2o29BgF0bfW6uqazMyx0KS) | 3:12 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 89 | [Mr\. Lament](https://open.spotify.com/track/0eyeRgx0rRxaENkn9GEgWR) | [Roy Markson](https://open.spotify.com/artist/3DK9rlUAD6yzvic9UUvYSc) | [Mr\. Lament](https://open.spotify.com/album/2AqI1T4b7SIiQKvWNvQrqJ) | 4:15 |
 | 90 | [Mary Lou](https://open.spotify.com/track/3o3DabT0Jh4GXZIm04oqXk) | [Ilaria Crociani](https://open.spotify.com/artist/7dTrQ3T3eXR3eJ4Fnq9K4S), [Paul Grabowsky](https://open.spotify.com/artist/6GGbZHdSd5J2OrJrbDbais), [Mirko Guerrini](https://open.spotify.com/artist/3auQkdrG1Rf4ZkgvCPGZy0), [Geoff Hughes](https://open.spotify.com/artist/453uc8Chuvc6U3GdXOh6in), [Ben Robertson](https://open.spotify.com/artist/7zL7k6ewoFxM7jCCQN99wo), [Niko Schauble](https://open.spotify.com/artist/09fqsjX41xtfPb5dJznRDr) | [Mary Lou](https://open.spotify.com/album/4WWrLpB4RpAl6Mb0I9ZoqI) | 4:52 |
 
-Snapshot ID: `MCwxNzBkY2Q2NDZiOGZkOTVjMTVjMmJhNWNhZDY2YjBlYjZjZDg3NDUy`
+Snapshot ID: `MCw0Nzg0YzYyYTJkNjY1OGJkNmVkNGQyOTM4NzU4YTc4MTM1ODg3ZDI0`

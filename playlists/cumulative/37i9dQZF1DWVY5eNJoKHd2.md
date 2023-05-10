@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-308 songs - 19 hr 34 min
+309 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-05-06 | 2022-10-18 |
 | [nobody else](https://open.spotify.com/track/5tNsiJvMrreUQASdTU4FVh) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [nobody else](https://open.spotify.com/album/2cROz0PXt0BsCGnQXRApNf) | 2:32 | 2022-04-01 | 2022-04-07 |
 | [Oceans Niagara](https://open.spotify.com/track/2hFlY5xuAXrjY24v3a1mpZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Oceans Niagara](https://open.spotify.com/album/05lNHHSVcb58JiL1d0kPIr) | 4:31 | 2023-01-13 | 2023-01-24 |
-| [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2023-03-29 |  |
+| [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2023-03-29 | 2023-05-10 |
 | [On Melancholy Hill](https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:53 | 2021-12-16 |  |
 | [Once Twice Melody](https://open.spotify.com/track/6CKsbTf8sdbVrouTPRmecU) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/4TXjlsgAAdeiIZl63oMpW4) | 4:44 | 2022-02-18 | 2022-04-17 |
 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-04-20 |  |
@@ -232,6 +232,7 @@
 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 | 2021-12-16 | 2022-07-29 |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2022-01-20 | 2022-07-13 |
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2021-12-16 |  |
+| [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-05-03 |  |
 | [sever the blight](https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [sever the blight](https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59) | 2:54 | 2023-05-04 |  |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2021-12-16 |  |
 | [Shoestring](https://open.spotify.com/track/0NEKQk8LR8m8gBNnG3QFzk) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Shoestring](https://open.spotify.com/album/5G6tyxzG08lXIfhMSHzxRH) | 3:58 | 2022-02-25 | 2022-07-29 |

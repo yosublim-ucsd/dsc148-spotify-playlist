@@ -1,12 +1,12 @@
 {
   "description": "lighters up for these awesome rock ballads.",
-  "num_followers": 665071,
+  "num_followers": 665243,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzNhYjI5ZmE3NzliM2JmZDI0Mjc5ODg1ZjA2ZWEzZjUxN2NkMjZj",
+  "snapshot_id": "MCxiNjQ3NjZlOTE4MGRhODIxM2MzNTg3MzVlNmFlMTRkY2Y5MjAxOWU0",
   "tracks": [
     {
       "added_at": "2023-01-20 05:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 260093,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
         "name": "Ordinary Man (feat. Elton John)",
         "url": "https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 301730,
       "name": "Ordinary Man (feat. Elton John)",
       "url": "https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 260093,
-      "name": "Never There",
-      "url": "https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-20 05:00:00",
       "album": {
-        "name": "Perdida",
-        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 261880,
-      "name": "Fare Thee Well",
-      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 215946,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2tUhCTpGeEfssyYTeu0chm"
+    },
+    {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Perdida",
+        "url": "https://open.spotify.com/album/27evZfDFySSv4dcje8afMI"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 261880,
+      "name": "Fare Thee Well",
+      "url": "https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj"
     },
     {
       "added_at": "2023-01-20 05:00:00",

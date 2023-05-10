@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-135 songs - 10 hr 36 min
+136 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Better Off Alone](https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU) | 3:34 | 2022-04-13 | 2022-07-20 |
 | [Better Off Alone](https://open.spotify.com/track/4u4JMXuhg94qU88lzeiiuq) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Better Off Alone](https://open.spotify.com/album/6TQUSCFEAaprlLgqBgMSXb) | 3:34 | 2022-04-13 | 2022-11-13 |
 | [Better Off Alone](https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj) | [Alice Deejay](https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED) | [Who Needs Guitars Anyway?](https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU) | 3:34 | 2022-04-13 | 2022-12-28 |
-| [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 | 2022-04-13 |  |
+| [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 | 2022-04-13 | 2023-05-10 |
 | [Blue Fear](https://open.spotify.com/track/4ljvM25QQsr2qRYnN5COID) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Trance Top 1000 \- The Legends](https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0) | 3:40 | 2022-04-13 | 2022-04-21 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/1zsDbmrf4ZkjW5hsSsaDjO) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/43baGAToTn6j7MMy7YU0yT) | 7:36 | 2022-04-13 | 2022-07-29 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2022-04-13 | 2023-05-07 |
@@ -136,6 +136,7 @@
 | [Tuvan](https://open.spotify.com/track/1QH83zBuFEy7Tbgf2UvAnD) | [GAIA](https://open.spotify.com/artist/3Jkc5q9qBSNOTf3IvAyJW9) | [Tuvan](https://open.spotify.com/album/1RCkW5PuJuuYQYDmkin7WH) | 2:50 | 2023-03-10 |  |
 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 | 2023-03-10 |  |
 | [Universal Nation](https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [Trance Top 1000 \- The Best Of](https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe) | 3:45 | 2022-04-13 |  |
+| [We Control The Sunlight](https://open.spotify.com/track/7LpshpG8snNJYdD7TnHS0I) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Jwaydan](https://open.spotify.com/artist/5Ft69LRmkksL2qyqsQ9XXp) | [Armada Collected: Aly & Fila](https://open.spotify.com/album/7HWZDqLdT72qEKhiQrOCu1) | 3:46 | 2023-03-10 |  |
 | [We're All We Need](https://open.spotify.com/track/7jji8nfxJ84AJkUSpgruPL) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [We Are All We Need](https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW) | 4:22 | 2023-03-10 |  |
 | [What It Feels Like for a Girl \- Above & Beyond Club Radio Edit](https://open.spotify.com/track/38OrcY3HY0NiFuBpiwBnsL) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Jonathan Grant](https://open.spotify.com/artist/0VY5KMrhsgfdylUXjZSc8k), [Paavo Siljamäki](https://open.spotify.com/artist/3Oh2QC2LtfH7eTkzOPLkFl), [Tony McGuinness](https://open.spotify.com/artist/1zLJrgyCBc6rszAuVayjyy) | [What It Feels Like For A Girl](https://open.spotify.com/album/2uibNarDUAIjm4ukscPxAu) | 3:44 | 2022-12-28 | 2023-04-11 |
 | [You're a Superstar \- Radio Edit](https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr) | [Love Inc.](https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx) | [Party Hits: Summer Edition](https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ) | 3:30 | 2022-04-13 | 2022-04-21 |

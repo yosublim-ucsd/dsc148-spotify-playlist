@@ -4,7 +4,7 @@
 
 > New Hip Hop from India\. Cover\- Raja Kumari
 
-100 songs - 5 hr 27 min
+101 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Making The Moves](https://open.spotify.com/track/61LflvrT3qT2P3nvgeJPpW) | [Young Galib](https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o) | [Making The Moves](https://open.spotify.com/album/5LIFHZSsZpwmk7CBpq2uDz) | 2:48 | 2023-03-29 |  |
 | [Mar Jaayega](https://open.spotify.com/track/4IkkAPhs4otYakD7FAYSqv) | [Dhruv Sthetick](https://open.spotify.com/artist/4g8Z4if0DrwN5H83ZGpZ44), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Mar Jaayega](https://open.spotify.com/album/1LojtEahZCJwHFFClFp1iz) | 4:03 | 2023-03-29 |  |
 | [Mazze Me](https://open.spotify.com/track/3K08GyP1TOm2Cl8uiXdKEJ) | [Hellac](https://open.spotify.com/artist/2VMayBYkzi84MFU7SAUBwH) | [Mazze Me](https://open.spotify.com/album/6gyv6Ae7By40RVl3Wb7E61) | 4:32 | 2023-03-29 | 2023-04-25 |
+| [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 |  |
 | [My Time](https://open.spotify.com/track/1Y5D5ru6mwruztcdnnk2XB) | [B\-Deep](https://open.spotify.com/artist/5IeItPO4vwq7NdOA27VR7Y), [Rhymster](https://open.spotify.com/artist/3ZdzS4lByIrWU8bXbeDwnN) | [My Time](https://open.spotify.com/album/13HeMZSSyKhXyvEAA8C6fh) | 2:42 | 2023-03-29 | 2023-04-25 |
 | [Naina](https://open.spotify.com/track/0kdErH3y2RpZJXxsLmBWgf) | [Shez](https://open.spotify.com/artist/4VY44gs03ET26RjfICYmBe) | [Naina](https://open.spotify.com/album/4psLiGQKUug3krI0RcKlZI) | 2:45 | 2023-03-29 |  |
 | [NAZAR](https://open.spotify.com/track/2suAYGhBT7vR26s5dNy9OL) | [Kaam Bhaari](https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3), [Bhaari Beatz](https://open.spotify.com/artist/6v9M80x40ECfeJwd7RH8Vk) | [NAZAR](https://open.spotify.com/album/1JDJOJc1gOg4oo5ljm9siA) | 2:38 | 2023-04-04 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,016 likes - 70 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,063 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 14 | [Aw'at \(Acoustic Version\)](https://open.spotify.com/track/0v034Wtk8VdmetOJGMAVZV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at \(Acoustic Version\)](https://open.spotify.com/album/6pQPztLyEyAIPZEzIzOzs1) | 3:05 |
 | 15 | [Kahlete Laayoune](https://open.spotify.com/track/0Vk0PhvVKhXbMj75eaLbu3) | [Babylone](https://open.spotify.com/artist/4sP2g2ixZhad5ZlxPirn8i) | [Brya](https://open.spotify.com/album/7wl8WPzTXuaewp6SeYGFXe) | 4:20 |
 | 16 | [Warda Ala Warda](https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD) | [Fayçal Azizi](https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ), [Sakina Lafdaili](https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl) | [K'lma](https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81) | 5:10 |
-| 17 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
-| 18 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
+| 17 | [Tghayarti](https://open.spotify.com/track/2UCflIlO6RFX1cIfuu2pmR) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [El Rajol El Khashabi](https://open.spotify.com/album/4XL6KSM5Dqu83lzuPprMGm) | 4:09 |
+| 18 | [Ahwak Hiba](https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN) | [هيبة](https://open.spotify.com/artist/4ntBp9iTyEwM06tIVPn3NB), [Zeid Hamdan](https://open.spotify.com/artist/70z9FptZNtsoQ8OeB3p9ks) | [صح النوم](https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j) | 3:19 |
 | 19 | [Ya Bay](https://open.spotify.com/track/0UCLNOF0ZSi7tnENQE60yJ) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Ya Bay](https://open.spotify.com/album/6GVvydaazmv0WjUfmyLAHw) | 4:07 |
 | 20 | [Ssendu \(Voie Lactée\)](https://open.spotify.com/track/2dnfmMMcTNgvzrX1EPd2yz) | [Idir](https://open.spotify.com/artist/73LjFn4z6WTV7MevyPxrRc) | [A Vava Inouva](https://open.spotify.com/album/6DrAbBZLRSPeRjVgxlB1q1) | 3:10 |
 | 21 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 55 | [The Taste of Love](https://open.spotify.com/track/0RFU7SHpffAeG65QzNvy18) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Revelation of Ecstasy and Rebellion](https://open.spotify.com/album/6PmcwICwmNOcQ8o2ZM8qUr) | 5:54 |
 | 56 | [تعال معي](https://open.spotify.com/track/7c47NwOZisO6IEmdfFN4Qv) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6), [Tamer Nafar](https://open.spotify.com/artist/4A5OCxQdnfyO73y9Kgoc30) | [مفرق 48 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03J6HvXUohmOkWMmxFM05S) | 2:44 |
 | 57 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
-| 58 | [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 |
-| 59 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
+| 58 | [Konna Sghar](https://open.spotify.com/track/1I0wn8z1DRR0JA9YWLVah4) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Konna Sghar](https://open.spotify.com/album/10qHkq9kvK4PbUenAbHX0p) | 2:16 |
+| 59 | [Salam](https://open.spotify.com/track/2NHbmvLriduIB96qXrO3yr) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:24 |
 | 60 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 |
 | 61 | [Cliché](https://open.spotify.com/track/4RlXofPu1zxJppCftikBxm) | [Meen](https://open.spotify.com/artist/5n1aTk6a8DcuUKUXbmrUm6) | [3arousit Bkeseen](https://open.spotify.com/album/1nYSZVRS5Pz1Fb6cgO1ne8) | 3:02 |
 | 62 | [Dayman Bekheir](https://open.spotify.com/track/7oOwRp54HH0BpomwZzzvXK) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Dayman Bekheir](https://open.spotify.com/album/683ITXoJlmiLtLv7htGRZc) | 4:06 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 69 | [Wakfa](https://open.spotify.com/track/39u6elNoM6r2ZwjHJ2q5rx) | [Souad Massi](https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k) | [Oumniya](https://open.spotify.com/album/6q0t1SQ8v2P0rfTG2nN9xb) | 4:50 |
 | 70 | [Ombre de mon amant](https://open.spotify.com/track/7FhNnHOK7kdwAYtnXRFzsE) | [Michel Lambert](https://open.spotify.com/artist/6DIgXovySNbDB3K5lTtUKT), [Rima Khcheich](https://open.spotify.com/artist/7FF1EHOrIunUaaW3a79n9y), [Maarten Ornstein](https://open.spotify.com/artist/4MCO3NSa8mKwFCbxHxabJl), [Mike Fentross](https://open.spotify.com/artist/5qX8j53VqHUuxBZE5KB2qH) | [Ombre de mon amant](https://open.spotify.com/album/3yYrA1GcNIHSkMjLqyKge1) | 6:29 |
 
-Snapshot ID: `MCxlZGU0MzdkNzQyOTQyNGVhMGFkMzA2ZjFjNjY2M2ZiMWEyMDlmYjI2`
+Snapshot ID: `MCxkMGE1ZDU3ZmMxMTg4MTg1ZGQxNjgxNTJkM2UyZmE2OWQ5MzM4NTNl`

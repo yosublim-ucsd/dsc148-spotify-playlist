@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Ronboogz; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Linh Ka; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 315781,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/03kIWG1vlvODIlCZ2IKxOv"
@@ -6192,6 +6192,28 @@
       "duration_ms": 157430,
       "name": "Get Some More",
       "url": "https://open.spotify.com/track/3mjH9XG0d5NhlPD47SPeiE"
+    },
+    {
+      "album": {
+        "name": "CHU",
+        "url": "https://open.spotify.com/album/1o5Q4upUUQxQv5P5me3Nid"
+      },
+      "artists": [
+        {
+          "name": "Linh Ka",
+          "url": "https://open.spotify.com/artist/6gXUsziOuoRCgmtm62Nrny"
+        },
+        {
+          "name": "Kewtiie",
+          "url": "https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222072,
+      "name": "Ghosting",
+      "url": "https://open.spotify.com/track/05m4atMU9YaW8Fc4Xcvfqa"
     },
     {
       "album": {
@@ -15904,7 +15926,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 199710,
       "name": "T\u00edn Hi\u1ec7u T\u1eeb Tr\u00e1i Tim",
       "url": "https://open.spotify.com/track/7t9UNtsIIxUyam0rYWSA0t"

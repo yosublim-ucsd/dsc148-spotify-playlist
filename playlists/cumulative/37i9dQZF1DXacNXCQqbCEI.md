@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-252 songs - 18 hr 24 min
+253 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Kuff Kumbia](https://open.spotify.com/track/0baLUARvOaeW1NRkwGjWB7) | [Sabo](https://open.spotify.com/artist/10RszNTsRxSVY5IQOITArN), [Cassady](https://open.spotify.com/artist/1wmNYMPb8bzurTpnHt1Lzy) | [Bersa Discos \#6](https://open.spotify.com/album/6q77N8JBpxNPMyK9hbBLQN) | 4:41 | 2022-04-15 | 2022-04-21 |
 | [Kungfu Cumbia Afrobeat \- Original mix](https://open.spotify.com/track/2Foy01KYBIQlawY1dSbVVN) | [Manati](https://open.spotify.com/artist/5GMDdaAVWX3s1LK9r3Qc3r) | [Nauta](https://open.spotify.com/album/63vw1QvO72pYdKNxUurrK6) | 4:32 | 2022-04-15 | 2022-04-20 |
 | [La Añoranza \- Original Version](https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G) | [Daniel Haaksman](https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Coco Maria](https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge), [Ori Kaplan](https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu), [Will Love](https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu) | [La Añoranza](https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj) | 3:43 | 2021-11-26 | 2022-07-27 |
-| [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 | 2022-04-15 |  |
+| [La Cazadora](https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Acústico](https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc) | 5:13 | 2022-04-15 | 2023-05-10 |
 | [La Corriente](https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg) | [Terror/Cactus](https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq) | [Corriente EP](https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql) | 2:59 | 2021-11-26 | 2022-09-28 |
 | [La Cosecha \- Captain Planet Remix](https://open.spotify.com/track/2gult4wJ3eyiR18mTpZBk0) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Prender el Alma \(Remixed\)](https://open.spotify.com/album/4y3uhN2bdMetvSRhZbGHYd) | 4:22 | 2021-11-26 | 2022-07-24 |
 | [La Cumbia De La Ansiedad](https://open.spotify.com/track/3MQOP2mo0Mb2WQMI1NEjw7) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbias Imaquinarias \- EP](https://open.spotify.com/album/48Qc7UTo9Bwy68JGhJ5gIh) | 5:00 | 2021-11-26 | 2023-05-08 |
@@ -192,6 +192,7 @@
 | [Resistencia](https://open.spotify.com/track/5djxB6YBAiznofQnUsMCet) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Recuerdos de Expiación](https://open.spotify.com/album/7mRiMo2ciSNhFF85xDEuUN) | 3:12 | 2021-11-26 | 2022-11-13 |
 | [Roma \- En Vivo](https://open.spotify.com/track/4eqttIGVlY0K0ZHM2ktQqM) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [En Vivo Desde Acosmo Sound \- Malmö, Suecia](https://open.spotify.com/album/3znRk8OoMxqCjJX6AMhsHw) | 6:25 | 2021-11-26 | 2022-02-10 |
 | [Rosa](https://open.spotify.com/track/1sSUq2MY9J8SI5VJvDqCip) | [Black Mambo](https://open.spotify.com/artist/0wNHERYaIvq0Q6fPWrEyYJ), [Casablanca](https://open.spotify.com/artist/7fjEmxeL2TjPLZ5sUGN1wl) | [Rosa](https://open.spotify.com/album/4fFsdDkjzE5YCHAywV12ms) | 4:04 | 2021-11-26 | 2022-01-22 |
+| [Sakoneta](https://open.spotify.com/track/3nUUBBkEqAYLkdhzCuEWmg) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3jLWAXJ3NdQOoagDdia99w) | 4:45 | 2023-02-13 |  |
 | [Sakoneta](https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 4:45 | 2022-04-15 | 2023-04-30 |
 | [Sakoneta](https://open.spotify.com/track/49Dq0m0JDGJJfz8VqxIt81) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Sakoneta](https://open.spotify.com/album/0KKaGCuDZAyrrkH40KBnEI) | 4:45 | 2021-11-26 | 2022-07-28 |
 | [Sala Nabina \- Karmaâ Remix](https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX) | [IZADORÄ](https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ), [Ayoub Rahhal](https://open.spotify.com/artist/6IVY9D4To5r6rpCHwoFkqZ), [Karmaâ](https://open.spotify.com/artist/3yx74xmlyOAsmyqn0r4iOV) | [Sala Nabina \(Karmaâ Remix\)](https://open.spotify.com/album/2HT5Fus8tASVOThQIGznZA) | 7:14 | 2022-04-15 | 2022-07-03 |

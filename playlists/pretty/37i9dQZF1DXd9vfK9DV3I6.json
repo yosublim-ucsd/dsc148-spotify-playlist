@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 248239,
+  "num_followers": 248482,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YThkOTk4M2VkYzg4ODdiYTg0MTI2MGM4YjcxZmQzNzY3MjM4M2Uy",
+  "snapshot_id": "MCw2ODg4ZGE5NWJiNjVmNGVmYjU0OTIyYzNlYjI1ZDllM2U3NWE0Nzdi",
   "tracks": [
     {
       "added_at": "2023-04-28 15:20:33",
@@ -403,62 +403,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
-      },
-      "artists": [
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Elnur Mikayilov",
-          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6povl65uow8MzCvikHgupz"
-      },
-      "artists": [
-        {
-          "name": "Jean Vayat",
-          "url": "https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K"
-        }
-      ],
-      "duration_ms": 434181,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/7vTLn0nVmaOjRCc3Xx6NR7"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Fade Away",
         "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
       },
@@ -479,6 +423,62 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/3iYzjpqcXvx1cQZH5EfG9m"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5r2g7GoX5wok89UnWyFdai"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6povl65uow8MzCvikHgupz"
+      },
+      "artists": [
+        {
+          "name": "Jean Vayat",
+          "url": "https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K"
+        }
+      ],
+      "duration_ms": 434181,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/7vTLn0nVmaOjRCc3Xx6NR7"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Elnur Mikayilov",
+          "url": "https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
-      },
-      "artists": [
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
@@ -859,22 +839,22 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
       "artists": [
         {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -895,6 +875,26 @@
       "duration_ms": 168000,
       "name": "Deep Anatolia",
       "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/5EB9cQVc2rqBSjvw48BZgG"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/1yfmfunh1tZ2iU3JG30iwo"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Sakaratou Achiqin",
         "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
@@ -1023,22 +1043,18 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Dahlia Girl",
-        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+        "name": "Sireli",
+        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
       "artists": [
         {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+          "name": "Viken Arman",
+          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
         }
       ],
-      "duration_ms": 197052,
-      "name": "Dahlia Girl",
-      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+      "duration_ms": 381818,
+      "name": "Souq",
+      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1063,18 +1079,18 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Sireli",
-        "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
       "artists": [
         {
-          "name": "Viken Arman",
-          "url": "https://open.spotify.com/artist/1xQVwAdSzsF8DO76NsZpMK"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 381818,
-      "name": "Souq",
-      "url": "https://open.spotify.com/track/0siPnJlxtppFRimIQs2jG0"
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1095,22 +1111,6 @@
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2hVQWiAcCZO3ICY0zoHdA2"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "3 to 1",
-        "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
-      },
-      "artists": [
-        {
-          "name": "Monoir",
-          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "3 to 1",
-      "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "El Hawa",
         "url": "https://open.spotify.com/album/5AflaEuukgyI5tzO8ciA9T"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 347855,
       "name": "El Hawa",
       "url": "https://open.spotify.com/track/6T7WDZFKTZVGxZyRMBZ4AR"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "3 to 1",
+        "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
+      },
+      "artists": [
+        {
+          "name": "Monoir",
+          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 219508,
+      "name": "3 to 1",
+      "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1523,26 +1523,6 @@
       "duration_ms": 400000,
       "name": "Izvor",
       "url": "https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
+      },
+      "artists": [
+        {
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
+        },
+        {
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
+        }
+      ],
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1619,26 +1619,6 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1679,6 +1659,26 @@
       "duration_ms": 136000,
       "name": "Cewresamin",
       "url": "https://open.spotify.com/track/30YM9AjfdziE1QJFnKKdLU"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-04-28 15:20:33",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2023-04-28 15:20:33",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2023-04-28 15:20:33",
-      "album": {
         "name": "Stop the Time",
         "url": "https://open.spotify.com/album/23WqBmAtkeKhjzmxYpgVqu"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 181161,
       "name": "Stop the Time",
       "url": "https://open.spotify.com/track/6JmAYUDf96VAP0jzHOcHdF"
+    },
+    {
+      "added_at": "2023-04-28 15:20:33",
+      "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
     },
     {
       "added_at": "2023-04-28 15:20:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 
 > Crush on Crush's K\-R&B and musics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,908 likes - 102 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,938 likes - 102 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uFbqkOlzEH.md) - [plain]
 | 101 | [Peace \(Prod\. By Cosmic Boy\) \(Feat\. Crush, Choi LB\)](https://open.spotify.com/track/6srHgSGinLdhwZCJezlcNd) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [hightechnology](https://open.spotify.com/album/04zlcxqJ5PJ8PY6wwkTmER) | 3:57 |
 | 102 | [You Are My Lady \(해외파 뮤지션 마이콜\)](https://open.spotify.com/track/1F1PRYM5ZKwXX8CKAegvMi) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Mask Singer 64th \(Live Version\)](https://open.spotify.com/album/0GTENfEeLNiEAqynhk8oRN) | 4:25 |
 
-Snapshot ID: `MCw2OTI0MTZlOTliMWM3ODI1MTczMDVjMWZjN2VlYjllMTdhOTY2MWIx`
+Snapshot ID: `MCwzMGJjM2FkOTk5NDBmZTMzYTRhOTEyYzJkN2JlYmQ0MmQ0ZDQ1NGUy`

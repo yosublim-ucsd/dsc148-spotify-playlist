@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,135 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,222 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,13 +19,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 9 | [California Sun \- 2017 Remaster](https://open.spotify.com/track/4dyBuBbYZj1iiK0ywYjYzT) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 2:07 |
 | 10 | [Baby, I Love You](https://open.spotify.com/track/29imR7dda5XqwPRFmby7HS) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 3:44 |
 | 11 | [Judy Is a Punk \- 2016 Remaster](https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:32 |
-| 12 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2j3PFZXmenUxgjjBUIod7F) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 3:53 |
-| 13 | [I Believe in Miracles](https://open.spotify.com/track/6YYGoARcDRYdJu9ezMPzUx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:18 |
+| 12 | [I Believe in Miracles](https://open.spotify.com/track/6YYGoARcDRYdJu9ezMPzUx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Brain Drain](https://open.spotify.com/album/2HTLCIs9enszF8Wj4fm3IP) | 3:18 |
+| 13 | [Bonzo Goes to Bitburg](https://open.spotify.com/track/2j3PFZXmenUxgjjBUIod7F) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Animal Boy](https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh) | 3:53 |
 | 14 | [The KKK Took My Baby Away \- 2002 Remaster](https://open.spotify.com/track/0N8c4Yf3gp8KnngZggvpqi) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 2:30 |
 | 15 | [Do You Wanna Dance? \- 2017 Remaster](https://open.spotify.com/track/1jvzmNw7sVTSDnprPuEi0D) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 1:55 |
 | 16 | [Beat on the Brat \- 2016 Remaster](https://open.spotify.com/track/55mKuESqpfgqe0kooIkTH2) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:31 |
-| 17 | [I Don't Want to Grow Up](https://open.spotify.com/track/1mJ7yK70zjY1VCaRP04ot4) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:44 |
-| 18 | [Commando \- 2017 Remaster](https://open.spotify.com/track/7bmHNcuflaGgUgEV4CuDCA) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:53 |
+| 17 | [Commando \- 2017 Remaster](https://open.spotify.com/track/7bmHNcuflaGgUgEV4CuDCA) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:53 |
+| 18 | [I Don't Want to Grow Up](https://open.spotify.com/track/1mJ7yK70zjY1VCaRP04ot4) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:44 |
 | 19 | [Surfin' Bird \- 2017 Remaster](https://open.spotify.com/track/3GgYsEaTyCeTH3e5JyEyXf) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:37 |
 | 20 | [Havana Affair \- 2016 Remaster](https://open.spotify.com/track/2A0zKcpBgK7v9G2gsimPIY) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:57 |
 | 21 | [We Want the Airwaves \- 2002 Remaster](https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [Outsider \- 2002 Remaster](https://open.spotify.com/track/1eATk8IEwTYkgXWFiDM9qw) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Subterranean Jungle \(Expanded 2005 Remaster\)](https://open.spotify.com/album/0YaEQO8yfc9NHEDiZu8ssX) | 2:10 |
 | 50 | [Gimme Gimme Shock Treatment \- 2017 Remaster](https://open.spotify.com/track/3YD5vO3TvQRoqfU3NYYWnN) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Leave Home \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0iDP2ZcQErXlNrBYFjaaId) | 1:44 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA1YjcyYTU0YjUyOWQxNzhkMTZjNWJjZjBjNTI1YzI1Nw==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAzODY4ZDIyMWZkOTExNmI5MzNiZjNhNGNiMGYzOWVkNg==`

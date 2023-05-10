@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 957213,
+  "num_followers": 957610,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDI2YmQ4YmVjOTNlMzQyZGY1YTg0NmRhYThkYzhiN2RlYzIyNzJi",
+  "snapshot_id": "MCw4YjRlYzljOWJjN2JjYmJlMmM5MjI1ZTEwOWNhMjFkYmQ3M2JhOWJj",
   "tracks": [
     {
       "added_at": "2023-03-04 17:30:31",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Wouldn't It Be Nice",
-      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "For Once In My Life",
         "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 169800,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Wouldn't It Be Nice",
+      "url": "https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 149373,
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "L-O-V-E",
         "url": "https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 161906,
       "name": "You Never Can Tell",
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 149373,
-      "name": "Surfin' U.S.A. - Remastered 2001",
-      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Little Girl Blue (2013 Remastered Version)",
-        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "From the Foundations (Expanded Edition)",
         "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 144000,
       "name": "Hey Lover",
       "url": "https://open.spotify.com/track/0bhwnn2xqnBUcMZDcXNuII"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 173866,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 126960,
       "name": "La Bamba - Single Version",
       "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Here's Little Richard (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 144226,
-      "name": "Tutti Frutti",
-      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -1275,6 +1243,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "duration_ms": 144226,
+      "name": "Tutti Frutti",
+      "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Magical Mystery Tour (Remastered)",
         "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 230386,
       "name": "All You Need Is Love - Remastered 2009",
       "url": "https://open.spotify.com/track/68BTFws92cRztMS1oQ7Ewj"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -1875,6 +1859,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Sherry and 11 Other Hits",
         "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
@@ -1884,9 +1884,9 @@
           "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 148013,
-      "name": "Big Girls Don't Cry",
-      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
+      "duration_ms": 152160,
+      "name": "Sherry",
+      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2000,9 +2000,9 @@
           "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Sherry",
-      "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
+      "duration_ms": 148013,
+      "name": "Big Girls Don't Cry",
+      "url": "https://open.spotify.com/track/00meczE1jpLTX0BBzIGrAR"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Groovin' (Mono)",
         "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 151289,
       "name": "Groovin'",
       "url": "https://open.spotify.com/track/3c2kMiSB86tVq1J4oULmvL"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Herman's Hermits Retrospective",
+        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 153506,
+      "name": "I'm Into Something Good",
+      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Meet The Temptations",
         "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
       },
@@ -2311,18 +2327,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Herman's Hermits Retrospective",
-        "url": "https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW"
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
       "artists": [
         {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 153506,
-      "name": "I'm Into Something Good",
-      "url": "https://open.spotify.com/track/3z6m2FukK7Vd5xYrjOLDLR"
+      "duration_ms": 127733,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2343,22 +2359,6 @@
       "duration_ms": 123360,
       "name": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
       "url": "https://open.spotify.com/track/6yhLR2sVn1IfsScVrR4ocr"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 127733,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/560OsnDa7tpsK2B0krVlOP"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "Wanna Surf?",
+        "url": "https://open.spotify.com/album/7bGmjO5Cthm1SNOwUhLwKE"
+      },
+      "artists": [
+        {
+          "name": "Dick Dale",
+          "url": "https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg"
+        }
+      ],
+      "duration_ms": 135973,
+      "name": "Misirlou",
+      "url": "https://open.spotify.com/track/3OnCnEWgy79xR5pr2kv4TX"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 143200,
       "name": "Travelin' Man - Remastered",
       "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "With A Smile And A Song",
-        "url": "https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 151706,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/0UsdtLayy7SqJ4rUsDMRk8"
     }
   ],
   "unique_name": "Classic Oldies",

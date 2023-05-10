@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-525 songs - 22 hr 30 min
+526 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Otherwise](https://open.spotify.com/track/3thkCuWvpE3yU7PtZiPGXs) | [Alexander Panagopoulos](https://open.spotify.com/artist/2ezAtjuRtLi4loC6Rmyv5p) | [Otherwise](https://open.spotify.com/album/3G6irmF2ZuYVEhY9EgfPaO) | 2:04 | 2022-06-07 | 2022-09-15 |
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2022-06-07 | 2022-09-15 |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2022-06-07 | 2022-09-24 |
+| [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-06-07 |  |
 | [Passing Time](https://open.spotify.com/track/4dVCVkwJFhuLlY3mNia5uk) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Passing Time](https://open.spotify.com/album/0vHNtvr3HDKoi3lfPMiujH) | 2:17 | 2022-06-07 | 2022-09-24 |
 | [Peace Frame](https://open.spotify.com/track/1hEqY5WgZIpNgZKmuFGNax) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Peace Frame](https://open.spotify.com/album/0kSkprStyDhDvoZJwHd6wH) | 2:59 | 2022-06-07 |  |
@@ -359,7 +360,7 @@
 | [Salt Skin](https://open.spotify.com/track/5MKtW4amtrjowQ4z7uWCjU) | [Galen Rise](https://open.spotify.com/artist/7sZcguS7cGilZg03SqOH3R) | [Salt Skin](https://open.spotify.com/album/5uDgyEcwgosiV7lf9n2f40) | 2:55 | 2022-06-07 |  |
 | [Salvador](https://open.spotify.com/track/0k1PA8kqHD51C49Owjcx5S) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Bagatelles](https://open.spotify.com/album/5NtMEqU7lDZX8d7ODiP4LE) | 2:20 | 2022-06-07 | 2022-09-15 |
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-06-07 |  |
-| [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2022-06-07 |  |
+| [Sand Between Our Fingers](https://open.spotify.com/track/55S0Xumnc0oNtM3fzh2Oex) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Between Our Fingers](https://open.spotify.com/album/6YF5cIpHznEz9HTrLAOLwf) | 2:48 | 2022-06-07 | 2023-05-10 |
 | [Satin Night](https://open.spotify.com/track/6FDLRVWrSK9eHkg1sMF8Hl) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Light Textures](https://open.spotify.com/album/7KPsPPlXsItGDbkph50uYx) | 2:20 | 2022-06-07 |  |
 | [Saving Daylight \(Revisited\)](https://open.spotify.com/track/0A3qYD4HtfUkL4mMytek2m) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [Saving Daylight \(Revisited\)](https://open.spotify.com/album/6iPFhGhZDGywqm8J8jqiXr) | 2:58 | 2022-06-07 |  |
 | [Say Goodbye](https://open.spotify.com/track/1j13HkUceNuucwQjJNIWxe) | [Sigmund Thorne](https://open.spotify.com/artist/5XZMvbqpb45vxwBRHQQ2sR) | [Say Goodbye](https://open.spotify.com/album/5aKjif3nihiPDJ119Bjlzs) | 2:51 | 2022-06-07 |  |

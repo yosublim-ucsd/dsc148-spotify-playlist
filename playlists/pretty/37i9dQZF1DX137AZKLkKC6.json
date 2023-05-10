@@ -1,12 +1,12 @@
 {
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Jessi Uribe y Alejandro Fern\u00e1ndez",
-  "num_followers": 201189,
+  "num_followers": 201247,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODM2Mjk4YTA5YmRjOTNkYjE3NjMwMjdhZTdhY2E5ZDUyNjA1ODNl",
+  "snapshot_id": "MCw3NmZmYWQyZmFjMjUwYzRlNjkwZTgxZTQ0NzIyODQ5MjgwZWJlZGM3",
   "tracks": [
     {
       "added_at": "2023-04-28 07:37:00",
@@ -56,12 +56,12 @@
       },
       "artists": [
         {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        },
-        {
           "name": "Lucas Arnau",
           "url": "https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs"
+        },
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
         }
       ],
       "duration_ms": 158116,

@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-467 songs - 1 day 2 hr 15 min
+468 songs - 1 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Já Me Deixou](https://open.spotify.com/track/19MzA3RuQzw4GmAEPVhZbK) | [Beatriz Da Conceição](https://open.spotify.com/artist/65eHtjZey5UkRE7pNFJSTc) | [Estrelas da Música Portuguesa](https://open.spotify.com/album/43BNU5CRBFE4EKbM4Avzhd) | 3:08 | 2023-03-01 | 2023-05-03 |
 | [Já Passou da Hora](https://open.spotify.com/track/5DJBYG2XorW8K3FS2ncd8B) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [Picos e Vales](https://open.spotify.com/album/3BV5Fe1lCwHJfCEGZn8MLy) | 2:59 | 2022-11-30 | 2023-01-04 |
 | [Já Passou da Hora](https://open.spotify.com/track/66VGwICijuSfqBPbUrQems) | [Márcia](https://open.spotify.com/artist/5XT50tciP6Abur6y9JEN0r) | [Já Passou da Hora](https://open.spotify.com/album/71Hi5Fq7xv5WkIEZOyHbz2) | 3:00 | 2022-03-08 | 2022-05-04 |
-| [Já ´tou num poço](https://open.spotify.com/track/7hn8rLLSwCfMKbw755w7K0) | [Catarina Branco](https://open.spotify.com/artist/0ZbROtsxLfXnQ4tmBwDixb), [Guarda\-Rios](https://open.spotify.com/artist/1eLjerThFJZFkMMhwKGG96) | [Catarina Branco e Guarda\-Rios](https://open.spotify.com/album/1jhViSMNTZL6e1BmIwA5KP) | 2:38 | 2023-05-02 |  |
+| [Já ´tou num poço](https://open.spotify.com/track/2MFvRJZjo22CR90A8Zrboh) | [Catarina Branco](https://open.spotify.com/artist/0ZbROtsxLfXnQ4tmBwDixb), [Guarda\-Rios](https://open.spotify.com/artist/1eLjerThFJZFkMMhwKGG96) | [Catarina Branco e Guarda\-Rios](https://open.spotify.com/album/6pBGpCcWso5ZLhNw7gsw5G) | 2:38 | 2023-05-02 |  |
+| [Já ´tou num poço](https://open.spotify.com/track/7hn8rLLSwCfMKbw755w7K0) | [Catarina Branco](https://open.spotify.com/artist/0ZbROtsxLfXnQ4tmBwDixb), [Guarda\-Rios](https://open.spotify.com/artist/1eLjerThFJZFkMMhwKGG96) | [Catarina Branco e Guarda\-Rios](https://open.spotify.com/album/1jhViSMNTZL6e1BmIwA5KP) | 2:38 | 2023-05-02 | 2023-05-10 |
 | [Ka Ta Importa](https://open.spotify.com/track/4xt4lAUBCPRYtIIWmm9XPk) | [Felishia](https://open.spotify.com/artist/2VQJ9qBV0mzZAVkDYt1gCm), [Oliver](https://open.spotify.com/artist/056V8xAmMi81LgOJZhjTob) | [Ka Ta Importa](https://open.spotify.com/album/0j6nUQtgHdtcCdYhgs6eJJ) | 3:50 | 2022-09-06 | 2023-01-04 |
 | [King of Ruining](https://open.spotify.com/track/5XIV2uTJ4OKleztwCqDp4T) | [Wendy Lucas](https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a) | [King of Ruining](https://open.spotify.com/album/5eu0HLThrAcHGjVxT0AUEW) | 3:16 | 2021-12-08 | 2022-01-05 |
 | [Kumake](https://open.spotify.com/track/0gYJ9bbMWP2A4gBKUcstcj) | [Fattú Djakité](https://open.spotify.com/artist/3Ji5HpAvMIP5wpkWnffUWR) | [Praia\-Bissau](https://open.spotify.com/album/6l5Jg7YSXxuIO1EUyuYcLb) | 4:49 | 2023-01-04 | 2023-03-02 |

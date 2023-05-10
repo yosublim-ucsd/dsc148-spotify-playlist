@@ -4,7 +4,7 @@
 
 > A collection of Industrial Metal – fresh and old tunes\. Cover: Rammstein
 
-198 songs - 14 hr 3 min
+199 songs - 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Drug Against War](https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7) | [KMFDM](https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa) | [Angst](https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY) | 3:35 | 2022-08-12 |  |
 | [A Lovely Day \- Combichrist Remix](https://open.spotify.com/track/11uHy5357PCMtPosATQtJr) | [Pure Obsessions & Red Nights](https://open.spotify.com/artist/6m9fysdVTyH0KxNhG3DDaT), [Combichrist](https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR) | [A Lovely Day \(Combichrist Remix\)](https://open.spotify.com/album/1htenv8mn6GSc3ONcORknK) | 6:16 | 2022-07-01 | 2022-07-29 |
 | [A Matter of Time](https://open.spotify.com/track/2evoS3lDuKhiTACNU8T3ny) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [A Matter of Time](https://open.spotify.com/album/13YojjYoqTGSmHASOXUUra) | 6:02 | 2022-07-01 | 2022-07-29 |
-| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 |  |
+| [A Matter of Time](https://open.spotify.com/track/524Hl6lEjcLUGbBYiRzh6q) | [Celldweller](https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ) | [Satellites](https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0) | 6:02 | 2022-10-21 | 2023-05-10 |
 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 | 2022-07-01 |  |
 | [After the Flesh](https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK) | [My Life With The Thrill Kill Kult](https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 2:59 | 2022-08-12 |  |
 | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/track/5qR6Na1PE0Q2s0i2nkvmER) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [Alert Level \(Quarantined Mix\)](https://open.spotify.com/album/05hx91BgMBOcBKxR0QdwmZ) | 6:06 | 2022-07-01 | 2022-07-29 |
@@ -73,6 +73,7 @@
 | [Extinction](https://open.spotify.com/track/6JqvqbDADxVZ8Ld9SWt1Ia) | [Erik Ekholm](https://open.spotify.com/artist/2ILC8RBzrhyAE3MPfBe9sQ), [Morbid Fears](https://open.spotify.com/artist/5mFOd8Ia2DMdXesbZkuFqU) | [Hellwalker](https://open.spotify.com/album/4wiwsQ8xxJk84cLzLXB2ap) | 4:03 | 2022-07-01 | 2022-11-27 |
 | [Extinction](https://open.spotify.com/track/6lMYWulkz9tC1OR9xHiE9Q) | [Erik Ekholm](https://open.spotify.com/artist/2ILC8RBzrhyAE3MPfBe9sQ), [Morbid Fears](https://open.spotify.com/artist/5mFOd8Ia2DMdXesbZkuFqU) | [Extinction](https://open.spotify.com/album/1mo22GWeScTlVGNJv9D8UH) | 4:03 | 2022-07-01 | 2022-07-29 |
 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 | 2023-05-05 |  |
+| [Fault Lines](https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj) | [IAMX](https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD) | [Fault Lines](https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3) | 4:23 | 2023-05-05 |  |
 | [Feed Our Lie](https://open.spotify.com/track/1UxhZwFgV4t8OSBWORCBMG) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Feed Our Lie](https://open.spotify.com/album/16ZUBw17hhLFdrWTDr94VP) | 4:06 | 2022-07-01 | 2022-12-06 |
 | [Fiction](https://open.spotify.com/track/0Y9Vvicrw9zj40jtEK4tRL) | [Not My God](https://open.spotify.com/artist/27tok8SdKheI4yBDfiIUGY) | [Fiction](https://open.spotify.com/album/4td7ZCz71To3BiAM70k0kq) | 3:56 | 2022-07-01 | 2022-07-29 |
 | [Follow](https://open.spotify.com/track/1nqqyTJOBRPO5fRuOXoxKW) | [Contracult Collective](https://open.spotify.com/artist/6bIdpjyGpps6a0CJT4hTGW) | [FOLLOW](https://open.spotify.com/album/01WDtUAbvqQecmizMs9tAH) | 3:23 | 2022-07-01 | 2022-07-27 |

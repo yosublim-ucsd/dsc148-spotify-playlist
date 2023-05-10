@@ -4,7 +4,7 @@
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-135 songs - 7 hr 2 min
+136 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Dive In](https://open.spotify.com/track/1WPTlwzEsggW9XoAih2oa5) | [Holly](https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk), [Xtina Louise](https://open.spotify.com/artist/2vKEblNGdmCIp2OUEI21YN) | [Dive In](https://open.spotify.com/album/4nptbGAc6p5WCISLHOyqse) | 3:20 | 2022-07-29 | 2023-03-18 |
 | [Don't Miss Out](https://open.spotify.com/track/05KOPCjuI41iWJeoaRuIrI) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Don't Miss Out](https://open.spotify.com/album/24kJEQZi1LrPPg86WxBilA) | 3:15 | 2022-07-29 | 2023-01-14 |
 | [Don't You Worry Child](https://open.spotify.com/track/043bfUkTydw0xJ5JjOT91w) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:43 | 2022-07-29 |  |
+| [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-05-09 |  |
 | [Dreaming](https://open.spotify.com/track/1wyfWtYm1ObQLQ50tm5O9O) | [Waxel](https://open.spotify.com/artist/2ntcMtENqlteqaa8NdB087), [Fedo](https://open.spotify.com/artist/324ZDToGZhov91SbJ6Pr9M), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [Dreaming](https://open.spotify.com/album/0fXksf7oidpAA6o6evLU0f) | 3:13 | 2022-10-14 |  |
 | [Edge Of Tonight](https://open.spotify.com/track/06XwKR1TK5VqEkAmtxBfdn) | [Yohann Warren](https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L), [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB) | [Edge Of Tonight](https://open.spotify.com/album/48V7kmffIm49A37EyyLUPH) | 2:48 | 2022-07-29 | 2022-08-27 |
 | [Empty City](https://open.spotify.com/track/4kV5j4OqLxLPD6i3kCIKoD) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Empty City](https://open.spotify.com/album/05qA73wEVpqEmOcDpEutiy) | 3:11 | 2022-09-09 | 2022-12-17 |

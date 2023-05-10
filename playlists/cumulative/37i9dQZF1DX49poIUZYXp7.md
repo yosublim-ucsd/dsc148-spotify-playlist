@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Kimberly Perry
 
-319 songs - 17 hr 29 min
+320 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-04-15 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-01 | 2022-07-29 |
 | [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 |  |
-| [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-01 |  |
+| [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-01 | 2023-05-10 |
 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 | 2021-12-01 |  |
 | [Not My Business](https://open.spotify.com/track/7rc8zMNiVa7gFs5BHN4RNy) | [Brittany Brodie](https://open.spotify.com/artist/2SCMzOSOfJt3GwROmroua5) | [Not My Business](https://open.spotify.com/album/1AXvisFBjFJWEsbbDEKaa4) | 3:10 | 2022-03-25 | 2022-04-21 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 | 2022-08-05 | 2023-04-05 |
@@ -264,6 +264,7 @@
 | [Tell Your Mom](https://open.spotify.com/track/4z6ejAW2WioIBVVAFCl0eK) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:01 | 2022-06-04 | 2022-09-24 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-16 | 2022-12-18 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-09 | 2023-05-08 |
+| [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 | 2023-05-05 |  |
 | [The Bones](https://open.spotify.com/track/7yFhA2fUsL2oIMWlw5DaHQ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:17 | 2021-12-01 |  |
 | [The Devil’s Still Down in Georgia](https://open.spotify.com/track/4BOeX23fi3QF9fL82xFjle) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [The Devil’s Still Down in Georgia](https://open.spotify.com/album/6TPelopj8Nwwc86sQzTKgJ) | 3:13 | 2022-06-17 | 2022-11-13 |
 | [The Fire](https://open.spotify.com/track/4QZPq8EZc4lYrLx84mTj4i) | [Bianca Bernardi](https://open.spotify.com/artist/2TIuyaQARaUZFmGw3PUfbC) | [The Fire](https://open.spotify.com/album/6sycWScq71yiwJ0qYJRV4W) | 4:16 | 2022-03-25 | 2022-04-20 |

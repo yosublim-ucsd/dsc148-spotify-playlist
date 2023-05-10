@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Tom Grennan
 
-961 songs - 2 day 4 hr 2 min
+962 songs - 2 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Chemical](https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq) | 3:04 | 2023-04-13 |  |
 | [Chemical High](https://open.spotify.com/track/01mt0RLXC0DQ4VPQpV6WWy) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Chemical High](https://open.spotify.com/album/6NPgAZh5MU5W7P4EjyLRZ7) | 2:38 | 2022-08-18 | 2022-10-05 |
 | [CHEMICALS](https://open.spotify.com/track/1zMAaHzTsJ4Q75R2wVLQut) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [CHEMICALS](https://open.spotify.com/album/20Frjm6zA1CdmZcNIQNmv6) | 3:31 | 2022-06-02 | 2022-07-08 |
-| [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-20 |  |
+| [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-20 | 2023-05-10 |
 | [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 | 2022-09-08 | 2022-09-30 |
 | [Choose Your Fighter](https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Choose Your Fighter](https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s) | 2:15 | 2022-06-16 | 2022-07-20 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-28 | 2022-09-02 |
@@ -336,7 +336,7 @@
 | [Firefly](https://open.spotify.com/track/5n2xMZmypRAUKW4PkTMy9A) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Firefly](https://open.spotify.com/album/3JywE0BWNUCTqvd9IWshdp) | 3:18 | 2022-05-26 | 2022-06-10 |
 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 | 2023-04-20 |  |
 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 | 2023-02-17 | 2023-03-25 |
-| [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 |  |
+| [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 | 2023-05-10 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 | 2023-03-04 |
 | [Fly Away \(feat\. French Montana\)](https://open.spotify.com/track/30vTm2hDiU321Tlv1sAI9g) | [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Fly Away \(feat\. French Montana\)](https://open.spotify.com/album/6hGITdpeFgoxZpkMitYkka) | 2:52 | 2022-07-14 | 2022-08-19 |
 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 | 2023-03-24 |  |
@@ -588,6 +588,7 @@
 | [Man On A Mission \(feat\. SL\)](https://open.spotify.com/track/1IHPOnF7GswcdGa9F5zBBg) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Man On A Mission \(feat\. SL\)](https://open.spotify.com/album/4r0ZKwHX5xSKFgJjCGbqBE) | 1:54 | 2022-12-16 | 2023-01-27 |
 | [Martin's Sofa](https://open.spotify.com/track/6iJUSrA6XoX4FNLGPqzHOv) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Martin's Sofa](https://open.spotify.com/album/5ywIBJnydB9IMqgg0XDU6O) | 4:00 | 2023-01-20 | 2023-03-04 |
 | [Mas Murder](https://open.spotify.com/track/2aV0jGk1i8jIuZUpz8IcLk) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Mas Murder](https://open.spotify.com/album/4SkE5JHPFLZRiF9LCeUn0L) | 7:18 | 2023-04-27 |  |
+| [MATHEMATICAL DISRESPECT](https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN) | [MATHEMATICAL DISRESPECT](https://open.spotify.com/album/2na9riat7uwn9pax75cJue) | 1:28 | 2023-05-09 |  |
 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 | 2022-05-26 | 2022-06-25 |
 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-03 | 2023-02-24 |
 | [Maybe You’re The Problem](https://open.spotify.com/track/0sb8ClU3CLoNblxkpmOKzA) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Maybe You’re The Problem](https://open.spotify.com/album/1dMRk6VwatQfygRRqaWtZg) | 3:10 | 2022-05-26 | 2022-06-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 
 > Celebrate APIHM with music from Asian and Pacific Islander artists for the whole family\. Cover: Falu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,082 likes - 36 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU24O1KPl8Ai.md) - [plain]
 | 32 | [Halo\-Halo](https://open.spotify.com/track/6C7jV3ooKAYhB1DNjun4Ho) | [Mista Cookie Jar](https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt), [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Don't Gotta Be Cool](https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy) | 2:30 |
 | 33 | [The Durian Fruit Song](https://open.spotify.com/track/4X3TL8IpWC1XA13uY5VKxx) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Romeo Eats](https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd) | [Walk off the Earth & Romeo Eats, Vol\. 1](https://open.spotify.com/album/44vnzHdyCejk6nXISI9LYE) | 1:21 |
 | 34 | [Going Down the Road](https://open.spotify.com/track/5Zi9xsUSXdBWSMTtn4N9uC) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb), [Anna Jacobson](https://open.spotify.com/artist/2qKjgJ5wQxbSmqdjVabMlL) | [28 Days](https://open.spotify.com/album/2p5QfPVnqGhJDtrntQpX7Z) | 3:51 |
-| 35 | [아리랑](https://open.spotify.com/track/4gnwVmZzD3CHS3TxWWXsdF) | [김설](https://open.spotify.com/artist/1Rpske9llnGby44tCgwPw7) | [아일라 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xHcS5E4SBQHVG7tBnpK68) | 1:39 |
+| 35 | [Small but Mighty](https://open.spotify.com/track/2tSaIsNOHPULivFVlHejoG) | [Ginalina](https://open.spotify.com/artist/06QOnJaT57H3lQcrx3B1kP) | [Small but Mighty](https://open.spotify.com/album/02oEsC2mLDX2DcK13w23hI) | 2:54 |
 | 36 | [Tongan Welcome Song](https://open.spotify.com/track/7gZldjxqaa6HcdEerV8fRx) | [Loopy Tunes Preschool Music](https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y), [Whānau Āwhina Plunket\-Pasifika Beatz](https://open.spotify.com/artist/69gi80HKXW67UHDsNLBTWT) | [Pasifika Beatz \- Tonga](https://open.spotify.com/album/3oS9bvAXOkvbCeQ0KV3xeF) | 1:17 |
 
-Snapshot ID: `MCw4YjE3ODQzZmE3MTE1OGQ2MDZmNjY4Y2E2YzNiODRkZDJkZDdkZGE2`
+Snapshot ID: `MCxmMzM4YjFjN2IxZWE1MjE4ODE3ZGJiYTgyNjEzZWVmOGRkM2Y0MGVm`

@@ -2,9 +2,9 @@
 
 ### [Party 2023](https://open.spotify.com/playlist/37i9dQZF1DX9xImy3px1J2)
 
-> L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾
+> L'unica party playlist di cui hai bisogno, sempre aggiornata 🍾 Top hit italiane e internazionali!
 
-214 songs - 11 hr 26 min
+215 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2022-09-12 |  |
 | [Calma \- Remix](https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Remix\)](https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ) | 3:58 | 2022-10-07 |  |
 | [Can't Stop Playing \(Makes Me High\) \[feat\. Ane Brun\] \- Oliver Heldens & Gregor Salto Vocal Mix Edit](https://open.spotify.com/track/1MOGJQsVeaRcXY6heJz5UZ) | [DR\. KUCHO!](https://open.spotify.com/artist/263Gr9lGWR6ScnRGjxa3Ad), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew), [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Can't Stop Playing \(Remixes\)](https://open.spotify.com/album/5lRUvxwXDbnzFQIpxgpp6x) | 2:37 | 2022-12-30 | 2023-01-06 |
-| [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2023-01-05 |  |
+| [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 | 2023-01-05 | 2023-05-10 |
 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 | 2022-05-03 | 2022-07-10 |
 | [China](https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [China](https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh) | 5:01 | 2022-07-15 | 2022-10-08 |
 | [Chiquetere \(feat\. Rafa Villalba\)](https://open.spotify.com/track/1pdsBkhNchpGCQTGoNQXZI) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO), [Rafa Villalba](https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm) | [Chiquetere](https://open.spotify.com/album/7762QoadEu8iEVvhDo94P6) | 2:43 | 2022-06-10 | 2022-07-30 |
@@ -115,6 +115,7 @@
 | [Italove](https://open.spotify.com/track/4ll1UfyVm9we6xoTNGnMYO) | [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [L'uomo d'affari / Italove](https://open.spotify.com/album/5v84MAdR18Ed091b1hlSn5) | 5:19 | 2022-12-30 | 2023-01-06 |
 | [Kings & Queens](https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:42 | 2022-07-15 |  |
 | [L'Amour Toujours](https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d) | 4:02 | 2022-10-07 |  |
+| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-05-09 |  |
 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 | 2022-12-09 | 2023-04-28 |
 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 | 2022-10-07 | 2023-04-30 |
 | [Lipstick](https://open.spotify.com/track/5vaOdnTldKw74qWjezLfRO) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Lipstick](https://open.spotify.com/album/5ZmMVvnLnqADYlyLcxLy6l) | 3:00 | 2022-05-03 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 31892,
+  "num_followers": 31954,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQ1YTczOWJkNGM2MjA4MmExODQ0NmFiNzcwZTE4ODdiY2U4NDc0",
+  "snapshot_id": "MCw2MWJhMjc3YWZkOTcwZDY0MjdlNWE1MjNkMDgyYzY2Zjc1YTFiZTk4",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Tijuana Sessions Vol. 3",
-        "url": "https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T"
-      },
-      "artists": [
-        {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
-        }
-      ],
-      "duration_ms": 224133,
-      "name": "Tengo La Voz",
-      "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Veracruz Y Su M\u00fasica - 14 Sones Jarochos",
@@ -695,6 +679,22 @@
       "duration_ms": 166240,
       "name": "El Tilingo Lingo",
       "url": "https://open.spotify.com/track/6UWyXar79tNp3vaUlQNsiW"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Tijuana Sessions Vol. 3",
+        "url": "https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 224133,
+      "name": "Tengo La Voz",
+      "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
     },
     {
       "added_at": "2022-02-04 19:55:03",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Duelo Tropical Exitos de Oro, Vol. 1",
-        "url": "https://open.spotify.com/album/6Y2PnIalbLkSHLlDiyrBpZ"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB"
-        }
-      ],
-      "duration_ms": 198608,
-      "name": "Tu Voz",
-      "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Papayas",
@@ -759,6 +743,22 @@
       "duration_ms": 337391,
       "name": "Papayas",
       "url": "https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Duelo Tropical Exitos de Oro, Vol. 1",
+        "url": "https://open.spotify.com/album/6Y2PnIalbLkSHLlDiyrBpZ"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/5rrPgFdBBtM0GVHeSBjmyB"
+        }
+      ],
+      "duration_ms": 198608,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/5txLkc2L3XfpKg08hAk26l"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/2lRpK2iqZ86zuqrygcWy8p"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Canto",
         "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 324333,
       "name": "Me Voy Pa'l Pueblo",
       "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/2lRpK2iqZ86zuqrygcWy8p"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -989,6 +989,22 @@
       "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 163420,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Chicavasco",
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/4hB9LGTtBc6H29pjkTagzo"
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Novalima",
+          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
         }
       ],
-      "duration_ms": 163420,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/0wNoE4ph2njLnF1txfeLVJ"
+      "duration_ms": 261426,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1067,22 +1083,6 @@
       "duration_ms": 265373,
       "name": "Caf\u00e9 Con Pan",
       "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Afro",
-        "url": "https://open.spotify.com/album/1ZtzVmhClscBsVd1pvpxXJ"
-      },
-      "artists": [
-        {
-          "name": "Novalima",
-          "url": "https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Bandolero",
-      "url": "https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
     },
     {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
+    },
+    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
@@ -1163,22 +1179,6 @@
       "duration_ms": 157266,
       "name": "Tengo una debilidad",
       "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
-      },
-      "artists": [
-        {
-          "name": "Los Lobos",
-          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Corazon",
-      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
         "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 176733,
       "name": "La Sitiera",
       "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1541,22 +1541,6 @@
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "15 \u00c9xitos de los Zafiros",
-        "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
-      },
-      "artists": [
-        {
-          "name": "Los Zafiros",
-          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
-        }
-      ],
-      "duration_ms": 152027,
-      "name": "Bossa Cubana",
-      "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Dedicated To Nelson",
@@ -1571,6 +1555,22 @@
       "duration_ms": 165626,
       "name": "Mangos",
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 \u00c9xitos de los Zafiros",
+        "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
+      },
+      "artists": [
+        {
+          "name": "Los Zafiros",
+          "url": "https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6"
+        }
+      ],
+      "duration_ms": 152027,
+      "name": "Bossa Cubana",
+      "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
     },
     {
       "added_at": "2022-01-11 03:10:29",

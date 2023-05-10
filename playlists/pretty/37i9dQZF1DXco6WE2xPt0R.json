@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 90360,
+  "num_followers": 90419,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDNhZGE4ZTQ4YzlhNzRmMzJiZWIyNThkZTc3MzYzMDE1OWQzNzk4",
+  "snapshot_id": "MCxkNGRmZjM1ZDY2NTgzOWMzYTJkNjVjOTJmYWRhZGNiM2Q0YTAwN2Rh",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 186339,
       "name": "SPLIT DECISION",
       "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 188797,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Starfruit",
         "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 205720,
       "name": "You Got One",
       "url": "https://open.spotify.com/track/7DhOcyCu9WjUxY5kYNskVa"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Wait On Me (Pt. 2 / Remix)",
-        "url": "https://open.spotify.com/album/3B3tvV3KG3MUdOUN7Jn0vN"
-      },
-      "artists": [
-        {
-          "name": "Raheem DeVaughn",
-          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
-        },
-        {
-          "name": "GeorgiaReign",
-          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
-        }
-      ],
-      "duration_ms": 157640,
-      "name": "Wait On Me - Pt. 2 / Remix",
-      "url": "https://open.spotify.com/track/7t58YUFLnYocFypBbBlRHC"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "silhouette",
         "url": "https://open.spotify.com/album/73rn1ZqAlqgCW9z8hGzHSH"
       },
@@ -1771,8 +1751,28 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Mr. Midnight (Winter Time Remix)",
-        "url": "https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i"
+        "name": "From Lust Till Dawn",
+        "url": "https://open.spotify.com/album/4yDOgY5kkq7bi8o2WnAe6N"
+      },
+      "artists": [
+        {
+          "name": "Raheem DeVaughn",
+          "url": "https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL"
+        },
+        {
+          "name": "GeorgiaReign",
+          "url": "https://open.spotify.com/artist/62KLBbnYIKkF2bZeUn3UJI"
+        }
+      ],
+      "duration_ms": 157640,
+      "name": "Wait On Me Pt. 2 / Remix",
+      "url": "https://open.spotify.com/track/6ZajtDkRBBiUKzf4Gmzhgc"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Back 2 Love",
+        "url": "https://open.spotify.com/album/77fPvsRp76NHn0qTXzOmum"
       },
       "artists": [
         {
@@ -1784,9 +1784,9 @@
           "url": "https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc"
         }
       ],
-      "duration_ms": 240000,
+      "duration_ms": 240065,
       "name": "Mr. Midnight - Winter Time Remix",
-      "url": "https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP"
+      "url": "https://open.spotify.com/track/3kAWVzglbxR3PjYg1NYF0C"
     }
   ],
   "unique_name": "dengo",

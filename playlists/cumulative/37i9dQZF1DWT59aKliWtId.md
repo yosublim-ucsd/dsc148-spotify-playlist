@@ -4,7 +4,7 @@
 
 > The highest quality blend ft\. Joseph
 
-713 songs - 1 day 19 hr 18 min
+714 songs - 1 day 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Bedrock](https://open.spotify.com/track/0jd9hK7zbDbhZKy1jF7NZT) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Bedrock](https://open.spotify.com/album/1KtMUdFR4h9gvdIn2NWKcf) | 3:30 | 2022-01-19 | 2022-03-26 |
 | [Been To The Mountain](https://open.spotify.com/track/7fqPyOPznptdLLOnD63d8g) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Been To The Mountain](https://open.spotify.com/album/79EPswgfIWpxNAr63nLWAs) | 5:27 | 2022-08-26 | 2022-10-01 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-11 | 2022-08-13 |
-| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-13 |  |
+| [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-04-28 |  |
+| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-13 | 2023-05-10 |
 | [Best I Can](https://open.spotify.com/track/7spqcauBWI88oEKjUgNebM) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Best I Can](https://open.spotify.com/album/5GA1Wp8OHxF4zdjHa4MTGI) | 3:18 | 2022-07-01 | 2022-10-15 |
 | [Best Thing You Never Had \(The D Song\)](https://open.spotify.com/track/0jXCy07EPFiG0zanXwcToh) | [Spiritualized](https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv) | [Everything Was Beautiful](https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK) | 5:52 | 2022-04-22 | 2022-07-16 |
 | [Bethel Woods](https://open.spotify.com/track/2fbXenv8BnYOhxJk0CxwFD) | [Midlake](https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30) | [Bethel Woods](https://open.spotify.com/album/6FHo7FsoDgcn3BBC9yYX1l) | 4:23 | 2022-01-14 | 2022-02-26 |

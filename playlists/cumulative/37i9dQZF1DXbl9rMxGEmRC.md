@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-387 songs - 1 day 9 hr 36 min
+389 songs - 1 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 |  |
 | [As Above So Below](https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN) | 4:59 | 2022-07-13 |  |
 | [As Above So Below](https://open.spotify.com/track/5T6FioXGDdd5kw4I3HpHH1) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Zos Kia Cultus](https://open.spotify.com/album/7FKHNF62tKyP6ejTQ1qo2m) | 5:01 | 2022-07-13 | 2022-07-29 |
+| [At Dusk](https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar), [Suldusk](https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg) | [At Dusk](https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX) | 4:04 | 2023-05-05 |  |
 | [Atomic Chapel](https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Demonoir](https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4) | 6:24 | 2022-07-13 | 2022-07-25 |
 | [Axis Mundi](https://open.spotify.com/track/2AG2lTeueOVfV2vkMyg5j2) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Axis Mundi](https://open.spotify.com/album/7yfSOlctpXVOlkG0pMXjxe) | 4:24 | 2023-02-23 | 2023-04-07 |
 | [AZONEI WYRDWALKER](https://open.spotify.com/track/0vxOahfuJ3Qlcwg2Obzdfs) | [DØDSENGEL](https://open.spotify.com/artist/2X20fIoEYriNBjJA7R7dOM) | [MIRIUM OCCULTUM](https://open.spotify.com/album/75oMnd3O6E9QEaPnGzawWa) | 7:58 | 2022-07-13 | 2022-07-22 |
@@ -175,12 +176,13 @@
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
 | [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
-| [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |
+| [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 | 2023-05-10 |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 | 2022-06-11 |
 | [Hybrid Stigmata \- The Apostasy \- Remixed & Remastered](https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Hybrid Stigmata \- The Apostasy \(Remixed & Remastered\)](https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ) | 6:59 | 2022-09-16 | 2022-12-08 |
 | [I](https://open.spotify.com/track/20Ixhug1ZV3n3XXeB71kDF) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Nattens Madrigal](https://open.spotify.com/album/1Hod8O8aRjCE5RG6aI1GKl) | 6:16 | 2022-07-13 | 2022-09-02 |
 | [I Am Abomination](https://open.spotify.com/track/1SBGE2wrNmiwHnnLSAiegd) | [1349](https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT) | [Hellfire](https://open.spotify.com/album/4qntR4s02MF97EkxAhcdr2) | 4:10 | 2022-07-13 | 2023-05-05 |
 | [I Am The Black Wizards](https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/5nTalKcL6vhFMNihs0b3iU) | 6:00 | 2022-07-13 | 2023-05-05 |
+| [I Am The Black Wizards](https://open.spotify.com/track/4jjlYfhduOrGY4mySof5C3) | [Emperor](https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y) | [In The Nightside Eclipse](https://open.spotify.com/album/0va7zHEUQixlEhLAFz2r63) | 6:00 | 2023-05-05 |  |
 | [I Am the Night](https://open.spotify.com/track/7n4U90ST7RSr6B0WXXAcbt) | [I Am The Night](https://open.spotify.com/artist/0KZgadGpnbwDnFifHOt7cU) | [I Am the Night](https://open.spotify.com/album/5dAqD9ry2pOU7YMPRXazRz) | 4:32 | 2022-04-08 | 2022-05-07 |
 | [I Resign](https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf) | [Crypta](https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB) | [I Resign](https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro) | 3:53 | 2023-04-20 |  |
 | [I Troldskog Faren Vild](https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 7:51 | 2022-07-13 |  |
@@ -267,7 +269,7 @@
 | [Popecrusher](https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Popecrusher](https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8) | 3:08 | 2022-05-20 | 2022-08-18 |
 | [Prism](https://open.spotify.com/track/21Atks7bDN6e7RYQe7Ctax) | [Anachronism](https://open.spotify.com/artist/6PEBIPKi5TvTrCoyDsRDTh) | [Meanders](https://open.spotify.com/album/5uZNpFKELGKlq5iJkVlIuF) | 4:04 | 2023-02-15 | 2023-02-24 |
 | [Profetens Åpenbaring](https://open.spotify.com/track/1pNqnj1ympoWWNR1qEpHKo) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3GBpagKDLL4cRseF5yxKVV) | 5:20 | 2022-07-13 | 2022-07-29 |
-| [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 |  |
+| [Profetens Åpenbaring](https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg) | [Gorgoroth](https://open.spotify.com/artist/1Dt7cfRzxM8qPVa82jX9y5) | [Under the Sign of Hell](https://open.spotify.com/album/3km1rY5IuethseXC3jvMGY) | 5:20 | 2022-07-13 | 2023-05-10 |
 | [Puritania](https://open.spotify.com/track/0bKs1y9PTFBddM9qj0JGvb) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritanical Euphoric Misanthropia](https://open.spotify.com/album/6sDdbLoIOzGwR61lL2jGN2) | 3:06 | 2022-07-13 |  |
 | [Puritania \- The Kolbotn Tapes](https://open.spotify.com/track/69vWSqVEctJbTKD3qKaAnD) | [Dimmu Borgir](https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK) | [Puritania \(The Kolbotn Tapes\)](https://open.spotify.com/album/2zOvw7u5XelDbYsxQMPQDI) | 2:49 | 2022-08-12 | 2022-11-13 |
 | [Quintessence](https://open.spotify.com/track/0h2KyPkIISeMMkA2X0eXU5) | [Darkthrone](https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV) | [Panzerfaust](https://open.spotify.com/album/1WVwSy7kIQ5AmkVa1tPppg) | 7:36 | 2022-07-13 |  |

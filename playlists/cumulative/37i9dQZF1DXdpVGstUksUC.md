@@ -4,7 +4,7 @@
 
 > You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
 
-284 songs - 1 day 2 hr 29 min
+285 songs - 1 day 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [12 Years in the Tomb](https://open.spotify.com/track/0rRIVceDUSlJW00h3IT7x1) | [Saint Vitus](https://open.spotify.com/artist/64yj4wx5kNH3NTUW0ghyxn) | [12 Years in the Tomb](https://open.spotify.com/album/1sVawfDBLJPGgAtsmxy99h) | 5:23 | 2022-01-14 | 2022-01-28 |
 | [2 Wheel Nation](https://open.spotify.com/track/3MY1UKqJnow2BDZmfnhe8S) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [III](https://open.spotify.com/album/0AY1owklM5PB1t2lwuBjel) | 5:23 | 2021-11-30 | 2022-02-11 |
 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 | 2021-11-30 |  |
-| [Absolutego](https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/49CV8xfmsdSltz74sCTLms) | 4:55 | 2023-03-10 |  |
+| [Absolutego](https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/49CV8xfmsdSltz74sCTLms) | 4:55 | 2023-03-10 | 2023-05-10 |
 | [Absolutego](https://open.spotify.com/track/48S5tpRQgMxkqngge9Xz8X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Dear](https://open.spotify.com/album/3DCuSislw0Fstw3mb6VvbD) | 4:55 | 2021-11-30 | 2022-07-27 |
 | [Acid Roulette](https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn) | 5:49 | 2022-04-28 |  |
 | [Acid Roulette](https://open.spotify.com/track/65TTWkvvYTpvseubg1pmRa) | [Scorpion Child](https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys) | [Acid Roulette](https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei) | 5:49 | 2021-11-30 | 2022-07-29 |
@@ -269,6 +269,7 @@
 | [Too Stoned](https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ) | [Gas Giant](https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 6:11 | 2021-11-30 |  |
 | [Tranquil Mountain Lake](https://open.spotify.com/track/1A9aJetj7ss1nKcn9NqOD7) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Snowy Dunes](https://open.spotify.com/album/6C6b9FXabOTlDmbBVMhuaO) | 7:21 | 2021-11-30 | 2022-02-07 |
 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 | 2021-11-30 | 2022-07-29 |
+| [Tres Brujas](https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT) | 4:09 | 2023-03-10 |  |
 | [Tres Brujas](https://open.spotify.com/track/1HzJWsTAhZuMYdCc9PkkOw) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/3URfEPGaPzigfTQSyGG5AO) | 4:09 | 2022-04-28 | 2023-04-30 |
 | [Ugo](https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY) | [The Dead Pirates](https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx) | [Ugo](https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB) | 5:58 | 2022-02-18 |  |
 | [Uluru Rock](https://open.spotify.com/track/3ahec9rRdvMHQCgG6Ctfdv) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [From the Ages](https://open.spotify.com/album/1gD5vrYMJHGaR8LAwah7T2) | 14:08 | 2021-11-30 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,201 songs - 5 day 6 hr 27 min
+2,203 songs - 5 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -499,6 +499,7 @@
 | [Deeper In Love](https://open.spotify.com/track/0rW7hBzFZnvwznu9VjfdiE) | [Prima Apollinaare](https://open.spotify.com/artist/3Xy1ZXp7yMsdiydU3bqSyR) | [Alignment](https://open.spotify.com/album/48rA0ZiAB4ewrmuqZf4gig) | 3:06 | 2023-02-23 | 2023-03-18 |
 | [Deja Vu](https://open.spotify.com/track/0bMufMFHSHRT8VcHXogI5B) | [Pan Arcadia](https://open.spotify.com/artist/1eIFYyCbgvc6LT4ViIveax) | [Pan Arcadia](https://open.spotify.com/album/6ozsijr4oB6iAHZqJfxLTU) | 3:21 | 2023-02-24 | 2023-03-20 |
 | [Delete Forever](https://open.spotify.com/track/3I399Xpg21DElMuEhkTeK8) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Delete Forever](https://open.spotify.com/album/5OUmlyyZVfHCVQnHLA4mU9) | 3:57 | 2020-02-21 | 2020-04-09 |
+| [Demerol](https://open.spotify.com/track/36DASxyRjxTMpvllB80ayp) | [Albert Mikkelsen](https://open.spotify.com/artist/1oo52O7yO42i7HPz1PPxpd) | [Demerol](https://open.spotify.com/album/15l3tr1Ew6L6jWpDdvgTEu) | 3:12 | 2023-05-09 |  |
 | [Depth](https://open.spotify.com/track/4i3g5rgdrOp78Fm4QmOfrq) | [Idow](https://open.spotify.com/artist/5wfp7hjVYwUUfEIWWyFnNf) | [Depth](https://open.spotify.com/album/3I3QXEvXSYQq872cn0AUwh) | 3:04 | 2021-12-31 | 2022-01-15 |
 | [Desde Cero](https://open.spotify.com/track/3uHyfqpfIquDj2Nw8DnrJ9) | [Nathalie Hazim](https://open.spotify.com/artist/1pgJnLaz9qEnErUwC0Tm16) | [Desde Cero](https://open.spotify.com/album/7vS0RoVRfmLx1cgEtatChB) | 3:17 | 2022-11-12 | 2022-12-05 |
 | [Deseo](https://open.spotify.com/track/54yKrhdisdyWco1CbKe8cp) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Deseo](https://open.spotify.com/album/30k9pkQ53NcF43bln2PV32) | 3:04 | 2021-10-23 | 2021-11-07 |
@@ -1699,6 +1700,7 @@
 | [Simpler Times](https://open.spotify.com/track/7f0bc0KdeDwRIvM4kHTRWS) | [CHAR](https://open.spotify.com/artist/2eoOPfVAXP5jraE3VEbWon) | [Simpler Times](https://open.spotify.com/album/3waWnha4uanTcOOWCGGuQx) | 4:02 | 2021-12-17 | 2022-01-07 |
 | [Sincerely Signed](https://open.spotify.com/track/67CUhOOcF46KsToiw1Vfvm) | [Lucid](https://open.spotify.com/artist/72xPIn3AXVj8KsRWDvtrWG), [PFV](https://open.spotify.com/artist/4qzup3EC6LnYsm26GF0oa2) | [Revamped](https://open.spotify.com/album/1XvQIFwQR62tP5MdV0oY7l) | 2:45 | 2023-02-24 | 2023-03-20 |
 | [Sirens Found Me](https://open.spotify.com/track/0ImSNYwa5J70zdf25KxP67) | [Sean Hartofilis](https://open.spotify.com/artist/2ftcfJ1m7iGj9ThSKTbQDA) | [Seas](https://open.spotify.com/album/1GwHIwmqq8Ph4MBdGeoX9V) | 3:41 | 2022-03-25 | 2022-04-10 |
+| [Sister Switch](https://open.spotify.com/track/3ovEjhgUxM5Dn1yqvj113I) | [Boyan](https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ), [Nathan Thomas](https://open.spotify.com/artist/3EFOH4vydSGrN61cySTpvR) | [Sister Switch](https://open.spotify.com/album/4JptphwhDq0PEGrEYX07eJ) | 4:03 | 2023-05-09 |  |
 | [Situationship](https://open.spotify.com/track/6jG8nlj21Q5o7Aw7VGUcQh) | [Tessa Anderson](https://open.spotify.com/artist/5RJi8CeYZvx6Blq6uvYp1T) | [Situationship](https://open.spotify.com/album/5RWpNDQlWqsyrivSIsVrt9) | 2:56 | 2020-05-28 | 2020-06-10 |
 | [Siya Saphaza](https://open.spotify.com/track/4WF3nKSa9QFhGmlYywB6C8) | [Luu Nineleven](https://open.spotify.com/artist/3KeANQfpzWH0OS18JMIU28), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Killer Kau](https://open.spotify.com/artist/53ZXQRpE0KfS0GRrgctR4R) | [Umculo wama nothi](https://open.spotify.com/album/1AiZcr0cm5HsD4ft9OYLfq) | 7:34 | 2021-08-13 | 2021-08-28 |
 | [Skies](https://open.spotify.com/track/5WXwK38Qay3CXF0pG3BOWr) | [Daniel Fin](https://open.spotify.com/artist/6K1DLmkclHEoHMrO1mqb5z) | [Skies](https://open.spotify.com/album/3FNrGC942gQ92OwEWOEaiY) | 3:23 | 2021-12-24 | 2022-01-09 |

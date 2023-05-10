@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-356 songs - 18 hr 9 min
+357 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 | 2022-05-25 | 2022-07-21 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-23 | 2023-04-04 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 |  |
+| [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-05-09 |  |
 | [De Love](https://open.spotify.com/track/24yhU1uQVX0u5Rvc0gProL) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE) | [De Love](https://open.spotify.com/album/09GN4TaBw3LneSw4MBYdt6) | 3:07 | 2023-03-23 |  |
 | [Deixa Escondido](https://open.spotify.com/track/417l7rLN1PNgay8sIcKK4D) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido](https://open.spotify.com/album/2bs6HtXUZNHRTHngAyTYvi) | 3:09 | 2022-10-20 | 2022-11-02 |
 | [Deixa Escondido \(Speed\) \- Remix](https://open.spotify.com/track/3yH9JvETN22IB1KDEMBv7Y) | [Vitux](https://open.spotify.com/artist/53uZ1yBIdMXGoGIJlVab5t) | [Deixa Escondido \(Speed\) \[Remix\]](https://open.spotify.com/album/1205QRpQV4bEJw6YsShzkh) | 2:31 | 2022-10-20 | 2023-03-11 |

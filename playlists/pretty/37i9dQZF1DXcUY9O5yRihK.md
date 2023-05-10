@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > bossa vibes and a romantic daydream
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,063 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,184 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 59 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 |
 | 60 | [Cozy](https://open.spotify.com/track/0XzcZKCGW2eCVNGMS03GYt) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z) | [Cozy](https://open.spotify.com/album/1gU8z2DBmS5Ic39RLx1jry) | 1:49 |
 
-Snapshot ID: `MCw0MjI5MDg4NjY5OWE4MjdkN2VkZDU5MWEwYjdiNDcwMjFlNjYwOTM4`
+Snapshot ID: `MCwxZjhiNjBjOTk0Mzg0OTM0Zjc3ZTA2ZmRjOTIzOTQ2M2RkMmM5NWEx`

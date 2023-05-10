@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 353 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 103 | [Old Memories \(Originals\)](https://open.spotify.com/track/0Rq2JIejWvQ6ibgWBSTcpu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 2:59 |
 | 104 | [Authors Of Forever](https://open.spotify.com/track/13BHxtf5YIEODKlf8wRyXp) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:37 |
 | 105 | [Harlem's Nocturne](https://open.spotify.com/track/1B6dE1LulqFg6OjHIVBv3r) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 1:43 |
-| 106 | [So Simple \(feat\. Lellow\)](https://open.spotify.com/track/4SZOVptbDIwRegbsYCOHRJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lellow](https://open.spotify.com/artist/1HWJoW0XfznpegdxFQXXPQ) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:49 |
-| 107 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
+| 106 | [City of Gods \(Part II\)](https://open.spotify.com/track/33pp6wXPrz46pIwsBrG3HS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [City of Gods \(Part II\)](https://open.spotify.com/album/0KfUWcVGtomJOLrhIpGT7J) | 3:12 |
+| 107 | [So Simple \(feat\. Lellow\)](https://open.spotify.com/track/4SZOVptbDIwRegbsYCOHRJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lellow](https://open.spotify.com/artist/1HWJoW0XfznpegdxFQXXPQ) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:49 |
 | 108 | [Wake Up](https://open.spotify.com/track/5uOLfAXKYvGB57XRNCejRu) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 4:27 |
 | 109 | [Mr\. Man](https://open.spotify.com/track/1YcX0dnem3cvDuGgpqTg1v) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:09 |
 | 110 | [Place To Call My Own \- AK Version](https://open.spotify.com/track/3csHssZTKpXr4UbIUIyksR) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 3:08 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 143 | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/track/52HkYMgslCfQjNuQ8zjE4P) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [NEW YORK \(CONCEPT DE PARIS\) \(feat\. Gil Scott\-Heron\)](https://open.spotify.com/album/4Vppt72lQJuwdBaK9HCh5E) | 4:06 |
 | 144 | [Best Of Me \(Unlocked\)](https://open.spotify.com/track/1fjuFBHNdLSGutjypWmAIZ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:43 |
 | 145 | [Paper Flowers \(Originals\) \(feat\. Brandi Carlile\)](https://open.spotify.com/track/6saHM8nij3vANjWtsQtw2Q) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:24 |
-| 146 | [Nadie \(No One\)](https://open.spotify.com/track/7M02Ay2AZaO7SOrCMOHHOr) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:26 |
-| 147 | [Daffodils \(Originals\)](https://open.spotify.com/track/0NA4CSpUEWzFHCI6RzvbS1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:33 |
+| 146 | [Daffodils \(Originals\)](https://open.spotify.com/track/0NA4CSpUEWzFHCI6RzvbS1) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:33 |
+| 147 | [Nadie \(No One\)](https://open.spotify.com/track/7M02Ay2AZaO7SOrCMOHHOr) | [Prima J](https://open.spotify.com/artist/4RZtJt5A0kG2tyPCcOWlLh) | [Prima J](https://open.spotify.com/album/2SPeiUL67yPZUyJVR1JlwG) | 3:26 |
 | 148 | [Only You \(Originals\)](https://open.spotify.com/track/4CN5QwsYFty7KkcVguSBXr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:15 |
 | 149 | [Pray For Forgiveness](https://open.spotify.com/track/78YBucPLVsqh0ZCmbglDpt) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:44 |
 | 150 | [Love When You Call My Name \(Originals\)](https://open.spotify.com/track/7sKlDgyVEvTA6k7jpVJ9PJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:37 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgwNTk5MjcsMDAwMDAwMDA0YTI5ZmI4OGUxYzM5NTI4MjM3MDg3MTRkNWM4MTE3ZQ==`
+Snapshot ID: `MjgwNjEzNjcsMDAwMDAwMDBkYmMwYzFhZjViMDA0OTQ2NDk4N2ViY2YxZTQyODAzMw==`

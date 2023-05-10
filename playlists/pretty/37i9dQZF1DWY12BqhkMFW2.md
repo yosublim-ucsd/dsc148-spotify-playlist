@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,429 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,493 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 |
 | 35 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
 
-Snapshot ID: `MCw4ODg0NTIwZjIxNjlmNWY3M2EyMjE3NzZkOTBjN2I5YTY3YTc1NjI4`
+Snapshot ID: `MCwyYTQ4Y2RjNWJhMjkwYWJmODhjOWNlMzUyZmQyN2I1ZDE4NDQyNWU1`

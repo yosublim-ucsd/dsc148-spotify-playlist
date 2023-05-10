@@ -4,7 +4,7 @@
 
 > The biggest songs of the 1960s.
 
-823 songs - 1 day 19 hr 6 min
+824 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,7 +538,7 @@
 | [Ramble On \- 1990 Remaster](https://open.spotify.com/track/3MODES4TNtygekLl146Dxd) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin II \(1994 Remaster\)](https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx) | 4:23 | 2019-07-16 |  |
 | [Ramblin' Gamblin' Man](https://open.spotify.com/track/691Wr3tOjDqic3OTPLouX3) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Ramblin' Gamblin' Man](https://open.spotify.com/album/0mnZhL4hkaGyIckwOZ6dgE) | 2:25 | 2020-08-15 | 2022-11-13 |
 | [Rawhide \- Single Version](https://open.spotify.com/track/7K9j1l8gM2yBRfPwAb7gxi) | [Link Wray & The Wraymen](https://open.spotify.com/artist/6PnWx4EpoWejrFQfrg06hU) | [Whistle Bait: 25 Rockabilly Rave\-Ups](https://open.spotify.com/album/4vlbGggiywlr01bTF1GrFG) | 2:05 | 2019-07-16 | 2019-07-28 |
-| [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2022-08-12 |  |
+| [Reach Out I'll Be There](https://open.spotify.com/track/6Pkj4nv5K53i64cLVgkVyY) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Reach Out](https://open.spotify.com/album/4Jw0RycAqlXeAoymbc0CYp) | 2:58 | 2022-08-12 | 2023-05-10 |
 | [Reach Out, I'll Be There](https://open.spotify.com/track/3zA42VIIrkVc2OkgUENTa5) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Gold \(International Version\)](https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx) | 2:54 | 2019-05-26\* | 2022-07-28 |
 | [Ready or Not Here I Come \(Can't Hide from Love\)](https://open.spotify.com/track/5RnlUyTKgmd7V6tXdQcKVK) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 1:59 | 2019-07-24 | 2019-08-08 |
 | [Red Rubber Ball](https://open.spotify.com/track/213YUBpRZdZGCrtb2dcbzi) | [The Cyrkle](https://open.spotify.com/artist/4qnb4cn5aykCACoyuCirGg) | [Red Rubber Ball](https://open.spotify.com/album/1zRCoUPL0gauLKMfYKfqio) | 2:19 | 2019-07-27 | 2020-08-15 |
@@ -677,6 +677,7 @@
 | [The End of the World](https://open.spotify.com/track/5DTOOkooKFUvWj1XQTFa09) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy) | [The Essential Skeeter Davis](https://open.spotify.com/album/3KwArr7JHl7ykUNYrrja7N) | 2:37 | 2019-06-27 | 2023-02-13 |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [First Take](https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F) | 4:20 | 2019-06-24 | 2023-01-15 |
 | [The Game Of Love](https://open.spotify.com/track/3YaSR3Ug3nTBTP6N1iSgYf) | [Wayne Fontana & The Mindbenders](https://open.spotify.com/artist/2VkASgJ3IjpMHG5aYXx4t2) | [60's Gold](https://open.spotify.com/album/2ZVgfQF9ljaMugBwVJMoM8) | 2:06 | 2019-07-23 | 2021-10-11 |
+| [The Girl From Ipanema](https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Getz/Gilberto \(Expanded Edition\)](https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP) | 5:20 | 2022-08-12 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 | 2022-06-08 | 2023-04-10 |
 | [The Girl From Ipanema](https://open.spotify.com/track/58TnktmMKygKvmKEHInhuc) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [Getz/Gilberto](https://open.spotify.com/album/4cYtmC2Fp8LKfxUoTAKsIb) | 5:24 | 2019-07-22 | 2021-10-16 |
 | [The Hedgehog's Song \- 2010 Remaster](https://open.spotify.com/track/7IyDLBtIXS2EKZEt8trS03) | [The Incredible String Band](https://open.spotify.com/artist/0tQzBYPjAardhWpGkqVdNW) | [The 5000 Spirits Or The Layers Of The Onion](https://open.spotify.com/album/3htu0UsV5JuouSfugMHNgS) | 3:27 | 2019-07-25 | 2019-08-08 |

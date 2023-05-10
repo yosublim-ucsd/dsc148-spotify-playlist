@@ -854,7 +854,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 253770,
       "name": "kid(Ryu Solo)",
       "url": "https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo"
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Mix Wave",
+        "url": "https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227291,
+      "name": "\u30b4\u30fc\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb"
+    },
+    {
+      "album": {
         "name": "\u30b5\u30a4\u30c0\u30fc",
         "url": "https://open.spotify.com/album/5lWC0kWqYgIUem8aSfKfpu"
       },
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 215172,
       "name": "\u52ff\u4f53\u7121\u3044",
       "url": "https://open.spotify.com/track/3GQJb7NMVZ8yBRpap7N3TJ"
@@ -2802,6 +2820,24 @@
       "duration_ms": 263666,
       "name": "\u6563\u308b \u6563\u308b \u6e80\u3061\u308b feat. \u83c5\u7530\u5c06\u6689",
       "url": "https://open.spotify.com/track/7KjBcpSghszsNfxw8s8y0P"
+    },
+    {
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz"
+      },
+      "artists": [
+        {
+          "name": "kiki vivi lily",
+          "url": "https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244996,
+      "name": "\u661f\u55ab\u8336\u5e97",
+      "url": "https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP"
     },
     {
       "album": {

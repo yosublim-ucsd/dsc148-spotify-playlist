@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 16250,
+  "num_followers": 16338,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGJjZTYzOTBiZjVmOTEwNjY0ZTI1ODM5NDA5NjJlNGRkODU2NWVm",
+  "snapshot_id": "MCw1ZDEwOWU1YzlmODk5MTJkZmQ3MmQ1Mzk3MjNhYTgyNGQyMzBkMmFm",
   "tracks": [
     {
       "added_at": "2023-03-23 21:59:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-03-23 21:59:00",
       "album": {
+        "name": "Joker EP",
+        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
+      },
+      "artists": [
+        {
+          "name": "Ed-Ward",
+          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
+        }
+      ],
+      "duration_ms": 323245,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 417600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Joker EP",
-        "url": "https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE"
-      },
-      "artists": [
-        {
-          "name": "Ed-Ward",
-          "url": "https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ"
-        }
-      ],
-      "duration_ms": 323245,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k"
     },
     {
       "added_at": "2023-03-23 21:59:00",

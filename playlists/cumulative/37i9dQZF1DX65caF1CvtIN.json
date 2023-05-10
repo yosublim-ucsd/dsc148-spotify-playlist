@@ -2657,6 +2657,28 @@
     },
     {
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        },
+        {
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162921,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
+    },
+    {
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
       },

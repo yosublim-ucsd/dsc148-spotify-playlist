@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,002 likes - 112 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,077 likes - 112 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,12 +98,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 88 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 |
 | 89 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 |
 | 90 | [Pra Machucar Meu Coração](https://open.spotify.com/track/5uhAtnaJcQcPuR8bHU6TKe) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Letra & Música Ary Barroso – Rosa Passos e Lula Galvão](https://open.spotify.com/album/24mfpDgch1Xr8qzJuqUi1Q) | 6:16 |
-| 91 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 |
-| 92 | [Cape Cod Stargazing](https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6) | [Kristofer Gaston](https://open.spotify.com/artist/7DEnJ0qtVh5RPyWW6eC7rC) | [Introducing](https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2) | 4:38 |
-| 93 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
-| 94 | [Un Petit Bossanova](https://open.spotify.com/track/52Ncl5sgFtBDBTHdN8wC3T) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 3:13 |
-| 95 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 |
-| 96 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 |
+| 91 | [Cape Cod Stargazing](https://open.spotify.com/track/10U4uhGvjy4Sai2Hfkzuh6) | [Kristofer Gaston](https://open.spotify.com/artist/7DEnJ0qtVh5RPyWW6eC7rC) | [Introducing](https://open.spotify.com/album/4QvzDLq0wD993COTRQcxi2) | 4:38 |
+| 92 | [Bossa de Leblon](https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 4:01 |
+| 93 | [Un Petit Bossanova](https://open.spotify.com/track/52Ncl5sgFtBDBTHdN8wC3T) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 3:13 |
+| 94 | [Ceora](https://open.spotify.com/track/56IjzoxiY9gC58xawVkMiI) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [Standard Deviations](https://open.spotify.com/album/6LEFehuSSQhReDOW9udTcf) | 4:08 |
+| 95 | [Meditação](https://open.spotify.com/track/4QdHwCmkuQuKfCuqK0VqOP) | [Michel Rosa](https://open.spotify.com/artist/5tGQbvcsEaVXQ5uD7NzfLV) | [Meditação](https://open.spotify.com/album/7uvnQx1Ih6etuDuFLamyzr) | 6:18 |
+| 96 | [All or Nothing at All](https://open.spotify.com/track/353WstqZVn43MLDSfYPObs) | [Sidewalk Room Band](https://open.spotify.com/artist/6TAvSYqKnTOxOfFTCuvPYx) | [All or Nothing at All](https://open.spotify.com/album/6BOoQ90r7KawyLkLPn98Bv) | 5:03 |
 | 97 | [Once I Loved](https://open.spotify.com/track/0M6auxy6hLBXBhniH5UR2U) | [Logan Perez Trio](https://open.spotify.com/artist/1LkgOk5uGieE5FGkTxGNIw) | [Once I Loved](https://open.spotify.com/album/0MyW4ebA1Otb0YYXeVOtnP) | 7:14 |
 | 98 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 |
 | 99 | [Goin' Out of My Head](https://open.spotify.com/track/4LMFr5xaHXr101AV96zZSM) | [Sunset Organ Jazz Trio](https://open.spotify.com/artist/2EgH6CxzDPwaNwe1YpBqcO) | [Goin' Out of My Head](https://open.spotify.com/album/4ESfBFkOULu2MBtgcxNlZx) | 3:16 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVleyMkaelTd.md) - [plain]
 | 111 | [Desafinado](https://open.spotify.com/track/5WhNEjI1UPLRFk3AP3uF3f) | [Andreas Gidlund Five](https://open.spotify.com/artist/77TUX9u0E5esyWr95Iwdg6) | [One For Roy](https://open.spotify.com/album/78OzDMPIdZQrYb5lnRLby2) | 3:47 |
 | 112 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 |
 
-Snapshot ID: `MCwyMTdiYTAxZjYwNmNkNjM0N2I2ZmIxMGNkNjNkMjc3ZTQ0ZTU1MTEx`
+Snapshot ID: `MCxhNzM1NWI3NzE4NzE0MDdkNWNiM2E1ZmMxYmI5NmQyYjRiODI3NjM1`

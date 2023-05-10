@@ -4,7 +4,7 @@
 
 > Concentração no máximo, sem distrações.
 
-872 songs - 1 day 14 hr 1 min
+873 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Here and Now](https://open.spotify.com/track/5ear4Lz72wCw3LwSUSnfY2) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [Colours / Shades](https://open.spotify.com/album/7geyFt9aMvyXquy1wAySDp) | 3:21 | 2020-08-14\* | 2022-04-22 |
 | [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-04-09 | 2021-09-15 |
 | [Higher Powers](https://open.spotify.com/track/6Et50X8JCM7xDxACF28mv3) | [Isabelle Taylor](https://open.spotify.com/artist/4XTnPVtZMaZfV1pScZs0g2) | [Transients](https://open.spotify.com/album/4qeC0Kw7vuH2EgSQaP0i5Z) | 2:55 | 2020-08-14\* | 2021-10-23 |
-| [Hilma](https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Hilma](https://open.spotify.com/album/1ZfQb0993HOLiF53xHOURB) | 2:38 | 2021-05-20 |  |
+| [Hilma](https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Hilma](https://open.spotify.com/album/1ZfQb0993HOLiF53xHOURB) | 2:38 | 2021-05-20 | 2023-05-10 |
 | [Himitsu](https://open.spotify.com/track/17DJuwGNugAo1UzfyA7On8) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [By the Border](https://open.spotify.com/album/2ahyKR00M06DOvnNfXeGmd) | 2:38 | 2020-08-14\* | 2021-05-06 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jacqués](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-05-20 | 2022-06-08 |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-07-05 |  |
@@ -340,7 +340,7 @@
 | [In the Company of My Solitude](https://open.spotify.com/track/7tTdLHn6Y8nKjoZF8PlCpW) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [In the Company of My Solitude](https://open.spotify.com/album/4DbvoAadQ8bDRPuM4JKrRs) | 2:44 | 2021-10-13 | 2022-07-20 |
 | [in the trees](https://open.spotify.com/track/5upbO77KyND8zshSspyOY2) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [ii](https://open.spotify.com/album/5mdWaIWuhiVbL4RE5k07Dq) | 3:37 | 2020-08-14\* | 2022-09-24 |
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-07-01 | 2022-04-22 |
-| [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 | 2020-12-10 | 2023-04-12 |
+| [Indivision](https://open.spotify.com/track/0Cgezkm0kCTnegOB6rCzed) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Indivision](https://open.spotify.com/album/7ANmCCI9lzaAsthwF8QcHd) | 2:48 | 2020-12-10 |  |
 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 | 2021-06-04 | 2022-09-15 |
 | [Inner Peace](https://open.spotify.com/track/0pPoqOUNEIYkxJupkj25vW) | [Jalabert](https://open.spotify.com/artist/3QhEmbt5VdCTPAafeOs8Pp) | [Inner Peace](https://open.spotify.com/album/4tQWjJfBGxtsZBqxdvt58M) | 3:10 | 2020-08-14\* | 2020-09-02 |
 | [Innocent Pleasure](https://open.spotify.com/track/77mJp2S0dP7PITIBWBN9KE) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Innocent Pleasure](https://open.spotify.com/album/278QhSkHqoR0B0eNATZFd5) | 3:29 | 2021-10-13 | 2022-09-27 |
@@ -378,6 +378,7 @@
 | [La Storia](https://open.spotify.com/track/3U5RTSxDKkhA6rtHEXpI6H) | [Alexander Descartes](https://open.spotify.com/artist/0eDPH1f3HFDuveG1kKeOKK) | [La Storia](https://open.spotify.com/album/0c7N8i0rJZjFJmNn1dkMOe) | 2:44 | 2020-08-14\* |  |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2020-08-14\* | 2021-08-17 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-09-16 | 2022-04-22 |
+| [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-03 |  |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-08-22 |  |
 | [Landmannalaugar](https://open.spotify.com/track/7tEGou25bp3JObTEpfp2en) | [Oddur Klemenzson](https://open.spotify.com/artist/2rXVYffthMoPjCdmU2fzN1) | [Landmannalaugar](https://open.spotify.com/album/2hls5Cj9XC6jtQPBdyY4rL) | 2:13 | 2020-08-14\* | 2022-09-24 |
 | [Lanes Mill](https://open.spotify.com/track/7oebNRU2rprgGdRg8nVo9a) | [Camille Laurent](https://open.spotify.com/artist/7abyHm5fBQV0OD8QJn2NOd) | [Kerala](https://open.spotify.com/album/5DQv0vgau8rwyWqioTZAaX) | 3:04 | 2020-08-14\* | 2020-08-20 |
@@ -845,7 +846,7 @@
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2021-03-26 | 2022-07-20 |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2021-05-06 |  |
 | [Wheels in Motion](https://open.spotify.com/track/4Uke8Qv2jsLGq2pKSXjSXO) | [Jenny Lange](https://open.spotify.com/artist/0bdXzz2dagVewMxDw4CX4i) | [Spritual](https://open.spotify.com/album/2mYJWYmAlZKGjmlv8d0wR4) | 3:08 | 2020-08-14\* | 2020-09-16 |
-| [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2020-11-27 |  |
+| [When I Am With Her](https://open.spotify.com/track/6ubtoV4XYNXmXAonor5OGG) | [Hattie Sanford](https://open.spotify.com/artist/5Y9w5YkP5VxVumV37PL7tU) | [When I Am With Her](https://open.spotify.com/album/1gHtrb53NvHOPooEuQls2e) | 2:40 | 2020-11-27 | 2023-05-10 |
 | [When She Flows](https://open.spotify.com/track/0kI6c7wGZ5h3njJ5wF4nMw) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When She Flows](https://open.spotify.com/album/3zCCxRh7AAooxeYJRD7fSM) | 2:10 | 2020-08-14\* | 2022-06-08 |
 | [when softness lifted us](https://open.spotify.com/track/4YJFGtMJbQsPtBFNaLVJVy) | [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5) | [when softness lifted us](https://open.spotify.com/album/7gKhonZ8cfp8AuuCXVWflm) | 2:41 | 2021-03-14 | 2022-05-06 |
 | [Where I grew up](https://open.spotify.com/track/2f4TKyHedMspaF5OH1BJwQ) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [Where I grew up](https://open.spotify.com/album/6287s41ZPgZT1RPKEQMLpS) | 2:06 | 2020-08-14\* | 2021-05-28 |

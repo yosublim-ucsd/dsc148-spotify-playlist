@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 427010,
+  "num_followers": 427229,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2Q0OGJmYjNmY2QyOWI3ZTQ2YWMyZDQ1NWY2MTA5MmY5MTlkYTRi",
+  "snapshot_id": "MCxjYmU2YTUxNjYxMTExMjI1YjBhM2M3M2I2ZjEzMzRiMjdhMzJhMzUx",
   "tracks": [
     {
       "added_at": "2022-09-13 23:04:24",
@@ -27,18 +27,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
       "added_at": "2022-09-23 10:47:53",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         }
       ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -123,26 +123,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 187333,
       "name": "Pope Is a Rockstar",
       "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Inner World Peace",
-        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 155609,
-      "name": "One Year Stand",
-      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Inner World Peace",
+        "url": "https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 155609,
+      "name": "One Year Stand",
+      "url": "https://open.spotify.com/track/6NehzYGU99fC39zs2KqONu"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "There's Nothing But Pleasure",
-        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
       "artists": [
         {
-          "name": "Bubble Tea and Cigarettes",
-          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
         }
       ],
-      "duration_ms": 341186,
-      "name": "5AM Empanada with You",
-      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "There's Nothing But Pleasure",
+        "url": "https://open.spotify.com/album/4tP6s2K0QHvzuC960rQ1Dc"
+      },
+      "artists": [
+        {
+          "name": "Bubble Tea and Cigarettes",
+          "url": "https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P"
+        }
+      ],
+      "duration_ms": 341186,
+      "name": "5AM Empanada with You",
+      "url": "https://open.spotify.com/track/5zotLA21Q8MnILdUxBEPRM"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Double Superfine",
         "url": "https://open.spotify.com/album/0xdmCxyGcXL1yCbHQcLnwx"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
       },
       "artists": [
         {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
         }
       ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -899,22 +915,6 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/7M3YPejLG9WxQS9i4ZHVXh"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
-      },
-      "artists": [
-        {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Sun Outside My Window",
+        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Guy",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Sun Outside My Window",
+      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Can\u2019t Get Enough",
         "url": "https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 96000,
       "name": "AHH!!",
       "url": "https://open.spotify.com/track/0bhmQgTeqAcxvfoHo5NPk7"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Sun Outside My Window",
-        "url": "https://open.spotify.com/album/4IZghGvlSC2HHAnuO1JmNe"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Sun Outside My Window",
-      "url": "https://open.spotify.com/track/6hj8HbgTMVMvcA8a9fKAhr"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "Maybe the Problem Is Me",
-        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 133090,
-      "name": "Maybe the Problem Is Me",
-      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 180295,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Maybe the Problem Is Me",
+        "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 133090,
+      "name": "Maybe the Problem Is Me",
+      "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1279,6 +1279,26 @@
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "Afternoon Bike Ride",
+        "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
+      },
+      "artists": [
+        {
+          "name": "Afternoon Bike Ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Before the Fall",
+      "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1311,26 +1331,6 @@
       "duration_ms": 96363,
       "name": "heat waves - lofi version",
       "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Afternoon Bike Ride",
-        "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
-      },
-      "artists": [
-        {
-          "name": "Afternoon Bike Ride",
-          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Before the Fall",
-      "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3j4P5XClGIWJhnXT6NTix2"
       },
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "The Gaping Mouth",
-        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
-      },
-      "artists": [
-        {
-          "name": "Lowertown",
-          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
-        }
-      ],
-      "duration_ms": 219010,
-      "name": "Seaface",
-      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "OH GOD",
         "url": "https://open.spotify.com/album/4IrzLi3zyjvFxiinNRQM3P"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 132323,
       "name": "OH GOD",
       "url": "https://open.spotify.com/track/6WE3Ai38FIfTiBvOWLZwA1"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
+        "name": "The Gaping Mouth",
+        "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
+      },
+      "artists": [
+        {
+          "name": "Lowertown",
+          "url": "https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw"
+        }
+      ],
+      "duration_ms": 219010,
+      "name": "Seaface",
+      "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
     },
     {
       "added_at": "2022-09-13 23:04:24",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
-        "name": "softcore mourn",
-        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
-      },
-      "artists": [
-        {
-          "name": "pizzagirl",
-          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
-        }
-      ],
-      "duration_ms": 243102,
-      "name": "sugar ray",
-      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-09-13 23:04:24",
       "album": {
+        "name": "softcore mourn",
+        "url": "https://open.spotify.com/album/6JpYbHo988mjDqGjUCDxwR"
+      },
+      "artists": [
+        {
+          "name": "pizzagirl",
+          "url": "https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA"
+        }
+      ],
+      "duration_ms": 243102,
+      "name": "sugar ray",
+      "url": "https://open.spotify.com/track/41edVQe0lQk74BxzcC7odS"
+    },
+    {
+      "added_at": "2022-09-13 23:04:24",
+      "album": {
         "name": "i don't need to understand",
         "url": "https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 146594,
       "name": "i don't need to understand",
       "url": "https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm"
-    },
-    {
-      "added_at": "2022-09-13 23:04:24",
-      "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
     }
   ],
   "unique_name": "Lo-fi Indie",

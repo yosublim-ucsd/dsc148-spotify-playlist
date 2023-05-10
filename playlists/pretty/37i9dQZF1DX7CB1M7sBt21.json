@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 1928,
+  "num_followers": 1957,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzE4ZTIwMzQ5YTVmMzk5ODQ4N2MyOGE1ODg4OTQ0YzgyZGNmNGRl",
+  "snapshot_id": "MCxiZGY4MDIzMjIxZGI2ZmJjNmExYjUwNzg0ZDAzYTI1Y2JiZDg1OTcw",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Someone You Loved (Madism Radio Mix)",
+        "url": "https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 157171,
+      "name": "Someone You Loved - Madism Radio Mix",
+      "url": "https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Lifestyle (feat. Adam Levine)",
         "url": "https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Someone You Loved (Madism Radio Mix)",
-        "url": "https://open.spotify.com/album/4wooeoqR0Ix5w7GDYvkHju"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 157171,
-      "name": "Someone You Loved - Madism Radio Mix",
-      "url": "https://open.spotify.com/track/1FaMsrYFdk914HDLQar1tz"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        }
-      ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 198635,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Let Them Know",
-        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 148693,
-      "name": "Let Them Know",
-      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "You (Topic Remix)",
         "url": "https://open.spotify.com/album/4Ft2rFCFSXB88S7U0vy80Z"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 157160,
       "name": "You - Topic Remix",
       "url": "https://open.spotify.com/track/5bbtc9t6FcerXp732H2XNu"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/067DP3a9HwQJxvr5lelMbB"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 148693,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/2lw3naleLuf81Si3tuFVak"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Alien (Topic Remix)",
-        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 159927,
-      "name": "Alien - Topic Remix",
-      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "No Time For Tears",
         "url": "https://open.spotify.com/album/5uFXAG4F9SX86RS5RHWDsx"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 196777,
       "name": "No Time For Tears",
       "url": "https://open.spotify.com/track/2Rr1INov0ckj7bLTsk9LV1"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Alien (Topic Remix)",
+        "url": "https://open.spotify.com/album/3M3kO7Um886veK5HKcZj4C"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 159927,
+      "name": "Alien - Topic Remix",
+      "url": "https://open.spotify.com/track/20Nj5d5LxOcja9a8JlU6Yi"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
-        "name": "Year of the Young",
-        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "Year of the Young",
-      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 184026,
       "name": "Brave",
       "url": "https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
+        "name": "Year of the Young",
+        "url": "https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Year of the Young",
+      "url": "https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0"
     },
     {
       "added_at": "2023-02-23 23:00:00",

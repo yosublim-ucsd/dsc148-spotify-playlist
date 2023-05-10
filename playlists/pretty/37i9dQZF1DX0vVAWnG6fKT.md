@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,130 likes - 70 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,674 likes - 70 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 32 | [Deck Of Cards](https://open.spotify.com/track/6n2XxkTKvSE6fUUkV8E0T0) | [Tex Ritter](https://open.spotify.com/artist/0m7gTbaLi5fM22MiRaRf7G) | [Capitol Collectors Series](https://open.spotify.com/album/2F6osXyQIGyFu4VOhH1nAV) | 3:05 |
 | 33 | [Dark As A Dungeon](https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:47 |
 | 34 | [Cool Water](https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN) | [Sons of the Pioneers](https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68) | [Cool Water \(With Bonus Tracks\)](https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7) | 2:09 |
-| 35 | [Old Shep](https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:16 |
+| 35 | [The Shot\-Gun Boogie](https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 2:35 |
 | 36 | [Mind Your Own Business](https://open.spotify.com/track/00prInR3FA2xwKCzUVhISD) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Honky Tonkin \(Expanded Undubbed Edition\)](https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU) | 2:56 |
-| 37 | [The Shot\-Gun Boogie](https://open.spotify.com/track/6tuSry6Ttn4qiyCFTa3XPl) | [Tennessee Ernie Ford](https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp) | [Capitol Collectors Series](https://open.spotify.com/album/5WNgZP1HqQyYgvmWCNgaPv) | 2:35 |
+| 37 | [Old Shep](https://open.spotify.com/track/1EcZIKPxycGolcf0nvEvqf) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9) | [The Country Music Hall Of Fame](https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ) | 3:16 |
 | 38 | [Kentucky Waltz](https://open.spotify.com/track/44X3wBWJkqZucNHbYU6Wk9) | [Bill Monroe](https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H) | [Columbia Historic Edition](https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l) | 2:46 |
 | 39 | [Nine Pound Hammer](https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH) | [Merle Travis](https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q) | [Folk Songs Of The Hills](https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk) | 2:39 |
 | 40 | [Old Nevada Moon](https://open.spotify.com/track/3rhYzTf2LKvMd4K0JkcL3E) | [Patsy Montana](https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG) | [Presenting Patsy Montana](https://open.spotify.com/album/1KDQrtoBwTKtM703tyQJ41) | 2:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Cherokee Maiden](https://open.spotify.com/track/0nBjrklebmieCxTBY4jITG) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:53 |
 | 70 | [Mule Skinner Blues \(Blue Yodel \#8\)](https://open.spotify.com/track/5yCDZ1nxkdd8GOkU3rncjR) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:41 |
 
-Snapshot ID: `MCwyNjg5Y2I4YjE0Y2Y3YjU5MTkyMmM4MjdkMjY5ZWVkOTZjM2U4MWI2`
+Snapshot ID: `MCxmNjBiNDZiZGYyMzA0NGM1NmQxMTIwYmY5MGI0MTAxYTcxODZkYmVh`

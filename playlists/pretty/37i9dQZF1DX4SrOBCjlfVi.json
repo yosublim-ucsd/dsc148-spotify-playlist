@@ -1,12 +1,12 @@
 {
   "description": "All the New Joints featuring Lil Baby, DaBaby, and more. Cover: Gucci Mane",
-  "num_followers": 214869,
+  "num_followers": 215002,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDUxNzUyMzVkYzY0ZjNlODZiN2Q0NWUzMmExOGI2ODViZGZlMDgz",
+  "snapshot_id": "MCwxMGM4MDE2ODFhZjQzY2IyZTJmZGZjMzU5ZDJjZTkyYzkyMWEyMWI2",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -241,6 +241,26 @@
       "url": "https://open.spotify.com/track/14feWRgz9wh0Z1OIFXcJGh"
     },
     {
+      "added_at": "2023-05-09 04:50:05",
+      "album": {
+        "name": "CALL DA FIREMAN",
+        "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 124354,
+      "name": "SELLIN CRACK (feat. Offset)",
+      "url": "https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Live At Electric Lady (Spotify Exclusive)",
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/6t81NqNE5JngNI1CdMVl8v"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-09 04:48:29",
       "album": {
         "name": "THE FORMULA",
         "url": "https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv"

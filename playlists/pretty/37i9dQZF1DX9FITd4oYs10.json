@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 15941,
+  "num_followers": 15949,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTE2MTI0N2FjNjFjZTE2YjY3MDFmMjdlODQ1MzZhOTcyMDFlZmNk",
+  "snapshot_id": "MCw2NmE2ZTFiNGE1OWVmNWI4NzI5MWUxYzNlNTQ5ZTVmMzdkZjA5ZWIx",
   "tracks": [
     {
       "added_at": "2023-03-10 03:01:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-10 03:01:00",
       "album": {
-        "name": "A Milenar Arte De Meter O Louco",
-        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 274482,
-      "name": "Muleque De Vila",
-      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
-    },
-    {
-      "added_at": "2023-03-10 03:01:00",
-      "album": {
         "name": "Slow Flow",
         "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 159730,
       "name": "Rosas e Rimas",
       "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2023-03-10 03:01:00",
+      "album": {
+        "name": "A Milenar Arte De Meter O Louco",
+        "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 274482,
+      "name": "Muleque De Vila",
+      "url": "https://open.spotify.com/track/4d2sSjYgtVjaUPxyM1tetN"
     },
     {
       "added_at": "2023-03-10 03:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  K-Anthony",
-  "num_followers": 86756,
+  "num_followers": 86784,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmFhODgyOGI0YjRkNzVmMTUzOGQ4MTNiNWFhYzUyYmJlMmY3ZTYz",
+  "snapshot_id": "MCw2NGQ4MGMwMGE4MzhmOWNjNGNjYTI5MjhmMmZkNjdkMGFhYTBmNjc4",
   "tracks": [
     {
       "added_at": "2022-10-29 07:17:38",
@@ -119,22 +119,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "How Can You Not",
-        "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 192862,
-      "name": "How Can You Not",
-      "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "I See Grace",
         "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "How Can You Not",
+        "url": "https://open.spotify.com/album/2TBFTCdartNacGPFgiVxSz"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 192862,
+      "name": "How Can You Not",
+      "url": "https://open.spotify.com/track/0covwa001dCZVFNB2Jz2tt"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "God Help Me",
+        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 193934,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "God Help Me",
-        "url": "https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 193934,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -867,6 +867,22 @@
       "duration_ms": 210933,
       "name": "MILLION WAYS",
       "url": "https://open.spotify.com/track/1NddiFqEEAbo1cH5OJo2gP"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 201268,
+      "name": "Arms of Jesus",
+      "url": "https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -939,22 +955,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 201268,
-      "name": "Arms of Jesus",
-      "url": "https://open.spotify.com/track/5y75YUXAJ1lHc3bUDKen3e"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "a thousand shores",
         "url": "https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Hurt Is",
-        "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 183250,
-      "name": "Hurt Is",
-      "url": "https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "We Come Alive",
         "url": "https://open.spotify.com/album/73yb9yqfQDuCIo8IfjAIdD"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 238757,
       "name": "We Come Alive",
       "url": "https://open.spotify.com/track/5moU0hlYotRmoULRqb4e0h"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Hurt Is",
+        "url": "https://open.spotify.com/album/5Q0cqBHZTVVKuyOnbDqJ1b"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Hurt Is",
+      "url": "https://open.spotify.com/track/6JFX5E32owJBYbL4OSOVtC"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "KEEP YOUR WORD / GOODBYES",
-        "url": "https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n"
-      },
-      "artists": [
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "KEEP YOUR WORD",
-      "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Waking Up",
         "url": "https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+        "name": "KEEP YOUR WORD / GOODBYES",
+        "url": "https://open.spotify.com/album/2K3Ed5r7nyX64TYxKlaH4n"
       },
       "artists": [
         {
-          "name": "Daniel Doss",
-          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
         }
       ],
-      "duration_ms": 209262,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
+      "duration_ms": 190586,
+      "name": "KEEP YOUR WORD",
+      "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1307,6 +1291,22 @@
       "duration_ms": 215800,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/1h5UwBqq3m7BNUrCrcSxY5"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/350DvgUbR83wdpqAIEAUeU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Doss",
+          "url": "https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC"
+        }
+      ],
+      "duration_ms": 209262,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/5UC1B9KaUWKFUYNFrklGxQ"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
         "name": "Worry",
         "url": "https://open.spotify.com/album/5u062xvW8kyvsRkHinuer2"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
-      },
-      "artists": [
-        {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
-        }
-      ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-10-29 07:17:38",
+      "album": {
+        "name": "Known, Seen, Loved",
+        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+      },
+      "artists": [
+        {
+          "name": "MORIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 188138,
+      "name": "Known, Seen, Loved",
+      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Known, Seen, Loved",
-        "url": "https://open.spotify.com/album/2vyiLc8hSAi3nDNe11CoQn"
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
       "artists": [
         {
-          "name": "MORIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         }
       ],
-      "duration_ms": 188138,
-      "name": "Known, Seen, Loved",
-      "url": "https://open.spotify.com/track/1XMyGFBaTkXKsypEZD1dmr"
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1603,34 +1619,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
       "artists": [
         {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
         }
       ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2022-10-29 07:17:38",
-      "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
-      },
-      "artists": [
-        {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
-        }
-      ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+      "duration_ms": 313933,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
     },
     {
       "added_at": "2022-10-29 07:17:38",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-10-29 07:17:38",
       "album": {
-        "name": "Anyway",
-        "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
       },
       "artists": [
         {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
         }
       ],
-      "duration_ms": 313933,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
     },
     {
       "added_at": "2022-10-29 07:17:38",

@@ -395,6 +395,32 @@
     },
     {
       "album": {
+        "name": "Angel Pt. 1 (feat. Kodak Black, Jimin of BTS, & JVKE) [Trailer Version]",
+        "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62789,
+      "name": "Angel Pt. 1 (feat. Kodak Black, Jimin of BTS, & JVKE) - Trailer Version",
+      "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
+    },
+    {
+      "album": {
         "name": "Love Yourself \u7d50 'Answer'",
         "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
       },

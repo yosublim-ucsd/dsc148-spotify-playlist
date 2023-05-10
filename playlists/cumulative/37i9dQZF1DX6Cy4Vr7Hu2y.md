@@ -4,7 +4,7 @@
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: aespa\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-326 songs - 18 hr 29 min
+327 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Euphoria](https://open.spotify.com/track/3Ixsxq6c4AFcUH5JjQTgYj) | [Chymes](https://open.spotify.com/artist/2aenOcvulZ1Zltq7bAdbi4) | [Euphoria](https://open.spotify.com/album/17szusBUg2KhiVYBxU4AOo) | 3:10 | 2021-11-21 | 2022-07-27 |
 | [Even So](https://open.spotify.com/track/2iRrkHAH7JeDRK9oipHd3j) | [LUNA](https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2) | [Even So](https://open.spotify.com/album/0Y6uM1oGRdVD4EazYhK8E9) | 3:48 | 2021-11-21 | 2022-05-22 |
 | [Everybody Has](https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Everybody Has](https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C) | 3:42 | 2021-11-21 | 2022-07-14 |
-| [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-28 |  |
+| [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 | 2023-03-28 | 2023-05-10 |
 | [Falling](https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm) | [Nana Mellie](https://open.spotify.com/artist/0mEqQK9XLebClRou2o75oY) | [Falling](https://open.spotify.com/album/5ENSVL32r7SnmOLHoLSZWQ) | 3:28 | 2021-11-21 | 2022-07-25 |
 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 | 2022-07-07 |  |
 | [FANCY](https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 3:33 | 2021-11-21 | 2022-07-29 |
@@ -255,6 +255,7 @@
 | [SOLO](https://open.spotify.com/track/2wVDWtLKXunswWecARNILj) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SOLO](https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k) | 2:49 | 2022-07-07 |  |
 | [Somebody](https://open.spotify.com/track/6gPPFsA1cM8UPQfZydxb0K) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Somebody](https://open.spotify.com/album/227i3W9yqy2pDOavgMVs3k) | 3:24 | 2021-11-21 | 2022-07-20 |
 | [Spark](https://open.spotify.com/track/49euWwcjQTzVCynY53tvH5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:37 | 2021-11-21 | 2022-07-27 |
+| [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-09 |  |
 | [SPICY](https://open.spotify.com/track/0KGn1PDH5cqmD4B8GMVfae) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [SPICY](https://open.spotify.com/album/187GdUKB6sx3DZaL6wpxnO) | 3:14 | 2021-11-21 | 2022-01-02 |
 | [Spring Is You](https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Spring Is You](https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC) | 3:45 | 2021-11-21 | 2022-07-06 |
 | [Stamp On It](https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Stamp On It \- The 1st Mini Album](https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7) | 3:52 | 2023-01-16 |  |

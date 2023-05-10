@@ -3460,10 +3460,28 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 227821,
       "name": "Dinosaur",
       "url": "https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI"
+    },
+    {
+      "album": {
+        "name": "Dinosaur",
+        "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228219,
+      "name": "Dinosaur",
+      "url": "https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k"
     },
     {
       "album": {

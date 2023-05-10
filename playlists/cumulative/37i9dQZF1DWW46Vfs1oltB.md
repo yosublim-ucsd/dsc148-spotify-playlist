@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:ASH ISLAND\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:MIRANI\(미란이\)\)\)
 
-889 songs - 2 day 1 hr 15 min
+890 songs - 2 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [BAAAM \(feat\. Don Mills\)](https://open.spotify.com/track/2MOgMRRDWidwShVY38VLgX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [JIGGY BOY](https://open.spotify.com/album/1Ivhj2SHKyltS1zZ4SxXSm) | 3:05 | 2022-11-07 | 2022-11-17 |
 | [Back In The Day \(HipHop Version\) Feat\. Don Malik, Paloalto](https://open.spotify.com/track/5MEVEzmCN567LPdQSl6KM0) | [TOMNIg](https://open.spotify.com/artist/4QoS6NeKIfGcy60aUbaHmp), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [12 Years Of Digscvry](https://open.spotify.com/album/0yFUU0X7SKtBBBF0bHkrF3) | 4:02 | 2022-03-03 | 2022-06-03 |
 | [BACKPACK \(Feat\. CHANGMO\) \(Prod\. Way Ched\)](https://open.spotify.com/track/6Vnw4p90Onr9ykTKSimaJX) | [YUNG CHENS](https://open.spotify.com/artist/0Z0AJiUSevITizCeuWn5PL), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Baegie](https://open.spotify.com/artist/0luHo70mHCmWPqVVCxex7n), [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [School Rapper4 \- Team Battle:Group](https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK) | 4:12 | 2021-12-18 | 2022-07-04 |
+| [BAD BOY \(feat\. BIG Naughty\)](https://open.spotify.com/track/5DvSOtsX1zRg1M2TjkK9BF) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Drift](https://open.spotify.com/album/5aIC9W1wlhJVl3sGmkbRyV) | 2:44 | 2023-05-09 |  |
 | [Bad Neighbors](https://open.spotify.com/track/1Z3U1Q3fH8NY34NWBor9Tu) | [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [KHAN](https://open.spotify.com/artist/2dixWDh9f2COEfikojSd39) | [Bad Neighbors](https://open.spotify.com/album/26v20MHPOXUnmQOn89jiiM) | 2:59 | 2022-06-27 | 2022-08-13 |
 | [Ball \(Feat\. Chillin Homie, TRADE L, Mckdaddy\)](https://open.spotify.com/track/4sP7jhnNwuDUgpjRKAScuc) | [Lil Xasimi](https://open.spotify.com/artist/3f4VfMjKxBpko2XLYfmnrF), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA) | [Ball \(Feat\. Chillin Homie, TRADE L, Mckdaddy\)](https://open.spotify.com/album/3X9p3dVTmrzLOVRmi0ESqq) | 2:50 | 2021-12-21 | 2022-04-16 |
 | [Banghak](https://open.spotify.com/track/5QOUI4w7POVYMbT9jbMi9L) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Banghak](https://open.spotify.com/album/1bWWELesiJqVeN4shefqbG) | 3:25 | 2022-12-20 | 2022-12-28 |

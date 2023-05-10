@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: Bassjackers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,726,870 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,727,129 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Diamond Sky](https://open.spotify.com/track/4RGTwTk5Vd5uzDshtlYwW7) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Diamond Sky](https://open.spotify.com/album/7v6VMKg4Q3L3jbHGqjt0KK) | 2:23 |
 | 50 | [Big Jet Plane](https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3) | [Big Jet Plane](https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW) | 2:30 |
 
-Snapshot ID: `MCxhMzk0MzZmYzQ2N2FkOGJlY2M2Njc4ZmMxZjljMTQ5ZjQ2YTI5Yjlk`
+Snapshot ID: `MCxmOTMyYTVmNjAxZTY5MjgwMDQzMWUzMjVlNmQzOWZkODA2OTgzYjY5`

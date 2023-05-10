@@ -4,13 +4,14 @@
 
 > Jazz for breakfast to start your day right.
 
-169 songs - 14 hr 48 min
+170 songs - 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [42nd Street Shuffle](https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [42nd Street Shuffle](https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC) | 4:19 | 2022-11-17 |  |
 | [A Change Of Face](https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl) | 4:58 | 2022-06-30 |  |
 | [A Change Of Face](https://open.spotify.com/track/79KZTjH5g7YudO6kR3yF3g) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/7hTMtmngeZMtoVqlWLzXCO) | 4:58 | 2021-12-21 | 2022-07-29 |
+| [A.M\. Hours](https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Day](https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb) | 4:18 | 2023-05-09 |  |
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-04-28 |  |
@@ -24,7 +25,7 @@
 | [Blue Hour](https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Blue Hour](https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX) | 5:19 | 2023-02-16 |  |
 | [Blues Arabesque](https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV) | 4:40 | 2021-12-21 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2021-12-21 | 2022-04-21 |
-| [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 | 2021-12-21 |  |
+| [Bluesen](https://open.spotify.com/track/4q4emoW3IX2eHhY3sVkudj) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven](https://open.spotify.com/album/1a7WanJ8OXUHZsbIlJZLDb) | 2:57 | 2021-12-21 | 2023-05-10 |
 | [Bolo Blues](https://open.spotify.com/track/0aTlJ59aJoZ27Ghrhp2hqq) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Presenting Jimmy Forrest](https://open.spotify.com/album/3PKLsD2Wne8PaE68ILMgPv) | 4:09 | 2022-09-27 | 2023-02-20 |
 | [Bolo Blues](https://open.spotify.com/track/1vBY6A7DpKaA8YSDvvlUUG) | [Jimmy Forrest](https://open.spotify.com/artist/2AdOGwpXiwCctV1n9sJaub) | [Holiday in the Sun \- Summer Dreaming](https://open.spotify.com/album/7HFeWGNvrCE6iKR3J3YUVX) | 4:09 | 2021-12-21 | 2022-07-26 |
 | [Boo's Blues](https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Boo's Blues](https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU) | 3:25 | 2022-02-10 |  |
@@ -149,12 +150,12 @@
 | [The Starter](https://open.spotify.com/track/75LUX2oADzPgkEQdRhIr9c) | [Per Thornberg](https://open.spotify.com/artist/1RJJGg6s9j4LXZwjPqXSlv) | [The Starter](https://open.spotify.com/album/6XCgl8rWBRZlpsWVQBWTrI) | 6:15 | 2023-01-03 |  |
 | [Thembi](https://open.spotify.com/track/6x4WAXhYazOoc0vCg2sybO) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/5bNLEyWCkiYC5ZoMxSWMWB) | 7:02 | 2021-12-21 | 2022-05-08 |
 | [Theo](https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD) | [Robert Keßler](https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0), [Andreas Henze](https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39), [Tobias Backhaus](https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg) | [Bloodline](https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG) | 5:59 | 2022-02-10 | 2022-07-29 |
-| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 | 2023-04-02 |
+| [Theo](https://open.spotify.com/track/09CTXrG9RWW11O7ifRtfdA) | [Robert Keßler Trio](https://open.spotify.com/artist/4hIGITZeRZF118QxpLWaUf) | [Bloodline](https://open.spotify.com/album/35NpljHjLbJd5Wsjab4cOs) | 5:59 | 2022-10-11 |  |
 | [There's No Place For Me \- Live](https://open.spotify.com/track/48PojLpjonNmPElm0ntohW) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:20 | 2022-10-25 |  |
 | [Throng](https://open.spotify.com/track/2Qd5FZiEDmePPjnLhJtle2) | [Nick Ingman](https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p) | [Big Beat](https://open.spotify.com/album/6Yjy84o9dZ5ydgVPxQZObF) | 3:02 | 2021-12-21 | 2022-06-09 |
 | [To Mr K.K.](https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:30 | 2022-04-07 |  |
 | [Together](https://open.spotify.com/track/2wOlZrHUpRP9hQbqbV9Ae5) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/1fcREbFQfCqfwxXkxGgvV7) | 11:12 | 2021-12-21 | 2022-07-29 |
-| [Together \- Special Edition](https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46) | 11:12 | 2022-06-30 |  |
+| [Together \- Special Edition](https://open.spotify.com/track/6sJUbzyzNOrAt9dr3pkOPk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Colour Yes \(Special Edition\)](https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46) | 11:12 | 2022-06-30 | 2023-05-10 |
 | [Touch](https://open.spotify.com/track/0rHgcsBwgdZuHR6YPquW49) | [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT) | [Yellow Fields](https://open.spotify.com/album/6tw9j5BoCn63TftByUOIKR) | 4:59 | 2021-12-21 | 2022-09-28 |
 | [Tributary](https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Tributary](https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM) | 5:47 | 2022-08-11 |  |
 | [Triceratops / The Caller](https://open.spotify.com/track/1DXrHK5VDk1GPW5j1aQlrP) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/5rAMFNRPhYbuunjpa96flo) | 5:15 | 2022-09-20 | 2022-09-28 |

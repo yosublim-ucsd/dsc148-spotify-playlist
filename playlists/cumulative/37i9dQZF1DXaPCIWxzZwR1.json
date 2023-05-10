@@ -7935,6 +7935,24 @@
     },
     {
       "album": {
+        "name": "Fictional",
+        "url": "https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5"
+      },
+      "artists": [
+        {
+          "name": "Khloe Rose",
+          "url": "https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Fictional",
+      "url": "https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS"
+    },
+    {
+      "album": {
         "name": "fingers crossed",
         "url": "https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg"
       },

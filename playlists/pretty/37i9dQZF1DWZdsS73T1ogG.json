@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Alejo",
-  "num_followers": 517028,
+  "num_followers": 517080,
   "original_name": "el nuevo urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDhiMjM0OGZkMjk1OGU3NTdkMjE5ZmQyZmNiMzIyMmJkZTNlZDM1",
+  "snapshot_id": "MCwzZjJmNzc3YTI0MzBlMjAyYTEwOGZiYmZiYzQ5NjQxMTYyMTZhNTIw",
   "tracks": [
     {
       "added_at": "2023-05-05 08:39:49",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 183480,
-      "name": "PERO T\u00da",
-      "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
         "name": "qu\u00e9 le pasa conmigo?",
         "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 183480,
+      "name": "PERO T\u00da",
+      "url": "https://open.spotify.com/track/1dw7qShk971xMD6r6mA4VN"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
+        "name": "R\u00c1PIDO",
+        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "R\u00c1PIDO",
+      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 275040,
       "name": "Coraz\u00f3n Roto - Remix",
       "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
-        "name": "R\u00c1PIDO",
-        "url": "https://open.spotify.com/album/2D5urBuawvNIrKdxO0X1pe"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "R\u00c1PIDO",
-      "url": "https://open.spotify.com/track/6peVAUzSxDlTigQw5T99O5"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
+        "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
         "name": "Copas",
         "url": "https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 237388,
       "name": "Copas",
       "url": "https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
-        "name": "Helicoptero",
-        "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 137014,
-      "name": "Helicoptero",
-      "url": "https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1091,8 +1091,8 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "L\u00edo",
-        "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
+        "name": "Dudas De M\u00ed",
+        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
       },
       "artists": [
         {
@@ -1100,9 +1100,9 @@
           "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 166612,
-      "name": "L\u00edo",
-      "url": "https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I"
+      "duration_ms": 158698,
+      "name": "Dudas De M\u00ed",
+      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "Me Pone Mal",
-        "url": "https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 177667,
-      "name": "Me Pone Mal",
-      "url": "https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
         "name": "Verano",
         "url": "https://open.spotify.com/album/3fAhHCHL12IjUVUMmImIUs"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "Me Pone Mal",
+        "url": "https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 177667,
+      "name": "Me Pone Mal",
+      "url": "https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1295,8 +1295,8 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "Dudas De M\u00ed",
-        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
+        "name": "L\u00edo",
+        "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
       },
       "artists": [
         {
@@ -1304,9 +1304,9 @@
           "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
         }
       ],
-      "duration_ms": 158698,
-      "name": "Dudas De M\u00ed",
-      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
+      "duration_ms": 166612,
+      "name": "L\u00edo",
+      "url": "https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1327,22 +1327,6 @@
       "duration_ms": 187636,
       "name": "Wuapa",
       "url": "https://open.spotify.com/track/1GXZJCOFcyGpvUEqq7qxiY"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
-        "name": "Missionsuicida",
-        "url": "https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ"
-      },
-      "artists": [
-        {
-          "name": "Bb trickz",
-          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
-        }
-      ],
-      "duration_ms": 88158,
-      "name": "Missionsuicida",
-      "url": "https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1371,22 +1355,18 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "te kiero ver",
-        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
+        "name": "Missionsuicida",
+        "url": "https://open.spotify.com/album/4dE1TGR0mL2oACOuuAgeYQ"
       },
       "artists": [
         {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
         }
       ],
-      "duration_ms": 147224,
-      "name": "te kiero ver",
-      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
+      "duration_ms": 88158,
+      "name": "Missionsuicida",
+      "url": "https://open.spotify.com/track/79H6QU3YnrsjxlDmMKU8uA"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1403,6 +1383,26 @@
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "te kiero ver",
+        "url": "https://open.spotify.com/album/3Rq86WgPd26s4M9xTzieGg"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 147224,
+      "name": "te kiero ver",
+      "url": "https://open.spotify.com/track/6K1l7zkN6jFOxsAEgiW8wV"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
+        "name": "LAY LOW",
+        "url": "https://open.spotify.com/album/2saubcNNGXWLQ0vzvZfvLx"
+      },
+      "artists": [
+        {
+          "name": "Jossef",
+          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "LAY LOW",
+      "url": "https://open.spotify.com/track/55gmzY3X3LYdJLxGdJOOVx"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
         "name": "Esa Nena",
         "url": "https://open.spotify.com/album/245a16Mk92WlnOnpBDq0O6"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 164494,
       "name": "Down",
       "url": "https://open.spotify.com/track/70o0EBxSSXpd2qcI74S9uR"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
-        "name": "LAY LOW",
-        "url": "https://open.spotify.com/album/2saubcNNGXWLQ0vzvZfvLx"
-      },
-      "artists": [
-        {
-          "name": "Jossef",
-          "url": "https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "LAY LOW",
-      "url": "https://open.spotify.com/track/55gmzY3X3LYdJLxGdJOOVx"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "Me Llora",
-        "url": "https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 127826,
-      "name": "Me Llora",
-      "url": "https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
         "name": "MARTINI",
         "url": "https://open.spotify.com/album/7m5EsYbaRK4g6DQvmidbd5"
       },
@@ -1767,6 +1751,42 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
+        "name": "Pa que me cu",
+        "url": "https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW"
+      },
+      "artists": [
+        {
+          "name": "Farina",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 194552,
+      "name": "Pa que me cu",
+      "url": "https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "Me Llora",
+        "url": "https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 127826,
+      "name": "Me Llora",
+      "url": "https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/1SLbgZozxdxESKspg0l7hC"
       },
@@ -1803,62 +1823,6 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "Pa que me cu",
-        "url": "https://open.spotify.com/album/1lY6iojhGh1DwmLn62oPkW"
-      },
-      "artists": [
-        {
-          "name": "Farina",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 194552,
-      "name": "Pa que me cu",
-      "url": "https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
-        "name": "Bora Bora",
-        "url": "https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Bora Bora",
-      "url": "https://open.spotify.com/track/0DlxKvlTkBtWr6vnHVcWQm"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
-        "name": "UuU",
-        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 175840,
-      "name": "UuU",
-      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
         "name": "Jugando con la Nieve",
         "url": "https://open.spotify.com/album/2MzO7ZX3uRtJS4zuf6Koor"
       },
@@ -1879,6 +1843,26 @@
       "duration_ms": 160714,
       "name": "Jugando con la Nieve",
       "url": "https://open.spotify.com/track/6HnlIqJUzp4kv4QvPzolem"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "UuU",
+        "url": "https://open.spotify.com/album/0Bv985mz2ttFowbxdfJZHq"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 175840,
+      "name": "UuU",
+      "url": "https://open.spotify.com/track/2HNLYWAbTkk0qvOlCz0aT2"
     },
     {
       "added_at": "2023-05-05 08:39:49",
@@ -1935,26 +1919,6 @@
     {
       "added_at": "2023-05-05 08:39:49",
       "album": {
-        "name": "Sin Ropa",
-        "url": "https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 187951,
-      "name": "Sin Ropa",
-      "url": "https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk"
-    },
-    {
-      "added_at": "2023-05-05 08:39:49",
-      "album": {
         "name": "M\u00e1quina (feat. Go Get Music)",
         "url": "https://open.spotify.com/album/0mrvBuF1bDPnMiKuhYHHhY"
       },
@@ -1979,6 +1943,42 @@
       "duration_ms": 179416,
       "name": "M\u00e1quina (feat. Go Get Music)",
       "url": "https://open.spotify.com/track/4CtoAsebSZ1HNlofQvftIh"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "Sin Ropa",
+        "url": "https://open.spotify.com/album/2UUSErYubfINqZTcUaizo2"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 187951,
+      "name": "Sin Ropa",
+      "url": "https://open.spotify.com/track/65zzffhSKrsRdFixsTKsyk"
+    },
+    {
+      "added_at": "2023-05-05 08:39:49",
+      "album": {
+        "name": "Bora Bora",
+        "url": "https://open.spotify.com/album/0vaSbVCQgVtVT8ARtkDu5f"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Bora Bora",
+      "url": "https://open.spotify.com/track/0DlxKvlTkBtWr6vnHVcWQm"
     }
   ],
   "unique_name": "el nuevo urbano",

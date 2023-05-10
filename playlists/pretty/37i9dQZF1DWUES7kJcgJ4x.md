@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,445 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,453 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Chica Ye\-Ye](https://open.spotify.com/track/5GnMI0vrXfEHHT83SyJ57D) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Las Canciones de Conchita Velasco](https://open.spotify.com/album/0YBnnneqK6X3BCp7akibIq) | 2:22 |
+| 1 | [La Chica Ye\-Ye \- Remastered](https://open.spotify.com/track/6JYjToh74GiDsaD1XvtNyN) | [Conchita Velasco](https://open.spotify.com/artist/2Z1vQhDJCOZ0KntvEqMuSG) | [Pop Español de los 60's, Vol\. 1 \- Cuéntame, Flamenco, La Chica Ye\-Ye..\. \(Remastered\)](https://open.spotify.com/album/6LPWTxR403TgJcPYI0VgWl) | 2:22 |
 | 2 | [Superpitagorico](https://open.spotify.com/track/0NeKyis005c9CMAbtw7L3i) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Johnny El Enojón](https://open.spotify.com/album/2NBbu7clo6VmoRzP3sIdHO) | 1:36 |
 | 3 | [Ne me laisse pas l'aimer](https://open.spotify.com/track/7eam8ssADNwOTEjkl8rsr4) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum](https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb) | 1:57 |
 | 4 | [These Boots Are Made for Walkin'](https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Start Walkin' 1965\-1976](https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 49 | [Boogaloo Smith](https://open.spotify.com/track/69d3Gm32wJVEIjzR554yvM) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Kpm 1000 Series: Progressive Pop](https://open.spotify.com/album/7GVgvor1nx7BAu9XA1mvie) | 1:38 |
 | 50 | [El Juguete Extraordinario](https://open.spotify.com/track/3b7NqPaGppHqg5gubaJNen) | [Alicia Granados](https://open.spotify.com/artist/4MdLsOw1fEglZyW9qkEaft) | [Profesor](https://open.spotify.com/album/1bqkkVj2oGYrp9832YeIfc) | 2:08 |
 
-Snapshot ID: `MCw3MzU5MWVkNDc3NDRmYzg1YjkwYWExMzRkYmZkOTg3YzAxNmQ0OTdm`
+Snapshot ID: `MCw4MDBiZmNjMDA3NjdhZDkyMzA4NTYxOTUxYzVmODAxNzBhNzNhMGM1`

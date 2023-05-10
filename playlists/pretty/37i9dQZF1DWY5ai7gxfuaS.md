@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,965 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,169 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 14 | [Handshakes With Snakes](https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Handshakes With Snakes](https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD) | 1:57 |
 | 15 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
 | 16 | [KILL ALL PREDATORS](https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 2:05 |
-| 17 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 |
-| 18 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
+| 17 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
+| 18 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 |
 | 19 | [I Spit On Your Grave](https://open.spotify.com/track/2HkjkOwkTE51ajdTHxtu26) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7MqqZttKOfY4VvN77e6Mv4) | 3:39 |
 | 20 | [Intoxicated](https://open.spotify.com/track/6KHeDBooGJzetzvqvttq24) | [ALESTI](https://open.spotify.com/artist/7xrxYdkeO8JiGJ5Goiwh7J), [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Intoxicated](https://open.spotify.com/album/385qWF7ljbjZNS6r9LCbZ6) | 3:03 |
 | 21 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 27 | [Puppet](https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4), [Get Scared](https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez) | [Puppet](https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD) | 3:37 |
 | 28 | [Gatekeepers](https://open.spotify.com/track/63pBzNTtzByif59lsK3dou) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:28 |
 | 29 | [Stuck In My Ways](https://open.spotify.com/track/5qCyEApbDw5dzM7Gq5ouhw) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Cheaper Than Therapy](https://open.spotify.com/album/5v0QcUpjf2ucFObuv9Tpgb) | 4:48 |
-| 30 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
-| 31 | [Yuve Yuve Yu](https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Yuve Yuve Yu](https://open.spotify.com/album/2ot7qJ6yU06AkwkAn9xeoP) | 4:42 |
+| 30 | [Yuve Yuve Yu](https://open.spotify.com/track/6J2VvzKwWc2f0JP5RQVZjq) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Yuve Yuve Yu](https://open.spotify.com/album/2ot7qJ6yU06AkwkAn9xeoP) | 4:42 |
+| 31 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 32 | [Stuck In My Ways](https://open.spotify.com/track/4wEQ8ajmibfITVjawBjq61) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Stuck In My Ways](https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv) | 2:54 |
 | 33 | [BURNING RUBBER](https://open.spotify.com/track/4LJ6NBnEKhZSBIC3PsBTFA) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [BURNING RUBBER](https://open.spotify.com/album/2IQbuEqIESTmjTgYctYH8e) | 2:13 |
 | 34 | [Caterpillar](https://open.spotify.com/track/5IYf2klca6lYyOj7jhjF5j) | [Hollow](https://open.spotify.com/artist/64uA1WO40WSspFUnUYirSt) | [Caterpillar](https://open.spotify.com/album/1su4sMJNmHerXssClObphO) | 3:25 |
 | 35 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
 | 36 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 |
-| 37 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
-| 38 | [Diazepam](https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 2:33 |
+| 37 | [Diazepam](https://open.spotify.com/track/2I2lcRhPdvzfpC8Q3Eb6uO) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Downer](https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5) | 2:33 |
+| 38 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
 | 39 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
 | 40 | [WRAITH](https://open.spotify.com/track/00qBObhlttb7UwYTWpkSPm) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:19 |
 | 41 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 51 | [DODGE A BULLET](https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC) | [Philip Solo](https://open.spotify.com/artist/7AiFDZCdP0usKRf55bRPSI), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [DODGE A BULLET](https://open.spotify.com/album/7lyLpdvd2DK5oXCqU5YW0M) | 2:46 |
 | 52 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
 | 53 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
-| 54 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
-| 55 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
-| 56 | [WHATS UP?](https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ) | 2:48 |
-| 57 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
-| 58 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
+| 54 | [Contact](https://open.spotify.com/track/4wFWNUaR7NVwOAeFuAVsDs) | [Violet Cold](https://open.spotify.com/artist/5eh1n96NC6g34nPqpIItIo) | [Kosmik](https://open.spotify.com/album/5JVAct2LmGOSWPNc3v1SQP) | 3:34 |
+| 55 | [Camel Dancefloor](https://open.spotify.com/track/2Y4diJY7G623aDm3eHfqJA) | [Igorrr](https://open.spotify.com/artist/2p2uE4i92Dn4DkThfoKIB9) | [Camel Dancefloor](https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn) | 3:13 |
+| 56 | [Telescope](https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [Telescope](https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X) | 4:09 |
+| 57 | [WHATS UP?](https://open.spotify.com/track/4PY0g4DjsupZaOgEcyiZ5n) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [WHATS UP?](https://open.spotify.com/album/05wwj4GDV36QBZDKVPrGuJ) | 2:48 |
+| 58 | [Russian Doll](https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Flowers of Evil](https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV) | 3:55 |
 | 59 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 60 | [With You](https://open.spotify.com/track/6BDDpHza9P19logSNepfSy) | [IMMERSE](https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN) | [The Weight That Holds Me Here](https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84) | 3:06 |
 | 61 | [Shut Up](https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9) | [Death Blooms](https://open.spotify.com/artist/7zC8Dq1lkaEADdWmRiNV0j) | [Shut Up](https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9) | 3:24 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 79 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 |
 | 80 | [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 |
 
-Snapshot ID: `MCw5MmRiMjJmNmI5MzUzNjYxODYwNWIwY2RjN2JjNzY4MDhjMDY1NzZi`
+Snapshot ID: `MCxhYTYzODQwN2EyNDNlMWVhOTcyMzhlYjViZDU0YmNkM2Y5M2NlOThm`

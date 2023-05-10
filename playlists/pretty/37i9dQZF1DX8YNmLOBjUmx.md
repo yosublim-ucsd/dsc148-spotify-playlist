@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,370 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,367 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 66 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 |
 | 67 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 |
 | 68 | [Fallin' With Me](https://open.spotify.com/track/5n3It3ROR8In19oJkpXeWt) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Fallin' With Me](https://open.spotify.com/album/6zqWA4OhvhQL6qDFutqpw3) | 2:41 |
-| 69 | [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 |
+| 69 | [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 |
 | 70 | [The Liars Club](https://open.spotify.com/track/5N2kRCVevaX7V87akBBLs1) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:48 |
 | 71 | [Want You Like That](https://open.spotify.com/track/0aKWr5K7ydkegVoxd3dBeM) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Love and Other Lies](https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi) | 2:54 |
 | 72 | [Without Me](https://open.spotify.com/track/7oGCVuPEyp6m6DhXkU5Pfs) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Dark Sun](https://open.spotify.com/album/0DY5kJhDXPfDjVdSKNvWlL) | 3:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YNmLOBjUmx.md) - [plain]
 | 99 | [Million Miles of Fun](https://open.spotify.com/track/62cL9ooB6JUvDoHQi1ooSO) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Hygiene](https://open.spotify.com/album/7o7dfudZfiankIzcfXXamT) | 2:10 |
 | 100 | [We Came To Play](https://open.spotify.com/track/5ZNAXdzYkAMDqAokJ9Ub7Z) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [Trouble The Water](https://open.spotify.com/album/1sgYQT8SDu5pjb0MPPqs3t) | 2:15 |
 
-Snapshot ID: `MCxjNzFhMzg1ODRjOGU1ODViNzM3MWQwZjExY2RhMWVkYTIxNmRkMmEy`
+Snapshot ID: `MCxmNjUyN2U5ZWFjNTg5NmRlYThjYzc4ZTAwOWY4NGM3OTQ0YmU2MmFl`

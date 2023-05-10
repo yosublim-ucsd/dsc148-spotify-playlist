@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with Nigerian gospel music.  Cover: Mercy Chinwo",
-  "num_followers": 2377,
+  "num_followers": 2444,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTUwZTMwMWNkNDI1ZThiYjViYjhjMzY2YWRiNDc5ZDg2M2QwMjQz",
+  "snapshot_id": "MCxmOTMxMGU5MTljNDBlYmMzZDBmM2M1MTMzNjBhMWQzZWNiODQ2OWQw",
   "tracks": [
     {
       "added_at": "2023-04-20 23:59:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
-      },
-      "artists": [
-        {
-          "name": "David G",
-          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
-        }
-      ],
-      "duration_ms": 215876,
-      "name": "My Trust Is in You",
-      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
         "name": "The Message",
         "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
       },
@@ -583,18 +567,34 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "David G",
+          "url": "https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 215876,
+      "name": "My Trust Is in You",
+      "url": "https://open.spotify.com/track/3n5ZcqA96LtnDICLZ5rqFY"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 369529,
+      "name": "Jesus at the Centre",
+      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 369529,
-      "name": "Jesus at the Centre",
-      "url": "https://open.spotify.com/track/6vxVWANYDzpoWJcF4vVbr2"
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
+        "name": "Return Rev. 2:4",
+        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 531375,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+    },
+    {
+      "added_at": "2023-04-20 23:59:00",
+      "album": {
         "name": "The Glory Experience (Live In Houston)",
         "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
       },
@@ -699,34 +715,22 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "No One Like You",
+        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 300878,
-      "name": "Obinasom",
-      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
-    },
-    {
-      "added_at": "2023-04-20 23:59:00",
-      "album": {
-        "name": "Return Rev. 2:4",
-        "url": "https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI"
-      },
-      "artists": [
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        },
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 531375,
-      "name": "On Fire",
-      "url": "https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W"
+      "duration_ms": 317675,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "No One Like You",
-        "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 317675,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
+      "duration_ms": 300878,
+      "name": "Obinasom",
+      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
     },
     {
       "added_at": "2023-04-20 23:59:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-04-20 23:59:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/3PJUJDl7tSaxspgWXEawfN"
       },
       "artists": [
         {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
         }
       ],
-      "duration_ms": 230505,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
+      "duration_ms": 324572,
+      "name": "Dansaki",
+      "url": "https://open.spotify.com/track/7pW8qktBmU1SLIDeiVb8PP"
     }
   ],
   "unique_name": "Testify",

@@ -2,7 +2,7 @@
 
 ### [mint brasil](https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1)
 
-> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Dubdogz, Maxximal, Mc Hollywood
+> Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
 126 songs - 6 hr 26 min
 

@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "3A Faw2a",
+        "url": "https://open.spotify.com/album/2okWWnFbcpdFYNBCxHhP4N"
+      },
+      "artists": [
+        {
+          "name": "Rabih Baroud",
+          "url": "https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203990,
+      "name": "3A Faw2a",
+      "url": "https://open.spotify.com/track/0ytxL01ma8qk2YY1KINSnp"
+    },
+    {
+      "album": {
+        "name": "3A Faw2a",
         "url": "https://open.spotify.com/album/62IKmEjQBPbHReySk6hAg8"
       },
       "artists": [
@@ -564,7 +582,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 228570,
       "name": "Beehom Kolohom",
       "url": "https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV"

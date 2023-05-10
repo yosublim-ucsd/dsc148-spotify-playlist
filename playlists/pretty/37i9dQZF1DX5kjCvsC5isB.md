@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,823 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,913 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 20 | [CASUALTY](https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [CASUALTY](https://open.spotify.com/album/2Ctdbwmab7JKb5ZB8nbT0q) | 2:38 |
 | 21 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 |
 | 22 | [Monday](https://open.spotify.com/track/55jtGKCCpLEV0zWFf97wVY) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Further Joy](https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ) | 2:56 |
-| 23 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 |
+| 23 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 |
 | 24 | [Too Soon](https://open.spotify.com/track/2idpJZnXSvfURT7xk9iYF0) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Loud Without Noise](https://open.spotify.com/album/2dAeC1Va8oTjkXEZ2laVxO) | 3:10 |
 | 25 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 |
 | 26 | [GET OUT](https://open.spotify.com/track/3gXi7FvWhTvMPa0wcsNXm9) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [GET OUT](https://open.spotify.com/album/5gkgLMHf8k3hWEDMFls4Ed) | 2:18 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 124 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 | 125 | [IH8EVERY1](https://open.spotify.com/track/41pILuwCEPKC8RLLR9XGT1) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [IH8EVERY1](https://open.spotify.com/album/1Kd1SH6GxOvyEhyH501d3h) | 2:47 |
 
-Snapshot ID: `MCxlMjQ1YThkMDVmMjMxMjNkOTE1MTMzODgyYzRkN2FiMDM1ZmViNWQx`
+Snapshot ID: `MCxkZGJhNTRmYzE4NDRiZWNhOTA2ZmRhMTFjYTA4MDY0NGRkYjhiMTY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,144 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,339 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 38 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 |
 | 39 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
 | 40 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 |
-| 41 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 |
+| 41 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 |
 | 42 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 |
 | 43 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 |
 | 44 | [What A Difference She Made](https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/6otBSSEkPMOwKCtNaibxHB) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [on the way down](https://open.spotify.com/track/0fSpNSc4HqTJEIRYETJftd) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [on the way down](https://open.spotify.com/album/0nER3MDd8ASAzBu2UQ1zz8) | 4:32 |
 | 100 | [Running Theme](https://open.spotify.com/track/6zfx7XrT95qwpeXChmjkzX) | [MEAGAN SKY](https://open.spotify.com/artist/2zPUeDa7TWrDrMRHPvdP9G) | [Running Theme](https://open.spotify.com/album/5B2z2x0lIP5y07vro6oJex) | 5:09 |
 
-Snapshot ID: `MCwwNzFkN2FjYmQ2YTAzMThmYTgzOGE1MWFlN2M3MDk3ZmI5OTE4Mjg5`
+Snapshot ID: `MCw0ZDIwMzM3YTQ5NTc0Y2RiMDBiMmE0Y2JhYzlhMTNkYjQ2ZmRjNzQ0`

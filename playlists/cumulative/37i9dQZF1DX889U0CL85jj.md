@@ -4,7 +4,7 @@
 
 > Just chill.
 
-486 songs - 1 day 3 hr 56 min
+487 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Angel](https://open.spotify.com/track/7iSEz0IIVF5H4KLXIm99Vk) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Angel](https://open.spotify.com/album/7eKRCGyK7MTlG21wEwaCBE) | 5:11 | 2019-06-14 | 2022-01-22 |
 | [Angel's Song](https://open.spotify.com/track/5hXTMmVXz1Ablgu34BkTz1) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Angel's Song](https://open.spotify.com/album/0Ym8AaoLrK5HHQ0lCYgASd) | 3:17 | 2019-12-06 | 2022-01-22 |
 | [angels \(emily\)](https://open.spotify.com/track/4CwgOt8rqXn4t9wOQB6Lej) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [angels \(emily\)](https://open.spotify.com/album/33RyzgCDN8X2JhPVolscRw) | 2:49 | 2020-12-11 | 2022-01-22 |
+| [Another Universe](https://open.spotify.com/track/0Fnu1zx9glEOuEwegQlJ7x) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Another Universe](https://open.spotify.com/album/0EH0fPHBU6THoowDgDcCjz) | 2:42 | 2023-04-28 |  |
 | [anywhere](https://open.spotify.com/track/2AuLEJxJsMVjFggVyv80ev) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [souvenir](https://open.spotify.com/album/4cabxBosFk0C7xVD1lVitq) | 3:08 | 2022-04-29 | 2023-04-22 |
 | [apathy](https://open.spotify.com/track/2KDXCctJkNx43Z4b8pE6pS) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 3:09 | 2023-03-06 |  |
 | [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2022-08-02 |  |
@@ -167,9 +168,9 @@
 | [God Turn Me Into a Flower](https://open.spotify.com/track/6gQktvQxUT27MGcEMpodAZ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [God Turn Me Into A Flower](https://open.spotify.com/album/3zOklMCg025pHEc94hWw9J) | 6:25 | 2022-11-17 | 2022-11-23 |
 | [Godzilla](https://open.spotify.com/track/6TJjw5TFQIcUPXhSPojreM) | [Nanna](https://open.spotify.com/artist/49QsjyvAahM6W748gTeWZ7) | [Godzilla](https://open.spotify.com/album/7s2kLItYeY5LgrmNwFm5Al) | 4:49 | 2023-01-13 |  |
 | [Golden Green feat Wiki](https://open.spotify.com/track/1KXNAw3Jp8JWP6UGX0PITw) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0) | [Yellow \(Deluxe\)](https://open.spotify.com/album/2Q7G6JeqP7m0NjHm8a4nxz) | 4:03 | 2022-09-27 | 2022-11-26 |
+| [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-10 |  |
 | [Greener](https://open.spotify.com/track/3aD8EF1sWXIZgbcxsOqg3T) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Greener](https://open.spotify.com/album/4qvcbIXO49k3UQIKXRpomK) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [Greener](https://open.spotify.com/track/4nYtmcShP6O7QQX7dEPcQM) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/1t12ZzaOf2r1v47MlqzOEM) | 3:54 | 2022-08-19 | 2022-11-13 |
-| [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-06-10 |  |
 | [Half Moon Glow](https://open.spotify.com/track/6IFjS91zi3L02UZe5PsRCE) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA), [Amber Hurst\-Martin](https://open.spotify.com/artist/6A0NCDQ2E9fmXDFXb6gruo), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu), [Lucky Paul](https://open.spotify.com/artist/0mA9yf79tVso6NpcNOuKmc), [Tree Frogs](https://open.spotify.com/artist/6JtWtEF3nBeyrLKmI6M6Lv) | [Half Moon Glow](https://open.spotify.com/album/5fQ4NNeCLAIOK7WUkl6JNn) | 6:36 | 2020-04-24 | 2022-01-22 |
 | [Happen](https://open.spotify.com/track/3x5GkihYMx1wdoXVFAwRyZ) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 4:13 | 2022-08-19 | 2023-04-22 |
 | [Happen](https://open.spotify.com/track/4TCMDoYMAGRzmvmBjnqUmw) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Happen](https://open.spotify.com/album/5pNKUUIVZqaF2U4nkEMxO6) | 4:13 | 2022-08-19 | 2022-10-25 |
@@ -421,7 +422,7 @@
 | [Tears of Change](https://open.spotify.com/track/0T1CmhCAJb8biFVLOSu4iS) | [Turnover](https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52) | [Myself in the Way](https://open.spotify.com/album/3hnuFFEOHQ4X1KGNx1HlLh) | 4:09 | 2022-11-11 |  |
 | [TECTONIC PLATES](https://open.spotify.com/track/5dy9zUa1y7I15hEyC2LSPj) | [Evann McIntosh](https://open.spotify.com/artist/2YSzmcSn7vQaFiB2B5LpCB) | [TECTONIC PLATES](https://open.spotify.com/album/6wEFrGy4VbXGZidDfPQ8JQ) | 3:40 | 2021-08-27 | 2022-11-18 |
 | [Tell Me](https://open.spotify.com/track/0ndV1KbJuiFxPuZ4cJZZi8) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Tell Me](https://open.spotify.com/album/1irZ1TS0B9d4Imzn6SSg1J) | 3:06 | 2020-12-11 | 2023-03-16 |
-| [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 | 2023-03-31 |  |
+| [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 | 2023-03-31 | 2023-05-10 |
 | [Tennis Match](https://open.spotify.com/track/6s5y5duhI7eT27GfRVPqwS) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [Tennis Match](https://open.spotify.com/album/7gYWUAnnVhJlUplouURbj8) | 3:30 | 2020-04-17 | 2022-01-22 |
 | [Tetris People](https://open.spotify.com/track/51sZWHGW1PXyATnMsHxE78) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Tetris People EP](https://open.spotify.com/album/5MiTTycfjIfhePXay7ui0z) | 2:57 | 2021-11-19 | 2022-01-22 |
 | [Thanks Again](https://open.spotify.com/track/6ilACBUGWBHjHugUdYzhtT) | [Lucca Dohr](https://open.spotify.com/artist/6LaE3kwUey4mWfJ7tvjCe9) | [Thanks Again](https://open.spotify.com/album/7xrTBBDHk3tsPLVgQWoqxR) | 3:30 | 2022-04-29 | 2023-04-22 |

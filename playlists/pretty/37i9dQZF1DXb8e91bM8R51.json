@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 39310,
+  "num_followers": 39333,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTE1OGI4NGRmZDhmMWVjZGRhZGFmMmRiMDc4NDkwOTU5MGM3ZDVl",
+  "snapshot_id": "MCw2MzA5Mzk3NmY2NWEwYzhhZGJkNTVkOWFiMzVkNmVjN2M3YWNmZWZi",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1YA0gAfV91LkDq1DODSCbc"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 148571,
       "name": "True Love",
       "url": "https://open.spotify.com/track/06JvOZ39sK8D8SqiqfaxDU"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Take It Or Squeeze It",
         "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 212293,
       "name": "Se Acabo (feat. Method Man) - Remix",
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "LONDON (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 250722,
-      "name": "LONDON (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "LOOK AT ME: THE ALBUM",
         "url": "https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 160506,
       "name": "FUXK (feat. Ski Mask the Slump God)",
       "url": "https://open.spotify.com/track/2y55JzTDe2kFDChkBZUOUS"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "LONDON (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 250722,
+      "name": "LONDON (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Walkin",
+        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 280004,
+      "name": "Walkin",
+      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "I GOT ISSUES",
         "url": "https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 253913,
       "name": "Sober (feat. Roddy Ricch & Post Malone)",
       "url": "https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Walkin",
-        "url": "https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO"
-      },
-      "artists": [
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 280004,
-      "name": "Walkin",
-      "url": "https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -2039,30 +2039,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
-        "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 289826,
-      "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
-      "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Green Juice (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO"
       },
@@ -2083,6 +2059,30 @@
       "duration_ms": 174136,
       "name": "Green Juice (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
+        "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
+      "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -2255,22 +2255,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
+        "name": "Child of God",
+        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 282581,
-      "name": "Vinyl Days (feat. DJ Premier)",
-      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
+      "duration_ms": 255486,
+      "name": "Child of God",
+      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -2291,18 +2287,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Child of God",
-        "url": "https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w"
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/39Pk4nMutY9mR59Z1n9BH1"
       },
       "artists": [
         {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
         }
       ],
-      "duration_ms": 255486,
-      "name": "Child of God",
-      "url": "https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e"
+      "duration_ms": 282581,
+      "name": "Vinyl Days (feat. DJ Premier)",
+      "url": "https://open.spotify.com/track/4Red8fs87G5istv5L8S9kU"
     },
     {
       "added_at": "2023-04-21 03:01:00",

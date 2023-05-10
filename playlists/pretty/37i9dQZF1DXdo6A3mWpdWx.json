@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 536514,
+  "num_followers": 537311,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTA2N2ZmZWI5MzQxZDIyODhjNGQ4YmQ4NjQ4YmIyNzU5ODk3Y2Fm",
+  "snapshot_id": "MCw2ZDJmYzY2OGRlMTE1NTZjNTY0YzQ5ZmMzM2JmMGMyMTU3NDFmZWFj",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Tuesday Night Music Club",
-        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 272106,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 248573,
       "name": "Shoop",
       "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Tuesday Night Music Club",
+        "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 272106,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Duophonic",
+        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 279600,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Duophonic",
-        "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 279600,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/3PkvYP6223QO3xlW2THd1x"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "World Power",
+        "url": "https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "duration_ms": 228993,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Love Is Not Sex",
         "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
       },
@@ -1775,18 +1791,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "World Power",
-        "url": "https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A"
+        "name": "Enrique",
+        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
       },
       "artists": [
         {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 228993,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm"
+      "duration_ms": 212693,
+      "name": "Bailamos - From \"Wild Wild West\"",
+      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1823,22 +1839,6 @@
       "duration_ms": 317080,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Enrique",
-        "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Bailamos - From \"Wild Wild West\"",
-      "url": "https://open.spotify.com/track/1ySwd43oWXbrytN2BD0Mhb"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2139,26 +2139,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "You Don't Know Me (feat. Duane Harden)",
-        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
-      },
-      "artists": [
-        {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Duane Harden",
-          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
-      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -2175,18 +2155,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Forever Faithless - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+        "name": "You Don't Know Me (feat. Duane Harden)",
+        "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
       "artists": [
         {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
         }
       ],
-      "duration_ms": 208506,
-      "name": "God Is a DJ",
-      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
+      "duration_ms": 242333,
+      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2215,6 +2199,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Everything Changes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ"
+      },
+      "artists": [
+        {
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+        },
+        {
+          "name": "Lulu",
+          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Relight My Fire (feat. Lulu)",
+      "url": "https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Don\u2019t Stop Movin\u2019",
         "url": "https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71"
       },
@@ -2435,22 +2455,18 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Everything Changes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1OiyCmdGzJeituBnwEMLOJ"
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
-        },
-        {
-          "name": "Lulu",
-          "url": "https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ"
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
         }
       ],
-      "duration_ms": 251760,
-      "name": "Relight My Fire (feat. Lulu)",
-      "url": "https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi"
+      "duration_ms": 216626,
+      "name": "Lollipop (Candyman)",
+      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2467,22 +2483,6 @@
       "duration_ms": 258000,
       "name": "Things Can Only Get Better",
       "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Aquarium (Special Edition)",
-        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 216626,
-      "name": "Lollipop (Candyman)",
-      "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
     },
     {
       "added_at": "2022-10-11 00:00:00",

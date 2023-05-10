@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,679 likes - 105 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,684 likes - 105 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [听雨说](https://open.spotify.com/track/16GE6UB5S24IrvqmahU7CA) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [听雨说](https://open.spotify.com/album/2vkr0ahxqn49EdITMEJyAD) | 3:14 |
 | 105 | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/track/5vK9eZXr6rPzGMam2gM3Rb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [心门\(电视剧《云襄传》插曲&片尾曲\)](https://open.spotify.com/album/74q1Dvfb9naAGqNXwIhbTC) | 3:25 |
 
-Snapshot ID: `MCxlNmZkOTkxYzYzMzNjYmIzOGFkMjBiZGQ5NTlmOGRjZDYxYjFmZGIx`
+Snapshot ID: `MCw2NTIzZjNlMTg0MTNjNDg1OTRmZmE2ZDFjN2Q2MjZmNjdjNzQ0OGI2`

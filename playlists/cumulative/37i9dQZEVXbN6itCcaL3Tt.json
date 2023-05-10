@@ -1127,6 +1127,36 @@
     },
     {
       "album": {
+        "name": "Afryka",
+        "url": "https://open.spotify.com/album/2xMDyrK06kbzKI15b4aFLz"
+      },
+      "artists": [
+        {
+          "name": "Przemek.pro",
+          "url": "https://open.spotify.com/artist/0c5F4dAWCo7429DSHz0IhE"
+        },
+        {
+          "name": "Qry",
+          "url": "https://open.spotify.com/artist/3Mnrb43jb3hiASpyCvaZpy"
+        },
+        {
+          "name": "Bartek Kubicki",
+          "url": "https://open.spotify.com/artist/02Yk29Tllx7M1saf5PiAPo"
+        },
+        {
+          "name": "Trzech Kr\u00f3li",
+          "url": "https://open.spotify.com/artist/12RbToPJopBHcXGKez6EDQ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134896,
+      "name": "Akropol",
+      "url": "https://open.spotify.com/track/62CjIeDBUEjvWp4PUuUCAR"
+    },
+    {
+      "album": {
         "name": "PRODUKT47",
         "url": "https://open.spotify.com/album/2XfYRBRUaesCsBix9jYEwn"
       },
@@ -11176,7 +11206,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 177306,
       "name": "Kiss cam (podryw roku)",
       "url": "https://open.spotify.com/track/6eIVuPSZ7D8Q1uaZc8cQnz"
@@ -13404,7 +13434,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Ma\u0142y Ksi\u0105\u017c\u0119",
       "url": "https://open.spotify.com/track/5ngOu7hZUAGnk0FTDPzBob"
@@ -13892,7 +13922,7 @@
       ],
       "date_added": "2022-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 250760,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
@@ -19790,7 +19820,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV"
@@ -21256,7 +21286,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,470 likes - 96 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,482 likes - 96 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 95 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 |
 | 96 | [Cops and robbers](https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Cops and robbers](https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo) | 4:25 |
 
-Snapshot ID: `MCw3ZDQwZDM2MTdmNTc2NWQ5NGFiZGQ0Y2IxMzQyNjdiM2E3ODcyYTAz`
+Snapshot ID: `MCw2ZmQxN2RkMDQzYjkxOTdjMTdmYWE5MDY0MTg2ZjFmMDJkYzc1MjU4`

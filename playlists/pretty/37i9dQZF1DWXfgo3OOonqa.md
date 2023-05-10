@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,361 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,395 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [IN DA CLUB](https://open.spotify.com/track/04il8IncHXE0z8S1QQdvnq) | [TMA](https://open.spotify.com/artist/7HooMDZWSlS5FmEzJKrHix), [N Kayani](https://open.spotify.com/artist/61hIpqLKwM0zcjNRLinT8d) | [VALVET EP.1](https://open.spotify.com/album/2T6RixmSGDkFUx99x73KjO) | 2:20 |
 | 80 | [Medusa](https://open.spotify.com/track/3QY7uDD6cE0lPjH1rpZtgJ) | [Jeaff](https://open.spotify.com/artist/04OtPVhopqSHGWhzy5O5bE) | [Medusa](https://open.spotify.com/album/6wMme5yXO3htPrChwmWW17) | 2:55 |
 
-Snapshot ID: `MCw2ZDdkNDk4ZWEwZjk3ZjgxZGVhNmFkMjI0YzBkYWVlZTQwZDliYWU4`
+Snapshot ID: `MCxjODg3OGE2YjI3OGY3ZjUxNzEzOGM0Y2Y3ZTlkYzc1YTQ4N2JmODgy`

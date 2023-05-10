@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 113358,
+  "num_followers": 113391,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmRmMzc4MmY5ODM3MzhhMDZhNDMwY2E3MGQwYWY2YzRmOTcyNTlh",
+  "snapshot_id": "MCw2N2NjYTYxMWIwZDkyZGYwNjkwN2NhMGMwMmRlODUxNDQ4Y2RiODk1",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:35",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 190096,
+      "name": "O Jeito",
+      "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 256613,
       "name": "Pra Melhorar",
       "url": "https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 190096,
-      "name": "O Jeito",
-      "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 234712,
-      "name": "Posso Dizer",
-      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "Fiz Pra Voc\u00ea",
         "url": "https://open.spotify.com/album/0RjkvhVvbkRRxaKKG5MF9H"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192222,
       "name": "Fiz Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/3p6dUNJX2labiQY6TqZcGW"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "AS PALAVRAS, VOL. 1 & 2",
+        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 234712,
+      "name": "Posso Dizer",
+      "url": "https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Borboleta Efeito",
-        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        },
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Borboleta Efeito",
-      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "Servi\u00e7o",
         "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 183013,
       "name": "C\u00e9u da Boca",
       "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Borboleta Efeito",
+        "url": "https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        },
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Borboleta Efeito",
+      "url": "https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "Sinto Muito",
         "url": "https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 269285,
       "name": "Todo Carinho",
       "url": "https://open.spotify.com/track/118239i3aWkav7mlAmldh9"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Bota Pra Tocar Tim Maia",
-        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
-      },
-      "artists": [
-        {
-          "name": "Diogo Nogueira",
-          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
-        }
-      ],
-      "duration_ms": 222577,
-      "name": "Bota Pra Tocar Tim Maia",
-      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Condom Black",
-        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
-      },
-      "artists": [
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Dias de Janeiro",
-      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
-    },
-    {
-      "added_at": "2023-04-15 19:11:35",
-      "album": {
         "name": "Trevo, Figuinha e Suor na Camisa",
         "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 170453,
       "name": "Trevo, Figuinha e Suor na Camisa",
       "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
+    },
+    {
+      "added_at": "2023-04-15 19:11:35",
+      "album": {
+        "name": "Condom Black",
+        "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
+      },
+      "artists": [
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Dias de Janeiro",
+      "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
     },
     {
       "added_at": "2023-04-15 19:11:35",
@@ -1083,34 +1083,42 @@
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
+        "name": "sexto sentido",
+        "url": "https://open.spotify.com/album/2NMMRFtASnOSdzLzQBY4mg"
       },
       "artists": [
         {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
         }
       ],
-      "duration_ms": 265557,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
+      "duration_ms": 156690,
+      "name": "sexto sentido",
+      "url": "https://open.spotify.com/track/2hdYIAUXuEMrBXt3xYY8eX"
     },
     {
       "added_at": "2023-04-15 19:11:35",
       "album": {
-        "name": "Seu Fim em Mim",
-        "url": "https://open.spotify.com/album/2Az8o0aheRMnNhCZrL1mAC"
+        "name": "AMAR \u00e9 para os FORTES",
+        "url": "https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK"
       },
       "artists": [
         {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Anna Majidson",
+          "url": "https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z"
         }
       ],
-      "duration_ms": 218655,
-      "name": "Seu Fim em Mim",
-      "url": "https://open.spotify.com/track/2n64LKXEAzaSTzFpjckJh5"
+      "duration_ms": 254200,
+      "name": "DEPOIS DA TEMPESTADE}",
+      "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"
     }
   ],
   "unique_name": "Cozinhando em Casa",

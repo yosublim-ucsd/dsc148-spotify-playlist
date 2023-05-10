@@ -1,12 +1,12 @@
 {
   "description": "Mellow songs from the 2000s.",
-  "num_followers": 447123,
+  "num_followers": 447606,
   "original_name": "Soft 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU2MzE3MzQ0MTE3MTY0Y2IyYmI5ZDdkMGZjMmJlMjgzZmFlOTNm",
+  "snapshot_id": "MCxiODMzYmI4ZGNjNzllOWRlMzlhZWY1MDlhNGRkZjM1Mzg0Y2IzYzM0",
   "tracks": [
     {
       "added_at": "2023-01-28 00:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Black & Blue",
         "url": "https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO"
       },
@@ -727,18 +711,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Come Away With Me (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
         }
       ],
-      "duration_ms": 198226,
-      "name": "Come Away With Me",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -755,6 +739,22 @@
       "duration_ms": 238173,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Come Away With Me",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 284760,
+      "name": "This I Promise You",
+      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
         "name": "Laundry Service",
         "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 170493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 284760,
-      "name": "This I Promise You",
-      "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 227533,
-      "name": "Russian Roulette",
-      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 262693,
       "name": "Bleeding Love",
       "url": "https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 227533,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/3rMsX63C0IZVnOT5LGYoTH"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "\"7\"",
-        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
-      },
-      "artists": [
-        {
-          "name": "S Club 7",
-          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
-        }
-      ],
-      "duration_ms": 240492,
-      "name": "Never Had A Dream Come True",
-      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/50oL8ADjfT0n9gVoMpDwBy"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 225573,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/4O4dhPrjcw7GSLNafNydmb"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "\"7\"",
+        "url": "https://open.spotify.com/album/3HyLA4cMFGTbf7WslNJFSZ"
+      },
+      "artists": [
+        {
+          "name": "S Club 7",
+          "url": "https://open.spotify.com/artist/1kM5rgJvkiDMOoKX56H6pX"
+        }
+      ],
+      "duration_ms": 240492,
+      "name": "Never Had A Dream Come True",
+      "url": "https://open.spotify.com/track/0fIG0HBRIjLRNDHAogtwSB"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Ocean Eyes (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "Vanilla Twilight",
-      "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Suit",
         "url": "https://open.spotify.com/album/7xt2MWlSFHNP2NcHWE4W3b"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 253933,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/2b8QQqf8Vwb7bfz22ja8Fk"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "Ocean Eyes (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "Vanilla Twilight",
+      "url": "https://open.spotify.com/track/0vCTQcxSGAgjHaiAsIANKn"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "The Soul Sessions",
-        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
-      },
-      "artists": [
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Super Duper Love",
-      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
-    },
-    {
-      "added_at": "2023-01-28 00:00:00",
-      "album": {
         "name": "Shades of Purple",
         "url": "https://open.spotify.com/album/64qpmVqrwUlBihBMhZDyJj"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 279240,
       "name": "Pretty Boy",
       "url": "https://open.spotify.com/track/5pgdZyYh16sAUkDjrqGPej"
+    },
+    {
+      "added_at": "2023-01-28 00:00:00",
+      "album": {
+        "name": "The Soul Sessions",
+        "url": "https://open.spotify.com/album/188TILSlxecPremJwHDkk7"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 260013,
+      "name": "Super Duper Love",
+      "url": "https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K"
     },
     {
       "added_at": "2023-01-28 00:00:00",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2023-01-28 00:00:00",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW"
+        "name": "Coyote Ugly",
+        "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
       },
       "artists": [
         {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Eternal Flame - Single Version",
-      "url": "https://open.spotify.com/track/3qzcM6SmbzBnGXSJe6hYdy"
+      "duration_ms": 215506,
+      "name": "Can't Fight The Moonlight",
+      "url": "https://open.spotify.com/track/10FP9hm2aFfAIKEopqaG9D"
     }
   ],
   "unique_name": "Soft 00s",

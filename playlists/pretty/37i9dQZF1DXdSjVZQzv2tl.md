@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Hugo & Guilherme
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,192,906 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,194,391 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Evento Cancelado \- Ao Vivo](https://open.spotify.com/track/11fqunD6qlOCrRd88kMOk6) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:03 |
 | 50 | [Não Sei o Que Lá](https://open.spotify.com/track/7graPn87bYFxTLNnRnFDMZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Não Sei o Que Lá](https://open.spotify.com/album/2XNMZxBXu26RGAwL3524Ye) | 2:49 |
 
-Snapshot ID: `MCwwYzU3NzQ2MDIxMGRhZTM2YTlkODE4OTY3ZThjZTRmODE4Njk3ZjEw`
+Snapshot ID: `MCw2MjY4YTM5NzY5ZmNkYmRkOTRkNTFkM2RlMGI4OTQ0MzE2NGI0MGNi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: XG
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,501 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,551 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 40 | [Love Is The New Money](https://open.spotify.com/track/6SQzw4ZppE6ahHRAtkLvU4) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Love Is The New Money](https://open.spotify.com/album/6yg9aXhK3IhmiCD7RZ469S) | 2:30 |
 | 41 | [What More Can I Say](https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [What More Can I Say](https://open.spotify.com/album/5GqFftx87ccwc2WOCtHh6S) | 2:21 |
 | 42 | [Perfect Weekend](https://open.spotify.com/track/47TLEpxJiGD8GtBXHinaO7) | [MORISAKI WIN](https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi) | [Perfect Weekend](https://open.spotify.com/album/3nbGsOxWbyBwywTWpHIcrm) | 3:53 |
-| 43 | [If the Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If the Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
+| 43 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
 | 44 | [Sayonara, Science Fiction](https://open.spotify.com/track/02fVrxKTqEXTYoHj6ohNyN) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sayonara, Science Fiction](https://open.spotify.com/album/3xi7tThfVCD9ly3SYQOFpk) | 3:27 |
 | 45 | [Oceans \(with Kid Joi\)](https://open.spotify.com/track/79xrGzqhv4y92SwvnjHB0N) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Kid Joi](https://open.spotify.com/artist/29smgejDUdhMHMFTiruhPG) | [Oceans \(with Kid Joi\)](https://open.spotify.com/album/78OE5zYcaVZBRY283ayFYj) | 3:20 |
 | 46 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Levia](https://open.spotify.com/track/7KHzVYe0fVMqvHLacHBZHT) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Levia](https://open.spotify.com/album/7db13r50iuCjvrau6eRcHM) | 4:28 |
 | 100 | [Part of Your World \- From "The Little Mermaid"/Soundtrack Version](https://open.spotify.com/track/4C7ufs8hOYTkIk7hdyeu7J) | [Erika Toyohara](https://open.spotify.com/artist/0E8DxHuFZ0f9WJDKfUpHZj) | [Part of Your World \(From "The Little Mermaid"/Soundtrack Version\)](https://open.spotify.com/album/3OEBqbReTKlhG7fS4zQIc5) | 3:34 |
 
-Snapshot ID: `MCwzZjdjNDkzOWI2Y2NkYTcxNjgzZTI2NDM4MTRmZTAzN2QyY2Y5YjVm`
+Snapshot ID: `MCw1OGQ0M2RiMjdkZjUwM2U4NjI3NzU2ZGZlYjgzZGQ5NTc2MzRhZWMw`

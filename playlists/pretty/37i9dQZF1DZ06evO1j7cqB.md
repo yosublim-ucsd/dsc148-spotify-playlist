@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,899 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,902 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 22 | [Holding On \(feat\. Eivør\)](https://open.spotify.com/track/1vtjHODXUuhsVc2BN60N9L) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:33 |
 | 23 | [Fallen Through Time](https://open.spotify.com/track/77vdkjZCPZRECcDfZsdPmy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7IACcKsPaMrCJjwsZLjoJ3) | 5:38 |
 | 24 | [Númenor](https://open.spotify.com/track/5m17ITVv8Mva7X5HYRSClh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 4:31 |
-| 25 | [Theme from the Walking Dead](https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 0:49 |
-| 26 | [Patience](https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Unrest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr) | 3:47 |
+| 25 | [Patience](https://open.spotify.com/track/6TZDBHQjRSbCd88c1yg6ki) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Unrest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aJWaGzLDm7ksyczc3B7Gr) | 3:47 |
+| 26 | [Theme from the Walking Dead](https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 0:49 |
 | 27 | [Ashes \(feat\. Eivør\)](https://open.spotify.com/track/0bNt9DVNAQi8CeMGSP7mQr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Eivør](https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 6:09 |
 | 28 | [Elrond Half\-elven](https://open.spotify.com/track/1isA2WMKG9elY7Kqq0dDve) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:23 |
 | 29 | [The Echo and the River](https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:21 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 42 | [Da Vinci's Demons Main Title Theme](https://open.spotify.com/track/0rIcf3rfCGyQYW5YK8udX1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Da Vinci's Demons \(Original Television Soundtrack\)](https://open.spotify.com/album/4U25uFdBkxGiOKOVOjN95m) | 1:08 |
 | 43 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDBlODdlNmI3Nzk2YmYxNTAwMjBkMDBiODcyZGNmMThmOA==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAwM2MxMTA2ZDA5ZDFiODM3MGQzNWU5NWQ3Y2NjMjA2Yg==`

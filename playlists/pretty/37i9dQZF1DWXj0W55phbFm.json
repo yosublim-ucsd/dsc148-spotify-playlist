@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 30737,
+  "num_followers": 30775,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWMxYjA5YzY3YTUyNzA0YjZlYmVkNmMyNTdkMWM3MWY0MTMyM2Nk",
+  "snapshot_id": "MCwxYjk2NDk4NDI2MDQwMzZlYTVkZThhZjQ0NGYwMTAxMGJiNmJkNjdh",
   "tracks": [
     {
       "added_at": "2023-05-04 09:34:03",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "On The Dance Floor",
-        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
-      },
-      "artists": [
-        {
-          "name": "Enrico Rava",
-          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
-        },
-        {
-          "name": "The PM Jazz Lab",
-          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
-        }
-      ],
-      "duration_ms": 209666,
-      "name": "Smile - Live",
-      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Gnu High",
         "url": "https://open.spotify.com/album/3ZJDOnK3ypck3huOlnBYrn"
       },
@@ -979,6 +959,26 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
+        "name": "On The Dance Floor",
+        "url": "https://open.spotify.com/album/6mAJVe56utc3J2yd0rTd9B"
+      },
+      "artists": [
+        {
+          "name": "Enrico Rava",
+          "url": "https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy"
+        },
+        {
+          "name": "The PM Jazz Lab",
+          "url": "https://open.spotify.com/artist/20UxTDyauW76avunhJfElB"
+        }
+      ],
+      "duration_ms": 209666,
+      "name": "Smile - Live",
+      "url": "https://open.spotify.com/track/1Wj6woJQqEheCjZUWLBQU0"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
         "name": "Towards Language",
         "url": "https://open.spotify.com/album/7KasSjd80yub7wdciH7G52"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 336138,
       "name": "Groundswell",
       "url": "https://open.spotify.com/track/1zqxoyAbWNQB950eqGza6D"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Little Johnny C",
-        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Coles",
-          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "Little Johnny C",
-      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1047,22 +1031,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Daylight Express",
-        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 145040,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Dizzy 100",
         "url": "https://open.spotify.com/album/5DGcQGe6AvE5LGdYyZlHfn"
       },
@@ -1079,18 +1047,34 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "The Complete Verve Studio Sessions",
-        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+        "name": "Little Johnny C",
+        "url": "https://open.spotify.com/album/7tvH2wvGLShosVtm0RQLJJ"
       },
       "artists": [
         {
-          "name": "Roy Eldridge",
-          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+          "name": "Johnny Coles",
+          "url": "https://open.spotify.com/artist/0RKsF1pa3v0hhEeJbt5AxV"
         }
       ],
-      "duration_ms": 148573,
-      "name": "Sweet Sue (Just You)",
-      "url": "https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh"
+      "duration_ms": 311000,
+      "name": "Little Johnny C",
+      "url": "https://open.spotify.com/track/59dZlpqcLwgzm8IgEz1oCv"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Daylight Express",
+        "url": "https://open.spotify.com/album/2tmWCWVCAbeS7KwbqTiMsN"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 145040,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3N4OSnqWmWyJzfDWMNMS3n"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1107,6 +1091,22 @@
       "duration_ms": 357213,
       "name": "I'll Close My Eyes",
       "url": "https://open.spotify.com/track/24RZ9XFnZ78RTtKld1s4Fq"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "duration_ms": 148573,
+      "name": "Sweet Sue (Just You)",
+      "url": "https://open.spotify.com/track/3KYlO842OFhn0z2uEjICjh"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "The Happy Horns Of Clark Terry",
-        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
-      },
-      "artists": [
-        {
-          "name": "Clark Terry",
-          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "High Towers",
-      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Cat's in the Alley",
         "url": "https://open.spotify.com/album/2s5MexPafZuOxmXJSJhsI0"
       },
@@ -1315,6 +1299,22 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
+        "name": "The Happy Horns Of Clark Terry",
+        "url": "https://open.spotify.com/album/3Q5uSq6wabddPquHhufrUU"
+      },
+      "artists": [
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "High Towers",
+      "url": "https://open.spotify.com/track/0LU5Zh4KkdZBv0H2ehLBPc"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
         "name": "Byrd In Hand",
         "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
       },
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Gemini II",
-        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
+        "name": "Volume 2 (Vol. 2)",
+        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
       "artists": [
         {
-          "name": "Marcus Belgrave",
-          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
+          "name": "Miles Davis Quartet",
+          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
         }
       ],
-      "duration_ms": 337040,
-      "name": "Gemini II",
-      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
+      "duration_ms": 322164,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Volume 2 (Vol. 2)",
-        "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
+        "name": "Gemini II",
+        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
       },
       "artists": [
         {
-          "name": "Miles Davis Quartet",
-          "url": "https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX"
+          "name": "Marcus Belgrave",
+          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
         }
       ],
-      "duration_ms": 322164,
-      "name": "Well You Needn't",
-      "url": "https://open.spotify.com/track/59MpeVa3IEFLbaebriC1h4"
+      "duration_ms": 337040,
+      "name": "Gemini II",
+      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
+        "name": "Booker Little",
+        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
+      },
+      "artists": [
+        {
+          "name": "Booker Little",
+          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
+        }
+      ],
+      "duration_ms": 413387,
+      "name": "Life's A Little Blue",
+      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
         "name": "Thumpin' & Bumpin' - New York, Vol. 2",
         "url": "https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 533573,
       "name": "Trance Dance",
       "url": "https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Booker Little",
-        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
-      },
-      "artists": [
-        {
-          "name": "Booker Little",
-          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
-        }
-      ],
-      "duration_ms": 413387,
-      "name": "Life's A Little Blue",
-      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
         "name": "Complete Recordings",
         "url": "https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1619,42 +1619,6 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
-        "name": "Brecker Plays Rovatti - Sacred Bond",
-        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
-      },
-      "artists": [
-        {
-          "name": "Randy Brecker",
-          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
-        },
-        {
-          "name": "Ada Rovatti",
-          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
-        }
-      ],
-      "duration_ms": 632253,
-      "name": "The Baggae",
-      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Simply Stated",
-        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 600493,
-      "name": "Dear Old Stockholm",
-      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1679,6 +1643,42 @@
       "duration_ms": 267180,
       "name": "Cottage for Sale",
       "url": "https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Simply Stated",
+        "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 600493,
+      "name": "Dear Old Stockholm",
+      "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
+        "name": "Brecker Plays Rovatti - Sacred Bond",
+        "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
+      },
+      "artists": [
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Ada Rovatti",
+          "url": "https://open.spotify.com/artist/6s4lAYJTKRSqrFer1WBRTW"
+        }
+      ],
+      "duration_ms": 632253,
+      "name": "The Baggae",
+      "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
     },
     {
       "added_at": "2023-05-04 09:34:03",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-05-04 09:34:03",
       "album": {
+        "name": "Noir en rouge (Live in Paris)",
+        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 487946,
+      "name": "Re-invention - Live in Paris",
+      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
+    },
+    {
+      "added_at": "2023-05-04 09:34:03",
+      "album": {
         "name": "Self Determination Music",
         "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 550213,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ"
-    },
-    {
-      "added_at": "2023-05-04 09:34:03",
-      "album": {
-        "name": "Noir en rouge (Live in Paris)",
-        "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 487946,
-      "name": "Re-invention - Live in Paris",
-      "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
     },
     {
       "added_at": "2023-05-04 09:34:03",

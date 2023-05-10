@@ -1235,6 +1235,32 @@
     },
     {
       "album": {
+        "name": "Jatta Ve",
+        "url": "https://open.spotify.com/album/3eRh8KRPybLy4wDDnUnYBi"
+      },
+      "artists": [
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        },
+        {
+          "name": "Guri Singh",
+          "url": "https://open.spotify.com/artist/4tHWvy5DmCGSp8oIzFalUH"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172372,
+      "name": "Jatta Ve",
+      "url": "https://open.spotify.com/track/7oWnaeVhCW0cqypHaOOJ1u"
+    },
+    {
+      "album": {
         "name": "Jawani",
         "url": "https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X"
       },

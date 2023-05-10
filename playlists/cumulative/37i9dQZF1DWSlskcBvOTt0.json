@@ -6365,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Samum",
+        "url": "https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp"
+      },
+      "artists": [
+        {
+          "name": "Woo York",
+          "url": "https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Samum",
+      "url": "https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR"
+    },
+    {
+      "album": {
         "name": "Arkade Destinations Tulum",
         "url": "https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR"
       },
@@ -7042,7 +7060,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 308934,
       "name": "Take Care - Maz Remix",
       "url": "https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0"

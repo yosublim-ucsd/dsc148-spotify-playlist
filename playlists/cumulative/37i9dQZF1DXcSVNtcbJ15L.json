@@ -104,10 +104,32 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 174255,
       "name": "Atende o Celular",
       "url": "https://open.spotify.com/track/4EOqOj69x0J7adGabCvKjw"
+    },
+    {
+      "album": {
+        "name": "Atende o Celular",
+        "url": "https://open.spotify.com/album/0jryDdYQKwEwB2HrdNuQLs"
+      },
+      "artists": [
+        {
+          "name": "Indie Space",
+          "url": "https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr"
+        },
+        {
+          "name": "Nanasai",
+          "url": "https://open.spotify.com/artist/67PBrqP0nECUumF2AQ8G6S"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174255,
+      "name": "Atende o Celular",
+      "url": "https://open.spotify.com/track/6EuHqKLUuSp6taKVdfhafF"
     },
     {
       "album": {

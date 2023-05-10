@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...",
-  "num_followers": 57890,
+  "num_followers": 57969,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTQ5NGY4MTM5OThiNWZhZjRkNTM2Y2Y3ZDk0NTUxMjU4YmMxYWM2",
+  "snapshot_id": "MCw1YTVhOTkzZDUxOWE0YWQxODYyZGZkYTM0ZjEwMTM4ZjJjODhjMjIx",
   "tracks": [
     {
       "added_at": "2023-05-08 20:19:51",
@@ -43,6 +43,22 @@
       "duration_ms": 187557,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
+    },
+    {
+      "added_at": "2023-05-09 02:32:30",
+      "album": {
+        "name": "Become",
+        "url": "https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 306106,
+      "name": "Holiday House",
+      "url": "https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -243,22 +259,6 @@
       "duration_ms": 243354,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4ZyCS7eIVZBB4BIkF9UGfW"
-    },
-    {
-      "added_at": "2023-04-12 23:21:47",
-      "album": {
-        "name": "Wings Of Time (From the Motion Picture Dungeons & Dragons: Honor Among Thieves)",
-        "url": "https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 168786,
-      "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
-      "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX"
     },
     {
-      "added_at": "2023-03-29 18:09:18",
-      "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/3lD8cKHQpYN6YFAogSaUoV"
-      },
-      "artists": [
-        {
-          "name": "SEVENESTO",
-          "url": "https://open.spotify.com/artist/2Vt899iZ2UknL3rdjNIEkN"
-        }
-      ],
-      "duration_ms": 191274,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/6ByKclwVHHpCQTyqNtzZzA"
-    },
-    {
       "added_at": "2023-03-24 06:00:00",
       "album": {
         "name": "Anestesia",
@@ -785,22 +769,6 @@
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
     },
     {
-      "added_at": "2023-04-13 19:02:40",
-      "album": {
-        "name": "wondering dub",
-        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 127015,
-      "name": "wondering dub",
-      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
-    },
-    {
       "added_at": "2023-02-28 04:35:15",
       "album": {
         "name": "Jard\u00edn de Planetas",
@@ -851,6 +819,38 @@
       "duration_ms": 164410,
       "name": "Estr\u00e9s",
       "url": "https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW"
+    },
+    {
+      "added_at": "2023-04-13 19:02:40",
+      "album": {
+        "name": "wondering dub",
+        "url": "https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 127015,
+      "name": "wondering dub",
+      "url": "https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv"
+    },
+    {
+      "added_at": "2023-05-09 02:38:20",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2023-03-15 15:56:58",

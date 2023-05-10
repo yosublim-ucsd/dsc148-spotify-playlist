@@ -4,7 +4,7 @@
 
 > Svensk punk från förr och nu.
 
-233 songs - 11 hr 14 min
+234 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 | 2021-12-14 | 2023-05-03 |
 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 | 2021-12-14 | 2023-04-30 |
 | [Gravöl](https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/0VL3W04CrMBCsBH92C1M66) | 3:06 | 2021-12-14 | 2022-07-29 |
-| [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
+| [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 | 2023-05-10 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 | 2021-12-14 |  |
 | [Hjärtat](https://open.spotify.com/track/3XTik0pTi7YpPrX4MtsaUi) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/3mlS9bxC2vrgFrLRnpSx3Z) | 3:06 | 2021-12-14 | 2022-07-21 |
@@ -188,6 +188,7 @@
 | [Sista dansen](https://open.spotify.com/track/2NJ7ZnOwK9FUs7mcF48g6g) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Kryptonit](https://open.spotify.com/album/702ww4VpbJHTtgd4alAOzg) | 4:39 | 2021-12-14 | 2022-06-20 |
 | [Slåss som en tjej](https://open.spotify.com/track/3tfMZpt9jGnpq2ixAcwZPa) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Slåss som en tjej](https://open.spotify.com/album/0SIAtm0xtnqLdNipxYtRxZ) | 2:33 | 2021-12-14 | 2022-07-21 |
 | [Slumra in](https://open.spotify.com/track/4coFp7UReaPQ98O9lQN8Gg) | [Moment 23](https://open.spotify.com/artist/5QK1ZB27Vlm35TK2hVC1HP) | [Sent ska cynikern vakna](https://open.spotify.com/album/6QDC64k3A3QhXZKtJWBRgQ) | 4:00 | 2021-12-14 | 2022-07-23 |
+| [Små steg](https://open.spotify.com/track/6wNd0yL725a1cjO5lDNBUt) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Står stött](https://open.spotify.com/album/4xsmrWEDxBzNOeyFMqPCNG) | 2:18 | 2023-05-04 |  |
 | [Solglasögon](https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N) | [Docent Död](https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM) | [Docent Död \(Mini\-LP\)](https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT) | 2:27 | 2021-12-14 |  |
 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 | 2021-12-14 |  |
 | [Spriten räddad oss från sporten](https://open.spotify.com/track/2G6fJQND1A3BGy8Upkl33n) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Röjarskivan](https://open.spotify.com/album/1D6up4qVU32tQYaMTm6lqn) | 3:32 | 2021-12-14 | 2022-07-29 |

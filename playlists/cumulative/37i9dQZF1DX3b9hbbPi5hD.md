@@ -2,9 +2,9 @@
 
 ### [Best Tracks from Tarantino Films](https://open.spotify.com/playlist/37i9dQZF1DX3b9hbbPi5hD)
 
-> Tarantino not only produces great movies, he produces great soundtracks
+> Tarantino not only produces great movies, he produces great soundtracks.
 
-83 songs - 4 hr 26 min
+85 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | ["Major Warren Meet Daisy Domergue" \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/2SMua8XXjczTPUltl8Ofd9) | [Jennifer Jason Leigh](https://open.spotify.com/artist/4PK3EB6NYijPMF9aAb8MKw), [Kurt Russell](https://open.spotify.com/artist/3inse6IgsRovvG6oTiTYEc), [Samuel L\. Jackson](https://open.spotify.com/artist/7gusMvSJRCggGZPV5SDN9K) | [Quentin Tarantino's The Hateful Eight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YBCE5NFQQTVuZVhBCMnSe) | 0:32 | 2018-08-20 | 2022-07-29 |
 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/6V9zt5xJ65Q2rugWX77iFb) | [Robert Palmer](https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu) | [Ridin' High](https://open.spotify.com/album/3kCVkiAlYhOOUIom8GgGPy) | 2:35 | 2018-08-20 |  |
 | [About Her](https://open.spotify.com/track/0WN1ICX0u0NenOccX8gRp3) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:49 | 2018-08-20 |  |
-| [Across 110th Street](https://open.spotify.com/track/2Q5rvrn3qR5HpLlvz3fcOy) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Jackie Brown \(Music from the Miramax Motion Picture\)](https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8) | 3:48 | 2018-08-20 |  |
+| [Across 110th Street](https://open.spotify.com/track/2Q5rvrn3qR5HpLlvz3fcOy) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Jackie Brown \(Music from the Miramax Motion Picture\)](https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8) | 3:48 | 2018-08-20 | 2023-05-10 |
+| [Across 110th Street](https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [Midnight Mover: The Bobby Womack Story](https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG) | 3:50 | 2023-05-09 |  |
 | [Apple Blossom](https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 2:13 | 2018-08-20 |  |
 | [Apple Blossom](https://open.spotify.com/track/74vRKLJEhtPLqw2BgAWPVY) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes Greatest Hits](https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v) | 2:13 | 2018-08-20 | 2022-11-14 |
 | [Apple Blossom \- From "The Hateful Eight" Soundtrack](https://open.spotify.com/track/3gV2WMB3jR3Ff3ZgBOFx2J) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Quentin Tarantino's The Hateful Eight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YBCE5NFQQTVuZVhBCMnSe) | 2:13 | 2018-08-20 | 2022-07-29 |
@@ -29,6 +30,7 @@
 | [Foolish Heart](https://open.spotify.com/track/1Yn80NKfGf8ajiwO4iMKQD) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Gold](https://open.spotify.com/album/6YnLyE9IkwBdoOWfkbjR4l) | 3:32 | 2018-08-20 | 2022-11-14 |
 | [Foolish Heart](https://open.spotify.com/track/0o0QiBgJqMJjaZLSR4aJFj) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Music For All Occasions](https://open.spotify.com/album/4gEFOyes5HJJMIzTHlGG76) | 3:34 | 2018-08-20 |  |
 | [Foolish Heart](https://open.spotify.com/track/46gsGxk2iUctmgJUmQRTKz) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O) | [Music For All Occasions](https://open.spotify.com/album/0OydCcpRFD3KOjswJhg9CQ) | 3:37 | 2018-08-20 | 2022-07-29 |
+| [Funky Fanfare](https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA) | [Keith Mansfield](https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH) | [The Kpm 1000 Series \- Volume 1](https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H) | 2:28 | 2023-05-09 |  |
 | [Girl You'll Be a Woman Soon \(From "Pulp Fiction"\)](https://open.spotify.com/track/0QWGQc1NVsgjm6T25Bcxxw) | [The Soundtrack Singers](https://open.spotify.com/artist/5u1QsdLCSsWJjQsEtxlEU9) | [Hits from Dance Movie](https://open.spotify.com/album/2A10yR3eSX3yF68n8Uq2S9) | 3:09 | 2018-08-20 |  |
 | [Girl You'll Be A Woman Soon \(Pulp Fiction\)](https://open.spotify.com/track/0KpYiyexP4QpETO4Kn5Ewk) | [The Film Score Orchestra](https://open.spotify.com/artist/3YIY3cUEzRX8UADubGXYSK) | [Movie Greats](https://open.spotify.com/album/3QWM4C6zDHVLhOugWcSDFt) | 3:09 | 2018-08-20 | 2022-07-29 |
 | [Goodnight Moon](https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul) | [Shivaree](https://open.spotify.com/artist/34xAiSyQG6nlH0eZNLjbLW) | [Kill Bill Vol\. 2 Original Soundtrack](https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs) | 4:03 | 2018-08-20 |  |

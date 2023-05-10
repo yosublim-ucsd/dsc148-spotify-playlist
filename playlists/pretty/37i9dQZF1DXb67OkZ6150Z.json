@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 279434,
+  "num_followers": 279475,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTk3NTM4ZDQ3N2FkYjhhYmMwNTlhZjFhMzg2OWE5NDIxMDUwZjQ4",
+  "snapshot_id": "MCw1ODlmYjZhMDQ5ZjM1MzEzYWE2ZjZiNzYyNzBjNjA5ZjhiMzAxMmNi",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "A Little Bit of Everything - Spotify Singles",
-      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 141040,
       "name": "The Moon Song",
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Dancing On My Own (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 230553,
-      "name": "Dancing On My Own - triple j Like A Version",
-      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Caves",
         "url": "https://open.spotify.com/album/7kT5c7F6CCZ36AD7r62yQc"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 179234,
       "name": "Caves",
       "url": "https://open.spotify.com/track/2cphb6rybh6cHDiTqOI8cd"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Dancing On My Own (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/00mmd7BRu1UElUfOd5GQtf"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 230553,
+      "name": "Dancing On My Own - triple j Like A Version",
+      "url": "https://open.spotify.com/track/6AZl84TvY6zvp1wqoyTVvV"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "God's Plan",
         "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 166021,
       "name": "God's Plan",
       "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Paul",
         "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 197647,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Nothing Breaks Like A Heart",
+        "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
+      },
+      "artists": [
+        {
+          "name": "Ten F\u00e9",
+          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+        }
+      ],
+      "duration_ms": 196311,
+      "name": "Nothing Breaks Like A Heart",
+      "url": "https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Nothing Breaks Like A Heart",
-        "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
       "artists": [
         {
-          "name": "Ten F\u00e9",
-          "url": "https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT"
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
         }
       ],
-      "duration_ms": 196311,
-      "name": "Nothing Breaks Like A Heart",
-      "url": "https://open.spotify.com/track/6n7cRyHASeWTLJv5LLQ1qi"
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1255,22 +1271,6 @@
       "duration_ms": 255633,
       "name": "Today",
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     }
   ],
   "unique_name": "Indie Covers",

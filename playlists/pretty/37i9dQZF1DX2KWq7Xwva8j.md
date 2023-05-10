@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Saiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,731 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,734 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [friki](https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [Pavlo Tambien](https://open.spotify.com/artist/6sUo3cO76rMv3SCb7IYDC3) | [friki](https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK) | 2:11 |
 | 50 | [Iniciales](https://open.spotify.com/track/7ix08YDpUCLEirQoyoU843) | [Laéne](https://open.spotify.com/artist/2F8wCVhaJ1j39Ils8qgKv8), [Los del Control](https://open.spotify.com/artist/3Nbij6lwrwz0XB7HubxdN2) | [Laéne](https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3) | 2:50 |
 
-Snapshot ID: `MCxmYjk3ZmVjMGFiZGU0MDRlYzQ5YWQ5YzcxMGJmMjdjYWMzZWRlMjU4`
+Snapshot ID: `MCw0Yjc5YWFlZGVmZDk3OTAxZTI3MjhhMWM1ZDc0NzA1ZWQ0MzE5MmY0`

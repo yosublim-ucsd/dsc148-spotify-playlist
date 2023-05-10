@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2397200,
+  "num_followers": 2397685,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQ3OGRkZDU2NzZkODY1YjlmODNiMjdhMTdmZGQyNjJiOTAzOWY1",
+  "snapshot_id": "MCwwNmIwMzNiODQxMDc0NDRiYjUyM2ZkZmQxMTBmZWQxNDA1NDNlMjU0",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -905,26 +905,6 @@
       "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Chris Avantgarde",
-          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
-        }
-      ],
-      "duration_ms": 186284,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
-    },
-    {
       "added_at": "2023-05-01 16:26:40",
       "album": {
         "name": "Ghost Town",
@@ -947,6 +927,26 @@
       "duration_ms": 162857,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "duration_ms": 186284,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -1167,26 +1187,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Rhyme Dust",
-        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 181364,
-      "name": "Rhyme Dust",
-      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1307,6 +1307,30 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "What A Life (feat. Stevie Appleton)",
+        "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 171547,
+      "name": "What A Life (feat. Stevie Appleton)",
+      "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Sacrifice",
         "url": "https://open.spotify.com/album/4D3QP0SVFo1iRWWACAhmQi"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 279692,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/76YXmewvHFse7tBeOTtSx3"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "What A Life (feat. Stevie Appleton)",
-        "url": "https://open.spotify.com/album/4RO7rFebSw6zSFrOAMCjVw"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 171547,
-      "name": "What A Life (feat. Stevie Appleton)",
-      "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1583,6 +1583,30 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Hold Me Closer (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 248594,
+      "name": "Hold Me Closer - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Kx5",
         "url": "https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg"
       },
@@ -1611,30 +1635,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Hold Me Closer (Joel Corry Remix)",
-        "url": "https://open.spotify.com/album/6cZP7F8HkDeMAsCcfCyRWa"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 248594,
-      "name": "Hold Me Closer - Joel Corry Remix",
-      "url": "https://open.spotify.com/track/5KbhvaeqKIB2bZcJMyfezl"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
       },
@@ -1651,6 +1651,26 @@
       "duration_ms": 184000,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1695,26 +1715,6 @@
       "duration_ms": 201621,
       "name": "Rhythm (Of The Night)",
       "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
       "added_at": "2023-04-21 04:01:00",

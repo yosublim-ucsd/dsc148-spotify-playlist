@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,695 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,698 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 2 | [頬にひと口](https://open.spotify.com/track/6YEzgjuFl1bmtVUZ04Ozlr) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [頬にひと口](https://open.spotify.com/album/1OseQ5LUgKXP4M6UNnspyj) | 3:29 |
 | 3 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
-| 4 | [勿体無い](https://open.spotify.com/track/3GQJb7NMVZ8yBRpap7N3TJ) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Shun Maruno](https://open.spotify.com/artist/40E3Z37xZhTpSoat9qLFs8) | [勿体無い](https://open.spotify.com/album/7eBRbpcDWdzLYpCShTY9Xb) | 3:35 |
+| 4 | [星喫茶店](https://open.spotify.com/track/5sGBGTFt5BXrHK8RBYLPyP) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Blossom](https://open.spotify.com/album/4uvGUceoRnjw0y9LpbyBiz) | 4:04 |
 | 5 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 |
 | 6 | [Lonely](https://open.spotify.com/track/2MSwfMAGN4Tyzg1X6c36YD) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Lonely](https://open.spotify.com/album/3qLazZODKoDnE32BF8PvVG) | 3:48 |
 | 7 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 19 | [Soranji](https://open.spotify.com/track/7qXIWBGtLLHIhWCmjgLJFB) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Soranji](https://open.spotify.com/album/5uNvYxV3OV1b0BGlClvujb) | 5:44 |
 | 20 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
 | 21 | [All night](https://open.spotify.com/track/5JlJuloP4IgM88EZ3IjCxe) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [All night](https://open.spotify.com/album/23omW2nOAt0jOBcHXo9sYb) | 2:57 |
-| 22 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 |
+| 22 | [ゴースト](https://open.spotify.com/track/0aBb5sdeZyojEd5cVD9UKb) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Mix Wave](https://open.spotify.com/album/02IbI9D14DVwwU7ZXJz0vd) | 3:47 |
 | 23 | [アルジャーノン](https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [アルジャーノン](https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4) | 4:14 |
 | 24 | [melt bitter](https://open.spotify.com/track/6uSe3ACORUIVrAyiP84RZi) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [melt bitter](https://open.spotify.com/album/6HtIYzXgZyoTc5QczqYZiI) | 5:09 |
 | 25 | [Fantasy](https://open.spotify.com/track/68PdIBBJErUzVtv3Bt0LA5) | [Ryota Oyabu](https://open.spotify.com/artist/1ySrxjDBwFRDFoURBQxTZl) | [Fantasy](https://open.spotify.com/album/2tccW0oHy4LxDwSJgabJsR) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 49 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
 | 50 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 
-Snapshot ID: `MCwzNTZlM2VlNmE2MTYwNmJiMzc3MGM1ZmJhOWQyNjQzODBmZDgyYjFl`
+Snapshot ID: `MCxlNzFjMzg2MmY1NmY3ZmRkMzAxYzJjMTVkYjViYWU0OTdhMmUxYzAy`

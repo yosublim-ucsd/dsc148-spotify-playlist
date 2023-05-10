@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Nerissima Serpe in cover.
 
-542 songs - 23 hr 37 min
+543 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [ANTIPROIETTILE](https://open.spotify.com/track/4SitMb6MMZVkyLQo8MxuTL) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt), [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [ANTIPROIETTILE](https://open.spotify.com/album/2pREM66sS1IvUswiqSSYBq) | 2:13 | 2022-12-15 | 2023-01-18 |
 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 | 2022-06-30 | 2022-08-19 |
 | [ARABO II](https://open.spotify.com/track/7L0tQzr8bmHwgD06Va8OP8) | [ZiYou](https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U) | [ARABO II](https://open.spotify.com/album/34D1MyNHzgH3k4WUNC89y4) | 1:59 | 2022-09-08 | 2022-10-07 |
+| [Aspettative \(feat\. Medy\)](https://open.spotify.com/track/4qEfhwGPxuryUCtVdA14lV) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Aspettative \(feat\. Medy\)](https://open.spotify.com/album/3J0jkkvPh2SxG2kHauCRWi) | 2:34 | 2023-05-09 |  |
 | [AWE](https://open.spotify.com/track/4TLyvOHhzatoBhpvZocUBB) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [AWE](https://open.spotify.com/album/1bYzrn7FHLLh20WTatmTzm) | 2:18 | 2022-06-23 | 2022-07-15 |
 | [Awe Awe](https://open.spotify.com/track/6XOy8T8tnLMPCEORc0TfMl) | [8mike](https://open.spotify.com/artist/4g82Dq6YOjema0kQwuhB9N), [YaluDream](https://open.spotify.com/artist/2p06NWAbxsP7iFmrq9Ny4J) | [Awe Awe](https://open.spotify.com/album/5kVO7Tun6K1fkG0bZW0LTe) | 2:50 | 2022-05-26 | 2022-07-22 |
 | [BABAMAN](https://open.spotify.com/track/4SoVmDaaTx0BCNDKI76NCf) | [FUCKYOURCLIQUE](https://open.spotify.com/artist/796NCMJ5AQMdnutcb8EVeJ), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti) | [BABAMAN](https://open.spotify.com/album/7kjwr8ZOGH8InOp1KQpohe) | 3:07 | 2022-10-06 | 2022-10-28 |
@@ -121,7 +122,7 @@
 | [Chrisean](https://open.spotify.com/track/4dn4gvP29wZCTp0zsOYaiC) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Chrisean](https://open.spotify.com/album/4pWEplW8vKvpTW6GrTP7e7) | 1:27 | 2023-02-16 | 2023-03-03 |
 | [CICATRICI](https://open.spotify.com/track/79HIUVZnx0qNdGmMAAUeaI) | [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [CICATRICI](https://open.spotify.com/album/02ziDaOuOlbV4TZpLdTXFc) | 2:32 | 2023-01-19 | 2023-02-03 |
 | [CICATRICI](https://open.spotify.com/track/6UbDPupbG0jkpIWrrNQGXF) | [Sgribaz](https://open.spotify.com/artist/1nz1nHrmEwE28EGz4Z2fKi), [Enomoney](https://open.spotify.com/artist/0ciz7qq9gZJKmjxvi38IL8) | [CICATRICI](https://open.spotify.com/album/3XF6OsCckGci5p3PUvJElb) | 2:36 | 2023-01-26 | 2023-02-17 |
-| [Cicatrici \(feat\. Nabi\)](https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:30 | 2023-01-12 |  |
+| [Cicatrici \(feat\. Nabi\)](https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 2:30 | 2023-01-12 | 2023-05-10 |
 | [CLAP CLAP](https://open.spotify.com/track/3qPmxgFngPkPsqPnRgewDv) | [Yamba](https://open.spotify.com/artist/5cmAoURYGVEFe0FyqQ127T) | [CLAP CLAP](https://open.spotify.com/album/4bdGXIhexZxcAWQSTtwvoK) | 2:19 | 2022-07-21 | 2022-09-02 |
 | [Clap!](https://open.spotify.com/track/5C4Yoj7SqI8Saw4mGwMsHf) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw) | [Clap!](https://open.spotify.com/album/4fVNLP5qzaB5Uu7hp5Fxzk) | 2:07 | 2023-03-09 | 2023-04-07 |
 | [Click](https://open.spotify.com/track/4RXh5hSHOujWqnbYNcqL4m) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [167 Gang](https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33) | [Click](https://open.spotify.com/album/4sqgiuAro7E7ULVcZd1UnR) | 2:51 | 2022-06-23 | 2022-09-30 |
@@ -352,7 +353,7 @@
 | [NON MI BASTERÀ](https://open.spotify.com/track/6n2Kf18yFkWTbOANDeFJ69) | [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [NON MI BASTERÀ](https://open.spotify.com/album/34Xcpmvk5Hnoc3PI5Yl7u7) | 2:23 | 2022-10-14 | 2022-12-02 |
 | [NON MI PIACI](https://open.spotify.com/track/3y6NcsWAhyGt89N8NzCJ3j) | [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [NON MI PIACI](https://open.spotify.com/album/5EwwqS9moFglO34EK1raeD) | 2:32 | 2022-11-03 | 2022-11-11 |
 | [NON MI VA](https://open.spotify.com/track/47VdKYEREq0LtxxHr12nUw) | [ZPA22](https://open.spotify.com/artist/50AqzmsXLHMMa1QxztD7RF) | [NON MI VA](https://open.spotify.com/album/081JgQyk3lZDneHdAiEGnw) | 3:08 | 2022-10-13 | 2022-10-21 |
-| [Non passa l’aria](https://open.spotify.com/track/3RnjkVaMG2n72ZzHwuzuDY) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Non passa l’aria](https://open.spotify.com/album/5KSnm4ibO84on8sxwzW8JT) | 2:43 | 2023-04-27 |  |
+| [Non passa l'aria](https://open.spotify.com/track/3RnjkVaMG2n72ZzHwuzuDY) | [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv) | [Non passa l’aria](https://open.spotify.com/album/5KSnm4ibO84on8sxwzW8JT) | 2:43 | 2023-04-27 |  |
 | [Non ritorneranno mai](https://open.spotify.com/track/4ywLncnEl5lFiYQVUSw3EM) | [BIG P](https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768) | [Non ritorneranno mai](https://open.spotify.com/album/3bnt2flUrBeiQaYQxe3Knp) | 2:48 | 2023-04-13 | 2023-05-09 |
 | [Non è un gioco](https://open.spotify.com/track/5ie6qbpqdvq637m91zl4an) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ) | [Non è un gioco](https://open.spotify.com/album/3PbWmisvxgnTLY0ZX094aM) | 2:12 | 2023-01-26 | 2023-03-18 |
 | [Notte bianca](https://open.spotify.com/track/3XXFvqyOSRCf1vXYT535kA) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [Xela Baby](https://open.spotify.com/artist/2lSvy0qRlHqyWxkHmflU7M) | [Notte bianca](https://open.spotify.com/album/6y4T4ZbS8R7dDACoZAZgXm) | 3:23 | 2022-07-14 | 2022-08-12 |

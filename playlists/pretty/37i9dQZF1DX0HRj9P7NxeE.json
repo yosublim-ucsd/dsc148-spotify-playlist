@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1762368,
+  "num_followers": 1762465,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjJjYjg0OWY5Mzg0YmRmN2IyZDY5Y2IwMTJmZjgyZTA1YjUxMzFi",
+  "snapshot_id": "MCwyNzg4ZWU2N2NiODY4NmM0YzI4OTkyNjRhODIwMjg4ZTAzOTU2NTVi",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "$100 Bill (feat. Ciara)",
+        "url": "https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 184405,
+      "name": "$100 Bill (feat. Ciara)",
+      "url": "https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Cottonwood 2",
         "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 253600,
       "name": "AUTOMOBOOTY",
       "url": "https://open.spotify.com/track/2wYxSiGfIaBH0EA9Z4ROxj"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "$100 Bill (feat. Ciara)",
-        "url": "https://open.spotify.com/album/7sAIBdCvzexxpWndzDMlb0"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "$100 Bill (feat. Ciara)",
-      "url": "https://open.spotify.com/track/4SqCnKpBBNmGbhDQHV8s1h"
     },
     {
       "added_at": "2023-05-05 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEslczDHKhX.md) - [plain]
 
 > Classic tracks that work for the whole family\. Happy Thanksgiving!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,741 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,739 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEslczDHKhX.md) - [plain]
 | 59 | [We Are Family \- 1995 Remaster](https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 3:36 |
 | 60 | [Thanksgiving Theme](https://open.spotify.com/track/3REwKZrXTWHQ01jEaYMVmz) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Peanuts Greatest Hits \(Music From The TV Specials\)](https://open.spotify.com/album/4o51Lr7wqWzIsR7wbgjN6U) | 2:02 |
 
-Snapshot ID: `MCxjOWZiODMwNDM3Nzc3MjU0NGYwNjY0MDcxNWUzZjk2MjA3MDk3Y2My`
+Snapshot ID: `MCxiZWIwOGRiM2VlYjEyODdhNWUwMzEwOTAxNDY2ODc4MDYxZWJjMTI4`

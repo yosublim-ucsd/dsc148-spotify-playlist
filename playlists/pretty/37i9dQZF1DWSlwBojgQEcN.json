@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1772985,
+  "num_followers": 1773133,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTAxZWViZTk1ODVmM2Y5ZGFhYzI4ZjRhNWEwNmFmYWNiNGVmMWJi",
+  "snapshot_id": "MCw0YzNiMTRjOTM0Y2RjZDNkZGIyYTFmZTlmY2NkMDk5ZGUyNThjMDM3",
   "tracks": [
     {
       "added_at": "2023-05-01 15:41:59",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "Wait for You",
         "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "I'd Have to Think About It",
-        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
       },
       "artists": [
         {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
         }
       ],
-      "duration_ms": 150141,
-      "name": "I'd Have to Think About It",
-      "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -627,6 +611,22 @@
       "duration_ms": 255837,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/2jTkLdldm7xtHUfHKhzR7S"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "I'd Have to Think About It",
+        "url": "https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 150141,
+      "name": "I'd Have to Think About It",
+      "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "Before the Bridge",
         "url": "https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "1000 Years",
-        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
       },
       "artists": [
         {
-          "name": "Allman Brown",
-          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 218502,
-      "name": "Sweetest Thing",
-      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1143,6 +1127,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "1000 Years",
+        "url": "https://open.spotify.com/album/7wUbzS5urHkgVamMUP39d7"
+      },
+      "artists": [
+        {
+          "name": "Allman Brown",
+          "url": "https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN"
+        }
+      ],
+      "duration_ms": 218502,
+      "name": "Sweetest Thing",
+      "url": "https://open.spotify.com/track/4XBcShO4h4X55x9yMmyKHL"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
-      },
-      "artists": [
-        {
-          "name": "Cujo Moon",
-          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
-        }
-      ],
-      "duration_ms": 211517,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "Young",
         "url": "https://open.spotify.com/album/1l7efW8h9JlIqxC7BNqgYF"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 188493,
       "name": "Wind & Anchor",
       "url": "https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ"
+      },
+      "artists": [
+        {
+          "name": "Cujo Moon",
+          "url": "https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N"
+        }
+      ],
+      "duration_ms": 211517,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1487,38 +1487,6 @@
     {
       "added_at": "2023-05-01 15:41:59",
       "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
-      },
-      "artists": [
-        {
-          "name": "Luis Trindade",
-          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
-        "name": "Kosher",
-        "url": "https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod"
-      },
-      "artists": [
-        {
-          "name": "Ciaran Lavery",
-          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Left for America",
-      "url": "https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM"
-    },
-    {
-      "added_at": "2023-05-01 15:41:59",
-      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -1531,6 +1499,22 @@
       "duration_ms": 220253,
       "name": "Thirty",
       "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "Dead Leaves",
+        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
+      },
+      "artists": [
+        {
+          "name": "Luis Trindade",
+          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
+        }
+      ],
+      "duration_ms": 187036,
+      "name": "Old Town",
+      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
     },
     {
       "added_at": "2023-05-01 15:41:59",
@@ -1563,6 +1547,22 @@
       "duration_ms": 321120,
       "name": "Lovers' Eyes",
       "url": "https://open.spotify.com/track/60XAcN6U4FyH10movaioLz"
+    },
+    {
+      "added_at": "2023-05-01 15:41:59",
+      "album": {
+        "name": "Kosher",
+        "url": "https://open.spotify.com/album/2mUoO1Fwso37aBUKJzQzod"
+      },
+      "artists": [
+        {
+          "name": "Ciaran Lavery",
+          "url": "https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU"
+        }
+      ],
+      "duration_ms": 170786,
+      "name": "Left for America",
+      "url": "https://open.spotify.com/track/2UJy2HHo4afrQbI5FizxLM"
     },
     {
       "added_at": "2023-05-01 15:41:59",

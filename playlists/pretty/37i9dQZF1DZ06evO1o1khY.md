@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,624 likes - 29 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,653 likes - 29 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 28 | [You Ain't Shit](https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [You Ain't Shit](https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9) | 3:40 |
 | 29 | [Afford Me](https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [JaTavia Akiaa](https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll) | [Afford Me](https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ) | 3:29 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDBlMTAxODY1ZTIwZjI0MGZjMmQ2Yjk2NjI0ODI3ODhlOA==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAxNmNkMDdjZWQyMmE5ODcwM2E4MzQzNTk3MjJjOTdlZg==`

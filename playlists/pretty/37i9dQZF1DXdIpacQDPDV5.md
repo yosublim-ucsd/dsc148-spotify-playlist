@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Tiësto
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,759 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,777 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 39 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 |
 | 40 | [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 |
 | 41 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 |
-| 42 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/3odNd531aBdTtCFryB2zYr) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 |
+| 42 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 |
 | 43 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 |
 | 44 | [Wildfire](https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Luis Torres](https://open.spotify.com/artist/60esHjNSJRdCNHApNP4XzW), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Wildfire](https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg) | 3:25 |
 | 45 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 84 | [LoveLove.mp3](https://open.spotify.com/track/08ultjBV79qGVM3psldUmD) | [Max Wassen](https://open.spotify.com/artist/3tUS9mNjww0E2uwqbHbHz1), [Adam Trigger](https://open.spotify.com/artist/6nXmnBpdFvzImqLQb3HBa9) | [LoveLove.mp3](https://open.spotify.com/album/4Su4SSuzPDlTut8x6Sjzqu) | 2:37 |
 | 85 | [Ocean](https://open.spotify.com/track/3UMun1cKfBA7NPlVXcF7Ul) | [Kisaya](https://open.spotify.com/artist/51Rmu9mstzis4wE5v6c28R) | [Ocean](https://open.spotify.com/album/4QsV0Pg8ME7G5oJ9R5MniF) | 3:05 |
 
-Snapshot ID: `MCw0YjJkNGU3ZWM1YzM3YzIyMmE3NzI3ZTQyN2FhNDE2NzEyYWNkYzBl`
+Snapshot ID: `MCxmYjE1MjlhMjVhZTJmMTkzNzA1NDBhMGQ2YjM2NWIwOTFmMDk0M2Yw`

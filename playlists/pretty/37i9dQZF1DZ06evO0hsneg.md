@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 
 > This is Ramengvrl\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220 likes - 37 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 221 likes - 37 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hsneg.md) - [plain]
 | 25 | [I'm Ugly](https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [I'm Ugly](https://open.spotify.com/album/7w4cxAlYqZ5bd6dyZ2IR0E) | 2:22 |
 | 26 | [gippal](https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:25 |
 | 27 | [WHACHU MEAN](https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHACHU MEAN](https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t) | 3:34 |
-| 28 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
+| 28 | [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 |
 | 29 | [Ain't Gonna Give Up](https://open.spotify.com/track/51Paj0yk4XnAKG6ZMOmKjX) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Ain't Gonna Give Up](https://open.spotify.com/album/7v438AAJXGmtBAAjbKNAk3) | 3:53 |
 | 30 | [out of control \(feat\. Rayi Putra\)](https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 3:01 |
 | 31 | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/track/6mrHgesCVZEEDxiS6aovn6) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [YAYOI DAIMON](https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb) | [yellow fever \(feat\. Ramengvrl & YAYOI DAIMON\)](https://open.spotify.com/album/4mfzgLen8EtrAFZIrOKJEN) | 2:46 |
-| 32 | [Let Em Be](https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:40 |
+| 32 | [The Emo Song \(feat\. Sihk\)](https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:23 |
 | 33 | [Go! \(I Can Be Your\)](https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Go! \(I Can Be Your\)](https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT) | 2:52 |
 | 34 | [whats ur problem](https://open.spotify.com/track/4Ktfx7qkCY1PkH3HwLkUU7) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 | 35 | [Hyperballin](https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [Hyperballin](https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq) | 2:30 |
 | 36 | [i make time \(feat\. Matter Mos\)](https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:54 |
 | 37 | [go commando](https://open.spotify.com/track/4mXjqQFVybIXWeKmLr1PGd) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [no bethany](https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU) | 2:45 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA2YzA5OTdkMWYxZGM1YzVlOGQ0ZDg0NzQ5MWViZDMxYQ==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA1ZTA0ZjMyZDQxODFkYmM3ODNmOTFmNzBjMTA0MmYxYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 
 > This is Thursday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,334 likes - 42 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,337 likes - 42 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3y3XCQ.md) - [plain]
 | 41 | [Love Has Led Us Astray](https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:39 |
 | 42 | [Beyond The Visible Spectrum](https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 3:59 |
 
-Snapshot ID: `MjgwNTkxOTksMDAwMDAwMDA1MzFjNGNmMjZmOWIwYjg0NzE0YWU1NDhjZTk0ZjdiYw==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA1MWZlYjAzMzk0NGM5OWU1NDc2NjhjNDRlZDZlZjk4OQ==`

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with chill <a href="spotify:genre:edm\_dance">house</a>.
 
-373 songs - 1 day 9 hr 20 min
+375 songs - 1 day 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Attraction](https://open.spotify.com/track/2UmiXqJJ3qQooP5pUuiI0W) | [JYYE](https://open.spotify.com/artist/1KNafMiV5Y3OhOr1A5tWwb) | [Attraction](https://open.spotify.com/album/6e2AkcWcXgmgzNNW6HZpwf) | 2:52 | 2021-12-08 |  |
 | [Aurora](https://open.spotify.com/track/4KyEeZwIuoFH0n68qvl35b) | [David Scott](https://open.spotify.com/artist/513OW9lkE4k3NQ7en6raQ8) | [Departures](https://open.spotify.com/album/1oBOaO2vdvxUpX1ej0Lhud) | 4:07 | 2021-12-08 |  |
 | [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-12-08 | 2023-04-25 |
+| [Baume](https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Baume](https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9) | 4:20 | 2023-05-05 |  |
 | [Be Brave](https://open.spotify.com/track/5QeJCkBNHe6a8T5uusmqIv) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [Be Brave / Undertow](https://open.spotify.com/album/5A7FLvpkxnXxHWGXTDFfcT) | 3:56 | 2021-12-08 |  |
 | [Be Patient](https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Be Patient](https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a) | 3:36 | 2021-12-08 |  |
 | [Beat Cari](https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua) | 5:32 | 2021-12-08 | 2022-02-22 |
@@ -51,7 +52,7 @@
 | [Bomalume](https://open.spotify.com/track/6SJZfclzkdmDt8ctjDDLbk) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ) | [Colours](https://open.spotify.com/album/6ybpXrWIJLmzG65aaonTxL) | 6:40 | 2021-12-08 |  |
 | [Bouquet](https://open.spotify.com/track/1WVVHCbf9vWmb0dLI5ZGhB) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Bouquet](https://open.spotify.com/album/5iAyiisTfsZ1GeUEIoJ0N0) | 4:08 | 2021-12-08 |  |
 | [Break Silent](https://open.spotify.com/track/6G9tVTEeSxmJZ80us9Lx3f) | [David Hasert](https://open.spotify.com/artist/5k3tGz3uryhQGnQryA2b6d), [Minoas Cirillo](https://open.spotify.com/artist/4IpuSb0XIF8XEhLfJwurs6) | [Break Silent](https://open.spotify.com/album/5iXJeKdUJZwPFyJ1LfmYyf) | 4:39 | 2022-10-28 |  |
-| [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/235PpPakBYI3L1lv9Pb41E) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/6Np4KW7O4v795Yli3TfAfP) | 3:43 | 2023-01-06 |  |
+| [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/235PpPakBYI3L1lv9Pb41E) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/6Np4KW7O4v795Yli3TfAfP) | 3:43 | 2023-01-06 | 2023-05-10 |
 | [Bring It Back \- Phaze Dee Edit](https://open.spotify.com/track/5xilFpTdCilXSJuAPbzTCU) | [Dave Mayer](https://open.spotify.com/artist/0WCGrh6RDVagRm473Iwlan), [Phaze Dee](https://open.spotify.com/artist/1qaqgCmYRmLWjTbumrYNeP) | [Essential Rhythms 03](https://open.spotify.com/album/7AVvNCXtylJhJ3seOYl33f) | 3:43 | 2021-12-08 | 2022-10-15 |
 | [Bring the Heat](https://open.spotify.com/track/4509YwOHu4aDFR8gagFuw1) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Bring the Heat](https://open.spotify.com/album/21oRCK6XtAfsxIbfuEWGRA) | 6:22 | 2021-12-08 |  |
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-04-21 |  |
@@ -165,9 +166,10 @@
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2021-12-08 |  |
 | [La Maison \- Original](https://open.spotify.com/track/3d80ghHkDghJI78Ca6i0fN) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [La Maison](https://open.spotify.com/album/5JDwNbFFhU2py7OUJhyKQu) | 6:30 | 2022-05-03 | 2022-08-22 |
-| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-12-08 |  |
+| [Le Crocodile](https://open.spotify.com/track/6Diwqd0hI8ychp5DL5QVMb) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Le Crocodile](https://open.spotify.com/album/0GeA48MX9ataAMIBmQmN6H) | 4:23 | 2021-12-08 | 2023-05-10 |
 | [Leko \- Session Victim Remix](https://open.spotify.com/track/18nGprzEucUO4FF768lLhe) | [Kink](https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb), [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Leko Remixes](https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09) | 5:25 | 2021-12-08 |  |
 | [Let Go](https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE) | [Let Go](https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK) | 4:08 | 2021-12-08 | 2023-01-06 |
+| [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-05 |  |
 | [Letzter](https://open.spotify.com/track/7A75UBKiDVmzvaFkYpnYz4) | [Edraw](https://open.spotify.com/artist/5GBLlXRHRfbIItI9WozeAG), [Keller Flavour](https://open.spotify.com/artist/1B4wdhAgnihovev7JTc8fJ) | [The Files](https://open.spotify.com/album/5r7cdO0ac5Rb8SvXgGAYIf) | 2:27 | 2021-12-08 | 2022-11-20 |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 | 2022-05-03 |  |

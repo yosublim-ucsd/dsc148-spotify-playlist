@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,766 likes - 110 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,769 likes - 110 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 109 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 |
 | 110 | [Electric](https://open.spotify.com/track/3PuPU4fgsuBJMfXQ2mXyNc) | [The BossHoss](https://open.spotify.com/artist/1sICjVlCMOCah0snHXWUz0) | [Electric Horsemen](https://open.spotify.com/album/7j3sm2ctSeCf2DHB3b5OkW) | 3:27 |
 
-Snapshot ID: `MCw5Y2RmYTFmZWZlNmQ3ZjZkZGU5YzllYzBlMWQ4OTc3NGNjOGIxYmQ1`
+Snapshot ID: `MCw4YmM4MzY0ZjI3N2U0MDRkYjBlYmI0OWM5MjQ3YjRmODc1M2ZmMDk1`

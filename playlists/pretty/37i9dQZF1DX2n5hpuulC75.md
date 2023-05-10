@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,746 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,785 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Money](https://open.spotify.com/track/1f5eDiILUNeftOB26e6LB1) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Twister](https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc) | 3:59 |
 | 2 | [Edition](https://open.spotify.com/track/2E9EabdPii2mjeckhy1dhP) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/4Ao4KDoCp2AuONTk5XO2F4) | 1:55 |
 | 3 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 |
-| 4 | [Billy](https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Gallows](https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA) | 3:31 |
-| 5 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
+| 4 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
+| 5 | [Billy](https://open.spotify.com/track/7CY9cJAnGsp8AYILrnvaRV) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Gallows](https://open.spotify.com/album/6xDWQZ20oAB26Aza1C0EbA) | 3:31 |
 | 6 | [Every High](https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High](https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl) | 3:33 |
 | 7 | [You](https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You](https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv) | 3:51 |
 | 8 | [What You Want](https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [What You Want](https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB) | 3:11 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 17 | [Where the Money Flows](https://open.spotify.com/track/35592qATAP1u72mO9oelLc) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 5:13 |
 | 18 | [Tonight](https://open.spotify.com/track/6oToGY0yfiDHiL13kOvZyr) | [Mishegas](https://open.spotify.com/artist/1F3BcbR6yzILOCzzA3i0Rh) | [Tonight](https://open.spotify.com/album/3fzORzNVuRc1VH3K74swLE) | 3:12 |
 | 19 | [thankful](https://open.spotify.com/track/54xvG8lA7vsaEnsppZECaL) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/6OGJgEAt1mJ34TymYnTz5I) | 2:26 |
-| 20 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 |
-| 21 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 |
+| 20 | [Plastic](https://open.spotify.com/track/6ilPGjQvpV8PdA2lCeCfn1) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:08 |
+| 21 | [Daydream](https://open.spotify.com/track/6DEDhjTllUrPw29BivTvn2) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T), [Joba](https://open.spotify.com/artist/2t64CHsmWouJNyXSwy5q2q) | [Daydream feat\. Joba](https://open.spotify.com/album/0WRsSZMzGnH9f4HOfzTybZ) | 3:20 |
 | 22 | [Vibe](https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn) | 2:24 |
 | 23 | [Bet She Looks Like You](https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:45 |
 | 24 | [Ayahuasca](https://open.spotify.com/track/1MKS0c8KhGm84hQcYlzFtv) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Ayahuasca](https://open.spotify.com/album/6g9UQ5hfoMEecRQwhnyqo6) | 8:28 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 27 | [INT.](https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone’s EP I](https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d) | 1:27 |
 | 28 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 29 | [I'm Right Here](https://open.spotify.com/track/0LS2fJCXvbn74RQeGLxbeS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [Unusable Love](https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p) | 4:41 |
-| 30 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
-| 31 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
+| 30 | [I would](https://open.spotify.com/track/3UBm5xTWE95rigyzgRq4iT) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/6xndm8lDtaY2xEGP3Ue0wv) | 3:25 |
+| 31 | [Needy Bees](https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Green Twins](https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV) | 3:31 |
 | 32 | [Mercury](https://open.spotify.com/track/5vJN5smjpdMrheQwqpGg0J) | [Mind Bath](https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC) | [Baby You Can Free Your Mind](https://open.spotify.com/album/3L58ABS2IBbrb2OkbbgXn2) | 5:35 |
 | 33 | [Homegrown \- Empty Woods Remix](https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Empty Woods](https://open.spotify.com/artist/4xtMBqXAX9q4ZVyddmq1LM) | [Homegrown \(Remixes\)](https://open.spotify.com/album/0vQkKZdbf6ZlZxSZuzmibt) | 4:05 |
 | 34 | [Surf](https://open.spotify.com/track/162IXWKNMaTHQSnXdT2yPP) | [Common Tiger](https://open.spotify.com/artist/3cFbMn6PWzK9ukWYrObGDi) | [Boom Boom On The Roof, Boom Boom In Your Ears](https://open.spotify.com/album/25Fs92K1G6mixptN7UgNqP) | 2:55 |
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 50 | [With You](https://open.spotify.com/track/2lskCyax2W4xf0OIvu1sus) | [Oddysseys](https://open.spotify.com/artist/7b5YV6ZD7IcamrC28c6cUd) | [With You](https://open.spotify.com/album/6DNml4of4LLHUa5FTBnJXu) | 2:25 |
 | 51 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
 | 52 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 |
-| 53 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
-| 54 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
+| 53 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
+| 54 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
 | 55 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
 | 56 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
 | 57 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
 | 58 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 |
-| 59 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
-| 60 | [Do You Feel](https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Do You Feel](https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW) | 3:54 |
+| 59 | [Do You Feel](https://open.spotify.com/track/1o7GN5kATFdAUw1d8Uimba) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Do You Feel](https://open.spotify.com/album/6zD2T7eIlbfZq3rZb1ngcW) | 3:54 |
+| 60 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
 
-Snapshot ID: `MCxjMTY2NzcwMTg5NDM5ZmE0YWQzMjlmNzdhY2Q0OWI3NmI5OTY4MDk2`
+Snapshot ID: `MCwyYWUxZTE4NTU0MGQ3N2U5NzNkYThhM2U0ZDcyZjFiMWRlM2JmMWU1`

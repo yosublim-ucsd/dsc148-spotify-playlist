@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 19275,
+  "num_followers": 19320,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmRkMDI0OTI0ZTE0ZTQ4MjMzYmYwODQzMThhN2ZiYjI4NzQxNDhl",
+  "snapshot_id": "MCxjZmRhOGU2YjdlZTEzZWJmNzgzM2Y5NzZmMTI4ZmY3NzAzNDQzZDFk",
   "tracks": [
     {
       "added_at": "2023-04-07 16:00:00",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
+      "added_at": "2023-04-28 18:00:00",
+      "album": {
+        "name": "Gozar",
+        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "duration_ms": 204384,
+      "name": "Gozar",
+      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
+    },
+    {
       "added_at": "2023-04-07 16:00:00",
       "album": {
         "name": "I Am Somebody",
@@ -787,22 +803,6 @@
       "duration_ms": 178609,
       "name": "La Serenata",
       "url": "https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF"
-    },
-    {
-      "added_at": "2023-04-28 18:00:00",
-      "album": {
-        "name": "Gozar",
-        "url": "https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW"
-      },
-      "artists": [
-        {
-          "name": "Paskman",
-          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
-        }
-      ],
-      "duration_ms": 204384,
-      "name": "Gozar",
-      "url": "https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1"
     },
     {
       "added_at": "2023-04-07 16:00:00",

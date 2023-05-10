@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Sean Leon",
-  "num_followers": 1380790,
+  "num_followers": 1380765,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2Q3ZGI3ZGZkMzVmNzgzN2I0M2ZhMWRmY2MxZTIzY2IzNTE5ODU0",
+  "snapshot_id": "MCwwMzIwZTAwMWM5YWY3NGM2NjM0YjJlMDQxYmFmY2ZkZDJmOGNlZDNk",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -549,6 +549,22 @@
       "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
     },
     {
+      "added_at": "2023-04-07 22:20:15",
+      "album": {
+        "name": "only u",
+        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
+      },
+      "artists": [
+        {
+          "name": "Karri",
+          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
+        }
+      ],
+      "duration_ms": 146127,
+      "name": "only u",
+      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
+    },
+    {
       "added_at": "2022-12-16 05:17:19",
       "album": {
         "name": "Build Me A House",
@@ -567,22 +583,6 @@
       "duration_ms": 181481,
       "name": "Build Me A House",
       "url": "https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp"
-    },
-    {
-      "added_at": "2023-04-07 22:20:15",
-      "album": {
-        "name": "only u",
-        "url": "https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ"
-      },
-      "artists": [
-        {
-          "name": "Karri",
-          "url": "https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "only u",
-      "url": "https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9"
     },
     {
       "added_at": "2022-11-04 04:00:00",
@@ -745,22 +745,6 @@
       "url": "https://open.spotify.com/track/4nrPp7oq6Rhnbohqji1x71"
     },
     {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "deadman",
-        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
-      },
-      "artists": [
-        {
-          "name": "Souly Had",
-          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "deadman",
-      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
-    },
-    {
       "added_at": "2022-07-22 14:09:12",
       "album": {
         "name": "JAMIE",
@@ -775,6 +759,22 @@
       "duration_ms": 189000,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
+      "added_at": "2022-12-02 05:00:00",
+      "album": {
+        "name": "deadman",
+        "url": "https://open.spotify.com/album/3o7s3kTZToycxrqhtrAwxa"
+      },
+      "artists": [
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        }
+      ],
+      "duration_ms": 130909,
+      "name": "deadman",
+      "url": "https://open.spotify.com/track/5wT0AQeYT09WqR7r0eYZWs"
     },
     {
       "added_at": "2022-09-23 04:05:05",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
-      "album": {
-        "name": "Fuck Tha World",
-        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 141538,
-      "name": "Fuck Tha World",
-      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
-    },
-    {
       "added_at": "2022-11-18 05:00:00",
       "album": {
         "name": "Raven",
@@ -927,6 +911,22 @@
       "duration_ms": 292824,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1045,38 +1045,6 @@
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Masego",
-        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 256750,
-      "name": "Eternal Sunshine (Fire Pit)",
-      "url": "https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "D4U - Spotify Singles",
@@ -1091,6 +1059,22 @@
       "duration_ms": 160487,
       "name": "D4U - Spotify Singles",
       "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Masego",
+        "url": "https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 256750,
+      "name": "Eternal Sunshine (Fire Pit)",
+      "url": "https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1111,6 +1095,22 @@
       "duration_ms": 147773,
       "name": "WHITE CROCS (with Ryan Trey)",
       "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+      },
+      "artists": [
+        {
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+        }
+      ],
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Selfish Soul",
-        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Selfish Soul",
-      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Good Mornin'",
@@ -1251,6 +1235,22 @@
       "duration_ms": 142351,
       "name": "Good Mornin'",
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Selfish Soul",
+        "url": "https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Selfish Soul",
+      "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1377,22 +1377,6 @@
       "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Seltzer",
-        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Seltzer",
-      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "just friends",
@@ -1409,20 +1393,36 @@
       "url": "https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua"
     },
     {
-      "added_at": "2022-11-18 05:00:00",
+      "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "flora + fana (deluxe)",
-        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+        "name": "Seltzer",
+        "url": "https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a"
       },
       "artists": [
         {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
         }
       ],
-      "duration_ms": 217055,
-      "name": "float",
-      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+      "duration_ms": 184615,
+      "name": "Seltzer",
+      "url": "https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg"
+    },
+    {
+      "added_at": "2023-05-05 05:12:02",
+      "album": {
+        "name": "ODEE",
+        "url": "https://open.spotify.com/album/2kELEjzqyXH1dZbeSC8bBx"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "ODEE",
+      "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -1441,6 +1441,22 @@
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "flora + fana (deluxe)",
+        "url": "https://open.spotify.com/album/49taXX1D0To7iLGm1WcfLS"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 217055,
+      "name": "float",
+      "url": "https://open.spotify.com/track/3DxkonlRas1WjpWUuNmf7Z"
+    },
+    {
       "added_at": "2023-02-24 05:23:50",
       "album": {
         "name": "World In My Hands",
@@ -1455,22 +1471,6 @@
       "duration_ms": 194401,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2023-05-05 05:12:02",
-      "album": {
-        "name": "ODEE",
-        "url": "https://open.spotify.com/album/2kELEjzqyXH1dZbeSC8bBx"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "ODEE",
-      "url": "https://open.spotify.com/track/1DJLf5CTIbjI8gPqfZZ6Wj"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1491,22 +1491,6 @@
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "flora + fana",
-        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 169579,
-      "name": "BAD bad",
-      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1545,6 +1529,54 @@
       "url": "https://open.spotify.com/track/0mPU13KnWqvIgrfeNkXKLx"
     },
     {
+      "added_at": "2022-07-15 04:02:46",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 265680,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "flora + fana",
+        "url": "https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 169579,
+      "name": "BAD bad",
+      "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
+    },
+    {
+      "added_at": "2022-09-30 04:04:40",
+      "album": {
+        "name": "5 MO' MINUTES",
+        "url": "https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        }
+      ],
+      "duration_ms": 161142,
+      "name": "5 MO' MINUTES",
+      "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Form Follows Function",
@@ -1563,38 +1595,6 @@
       "duration_ms": 160909,
       "name": "Everytime the Night Starts Calling",
       "url": "https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
-    },
-    {
-      "added_at": "2022-09-30 04:04:40",
-      "album": {
-        "name": "5 MO' MINUTES",
-        "url": "https://open.spotify.com/album/5lHWEDIn7EzoD7bRvlpnE5"
-      },
-      "artists": [
-        {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
-        }
-      ],
-      "duration_ms": 161142,
-      "name": "5 MO' MINUTES",
-      "url": "https://open.spotify.com/track/2IqisFTp3FOh9w7BN4d2dF"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1629,22 +1629,6 @@
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
-      "added_at": "2022-09-09 04:06:40",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
       "added_at": "2022-07-24 02:54:27",
       "album": {
         "name": "Sinner",
@@ -1659,6 +1643,22 @@
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
+    },
+    {
+      "added_at": "2022-09-09 04:06:40",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2022-07-15 04:02:46",

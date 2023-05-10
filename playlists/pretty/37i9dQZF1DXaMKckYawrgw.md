@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska 100% hecho en México con chilito del que pica\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,089 likes - 108 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,092 likes - 108 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 26 | [Quinto Patio Ska](https://open.spotify.com/track/1Zs96OM6QHyb00sVAFOZ2g) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [Circular Colectivo](https://open.spotify.com/album/414o3Z4kf1C9dGdpxGmkBk) | 4:05 |
 | 27 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 28 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
-| 29 | [Tres Patines](https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [Tres Patines](https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA) | 2:32 |
+| 29 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
 | 30 | [El Último Ska](https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Infiernos](https://open.spotify.com/album/6EcnCS0DRha1RYCYmmnOn1) | 4:34 |
-| 31 | [Somos del Barrio](https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV) | [Los Rude Boys](https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA) | [El Precio del Sudor](https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc) | 2:44 |
+| 31 | [Tres Patines](https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt), [Skuela de Baile](https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1) | [Tres Patines](https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA) | 2:32 |
 | 32 | [No Piensa En Ti](https://open.spotify.com/track/6zc3skkzxwCJXVywiv7JvM) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:09 |
 | 33 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 | 34 | [Labios Rojos](https://open.spotify.com/track/4TgMjUl6V83bU03XiQADz7) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW), [Salvador Moreno](https://open.spotify.com/artist/2Qp5tnyK98GOW3IZcM69yP) | [Latin Ska Force](https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt) | 3:39 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 60 | [Las Chicas Como Tú](https://open.spotify.com/track/262jGMuFthtLE5JrmRhQec) | [Radio Catoche](https://open.spotify.com/artist/5xghcJVVg0kwNKpf0aUdNm) | [Monstruo de Bares](https://open.spotify.com/album/47ZjISrfM9FkXYAMxjSTKZ) | 2:22 |
 | 61 | [Ni un paso atras](https://open.spotify.com/track/0DAixqXelWP3hwdUrJKP0F) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:37 |
 | 62 | [Marichú](https://open.spotify.com/track/269LeYy1CgAmIEAcQF4RHi) | [Los Korucos](https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx) | [De Todo Tengo Señor](https://open.spotify.com/album/3hvT6HiskpLzcwgXIpjhJz) | 2:30 |
-| 63 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
-| 64 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
+| 63 | [Skarface](https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl) | [Los Chickléts](https://open.spotify.com/artist/0mWlTqjHA6WrVyQhHqC0Wp) | [La Ciudad Es...Nuestra](https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz) | 1:00 |
+| 64 | [Espergesía](https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx) | [Piel De Banqueta](https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce) | 2:34 |
 | 65 | [Rudy Rude Boy](https://open.spotify.com/track/0knRFhZtR19PH5qteuV778) | [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [Vatos Rudos Forever! \(1994\-2014\)](https://open.spotify.com/album/73GO7U8UfkyfRcTe2Al0yt) | 3:30 |
 | 66 | [Tiempos Rudos](https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT) | [Panico Latino](https://open.spotify.com/artist/4QT18Bb3BJ647bh6TWv30O) | [Panico Latino](https://open.spotify.com/album/7qkoi8d0QgZxt8kzFmg3Zt) | 3:49 |
 | 67 | [Luna](https://open.spotify.com/track/2mvbq4eTb7dJPY6yzC7qlL) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 3:56 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 107 | [Esta Noche](https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Compañeros Musicales](https://open.spotify.com/album/6che3OFwfIG8KzJQ7IkwXc) | 3:25 |
 | 108 | [El Dejado](https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:56 |
 
-Snapshot ID: `MCxkNjBkZWFlMTIwYTA1ODc1MWJlNmNmZmRkZjYxYzM2YTFlMzAyODVi`
+Snapshot ID: `MCw4ZGQ5MWNjODkxY2EwMzZkYjM2OGIyNjgzMWUwNzkwYTg1ODg2OWIz`

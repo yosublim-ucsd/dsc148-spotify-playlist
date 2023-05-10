@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tarantino not only produces great movies, he produces great soundtracks",
+  "description": "Tarantino not only produces great movies, he produces great soundtracks.",
   "name": "Best Tracks from Tarantino Films",
   "tracks": [
     {
@@ -104,10 +104,28 @@
       ],
       "date_added": "2018-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 228640,
       "name": "Across 110th Street",
       "url": "https://open.spotify.com/track/2Q5rvrn3qR5HpLlvz3fcOy"
+    },
+    {
+      "album": {
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
       "album": {
@@ -396,6 +414,24 @@
       "duration_ms": 217293,
       "name": "Foolish Heart",
       "url": "https://open.spotify.com/track/46gsGxk2iUctmgJUmQRTKz"
+    },
+    {
+      "album": {
+        "name": "The Kpm 1000 Series - Volume 1",
+        "url": "https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H"
+      },
+      "artists": [
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148906,
+      "name": "Funky Fanfare",
+      "url": "https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA"
     },
     {
       "album": {

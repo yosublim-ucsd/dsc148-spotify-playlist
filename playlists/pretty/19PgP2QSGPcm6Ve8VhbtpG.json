@@ -1,12 +1,12 @@
 {
   "description": "The best of the 1980s from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.",
-  "num_followers": 2466058,
+  "num_followers": 2466149,
   "original_name": "80s HITS | TOP 100 SONGS",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MjgyNixkYjBiYzg1YjZmNGZjNzk0YzZhMTM1NjgxNjdmYjdkMDY4ZmE4MTk2",
+  "snapshot_id": "MjgyNyw2MDM5ODA1OTBmMjc2YzkyNDExZmMxZGYzNmU0ZDJiMjhjY2EyNWU5",
   "tracks": [
     {
       "added_at": "2023-05-08 17:15:54",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-05-08 17:15:54",
       "album": {
+        "name": "Soul Mining",
+        "url": "https://open.spotify.com/album/65nhz1EbSruHtMqqLJrRja"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 296333,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/3zf2eLN9Yf8ayZO5cn4Xh5"
+    },
+    {
+      "added_at": "2023-05-08 17:15:54",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 300840,
       "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
       "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2023-05-08 17:15:54",
-      "album": {
-        "name": "Soul Mining",
-        "url": "https://open.spotify.com/album/65nhz1EbSruHtMqqLJrRja"
-      },
-      "artists": [
-        {
-          "name": "The The",
-          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
-        }
-      ],
-      "duration_ms": 296333,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/3zf2eLN9Yf8ayZO5cn4Xh5"
     },
     {
       "added_at": "2023-05-08 17:15:54",

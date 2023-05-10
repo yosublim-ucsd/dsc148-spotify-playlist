@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 234306,
       "name": "\u30a2\u30de\u30c4\u30ad\u30c4\u30cd (feat.\u93e1\u97f3\u30ea\u30f3)",
       "url": "https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM"
@@ -6000,6 +6000,24 @@
       "duration_ms": 201318,
       "name": "\u30dc\u30c3\u30ab\u30c7\u30e9\u30d9\u30ea\u30bf",
       "url": "https://open.spotify.com/track/3sbj4p74huvGfIu3zKw7GJ"
+    },
+    {
+      "album": {
+        "name": "\u30dc\u30cb\u30fc&\u30af\u30e9\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/1ml6frwbwpvD4XLWzSmYnD"
+      },
+      "artists": [
+        {
+          "name": "Parsley Onuma",
+          "url": "https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "\u30dc\u30cb\u30fc&\u30af\u30e9\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T"
     },
     {
       "album": {

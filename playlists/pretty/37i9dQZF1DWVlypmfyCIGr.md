@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: tomodati
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,006 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,012 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [Do What You Do Ably](https://open.spotify.com/track/4MJjFBcxDn2pbrhPeeFazZ) | [SOMETIME'S](https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc) | [Do What You Do Ably](https://open.spotify.com/album/61ec3jHFueT9kiHbxe6fWA) | 4:14 |
 | 80 | [Wendy](https://open.spotify.com/track/7iju8j90ZM74JPVFuLqFNx) | [SHU\-MI](https://open.spotify.com/artist/63zzxBWQ7ENvYuqyuQ1HNE) | [Wendy](https://open.spotify.com/album/0Am7CHYVofBsImo7zn3jLp) | 2:23 |
 
-Snapshot ID: `MCwwYmUxZjBiODFhYThkYmMyZjg1NGRhYjc0ZWZiNWM1MGVkODg3OGFh`
+Snapshot ID: `MCxkMTQ3ODEyYzA0NTUwNDA0MGU1OWJlZjE0MDQyZTEyNTFkZTRmYTZh`

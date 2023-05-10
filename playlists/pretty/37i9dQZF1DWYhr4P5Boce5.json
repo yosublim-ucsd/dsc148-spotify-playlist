@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 193878,
+  "num_followers": 193943,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWVkMzZmNDNiM2ZjZTYzNWIxN2M4OTc5MWNjYjdiMTdhMDRmMGFm",
+  "snapshot_id": "MCwyMDRhODZlYTY2YWRjYzZkNTNhNTUyNWQ0NWMwYzkwNWYzMDVkNTY5",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Limbs & Branches",
-        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
-      },
-      "artists": [
-        {
-          "name": "Jon Foreman",
-          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
-        }
-      ],
-      "duration_ms": 309840,
-      "name": "Your Love Is Strong",
-      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/5OhwoQcGjoHpX46cVyuOUh"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 209880,
       "name": "Girl of My Dreams",
       "url": "https://open.spotify.com/track/2Ar2dRIzmucQyL6xjYiCYo"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Limbs & Branches",
+        "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        }
+      ],
+      "duration_ms": 309840,
+      "name": "Your Love Is Strong",
+      "url": "https://open.spotify.com/track/5ZmzH1JqTrBJ9rckQXZVlY"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
-      },
-      "artists": [
-        {
-          "name": "Stars Go Dim",
-          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Every Falling Tear",
-        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
-      },
-      "artists": [
-        {
-          "name": "Matt Hammitt",
-          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
-        }
-      ],
-      "duration_ms": 246461,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "This Loving",
         "url": "https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 156831,
       "name": "This Loving",
       "url": "https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Every Falling Tear",
+        "url": "https://open.spotify.com/album/57KfddAY3ffu3A3F7M5b0h"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "duration_ms": 246461,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/40WDnUnzQL4XTo81vUJlKt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Enough Already",
-        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
+        "name": "The Writer's Room: An Acoustic EP",
+        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
       },
       "artists": [
         {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 191794,
-      "name": "Another Song About Love",
-      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
+      "duration_ms": 212426,
+      "name": "The Day Before You - Acoustic",
+      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "The Writer's Room: An Acoustic EP",
-        "url": "https://open.spotify.com/album/6yUxPBG0mG9RA2PdKA7Px5"
+        "name": "Enough Already",
+        "url": "https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
         }
       ],
-      "duration_ms": 212426,
-      "name": "The Day Before You - Acoustic",
-      "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+      "duration_ms": 191794,
+      "name": "Another Song About Love",
+      "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "I do",
+        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
+      },
+      "artists": [
+        {
+          "name": "Caitie Hurst",
+          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "I do",
+      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 242746,
       "name": "Together",
       "url": "https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "I do",
-        "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
-      },
-      "artists": [
-        {
-          "name": "Caitie Hurst",
-          "url": "https://open.spotify.com/artist/4PkIQHjtrqEAOaHysiQW0b"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "I do",
-      "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Band of Gold // Summer Sessions",
-        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
-      },
-      "artists": [
-        {
-          "name": "The Gray Havens",
-          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Band of Gold // Summer Sessions",
-      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Heartland",
-        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 223445,
-      "name": "Midwest Magic",
-      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Will Never Fail",
         "url": "https://open.spotify.com/album/1bVIUQcllEzUNmxYqEsk5h"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 178748,
       "name": "What Will She Say",
       "url": "https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Band of Gold // Summer Sessions",
+        "url": "https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Band of Gold // Summer Sessions",
+      "url": "https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Heartland",
+        "url": "https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "Midwest Magic",
+      "url": "https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6"
     },
     {
       "added_at": "2023-01-31 10:01:12",

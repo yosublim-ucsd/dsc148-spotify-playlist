@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: Ruby Waters
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,947 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,958 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Heartbreaker by Design](https://open.spotify.com/track/5ueLZYReaiLhYrqLrRhpkh) | [Your ex and I](https://open.spotify.com/artist/46bnuozfnzrXzASP9d8XlZ) | [Your ex and I](https://open.spotify.com/album/1SK5c2RidvtRh8Q0ILFqvr) | 4:07 |
 | 100 | [Sink or Swim](https://open.spotify.com/track/6MiF03krOmzIQcyKQz4whv) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Sink or Swim](https://open.spotify.com/album/6V2dEuft1RlLzJ1CFPANQm) | 3:51 |
 
-Snapshot ID: `MCw0ZTc4ZGI5MzI5NDhmYzg4ZmRkMThmNGM0ZWQwNmIxZWM5YTIwNjI3`
+Snapshot ID: `MCw4Yjg1OWM0YjE1NmE1ZGY2MWFiZTNkYzQ5OGNiM2ZmMGMzZTM5MGU1`

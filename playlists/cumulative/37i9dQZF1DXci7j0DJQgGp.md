@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-381 songs - 1 day 0 hr 9 min
+382 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Bad Religion](https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Bad Religion / A Pair Of Brown Eyes](https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp) | 4:20 | 2022-03-25 | 2022-04-21 |
 | [Bed Head \- Acoustic](https://open.spotify.com/track/2d7DuVXlzYByepNPmQSejc) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Bed Head \(Acoustic\)](https://open.spotify.com/album/51adUeflIsXW7VBLulUd3M) | 4:03 | 2021-12-17 | 2022-07-08 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-03-25 |  |
-| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-09 |  |
+| [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 | 2023-03-24 |  |
+| [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-01-09 | 2023-05-10 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-12-17 |  |
 | [Better Than I Know Myself](https://open.spotify.com/track/4PawewnYu8lyLk3DX1RCNu) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 4:22 | 2022-02-25 | 2023-01-10 |
 | [Birds](https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL) | [Jessie Early](https://open.spotify.com/artist/0xGWbDs5hpYFmiOoMpm0EL) | [The Fire Never Dies](https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8) | 3:41 | 2022-03-25 | 2022-04-21 |

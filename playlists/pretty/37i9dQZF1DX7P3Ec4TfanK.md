@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,665 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,664 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7P3Ec4TfanK.md) - [plain]
 | 79 | [Some Say](https://open.spotify.com/track/4poybupy26pTWPr9zY1i7h) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say](https://open.spotify.com/album/5pCAWYym13GcQN8CXEb89m) | 2:55 |
 | 80 | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n), [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Lifestyle \(feat\. Adam Levine\)](https://open.spotify.com/album/0SNj1uja6FAoffAMOTdlLy) | 2:33 |
 
-Snapshot ID: `MCwxNGZhMjBjY2RlZjFkNzc3OGUyM2I0MWRlMmIyZjc5NDVjZWMyNmNl`
+Snapshot ID: `MCwyZjI0NTJmNTEwNDE1M2I3MDJiMzk2ZDNhMGJiNTc5NGNhMTJiZjkw`

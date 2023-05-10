@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,452 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,530 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 29 | [Felicidad](https://open.spotify.com/track/34Uygh7OsoZdlzzDbHgjgb) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 5:40 |
 | 30 | [Tú](https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:56 |
 | 31 | [Cuando Pienso en Ti](https://open.spotify.com/track/6d49mKNcJT2426oYiC09gJ) | [Lion Reggae](https://open.spotify.com/artist/07RneuQafxLKe0gPYVd2Ko) | [Tierra](https://open.spotify.com/album/4mbl2aKs7pes6EKvInIsLL) | 5:19 |
-| 32 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
-| 33 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
+| 32 | [Señorita](https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN) | [Temple Sour](https://open.spotify.com/artist/1s5qi7koTDNSvEC71Y3Jg3) | [Pasajeros](https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ) | 4:20 |
+| 33 | [En Tus Manos](https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Donde Brilla el Sol](https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T) | 4:08 |
 | 34 | [Te Robaste Mi Corazón](https://open.spotify.com/track/5fzXA437Mj45Tl5NgXeeq7) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:03 |
 | 35 | [Un Poquito De Ti \(feat\. Movimiento Original\)](https://open.spotify.com/track/3axbIOoM5lUXADunn5WVos) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Alma](https://open.spotify.com/album/5oX7WtRFG6PnzhIRgmlTY7) | 5:01 |
-| 36 | [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 |
-| 37 | [Armonia de Amor](https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 3:55 |
+| 36 | [Armonia de Amor](https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [RAS Portraits](https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9) | 3:55 |
+| 37 | [Dicen](https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:49 |
 | 38 | [Eres Tú](https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj) | [Raices y Cultura](https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd) | [Mística Raíz](https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb) | 3:35 |
 | 39 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 | 40 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 59 | [Sensación](https://open.spotify.com/track/6LbMjdYpQvJxDTgAVqNM0T) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC), [BlackDali](https://open.spotify.com/artist/6fQBCAmdaMg4d9WYOMW58B) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 3:49 |
 | 60 | [Llegaste a Mi](https://open.spotify.com/track/2HFIOrC4KVKwzHgr7MMmvK) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg) | [El Poder de Tu Alma](https://open.spotify.com/album/6kxX6U45Ugsj26KlhEFNMY) | 3:50 |
 
-Snapshot ID: `MCwyNTVlYmI1M2Q3ZDMyYTlmOTJlMzIzNTVkNWYxZDkyNTQ4OTFmODBl`
+Snapshot ID: `MCxiNTNkYzk3MjIzMjkwN2Q4MzMwMDVlN2ZmNDQ5NjJkNGZhYzJiYjM1`

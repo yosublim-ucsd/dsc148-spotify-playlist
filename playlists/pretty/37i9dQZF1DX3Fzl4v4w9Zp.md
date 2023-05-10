@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: The Wood Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,308 likes - 149 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,346 likes - 149 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Claim Your Prize](https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [Claim Your Prize](https://open.spotify.com/album/0a3QmUqjU2YA1bz9xUSBvu) | 4:45 |
 | 149 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 |
 
-Snapshot ID: `MCwwZGZhMGZhY2NiZjJiMGI3ZDg5N2JhZDQ2YWFjMzliZGY1YWJmM2Nk`
+Snapshot ID: `MCw3NGY5ZDAwODYyODQxM2E2OTU1N2MyY2EyNTFkOWI1OTlmNWEzOGU1`

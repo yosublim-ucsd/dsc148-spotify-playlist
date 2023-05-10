@@ -4,7 +4,7 @@
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: De Jeugd Van Tegenwoordig
 
-1,130 songs - 2 day 11 hr 47 min
+1,131 songs - 2 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1032,7 +1032,8 @@
 | [Van Dale \(feat\. Philly & MocroManiac\)](https://open.spotify.com/track/25xBxkkAr7rZSECtNLsWmD) | [Woody](https://open.spotify.com/artist/4fwqMEjaDoOZXWFpZAFwXf), [Philly](https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj), [MocroManiac](https://open.spotify.com/artist/1n34ZpZX4OCwbuyo9mnfU8) | [Van Dale \(feat\. Philly & MocroManiac\)](https://open.spotify.com/album/01QDyGW3nLdnSZfqM7ok63) | 2:53 | 2023-04-27 | 2023-05-05 |
 | [Vanavond](https://open.spotify.com/track/1sozmK1WTAKOVKzIAPTH5v) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vanavond](https://open.spotify.com/album/3zVBZc4iHYE1LdeNXbjbiB) | 3:20 | 2023-04-13 | 2023-04-21 |
 | [Verblind](https://open.spotify.com/track/46OBejmjKbTvFv2MCLT3fH) | [Shah](https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13), [DIKKE](https://open.spotify.com/artist/6lZ9MW0eEVePXdpa87Wag4), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Verblind](https://open.spotify.com/album/1ixBDYTp7EuHYTJpiYoIFa) | 2:26 | 2023-02-24 | 2023-03-03 |
-| [Verdwaald](https://open.spotify.com/track/4iPqaKTolwHIpccUTpY5v5) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Verdwaald](https://open.spotify.com/album/7jmrlHZklJgth5ksYZv65Y) | 2:52 | 2023-05-04 |  |
+| [Verdwaald](https://open.spotify.com/track/0tHIjuDFd6xONs39EK8UuN) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Verdwaald](https://open.spotify.com/album/4Wo6CpI2FHxTq5gAgQv4CP) | 2:52 | 2023-05-05 |  |
+| [Verdwaald](https://open.spotify.com/track/4iPqaKTolwHIpccUTpY5v5) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Verdwaald](https://open.spotify.com/album/7jmrlHZklJgth5ksYZv65Y) | 2:52 | 2023-05-04 | 2023-05-10 |
 | [Vergeef Me \(Het Liep Uit De Hand\)](https://open.spotify.com/track/7FyKQ97NF1aYuvvQxh3JEW) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Vergeef Me \(Het Liep Uit De Hand\)](https://open.spotify.com/album/6N4mLcigm3GvzL59A6bq4y) | 3:06 | 2023-03-30 | 2023-04-07 |
 | [Verleden Tijd](https://open.spotify.com/track/7obgoX4SK8bxLIwbR41Dcq) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Verleden Tijd](https://open.spotify.com/album/6HMsEq2NjCOlEQiFdSSNXL) | 2:15 | 2023-03-09 | 2023-03-18 |
 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-13 | 2023-04-21 |

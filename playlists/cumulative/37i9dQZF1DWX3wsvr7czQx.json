@@ -736,10 +736,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 212973,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4o1I2WL1pjyFLpshFuLCm2"
+    },
+    {
+      "album": {
+        "name": "I'll Be (from the Motion Picture Soundtrack Love Again)",
+        "url": "https://open.spotify.com/album/6F7SW0EoekiKTOgcGzg1KB"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212973,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6gzgyr3CHPXIs97yeEqU8h"
     },
     {
       "album": {

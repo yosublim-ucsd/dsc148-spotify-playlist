@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Ton Carfi, Brunno Ramos, Paloma Possi",
-  "num_followers": 65717,
+  "num_followers": 65796,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDI5Y2FmMDhmMTFjMDBiZWYwZjk0ZWU1ZGMzZTkwYmM1NjlkMzli",
+  "snapshot_id": "MCwwN2FjMmYzNDYzNTIzZGViMWIwYzhkOTU3Yjk0Mjc1Mzg3N2U4Mzgz",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Acoustic Sessions, Vol. 6",
-        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
+        "name": "Tens o Meu Sim",
+        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "Amanda Dutra",
+          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
         }
       ],
-      "duration_ms": 165954,
-      "name": "Plano B",
-      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+      "duration_ms": 224000,
+      "name": "Tens o Meu Sim",
+      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -515,34 +515,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Tens o Meu Sim",
-        "url": "https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx"
+        "name": "Acoustic Sessions, Vol. 6",
+        "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
       "artists": [
         {
-          "name": "Amanda Dutra",
-          "url": "https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Tens o Meu Sim",
-      "url": "https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
-      },
-      "artists": [
-        {
-          "name": "Hellen Caroline",
-          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
-        }
-      ],
-      "duration_ms": 272021,
-      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
-      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
+      "duration_ms": 165954,
+      "name": "Plano B",
+      "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -567,6 +551,22 @@
       "duration_ms": 284153,
       "name": "S\u00f3 o Come\u00e7o",
       "url": "https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+        "url": "https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI"
+      },
+      "artists": [
+        {
+          "name": "Hellen Caroline",
+          "url": "https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY"
+        }
+      ],
+      "duration_ms": 272021,
+      "name": "Em Teus Bra\u00e7os / Oh Qu\u00e3o Lindo Esse Nome \u00c9",
+      "url": "https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Pra Sempre",
+        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 219857,
+      "name": "Pra Sempre",
+      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Sabe Tudo",
         "url": "https://open.spotify.com/album/0Ud02xzVUjRVeLL7gHiEyt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 193388,
       "name": "Sabe Tudo",
       "url": "https://open.spotify.com/track/0QAelR36l8kKZjccUbJ6ah"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Ac\u00fastico Talita Barreto",
-        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
-      },
-      "artists": [
-        {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
-        }
-      ],
-      "duration_ms": 136626,
-      "name": "Vida Leve",
-      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "A Porta (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
-      },
-      "artists": [
-        {
-          "name": "Khorus",
-          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
-        }
-      ],
-      "duration_ms": 191569,
-      "name": "A Porta - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Me Alcan\u00e7ou (Remix)",
         "url": "https://open.spotify.com/album/7rCwRGabV1EuDoZC1eDIfa"
       },
@@ -763,6 +747,54 @@
       "duration_ms": 331653,
       "name": "Me Alcan\u00e7ou (Remix)",
       "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "A Porta (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5lxwvF9796wnVL2JEytqX4"
+      },
+      "artists": [
+        {
+          "name": "Khorus",
+          "url": "https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx"
+        }
+      ],
+      "duration_ms": 191569,
+      "name": "A Porta - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6R602vaClkxRQBgtlIFxB0"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Asas",
+        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico Talita Barreto",
+        "url": "https://open.spotify.com/album/4Sz7dZPt2bFoc9V0ujUe1K"
+      },
+      "artists": [
+        {
+          "name": "Talita Barreto",
+          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+        }
+      ],
+      "duration_ms": 136626,
+      "name": "Vida Leve",
+      "url": "https://open.spotify.com/track/3GISbYrRNr8z9nbJRdeX1g"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -803,22 +835,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Asas",
-        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 217941,
-      "name": "Asas",
-      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Pense Bem",
-        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pense Bem",
-      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Pra Sempre",
-        "url": "https://open.spotify.com/album/1sNaoPhwqCpwzL9d548MWN"
+        "name": "Pense Bem",
+        "url": "https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ"
       },
       "artists": [
         {
-          "name": "Talita Barreto",
-          "url": "https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y"
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
         }
       ],
-      "duration_ms": 219857,
-      "name": "Pra Sempre",
-      "url": "https://open.spotify.com/track/4eoJ5kJTdzvLRixnthufTX"
+      "duration_ms": 240000,
+      "name": "Pense Bem",
+      "url": "https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "O Final",
-        "url": "https://open.spotify.com/album/5bFmQoxtXxu4T1ptIPAoyN"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "O Final",
-      "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
         "url": "https://open.spotify.com/album/410mUTJTZ3WF9nBxUznYI3"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 246000,
       "name": "O Lado Bom - Tudo Coopera (feat. Anderson Freire, Adilson Freire, Dirceu Freire, Dione Freire, OCabral, Camila, Patr\u00edcia Esp\u00f3sito, Gabriela Rodrigues, Aretusa Cardoso, Kate Souza, Pheterson Mayki, Nicolas, Manuela & Vit\u00e3o Oliveira)",
       "url": "https://open.spotify.com/track/7vNtlSFNUazrOHOTp8Ed7u"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "O Final",
+        "url": "https://open.spotify.com/album/5bFmQoxtXxu4T1ptIPAoyN"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "O Final",
+      "url": "https://open.spotify.com/track/5pmsx6sw7e1UT9KYyWAvo3"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Vivente Ac\u00fastico",
         "url": "https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 212000,
       "name": "Ensimesmo - Ac\u00fastico",
       "url": "https://open.spotify.com/track/690Rz5W01uGPGm754L5diO"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Me Leva Al\u00e9m",
+        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
+      },
+      "artists": [
+        {
+          "name": "Geovanne Oliveira",
+          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Me Leva Al\u00e9m",
+      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Planos Melhores",
         "url": "https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 184991,
       "name": "Planos Melhores",
       "url": "https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
-      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Me Leva Al\u00e9m",
-        "url": "https://open.spotify.com/album/2iwdXuyuljCkNwooRrWCIU"
+        "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+        "url": "https://open.spotify.com/album/0mDivhPMAh9lJxmk5qvuRw"
       },
       "artists": [
         {
-          "name": "Geovanne Oliveira",
-          "url": "https://open.spotify.com/artist/6fcUTkDPBlx0pabVubvZiR"
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
         }
       ],
-      "duration_ms": 215061,
-      "name": "Me Leva Al\u00e9m",
-      "url": "https://open.spotify.com/track/0OVWqVO7oWrCnyM657ZTiC"
+      "duration_ms": 186947,
+      "name": "Eu S\u00f3 Pe\u00e7o a Deus",
+      "url": "https://open.spotify.com/track/0YbWUvV9EpeAQEwMfryios"
     },
     {
       "added_at": "2023-05-05 03:00:00",

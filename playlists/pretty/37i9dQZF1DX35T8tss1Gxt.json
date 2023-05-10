@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover: Gene Moore",
-  "num_followers": 192014,
+  "num_followers": 192191,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWM5NDM4ZGQ1ZjcxYjNiMWQ3YmYwNmYwYmY0NDMyOTA3MjhmMjg0",
+  "snapshot_id": "MCwyZTFjNGU3YjYyYTc1ZGE3Yjg0MTEyNTZiYzQxNWJjYWRhZGE4ZDkx",
   "tracks": [
     {
       "added_at": "2023-01-20 09:20:39",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 214989,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "Growing Pains",
         "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 147604,
       "name": "Has anyone ever left you high and dry?",
       "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Vans X Adidas",
-        "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
+        "name": "Amidst",
+        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
       },
       "artists": [
         {
-          "name": "Rudy Currence",
-          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+          "name": "Jonny Henninger",
+          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
+        },
+        {
+          "name": "Erica Bostick",
+          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
         }
       ],
-      "duration_ms": 234328,
-      "name": "Vans X Adidas",
-      "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
+      "duration_ms": 240500,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1323,22 +1327,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Amidst",
-        "url": "https://open.spotify.com/album/6RJVSX0w6mWKY5V3mEZzZL"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
       "artists": [
         {
-          "name": "Jonny Henninger",
-          "url": "https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4"
-        },
-        {
-          "name": "Erica Bostick",
-          "url": "https://open.spotify.com/artist/4nd82r9V5SLx3xQTuwSwLn"
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Grounded",
-      "url": "https://open.spotify.com/track/5Xr1ZmaHuUxp7cIuIK9Aly"
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
+        "name": "Vans X Adidas",
+        "url": "https://open.spotify.com/album/0MhbwHcPDPyWzB8JWkNcFe"
       },
       "artists": [
         {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
         }
       ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
+      "duration_ms": 234328,
+      "name": "Vans X Adidas",
+      "url": "https://open.spotify.com/track/0iKldjsTD0Z7eNZub4PAf5"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
+      },
+      "artists": [
+        {
+          "name": "Christ Encounter",
+          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
+        }
+      ],
+      "duration_ms": 248057,
+      "name": "First Love",
+      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
         "name": "Come and Be My Love",
         "url": "https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/0uBfQckknUlZAcBG5CTEiZ"
-      },
-      "artists": [
-        {
-          "name": "Christ Encounter",
-          "url": "https://open.spotify.com/artist/2rKuB4AzuUZnbpp81hWRPf"
-        }
-      ],
-      "duration_ms": 248057,
-      "name": "First Love",
-      "url": "https://open.spotify.com/track/44cZgCZcRgxkLV46iASa5K"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/312MTUV5emNgXs3H8BWSgY"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 186337,
       "name": "You",
       "url": "https://open.spotify.com/track/4gVq3WxGiANRcF4tpqrTOx"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Temporary Tears",
-        "url": "https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh"
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
       },
       "artists": [
         {
-          "name": "JoJo Martin",
-          "url": "https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU"
+          "name": "Relena-Rochelle",
+          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
         }
       ],
-      "duration_ms": 267130,
-      "name": "Run On",
-      "url": "https://open.spotify.com/track/2dFwwb7q8lfR4cJR4K2weJ"
+      "duration_ms": 167926,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1755,6 +1755,22 @@
       "duration_ms": 214903,
       "name": "Lean on the Lord",
       "url": "https://open.spotify.com/track/1YEShExhORN9sq3CmGMDJ3"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "Temporary Tears",
+        "url": "https://open.spotify.com/album/3kZxVbCo3dEXwWyifG4Vhh"
+      },
+      "artists": [
+        {
+          "name": "JoJo Martin",
+          "url": "https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU"
+        }
+      ],
+      "duration_ms": 267130,
+      "name": "Run On",
+      "url": "https://open.spotify.com/track/2dFwwb7q8lfR4cJR4K2weJ"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1779,22 +1795,6 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
-      },
-      "artists": [
-        {
-          "name": "Relena-Rochelle",
-          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
         "name": "I Surrender All (Allt till Jesus)",
         "url": "https://open.spotify.com/album/6ipfGbwsNXM67WKpoyN3EG"
       },
@@ -1811,22 +1811,6 @@
       "duration_ms": 192968,
       "name": "I Surrender All (Allt till Jesus)",
       "url": "https://open.spotify.com/track/0YbNff7JhsieHxmHFgEuzX"
-    },
-    {
-      "added_at": "2023-01-20 09:20:39",
-      "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
-      },
-      "artists": [
-        {
-          "name": "Robyn McGhee",
-          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
-        }
-      ],
-      "duration_ms": 268625,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
     },
     {
       "added_at": "2023-01-20 09:20:39",
@@ -1851,18 +1835,34 @@
     {
       "added_at": "2023-01-20 09:20:39",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/12nMGGMPL3fpXJ9kWKQEz0"
       },
       "artists": [
         {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+          "name": "Robyn McGhee",
+          "url": "https://open.spotify.com/artist/2cw26vgVspnC3aHeREahM8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
+      "duration_ms": 268625,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4MecJ3fe9PaGCS6Fd5pnQN"
+    },
+    {
+      "added_at": "2023-01-20 09:20:39",
+      "album": {
+        "name": "New Wine Flow",
+        "url": "https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 209164,
+      "name": "New Wine Flow",
+      "url": "https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i"
     }
   ],
   "unique_name": "Rhythm & Praise",

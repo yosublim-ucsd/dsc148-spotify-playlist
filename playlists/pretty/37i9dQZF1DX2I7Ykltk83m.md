@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,598 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,733 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 57 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 |
 | 58 | [Lilacs](https://open.spotify.com/track/69Akwuscu16hdYN637eTis) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:15 |
 | 59 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
-| 60 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
-| 61 | [Waltzing Back](https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu) | 3:12 |
+| 60 | [Waltzing Back](https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Waltzing Back](https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu) | 3:12 |
+| 61 | [Lovesick](https://open.spotify.com/track/2yDWhOjZhKZ0XqPXyjNQhx) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 4:13 |
 | 62 | [I Don't Know You Like I Used To](https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl) | [Mercury.](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [I Don't Know You Like I Used To](https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK) | 4:19 |
 | 63 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 |
 | 64 | [Your Light](https://open.spotify.com/track/1oA9hE3IxT8moluIvq9Uc8) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Walking Like We Do](https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU) | 5:07 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 90 | [Vest & Boxers](https://open.spotify.com/track/3uKhV3k4ywsQr5PRE5GEoa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/4akyZViUpVRBnxTpfhJCZC) | 2:57 |
 | 91 | [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 |
 | 92 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 |
-| 93 | [Cool Dry Place](https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 5:00 |
-| 94 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
+| 93 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
+| 94 | [Cool Dry Place](https://open.spotify.com/track/6A1sSc1NFq5ZO9V0xGDe1L) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Cool Dry Place](https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE) | 5:00 |
 | 95 | [American Beauty](https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 2:52 |
 | 96 | [Impossible Weight \- feat\. Sharon Van Etten](https://open.spotify.com/track/23y2DjW3Ljd7o0ZcFnqRo9) | [Deep Sea Diver](https://open.spotify.com/artist/6CD0HbcaKmuVB3NHJJgSdH), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Impossible Weight](https://open.spotify.com/album/7ojMNjg11GhA5UQucyQyXi) | 3:22 |
 | 97 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
@@ -126,12 +126,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 116 | [Slowly](https://open.spotify.com/track/5r6qy0ZGZemcKbh7FktPu2) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Waves](https://open.spotify.com/album/1XTjLKNxV3JG6TjZLhk3aX) | 3:05 |
 | 117 | [Coming to Get You Nowhere](https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 3:20 |
 | 118 | [The Wave](https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Waysides](https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri) | 3:45 |
-| 119 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
-| 120 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
-| 121 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
-| 122 | [Tell Me What You Want](https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Tell Me What You Want](https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD) | 4:02 |
-| 123 | [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 |
-| 124 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 |
+| 119 | [When You Know You Know](https://open.spotify.com/track/5LgpO5RdeHPEDSww4XP0WO) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y) | 4:08 |
+| 120 | [The Last Man On Earth](https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:21 |
+| 121 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
+| 122 | [Red Bird Pt\. 2 \(Morning\)](https://open.spotify.com/track/4ihCk0lIbJyYV7JSmJb6YY) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Florist](https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK) | 5:26 |
+| 123 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
+| 124 | [Tell Me What You Want](https://open.spotify.com/track/3x7efaACPC2GmXnsH1nD7B) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Tell Me What You Want](https://open.spotify.com/album/3VdUpn61KkhDfUlerooRwD) | 4:02 |
 | 125 | [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 |
 
-Snapshot ID: `MCw4ODlmOTg4NGYyYjIyN2U5NThmY2YzZDczYWY0ZTYzZDg4OTA2ZGQz`
+Snapshot ID: `MCw3MjgwOTIyYzVhODAyODA5ZmEwYzk0ODVjYmQ4ZDc4NTIwMTI5NWM3`

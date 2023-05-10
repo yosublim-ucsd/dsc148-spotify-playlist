@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 7827,
+  "num_followers": 7864,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzg5MWRiYTJhMzRmYWU1NzZlMTM1MTY3OGNlY2NlMjllYjBlMzFi",
+  "snapshot_id": "MCw2ODQ4YTExOGE5ZDkxODIyOWRhNjRiMjQ1YTYzOGRkYTk1N2JkYzAw",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -427,22 +427,26 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "I See Colors",
-        "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
+        "name": "What You Do To Me",
+        "url": "https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
         }
       ],
-      "duration_ms": 192428,
-      "name": "I See Colors",
-      "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
+      "duration_ms": 154209,
+      "name": "What You Do To Me",
+      "url": "https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -467,26 +471,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "What You Do To Me",
-        "url": "https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR"
+        "name": "I See Colors",
+        "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        },
-        {
-          "name": "Adam Woods",
-          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         }
       ],
-      "duration_ms": 154209,
-      "name": "What You Do To Me",
-      "url": "https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp"
+      "duration_ms": 192428,
+      "name": "I See Colors",
+      "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "Little Planets - Remix",
+        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
+      },
+      "artists": [
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Little Planets - Remix",
+      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Run Till Dark (with Now United) (Arcando Remix)",
         "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Little Planets - Remix",
-        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
-      },
-      "artists": [
-        {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Little Planets - Remix",
-      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Paperplanes",
         "url": "https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 210234,
       "name": "Paperplanes",
       "url": "https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 213987,
-      "name": "There's Another Life 4 U",
-      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 213987,
+      "name": "There's Another Life 4 U",
+      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "We Don\u2019t Ever Stop",
         "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 160638,
       "name": "We Don't Ever Stop",
       "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "WASTED ON ME",
+        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "WASTED ON ME",
+      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "WASTED ON ME",
-        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
       },
       "artists": [
         {
-          "name": "Angrybaby",
-          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
         }
       ],
-      "duration_ms": 182479,
-      "name": "WASTED ON ME",
-      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
+      "duration_ms": 242076,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -719,22 +735,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Say It To Me",
-        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Say It To Me",
-      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Nothing Is Easy EP",
         "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
       },
@@ -747,6 +747,42 @@
       "duration_ms": 191328,
       "name": "Nothing Is Easy",
       "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "See You / Feel So Lonely",
+        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 283953,
+      "name": "See You",
+      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Breaking Apart",
+        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 275958,
+      "name": "Breaking Apart",
+      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -787,58 +823,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "See You / Feel So Lonely",
-        "url": "https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 283953,
-      "name": "See You",
-      "url": "https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Woods",
-        "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 262015,
-      "name": "Save a Soul",
-      "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Breaking Apart",
-        "url": "https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 275958,
-      "name": "Breaking Apart",
-      "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "I Will / Beloved",
         "url": "https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 193706,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Woods",
+        "url": "https://open.spotify.com/album/2z3CV9qqCvIYvrM6pcrp1F"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 262015,
+      "name": "Save a Soul",
+      "url": "https://open.spotify.com/track/7bDDYji600PxR0F921ctVN"
     },
     {
       "added_at": "2023-04-27 22:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "The hits that keep on rocking your world. Cover: blink-182",
-  "num_followers": 56543,
+  "num_followers": 56568,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjMwMGIwYTIwYzRiMTM0Y2QwODEzYzI2ODE0MTllODU0MjhlYTNl",
+  "snapshot_id": "MCw0ZTI2MjYwYmU0YzRkZmJmOTI1ZTgyZTQ5NmJlMjRhZDMyM2E0NjA5",
   "tracks": [
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
-      },
-      "artists": [
-        {
-          "name": "B\u00d8RNS",
-          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
-        }
-      ],
-      "duration_ms": 260986,
-      "name": "American Money",
-      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 191800,
       "name": "Howlin' for You",
       "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
+      },
+      "artists": [
+        {
+          "name": "B\u00d8RNS",
+          "url": "https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo"
+        }
+      ],
+      "duration_ms": 260986,
+      "name": "American Money",
+      "url": "https://open.spotify.com/track/4AewKenHXKBt643p473xCk"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "I'm Born To Run",
-      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 209666,
       "name": "War",
       "url": "https://open.spotify.com/track/23Vf9hNoBN8AacpUUHbiRy"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 206920,
+      "name": "I'm Born To Run",
+      "url": "https://open.spotify.com/track/6zDs6zI94L761vd0cVScTT"
     },
     {
       "added_at": "2023-04-21 13:55:20",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-21 13:55:20",
       "album": {
-        "name": "Isolate And Medicate",
-        "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Nobody Praying For Me",
-      "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
-    },
-    {
-      "added_at": "2023-04-21 13:55:20",
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
+    },
+    {
+      "added_at": "2023-04-21 13:55:20",
+      "album": {
+        "name": "Isolate And Medicate",
+        "url": "https://open.spotify.com/album/4ZpfSlHwUXaL6kgFTL6hMk"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Nobody Praying For Me",
+      "url": "https://open.spotify.com/track/3bq8WiQrEXMwPAibYs7tpu"
     },
     {
       "added_at": "2023-04-21 13:55:20",

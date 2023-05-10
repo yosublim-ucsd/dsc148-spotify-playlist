@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 57835,
+  "num_followers": 57865,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm",
+  "snapshot_id": "MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -211,6 +211,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "ANIITIME003",
+        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
+      },
+      "artists": [
+        {
+          "name": "ANII",
+          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
+        }
+      ],
+      "duration_ms": 444150,
+      "name": "Silver Machine",
+      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Rhodes Island",
         "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 527986,
       "name": "Life Is A Song Worth Singing - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/3MN8hmy8vFs0GcZhVxWLlh"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "ANIITIME003",
-        "url": "https://open.spotify.com/album/0IyewGxlMjmqospjHdtgqQ"
-      },
-      "artists": [
-        {
-          "name": "ANII",
-          "url": "https://open.spotify.com/artist/3Do8Sv7yTTtIjf68qHkx0o"
-        }
-      ],
-      "duration_ms": 444150,
-      "name": "Silver Machine",
-      "url": "https://open.spotify.com/track/1IkEPx8HUsUKwrjlYVZVrp"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
-      },
-      "artists": [
-        {
-          "name": "Lauer",
-          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "First Wave",
         "url": "https://open.spotify.com/album/3loLbxl5tuqHnYxXx80VQ6"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 278755,
       "name": "First Wave",
       "url": "https://open.spotify.com/track/38MZpQ8TQxUPBWgXbgt1wx"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk"
     },
     {
       "added_at": "2021-08-27 15:45:01",

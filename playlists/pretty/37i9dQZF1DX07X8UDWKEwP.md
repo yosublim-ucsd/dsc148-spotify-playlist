@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Mike Bahía
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,488 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,529 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 29 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 |
 | 30 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 |
 | 31 | [La Culpa](https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh), [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [La Culpa](https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ) | 2:54 |
-| 32 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 |
-| 33 | [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [The Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 |
+| 32 | [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [The Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 |
+| 33 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 |
 | 34 | [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 |
 | 35 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
 | 36 | [Consuelo](https://open.spotify.com/track/4T6Zp5YivNaBc63lxDw25i) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Consuelo](https://open.spotify.com/album/1N6xTNae8l8OefNXZttihO) | 2:44 |
 | 37 | [AWCH](https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [AWCH](https://open.spotify.com/album/4HcznvP4cIbOLyuvTJS6QA) | 3:09 |
-| 38 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
-| 39 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
-| 40 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
-| 41 | [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [No Pasa De Moda](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 |
+| 38 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
+| 39 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
+| 40 | [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [No Pasa De Moda](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 |
+| 41 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 42 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
 | 43 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
 | 44 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 47 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 |
 | 48 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
 | 49 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 |
-| 50 | [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 |
+| 50 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 
-Snapshot ID: `MCwxMzU3MmRjYTJjMmZjMjI1ZGUwYTVkNDE3MWJiZTg0YWJmMzkzNmM0`
+Snapshot ID: `MCwzYTNlYTFjOTljN2YwZGNkZDlmOTUzNzI3MDE5MmJkOGYyYzJmZDQ2`

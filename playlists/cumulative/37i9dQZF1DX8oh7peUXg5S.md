@@ -4,7 +4,7 @@
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Sílvia Pérez Cruz.
 
-233 songs - 14 hr 59 min
+234 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Las Cosas Que Importan](https://open.spotify.com/track/1run10IgaZy4iaHhD45Egh) | [Hirahi Afonso](https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh), [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Las Cosas Que Importan](https://open.spotify.com/album/2rU1GNyezdNR2Jz615bUfB) | 3:34 | 2023-03-02 |  |
 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 | 2022-06-09 |  |
 | [Libre te quiero](https://open.spotify.com/track/2fBCjtFq4Xzue65sCFxAof) | [Amancio Prada](https://open.spotify.com/artist/2zzdcDYrrZE11oQ4xo2Ufr) | [Canciones de amor y celda](https://open.spotify.com/album/6Jpai5ZKz0dAXOukKeFqro) | 3:21 | 2022-06-09 | 2022-07-25 |
+| [Lo llaman vida](https://open.spotify.com/track/4Rk6Xfsj274vKcg1n4zvmm) | [Marwán](https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Lo llaman vida](https://open.spotify.com/album/3J3B93yIAPY0ybp9GuxTr1) | 3:18 | 2023-05-05 |  |
 | [Lo Niego Todo](https://open.spotify.com/track/4OpjKvt0ZXA117dqzOrV1y) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/5hkq8Af2XQd5wYSQwscjOs) | 4:42 | 2022-06-09 | 2022-07-29 |
 | [Lo Que Me Dice Tu Boca \- Live](https://open.spotify.com/track/4MbbgZZO5zzw5QAbOEv421) | [Javier Ruibal](https://open.spotify.com/artist/2BGKgfF1cNY6KyfTfS3sVE) | [Lo Que Me Dice Tu Boca, Grabado en Directo \(Live\)](https://open.spotify.com/album/4L5xfWLqzgg1svMVnnRDYc) | 3:18 | 2022-06-09 | 2022-07-28 |
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-27 | 2023-02-17 |
@@ -182,7 +183,7 @@
 | [Quién Me Ha Robado el Mes de Abril](https://open.spotify.com/track/1HX9kKDz6dG4fmLBuKVzOF) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [El Hombre Del Traje Gris](https://open.spotify.com/album/0Hf59j4braIFrtH0rFXjwZ) | 4:57 | 2022-06-09 |  |
 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 | 2022-06-09 |  |
 | [Qué Bello Es Vivir](https://open.spotify.com/track/2CD5TesE5cPyhWxXxz3qIE) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Lo Mal Que Estoy y Lo Poco Que Me Quejo](https://open.spotify.com/album/7auuEfoSwTUYponi3cKCuG) | 3:58 | 2022-06-09 | 2022-09-23 |
-| [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 | 2022-06-09 |  |
+| [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 | 2022-06-09 | 2023-05-10 |
 | [Risk](https://open.spotify.com/track/3gTsuB2I7dLjzPGCfugXQg) | [Tontxu](https://open.spotify.com/artist/04mKUV0wDVvsJ4vWcecdaO) | [Se Vende](https://open.spotify.com/album/7MQWHDDwwFhUW0tZ0XZbp6) | 3:57 | 2022-06-09 | 2022-07-27 |
 | [Ropa de amor](https://open.spotify.com/track/1zB9jg73XJpkSLoiJEkyDW) | [Julio Bustamante](https://open.spotify.com/artist/17uCNrAYiTCTSsXfVEJANA), [Anna Franco](https://open.spotify.com/artist/3MwQeBBFChB0mcwDsvlsaU) | [Moriana](https://open.spotify.com/album/1f7IwlNepJ5uCGzkeMKFnJ) | 3:35 | 2022-12-22 | 2023-01-28 |
 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 | 2022-06-09 | 2022-07-26 |

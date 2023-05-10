@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,482 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,529 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 34 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 |
 | 35 | [Sonho Bossa Nova](https://open.spotify.com/track/2TE7vDdfiipXdXCcU7IKox) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Dança Entre Casais](https://open.spotify.com/album/6dI3aSsEFqAP5GDjG70WvA) | 3:52 |
 | 36 | [Vem Menina](https://open.spotify.com/track/2c4Ecmj9hYHm21KOmnZZ9B) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Achados e Perdidos](https://open.spotify.com/album/0LAhdzSnR5XGs75Ial3VEk) | 4:19 |
-| 37 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
-| 38 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
+| 37 | [O Agora](https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU) | [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dj Codi](https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv) | [O Agora](https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC) | 3:14 |
+| 38 | [Juice of Mandarins](https://open.spotify.com/track/6bhvNNx8aX9HPgOvr37gi7) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Juice of Mandarins](https://open.spotify.com/album/60XsW89G7Tq5vj3bnNveMY) | 2:25 |
 | 39 | [Call](https://open.spotify.com/track/4tvw503IOIq9uc0QNYVey2) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:31 |
-| 40 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
-| 41 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
+| 40 | [Amor em Jacumã](https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [Sem Nostalgia](https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K) | 3:34 |
+| 41 | [Bonita y Triste](https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Bonita y Triste](https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO) | 3:36 |
 | 42 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
 | 43 | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/track/2kFXNHDvTSFwm5d7vsCV1p) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Esqueço das Horas \(Always On Replay\)](https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6) | 3:36 |
 | 44 | [Areia](https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy) | 2:08 |
-| 45 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 |
-| 46 | [Terrorista Del Amor](https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [TU](https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla) | 3:12 |
+| 45 | [Terrorista Del Amor](https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [TU](https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla) | 3:12 |
+| 46 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 |
 | 47 | [Concrete Jungle](https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 3:32 |
 | 48 | [Quando Eu Te Vi / Sorriso \- Ao Vivo](https://open.spotify.com/track/45nhgQyJXhocRq7esjKS9K) | [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp), [Ecoando](https://open.spotify.com/artist/0xKSSq2tMMOz7UCSIKQJxu) | [Quando Eu Te Vi / Sorriso \(Ao Vivo\)](https://open.spotify.com/album/1tTOqkPfGQWOW7UJ91xbf2) | 5:29 |
 | 49 | [Maris](https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E) | [JORGE](https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP) | [Maris](https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Rio de Janeiro](https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt) | [josefe](https://open.spotify.com/artist/1KgTCjRp4Cuoe7N2dwzrPX) | [Rio de Janeiro](https://open.spotify.com/album/1DKniIwcfVDe3jNTo8rhJu) | 2:23 |
 | 60 | [Baiana](https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB) | 3:53 |
 
-Snapshot ID: `MCxkY2M4MjA5OWRkNGFhNDFhZTAwYTM5YTcwNjA0NTY5M2ZkNDc4MDIz`
+Snapshot ID: `MCxiODRhOTA5NDk1NWJlY2FmMmU3MmI5ZDA2OWM1NjY1ZGJkMjNmNGQ2`

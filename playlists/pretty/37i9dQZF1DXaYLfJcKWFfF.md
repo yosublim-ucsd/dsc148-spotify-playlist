@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=5urS1m\_MR3WHF5XTyvcO1w"> Bongeziwe Mabandla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,699 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,736 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 10 | [Present](https://open.spotify.com/track/0qL6DFrJO5Ep1Q7wRjlpQE) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Worry <](https://open.spotify.com/album/2a7v6mAjcRSKp5GVdhEW93) | 2:48 |
 | 11 | [For You](https://open.spotify.com/track/37cZqoXsZiqJ4JN82lNthD) | [Dolapo Martins](https://open.spotify.com/artist/4I7iWiZjm7vAJvePf3iRQT) | [For You](https://open.spotify.com/album/3mXWpQc1yhsTIJKon60KFr) | 2:19 |
 | 12 | [Yeni Abre](https://open.spotify.com/track/5PR0Mk6xqpMoKh8D9GXbeQ) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Yeni Abre](https://open.spotify.com/album/1C9Xf13fBpa09nVuwlxaWW) | 4:18 |
-| 13 | [ukuthanda wena](https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ukuthanda wena](https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39) | 4:07 |
+| 13 | [ukuthanda wena](https://open.spotify.com/track/6z4w4hAbwUm5nGz03AuiVd) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [ukuthanda wena](https://open.spotify.com/album/34EfitSWSsf04PbFF4qE39) | 4:25 |
 | 14 | [Silaha](https://open.spotify.com/track/2yMdEGOICut7TC8VrMU1TA) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [KASHA](https://open.spotify.com/artist/3BFcfVVwbFe4z0iXW535By) | [Silaha](https://open.spotify.com/album/5qyqECj5IQxIP3fa4K4Qsu) | 4:20 |
 | 15 | [Dala](https://open.spotify.com/track/4wSj6rNupF9jU2kOGyMuCQ) | [Nina Ogot](https://open.spotify.com/artist/70vJ4IvBtlCutfLNkxqoSu) | [Dala](https://open.spotify.com/album/27byCwvyfBj2GcBK3od42p) | 6:51 |
 | 16 | [Allez](https://open.spotify.com/track/041kBHDzMPUuePMKJy1RdB) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC), [Rhaffy](https://open.spotify.com/artist/58jbbV6giNbHypaihxigEL) | [Love Lane](https://open.spotify.com/album/0xBtN0vikhUPmTsItssUkF) | 2:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Addicted To You Rehearsal \- 432hz Live](https://open.spotify.com/track/7Jndt5DSBd6lDzCS4u1B66) | [Christiano Can](https://open.spotify.com/artist/41k5COVWW07O4xVBHSDkMj), [Nakeisha Godzone](https://open.spotify.com/artist/5lDBIdDrDDshZvO58HHAGB) | [Addicted To You Rehearsal \(432hz Live\)](https://open.spotify.com/album/1Wt988aKnqhcllzkzSQtah) | 6:17 |
 | 50 | [A Long Way](https://open.spotify.com/track/3NZ4hG7YSIJAYUQ6ZOOl0w) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [A Long Way](https://open.spotify.com/album/2MxblownRNGAkkYxPsFA2V) | 3:16 |
 
-Snapshot ID: `MCwyYjdjODAxNGE3MDFhNjZmYmY2ZGQ5MjE2YjU2YjI3NWVjNTI0Nzc4`
+Snapshot ID: `MCw5MDA4Y2I5NzZlOTE3MzBkYzQ3MDZkNDBkYWY3YWQyM2YwNzZmNTRk`

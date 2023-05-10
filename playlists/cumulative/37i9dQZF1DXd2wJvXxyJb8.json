@@ -244,7 +244,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 73374,
       "name": "Acerola - Ac\u00fastico de Quarto",
       "url": "https://open.spotify.com/track/1Esf1j2uWbOAufzBeg04SA"
@@ -1319,6 +1319,36 @@
     },
     {
       "album": {
+        "name": "Combate",
+        "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
+      },
+      "artists": [
+        {
+          "name": "RAP, falando",
+          "url": "https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190850,
+      "name": "Combate",
+      "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "album": {
         "name": "Combinadinho",
         "url": "https://open.spotify.com/album/2TqritjMLjbcYejnZvZElm"
       },
@@ -1632,6 +1662,24 @@
       "duration_ms": 172973,
       "name": "Desculpa Doutor",
       "url": "https://open.spotify.com/track/18CO6ODntZqzMxOxigBps4"
+    },
+    {
+      "album": {
+        "name": "Desejo Imortal (It Must Have Been Love)",
+        "url": "https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184128,
+      "name": "Desejo Imortal (It Must Have Been Love)",
+      "url": "https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM"
     },
     {
       "album": {
@@ -2981,6 +3029,32 @@
     },
     {
       "album": {
+        "name": "LOVEZINHO DO PAI",
+        "url": "https://open.spotify.com/album/6L5x0X9NFi0QOHop5ICNtH"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Rafinha RSQ",
+          "url": "https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140302,
+      "name": "LOVEZINHO DO PAI",
+      "url": "https://open.spotify.com/track/1ciWhmHMYlFvSJvWUUq1QA"
+    },
+    {
+      "album": {
         "name": "Luz do Luar",
         "url": "https://open.spotify.com/album/6HKHaxZfCQWCD74H12NKy4"
       },
@@ -3140,6 +3214,44 @@
       "duration_ms": 152358,
       "name": "MAMA.CITA (hasta la vista)",
       "url": "https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5"
+    },
+    {
+      "album": {
+        "name": "Marolento",
+        "url": "https://open.spotify.com/album/4TzGr4urshbTMEJoXTfsb6"
+      },
+      "artists": [
+        {
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "name": "Pedro Bala",
+          "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Marolento",
+      "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci"
     },
     {
       "album": {
@@ -3596,7 +3708,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 111968,
       "name": "Na Rebolada",
       "url": "https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK"
@@ -3662,7 +3774,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 160975,
       "name": "Noite Fria",
       "url": "https://open.spotify.com/track/3lT2haeJ7ype7nCJrV96nI"
@@ -5332,7 +5444,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 149076,
       "name": "Tubar\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/4UldILPVpnZO69ffK4B9aA"

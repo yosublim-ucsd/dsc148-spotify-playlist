@@ -1,12 +1,12 @@
 {
   "description": "The wave of Latinos in Hip-Hop from the U.S. Cover: Speak",
-  "num_followers": 21912,
+  "num_followers": 21922,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGM2YTMzYmQ1MWY3MGE5NDQ5MmUzOGI3MWY4YWQ1Y2M2ZGMzZTY2",
+  "snapshot_id": "MCw0YzFkZDgxZTVmNDRiYWVjN2Q3NDA4YmViOTdiN2ZlNWZhNjc5Mjk5",
   "tracks": [
     {
       "added_at": "2023-03-10 22:02:53",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
+        "name": "Parkside Santa",
+        "url": "https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR"
+      },
+      "artists": [
+        {
+          "name": "MoneySign Suede",
+          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
+        }
+      ],
+      "duration_ms": 139594,
+      "name": "Red on My Mind",
+      "url": "https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
         "name": "Face",
         "url": "https://open.spotify.com/album/0mPlZdCyMtoDtHJOylRGzk"
       },
@@ -263,38 +279,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "Parkside Santa",
-        "url": "https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR"
-      },
-      "artists": [
-        {
-          "name": "MoneySign Suede",
-          "url": "https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh"
-        }
-      ],
-      "duration_ms": 139594,
-      "name": "Red on My Mind",
-      "url": "https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/75hXgReGq2RApC1h02kutn"
-      },
-      "artists": [
-        {
-          "name": "Devour",
-          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
-        }
-      ],
-      "duration_ms": 227473,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "Little Homie",
         "url": "https://open.spotify.com/album/2i9595pc3gVJIMUVafVena"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 154536,
       "name": "Little Homie",
       "url": "https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/75hXgReGq2RApC1h02kutn"
+      },
+      "artists": [
+        {
+          "name": "Devour",
+          "url": "https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG"
+        }
+      ],
+      "duration_ms": 227473,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/01Pfi7i0Kve9nTWQGyGYrd"
     },
     {
       "added_at": "2023-03-10 22:02:53",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-10 22:02:53",
       "album": {
-        "name": "El Cantante",
-        "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
-      },
-      "artists": [
-        {
-          "name": "CRIMEAPPLE",
-          "url": "https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Cosos",
-      "url": "https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG"
-    },
-    {
-      "added_at": "2023-03-10 22:02:53",
-      "album": {
         "name": "For Real",
         "url": "https://open.spotify.com/album/482kHPPffbYQ6JW4ST1anV"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 219000,
       "name": "For Real",
       "url": "https://open.spotify.com/track/6IzBIs6LHy8vs6mJfAoHvG"
+    },
+    {
+      "added_at": "2023-03-10 22:02:53",
+      "album": {
+        "name": "El Cantante",
+        "url": "https://open.spotify.com/album/5AMPEhbfGqSNfhImCslYzS"
+      },
+      "artists": [
+        {
+          "name": "CRIMEAPPLE",
+          "url": "https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Cosos",
+      "url": "https://open.spotify.com/track/41Fjg2nCpGifEPc7BLKQNG"
     },
     {
       "added_at": "2023-03-10 22:02:53",

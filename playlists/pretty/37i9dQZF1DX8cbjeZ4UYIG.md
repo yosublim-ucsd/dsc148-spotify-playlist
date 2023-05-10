@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 
 > Classic tunes that shaped and defined the 90s rave scene \- a unique era for dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,585 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,763 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 3 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 4 | [Pacific State](https://open.spotify.com/track/2h7w0KHwHbx4WbG6WxjO7U) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [ESP: The 808 State Effect](https://open.spotify.com/album/0mwlWFUpsVDeDw5kkUlDzV) | 5:51 |
 | 5 | [Sweet Harmony](https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3) | 4:22 |
-| 6 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
-| 7 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/7zgoOh1KhDnlFvFKpv8wlx) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3D5SdLPuPcniSDGnUiYrO5) | 3:59 |
+| 6 | [Sonic Empire \- Short Mix](https://open.spotify.com/track/7zgoOh1KhDnlFvFKpv8wlx) | [Members Of Mayday](https://open.spotify.com/artist/76QERaQEFTh2VKRUL7wz7m) | [The Complete Anthem Collection 1992 \- 2007](https://open.spotify.com/album/3D5SdLPuPcniSDGnUiYrO5) | 3:59 |
+| 7 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 8 | [Move Your Body](https://open.spotify.com/track/1VLEbclmTbYS9Rdp1b90Yf) | [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body \(Elevation\) \- EP](https://open.spotify.com/album/1lzDLTMaIPXUVoVfaADink) | 3:51 |
 | 9 | [Original Nuttah 25](https://open.spotify.com/track/55K24vPjLgAX8yLAq8fErj) | [Uk Apache](https://open.spotify.com/artist/0YE17nrGKTk37bcKpKVUvi), [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j) | [Original Nuttah 25](https://open.spotify.com/album/3CDghMhp5uTwVQVZ9vBVm5) | 3:51 |
-| 10 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
-| 11 | [On a Ragga Tip '97 \- Original Mix](https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On a Ragga Tip '97](https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI) | 5:09 |
+| 10 | [On a Ragga Tip '97 \- Original Mix](https://open.spotify.com/track/7gX6Y2jhsrVqu9qIrxpPof) | [SL2](https://open.spotify.com/artist/30TgkkBf0juP46UUwEYawn) | [On a Ragga Tip '97](https://open.spotify.com/album/6HuS4ewokxN2PuHtyKsaPI) | 5:09 |
+| 11 | [Something Good](https://open.spotify.com/track/22AvpWbOtNTiem8jKDk8QO) | [Utah Saints](https://open.spotify.com/artist/2KB6LGMBaOYYYdvvgyptFH) | [Utah Saints](https://open.spotify.com/album/75Nl51OzRYnIsJEYcY10Bz) | 5:55 |
 | 12 | [Anthem](https://open.spotify.com/track/5czNuIU6g7l5jpefJRcPR4) | [N Joi](https://open.spotify.com/artist/0hcjDfqTgMJdAY7e83gSxs) | [Anthem](https://open.spotify.com/album/3SFsRy1gfOGmcCpGkPrUSc) | 4:03 |
 | 13 | [Chime \- Edit](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 14 | [Valley of the Shadows](https://open.spotify.com/track/6fzwardfFs6sVfNA5R1ypt) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [Valley of the Shadows](https://open.spotify.com/album/5fWVvxaSJgpESrUvNIk9PF) | 4:40 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 17 | [Not over Yet \- Perfecto Edit](https://open.spotify.com/track/5WdcLFYroa1wGlPSaNMQ29) | [Grace](https://open.spotify.com/artist/1DlbW0TOOja6uqR4CHAaeg) | [Not Over Yet \(Remixes\)](https://open.spotify.com/album/4XUF3D8QpVeBGqHrwNcZCw) | 4:21 |
 | 18 | [Pulp Fiction](https://open.spotify.com/track/4bsF2ZJgmq2JiDfyIV3CaX) | [Alex Reece](https://open.spotify.com/artist/74AkwPErO7y6jYZwR7ggJA) | [Pulp Fiction](https://open.spotify.com/album/7CrelOKM75tC3HaQ8a7dsV) | 6:11 |
 | 19 | [Don't Go \- Original Mix](https://open.spotify.com/track/7DOgJIDxCOsPYHXQZIuseF) | [Awesome 3](https://open.spotify.com/artist/4qonlcYcLvt22gP54K6oeL) | [Don't Go](https://open.spotify.com/album/70T1jyWOTEWxuvLIQjg1km) | 5:11 |
-| 20 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
-| 21 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 |
+| 20 | [Beep Street](https://open.spotify.com/track/4ogHzwfR0UCxfzGZBYHyV9) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Hard Normal Daddy](https://open.spotify.com/album/08XR1KLcDo49Yay08q7CsE) | 6:37 |
+| 21 | [Inner City Life \- Radio Edit](https://open.spotify.com/track/4TOIdyhxz1xgAlrrz2HHhT) | [Goldie](https://open.spotify.com/artist/2SYqJ3uDLLXZNyZdLKBy4M) | [Inner City Life](https://open.spotify.com/album/3nlPv0dIcF8CNaiVzsHBsY) | 3:51 |
 | 22 | [Clear](https://open.spotify.com/track/5NKHUvpRs7zr0yOQjx8Exr) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Clear](https://open.spotify.com/album/2a81I8YLdT49A5LWHxetcC) | 4:54 |
 | 23 | [Such A Good Feeling \- Radio Edit](https://open.spotify.com/track/6eKyW6xYhzQQLq1Rff5uh2) | [Brothers In Rhythm](https://open.spotify.com/artist/0f2HTJx4jowMoiHBH4GzdU) | [Such A Good Feeling](https://open.spotify.com/album/76IesqEEpKbaN6zDzJVhXp) | 3:46 |
 | 24 | [Energy Flash](https://open.spotify.com/track/46ddej1ibGIgs58H0wakoK) | [Joey Beltram](https://open.spotify.com/artist/4OW0w5K2UNaWtbpRqzWqI0) | [Classics](https://open.spotify.com/album/28lpBShPdRMmQxT2kEAKMq) | 5:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cbjeZ4UYIG.md) - [plain]
 | 49 | [Anasthasia](https://open.spotify.com/track/5uEjOkEKaOs5BFkGGahSR7) | [T99](https://open.spotify.com/artist/7A6k2eqQT5MnGj6Mq9vwcS) | [The Sound Of Belgium](https://open.spotify.com/album/26u7ERyW4UR9xC4RjrxXoN) | 4:33 |
 | 50 | [No Good \(Start the Dance\)](https://open.spotify.com/track/6B8Sm7JafUT6zMfMkWWnH0) | [The Prodigy](https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB) | [Music for the Jilted Generation](https://open.spotify.com/album/05yevdRXvaX6KGRaZehaDW) | 6:19 |
 
-Snapshot ID: `MCxhOTIwMDIwNGM1ZWM3Njg5NDFmZDgxYThmZWUzM2YxMDc4YTVlNTIy`
+Snapshot ID: `MCw5NWExNzY0NjE0ZWUxMWZmZDMyNmU3ZGQyOTA1ODA5NTFhMGQ0NThi`

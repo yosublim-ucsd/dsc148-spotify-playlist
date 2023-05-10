@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,250 likes - 50 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,338 likes - 50 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 14 | [You've Been Missing Me](https://open.spotify.com/track/2N9IbUkTxHev4HWk5ERRWx) | [Nastic Groove](https://open.spotify.com/artist/5lGYgLjf4WkYW8PcgOKy56) | [Good Vibes Only E.P](https://open.spotify.com/album/3zY0P7aQIX3TNFpVf8j4ZN) | 5:53 |
 | 15 | [Monomotapa](https://open.spotify.com/track/0MD5Buq17s57F0nVl0RTmL) | [Alexsir](https://open.spotify.com/artist/4FLRxCAmG1oFet1kpYpyGV), [Trust SA](https://open.spotify.com/artist/173xrrCL3L2xcLYY4hLG9I) | [Next Generation](https://open.spotify.com/album/5NoiK1Ficn4j116VmnpaKb) | 5:42 |
 | 16 | [Before Everything](https://open.spotify.com/track/1RziJp45zr6MTOS9lSSJYg) | [InQfive](https://open.spotify.com/artist/7MlmAincLcFGKs2gyofE1a) | [Fictions](https://open.spotify.com/album/6hAZKyxzOLyf4eDPXUgmqH) | 6:15 |
-| 17 | [Hold On](https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl) | [The Groove Experience](https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2), [Aiyon](https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr) | [Hold On](https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP) | 6:57 |
-| 18 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 |
+| 17 | [Joker](https://open.spotify.com/track/0eDDWNbcc9fHm1z03tqC2k) | [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [Joker EP](https://open.spotify.com/album/2ytoEy5bx2U2ilibbTOXCE) | 5:23 |
+| 18 | [Hold On](https://open.spotify.com/track/1Zse0zhlLgLKRKqfqnmZbl) | [The Groove Experience](https://open.spotify.com/artist/6xZszQP070cZ681YlrZnv2), [Aiyon](https://open.spotify.com/artist/2dRb1V0Dz4vAlL76m2Etwr) | [Hold On](https://open.spotify.com/album/47cX0hSa1wxE5f1GPEMTcP) | 6:57 |
 | 19 | [Synonymous](https://open.spotify.com/track/3rYWLCEfiqj76hlGOXKiWu) | [STI T's Soul](https://open.spotify.com/artist/0rGRPxUGXalEwmI2wmepq2) | [Synonymous](https://open.spotify.com/album/1bIDXVdqamnZD89I6UgN55) | 6:52 |
 | 20 | [Stay For The Night](https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS) | [Skies Showers EP](https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0) | 8:50 |
 | 21 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Push It](https://open.spotify.com/track/0vj7icU6h87yAnFsHMqaQs) | [Mizo4Real](https://open.spotify.com/artist/0J6MLBtnzv4y28omcmd97Y) | [Let It Rain](https://open.spotify.com/album/7gXMf35rmuaFwW1uWG4U0X) | 7:56 |
 | 50 | [7 Steps \- Soulcalmic Mingle](https://open.spotify.com/track/0iI8NQxWTWVmRpdTEOCKfs) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [7 Steps \(Soulcalmic Mingle\)](https://open.spotify.com/album/2L18EV5XIALri7ko5ZqSw8) | 5:33 |
 
-Snapshot ID: `MCxiZGJjZTYzOTBiZjVmOTEwNjY0ZTI1ODM5NDA5NjJlNGRkODU2NWVm`
+Snapshot ID: `MCw1ZDEwOWU1YzlmODk5MTJkZmQ3MmQ1Mzk3MjNhYTgyNGQyMzBkMmFm`

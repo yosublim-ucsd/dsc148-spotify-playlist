@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,114 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,244 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Send Me the Pillow You Dream On](https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [Golden Hits](https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk) | 2:31 |
 | 75 | [In the Jailhouse Now](https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Golden Hits \(Vol\. 2\)](https://open.spotify.com/album/11KvQ30X7J2y2v8JPOUQbS) | 2:18 |
 
-Snapshot ID: `MCwzN2FjYmZjNThkOGQwN2VkODhjN2MxODIxMTQ2NzQyYWQwODAwMDE4`
+Snapshot ID: `MCwzZmJkMDVhNGE2MGEwZDI2Njc1ZTEwNzhlM2UyMTU0ZTUyMjA1ODE2`

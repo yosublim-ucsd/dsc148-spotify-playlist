@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,326 likes - 100 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,361 likes - 100 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Whale Song](https://open.spotify.com/track/13gdVLikvhINVLSwsf9jvN) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Whale Song](https://open.spotify.com/album/6sFCARtfQExa8NYcIBx9IG) | 4:11 |
 | 100 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 |
 
-Snapshot ID: `MCw5MWVlNjk3YWIzNTNlYzVmYzJhMDBiMGNjNDc1NGNkMGUwYTViNjA0`
+Snapshot ID: `MCw1YmE1Nzg4YjJkMzQzOGJjYzcwNjg1NTU0NmUyY2MzYTU5MWRhZTNi`

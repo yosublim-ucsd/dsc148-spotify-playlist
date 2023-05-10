@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Mike Bahía
 
-256 songs - 15 hr 23 min
+257 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Cuándo](https://open.spotify.com/track/4cQBl4skiG56RMGpu1diV3) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cuándo](https://open.spotify.com/album/7AFKnMLumDXDJlCr1N3pvp) | 3:26 | 2023-02-24 |  |
 | [De Lunes a Lunes](https://open.spotify.com/track/0soJZivKdWEmsPMmNorcTE) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA) | [De Lunes a Lunes](https://open.spotify.com/album/7kigI3uf1GjbTWBXdBT5jA) | 3:31 | 2022-07-19 | 2023-01-14 |
 | [De Todo el Barrio \- Bachata Version](https://open.spotify.com/track/22mKWRkwTFmEbpCgTxAyRc) | [Manny Rod](https://open.spotify.com/artist/18tdJvI6qutPImA2Hgdlyv) | [De Todo el Barrio \(Bachata Version\)](https://open.spotify.com/album/4TZUdtwESwymCa4JMQIYLP) | 4:00 | 2022-09-09 | 2023-01-14 |
-| [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 | 2022-06-29 |  |
+| [Decidí Tener Pantalones](https://open.spotify.com/track/60AjFqriLK9hYqSF4BUgRL) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Lado A Lado B](https://open.spotify.com/album/2nPt3BGpcWAt2pU6FjQC5n) | 4:36 | 2022-06-29 | 2023-05-10 |
 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 | 2023-02-17 |  |
 | [Devuélveme](https://open.spotify.com/track/48BbpvKGJdh88imU1lvPa0) | [N'Klabe](https://open.spotify.com/artist/3sXLxfvWccL0EI4Q3xxO3q) | [Devuélveme](https://open.spotify.com/album/5Aado9i2Z6phDjkDieB7ZR) | 3:15 | 2022-01-01 | 2022-06-30 |
 | [Dime \- Salsa](https://open.spotify.com/track/72lcWU4PrmDIVzJLBG5p7C) | [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Dime \(Salsa\)](https://open.spotify.com/album/6ojbNRqGpAAJVRxq2wxGJf) | 3:51 | 2022-01-01 | 2022-04-29 |
@@ -121,6 +121,7 @@
 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 | 2023-03-10 | 2023-04-01 |
 | [La Otra / Mi Forma de Ser \(Medley\)](https://open.spotify.com/track/1Rrd1LflwcO1vbDq7CRAmA) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [On Fire](https://open.spotify.com/album/6YNKw4ToWPZYy1AFzaCIBP) | 6:18 | 2022-01-01 | 2022-03-26 |
 | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [La Tristeza ¡Pa' Fuera!](https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2) | 3:11 | 2022-01-28 | 2022-06-30 |
+| [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 | 2023-05-05 |  |
 | [Lao' a Lao'](https://open.spotify.com/track/7FERDnffKGQKul3P32Sm37) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Lao' a Lao'](https://open.spotify.com/album/1tvJvDz3tXfhq0xfABFuU9) | 3:04 | 2022-01-01 | 2022-06-30 |
 | [Ley de Gravedad](https://open.spotify.com/track/78CUtxSPPqQHyw7JM8Snys) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv), [Dj Dimen5ions](https://open.spotify.com/artist/120pQ3TUu98TWKhe2hBEJh), [DJ Alejandro](https://open.spotify.com/artist/0ym5ObOj6rNAGyq5ga7JhA) | [Ley de Gravedad](https://open.spotify.com/album/7EPlOoet3WAVcNJKID9Fkm) | 3:02 | 2022-04-29 | 2022-06-30 |
 | [Llegaste](https://open.spotify.com/track/5jU9Tj9Mlrwjr2SW5gElJz) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Llegaste](https://open.spotify.com/album/3KYHHZZqz8SEjCVbeUE8xO) | 3:21 | 2023-03-24 | 2023-04-30 |

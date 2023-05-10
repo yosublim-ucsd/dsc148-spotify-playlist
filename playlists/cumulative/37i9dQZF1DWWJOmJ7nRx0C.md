@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: From Ashes To New
 
-779 songs - 1 day 22 hr 40 min
+780 songs - 1 day 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Die Another Day](https://open.spotify.com/track/7LBZfkcgTohIQQ1DqnSuPV) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Jackpot Juicer](https://open.spotify.com/album/6c5mEBiGZdHm0lnzvlbXVW) | 3:41 | 2022-07-29 | 2023-01-21 |
 | [Die With Me](https://open.spotify.com/track/3isuMKUaFNJknycyjBJig2) | [Gemini Syndrome](https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN) | [Die With Me](https://open.spotify.com/album/7ne0tB1p9UJL6phUW2tX3L) | 3:21 | 2021-08-20 | 2022-07-09 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-09-17 | 2022-06-11 |
-| [Dinosaur](https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R) | 3:47 | 2022-10-21 |  |
+| [Dinosaur](https://open.spotify.com/track/3DK5OFBHIEF18MG40nzDgI) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2AcRfLUDOjcjFrysc0WY7R) | 3:47 | 2022-10-21 | 2023-05-10 |
+| [Dinosaur](https://open.spotify.com/track/0amnfaLU8jeRhVcDjvEX6k) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:48 | 2023-05-05 |  |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2021-10-31 | 2022-04-23 |
 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-17 | 2022-09-10 |
 | [Divide](https://open.spotify.com/track/1sp1NrbrCjJ82c5KjelUpr) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Divide](https://open.spotify.com/album/3TztSN55rqXALvDMj2w8tf) | 3:28 | 2022-10-28 | 2023-02-11 |

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...
 
-115 songs - 7 hr 35 min
+117 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 | 2023-01-13 | 2023-03-30 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-20 |  |
 | [Hold Onto My Fur](https://open.spotify.com/track/6ioQB5fLHg5McsIDRHotNA) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG) | [Hold Onto My Fur](https://open.spotify.com/album/01heFmsK0GkmzvNZVpUPVm) | 3:05 | 2023-04-15 |  |
+| [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-09 |  |
 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 | 2023-02-01 | 2023-04-01 |
 | [I Play My Bass Loud](https://open.spotify.com/track/2tdLhnzLh9zknYf8bjIN93) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [I Play My Bass Loud](https://open.spotify.com/album/7DQY6bwfrs58VTGKQh4MGg) | 4:27 | 2023-01-20 | 2023-04-01 |
 | [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-04-14 |  |
@@ -113,6 +114,7 @@
 | [The Smell of Your Hair](https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [The Smell of Your Hair](https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH) | 2:50 | 2023-01-25 | 2023-04-01 |
 | [This House Is...](https://open.spotify.com/track/1Kk4Ux0pZoPIiNyYdy1tbc) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [The House \(Soundtrack From The Netflix Special\)](https://open.spotify.com/album/3HjTcz4IvJiwHJZMlNfifs) | 4:07 | 2023-01-12 | 2023-03-29 |
 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 | 2023-03-03 | 2023-03-30 |
+| [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 | 2023-05-09 |  |
 | [Tom's Diner](https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Tom's Diner](https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM) | 3:40 | 2023-04-21 |  |
 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 | 2023-01-13 | 2023-03-25 |
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 |  |
@@ -120,8 +122,8 @@
 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 | 2023-03-31 |  |
 | [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 | 2023-04-20 |
 | [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 | 2023-03-31 |  |
-| [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-04-12 |  |
+| [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-04-12 | 2023-05-10 |
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 |  |
-| [Índigo](https://open.spotify.com/track/6ByKclwVHHpCQTyqNtzZzA) | [SEVENESTO](https://open.spotify.com/artist/2Vt899iZ2UknL3rdjNIEkN) | [Índigo](https://open.spotify.com/album/3lD8cKHQpYN6YFAogSaUoV) | 3:11 | 2023-03-29 |  |
+| [Índigo](https://open.spotify.com/track/6ByKclwVHHpCQTyqNtzZzA) | [SEVENESTO](https://open.spotify.com/artist/2Vt899iZ2UknL3rdjNIEkN) | [Índigo](https://open.spotify.com/album/3lD8cKHQpYN6YFAogSaUoV) | 3:11 | 2023-03-29 | 2023-05-10 |
 
 \*This playlist was first scraped on 2023-03-18. Prior content cannot be recovered.

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Enjoy EPEX's takeover and special clips! (EPEX\uc758 \ud14c\uc774\ud06c\uc624\ubc84\uc640 \uc2a4\ud398\uc15c \ud074\ub9bd\uc2a4\ub97c \uac10\uc0c1\ud558\uc138\uc694!)",
-  "name": "Hallyu Boy Bands: EPEX Takeover",
+  "description": "Is it your favorite oppa or dongsaeng? Cover:\bONEUS(\uc6d0\uc5b4\uc2a4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "name": "Hallyu Boy Bands",
   "tracks": [
     {
       "album": {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 202203,
       "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
       "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 192596,
       "name": "21st Century Girl",
       "url": "https://open.spotify.com/track/52d5NT69mkmr6WzvQJ9vHr"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 243324,
       "name": "24/7",
       "url": "https://open.spotify.com/track/7kcCB7oh6X4bSoFCvrHLvG"
@@ -542,7 +542,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 215188,
       "name": "Anti-Romantic",
       "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 203426,
       "name": "Don't Wanna Cry",
       "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 242333,
       "name": "FAKE LOVE",
       "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR"
@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 183670,
       "name": "Freakin' Bad",
       "url": "https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg"
@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 183090,
       "name": "Given-Taken",
       "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
@@ -3848,7 +3848,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 198440,
       "name": "Journey",
       "url": "https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD"
@@ -5308,7 +5308,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 163266,
       "name": "oh yeah",
       "url": "https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y"
@@ -5528,7 +5528,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 234856,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1"
@@ -5942,7 +5942,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 210652,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR"
@@ -6270,7 +6270,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-01",
+      "date_removed": null,
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
@@ -6414,7 +6414,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 175826,
       "name": "Snap Shoot",
       "url": "https://open.spotify.com/track/1Yimn9plSAWNv9G3ePzITO"
@@ -7303,6 +7303,24 @@
     },
     {
       "album": {
+        "name": "TAKE OFF",
+        "url": "https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "U",
+      "url": "https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B"
+    },
+    {
+      "album": {
         "name": "THE SECOND STEP : CHAPTER ONE",
         "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
       },
@@ -7314,7 +7332,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 168804,
       "name": "U",
       "url": "https://open.spotify.com/track/5NIHhuAdsaZHmGeEoHiGY7"
@@ -7408,6 +7426,28 @@
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
       "album": {
@@ -7786,7 +7826,7 @@
       ],
       "date_added": "2023-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 230600,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"

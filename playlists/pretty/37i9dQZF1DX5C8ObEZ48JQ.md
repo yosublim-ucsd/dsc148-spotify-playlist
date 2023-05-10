@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=qLEHAAUzSmGMCF2TXtKmMA"> YKB </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,630 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,639 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 69 | [Clown](https://open.spotify.com/track/79N6pmBHIEdLy59Ob6pfzm) | [DJ Dips](https://open.spotify.com/artist/2ciXIMOXnpoVsQZenxBjj7), [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Clown](https://open.spotify.com/album/1kzmL4edZ2X6TZnAiHUAcc) | 2:49 |
 | 70 | [Let You Go](https://open.spotify.com/track/2n5Vbsque4aH0d52GOAmsP) | [RAFFEAL](https://open.spotify.com/artist/2gZKJ3bLxzw0rjNKkBj4l9) | [Let You Go](https://open.spotify.com/album/6UQWTJaUZMzb4QZqPJkRGF) | 3:12 |
 
-Snapshot ID: `MCxhZmMyYzUxMjFhNjlmZjAyOWMxY2YxZjRkYjU5OWM1OGRmNWQxMzgw`
+Snapshot ID: `MCwyYzZmYzljNDRkYTM2ZDA2YmJmMDExNGRjZjk1ZmNlOTEyZDJkYzBj`

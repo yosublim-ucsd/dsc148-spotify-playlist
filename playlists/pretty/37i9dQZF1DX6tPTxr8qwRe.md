@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: laye
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,483 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,136 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 44 | [Buzzkill Baby](https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bittersweet 16](https://open.spotify.com/album/5NrdpIaUiVzSp9dfPxMPO5) | 3:12 |
 | 45 | [Roses](https://open.spotify.com/track/7y2oK30NMiSSYTDAXJLMvh) | [Stela Cole](https://open.spotify.com/artist/1PlWf6idMAz65Luiq6aOY9) | [Roses](https://open.spotify.com/album/59Pyf62gEEr2huHy1lI44V) | 2:45 |
 | 46 | [Bored](https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Bored](https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS) | 2:47 |
-| 47 | [Not My Problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Not My Problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 |
+| 47 | [not my problem](https://open.spotify.com/track/6REifHhHFQcRHdhzOgYwHU) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [not my problem](https://open.spotify.com/album/1RXp2Zm2Mfr16wZgCM52S2) | 2:09 |
 | 48 | [Bad Thing](https://open.spotify.com/track/6UTi9PS0CiMUs5DUfYl3W4) | [Ceara Cavalieri](https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW) | [Bad Thing](https://open.spotify.com/album/3mswhSkFywLzh7g33pG7O3) | 2:43 |
 | 49 | [Devil Is A Woman](https://open.spotify.com/track/75hCdrSo0x1La6xUNGnvGv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Devil Is A Woman](https://open.spotify.com/album/5pJK4ir6zF8VEscS6T34wL) | 3:12 |
 | 50 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 69 | [Feel What I'm Feeling](https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Feel What I'm Feeling](https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX) | 2:54 |
 | 70 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 |
 
-Snapshot ID: `MCwzZDNjMWM3NDgzMDUwYzEzNDUyM2I4YjczODExNzJlOTY5MTYyYjMx`
+Snapshot ID: `MCwxYmRhMmFkNjM3NGZmMzFmMThiMjY0NGExNWYxNjdlMzE1ODRhMDc2`

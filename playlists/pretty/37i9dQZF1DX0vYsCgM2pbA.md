@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,533 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,561 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 35 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
 | 36 | [Alive](https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Alive](https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc) | 5:34 |
 | 37 | [Where The Angels Go To Die](https://open.spotify.com/track/0zwJUJgcZrcdAKfATMYhcq) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 3:32 |
-| 38 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
-| 39 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
+| 38 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
+| 39 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |
 | 40 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 |
 | 41 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 |
 | 42 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [Why 1.3 \[2012 Export Wav\]](https://open.spotify.com/track/4K0dZGCi79U9TnZNkLJpkb) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 4:53 |
 | 60 | [Sun Phase](https://open.spotify.com/track/1yfUYv5TOkuFbePQubZlEk) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Sun Phase](https://open.spotify.com/album/39UdQPn62ARMPc0NUNQOLE) | 5:16 |
 
-Snapshot ID: `MCw0NWQzNDQxYjFlZDgxODE4YzE3ZWUwZGRjYjRkMDk5ZDU1ZWQ5NWJj`
+Snapshot ID: `MCwzNjUxZTI3NWM5MTk0ZWE4NTczZjYwOWMyOGNiMGMzYzZjZjQ5MDYy`

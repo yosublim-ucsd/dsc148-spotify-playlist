@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "How to Save a Life",
+        "url": "https://open.spotify.com/album/4h28S7c6IhSAAkdi3owsJ7"
+      },
+      "artists": [
+        {
+          "name": "Kate McGill",
+          "url": "https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211111,
+      "name": "How To Save A Life",
+      "url": "https://open.spotify.com/track/0OfJNkSwSLUxEywRxQ3ose"
+    },
+    {
+      "album": {
         "name": "Hurricane (Acoustic Version)",
         "url": "https://open.spotify.com/album/69XUoQgDdcktIwDqCugjPy"
       },
@@ -1596,7 +1614,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 213107,
       "name": "Is It Just Me? (feat. JP Cooper) (Acoustic)",
       "url": "https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 203633,
       "name": "Missing Piece - Acoustic",
       "url": "https://open.spotify.com/track/3U9rKD4n0Gk03dxsAMkGs2"
@@ -2297,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "No One Dies From Love (Stripped in France)",
+        "url": "https://open.spotify.com/album/4Pi43llgQL8fFh3a6uYB8E"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "No One Dies From Love (Stripped in France)",
+      "url": "https://open.spotify.com/track/27xRPKb5q7YmDIzOUSHOa9"
+    },
+    {
+      "album": {
         "name": "Numb Little Bug (Piano Version)",
         "url": "https://open.spotify.com/album/4JJlvfntPA9YC3jWVgTTQv"
       },
@@ -2464,7 +2500,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 232591,
       "name": "Safe Inside - Acoustic",
       "url": "https://open.spotify.com/track/0kIpJQHzu46yw6q3V78Ypt"
@@ -2709,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "South Dakota",
+        "url": "https://open.spotify.com/album/0DWGKx6P8SrWT1wHH1Yamj"
+      },
+      "artists": [
+        {
+          "name": "gavn!",
+          "url": "https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178983,
+      "name": "South Dakota",
+      "url": "https://open.spotify.com/track/3wxqXbquEp4LsURWXWgAcm"
+    },
+    {
+      "album": {
         "name": "Start Walking (Acoustic Version)",
         "url": "https://open.spotify.com/album/2WtZ6nN30t7FmI4JXYAVAN"
       },
@@ -2938,7 +2992,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 191368,
       "name": "Too Close - Live Acoustic Version",
       "url": "https://open.spotify.com/track/51AU7hD7lbLeEppubr1JdS"

@@ -3977,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197373,
+      "name": "Pass The Nirvana",
+      "url": "https://open.spotify.com/track/7I93h9I0RUqt1ci3Bfa290"
+    },
+    {
+      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn"
       },
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 265693,
       "name": "Rag Doll",
       "url": "https://open.spotify.com/track/2KCJYwlBWxdlwyIYckIf6V"

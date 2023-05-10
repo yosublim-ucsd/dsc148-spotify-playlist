@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Drake \ud83e\udd89",
-  "num_followers": 3413,
+  "num_followers": 3671,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmI1ZDMxYTI4MTZjN2U4ZTk5ZDJlZTFjNTFlZDQ2ODBmODE3MDM2",
+  "snapshot_id": "MCw0ZTQ4NTViNzE4NDgzNzE4YzQ5NTQ2ZDllZjlmMjY0M2I2Yzg5M2Ez",
   "tracks": [
     {
       "added_at": "2023-05-08 17:01:50",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
+        }
+      ],
+      "duration_ms": 149042,
+      "name": "NIGHTFALL (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
+    },
+    {
+      "added_at": "2023-05-08 17:01:50",
+      "album": {
         "name": "Special Occasion",
         "url": "https://open.spotify.com/album/0m3fAxrcKWZ7S6sqWQKrUp"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 233239,
       "name": "Bass (feat. Tech N9ne & Hopsin)",
       "url": "https://open.spotify.com/track/4fX0nbOg4zoGYsngVBtq4s"
-    },
-    {
-      "added_at": "2023-05-08 17:01:50",
-      "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        },
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 149042,
-      "name": "NIGHTFALL (feat. Dro Kenji)",
-      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+        "name": "Dwayne Carter Flow",
+        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
       },
       "artists": [
         {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
         }
       ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
+      "duration_ms": 130560,
+      "name": "Dwayne Carter Flow",
+      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
     },
     {
       "added_at": "2023-05-08 17:01:50",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-05-08 17:01:50",
       "album": {
-        "name": "Dwayne Carter Flow",
-        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
       "artists": [
         {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 130560,
-      "name": "Dwayne Carter Flow",
-      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
     },
     {
       "added_at": "2023-05-08 17:01:50",

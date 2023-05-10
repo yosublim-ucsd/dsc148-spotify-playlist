@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Butcher Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,758 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,454 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Unforgotten, Unforgiven](https://open.spotify.com/track/1VzXzBWxpNqegHMDJ9p725) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Nat Birchall](https://open.spotify.com/artist/2W5gU4Vi0nwisoXPARdvIy) | [Unforgotten, Unforgiven](https://open.spotify.com/album/460zqovjeV6O8x1rI9VADH) | 4:36 |
 | 100 | [It's One Of These \[Feat\. Benji B, Raven Bush, Theon Cross, Nubya Garcia, Tom Herbert, Shabaka Hutchings, Nikolaj Torp Larsen, Dave Okumu, Nick Ramm, Dan See, Tom Skinner, Martin Terefe\]](https://open.spotify.com/track/13y90UOs37ByfJjGyM4yjp) | [London Brew](https://open.spotify.com/artist/6rVN7vMGgDqCGif9EpNpVb), [Dan See](https://open.spotify.com/artist/3tIBbFxP6udjcNWTn1SMux), [Benji B](https://open.spotify.com/artist/6NXQ4mx83AZ0y0TZtY6zR9), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Martin Terefe](https://open.spotify.com/artist/68KMyINYSK8zqckysgy4OR), [Tom Skinner](https://open.spotify.com/artist/6U9Bsog9PLNE5hrw45ecDm), [Tom Herbert](https://open.spotify.com/artist/08WSyxBEPJgDyOsH8SWpLo), [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Nikolaj Torp Larsen](https://open.spotify.com/artist/7B5J73d7YoQmAtSchQKJEt), [Nick Ramm](https://open.spotify.com/artist/2VqSheffB7Wp1IVCZdIuSL) | [London Brew](https://open.spotify.com/album/36QgAodh1g3ZaMcJDPp59C) | 6:54 |
 
-Snapshot ID: `MCxjMjg3MjZkYjFkZjA4OTlhM2QxMDZjZWRhYjE1Nzg2NjlmMGNkMTM2`
+Snapshot ID: `MCxhOWNlMjk5NTczMDA1OTFlMWMxZjYzZGRiOGIwZDNkMDBjOWNmNjc4`

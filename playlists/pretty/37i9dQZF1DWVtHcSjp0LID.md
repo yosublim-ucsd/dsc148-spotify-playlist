@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,047 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,111 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 13 | [Blurred \- Bonobo Remix](https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Blurred](https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK) | 6:01 |
 | 14 | [Atlas \- Adriatique Remix](https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Stephan Bodzin](https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Atlas \(Remixes\)](https://open.spotify.com/album/2UlxGTSIM484mcJef3iYEc) | 6:17 |
 | 15 | [Ayaya](https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 3:36 |
-| 16 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
-| 17 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
+| 16 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
+| 17 | [Gosh](https://open.spotify.com/track/4mlZurguzNJior9siewA8C) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:51 |
 | 18 | [Fading](https://open.spotify.com/track/770zzJRmEN0sudaxuD7GkB) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Dino Lenny](https://open.spotify.com/artist/7il6z1RANNDWYlYnIevd4L) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 8:07 |
 | 19 | [Bocuma](https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:35 |
 | 20 | [Ghostly](https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Syvsover](https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb) | 6:00 |
@@ -48,13 +48,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 38 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
 | 39 | [Clouds](https://open.spotify.com/track/2LEA9Rr3VH9tkVSySWXwMW) | [Aemone](https://open.spotify.com/artist/4MhBp6uORVip31uN5ML96d) | [Caturne V \- EP](https://open.spotify.com/album/0ZBsAyv2qM5cNaYSYAdSQ1) | 4:12 |
 | 40 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
-| 41 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
-| 42 | [Gulch](https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs) | [Tipper](https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe) | [Forward Escape](https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L) | 3:56 |
+| 41 | [Gulch](https://open.spotify.com/track/5QwqstnenYJb97CaZYV4Qs) | [Tipper](https://open.spotify.com/artist/1soJ22UMyjIw6SYFtoFJwe) | [Forward Escape](https://open.spotify.com/album/6ZQJYNWtH2hZwnECEw354L) | 3:56 |
+| 42 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
 | 43 | [Clarity](https://open.spotify.com/track/4qjCPbyCkFsEwHaZu1m6EO) | [Kettel](https://open.spotify.com/artist/0R879eeczZPVAwTrbKXREp) | [Ibb & Obb \(Original Soundtrack\)](https://open.spotify.com/album/727kXExYDKMWSzYwJH7Dg6) | 2:34 |
 | 44 | [Harmony \- Original Mix](https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3) | [Francis Inferno Orchestra](https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe) | [Where Will You Be Spending Eternity?](https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi) | 5:14 |
 | 45 | [The Hymn Of Fallen Dreams](https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN) | [Hold Me To The Light](https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI) | 7:54 |
-| 46 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
-| 47 | [Dance Machine \- Original Mix](https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Dance Machine](https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn) | 5:40 |
+| 46 | [Dance Machine \- Original Mix](https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7) | [Stereoclip](https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL), [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Dance Machine](https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn) | 5:40 |
+| 47 | [Take Your Place](https://open.spotify.com/track/0za5G50kbPJNA8wyqodYWT) | [Lucci Minati](https://open.spotify.com/artist/4nbU2WGv335ioQaQFcfqO1) | [The Ring EP](https://open.spotify.com/album/7zYrkUcbpyB4JgPcl86Dse) | 6:31 |
 | 48 | [Moons](https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8) | [Embee](https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF) | [Moons](https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb) | 3:37 |
 | 49 | [Vanilla](https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr) | [Gavinco](https://open.spotify.com/artist/7dUeQwfHuOEQGH5PbksGf6) | [Vanilla](https://open.spotify.com/album/4Xs7MNZpiPaKnM4BqkdXTj) | 6:47 |
 | 50 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 69 | [Bonder](https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR) | [Rocket Empire](https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82), [Amber Sparks](https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf) | [Sky Float Sun](https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb) | 5:31 |
 | 70 | [Deep Blues \- Session Victim Remix](https://open.spotify.com/track/3IRF31C4uQOiT9oqEE8UjX) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Deep Blues](https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s) | 6:21 |
 | 71 | [Hawkmoth](https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk) | 4:48 |
-| 72 | [Raw Charmer](https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s) | [Danny B](https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B) | [Find Myself EP](https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b) | 6:04 |
-| 73 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
-| 74 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 |
+| 72 | [Breathing Underwater](https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL) | [Jim Henderson](https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG) | [Breathing Underwater](https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL) | 5:13 |
+| 73 | [Backstabber](https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk) | [Nachtbraker](https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw) | [Backstabber EP](https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu) | 6:47 |
+| 74 | [Raw Charmer](https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s) | [Danny B](https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B) | [Find Myself EP](https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b) | 6:04 |
 | 75 | [Everything](https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS) | [A Forest Mighty Black](https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5) | [Mellowdramatic](https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN) | 7:58 |
 | 76 | [Trivia](https://open.spotify.com/track/3RdmKETgOJTBvNH8DBH5ND) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [The Two of Us](https://open.spotify.com/album/0TA4nUzkgQcOO6P6YyHP29) | 5:44 |
 | 77 | [Heading North](https://open.spotify.com/track/2gbQR2XJlZy461hu9FOrZL) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Flu](https://open.spotify.com/artist/0et1qkvGOPow6uK5rJzyzi) | [Endless Sacrifice](https://open.spotify.com/album/6q9loyCvFDdPgUER8JcX5J) | 7:17 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 79 | [Beirut](https://open.spotify.com/track/3Yfs5ZmkP7FgMzREvrgS07) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [A Slice of'' Heaven'' EP](https://open.spotify.com/album/2pU6NoEXYQq2bv27p82faA) | 7:27 |
 | 80 | [VIEW FROM MY BALCONY AT NIGHT](https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF) | [Da Vosk Docta](https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2) | [LO\-FI IS THE UNWANTED BASTARD CHILD OF JAZZ](https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc) | 5:08 |
 
-Snapshot ID: `MCxiYzk1NTQwYmE1YjA1M2MzYmM2NzU2MzcxN2NlZTk1NWFhOTYxNzgz`
+Snapshot ID: `MCw1OGE3ZWZkZjdkZTFlMDI1ZDQ5OGFiYjRjOGJmODE2MjlhN2M5NzU5`

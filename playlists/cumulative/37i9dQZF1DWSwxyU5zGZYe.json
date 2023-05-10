@@ -270,7 +270,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 295764,
       "name": "Aur Tanha",
       "url": "https://open.spotify.com/track/02J3mNwGfcOS7jjAUfzMgV"
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "Phillauri",
+        "url": "https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215304,
+      "name": "Din Shagna Da",
+      "url": "https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp"
+    },
+    {
+      "album": {
         "name": "Citylights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Hn2O2s9NQ5EaPtwAc665L"
       },
@@ -482,10 +500,32 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 287076,
       "name": "Ek Charraiya - Unplugged",
       "url": "https://open.spotify.com/track/780UgU7JF1TJZp9zjpzjFi"
+    },
+    {
+      "album": {
+        "name": "Ek Villain",
+        "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
+      },
+      "artists": [
+        {
+          "name": "Shraddha Kapoor",
+          "url": "https://open.spotify.com/artist/6vYL9RV6m4NECOJzbGRbbV"
+        },
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254750,
+      "name": "Galliyan (Unplugged)",
+      "url": "https://open.spotify.com/track/0zlsXumKe7ymS1ANu5TDZP"
     },
     {
       "album": {
@@ -577,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Zindaggi Rocks",
+        "url": "https://open.spotify.com/album/7fSX5zg9zq0iu28jSZ15Ib"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418747,
+      "name": "Humko Chhoone Paas Aayiye",
+      "url": "https://open.spotify.com/track/4cp9g4kHirW5lWnjpwrPoS"
+    },
+    {
+      "album": {
         "name": "Humnava Mere Acoustic (From \"T-Series Acoustics\")",
         "url": "https://open.spotify.com/album/4drFoVoclXIVGS8TgcRLxD"
       },
@@ -596,6 +654,28 @@
       "duration_ms": 232361,
       "name": "Humnava Mere Acoustic (From \"T-Series Acoustics\")",
       "url": "https://open.spotify.com/track/3JnbJ9nAK281xZRwWf8YpG"
+    },
+    {
+      "album": {
+        "name": "Mausam",
+        "url": "https://open.spotify.com/album/6IXC7pxtf6QKK7BVQUvIxP"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381358,
+      "name": "Ik Tu Hi Tu Hi (Reprise)",
+      "url": "https://open.spotify.com/track/0LhFwQF26qYCAQ36z2AovX"
     },
     {
       "album": {
@@ -768,7 +848,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 207208,
       "name": "Kahaani (Aankhon Ke Pardon Pe)",
       "url": "https://open.spotify.com/track/7Ja9xfr9nlVNCfpwTZfx37"
@@ -812,7 +892,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 115853,
       "name": "Kal Kahin - Reprise",
       "url": "https://open.spotify.com/track/7N2e98hdT1mhRCtZBFiX1C"
@@ -980,7 +1060,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 396506,
       "name": "Luka Chuppi",
       "url": "https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME"
@@ -1016,10 +1096,28 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 227334,
       "name": "Mera Mann Kehne Laga",
       "url": "https://open.spotify.com/track/1niVgR76UPobOED5cXfADq"
+    },
+    {
+      "album": {
+        "name": "Nautanki Saala !",
+        "url": "https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV"
+      },
+      "artists": [
+        {
+          "name": "Falak Shabbir",
+          "url": "https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260461,
+      "name": "Mera Mann Kehne Laga (Reprise)",
+      "url": "https://open.spotify.com/track/19aNba9ax6u06ZDIKxCTta"
     },
     {
       "album": {
@@ -1112,6 +1210,50 @@
       "duration_ms": 312160,
       "name": "Moora",
       "url": "https://open.spotify.com/track/0pT28a92cnz0G3LbZyGYpf"
+    },
+    {
+      "album": {
+        "name": "Citylights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Hn2O2s9NQ5EaPtwAc665L"
+      },
+      "artists": [
+        {
+          "name": "Jeet Gannguli",
+          "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+        },
+        {
+          "name": "Mohammed Irfan",
+          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299800,
+      "name": "Muskurane - Unplugged",
+      "url": "https://open.spotify.com/track/6okCEBcbPTgwf3bc7CT3sj"
+    },
+    {
+      "album": {
+        "name": "Jugjugg Jeeyo",
+        "url": "https://open.spotify.com/album/49wsmGDdtSoQiLt2lsVbaQ"
+      },
+      "artists": [
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        },
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213228,
+      "name": "Nain Ta Heere - Lisa",
+      "url": "https://open.spotify.com/track/6emAuBpvTZkGlZu7uQnkFe"
     },
     {
       "album": {
@@ -1246,10 +1388,58 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 285000,
       "name": "Phir Le Aya Dil",
       "url": "https://open.spotify.com/track/2OvldWM8rVnp7QCn9eCrr1"
+    },
+    {
+      "album": {
+        "name": "Barfi! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305613,
+      "name": "Phir Le Aya Dil - Reprise",
+      "url": "https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch"
+    },
+    {
+      "album": {
+        "name": "Laal Singh Chaddha (Extended Album)",
+        "url": "https://open.spotify.com/album/7mlKqiSL0QQAdf3ZFzGVez"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283132,
+      "name": "Phir Na Aisi Raat (Reprise)",
+      "url": "https://open.spotify.com/track/19YSa5R1vV6BUFvczTERi4"
     },
     {
       "album": {
@@ -1320,10 +1510,66 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 228855,
       "name": "Ranjha",
       "url": "https://open.spotify.com/track/0v77QqHiZUvfJkCk2rGRqw"
+    },
+    {
+      "album": {
+        "name": "Ranjha (Reprise)",
+        "url": "https://open.spotify.com/album/7nYGSTCbap9PwBCnsvRp2Z"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Anvita Dutt",
+          "url": "https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224457,
+      "name": "Ranjha - Reprise",
+      "url": "https://open.spotify.com/track/4tQeEHoii36QEGOEacAybz"
+    },
+    {
+      "album": {
+        "name": "Brahmastra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kIPlpwEZBK9JaI9pZHe79"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Rasiya Reprise",
+      "url": "https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf"
     },
     {
       "album": {
@@ -1390,10 +1636,32 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 253416,
       "name": "Saadi Galli Aaja",
       "url": "https://open.spotify.com/track/6riCsiX9csuomBYnenrtGd"
+    },
+    {
+      "album": {
+        "name": "Nautanki Saala !",
+        "url": "https://open.spotify.com/album/1QpPhM0ZUV9OX1bfHYMJxV"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202441,
+      "name": "Saadi Galli Aaja (Unplugged)",
+      "url": "https://open.spotify.com/track/4ZKtCnRpRsHOPLcidXfWui"
     },
     {
       "album": {
@@ -1423,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Creature 3D",
+        "url": "https://open.spotify.com/album/2ySTppSfuVBNq2nNN6lEqg"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251936,
+      "name": "Sawan Aaya Hai (Unplugged)",
+      "url": "https://open.spotify.com/track/0nqpxdqlz99uWN238dzJUH"
+    },
+    {
+      "album": {
         "name": "Aisha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc"
       },
@@ -1446,6 +1732,32 @@
       "duration_ms": 284626,
       "name": "Sham",
       "url": "https://open.spotify.com/track/5Q58RkKyUafm15Syxg79DW"
+    },
+    {
+      "album": {
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245735,
+      "name": "Shayad - Reprise",
+      "url": "https://open.spotify.com/track/2L2YNB3YIletW4fUtwphDv"
     },
     {
       "album": {

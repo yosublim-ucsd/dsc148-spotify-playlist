@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,630 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,769 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 47 | [Human Condition](https://open.spotify.com/track/2LmFju01RfconFtiqKtmMb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:50 |
 | 48 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 |
 | 49 | [Hand Grenade](https://open.spotify.com/track/0CVMafbL3wqUUWvam0PCb0) | [Be Your Own Pet](https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x) | [Hand Grenade](https://open.spotify.com/album/1IraoV3e53ZvVfXOicRREG) | 2:57 |
-| 50 | [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 |
+| 50 | [Hunned Bandz](https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP) | 2:48 |
 
-Snapshot ID: `MCxmNTQxOWU5MjNkYzY1YzNlY2EzNTQwMzdiMjNjM2M2ZmNkMjQ1MGFh`
+Snapshot ID: `MCxhMzk2NTU4YzZiYzg1YmI0YzRiZTA4MWZhZGQwYTFhMTkwZmUyMGQ5`

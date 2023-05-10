@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Aya Nakamura
 
-[Spotify](https://open.spotify.com/user/spotify) - 752,551 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,026 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 27 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 |
 | 28 | [Ambiancé](https://open.spotify.com/track/38U5wAGxyiX1j0hxoRjd2n) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Ambiancé](https://open.spotify.com/album/1XsJ1sq1autny336zaXMLO) | 2:37 |
 | 29 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 |
-| 30 | [On Vas Pas Divorcer](https://open.spotify.com/track/3h8Vudi5PHz1iAI1xiUHOD) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h) | [On Va Pas Divorcer](https://open.spotify.com/album/0Sx2xmn7hZMMrGvJrLbzpD) | 3:09 |
+| 30 | [On Va Pas Divorcer](https://open.spotify.com/track/3h8Vudi5PHz1iAI1xiUHOD) | [Santrinos Raphael](https://open.spotify.com/artist/0fmjzVxcH2aZo4tRAiRT1h) | [On Va Pas Divorcer](https://open.spotify.com/album/0Sx2xmn7hZMMrGvJrLbzpD) | 3:09 |
 | 31 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 | 32 | [Rappelle\- Moi](https://open.spotify.com/track/4GiloAfFfph653Smn3Vt1v) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Rappelle\- Moi](https://open.spotify.com/album/2TzaDzelgZzWHB68lqQUFR) | 2:47 |
 | 33 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Y'a pas ton 2](https://open.spotify.com/track/6WHEOnwNQHgIaXvyLQYt5I) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Y'a pas ton 2](https://open.spotify.com/album/5rj2ibJyKssCqvzE4PMKKD) | 3:11 |
 | 50 | [Ayele](https://open.spotify.com/track/0x9boesXCFnB1EJflJObae) | [Mr Leo](https://open.spotify.com/artist/0sfURdhcmXyrcFEWaJ2IJI) | [Ayele](https://open.spotify.com/album/1cXxGJjjYJUgyoAxLFA0IJ) | 3:31 |
 
-Snapshot ID: `MCw2ZDg0MDc0NzE3NTcxNDk4YTc0NWU1MjhmY2MyZjg3MjBjMDY5ZGQz`
+Snapshot ID: `MCw3OGVjZjUzNWQ5MDc3ZTAzMmFjOTMzNGY4YjdjOGE5YmU1NDJiMzBl`

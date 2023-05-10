@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Ship Wrek
 
-1,051 songs - 2 day 13 hr 44 min
+1,052 songs - 2 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Ameno Amapiano Remix \(You Wanna Bamba\) \- Todd Terry Remix](https://open.spotify.com/track/0Yx4DyxRnhoXdEQcSbn0CD) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Ameno Amapiano \(You Wanna Bamba\) \[Todd Terry Remix\]](https://open.spotify.com/album/1p8WJo98RIGtAVRIFrXFsh) | 2:12 | 2022-07-01 | 2022-08-13 |
 | [Amor](https://open.spotify.com/track/2pqBgFAxdgVXcmtG16SB5O) | [MUUS](https://open.spotify.com/artist/3wkqbqrDYzltNpxWK6sgsH) | [Amor](https://open.spotify.com/album/4JzfgP4l8bmmUG0hfoZIpd) | 3:42 | 2023-03-17 | 2023-04-30 |
 | [Amor](https://open.spotify.com/track/160zbysYKia7DpELpVS0DW) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU) | [Amor](https://open.spotify.com/album/69p944ct529u1AuqBPvaNQ) | 2:35 | 2022-04-26 | 2022-04-29 |
+| [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-28 |  |
 | [Aphrodisiac](https://open.spotify.com/track/1aF44sAhhcCOfizdoCGBrT) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Aphrodisiac](https://open.spotify.com/album/7jJWlYWsbcEcaiNwkJcUmO) | 2:36 | 2022-03-25 | 2022-04-23 |
 | [Asereje](https://open.spotify.com/track/5uNeepsaxfWN63qmsXkyES) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Enrico Palermo](https://open.spotify.com/artist/3aR0LAXgMD6d6m6dCMuRxj) | [Asereje](https://open.spotify.com/album/4fUJlmLWhrty63jBdsrMI4) | 2:36 | 2023-03-31 |  |
 | [Aura](https://open.spotify.com/track/2Bj5ZUeHEke7ovkkpPbG7d) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Jargen](https://open.spotify.com/artist/7eNmYIb1F1EUjKBc4UIJBl) | [Aura](https://open.spotify.com/album/0itIElpJrQZ30aPUilSDgn) | 3:04 | 2022-07-22 | 2022-09-06 |
@@ -957,7 +958,7 @@
 | [Tomalo](https://open.spotify.com/track/5D8dzgsXWhlPXt4p0IxwTS) | [Nausica](https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9) | [Tomalo](https://open.spotify.com/album/2TZXcJ009sCoPFdPjV4PBK) | 3:24 | 2023-03-17 | 2023-05-08 |
 | [Tomorrows \- Kyle Watson Remix](https://open.spotify.com/track/5p9yBGSaYVnJnb6zI9kNEv) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN), [Kyle Watson](https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ) | [Tomorrows \(Kyle Watson Remix\)](https://open.spotify.com/album/6JhA3zD1fN9PwskPcsOJBm) | 3:39 | 2022-12-09 | 2022-12-29 |
 | [Too Close \(feat\. Mac Russo\)](https://open.spotify.com/track/4MatIhnm2hXVJhHnSLzzJc) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA), [Sonny Noto](https://open.spotify.com/artist/2nTTK1iTlA31QadqzoU9nu), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Mac Russo](https://open.spotify.com/artist/5X6gvbbSZ4jVJDLUQLQN9J) | [Too Close \(feat\. Mac Russo\)](https://open.spotify.com/album/1kpud0qKz2k5GEOe0LcJZK) | 2:40 | 2023-02-03 | 2023-04-01 |
-| [Tooka Took](https://open.spotify.com/track/4hDZeZoePIY3y0TPboLZGV) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Tooka Took](https://open.spotify.com/album/3mRtyiU58ph2NrrDFndGX6) | 2:35 | 2023-03-03 |  |
+| [Tooka Took](https://open.spotify.com/track/4hDZeZoePIY3y0TPboLZGV) | [Hank K](https://open.spotify.com/artist/7e6V4iJruHMPbTniZOeITW) | [Tooka Took](https://open.spotify.com/album/3mRtyiU58ph2NrrDFndGX6) | 2:35 | 2023-03-03 | 2023-05-10 |
 | [Tra Tra](https://open.spotify.com/track/0UFJLWij7K8AXM5sVDFCLj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM) | [Tra Tra](https://open.spotify.com/album/5CTxLQdrDgcvEXuqEFOnPt) | 2:06 | 2022-11-11 | 2023-02-18 |
 | [Tra Tra Tra](https://open.spotify.com/track/6ASgz3OP3Nv79u0V1ffio9) | [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ), [Ordonez](https://open.spotify.com/artist/73qIXR9dxJidokewevaNox) | [Tra Tra Tra](https://open.spotify.com/album/2adrBwmOa3BsD0k8PSZDQj) | 3:23 | 2022-08-12 | 2022-08-20 |
 | [Traga ft\. STO Cultr](https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Traga ft\. STO Cultr](https://open.spotify.com/album/5nthDQNJm6U72odQxQLH5v) | 3:59 | 2023-02-10 | 2023-04-09 |

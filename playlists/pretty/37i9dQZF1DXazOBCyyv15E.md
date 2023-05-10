@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Westerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,540 likes - 125 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,578 likes - 125 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 124 | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/track/4PLpEoutbbBKXQX4Ymkgvq) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Complete Me \(feat\. Self Esteem\)](https://open.spotify.com/album/6YQ5IjxTphaqI365Y8CNiO) | 4:46 |
 | 125 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 |
 
-Snapshot ID: `MCw3OTMxYzQyNmU4MjUzOWMyNzNlODQ0MTJkN2QyYTJiZGNlYjFkZmY5`
+Snapshot ID: `MCxkZDlkZWQ4YTY4OGVlYWFiM2MzYjQzOGIyYWY0YmQ0YzYyMDNmZjUw`

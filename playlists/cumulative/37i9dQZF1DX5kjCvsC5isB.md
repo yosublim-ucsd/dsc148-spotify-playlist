@@ -4,7 +4,7 @@
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Kelsy Karter
 
-302 songs - 15 hr 46 min
+303 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,8 @@
 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 | 2022-08-19 |  |
 | [Pure Androgyny](https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Pure Androgyny](https://open.spotify.com/album/6Hf0off8InwP1Y0cgT50dt) | 2:57 | 2022-06-24 | 2022-12-24 |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-10-07 | 2022-12-24 |
-| [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-08-19 |  |
+| [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 | 2022-12-22 |  |
+| [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-08-19 | 2023-05-10 |
 | [Rebel](https://open.spotify.com/track/1CIb8ECjPp8nVpZE9YRQUj) | [Pep Squad](https://open.spotify.com/artist/2h8x4qr0effFjNRjhSbzQw) | [Rebel](https://open.spotify.com/album/0IbAg2rUy97J5CfMBHOOFy) | 2:40 | 2021-07-30 | 2022-04-02 |
 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 | 2022-02-04 |  |
 | [RICH$$$](https://open.spotify.com/track/0WJqGFXhuSV7UxjrvbcLdY) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [RICH$$$](https://open.spotify.com/album/5LPNhMtx4YfvNzZzHyv8YF) | 2:59 | 2022-08-19 |  |

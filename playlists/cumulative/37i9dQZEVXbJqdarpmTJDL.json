@@ -709,6 +709,28 @@
     },
     {
       "album": {
+        "name": "AGAPI (Remix)",
+        "url": "https://open.spotify.com/album/4ztpSrV0s93JCRmizu6tlW"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
+        },
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180645,
+      "name": "AGAPI - Remix",
+      "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
+    },
+    {
+      "album": {
         "name": "Kyrios Nekrikos Part I",
         "url": "https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ"
       },
@@ -5066,7 +5088,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 137817,
       "name": "Deal",
       "url": "https://open.spotify.com/track/3K1iJbTscs8Lj6ByTP6VDc"
@@ -7816,7 +7838,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 170889,
       "name": "Forema",
       "url": "https://open.spotify.com/track/2WmQtBy5wG8rdeqYhwljNK"
@@ -14266,7 +14288,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 178369,
       "name": "Mi Milas",
       "url": "https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT"
@@ -15280,7 +15302,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 172000,
       "name": "Mystiko",
       "url": "https://open.spotify.com/track/7k2h3IHuFUQLclllRPRKTZ"
@@ -16082,7 +16104,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 256862,
       "name": "Odos Monaxias",
       "url": "https://open.spotify.com/track/2RI7X5IlysmDCYm5F7IFam"

@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-612 songs - 1 day 2 hr 41 min
+613 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Dahlias](https://open.spotify.com/track/0r0z0VyDa8X5fu3Kl6ybYi) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Dahlias](https://open.spotify.com/album/22hBdp6pvyZzEI3Fu8x58n) | 2:11 | 2022-04-21 | 2023-01-21 |
 | [Daj spokój](https://open.spotify.com/track/1pfOIDiq6T9lxMZdkk5Fhj) | [Aleksy Wysocki](https://open.spotify.com/artist/3GXTl6tHXIzPcthbBCEskf) | [Daj spokój](https://open.spotify.com/album/5QaOxxJw9QzOHgrWAnd8TK) | 2:15 | 2022-04-21 |  |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2022-04-21 |  |
-| [Dancing Shoes](https://open.spotify.com/track/5d8OIweiBjERBQGiboXjZi) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Dancing Shoes](https://open.spotify.com/album/1qnLekQ72S0OYOY7c0kU5f) | 1:57 | 2022-04-21 |  |
+| [Dancing Shoes](https://open.spotify.com/track/5d8OIweiBjERBQGiboXjZi) | [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Dancing Shoes](https://open.spotify.com/album/1qnLekQ72S0OYOY7c0kU5f) | 1:57 | 2022-04-21 | 2023-05-10 |
 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 | 2022-04-21 | 2023-01-21 |
 | [Dans vos bras](https://open.spotify.com/track/5qHa8gZdBKxvseAyE2R2qe) | [Orson D'Aubigné](https://open.spotify.com/artist/1TSzEZWmeMMNQE3CwV7Mif) | [Dans vos bras](https://open.spotify.com/album/4HeFEWZ2s6t9u3lIzN6GLL) | 2:38 | 2022-04-21 | 2022-08-10 |
 | [Darfur](https://open.spotify.com/track/2Z82bNIH22cl7KbEmbgYsg) | [Regan O'leary](https://open.spotify.com/artist/1yg5ZzuhPtFiSx96ztMhub) | [Dynjandi](https://open.spotify.com/album/6ZNUdRVZ8XXAaGSpCQczkZ) | 2:30 | 2022-04-21 | 2022-07-21 |
@@ -303,6 +303,7 @@
 | [Lost Words](https://open.spotify.com/track/0KYklJXOjIFD22Clm13Nqa) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/1jRtlkaEdWbv6oJltZLCvP) | 2:31 | 2022-04-21 | 2022-07-29 |
 | [Lost Words](https://open.spotify.com/track/6lX9u3tr5Au2bxXLdFHd91) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Lost Words](https://open.spotify.com/album/0xEafwEcjFJB1QTb0VkQlU) | 2:31 | 2022-07-20 |  |
 | [Love Will Set Us Free](https://open.spotify.com/track/4vO8oT2rdWcCzHYTEcoJGl) | [Novum Cordis](https://open.spotify.com/artist/3iSbAtzrrSEaZlc16jeS9d) | [Love Will Set Us Free](https://open.spotify.com/album/6rXybaAOBtVCldnzhMSn2g) | 2:25 | 2022-04-21 |  |
+| [Lullaby](https://open.spotify.com/track/3U987lHXBgataMkhfi7YAL) | [Ben Crosland](https://open.spotify.com/artist/5uNm1FvRSh2IcPNDGQChtr) | [Lullaby](https://open.spotify.com/album/7f54qfOoAtHzyz9cdmwILX) | 2:23 | 2023-05-03 |  |
 | [Lullaby](https://open.spotify.com/track/1qfyGqDF1vypYOvglIkIM4) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Lullaby](https://open.spotify.com/album/5eMa53RcT7kpDo5T9LYD1d) | 2:33 | 2022-04-21 | 2022-09-24 |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-21 |  |
 | [Lumières du Nord](https://open.spotify.com/track/45wHhJpwqz7yMgckPTLv5s) | [Malouvia](https://open.spotify.com/artist/5LYFx1ZR380jjiGEjjnaDz) | [Lumières du Nord](https://open.spotify.com/album/3qNA8Xkc8oj9Pcvo563YlP) | 1:45 | 2023-05-03 |  |
@@ -346,7 +347,7 @@
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2022-04-21 | 2022-07-21 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2022-04-21 | 2022-07-21 |
 | [Najma](https://open.spotify.com/track/19TO5cab4Y0whxSr1LogZi) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Najma](https://open.spotify.com/album/603A4usovlzYEeYHMLFU5I) | 2:47 | 2022-07-20 |  |
-| [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2022-04-21 | 2023-05-09 |
+| [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2022-04-21 |  |
 | [New Beginning](https://open.spotify.com/track/2KIt5oD3oklHr00HKEXQia) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [New Beginning](https://open.spotify.com/album/3iRjsoMuilRzsn7s6uDkgC) | 2:13 | 2022-04-21 |  |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-21 | 2023-05-05 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-21 |  |
@@ -512,7 +513,7 @@
 | [Summer Rain](https://open.spotify.com/track/33hF3bkcfz7bWyyjkCJHAg) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Summer Rain](https://open.spotify.com/album/2cithPsoePBPykDtE8zWao) | 3:26 | 2022-04-21 | 2022-09-24 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2022-04-21 |  |
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-04-21 |  |
-| [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2023-05-03 |  |
+| [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2023-05-03 | 2023-05-10 |
 | [Sunnebovals](https://open.spotify.com/track/0ob3wzPe3R3NpJtUEz0wUQ) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Sunnebovals](https://open.spotify.com/album/7HFD5GTgPyDOGNaFZKdecx) | 2:53 | 2022-04-21 |  |
 | [Sunset Aglow](https://open.spotify.com/track/2xfXbJK08v7gZb9YvPr0UZ) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 2:42 | 2022-04-21 |  |
 | [Swan Dip](https://open.spotify.com/track/3BreWDRhcZRI9stPke1ydd) | [Corinne Beilinson](https://open.spotify.com/artist/4HZ8y4n8CYXv5BaEY1ILKi) | [Words Mean More From You](https://open.spotify.com/album/6yZdgPQG2n5I9EsjHtwc9u) | 2:43 | 2022-04-21 | 2022-09-24 |

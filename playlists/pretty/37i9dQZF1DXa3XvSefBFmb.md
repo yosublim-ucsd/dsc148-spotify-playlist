@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,400 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,402 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 9 | [Confortable](https://open.spotify.com/track/7A6yZH0XOkn1qhgaNnOKYZ) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [Dotorado Pro](https://open.spotify.com/artist/6CMcJKC5K1MFHQJYKdTLPd) | [Confortable](https://open.spotify.com/album/6bRjSUOtBfPiUSb47hlh5Y) | 2:48 |
 | 10 | [aventura](https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8) | [ÉLLÀH](https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt), [Vincee](https://open.spotify.com/artist/5ulojLoRdBdeXIyXdrxHoN) | [aventura](https://open.spotify.com/album/1WxyMf0XHnJjDZoULpX0la) | 3:18 |
 | 11 | [Vai Ruir](https://open.spotify.com/track/0SAFhelKxqnaPnP6w1Q8ez) | [Mimi Froes](https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b) | [Vai Ruir](https://open.spotify.com/album/0kYGt9hezVsi58jLTa0WMj) | 3:17 |
-| 12 | [Já ´tou num poço](https://open.spotify.com/track/7hn8rLLSwCfMKbw755w7K0) | [Catarina Branco](https://open.spotify.com/artist/0ZbROtsxLfXnQ4tmBwDixb), [Guarda\-Rios](https://open.spotify.com/artist/1eLjerThFJZFkMMhwKGG96) | [Catarina Branco e Guarda\-Rios](https://open.spotify.com/album/1jhViSMNTZL6e1BmIwA5KP) | 2:38 |
+| 12 | [Já ´tou num poço](https://open.spotify.com/track/2MFvRJZjo22CR90A8Zrboh) | [Catarina Branco](https://open.spotify.com/artist/0ZbROtsxLfXnQ4tmBwDixb), [Guarda\-Rios](https://open.spotify.com/artist/1eLjerThFJZFkMMhwKGG96) | [Catarina Branco e Guarda\-Rios](https://open.spotify.com/album/6pBGpCcWso5ZLhNw7gsw5G) | 2:38 |
 | 13 | [Triste Acordar](https://open.spotify.com/track/0HkUvh5MTy165nVRHux1t8) | [Ana Capote](https://open.spotify.com/artist/2rYkSMuSq4dwePpo4Yi51j) | [Ana Capote](https://open.spotify.com/album/2jCFk5vRuhrvbSbixFwltN) | 4:02 |
 | 14 | [Divine Timing](https://open.spotify.com/track/3zvEoKiEVY6yHL4sFobMpC) | [Ana Casa Branca](https://open.spotify.com/artist/6SRkT73Pqz0L7aZ65tYVRs) | [Divine Timing](https://open.spotify.com/album/6djFWd5UuqYEcGHzICEu1D) | 2:39 |
 | 15 | [Conversa](https://open.spotify.com/track/1N6PNHuemYmlrHa3ydBnYc) | [Flaviana Borges](https://open.spotify.com/artist/4pizTmvQoU07ZcIzh40hm2) | [Conversa](https://open.spotify.com/album/2Gqm92mx8bokhapRcykOND) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Oh Boy](https://open.spotify.com/track/4xi6hiEixwDRs9bAkIpDOP) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Oh Boy](https://open.spotify.com/album/0u3BpX4yCbO1d91TYDxAoq) | 2:53 |
 | 50 | [há\-de sarar](https://open.spotify.com/track/7vcNCJjROeI30WgAKEvlP5) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:48 |
 
-Snapshot ID: `MCxlMmFkYWE2M2FlZGVkNzhjNmM1YTRkYjBhMzA1ZTI4ZmU5OGZmYTQz`
+Snapshot ID: `MCxiNTYwZTViM2I2ZTAyY2YyNmFiMDRiOGJjN2ZlNDdlMGM3NzRhNTNj`

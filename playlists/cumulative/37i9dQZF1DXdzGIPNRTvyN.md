@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of piano, water, birds, and calmness.
 
-98 songs - 4 hr 28 min
+99 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alternating Current](https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU) | [Heriela](https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY) | [Alternating Current](https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU) | 4:02 | 2023-02-13 |  |
 | [Amedeo Nuevo](https://open.spotify.com/track/6KBlHzMI5HXyE8bWAHOeDg) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Amedeo Nuevo](https://open.spotify.com/album/06QE0b2GfD6TDMWpAVVPre) | 2:15 | 2023-04-06 |  |
 | [Anjali \- Sound Bath](https://open.spotify.com/track/0LBeVv1VwIG7ggMO9KnKoJ) | [Science Of Dreams](https://open.spotify.com/artist/1KKkMFJaPv6zDbGVIPsM8c) | [Anjali \(Sound Bath\)](https://open.spotify.com/album/3Z8rKbN7ZoADeJHCUTtvCF) | 2:16 | 2023-03-03 |  |
-| [Aqua](https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [Aqua](https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948) | 2:37 | 2023-03-13 |  |
+| [Aqua](https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP) | [Horai](https://open.spotify.com/artist/5oj6HTgSCgxQpidG7akxh8) | [Aqua](https://open.spotify.com/album/7eFZaIyV8l9ePXv8Jqt948) | 2:37 | 2023-03-13 | 2023-05-10 |
 | [Aras](https://open.spotify.com/track/253y13qPHj6Jf3bkJ88mYM) | [Nestos](https://open.spotify.com/artist/226hKCjt03DSIoyUpvNldF) | [Aras](https://open.spotify.com/album/0wr7IKmkKel8OVr3UQVstM) | 3:22 | 2023-03-13 |  |
 | [Ascension \(Sound Bath\)](https://open.spotify.com/track/5QhHxzGiHveCh5ul5UAz4Q) | [Eos Astraeus](https://open.spotify.com/artist/43of8eAodl6qI6YvBX6hkJ) | [Ascension \(Sound Bath\)](https://open.spotify.com/album/33vdk5V9T8Ag5WkBZzjowy) | 2:17 | 2023-04-14 |  |
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 |  |
@@ -97,6 +97,7 @@
 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 | 2023-02-26 |  |
 | [The Forest Waking Up](https://open.spotify.com/track/3qw8EyWRVEci8CXhRybfz6) | [Taeda Trees](https://open.spotify.com/artist/100QpEbfbYFTY7RKL4zko0) | [The Forest Waking Up](https://open.spotify.com/album/0j9w6EhbopJaIyr5fFLde8) | 3:00 | 2023-03-20 |  |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-01-24 |  |
+| [The Riddle of Dreams](https://open.spotify.com/track/3p8EPHwGsP6nX7UrwqzJlp) | [Epilogue Gravity](https://open.spotify.com/artist/1ujQ7yELrx9UJkxV0NiSCe) | [The Riddle of Dreams](https://open.spotify.com/album/0jWXe3O5djbov0RcnXJZFG) | 2:36 | 2023-04-24 |  |
 | [The Universe Whitin \(Nature Sounds\)](https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [The Universe Within](https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA) | 2:13 | 2023-03-28 |  |
 | [The View & Sunday Mornings](https://open.spotify.com/track/4d7JV9GmoojG8Rz9qDMrxy) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XX](https://open.spotify.com/album/6xIXhRLZjOFKZjFknsfVtP) | 2:21 | 2023-01-24 |  |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-01-24 |  |

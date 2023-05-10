@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Phabo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,327,603 likes - 142 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327,932 likes - 142 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 10 | [B4L](https://open.spotify.com/track/5WsGpThlS3yoMHbSwHNmx1) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:48 |
 | 11 | [Crash & Burn](https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Crash & Burn](https://open.spotify.com/album/7MjT0zzh0LfxADDOli4cd2) | 2:27 |
 | 12 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/4It2tsHgHW7gdEDCh0Jfo8) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:40 |
-| 13 | [Leaves](https://open.spotify.com/track/7sqLzX73av3Gy1aPM4i1tG) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:39 |
+| 13 | [Leaves](https://open.spotify.com/track/7sqLzX73av3Gy1aPM4i1tG) | [Reggie Becton](https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC), [Ariana Wong](https://open.spotify.com/artist/7aGiTPR7jdpAivMaHdegtj) | [Sadboy, Vol\. 1](https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo) | 2:39 |
 | 14 | [ANGEL](https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LOVE SONGS](https://open.spotify.com/album/5bEzUVfVCPMcVI1WQ4iMyM) | 3:28 |
 | 15 | [The Energy](https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [KOLE](https://open.spotify.com/artist/7qie8FfXQTHp0azRKySWd8) | [The Energy](https://open.spotify.com/album/5swCVMFkOuL2gVurAan9ZD) | 3:39 |
 | 16 | [Show Her The Way](https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Show Her The Way](https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS) | 4:02 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 141 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 142 | [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 |
 
-Snapshot ID: `MCw3OTJmZmIwOGZlNjUxMDVjOTUwYTRkZjg4YjQ0NWUzZTU3OWVhMjU5`
+Snapshot ID: `MCxjMzA1Y2ExZjY0MjM2ZmZkMWY5MTM1ZTYwOTFhMjc1NDY0MTkxOTU0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,260 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,487 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 18 | [What It Takes](https://open.spotify.com/track/2fAYTT9kcUm8tnUrhD80sC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:10 |
 | 19 | [What Could Have Been Love](https://open.spotify.com/track/5FKq1jZkkIC8LHkyp1TSBJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 3:44 |
 | 20 | [Full Circle](https://open.spotify.com/track/4lv7AOF6HTL0xsrp57tvOq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:00 |
-| 21 | [Mama Kin](https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:29 |
+| 21 | [Same Old Song and Dance](https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 3:53 |
 | 22 | [Livin' On The Edge](https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 6:21 |
-| 23 | [Same Old Song and Dance](https://open.spotify.com/track/37Ptnxxd7WXAaCfWXxcElU) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 3:53 |
-| 24 | [Eat The Rich](https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 4:10 |
+| 23 | [Eat The Rich](https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 4:10 |
+| 24 | [Mama Kin](https://open.spotify.com/track/6Qs5u9Tqh1rm1ljdr1ckhw) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 4:29 |
 | 25 | [Last Child](https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 3:26 |
 | 26 | [Love In An Elevator \- Single Version](https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:21 |
 | 27 | [Train Kept a Rollin'](https://open.spotify.com/track/6zb4VGZE20uKHc0mydFgR5) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 5:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 49 | [Lord of the Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
 | 50 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDAyYTdlNmZiYWM5NTg1NWIxN2ZjOGYwODdmYjEyYzIwMQ==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDBiODg0ZmUxNWFlOTcxMGE1Yzc1MjE5OTg2YTk1NDI1OQ==`

@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1584,
+  "num_followers": 1585,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDNmZDYzNmM0YmZlNWFiNjA3NDg0M2Q1ZDBkZTkxNzRhNTIyY2Y0",
+  "snapshot_id": "MCw1OGMwM2RlZGY3ZTliNGI4MzU2YzI1ZTA3YWFlNWM4MDg4OWUwOTVj",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -159,30 +159,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "America's Bandleader",
-        "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        },
-        {
-          "name": "Ernie Caceres",
-          "url": "https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc"
-        },
-        {
-          "name": "Marion Hutton",
-          "url": "https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My"
-        },
-        {
-          "name": "The Modernaires",
-          "url": "https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 183213,
-      "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
-      "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
+      "duration_ms": 178800,
+      "name": "Sincerely",
+      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -207,18 +195,30 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+        "name": "America's Bandleader",
+        "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        },
+        {
+          "name": "Ernie Caceres",
+          "url": "https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc"
+        },
+        {
+          "name": "Marion Hutton",
+          "url": "https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My"
+        },
+        {
+          "name": "The Modernaires",
+          "url": "https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Sincerely",
-      "url": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+      "duration_ms": 183213,
+      "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
+      "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-03-28 19:29:09",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
         "url": "https://open.spotify.com/album/4CUEOvIXCBO4r4OZFTPhCv"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -447,18 +447,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Bachelors - The Decca Years",
-        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "The Bachelors",
-          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 139840,
-      "name": "Marie",
-      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2022-03-28 19:29:09",
@@ -475,6 +475,22 @@
       "duration_ms": 171733,
       "name": "Standing On the Corner",
       "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Bachelors - The Decca Years",
+        "url": "https://open.spotify.com/album/6fPWamZmTK0d03dzR0S2ab"
+      },
+      "artists": [
+        {
+          "name": "The Bachelors",
+          "url": "https://open.spotify.com/artist/0qDtyCZRYrja9CoeHXV6FD"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/6MGqxb12oR5TC6lIwQsANT"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -515,22 +531,6 @@
       "duration_ms": 208052,
       "name": "(Up A) Lazy River",
       "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",

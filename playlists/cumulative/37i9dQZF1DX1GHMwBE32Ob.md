@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>Cover: Zlatan
 
-111 songs - 5 hr 21 min
+112 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 | 2023-04-14 |  |
 | [Different Size \(feat\. Victony\)](https://open.spotify.com/track/0s5nhb6ts6uCKAVnGg46y6) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:29 | 2022-07-07 |  |
 | [Don't Hype Me](https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Don't Hype Me](https://open.spotify.com/album/1TunsBNNXVGGhhMojgm4f6) | 2:03 | 2022-06-29 |  |
+| [Double XL](https://open.spotify.com/track/19ppeor2G2v8Db8dvNZ7ot) | [Teee Dollar](https://open.spotify.com/artist/5oOifbswnej7XvdPuZ9ktd), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Billirano](https://open.spotify.com/artist/6Sb1ugPkZ8pwimM3wb378v) | [Double XL](https://open.spotify.com/album/4Ph5B4SriYVmiFCJVJr4oz) | 2:25 | 2023-05-04 |  |
 | [Ejon Jor](https://open.spotify.com/track/3zd7lnavnwSmk4YzBidFSL) | [Son of Ika](https://open.spotify.com/artist/5XEgoROh3Nat8vH8PSb0Xi), [Qdot](https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev) | [Ejon Jor](https://open.spotify.com/album/2vi93kioAQWcTESp3bCIST) | 2:14 | 2022-07-29 | 2023-03-07 |
 | [Expensive OG](https://open.spotify.com/track/2uouDmVWCi9IlxG8x7O7VR) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Expensive OG](https://open.spotify.com/album/75UAX3c5Ahb7offUmPHyqB) | 3:42 | 2022-06-29 | 2022-12-13 |
 | [Feel Better](https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0) | [Anonymous Music](https://open.spotify.com/artist/4WhsLR2xiykGDAXg1ozqBG), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Feel Better](https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL) | 2:23 | 2023-01-12 |  |
@@ -53,7 +54,7 @@
 | [If No Be You](https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [If No Be You](https://open.spotify.com/album/36pqojgfTE8oOoHoswOgxW) | 3:31 | 2022-06-29 | 2023-04-28 |
 | [Ife Ife](https://open.spotify.com/track/3716u4GLH9a7HqmwCWLrC9) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Ife Ife](https://open.spotify.com/album/7iIw1JOb6ciXxIw603PpvJ) | 2:18 | 2022-12-02 | 2023-01-13 |
 | [Ikebe Supa](https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A) | [Ikebe Supa](https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6) | 2:21 | 2022-11-04 |  |
-| [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 |  |
+| [Instagram](https://open.spotify.com/track/12eQ5caMTUuzU7JIYB272D) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Instagram](https://open.spotify.com/album/6sFvLO6FV4q9E9qkhJyRVS) | 3:08 | 2022-06-29 | 2023-05-10 |
 | [Jaboti](https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Jaboti](https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i) | 2:33 | 2022-09-16 |  |
 | [Jambo](https://open.spotify.com/track/2NMfL5jeGKg1x5dgm46LpR) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Jambo](https://open.spotify.com/album/6msrTfFHef2GWcRFTB7ed2) | 2:34 | 2023-03-24 | 2023-03-31 |
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 |  |

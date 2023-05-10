@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 42411,
+  "num_followers": 42440,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzU0MDBiYzc2ZjA5MDU0YzM1NTAxZGE4MjBjNzU2MTgwOWFkMWNi",
+  "snapshot_id": "MCwzZWExM2FkYjdkNjBjNmQwZTVjZDAwZjRjNmY4ODM4NzVmMWM3ZjEy",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Let Night Come On Bells End The Day",
-        "url": "https://open.spotify.com/album/5QZhQCo8IeSSg17tN7fbSs"
+        "name": "Entropy",
+        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
       },
       "artists": [
         {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+          "name": "Bostro Pesopeo",
+          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Garlands",
-      "url": "https://open.spotify.com/track/7xTlwBb8YH33thmXs2hFvV"
+      "duration_ms": 289642,
+      "name": "Entropy",
+      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -343,6 +343,22 @@
       "duration_ms": 223200,
       "name": "Novu Hisy",
       "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Let Night Come On Bells End The Day",
+        "url": "https://open.spotify.com/album/5QZhQCo8IeSSg17tN7fbSs"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Garlands",
+      "url": "https://open.spotify.com/track/7xTlwBb8YH33thmXs2hFvV"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -391,22 +407,6 @@
       "duration_ms": 330000,
       "name": "Efflorescence",
       "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
-      },
-      "artists": [
-        {
-          "name": "Bostro Pesopeo",
-          "url": "https://open.spotify.com/artist/6pBvpRI7qsmSp0C4DbH1MD"
-        }
-      ],
-      "duration_ms": 289642,
-      "name": "Entropy",
-      "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Sollbruchstelle 1-3",
-        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
-      },
-      "artists": [
-        {
-          "name": "Jas Shaw",
-          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
-        }
-      ],
-      "duration_ms": 311548,
-      "name": "A man with two watches",
-      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "CHU / \u8655",
         "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Sollbruchstelle 1-3",
+        "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
+      },
+      "artists": [
+        {
+          "name": "Jas Shaw",
+          "url": "https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV"
+        }
+      ],
+      "duration_ms": 311548,
+      "name": "A man with two watches",
+      "url": "https://open.spotify.com/track/4nYjHsCzPjRd3TWBEOABRu"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Being There (Ambient)",
+        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
+      },
+      "artists": [
+        {
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
+        }
+      ],
+      "duration_ms": 303157,
+      "name": "Drive West On Sunset - Ambient",
+      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/6gk3iwAWUaGJXZtLqbjpQI"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Being There (Ambient)",
-        "url": "https://open.spotify.com/album/4TgYATdyNPcnECEGe9CekR"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/6gnvHPFDgWP4LiES4X0Ajz"
-        }
-      ],
-      "duration_ms": 303157,
-      "name": "Drive West On Sunset - Ambient",
-      "url": "https://open.spotify.com/track/5EQEPfClSpuXVh6o6N78FF"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
-      },
-      "artists": [
-        {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
-        }
-      ],
-      "duration_ms": 311783,
-      "name": "Park Line",
-      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Vu Hijera",
         "url": "https://open.spotify.com/album/2Kwr8i8ureCJGKaEZyRCZC"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 261333,
       "name": "Vu Hijera",
       "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 311783,
+      "name": "Park Line",
+      "url": "https://open.spotify.com/track/4PlMwTtwkL0J19Tt6DdBvs"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Chilltronica EP 3",
+        "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        }
+      ],
+      "duration_ms": 234844,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
         "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 192019,
       "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
       "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Chilltronica EP 3",
-        "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+      },
+      "artists": [
+        {
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Five Steps",
         "url": "https://open.spotify.com/album/3jZZwuakkVTYAEIsOBWmcR"
       },
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Sounds From Phantom Islands",
-        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
+        "name": "Geoglyph",
+        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
       },
       "artists": [
         {
-          "name": "Andrew Pekler",
-          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
+          "name": "Lord Of The Isles",
+          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Approximate Bermeja",
-      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
+      "duration_ms": 364460,
+      "name": "A1. J-Math",
+      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 186774,
       "name": "Alternations",
       "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Geoglyph",
-        "url": "https://open.spotify.com/album/5YeOMPfVnSMYSCbCZY8Zrl"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Isles",
-          "url": "https://open.spotify.com/artist/2PoiNhvPSC4fivyrDJOoru"
-        }
-      ],
-      "duration_ms": 364460,
-      "name": "A1. J-Math",
-      "url": "https://open.spotify.com/track/1uygE50aZZ0EfVMpGKFG0U"
     },
     {
       "added_at": "2023-03-10 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 416253,
+  "num_followers": 416272,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjQyOWQzOTMyYjhiOGM4ZDNiODk3ZmNkYjcxN2U4YmM5NTI0MDc5",
+  "snapshot_id": "MCxjNjg2OTUwODBhNzljOTM2MTkwNWMxNzc2OTE1OGMyMDk2YzcyYmU5",
   "tracks": [
     {
       "added_at": "2023-04-28 18:01:16",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-04-28 18:01:16",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-28 18:01:16",
+      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -111,18 +127,18 @@
     {
       "added_at": "2023-04-28 18:01:16",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+        "name": "People",
+        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
         }
       ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+      "duration_ms": 184791,
+      "name": "People",
+      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-04-28 18:01:16",
@@ -139,22 +155,6 @@
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
-    },
-    {
-      "added_at": "2023-04-28 18:01:16",
-      "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        }
-      ],
-      "duration_ms": 184791,
-      "name": "People",
-      "url": "https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz"
     },
     {
       "added_at": "2023-04-28 18:01:16",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-04-28 18:01:16",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Nobody Gets Me",
-      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
-    },
-    {
-      "added_at": "2023-04-28 18:01:16",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "added_at": "2023-04-28 18:01:16",
+      "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Nobody Gets Me",
+      "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
     },
     {
       "added_at": "2023-04-28 18:01:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-28 18:01:16",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 131793,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
-    },
-    {
-      "added_at": "2023-04-28 18:01:16",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2023-04-28 18:01:16",
+      "album": {
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 131793,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/2Di10SMcYqTKahN7lJazFe"
     },
     {
       "added_at": "2023-04-28 18:01:16",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-04-28 18:01:16",
       "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 165835,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
-    },
-    {
-      "added_at": "2023-04-28 18:01:16",
-      "album": {
         "name": "Keep Me (Acoustic)",
         "url": "https://open.spotify.com/album/4tWmODeN8k30gu97ErsaJM"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 163000,
       "name": "Keep Me - Acoustic",
       "url": "https://open.spotify.com/track/1ayOMuDEULRqZ4QYVwSNV7"
+    },
+    {
+      "added_at": "2023-04-28 18:01:16",
+      "album": {
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/68exeZ4qrJuj2Axr5uiKfx"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 165835,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/1p5XERqVW5EnTRoR3I5mBQ"
     },
     {
       "added_at": "2023-04-28 18:01:16",

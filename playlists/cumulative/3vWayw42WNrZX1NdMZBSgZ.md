@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Luis R Conriquez, Farruko
 
-521 songs - 1 day 4 hr 10 min
+522 songs - 1 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [La Llama del Amor \- Riega Este Querer \- Rumba/Alborea](https://open.spotify.com/track/4aYd4OvURiE7jrnkdbwk0t) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Jairo deRemache](https://open.spotify.com/artist/7w9jfr3fWWEOnm5O3c296Q), [Farruquito](https://open.spotify.com/artist/57WgHRhbRK7ArL0Vgs4s2I) | [La Llama del Amor \(Riega Este Querer \- Rumba/Alborea\)](https://open.spotify.com/album/74Q0veNkYjGu2olhqfdFsW) | 2:58 | 2022-06-23 |  |
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-07-06 |  |
 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 | 2023-03-16 |  |
+| [La Mitad](https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Mitad](https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn) | 2:56 | 2023-05-09 |  |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2022-02-02 |  |
 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 | 2023-03-10 |  |
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2022-02-02 |  |

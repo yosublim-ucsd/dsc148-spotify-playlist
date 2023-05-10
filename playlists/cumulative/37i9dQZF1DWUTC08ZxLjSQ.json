@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Bashbah Emmbareh",
+        "url": "https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj"
+      },
+      "artists": [
+        {
+          "name": "Zohud",
+          "url": "https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Bashbah Emmbareh",
+      "url": "https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq"
+    },
+    {
+      "album": {
         "name": "Bin Nass",
         "url": "https://open.spotify.com/album/3kvL2ysRWdUI73adglwS6P"
       },
@@ -586,7 +604,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 171345,
       "name": "Dog",
       "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
@@ -744,7 +762,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 403861,
       "name": "Faqat Ala Bali",
       "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
@@ -1626,7 +1644,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 196407,
       "name": "Mermaid datni l'darha",
       "url": "https://open.spotify.com/track/5DUguL7lB4cREG7LUjntlU"
@@ -2131,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH"
+      },
+      "artists": [
+        {
+          "name": "Debani",
+          "url": "https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0"
+    },
+    {
+      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/2N2HH3ZQGDbWE4evh5K9Dv"
       },
@@ -2280,6 +2316,24 @@
       "duration_ms": 185250,
       "name": "Queen",
       "url": "https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba"
+    },
+    {
+      "album": {
+        "name": "RAS L'KHEIT",
+        "url": "https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y"
+      },
+      "artists": [
+        {
+          "name": "Fulan",
+          "url": "https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "RAS L'KHEIT",
+      "url": "https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo"
     },
     {
       "album": {

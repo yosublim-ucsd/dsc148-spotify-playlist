@@ -1,12 +1,12 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
-  "num_followers": 221647,
+  "num_followers": 221655,
   "original_name": "Morning K-Pop!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzJmMDA0ZDBmMjg2YjAyMWE1NWQxMWM5MDVjNmY1Y2I1NzM3MTYw",
+  "snapshot_id": "MCwzY2RhMDQwMTRmZDUyZDA3MmJmZDUwYzkwODBjMTU4MmFlYjBkOTI2",
   "tracks": [
     {
       "added_at": "2023-04-26 09:03:43",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-04-26 09:03:43",
       "album": {
-        "name": "Your BGM Vol.1",
-        "url": "https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4"
+        "name": "Brother Act.",
+        "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
       },
       "artists": [
         {
-          "name": "\uc5d0\ub9ad\ub0a8 (Eric Nam), CHEEZE (\uce58\uc988)",
-          "url": "https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX"
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
         }
       ],
-      "duration_ms": 239099,
-      "name": "Perhaps Love (\uc0ac\ub791\uc778\uac00\uc694) (Prod.By \ubc15\uadfc\ud0dc)",
-      "url": "https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5"
+      "duration_ms": 236829,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
     }
   ],
   "unique_name": "Morning K-Pop!",

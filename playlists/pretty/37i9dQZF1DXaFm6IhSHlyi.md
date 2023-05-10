@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,821 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,840 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 115 | [Benar Cinta](https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k) | [Hanin Dhiya](https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW), [Aldy Maldini](https://open.spotify.com/artist/2wCZJV7yjLqZqjoaq089vh) | [Benar Cinta](https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv) | 3:59 |
 | 116 | [Night within you](https://open.spotify.com/track/4QlGtDYlVWAIiwCNU5f1i3) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you](https://open.spotify.com/album/3JkOtuYHXxscyJuYT3k3VL) | 4:14 |
 | 117 | [Right There](https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Right There](https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK) | 3:59 |
-| 118 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
-| 119 | [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 |
+| 118 | [Stories](https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Belfa](https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L) | [Stories](https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI) | 2:58 |
+| 119 | [Call It Love](https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Flourishing](https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt) | 4:01 |
 | 120 | [Sorry \- Live](https://open.spotify.com/track/7C1Zar9X3SmeDK278SnxiL) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Sorry \(Live\)](https://open.spotify.com/album/4RyLz4vEFT6TnEopq1ZTvD) | 3:24 |
 | 121 | [Oyasumi Kamisama](https://open.spotify.com/track/2z0Ui7sLju5TXHiaUTTUpO) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Yumemiru Kodomo](https://open.spotify.com/album/3txMmUiBxYmkF81B1g8bqt) | 3:43 |
 | 122 | [Tender love](https://open.spotify.com/track/1wOwr5DVupZjgO7lJxPsyN) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Love song](https://open.spotify.com/album/2sgwU6KQf0sd2hIvMCPMjp) | 3:50 |
@@ -137,9 +137,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 127 | [사랑의인사](https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy) | [적재](https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd) | [투유프로젝트 \- Sugar Man3 Episode.11](https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB) | 5:07 |
 | 128 | [Black](https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [yours, sincerely](https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO) | 4:31 |
 | 129 | [Trapped](https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [DOCUMENTARY](https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt) | 4:09 |
-| 130 | [Sick](https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3) | 3:59 |
+| 130 | [I See The Dream \(Badna Salam\) \(feat\. Ali Gatie\) \- Acoustic](https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I See The Dream \(Badna Salam\) \[feat\. Ali Gatie\] \[Acoustic\]](https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5) | 2:43 |
 | 131 | [How Is This Love ?](https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T) | 3:15 |
-| 132 | [I See The Dream \(Badna Salam\) \(feat\. Ali Gatie\) \- Acoustic](https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I See The Dream \(Badna Salam\) \[feat\. Ali Gatie\] \[Acoustic\]](https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5) | 2:43 |
+| 132 | [Sick](https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3) | 3:59 |
 | 133 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
 | 134 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 |
 | 135 | [Maghihintay](https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn) | [Ruru Madrid](https://open.spotify.com/artist/1iRxi2v6ePrnmwbFGp0iKf) | [Maghihintay](https://open.spotify.com/album/1lKuKFWKWlMfhNYjsRJAhK) | 4:35 |
@@ -155,8 +155,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 145 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 146 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 147 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
-| 148 | [](https://open.spotify.com/track/1Dm5jDXXhjm84fIS8WnwJ9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/2GWthGqphI4QLcfeT5XZ92) | 0:00 |
+| 148 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
 | 149 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
-| 150 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
+| 150 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
 
-Snapshot ID: `MCw2MjM5Y2UxMWIyZGQ4ODc0OTdhMGZlN2JlMGQ1ZjY3M2U3YmJkNGJl`
+Snapshot ID: `MCwyMGJlY2Q1ODE1ZjkwZDZiMjQyNGUwYjdlZTlmOTE4NmJmYjAyYzhm`

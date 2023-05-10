@@ -4,7 +4,7 @@
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 54 min
+60 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [Good Day \(feat\. Kierra Sheard & Karen Clark Sheard\)](https://open.spotify.com/track/4zy2i9BCsLZjOCQ5P4TkY2) | [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [V4...The Other Side](https://open.spotify.com/album/2vdDEuqRB1P8oCAACbtoYJ) | 3:58 | 2023-03-04 |  |
 | [Grace](https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 4:46 | 2023-03-04 |  |
 | [Grateful](https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:29 | 2023-03-04 |  |
-| [Hear This](https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 4:49 | 2023-03-04 |  |
+| [Hear This](https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 4:49 | 2023-03-04 | 2023-05-10 |
 | [Human](https://open.spotify.com/track/1mktkNkZoAkNKYXctbO4Ya) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 2:48 | 2023-04-04 |  |
 | [I Choose You \(Live\)](https://open.spotify.com/track/057URVa7OFE47yCgI57mcf) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 4:07 | 2023-03-04 |  |
 | [I Got You \(Always and Forever\)](https://open.spotify.com/track/333OkWOgbV6C8I5wRLfuSx) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 4:41 | 2023-03-04 |  |
+| [If It Had Not Been](https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 2:39 | 2023-05-09 |  |
 | [Indescribable \- Live](https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 9:09 | 2023-03-04 |  |
 | [It Keeps Happening \(Live\)](https://open.spotify.com/track/0TcoXFukLgUH8kOQXzERwL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:32 | 2023-03-04 |  |
 | [JESUS](https://open.spotify.com/track/1ETyQbaABnn028WbdBb93L) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Bold Right Life](https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB) | 4:44 | 2023-04-08 |  |

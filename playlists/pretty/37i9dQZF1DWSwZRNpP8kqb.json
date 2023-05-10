@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 17343,
+  "num_followers": 17368,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGViNWQ2NGFhMDdhNzhjZTUxN2MxZDljNTM5NzE2MDcwMzljZmY5",
+  "snapshot_id": "MCw3MTExZmZiZWMyMjU3MTIwNzYxZTUyMjJiMDM1YTJjYWEwZTY5M2M5",
   "tracks": [
     {
       "added_at": "2023-04-21 03:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-21 03:00:00",
       "album": {
-        "name": "Herencia",
-        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
-      },
-      "artists": [
-        {
-          "name": "Yamila Cafrune",
-          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Cuando Llegue el Alba",
-      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
-    },
-    {
-      "added_at": "2023-04-21 03:00:00",
-      "album": {
         "name": "Remedio Pal Alma",
         "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 218893,
       "name": "De Los Dias, Los Mas Lindos",
       "url": "https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW"
+    },
+    {
+      "added_at": "2023-04-21 03:00:00",
+      "album": {
+        "name": "Herencia",
+        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
+      },
+      "artists": [
+        {
+          "name": "Yamila Cafrune",
+          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Cuando Llegue el Alba",
+      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
     },
     {
       "added_at": "2023-04-21 03:00:00",

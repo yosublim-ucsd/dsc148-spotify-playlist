@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-235 songs - 9 hr 39 min
+237 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Floating Alone](https://open.spotify.com/track/5rqVGb4V2rQzz2iBCf14AD) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Floating Alone](https://open.spotify.com/album/28QOdW9aio2bLPDu9TJsdH) | 2:25 | 2022-05-20 |  |
 | [Forever](https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Forever](https://open.spotify.com/album/0yMEcM0YNb1hfPvZtnSnbY) | 2:11 | 2022-12-06 |  |
 | [Free](https://open.spotify.com/track/4CCLD3LQRQovRtC2F8vqNu) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Free](https://open.spotify.com/album/5fR72sTVjsLO15gNq7K4JH) | 2:18 | 2022-07-20 |  |
+| [Freedom](https://open.spotify.com/track/5XEqILE72L66tQ6IQHTxJX) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Freedom](https://open.spotify.com/album/38TwtRxD4Jolu2W9nwUKs6) | 2:07 | 2023-05-09 |  |
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2021-12-14 |  |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-14 |  |
 | [Gentle Hands](https://open.spotify.com/track/0dbPmpqPAG8KhKTIS7Ivm2) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Gentle Hands](https://open.spotify.com/album/24jiEe7XC6mslR8ez8HJXH) | 2:15 | 2022-12-06 |  |
@@ -94,7 +95,7 @@
 | [Klang](https://open.spotify.com/track/0Uu2BFQxlxYIBng7MkXUZi) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Klang](https://open.spotify.com/album/1QcSE0agb1Hf3oNWdqOekb) | 2:17 | 2023-01-27 |  |
 | [Kleiner Schmetterling](https://open.spotify.com/track/7v4XLVSgxRCj8yorbZ2INL) | [David Fenger](https://open.spotify.com/artist/5m6XLwqI3BUA5zkFsxdKrS) | [Kleiner Schmetterling](https://open.spotify.com/album/4ROfZp4Tk7ygTIcixATZ95) | 3:35 | 2022-04-04 |  |
 | [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2022-09-13 | 2023-04-06 |
-| [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2021-12-14 |  |
+| [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2021-12-14 | 2023-05-10 |
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2021-12-14 |  |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-14 |  |
 | [Las Torres](https://open.spotify.com/track/1u3vCCEmUHOrHjLlwR2nyU) | [Rafael Zoko](https://open.spotify.com/artist/4CdJuIDunYuaxiRa0PUulq) | [Las Torres](https://open.spotify.com/album/070fTp4tPS3XzSckZra1ZK) | 3:00 | 2022-03-03 |  |
@@ -179,7 +180,7 @@
 | [Simply Love](https://open.spotify.com/track/5aQ7Lc8KEJG8dsM3Ey2TXe) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Simply Love](https://open.spotify.com/album/6YfXgEnqI8lHSH6ZCixZMK) | 2:25 | 2022-04-28 |  |
 | [Singing Bird](https://open.spotify.com/track/3afvGA8lwrXHh9X2M0hMCe) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Singing Bird](https://open.spotify.com/album/4vAXPI9XMHtIHqpITkx0Oc) | 2:31 | 2023-01-09 |  |
 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 | 2023-01-09 | 2023-04-06 |
-| [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-14 |  |
+| [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-14 | 2023-05-10 |
 | [Solace](https://open.spotify.com/track/2XpT1bngtM9pHoYEsfoYuu) | [Lucile Colbert](https://open.spotify.com/artist/2ztM0XfKnV9j8twCZI9qzK) | [Solace](https://open.spotify.com/album/5EUQ58DddJWsBvzcKnjewJ) | 2:04 | 2023-01-20 |  |
 | [Solarised](https://open.spotify.com/track/2NuQU5ztiWnOT8PqNmwrU8) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Solarised](https://open.spotify.com/album/6Rled6otj5AJQ4qCBiVX0u) | 2:36 | 2022-10-26 |  |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-14 |  |
@@ -239,6 +240,7 @@
 | [When Twilight Ends](https://open.spotify.com/track/58p2epzTksRN9FMFjuPP41) | [Leslie Miles](https://open.spotify.com/artist/23A7R7jwaZW0PQyH2TpGi1) | [When Twilight Ends](https://open.spotify.com/album/7F8Mwos3myjAgQnvieeSF8) | 1:34 | 2023-04-05 |  |
 | [White Garden](https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [White Garden](https://open.spotify.com/album/05mABAcwfXvUFCzlfm2aCJ) | 2:06 | 2023-01-09 |  |
 | [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |
+| [Without You](https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Without You](https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR) | 2:37 | 2023-05-09 |  |
 | [Yamasá](https://open.spotify.com/track/5qmRevePYyVzWefMUjcdu3) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Yamasá](https://open.spotify.com/album/0qMYA2SgQ2g3nFuZ2JWnCN) | 2:51 | 2022-10-26 |  |
 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 | 2022-05-20 |  |
 | [Your Love](https://open.spotify.com/track/000tG7ZCNMDFLzIxobVSUZ) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Your Love](https://open.spotify.com/album/645jck6JPjVMjb4NwNscBZ) | 2:40 | 2021-12-14 |  |

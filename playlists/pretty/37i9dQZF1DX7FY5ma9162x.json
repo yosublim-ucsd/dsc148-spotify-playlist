@@ -1,12 +1,12 @@
 {
   "description": "The tracks you can put on repeat all day. Cover: Frank Ocean",
-  "num_followers": 209418,
+  "num_followers": 209582,
   "original_name": "R&B Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2MzMmFiMjExMmE3NTIwODJiMzk1ZmEwZTRmZDA0YzZkOWRkZTFi",
+  "snapshot_id": "MCxhZWY3MTBjNjM4MzM5OGQyYjUwZGQ0YmE3NmRmNmRiYWViYjY0ZGQy",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "2 Sugar (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Freaky Deaky",
-        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 215281,
-      "name": "Freaky Deaky",
-      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Freaky Deaky",
+        "url": "https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 215281,
+      "name": "Freaky Deaky",
+      "url": "https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 229303,
+      "name": "Get Along Better",
+      "url": "https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "For Tonight",
         "url": "https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 181013,
       "name": "Come Thru (with Usher)",
       "url": "https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 229303,
-      "name": "Get Along Better",
-      "url": "https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 203144,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Found (feat. Brent Faiyaz)",
         "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
       },
@@ -1351,6 +1335,42 @@
       "duration_ms": 209454,
       "name": "Found (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 203144,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 193322,
+      "name": "Honest (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1375,26 +1395,6 @@
       "duration_ms": 225502,
       "name": "Ex For A Reason (with JT from City Girls)",
       "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/2luYA3MBCKI7SfK3K0U3xf"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 193322,
-      "name": "Honest (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/2KdKh9vHbKW0tZLqtpxxI0"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1675,22 +1675,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1719,22 +1719,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 189496,
-      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
-      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Leave You Alone",
+      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 249773,
       "name": "Scenic Drive (feat. Ari Lennox & Smino)",
       "url": "https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Heart On My Sleeve",
-        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
     },
     {
       "added_at": "2023-05-05 04:00:00",

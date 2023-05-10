@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 47619,
+  "num_followers": 47655,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2RhYmM1OGQ4OTY5ZGI2OTE4MzliYTVjMTExMGZhNTkwZDhmODNk",
+  "snapshot_id": "MCwxZWVlZTY5ZTk1NTJkN2E3YjFmZTgyOWM3NWVjYThhMGFlOGIxNjVk",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -115,18 +99,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -159,6 +143,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Partido En Dos",
         "url": "https://open.spotify.com/album/3dWmlJJXZtKofrXUHSkfgw"
       },
@@ -171,6 +171,22 @@
       "duration_ms": 226003,
       "name": "Partido En Dos",
       "url": "https://open.spotify.com/track/1GBaQ3nnwxO3WVDUzKZ4kX"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -247,38 +263,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "M\u00e1s All\u00e1 Del Sol",
-        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 159172,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -313,6 +297,22 @@
       "url": "https://open.spotify.com/track/6RLB0Jw4gg5uYpHyekjQSI"
     },
     {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Si Me Duele Que Duela",
+        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 171367,
+      "name": "Si Me Duele Que Duela",
+      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
+    },
+    {
       "added_at": "2022-08-03 21:55:20",
       "album": {
         "name": "S\u00e1lvame",
@@ -331,24 +331,8 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Si Me Duele Que Duela",
-        "url": "https://open.spotify.com/album/4ZjtIz7v275wgCGtIuSRiY"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 171367,
-      "name": "Si Me Duele Que Duela",
-      "url": "https://open.spotify.com/track/5E74WZEkf6mKyzoQPzPzWO"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Secreto De Amor",
-        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+        "name": "M\u00e1s All\u00e1 Del Sol",
+        "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 199482,
-      "name": "Un Idiota",
-      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+      "duration_ms": 159172,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -415,38 +399,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "No Soy de Nadie",
-        "url": "https://open.spotify.com/album/66M8Q9vEqv3CBASWq19DwX"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 276355,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1ZAkJE2vi1wbo7tyvgWuXN"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Dis\u00e9\u00f1ame",
-      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -467,6 +419,38 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "No Soy de Nadie",
+        "url": "https://open.spotify.com/album/66M8Q9vEqv3CBASWq19DwX"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 276355,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1ZAkJE2vi1wbo7tyvgWuXN"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Secreto De Amor",
+        "url": "https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199482,
+      "name": "Un Idiota",
+      "url": "https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Mis Canciones De La Web",
         "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
       },
@@ -479,38 +463,6 @@
       "duration_ms": 195946,
       "name": "Cuando Tu Me Besas",
       "url": "https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 192639,
-      "name": "H\u00e1blame de Ti",
-      "url": "https://open.spotify.com/track/7eLz11pl19OuQY3HfYJ3KI"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "Eso Y M\u00e1s",
-        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166600,
-      "name": "Eso Y M\u00e1s",
-      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -531,6 +483,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Eso Y M\u00e1s",
+        "url": "https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166600,
+      "name": "Eso Y M\u00e1s",
+      "url": "https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -547,18 +515,34 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Negociar\u00e9 Con la Pena",
-        "url": "https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx"
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 271000,
-      "name": "Ni Contigo, Ni Sin Ti",
-      "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
+      "duration_ms": 192639,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/7eLz11pl19OuQY3HfYJ3KI"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Dis\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -579,6 +563,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Negociar\u00e9 Con la Pena",
+        "url": "https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Mi Debilidad",
         "url": "https://open.spotify.com/album/2pF1NY0OFobpsMF8lkzIRq"
       },
@@ -591,6 +591,26 @@
       "duration_ms": 158190,
       "name": "Mi Debilidad",
       "url": "https://open.spotify.com/track/4v0sauzLj1dl0qal8Df10K"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Con la Falta Que Me Haces (Con Grupo Firme)",
+        "url": "https://open.spotify.com/album/5IQTxc6Se8vZsoZXCvm36h"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 224039,
+      "name": "Con la Falta Que Me Haces - Con Grupo Firme",
+      "url": "https://open.spotify.com/track/47pxVljvHqhBjmT126bSgX"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -635,26 +655,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Con la Falta Que Me Haces (Con Grupo Firme)",
-        "url": "https://open.spotify.com/album/5IQTxc6Se8vZsoZXCvm36h"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 224039,
-      "name": "Con la Falta Que Me Haces - Con Grupo Firme",
-      "url": "https://open.spotify.com/track/47pxVljvHqhBjmT126bSgX"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Positivo",
         "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
@@ -695,26 +695,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Un Chingazo",
-        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Un Chingazo",
-      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "\u00bfC\u00f3mo Me Ves?",
         "url": "https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3"
       },
@@ -735,6 +715,26 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
         "name": "Mis Covers, Vol. 5",
         "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 217478,
       "name": "En Peligro de Extinci\u00f3n",
       "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 197543,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/27DWYMacTvcqHqHiQum89b"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -779,22 +795,6 @@
       "duration_ms": 219222,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 197543,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/27DWYMacTvcqHqHiQum89b"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22"
+        "name": "Boleros Que Hicieron Historia",
+        "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Sin Esencia - Balada",
-      "url": "https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I"
+      "duration_ms": 201026,
+      "name": "Contigo Aprendi",
+      "url": "https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Boleros Que Hicieron Historia",
-        "url": "https://open.spotify.com/album/1TsR7vycC98dLcfv19FD6g"
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/7IN8NKG7hHt2n8qdMbkm22"
       },
       "artists": [
         {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 201026,
-      "name": "Contigo Aprendi",
-      "url": "https://open.spotify.com/track/1ixqcfkxz4UpdNJWL7BuvZ"
+      "duration_ms": 227800,
+      "name": "Sin Esencia - Balada",
+      "url": "https://open.spotify.com/track/17FJkZ5UCQjbEArUZvwd3I"
     },
     {
       "added_at": "2022-08-03 16:09:42",

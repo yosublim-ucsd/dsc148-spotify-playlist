@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 253966,
+  "num_followers": 254026,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjRiODI4Mjk1ZTM5MTZhMDk4MjdmNmI2ZTNkYjUzYmZlODI5ODE4",
+  "snapshot_id": "MCxlNzZlNzc1ZjYyODhjZWZjZjg1M2FkOGY2ZGE5MTA0Njg0OWZlMTc4",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 249137,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "No Burden",
         "url": "https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 175777,
       "name": "...Familiar Place",
       "url": "https://open.spotify.com/track/0rHMGnd6wIgaF67ANAVdyC"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 249137,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/0YZzt5PD7o4pS0wNzV6bNT"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Here Goes Nothing!",
-        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 158106,
-      "name": "I'm Afraid I Love You",
-      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "People Pleaser",
         "url": "https://open.spotify.com/album/1j70typFafujL4ecw5kbmP"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 252291,
       "name": "Blue",
       "url": "https://open.spotify.com/track/0VDMM80RCPz0ws1514vQ0S"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Here Goes Nothing!",
+        "url": "https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "I'm Afraid I Love You",
+      "url": "https://open.spotify.com/track/0EgDkAi1hzNK3D3DjWs4bL"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 220060,
-      "name": "More Than You Know - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "We Slept at Last",
         "url": "https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 231670,
       "name": "Drown",
       "url": "https://open.spotify.com/track/1fw7XQl4AGxM8ppPAR6y2i"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1SMUYWhPwuZzNR7Q0PGz8o"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 220060,
+      "name": "More Than You Know - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/05ONwzNSWzywHG4wRT8V7o"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Friends With Feelings",
         "url": "https://open.spotify.com/album/62pNDsP5spxImRyDVaaKmo"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
       },
       "artists": [
         {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
         }
       ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+      "duration_ms": 270664,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 192106,
       "name": "wish you the best (feat. Jensen McRae)",
       "url": "https://open.spotify.com/track/6N41BkrO2jEHjNS3zlXo45"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 270664,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Love of Her Life",
-        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
-      },
-      "artists": [
-        {
-          "name": "Lizzie Reid",
-          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
-        }
-      ],
-      "duration_ms": 241503,
-      "name": "Love of Her Life",
-      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "To Enjoy Is the Only Thing",
         "url": "https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/3iRzlevHgHqYyEi15CRIOQ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Love of Her Life",
+        "url": "https://open.spotify.com/album/3BUfowBL6EwLo9O9X2ASAJ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Reid",
+          "url": "https://open.spotify.com/artist/0GytihetIdprntMyuyAJm6"
+        }
+      ],
+      "duration_ms": 241503,
+      "name": "Love of Her Life",
+      "url": "https://open.spotify.com/track/5SF2uq9nZItW8MXNy6I4zE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Lincoln, Nebraska",
+        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 143674,
+      "name": "Lincoln, Nebraska",
+      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Montibello Memories",
         "url": "https://open.spotify.com/album/3Ov5WbIH9jN8mZ4z9wwTk3"
       },
@@ -1467,18 +1483,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lincoln, Nebraska",
-        "url": "https://open.spotify.com/album/7i0yanefGAo38sxISoem4B"
+        "name": "In the Magic Hour",
+        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
       },
       "artists": [
         {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 143674,
-      "name": "Lincoln, Nebraska",
-      "url": "https://open.spotify.com/track/3pEs3UIsXoLC75O66Uc31M"
+      "duration_ms": 236400,
+      "name": "The King of All Birds",
+      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "In the Magic Hour",
-        "url": "https://open.spotify.com/album/5cUCgoaLWfzbwZRLVCIqTe"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 236400,
-      "name": "The King of All Birds",
-      "url": "https://open.spotify.com/track/6wEIUQhm6COBznfUTRGR1n"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Porcupine",
+        "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "duration_ms": 304773,
+      "name": "I'm Too Smart",
+      "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Porcupine",
-        "url": "https://open.spotify.com/album/4xctRCSg1b1K9D25NvO9L5"
-      },
-      "artists": [
-        {
-          "name": "Molly Payton",
-          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
-        }
-      ],
-      "duration_ms": 304773,
-      "name": "I'm Too Smart",
-      "url": "https://open.spotify.com/track/3cHUgy2YScaImqEk8ovZBz"
     }
   ],
   "unique_name": "noir",

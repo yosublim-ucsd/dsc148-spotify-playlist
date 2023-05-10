@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 55895,
+  "num_followers": 55953,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmM1MjdhMzA5OWU2OTE1ZDI2M2FhMzVhNTM1YWY1NGYxNGU0NDY0",
+  "snapshot_id": "MCw4OWQ5NzZjY2I0NzVkNmQ0YmQ1MTU1MGJiNTFmMWRkODBiNDQ2Y2Jm",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Hoodoo",
+        "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 268946,
+      "name": "Who You Gonna Hoodoo Now?",
+      "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 283106,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/2uoOm55gLvLMALwXmKrwXc"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Hoodoo",
-        "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 268946,
-      "name": "Who You Gonna Hoodoo Now?",
-      "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Smoke From The Chimney",
-        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
-      },
-      "artists": [
-        {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Boot Money",
-      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 194321,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Smoke From The Chimney",
+        "url": "https://open.spotify.com/album/5VcbS7I5iRYJoZSOp344F1"
+      },
+      "artists": [
+        {
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Boot Money",
+      "url": "https://open.spotify.com/track/2WzaKNNPxwE4dKGaGlghqh"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Brownie McGhee and Sonny Terry Sing",
-        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
-      },
-      "artists": [
-        {
-          "name": "Sonny Terry and Brownie McGhee",
-          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Better Day",
-      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 135973,
       "name": "Tell Me Baby",
       "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Brownie McGhee and Sonny Terry Sing",
+        "url": "https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Better Day",
+      "url": "https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The Future Ain't What It Used to Be",
-        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
-      },
-      "artists": [
-        {
-          "name": "Seth Walker",
-          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "The Future Ain't What It Used to Be",
-      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Forever On My Mind",
         "url": "https://open.spotify.com/album/4wwt3VrchcH3YD3VSjd1B9"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 351960,
       "name": "Death Letter",
       "url": "https://open.spotify.com/track/0tHs5XPwU1k43SICp9yOKv"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "The Future Ain't What It Used to Be",
+        "url": "https://open.spotify.com/album/0DW4kByILcJVsYLxbfx035"
+      },
+      "artists": [
+        {
+          "name": "Seth Walker",
+          "url": "https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "The Future Ain't What It Used to Be",
+      "url": "https://open.spotify.com/track/7mNrmOsmZyjJw9FAmrboQO"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Alabama Blues!",
-        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 99866,
-      "name": "I Want to Go",
-      "url": "https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "That's All Right (Mama) - the Fire Sessions",
         "url": "https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 163000,
       "name": "Death Valley Blues",
       "url": "https://open.spotify.com/track/1nxzMW2OxW5W10DAp0L9OP"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Alabama Blues!",
+        "url": "https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 99866,
+      "name": "I Want to Go",
+      "url": "https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1473,7 +1473,23 @@
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
     },
     {
-      "added_at": "2023-05-09 01:06:57",
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
+    },
+    {
+      "added_at": "2023-05-10 01:16:26",
       "album": {
         "name": "The Ballad of Lampshade Ed",
         "url": "https://open.spotify.com/album/4KU9nwpcEZ7a9dLCK54h4t"
@@ -1491,22 +1507,6 @@
       "duration_ms": 206471,
       "name": "The Ballad of Lampshade Ed",
       "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Misery Loves Company",
+        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
+      },
+      "artists": [
+        {
+          "name": "Mary Flower",
+          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
+        }
+      ],
+      "duration_ms": 372440,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1835,24 +1851,8 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Misery Loves Company",
-        "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
-      },
-      "artists": [
-        {
-          "name": "Mary Flower",
-          "url": "https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2"
-        }
-      ],
-      "duration_ms": 372440,
-      "name": "Death Letter Blues",
-      "url": "https://open.spotify.com/track/4qZRDyzwPafiskSh3YIIPr"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+        "name": "The 1928 Sessions",
+        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
       },
       "artists": [
         {
@@ -1860,9 +1860,9 @@
           "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+      "duration_ms": 263319,
+      "name": "Avalon Blues",
+      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -2003,8 +2003,8 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "The 1928 Sessions",
-        "url": "https://open.spotify.com/album/3hud1G2BDhrEdp88Io25r5"
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
       },
       "artists": [
         {
@@ -2012,9 +2012,9 @@
           "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 263319,
-      "name": "Avalon Blues",
-      "url": "https://open.spotify.com/track/4scvylI3GR9z1yB0DE2uKM"
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
     },
     {
       "added_at": "2023-03-24 00:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 19210,
+  "num_followers": 19225,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNTMyZmZmOTY2OWEwY2MzZjExZjAyYmM0Mjk1MDZmZGFiY2E2YTcx",
+  "snapshot_id": "MCxjZGNlN2U0MDE0YmUwMmU0Y2U4ZWVhNzgyZGI4NDZkYWU3N2RlODdi",
   "tracks": [
     {
       "added_at": "2020-05-26 15:53:13",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 299400,
-      "name": "El Pato y la Gallina",
-      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "El Otro Yo",
         "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 195578,
       "name": "Sopa de Caracol (Remix)",
       "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 299400,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -279,6 +279,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 282723,
+      "name": "Punta Silver",
+      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "Batalla de las Puntas, Vol. 8",
         "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 213321,
       "name": "Laluda Bellu",
       "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 1",
-        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 282723,
-      "name": "Punta Silver",
-      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -423,6 +423,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "duration_ms": 444533,
+      "name": "Puntas Garifunas Criollas 2",
+      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "L\u00e1ndini",
         "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
       },
@@ -435,6 +451,22 @@
       "duration_ms": 179108,
       "name": "Nando",
       "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "duration_ms": 186410,
+      "name": "Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -475,22 +507,6 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Hablo Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
-      },
-      "artists": [
-        {
-          "name": "Polache",
-          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
-        }
-      ],
-      "duration_ms": 186410,
-      "name": "Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
         "name": "Encarguitos Del Caribe",
         "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 223973,
       "name": "El Encarguito",
       "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Batalla de las Puntas, Vol. 4",
-        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
-      },
-      "artists": [
-        {
-          "name": "Los Silver Star",
-          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
-        }
-      ],
-      "duration_ms": 444533,
-      "name": "Puntas Garifunas Criollas 2",
-      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -575,6 +575,22 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "added_at": "2020-05-26 15:53:13",
+      "album": {
         "name": "La Ametralladora",
         "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 154476,
       "name": "La Ametralladora",
       "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
-    },
-    {
-      "added_at": "2020-05-26 15:53:13",
-      "album": {
-        "name": "Sabor Catracho!, Vol. 3",
-        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Roland's",
-          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
-        }
-      ],
-      "duration_ms": 256116,
-      "name": "Por la Playa",
-      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     },
     {
       "added_at": "2020-05-26 15:53:13",
@@ -623,34 +623,34 @@
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "L\u00e1ndini",
-        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
       },
       "artists": [
         {
-          "name": "Aurelio",
-          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
         }
       ],
-      "duration_ms": 205072,
-      "name": "Nafagua",
-      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+      "duration_ms": 230870,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
     },
     {
       "added_at": "2020-05-26 15:53:13",
       "album": {
-        "name": "Pobre Marinero",
-        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
       },
       "artists": [
         {
-          "name": "Guillermo Anderson",
-          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
         }
       ],
-      "duration_ms": 219173,
-      "name": "En Mi Pais",
-      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+      "duration_ms": 256116,
+      "name": "Por la Playa",
+      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
     },
     {
       "added_at": "2020-05-26 15:53:13",

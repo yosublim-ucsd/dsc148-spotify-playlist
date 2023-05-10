@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 91951,
+  "num_followers": 92045,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2NiOWI3MGQ5ZDllNDk1M2FmNjg1M2QyY2Q3MWU2MzE2ZGRjYTFm",
+  "snapshot_id": "MCxmODJkYTFjMWRiYWM0MDY1ZWMzYjExOWI3ZGQwY2VjM2Q0Y2ExZWQx",
   "tracks": [
     {
       "added_at": "2023-04-21 04:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "On Giacometti",
-        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 353200,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Next Winter",
         "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234683,
       "name": "Next Winter",
       "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "On Giacometti",
+        "url": "https://open.spotify.com/album/55N4pI2ItHoyZTAkO5646Y"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 353200,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/52OzHDL7QSF8ag7N16B8wt"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -455,6 +455,26 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Abu Simbel (Hania Rani Invalides Version)",
+        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "duration_ms": 339082,
+      "name": "Abu Simbel - Hania Rani Invalides Version",
+      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -479,26 +499,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Abu Simbel (Hania Rani Invalides Version)",
-        "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        },
-        {
-          "name": "WhoMadeWho",
-          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
-        }
-      ],
-      "duration_ms": 339082,
-      "name": "Abu Simbel - Hania Rani Invalides Version",
-      "url": "https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "hundred00",
         "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
@@ -511,26 +511,6 @@
       "duration_ms": 289210,
       "name": "hundred00",
       "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Bird's Tail (Slow Meadow Rework)",
-        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "Slow Meadow",
-          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
-        }
-      ],
-      "duration_ms": 343893,
-      "name": "Bird's Tail - Slow Meadow Rework",
-      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -555,6 +535,26 @@
       "duration_ms": 215281,
       "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - Levitation Mix",
       "url": "https://open.spotify.com/track/6fLXeujLOUvDQbMeUTJg16"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Bird's Tail (Slow Meadow Rework)",
+        "url": "https://open.spotify.com/album/41A2Z3jqK5tORTdVujNpkf"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "Slow Meadow",
+          "url": "https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3"
+        }
+      ],
+      "duration_ms": 343893,
+      "name": "Bird's Tail - Slow Meadow Rework",
+      "url": "https://open.spotify.com/track/4fuukOE5mmxGBvnxm2kJQj"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Satori by the Sea",
+        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+      },
+      "artists": [
+        {
+          "name": "Ed Carlsen",
+          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Satori by the Sea",
+      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/0qYHJXm3QgVlZOwTHtGymE"
       },
@@ -615,34 +631,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Satori by the Sea",
-        "url": "https://open.spotify.com/album/2DwRSu0Ma7a0208qxmETWh"
+        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
       },
       "artists": [
         {
-          "name": "Ed Carlsen",
-          "url": "https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG"
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Satori by the Sea",
-      "url": "https://open.spotify.com/track/3xQXq8FXZcVFU45QwWuOEP"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "River Oblivion",
-        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 290856,
-      "name": "River Oblivion",
-      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
+      "duration_ms": 235563,
+      "name": "G-Minor",
+      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
+        "name": "River Oblivion",
+        "url": "https://open.spotify.com/album/59z2ri75VSFwcpH6tYq1Uy"
       },
       "artists": [
         {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 235563,
-      "name": "G-Minor",
-      "url": "https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8"
+      "duration_ms": 290856,
+      "name": "River Oblivion",
+      "url": "https://open.spotify.com/track/11jdGRoJx7gPqFQ77N70f8"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -695,6 +695,22 @@
       "duration_ms": 148600,
       "name": "De Luce et Umbra",
       "url": "https://open.spotify.com/track/3xQFcCnjsWMIVJo66jC0U2"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "N\u00e9fos",
+        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
+      },
+      "artists": [
+        {
+          "name": "\u1ea0oris",
+          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "N\u00e9fos",
+      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -735,22 +751,6 @@
       "duration_ms": 277021,
       "name": "We Begin",
       "url": "https://open.spotify.com/track/48lkDJzIk3UKd3Eeclay4k"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "N\u00e9fos",
-        "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
-      },
-      "artists": [
-        {
-          "name": "\u1ea0oris",
-          "url": "https://open.spotify.com/artist/0a0xLcxhKUty49ZzQNYFys"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "N\u00e9fos",
-      "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Music for Film and Theatre",
+        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 233148,
+      "name": "Soleil P\u00e2le",
+      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Post-Svalbard",
         "url": "https://open.spotify.com/album/5j2nloNmgR3x8gQepKQvAk"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 270874,
       "name": "Season Shifting - Robert Lippok Rework",
       "url": "https://open.spotify.com/track/0ryoE1xHULh4IxoHrqJBty"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Music for Film and Theatre",
-        "url": "https://open.spotify.com/album/2lxo1T9lLWrS9EGdMOx37W"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 233148,
-      "name": "Soleil P\u00e2le",
-      "url": "https://open.spotify.com/track/4ybl2VlK5Iw5zVT8WeSzhJ"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
-      },
-      "artists": [
-        {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Building Blocks, Pt. 5",
         "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+      },
+      "artists": [
+        {
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "In All This Heavy Blue",
         "url": "https://open.spotify.com/album/5Gs15uO4czslWbMG08vchM"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 276610,
       "name": "In All This Heavy Blue",
       "url": "https://open.spotify.com/track/29wVDybi61uHac7gi0aZFB"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Traveller (Lambert rework)",
         "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
       },
@@ -1055,6 +1039,22 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
         "name": "Driving Through the Aftermath of a Storm on a Clear Day",
         "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 151695,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
       },
       "artists": [
         {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 209558,
       "name": "Close To Her",
       "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
-      },
-      "artists": [
-        {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-21 04:01:00",
       "album": {
-        "name": "Rameau, etc",
-        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
-      },
-      "artists": [
-        {
-          "name": "PAVANE",
-          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
-        }
-      ],
-      "duration_ms": 245365,
-      "name": "Rameau, etc",
-      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
         "name": "Sleepless Wake",
         "url": "https://open.spotify.com/album/21bhMlaiB1ZztRcWxVjlOs"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 222187,
       "name": "Sleepless Wake",
       "url": "https://open.spotify.com/track/6C8DVZZXyisOBDNkdsT3Pg"
+    },
+    {
+      "added_at": "2023-04-21 04:01:00",
+      "album": {
+        "name": "Rameau, etc",
+        "url": "https://open.spotify.com/album/1nSJdY9yheUwqZD9TOQqy1"
+      },
+      "artists": [
+        {
+          "name": "PAVANE",
+          "url": "https://open.spotify.com/artist/4PE4i9qqfT0fpCm76kcuuB"
+        }
+      ],
+      "duration_ms": 245365,
+      "name": "Rameau, etc",
+      "url": "https://open.spotify.com/track/7ynV83CExKcLCaot0TchPQ"
     },
     {
       "added_at": "2023-04-21 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 
 > Feel good, high energy beats to keep you motivated for that every day workout!
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,399 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,503 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 48 | [Worship You](https://open.spotify.com/track/2rfZyAX6wZxQWMQ9GYyLIu) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Worship You](https://open.spotify.com/album/1hQiBI8EdaW5dR4gja8w7f) | 2:58 |
 | 49 | [Born To Be Yours](https://open.spotify.com/track/0WVAQaxrT0wsGEG4BCVSn2) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Born To Be Yours](https://open.spotify.com/album/3Nlbg1BHLXDKqQVQ9ErCmg) | 3:13 |
 | 50 | [I Could Be The One \(Avicii Vs\. Nicky Romero\) \- Radio Edit](https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I Could Be The One \[Avicii vs Nicky Romero\]](https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3) | 3:28 |
-| 51 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
+| 51 | [Power](https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Power](https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE) | 2:28 |
 | 52 | [Lullaby](https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a) | 2:40 |
-| 53 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 |
-| 54 | [Power](https://open.spotify.com/track/4CVOUJki8YUWol3jhLphgs) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Power](https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE) | 2:28 |
+| 53 | [Your Love](https://open.spotify.com/track/0tgbSxoFjZ20MjfoKwWevV) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7) | [Your Love](https://open.spotify.com/album/2dvtRAMQN6ERCoQVrV8xtO) | 3:05 |
+| 54 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 |
 | 55 | [Hangover](https://open.spotify.com/track/23nhxZKWVRd7BMVesi4X3E) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Hangover](https://open.spotify.com/album/1BRQ14AYfF7XJyUTk1zalU) | 2:24 |
 | 56 | [Nightlight](https://open.spotify.com/track/06kxa3al7bUqRRo5nAFduZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [Nightlight](https://open.spotify.com/album/6CqsldZjVGphwQk9wEBiKE) | 3:42 |
 | 57 | [Osama](https://open.spotify.com/track/1YPkBfrRCpvBrwJU66LQWq) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Osama](https://open.spotify.com/album/08FzfT91jguU5Odn4bHc7T) | 6:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35UmSKx1jwI.md) - [plain]
 | 59 | [Jerusalema \(feat\. Nomcebo Zikode\) \- Edit](https://open.spotify.com/track/2R7gA9dAHTjASKU0wiTJok) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Burna Boy & Nomcebo Zikode\) \[Remix\]](https://open.spotify.com/album/1HBjNCWaJ2SzolwRxedA9z) | 3:08 |
 | 60 | [Pretty Please](https://open.spotify.com/track/5Rse8If81NbzXL1ARjHOTB) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pretty Please](https://open.spotify.com/album/6ytnDl9t7n1ROdtbVzK7Kb) | 2:25 |
 
-Snapshot ID: `MCxhZGU3YmExOGY5ZTkxNzNlMTljOThmNmU0YWY0YzFiMTY0MmI3Y2U1`
+Snapshot ID: `MCw4MDM3YjY0MDA2M2UxMzBiYjdmOTVlYzEyYTMzMWQ2MzI0YmQ5ZmRi`

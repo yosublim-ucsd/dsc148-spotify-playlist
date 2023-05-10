@@ -2281,6 +2281,24 @@
     },
     {
       "album": {
+        "name": "Fou2 W Et3lem",
+        "url": "https://open.spotify.com/album/4i5xtXsOMluVbBAgdK4zmA"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171409,
+      "name": "Fou2 W Et3lem",
+      "url": "https://open.spotify.com/track/1Nl83PQaY3bpy1PphPAdBf"
+    },
+    {
+      "album": {
         "name": "Ga7da",
         "url": "https://open.spotify.com/album/0ut6qfrsetpcWNtWcJWkK2"
       },
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 159999,
       "name": "Laykoon",
       "url": "https://open.spotify.com/track/0SEeuzvfqRxahEg46PRUvi"

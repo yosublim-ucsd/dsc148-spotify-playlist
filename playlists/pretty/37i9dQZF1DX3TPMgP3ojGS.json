@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 350614,
+  "num_followers": 350772,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzViNzBhNTM1YzcxZGQ3NWQ0MGEzMzA2MTA5MDY5MTE2OTVmZjk3",
+  "snapshot_id": "MCwxOWE4ZjgxYjhlNmRlYzI5M2ViMTIxMzE2ZDY3YTRhMGY5MGIyM2Y1",
   "tracks": [
     {
       "added_at": "2023-04-25 13:35:29",
@@ -255,6 +255,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Nordanvind",
+        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
+      },
+      "artists": [
+        {
+          "name": "Malmkvist",
+          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Nordanvind",
+      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 125055,
       "name": "M\u00e1 sestra",
       "url": "https://open.spotify.com/track/49VzYsJHrITQOn28WBMztb"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Nordanvind",
-        "url": "https://open.spotify.com/album/6j0bsFT0NhsZiiSJqS3mze"
-      },
-      "artists": [
-        {
-          "name": "Malmkvist",
-          "url": "https://open.spotify.com/artist/1Po25zG3Yrda2a6il6VH8l"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Nordanvind",
-      "url": "https://open.spotify.com/track/42cskWMuFydbI9f9um1sTj"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Liminal ride",
-        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
-      },
-      "artists": [
-        {
-          "name": "Luna Bauer",
-          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
-        }
-      ],
-      "duration_ms": 156705,
-      "name": "Liminal ride",
-      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Petites danses et r\u00eaveries",
         "url": "https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Liminal ride",
+        "url": "https://open.spotify.com/album/3wHAU30ikn1KGIwPBIbZuY"
+      },
+      "artists": [
+        {
+          "name": "Luna Bauer",
+          "url": "https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1"
+        }
+      ],
+      "duration_ms": 156705,
+      "name": "Liminal ride",
+      "url": "https://open.spotify.com/track/7zVpXNJWZTx9VFGsASdvDb"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Pines and Cedars",
         "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 150898,
       "name": "Pines and Cedars",
       "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Fiume",
+        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
+      },
+      "artists": [
+        {
+          "name": "Carluccio",
+          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
+        }
+      ],
+      "duration_ms": 140124,
+      "name": "Fiume",
+      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -459,22 +475,6 @@
       "duration_ms": 125041,
       "name": "Lisser",
       "url": "https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Fiume",
-        "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
-      },
-      "artists": [
-        {
-          "name": "Carluccio",
-          "url": "https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL"
-        }
-      ],
-      "duration_ms": 140124,
-      "name": "Fiume",
-      "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
-      },
-      "artists": [
-        {
-          "name": "Amine Ayad",
-          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
-        }
-      ],
-      "duration_ms": 115124,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Through The Blue (Piano Version)",
         "url": "https://open.spotify.com/album/3Qq8Z12Xl0i4mWhwNljTFx"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 225494,
       "name": "Through The Blue - Piano Version",
       "url": "https://open.spotify.com/track/5gbZe9oyXXQDMLXFGsR4YC"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "duration_ms": 115124,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "T\u00f4t le matin",
-        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 130889,
-      "name": "T\u00f4t le matin",
-      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "to god knows where",
         "url": "https://open.spotify.com/album/3IkfQcMF1gPMIessnYkMg1"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 204375,
       "name": "to god knows where - silence",
       "url": "https://open.spotify.com/track/7a4ZCgxbjGlcOEDXeadkGS"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "T\u00f4t le matin",
+        "url": "https://open.spotify.com/album/2B1QcyRTxAJZiF9pwln7jR"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "duration_ms": 130889,
+      "name": "T\u00f4t le matin",
+      "url": "https://open.spotify.com/track/5TRzmeTTbtVrsblB0HTZn7"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
-      },
-      "artists": [
-        {
-          "name": "Aquilegia",
-          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
-        }
-      ],
-      "duration_ms": 113986,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Beauty",
         "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 156000,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "duration_ms": 113986,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Peaceful Thoughts",
-        "url": "https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip"
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
       },
       "artists": [
         {
-          "name": "Listening Wind",
-          "url": "https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz"
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
         }
       ],
-      "duration_ms": 140601,
-      "name": "Peaceful Thoughts",
-      "url": "https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW"
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -927,34 +927,34 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "For the Love of You",
-        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+        "name": "Peaceful Thoughts",
+        "url": "https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip"
       },
       "artists": [
         {
-          "name": "Henriette Fleich",
-          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+          "name": "Listening Wind",
+          "url": "https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz"
         }
       ],
-      "duration_ms": 107730,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+      "duration_ms": 140601,
+      "name": "Peaceful Thoughts",
+      "url": "https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW"
     },
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Berceuse",
-        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
       },
       "artists": [
         {
-          "name": "Sounds from a Box",
-          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
         }
       ],
-      "duration_ms": 151750,
-      "name": "Berceuse",
-      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
+      "duration_ms": 180874,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Berceuse",
+        "url": "https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg"
+      },
+      "artists": [
+        {
+          "name": "Sounds from a Box",
+          "url": "https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s"
+        }
+      ],
+      "duration_ms": 151750,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "piano room",
         "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 150833,
       "name": "Koto - piano room",
       "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
-      },
-      "artists": [
-        {
-          "name": "Ivan Malik",
-          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
-        }
-      ],
-      "duration_ms": 180874,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
+        "name": "Gently falling rain",
+        "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Gently falling rain",
+      "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 108022,
       "name": "Hand in Hand",
       "url": "https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
-        "name": "Gently falling rain",
-        "url": "https://open.spotify.com/album/2F3RFJ6NKWrOIm8jgLci2c"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blois",
-          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Gently falling rain",
-      "url": "https://open.spotify.com/track/1KCIBiCtznGzZWuB1IWHJk"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Cygne Noir",
-        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 178634,
-      "name": "Cygne Noir",
-      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
       },
@@ -1375,18 +1359,18 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Casa luminosa",
-        "url": "https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf"
+        "name": "Cygne Noir",
+        "url": "https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1"
       },
       "artists": [
         {
-          "name": "Miguel P\u00e9rez",
-          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
         }
       ],
-      "duration_ms": 109565,
-      "name": "Casa luminosa",
-      "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
+      "duration_ms": 178634,
+      "name": "Cygne Noir",
+      "url": "https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1403,6 +1387,22 @@
       "duration_ms": 118500,
       "name": "Estelle",
       "url": "https://open.spotify.com/track/2XPxkVgxyj4QVaW78kS5vb"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Casa luminosa",
+        "url": "https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf"
+      },
+      "artists": [
+        {
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+        }
+      ],
+      "duration_ms": 109565,
+      "name": "Casa luminosa",
+      "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
     },
     {
       "added_at": "2023-04-25 13:35:29",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-04-25 13:35:29",
       "album": {
-        "name": "Winterfall",
-        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
-      },
-      "artists": [
-        {
-          "name": "Eric Ville de Soins",
-          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Winterfall",
-      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
-    },
-    {
-      "added_at": "2023-04-25 13:35:29",
-      "album": {
         "name": "Je m'amoure de cette sensation",
         "url": "https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 151894,
       "name": "Je m'amoure de cette sensation",
       "url": "https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ"
+    },
+    {
+      "added_at": "2023-04-25 13:35:29",
+      "album": {
+        "name": "Winterfall",
+        "url": "https://open.spotify.com/album/3dvaINV7eEgY6dPr5QVsvX"
+      },
+      "artists": [
+        {
+          "name": "Eric Ville de Soins",
+          "url": "https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Winterfall",
+      "url": "https://open.spotify.com/track/5Ooy87HjMYRxy5qiRNsilk"
     },
     {
       "added_at": "2023-04-25 13:35:29",

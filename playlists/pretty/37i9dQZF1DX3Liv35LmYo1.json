@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103979,
+  "num_followers": 103996,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWI0NjlmYTVkYmI4M2FjODU4NzA4ZmY0MzRjZDIwMWZkYzM5N2Vl",
+  "snapshot_id": "MCxlZjFhOGE5NTEwYzRmMzdiY2IzNmU2MzA2M2ViMzNkMzg0NWQ5NDIy",
   "tracks": [
     {
       "added_at": "2023-05-05 02:04:51",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 213441,
-      "name": "Clavicle",
-      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "In The Sweetness of You",
         "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 213441,
+      "name": "Clavicle",
+      "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "meserole",
         "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 213760,
       "name": "meserole",
       "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -591,18 +591,26 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+        "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
+        "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
       },
       "artists": [
         {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+          "name": "Mindy Meng Wang \u738b\u840c",
+          "url": "https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        },
+        {
+          "name": "Flora Wong",
+          "url": "https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu"
         }
       ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+      "duration_ms": 201600,
+      "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
+      "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -619,6 +627,22 @@
       "duration_ms": 243692,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -671,22 +695,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Go On",
         "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
       },
@@ -719,18 +727,18 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "From The Ashes EP",
-        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
       },
       "artists": [
         {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
         }
       ],
-      "duration_ms": 138337,
-      "name": "Moving Still - Reprise",
-      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -755,6 +763,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "From The Ashes EP",
+        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
+      },
+      "artists": [
+        {
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+        }
+      ],
+      "duration_ms": 138337,
+      "name": "Moving Still - Reprise",
+      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "The Corner",
         "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
       },
@@ -767,46 +791,6 @@
       "duration_ms": 220653,
       "name": "The Corner",
       "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
-        "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
-      },
-      "artists": [
-        {
-          "name": "Mindy Meng Wang \u738b\u840c",
-          "url": "https://open.spotify.com/artist/2pXrt2o7FNdFd3l2A3v6C0"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        },
-        {
-          "name": "Flora Wong",
-          "url": "https://open.spotify.com/artist/7pu8jBlo7t1C3wAa9XWEIu"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
-      "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -843,6 +827,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Ultra Truth",
         "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
-      },
-      "artists": [
-        {
-          "name": "Mr. Sosa",
-          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
-        }
-      ],
-      "duration_ms": 349000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Have You Felt Lately? (Brijean Remix)",
         "url": "https://open.spotify.com/album/4Rr4ZzOpiDaTAA3gJY6LsM"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 238826,
       "name": "Have You Felt Lately? - Brijean Remix",
       "url": "https://open.spotify.com/track/0wR3uEmtFQLqNVkXbB219d"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
+      },
+      "artists": [
+        {
+          "name": "Mr. Sosa",
+          "url": "https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
     },
     {
       "added_at": "2023-05-05 02:04:51",

@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-529 songs - 1 day 8 hr 22 min
+530 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-06-28 | 2023-02-02 |
 | [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-28 | 2022-10-08 |
 | [In The Old Fashioned Way](https://open.spotify.com/track/2ExRtsNPSx1XupyPBq7Wtr) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [In The Old Fashioned Way](https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms) | 3:48 | 2023-01-19 |  |
-| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1n2ZwnIo8yDU6T64f2ARiK) | 3:54 | 2023-02-23 |  |
+| [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1n2ZwnIo8yDU6T64f2ARiK) | 3:54 | 2023-02-23 | 2023-05-10 |
 | [In The Wee Small Hours of the Morning](https://open.spotify.com/track/6E1m3l49ocTr2gKzl3lFvT) | [The Andy Love Band](https://open.spotify.com/artist/4psWzLHJ7pHepkJn6euY1S) | [Sidewinder](https://open.spotify.com/album/1Oni0D0iiqXbix69OQ0Cot) | 4:22 | 2022-06-28 | 2022-10-08 |
 | [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2022-06-28 | 2022-10-08 |
 | [Incognito](https://open.spotify.com/track/5hQBsGeVd6IwmuNXG744pg) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Incognito](https://open.spotify.com/album/4jKkbMMvsn6hmFKYukCTLR) | 4:32 | 2023-01-11 |  |
@@ -481,6 +481,7 @@
 | [There Goes My Heart](https://open.spotify.com/track/1LGN3DO6YD61pwb64gQtZx) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [There Goes My Heart](https://open.spotify.com/album/1xNAXGrLepkx1b0pgBFuvn) | 3:42 | 2023-01-26 |  |
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-06-28 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/59OJQEuRXWraNpbTqUeDVA) | [Nouveau Jazz Trio](https://open.spotify.com/artist/2uE6h3IWob2rgVJmUCz6D2) | [They Say It's Wonderful](https://open.spotify.com/album/0tFhwfBAFd6GL9Om8jLOPj) | 3:18 | 2022-06-28 | 2022-11-03 |
+| [Think of refusing](https://open.spotify.com/track/0xczcAK509NavYmwkard4Q) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Think of refusing](https://open.spotify.com/album/2hy3Rx2lNsnIR3YL4csFFZ) | 3:51 | 2023-05-04 |  |
 | [This Autumn](https://open.spotify.com/track/2FpRHKUzbXejH9vUK0TX0G) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [This Autumn](https://open.spotify.com/album/1DmsuXnSvAWqUS9Z3W2JzY) | 2:52 | 2022-12-01 |  |
 | [This Is New](https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [This Is New](https://open.spotify.com/album/3Lt4cW6ig50NtOBGtsBO7V) | 3:15 | 2022-06-28 | 2023-01-17 |
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-16 |  |

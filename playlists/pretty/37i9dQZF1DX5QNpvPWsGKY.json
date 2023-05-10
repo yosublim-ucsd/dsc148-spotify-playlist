@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 85420,
+  "num_followers": 85531,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWU0Y2FkMmYzMzQ0NjUxYzY4NTQwZjEyZDBiNzBkNTUyMDcyOWMy",
+  "snapshot_id": "MCw1YTAwYjM0MDZlZmVjYjljN2E3ZDI4NTFlZTE3YjNiYzM3OTU3NmRl",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -267,8 +267,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 194560,
-      "name": "20 Rosas",
-      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -431,8 +431,8 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
         }
       ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 194560,
+      "name": "20 Rosas",
+      "url": "https://open.spotify.com/track/5zOWyxUVE0i9Ziwm6cE7aF"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -463,18 +463,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Con la Fuerza de un Volc\u00e1n",
-        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Vienes y Te Vas",
-      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+      "duration_ms": 204680,
+      "name": "Besar Tu Piel",
+      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+        "name": "Con la Fuerza de un Volc\u00e1n",
+        "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
       "artists": [
         {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
         }
       ],
-      "duration_ms": 204680,
-      "name": "Besar Tu Piel",
-      "url": "https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N"
+      "duration_ms": 228266,
+      "name": "Vienes y Te Vas",
+      "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Enamorado De Un Fantasma",
-        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 269466,
-      "name": "Enamorado De Un Fantasma",
-      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Enamorado De Un Fantasma",
+        "url": "https://open.spotify.com/album/4XX1NXGCEwomxl6cYRcW2d"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 269466,
+      "name": "Enamorado De Un Fantasma",
+      "url": "https://open.spotify.com/track/47zLjYjuaWunbmMrn6jLLj"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -847,38 +847,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "25 Exitos Vol. 1 (USA)",
         "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
       },
@@ -895,6 +863,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Con La Fuerza Del Destino",
         "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 189013,
       "name": "La Fuerza Del Destino",
       "url": "https://open.spotify.com/track/3WjmQylxM3VhcCcajyYGAK"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Par De Anillos",
-      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Trayectoria",
         "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 214826,
       "name": "Agua De Vida",
       "url": "https://open.spotify.com/track/6eL8Ej7iJqv7NOPoY7bC8Z"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "Par De Anillos",
+      "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/3zTtqNPnbLUKTmj69JapdD"
     },
     {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
-        "name": "20 Joyas de la Historia Musical",
-        "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 154052,
-      "name": "Pero Tu No Estas",
-      "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
-    },
-    {
       "added_at": "2022-01-25 19:05:16",
       "album": {
         "name": "Sabes A Chocolate",
@@ -1471,6 +1455,22 @@
       "duration_ms": 226333,
       "name": "Sabes A Chocolate",
       "url": "https://open.spotify.com/track/6pPNepnzBAMdPcE3vgyT3y"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "20 Joyas de la Historia Musical",
+        "url": "https://open.spotify.com/album/2WSLrdOSbaiTS6efB7Xk2B"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 154052,
+      "name": "Pero Tu No Estas",
+      "url": "https://open.spotify.com/track/00c81raDwIJa803nmAgcU3"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-01-10 17:48:12",
       "album": {
-        "name": "Rel\u00e1mpago De Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
-      },
-      "artists": [
-        {
-          "name": "Grupo Flash",
-          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
-    },
-    {
-      "added_at": "2023-01-10 17:48:12",
-      "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
         "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 205346,
       "name": "Donde Estas",
       "url": "https://open.spotify.com/track/2zfeUz2xzgrtM2kF5bprCY"
+    },
+    {
+      "added_at": "2023-01-10 17:48:12",
+      "album": {
+        "name": "Rel\u00e1mpago De Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4tZj0CXIlo06ypTyAG1Xpl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Flash",
+          "url": "https://open.spotify.com/artist/7z8b1bQhJLtJYr3xd9jTsK"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/6QctybFvIasVMqsdOa9EEQ"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
-      },
-      "artists": [
-        {
-          "name": "Claudio Moran Y Los Universales",
-          "url": "https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs"
-        }
-      ],
-      "duration_ms": 243973,
-      "name": "Paloma Ajena",
-      "url": "https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Pideme",
         "url": "https://open.spotify.com/album/3xnYyynD3TJl3b2Uv1S34t"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 197752,
       "name": "Nuestra Pobreza",
       "url": "https://open.spotify.com/track/6Xj44VfAolXC0X2Nr8oyXK"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Cumbiando Este 5 De Mayo",
+        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
+      },
+      "artists": [
+        {
+          "name": "Claudio Moran Y Los Universales",
+          "url": "https://open.spotify.com/artist/6a3OLR11JHsrfpr7E2YTOs"
+        }
+      ],
+      "duration_ms": 243973,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l"
     },
     {
       "added_at": "2022-01-25 19:05:16",

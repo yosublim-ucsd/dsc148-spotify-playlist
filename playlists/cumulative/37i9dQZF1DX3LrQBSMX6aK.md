@@ -4,7 +4,7 @@
 
 > Classical compositions from Ravi Shankar and more.
 
-76 songs - 18 hr 9 min
+77 songs - 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Palna Jhule Nandlal](https://open.spotify.com/track/68bndjlqZTrbOa5qhts7ev) | [Shubha Mudgal](https://open.spotify.com/artist/1cXjeY6DeuvHqOLioXcHZk) | [Palna Jhule Nandlal](https://open.spotify.com/album/6a29FaR1tsnkxOqEMFWg97) | 7:14 | 2021-12-07 |  |
 | [Raag Hansdhwani Alap](https://open.spotify.com/track/7BJmfkCvVytUurjcApEbHg) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 4:27 | 2023-01-09 |  |
 | [Raag Hansdhwani Gat in Matta Taal](https://open.spotify.com/track/1hrJRx256v2UR6maarb8gT) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 9:29 | 2023-01-09 |  |
-| [Raag Hansdhwani Jod and Jhalla](https://open.spotify.com/track/7Ms7N8GxU46EsS57GECJu0) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 5:36 | 2023-01-09 |  |
+| [Raag Hansdhwani Jod and Jhalla](https://open.spotify.com/track/7Ms7N8GxU46EsS57GECJu0) | [Sayan Ghosh](https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6), [Shubhabrata Saha](https://open.spotify.com/artist/7o9wZaGyYl8MW3Ga6aosMU) | [Raag Hansdhwani](https://open.spotify.com/album/4RjM807tZgam2lxHWzE5kG) | 5:36 | 2023-01-09 | 2023-05-10 |
 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 | 2021-12-07 |  |
 | [Rag Bhairavi](https://open.spotify.com/track/4kEx4J2we86jjCUWIQRI7E) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 11:54 | 2021-12-07 |  |
 | [Rag Hussaini Kanra](https://open.spotify.com/track/4Dzq2WpTelyXINu0EpUMzn) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Pandit Jasraj \- Vocal](https://open.spotify.com/album/4Nr3N7QxTWcpuAopdM2xwh) | 44:28 | 2021-12-07 |  |
@@ -84,5 +84,6 @@
 | [Vatapi Ganapathim \(Raga: Hamsadwani; Tala: Adi\)](https://open.spotify.com/track/312UHYgXzJ6NzA2rFeyYSe) | [Chitti Babu](https://open.spotify.com/artist/6sN7sUcwhJszUfcDdoJ71Z) | [Raghuvamsa Sudha Vol.1](https://open.spotify.com/album/0Uj4B92OarYR2m4CSetQn7) | 7:46 | 2021-12-07 | 2022-12-31 |
 | [Vatapiganapatim](https://open.spotify.com/track/05c2F9UMy7TbfZc6Ws47ee) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq) | [Yal Isai](https://open.spotify.com/album/5oJkt1OCl9ko0nEpY7jjW1) | 11:19 | 2022-07-26 | 2023-01-16 |
 | [Vatapiganapatim \- Hamsadhwani \- Adi](https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq), [Umayalpuram K\. Sivaraman](https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q), [Subba Lakshmi](https://open.spotify.com/artist/1IP82ozdzN3GO1RIWWAHFG) | [Yal Isai](https://open.spotify.com/album/3ESl4FTRUz4g5aBltmp768) | 11:19 | 2021-12-07 | 2022-07-29 |
+| [Vrindavan Sojourn](https://open.spotify.com/track/4P1I8fZOObedYQoftl6Vqn) | [George Brooks](https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy), [Pt\. Subhen Chatterjee](https://open.spotify.com/artist/3S8BaEhq0cLMn9XV6T0WN2), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Mainak Bumpy Chowdhury](https://open.spotify.com/artist/2dcZ3EkiSJ0qnEf2Fd7zdd), [Tamal Halder](https://open.spotify.com/artist/5uPwgx7NUxZwnK0jn4nbvS), [Gaytri Ashokan](https://open.spotify.com/artist/5b4Kg0qx45mqSMGYQ4XyB3), [Sambit Chatterjee](https://open.spotify.com/artist/1k1JTLGm0dUcSIflDlZ6tb) | [Vrindavan Sojourn \(From the Album "Manoyatri"\)](https://open.spotify.com/album/2G0NX8PGJkRCdn1beqaQ65) | 11:29 | 2023-05-09 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

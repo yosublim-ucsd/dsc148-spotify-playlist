@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-249 songs - 12 hr 27 min
+250 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Gimme Love](https://open.spotify.com/track/7eKpBgv8NhnHQe3rRinuyr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Gimme Love](https://open.spotify.com/album/2mzILBdUdQi0KIo61th1k4) | 2:51 | 2023-02-23 |  |
 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 | 2022-05-05 | 2023-03-04 |
 | [Girlfriend](https://open.spotify.com/track/4MzOppXoeKvDsVaNMeOK3C) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [The Second Wave Deluxe](https://open.spotify.com/album/6dvqARQzWnVbGym9dEWw4Y) | 3:16 | 2022-06-16 |  |
-| [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 |  |
+| [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 | 2023-05-10 |
 | [Hard to Find](https://open.spotify.com/track/2DEfBwqL5U7OP3UFKQJ0cq) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Hard to Find](https://open.spotify.com/album/5OgLCYPqsqVdwlGEijUEpQ) | 3:08 | 2022-07-14 | 2022-09-29 |
 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 | 2022-10-13 |  |
 | [Hide & Seek \- Rema Remix](https://open.spotify.com/track/2Gphd3ei7Q9mE1C7N4NkXb) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Hide & Seek \(Rema Remix\)](https://open.spotify.com/album/6qh0VG873WKoAklRgWoLqY) | 3:48 | 2023-02-23 |  |
@@ -162,6 +162,7 @@
 | [My Way](https://open.spotify.com/track/2KLxf95cF97V7EHh3o96hO) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [My Way](https://open.spotify.com/album/3983glzftgGCONDTjZw4az) | 2:57 | 2022-11-15 | 2023-02-17 |
 | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/track/3YMPFjNdqspuEvCUYXbWAl) | [Ghetto Boy](https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [MY WAY \(feat\. Joey B\)](https://open.spotify.com/album/2pTkLDnVeiVT3HOdeh2r5Y) | 3:17 | 2023-03-30 | 2023-04-15 |
 | [Méchante](https://open.spotify.com/track/5k5duWxo5HqhetBe6ucgZJ) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Méchante](https://open.spotify.com/album/1k6MS0e5EMEkCDZ88fiLQ5) | 2:51 | 2022-06-16 | 2023-01-20 |
+| [NANA](https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi) | 2:26 | 2023-05-04 |  |
 | [NANA](https://open.spotify.com/track/3x14QjUcvBTxIYjMD9RzVO) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [NANA](https://open.spotify.com/album/7KJ1TeVa4Xc9Wv0AOv9o0Y) | 2:26 | 2023-03-03 | 2023-05-01 |
 | [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 | 2022-08-26 |
 | [Necessary](https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Necessary](https://open.spotify.com/album/6YgxiCboIdgym01sRlyGix) | 3:02 | 2023-05-04 |  |

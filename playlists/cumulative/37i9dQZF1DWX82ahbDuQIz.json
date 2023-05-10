@@ -876,12 +876,24 @@
       },
       "artists": [
         {
+          "name": "Stephen Schwartz",
+          "url": "https://open.spotify.com/artist/7daPb40K64rRtF36wd3ZOk"
+        },
+        {
           "name": "Kristin Chenoweth",
           "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
         },
         {
           "name": "Idina Menzel",
           "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Stephen Oremus",
+          "url": "https://open.spotify.com/artist/1e6BRnFiiwNZl04xu1yqmi"
+        },
+        {
+          "name": "Alex Lacamoire",
+          "url": "https://open.spotify.com/artist/5TLQArskPwpPQULjjE2tsW"
         }
       ],
       "date_added": "2021-12-15",
@@ -1632,7 +1644,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 117320,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/1mglqKLKJ9wRUQmoWxyb5m"
@@ -3162,6 +3174,60 @@
       "duration_ms": 364133,
       "name": "The American Dream - Original London Cast Recording/1989",
       "url": "https://open.spotify.com/track/4KhKAbwVPgizloys4wDada"
+    },
+    {
+      "album": {
+        "name": "The Ballad of Sweeney Todd (Opening) [2023 Broadway Cast Recording]",
+        "url": "https://open.spotify.com/album/12vItdgogyxo0MY72MfBVm"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        },
+        {
+          "name": "Maria Bilbao",
+          "url": "https://open.spotify.com/artist/6HwBejyNHV2ncb4Vfitf5J"
+        },
+        {
+          "name": "Nicholas Christopher",
+          "url": "https://open.spotify.com/artist/1bc4RK3BAuMC9yCEYM8MrN"
+        },
+        {
+          "name": "Gaten Matarazzo",
+          "url": "https://open.spotify.com/artist/5TLldRzO16khcP3zwBsBB6"
+        },
+        {
+          "name": "John Rapson",
+          "url": "https://open.spotify.com/artist/07Ewd7U9XMaZwOS4tQNVmz"
+        },
+        {
+          "name": "Jamie Jackson",
+          "url": "https://open.spotify.com/artist/3lrBduAPh4QyDtnT9zvfJu"
+        },
+        {
+          "name": "Ruthie Ann Miles",
+          "url": "https://open.spotify.com/artist/0KvyvyfojiiGL7yBIWrwLI"
+        },
+        {
+          "name": "Sweeney Todd 2023 Broadway Company",
+          "url": "https://open.spotify.com/artist/70VT6oVDiCQO0VuE347OUh"
+        },
+        {
+          "name": "Stephen Sondheim",
+          "url": "https://open.spotify.com/artist/4TbtUt49IMXEIMmNdifHb1"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178928,
+      "name": "The Ballad of Sweeney Todd (Opening) [2023 Broadway Cast Recording]",
+      "url": "https://open.spotify.com/track/6mWNUGxfHYcLOC02N2GLwX"
     },
     {
       "album": {

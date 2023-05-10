@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36\">Trip Lee</a>",
-  "num_followers": 121479,
+  "num_followers": 121600,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWFjMTUxYTk2MmRkZjM5Nzc5ODliMmM4ZTU3ZmNlNjRlMjY5NDhi",
+  "snapshot_id": "MCxlZjJkM2ZlZWE5MzNmOGFkNGE2MmJiMmJjODQ3MDU5NTQ4NzQxMzFh",
   "tracks": [
     {
       "added_at": "2023-04-28 12:30:31",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "All Joy No Stress (feat. Tedashii)",
-        "url": "https://open.spotify.com/album/4gvJs5YgwAMcH0W3W86iQd"
-      },
-      "artists": [
-        {
-          "name": "Rhett Walker",
-          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
-        },
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 184563,
-      "name": "All Joy No Stress (feat. Tedashii)",
-      "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "shadows",
         "url": "https://open.spotify.com/album/3kgOrJKObfGSJpNKhUimF2"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 149200,
       "name": "shadows",
       "url": "https://open.spotify.com/track/0gRbSSByq75AHyZKfyldZc"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "All Joy No Stress (feat. Tedashii)",
+        "url": "https://open.spotify.com/album/4gvJs5YgwAMcH0W3W86iQd"
+      },
+      "artists": [
+        {
+          "name": "Rhett Walker",
+          "url": "https://open.spotify.com/artist/4ImxhwjNOz0es0voxGHCoP"
+        },
+        {
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
+        }
+      ],
+      "duration_ms": 184563,
+      "name": "All Joy No Stress (feat. Tedashii)",
+      "url": "https://open.spotify.com/track/5Z4D2dNjMFBlL6c4hha7Rq"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
+      },
+      "artists": [
+        {
+          "name": "MTM Isaiah",
+          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
+        }
+      ],
+      "duration_ms": 172313,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
         "name": "BIG!",
         "url": "https://open.spotify.com/album/4kXyCIwqDxxknbozMbR7Sr"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 162352,
       "name": "BIG!",
       "url": "https://open.spotify.com/track/7oPglwXLKkKaMhlJrDsRo7"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6"
-      },
-      "artists": [
-        {
-          "name": "MTM Isaiah",
-          "url": "https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy"
-        }
-      ],
-      "duration_ms": 172313,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Nights In Atlanta",
-        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
-      },
-      "artists": [
-        {
-          "name": "Da' T.R.U.T.H.",
-          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Nights In Atlanta",
-      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "New Day",
         "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
@@ -1039,6 +1023,26 @@
       "duration_ms": 181776,
       "name": "New Day",
       "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Who That Is",
+        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        },
+        {
+          "name": "Dj Laz",
+          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Who That Is",
+      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Who That Is",
-        "url": "https://open.spotify.com/album/1YorEgzQ3eu2DmskAzB3Sq"
+        "name": "Nights In Atlanta",
+        "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
-        },
-        {
-          "name": "Dj Laz",
-          "url": "https://open.spotify.com/artist/5REF3rMSUd6bSRwgV09dzQ"
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Who That Is",
-      "url": "https://open.spotify.com/track/2w5nDXJbPkxwBQLC5519ny"
+      "duration_ms": 145750,
+      "name": "Nights In Atlanta",
+      "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1111,6 +1111,22 @@
       "duration_ms": 125256,
       "name": "My Rocket",
       "url": "https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Everyone Loves A Comeback Story",
+        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+      },
+      "artists": [
+        {
+          "name": "Social Club Misfits",
+          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "I Can't Fail",
+      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1175,26 +1191,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 176938,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Everyone Loves A Comeback Story",
-        "url": "https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20"
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V"
       },
       "artists": [
         {
-          "name": "Social Club Misfits",
-          "url": "https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL"
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 202285,
-      "name": "I Can't Fail",
-      "url": "https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3"
+      "duration_ms": 176938,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
-      },
-      "artists": [
-        {
-          "name": "Miles Minnick",
-          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 127007,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "The Bottom Line",
         "url": "https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 147000,
       "name": "Hottest In The City (feat. EmanuelDaProphet)",
       "url": "https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB"
+      },
+      "artists": [
+        {
+          "name": "Miles Minnick",
+          "url": "https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        }
+      ],
+      "duration_ms": 127007,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Set It Off",
-        "url": "https://open.spotify.com/album/5bbHDe1IwX9SzY2a2vIOZz"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 153064,
-      "name": "Set It Off",
-      "url": "https://open.spotify.com/track/2HDe8vIeHgeAxGfQ9oexrW"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/7w5z53GPI298MihIj0CDZ3"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 123478,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6wbvE1aVv9d112MiP6sGkE"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Lord Knows",
+        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 182508,
+      "name": "Lord Knows",
+      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Lord Knows",
-        "url": "https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o"
+        "name": "Set It Off",
+        "url": "https://open.spotify.com/album/5bbHDe1IwX9SzY2a2vIOZz"
       },
       "artists": [
         {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 182508,
-      "name": "Lord Knows",
-      "url": "https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8"
+      "duration_ms": 153064,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/2HDe8vIeHgeAxGfQ9oexrW"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+        "name": "NOTHING BUT JESUS",
+        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         }
       ],
-      "duration_ms": 127058,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+      "duration_ms": 157885,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1611,22 +1607,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "NOTHING BUT JESUS",
-        "url": "https://open.spotify.com/album/73kSxdjVUAjLoFNUsWITYw"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 157885,
-      "name": "NOTHING",
-      "url": "https://open.spotify.com/track/2V4HIVB9Iv35XbCCPXpT1f"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "josiah.",
         "url": "https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 129696,
       "name": "josiah.",
       "url": "https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1703,18 +1703,22 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Deep Cuts",
-        "url": "https://open.spotify.com/album/57yLZZ78kKXmXQm1O5YUbp"
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
       },
       "artists": [
         {
-          "name": "PEABOD",
-          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        },
+        {
+          "name": "WEARETHEGOOD",
+          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Deep Cuts",
-      "url": "https://open.spotify.com/track/68mQ2H5BymI1HBLYAfJ93p"
+      "duration_ms": 197064,
+      "name": "Underdogs",
+      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1735,6 +1739,22 @@
       "duration_ms": 176629,
       "name": "MY HAPPY",
       "url": "https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd"
+    },
+    {
+      "added_at": "2023-04-28 12:30:31",
+      "album": {
+        "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/57yLZZ78kKXmXQm1O5YUbp"
+      },
+      "artists": [
+        {
+          "name": "PEABOD",
+          "url": "https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Deep Cuts",
+      "url": "https://open.spotify.com/track/68mQ2H5BymI1HBLYAfJ93p"
     },
     {
       "added_at": "2023-04-28 12:30:31",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/79zwjuwYBzmNCb02pzfqU6"
-      },
-      "artists": [
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        },
-        {
-          "name": "WEARETHEGOOD",
-          "url": "https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw"
-        }
-      ],
-      "duration_ms": 197064,
-      "name": "Underdogs",
-      "url": "https://open.spotify.com/track/218cnoqyQzKOxxwG3H9XAO"
-    },
-    {
-      "added_at": "2023-04-28 12:30:31",
-      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/3t3o84HxUhmkJmK9tT4OIw"
       },
@@ -1827,26 +1827,26 @@
     {
       "added_at": "2023-04-28 12:30:31",
       "album": {
-        "name": "His Side",
-        "url": "https://open.spotify.com/album/36zM9eHQoog3Q6heEKS8oM"
+        "name": "Sunflowers",
+        "url": "https://open.spotify.com/album/7EjRh7xBeXvsChw183XoZT"
       },
       "artists": [
         {
-          "name": "Nu Tone",
-          "url": "https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA"
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         },
         {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+          "name": "Vito OT",
+          "url": "https://open.spotify.com/artist/3Rt9X66ZP43DP6Lxh9MhQ1"
         },
         {
-          "name": "Donovan S Davis",
-          "url": "https://open.spotify.com/artist/0TFdFr9txM1H9eKYfjLnrG"
+          "name": "Spencer Boliou",
+          "url": "https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx"
         }
       ],
-      "duration_ms": 168003,
-      "name": "His Side",
-      "url": "https://open.spotify.com/track/0cRW46pGOJxKPEKZPvljIE"
+      "duration_ms": 178560,
+      "name": "Sunflowers",
+      "url": "https://open.spotify.com/track/3OPqM7GGmM8vDjcySRncV3"
     }
   ],
   "unique_name": "The Flow",

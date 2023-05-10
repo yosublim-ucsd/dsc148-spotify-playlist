@@ -556,7 +556,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 264748,
       "name": "Bu Izd\u0131rab\u0131n Panzehiri",
       "url": "https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 164388,
       "name": "Incendio",
       "url": "https://open.spotify.com/track/3Ju42J1sFmVpxkGGSFpcWb"
@@ -2494,7 +2494,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 218000,
       "name": "Signal (Maral Remix)",
       "url": "https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD"
@@ -2954,6 +2954,28 @@
       "duration_ms": 135773,
       "name": "Trececerotres",
       "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "album": {
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221199,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
     },
     {
       "album": {

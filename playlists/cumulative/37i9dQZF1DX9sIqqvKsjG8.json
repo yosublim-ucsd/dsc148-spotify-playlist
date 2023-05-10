@@ -610,7 +610,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 136691,
       "name": "Adormitor",
       "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
@@ -1478,7 +1478,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 150374,
       "name": "Aviron",
       "url": "https://open.spotify.com/track/6AZJTapFookh7e2ot25hZE"
@@ -4061,6 +4061,24 @@
     },
     {
       "album": {
+        "name": "Free Falling",
+        "url": "https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe"
+      },
+      "artists": [
+        {
+          "name": "Madelene Olsson",
+          "url": "https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv"
+    },
+    {
+      "album": {
         "name": "Fr\u00fchlingsbach",
         "url": "https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb"
       },
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 150000,
       "name": "Gravitat",
       "url": "https://open.spotify.com/track/3pYRI1DeHnAu5MDsQxdR1U"
@@ -4944,7 +4962,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 162307,
       "name": "Im Garten nebenan",
       "url": "https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ"
@@ -6301,6 +6319,24 @@
     },
     {
       "album": {
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
+    },
+    {
+      "album": {
         "name": "Logos",
         "url": "https://open.spotify.com/album/5cSRtnoXDrQzAIpROZ8TZc"
       },
@@ -6528,7 +6564,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 135240,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1"
@@ -6852,7 +6888,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 134466,
       "name": "Minuit \u00e0 Paris",
       "url": "https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6"
@@ -7500,7 +7536,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 176627,
       "name": "O Soave Fanciulla",
       "url": "https://open.spotify.com/track/5HQp593kflHm8LV12MepjR"
@@ -10010,7 +10046,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 156874,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4IxookD1BNLw6MuDOa70la"
@@ -10313,6 +10349,28 @@
     },
     {
       "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG"
+      },
+      "artists": [
+        {
+          "name": "Jacopo Croci",
+          "url": "https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G"
+        },
+        {
+          "name": "Luca Mazzillo",
+          "url": "https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162921,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC"
+    },
+    {
+      "album": {
         "name": "Supine",
         "url": "https://open.spotify.com/album/55WONvD6G2WMrurYYtR9Wb"
       },
@@ -10342,7 +10400,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 141791,
       "name": "Sweet Alyssum",
       "url": "https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw"
@@ -12114,7 +12172,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 169374,
       "name": "Volga",
       "url": "https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p"
@@ -12294,7 +12352,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 136124,
       "name": "What We Used To Say",
       "url": "https://open.spotify.com/track/43puambWzfUexLaMUVfR4H"
@@ -12406,6 +12464,24 @@
       "duration_ms": 155660,
       "name": "Whisper Trail",
       "url": "https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB"
+    },
+    {
+      "album": {
+        "name": "Whispering Keys",
+        "url": "https://open.spotify.com/album/6v4hXLjbm5ECFGyGpg9nHB"
+      },
+      "artists": [
+        {
+          "name": "Lou Maxence",
+          "url": "https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119605,
+      "name": "Whispering Keys",
+      "url": "https://open.spotify.com/track/4k8IkMaNrLu4MYdzCs0vF1"
     },
     {
       "album": {
@@ -12532,6 +12608,24 @@
       "duration_ms": 164000,
       "name": "Without A Care",
       "url": "https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/1cEiIlbGm5vs7RHf7rwSnR"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157250,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3"
     },
     {
       "album": {

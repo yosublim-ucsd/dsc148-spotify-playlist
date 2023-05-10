@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف:عبد المجيد عبدالله
+> اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: ايمن قصيلة
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,102 likes - 41 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,202 likes - 41 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 |
-| 2 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Ayman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
+| 1 | [Qalt Habiby](https://open.spotify.com/track/6tz18XXepNwclwplcUpGO9) | [Ayman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Qalt Habiby](https://open.spotify.com/album/1DNvSjT7MA0CB9o0EwE1sG) | 4:05 |
+| 2 | [يا ابن الأوادم](https://open.spotify.com/track/4tKBEzm5jPrV4b1GYZnN2P) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [عالم موازي](https://open.spotify.com/album/3wewNeaWmRu0BLcxGdBinQ) | 4:55 |
 | 3 | [الفين باب](https://open.spotify.com/track/3quHorw9IRJWtWaZKpl6I1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [الفين باب](https://open.spotify.com/album/2dDhZcyv8bmPbpbJlX4QSh) | 4:45 |
 | 4 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 |
 | 5 | [Fahem](https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai) | [Abass Ibrahim](https://open.spotify.com/artist/24GgPBu7p3GhaMVvIMAk8T) | [Mant Fahem](https://open.spotify.com/album/3jk49p7zeBgUYG8ANRDP42) | 5:01 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 40 | [Elhubb Ja](https://open.spotify.com/track/6dNsnqDf8c5aBUZW7V2Oqh) | [Salah Alzadjali](https://open.spotify.com/artist/5B14NO9B5J7hKVfyttzrpH) | [Elhubb Ja](https://open.spotify.com/album/42tevSQ1DPLBGr8BgQfh3e) | 4:36 |
 | 41 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 |
 
-Snapshot ID: `MCw2ZmE4ZDRlNGUyYTRiZDY3NTZiYzQ5MjNkNjNkODg1NTFlODJlNTdi`
+Snapshot ID: `MCwyNTUyOGFlYjZlZTdlMTNjMDhlYTQwYTMyNjZlMGM2M2RjMTQyMDAx`

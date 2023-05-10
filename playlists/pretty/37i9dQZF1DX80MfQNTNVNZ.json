@@ -1,12 +1,12 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 136964,
+  "num_followers": 137085,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWMyMWFiZGRjZDUxZTIwOGQxZThlNjRkMmU0MzVkODA1MmM4YzMz",
+  "snapshot_id": "MCw0NzQ0MWQ3M2YzODVmNWM5MDkwYmFkYTEzNGMxNzJkMWZlZDhkZWNi",
   "tracks": [
     {
       "added_at": "2023-04-27 16:24:16",
@@ -963,26 +963,22 @@
     {
       "added_at": "2023-04-27 16:24:16",
       "album": {
-        "name": "Gimme (feat. Koffee & Jessie Reyez)",
-        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         },
         {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        },
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 172113,
-      "name": "Gimme (feat. Koffee & Jessie Reyez)",
-      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
+      "duration_ms": 269413,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
     },
     {
       "added_at": "2023-04-27 16:24:16",
@@ -1003,22 +999,26 @@
     {
       "added_at": "2023-04-27 16:24:16",
       "album": {
-        "name": "Sometimes I Might Be Introvert",
-        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
+        "name": "Gimme (feat. Koffee & Jessie Reyez)",
+        "url": "https://open.spotify.com/album/29euLJqXMHYLi2q2OBnoQ6"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        },
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
         }
       ],
-      "duration_ms": 269413,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+      "duration_ms": 172113,
+      "name": "Gimme (feat. Koffee & Jessie Reyez)",
+      "url": "https://open.spotify.com/track/2GGN92tO0UbNAYrbMbQ4bf"
     },
     {
       "added_at": "2023-04-27 16:24:16",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2023-04-27 16:24:16",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T"
+        "name": "Sometimes I Might Be Introvert",
+        "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 247805,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg"
+      "duration_ms": 185600,
+      "name": "Point and Kill",
+      "url": "https://open.spotify.com/track/52y4KhkcAbYcogFg2u7UVP"
     }
   ],
   "unique_name": "aloe",

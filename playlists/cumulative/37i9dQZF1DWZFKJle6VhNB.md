@@ -4,13 +4,14 @@
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-169 songs - 8 hr 54 min
+170 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [50 Reais](https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [50 Reais](https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6) | 3:27 | 2022-02-10 |  |
 | [A Lenda](https://open.spotify.com/track/1mBaOJ4OPDqJBMp0luG7Ej) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [As Quatro Estações \(Ao Vivo\)](https://open.spotify.com/album/6TtQt38vkUQkbIljv80oB2) | 4:31 | 2022-02-10 |  |
 | [Agora é Tudo Meu](https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Agora é Tudo Meu](https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g) | 2:51 | 2022-02-10 |  |
+| [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/2yd5ZA1q3w6jdE03eVrGHU) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Ai Se Eu Te Pego \(Ao Vivo\)](https://open.spotify.com/album/4AYFuW0Ke3eEnGFq66znnL) | 2:46 | 2022-02-10 |  |
 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/29vem0DsWK4224LQyxcmA5) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/2uQbJXZlyt1wJkRsfwETLc) | 2:50 | 2022-02-10 | 2023-05-07 |
 | [Ai Se Eu Te Pego \- Ao Vivo](https://open.spotify.com/track/46aIq2GKW7Vr6i4g2Vvycd) | [Michel Teló](https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA) | [Na Balada \(Ao Vivo\)](https://open.spotify.com/album/4urZPIaswCaFNXZoZ3adkw) | 2:50 | 2022-02-10 | 2023-04-28 |
 | [Amor de Chocolate](https://open.spotify.com/track/0MC7aaYm9G2sGZ8B0uxPtw) | [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU) | [Fundamental \- Naldo Benny](https://open.spotify.com/album/4yABgowbqRbG9jQLUxBxl8) | 3:38 | 2022-02-10 |  |
@@ -140,7 +141,7 @@
 | [Rebolation \- Ao Vivo](https://open.spotify.com/track/2sKJMf3efNnJKt7HlEvzz8) | [Parangolé](https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf) | [Todo Mundo Gosta \- Ao Vivo](https://open.spotify.com/album/4mzY8dt9I96KhdgYqUcxm5) | 3:16 | 2022-02-10 | 2022-07-27 |
 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 | 2022-02-10 |  |
 | [Sacanagenzinha \(Ao Vivo\)](https://open.spotify.com/track/3ugHD1hbqLwHl4ubH72EbU) | [Harmonia Do Samba](https://open.spotify.com/artist/3o1Lr9yRGJJhhLlVQFObfC), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Sacanagenzinha \(Ao Vivo\)](https://open.spotify.com/album/4zNaIysl3maMox9VwVLVCu) | 2:16 | 2022-02-10 | 2022-07-29 |
-| [Santinha \- Ao Vivo](https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [\#Bailedasantinha \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm) | 5:10 | 2022-02-10 |  |
+| [Santinha \- Ao Vivo](https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [\#Bailedasantinha \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm) | 5:10 | 2022-02-10 | 2023-05-10 |
 | [SENTADÃO](https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [SENTADÃO](https://open.spotify.com/album/6kMwu0LljP1LlrzpQPlvvQ) | 2:23 | 2022-02-10 |  |
 | [Sentou e Gostou](https://open.spotify.com/track/6AQHdnPnoNoSpCJIO23KsX) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/3sJqcWFctdmFYTiuhQ5TYe) | 2:43 | 2022-02-10 |  |
 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 | 2022-02-10 | 2022-07-29 |

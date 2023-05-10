@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5?si=ccd26b8deb094ff3">Abbie Gamboa</a>
 
-365 songs - 1 day 11 hr 33 min
+366 songs - 1 day 11 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,8 @@
 | [pure](https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH) | [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [pure](https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0) | 5:56 | 2023-05-05 |  |
 | [Pursuit \(As The Deer\) \- Live](https://open.spotify.com/track/64uiNB4EjCTBD9PzYEhuUa) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Chardon Lewis](https://open.spotify.com/artist/45LYhTlK3RpgFCIvO8fMcx) | [Pursuit \(As The Deer\) \[Live\]](https://open.spotify.com/album/3zhZEfigz0EQOISW37bx2F) | 6:14 | 2022-10-28 |  |
 | [Reflection](https://open.spotify.com/track/7EV5YGeMxguEhWFZZJi21V) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Reflection](https://open.spotify.com/album/7qDEjJbSBc4xBKZhoiEwGw) | 5:33 | 2023-05-05 |  |
-| [Rejoice](https://open.spotify.com/track/7GUpDKXuFJ161rnYt4e0Lu) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 9:01 | 2022-06-10 |  |
+| [Rejoice](https://open.spotify.com/track/5veHy0qzJ3sESiWOEj8Fq0) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [I Met Jesus In Miami](https://open.spotify.com/album/0ne1BFbmYUj1OClXGHLp7A) | 9:01 | 2023-05-05 |  |
+| [Rejoice](https://open.spotify.com/track/7GUpDKXuFJ161rnYt4e0Lu) | [VOUS Worship](https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [I Met Jesus In Miami](https://open.spotify.com/album/5AoqaPhWwaCy49vv73guSG) | 9:01 | 2022-06-10 | 2023-05-10 |
 | [Remain \- Live](https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7) | [Victory Worship](https://open.spotify.com/artist/5xoFIcjRRy0KJV4U1yWrrs), [Jeremiah Mateola](https://open.spotify.com/artist/0ZfNmKnIS3AkQNqf4HFQTY), [Rozanne Hodgetts](https://open.spotify.com/artist/14fiyawUXDIsruSLGvFHgl) | [Living Breathing Miracle \(Live\)](https://open.spotify.com/album/2zdTQWfOky3jNoR5gKf67J) | 6:25 | 2023-01-13 |  |
 | [Repent \(What a Joy It Is\)](https://open.spotify.com/track/0BwlzhIgQSGdpGBVB2YOC9) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Repent \(What a Joy It Is\)](https://open.spotify.com/album/0vo60762vFtyyXPb7or37B) | 5:45 | 2022-02-25 | 2022-04-23 |
 | [Rest On Us \- Single Version](https://open.spotify.com/track/0XLwjUJ1XEiQQ0nx7LVMZr) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Rest On Us](https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX) | 3:44 | 2022-06-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > The most essential R&B songs from the 2000s\. Cover: Usher
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,369,938 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,371,148 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,15 +92,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 82 | [After Party](https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY) | [Koffee Brown](https://open.spotify.com/artist/6HEyD6mSqQQKMVilyU31ZY) | [Mars/Venus](https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv) | 3:34 |
 | 83 | [4Ever \(feat\. Fabolous\)](https://open.spotify.com/track/6ubNZ5edKBKH3MQKatUY3S) | [Lil' Mo](https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [4 Ever \(feat\. Fabolous\)](https://open.spotify.com/album/33virfI7yTPHbUXJnsVHHm) | 3:42 |
 | 84 | [Promise](https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:06 |
-| 85 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
-| 86 | [Bag Lady](https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Roy Ayres](https://open.spotify.com/artist/5Ql3HGIJWxuEjDpDkXfduq) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 5:48 |
-| 87 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/74jMwg2zsFMICzW3Wems6h) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Greatest Hits](https://open.spotify.com/album/5DimfXX31HuU0yxW0Ca5Uj) | 4:42 |
+| 85 | [Bag Lady](https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Roy Ayres](https://open.spotify.com/artist/5Ql3HGIJWxuEjDpDkXfduq) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 5:48 |
+| 86 | [Bump, Bump, Bump \(feat\. P\. Diddy\)](https://open.spotify.com/track/74jMwg2zsFMICzW3Wems6h) | [B2K](https://open.spotify.com/artist/51d3rUlLuMh7EW09aMe7yj), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Greatest Hits](https://open.spotify.com/album/5DimfXX31HuU0yxW0Ca5Uj) | 4:42 |
+| 87 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 88 | [Lovers Rock](https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:13 |
 | 89 | [Unpredictable \(feat\. Ludacris\) \- Main](https://open.spotify.com/track/3UNrtRxBBlWE70SjxnOo02) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Unpredictable](https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve) | 3:39 |
 | 90 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 |
-| 91 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 |
+| 91 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
 | 92 | [My First Love](https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:28 |
-| 93 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
+| 93 | [Wifey](https://open.spotify.com/track/3NEzjZbeSCy72Kx1clSYgC) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Platinum & Gold Collection](https://open.spotify.com/album/6OlIbU9i7OaBrBqx7ZYAFS) | 4:03 |
 | 94 | [Do You](https://open.spotify.com/track/0JKjqJLo145b1mqA6MnhIl) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Because Of You](https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg) | 3:48 |
 | 95 | [Torn](https://open.spotify.com/track/6GPiKalxD23rJirHKJm00X) | [LeToya](https://open.spotify.com/artist/5xenrbYhp4IRydrWpBe4Bx) | [Torn](https://open.spotify.com/album/0qEfwM5awxL1CIUXMDE1ah) | 4:09 |
 | 96 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 99 | [Case Of The Ex \(Whatcha Gonna Do\)](https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Fear Of Flying](https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7) | 3:56 |
 | 100 | [A Long Walk](https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:40 |
 
-Snapshot ID: `MCxkYmNmYzY2MjBmMzc5MDY0MmYxNDkzYzY1YTk5ZGNkZGU2ZWU4YzAy`
+Snapshot ID: `MCwzYTUyOWVlMjZkYmUzZDhjZWFiZGY3ODk1NjNlYTFlNTJmMzAyZDVk`

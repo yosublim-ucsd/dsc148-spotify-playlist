@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 
 > This is Ulices Chaidez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,506 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,532 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 11 | [Mirate Nomas \(En Vivo\)](https://open.spotify.com/track/1ENsFKcyksWFyXNQlWCI1c) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 3:18 |
 | 12 | [No Nos Tocaba](https://open.spotify.com/track/6Yd8cFa5smYVyZplghtNxf) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:48 |
 | 13 | [Que Bonito](https://open.spotify.com/track/62cbdhrqPSuqcOMoRr2aff) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Que Bonito](https://open.spotify.com/album/1eZNRAvmGiQqBtHDNEDrUr) | 2:40 |
-| 14 | [Corona de Rosas](https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Corona de Rosas](https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0) | 2:39 |
-| 15 | [Para Ti Papá](https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Para Ti Papá](https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU) | 4:14 |
+| 14 | [Para Ti Papá](https://open.spotify.com/track/1kqSCTQ2KReQ2bzmEcFvnI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Para Ti Papá](https://open.spotify.com/album/383d57AAMCzhhvbc1RKGZU) | 4:14 |
+| 15 | [Corona de Rosas](https://open.spotify.com/track/6mdO5yKXfg93yFtbzrvDSw) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Corona de Rosas](https://open.spotify.com/album/4Q1qX0p6dMP8akFAvJQsw0) | 2:39 |
 | 16 | [Nunca Valiste Tanto \(En Vivo\)](https://open.spotify.com/track/58zCeobzx6kDpn6iebGK1z) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Un Día a La Vez \(En Vivo\)](https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb) | 3:15 |
 | 17 | [Cómo Los Vaqueros](https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:18 |
 | 18 | [Andamos En El Ruedo](https://open.spotify.com/track/2azbAaKzJqSueV04vjqSaL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 2:46 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 27 | [Después No Hay Después](https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:18 |
 | 28 | [Señora](https://open.spotify.com/track/5rplIeikQOyojaE1EymFAr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Señora](https://open.spotify.com/album/65xBKn2KUEA9WmEf8sv3vH) | 4:08 |
 | 29 | [Déjame Decirle](https://open.spotify.com/track/4VIgDfzTKpHqRnxQqF3lum) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:13 |
-| 30 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 |
-| 31 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
-| 32 | [Las Enseñanzas](https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Brincale al Toro](https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy) | 2:58 |
+| 30 | [Porque Llegaste Tu](https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:04 |
+| 31 | [Voy a Echarme Otra](https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 3:38 |
+| 32 | [11:11](https://open.spotify.com/track/76dGkDoNsU71kNhaU1idY9) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:55 |
 | 33 | [Quería Que Llorarás](https://open.spotify.com/track/7C9YdiSZd6zCiAxBCc2j8K) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 2:58 |
-| 34 | [Si Mañana Muero](https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Mañana Muero](https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA) | 4:39 |
-| 35 | [Contigo](https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:46 |
-| 36 | [De Nuevo De Cero](https://open.spotify.com/track/6IaWOdcfVuVxftkM52cmqN) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 2:35 |
-| 37 | [Porque Llegaste Tu](https://open.spotify.com/track/2heShBrEZjTXq9m3PYXmiM) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:04 |
+| 34 | [Las Enseñanzas](https://open.spotify.com/track/7ke7RmdPVzXXzwodE7ybWL) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Brincale al Toro](https://open.spotify.com/album/26xTndLgiLMRRBg3YOP5Uy) | 2:58 |
+| 35 | [Si Mañana Muero](https://open.spotify.com/track/64i6Y3siWfXmTrYYWBfTq7) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Si Mañana Muero](https://open.spotify.com/album/2M6ON2uGKmvDVrsYZUxoEA) | 4:39 |
+| 36 | [Contigo](https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [11:11](https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI) | 2:46 |
+| 37 | [De Nuevo De Cero](https://open.spotify.com/track/6IaWOdcfVuVxftkM52cmqN) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 2:35 |
 | 38 | [Te Robaré Una Noche](https://open.spotify.com/track/0mFqbVgfpiDN4K56YCPuAz) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:58 |
 | 39 | [La Vida Del Dorian](https://open.spotify.com/track/0Ym47PchDzF9BpPZX5D7d8) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [La Vida Del Dorian](https://open.spotify.com/album/4SZe7eStLJe6PmF6wFtxVf) | 3:44 |
 | 40 | [Tenía Que Ser Así](https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 3:11 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3a8KAu.md) - [plain]
 | 48 | [Merecerte Hoy](https://open.spotify.com/track/4SaHMGZ6kbEtGkJISqy2VI) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Tenía Que Ser Así](https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED) | 2:46 |
 | 49 | [Toditos Somos Iguales](https://open.spotify.com/track/0LOpgb0ONsd2NRtzTiOlFy) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Seguimos En El Ruedo](https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5) | 2:35 |
 | 50 | [A Ver Quien Duele Mas](https://open.spotify.com/track/6t7Gq6XVeWWCW97bKBxmGw) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [A Ver Quien Duele Mas](https://open.spotify.com/album/2by3jWdHcAHqjc2K87va1x) | 4:03 |
-| 51 | [Como los Vaqueros](https://open.spotify.com/track/1lBnKbkoSwDzRFOa2SydJi) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [El Elegido](https://open.spotify.com/album/07BCyJcnTdTSzeV0XhWH3t) | 3:28 |
+| 51 | [¿Como?](https://open.spotify.com/track/2ZXgyCqFZy0zwhj8LNWIP5) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Por Ti](https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo) | 3:07 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDA4OGQzYWMwMmJlYzcxODRjYWIzYmE0ZmViNDBmZDFkOQ==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAyMGUwOTQ5YWU1OGUzNDY0M2U1OTRjYTYyMzQ2ZDY0OQ==`

@@ -1,12 +1,12 @@
 {
   "description": "Cuddle up and relax with these country tunes.",
-  "num_followers": 30767,
+  "num_followers": 30818,
   "original_name": "Cozy Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmJjZWM1ZTVmNTM3MTU0NDc5MTU3MjhjZjliZDUwYTIxOWI1NzUy",
+  "snapshot_id": "MCxhYTBhYzJkMGM5N2I3MzAyYTVkMGJhM2IwMGQzYzRhMjg3MDYxYTNj",
   "tracks": [
     {
       "added_at": "2023-04-21 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Lady Like",
-        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "More Hearts Than Mine",
-      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Lady Like",
+        "url": "https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "More Hearts Than Mine",
+      "url": "https://open.spotify.com/track/60RFlt48hm0l4Fu0JoccOl"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "The Outsiders",
-        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 262280,
-      "name": "Talladega",
-      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "Untamed",
         "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 231333,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+    },
+    {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "The Outsiders",
+        "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 262280,
+      "name": "Talladega",
+      "url": "https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+        "name": "Dylan Marlowe",
+        "url": "https://open.spotify.com/album/1Cn8tdli6qxfcmhTQ8RcnY"
       },
       "artists": [
         {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
+      "duration_ms": 185144,
+      "name": "All About It",
+      "url": "https://open.spotify.com/track/0j2e7Gu19gy0ZqIOQyN4xj"
     }
   ],
   "unique_name": "Cozy Country",

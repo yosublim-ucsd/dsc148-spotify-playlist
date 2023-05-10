@@ -1,12 +1,12 @@
 {
   "description": "Lately I've been dressing for revenge",
-  "num_followers": 975049,
+  "num_followers": 976152,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDM5YzFjYTQzNTk0NDFhYTNkNTBiYzZmOGJkM2UxNzdiNDNjMjUx",
+  "snapshot_id": "MCwzOGQ2ZDc0ZjhlODNmODVjMzMxY2Q3NGIzMWRiNTA2M2ZmMmU0OWI0",
   "tracks": [
     {
       "added_at": "2023-02-03 21:18:44",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
+        "name": "Cavetown",
+        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 179955,
+      "name": "Devil Town",
+      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
         "name": "O My Heart",
         "url": "https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 244760,
       "name": "Bloody Mary",
       "url": "https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
-        "name": "Cavetown",
-        "url": "https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 179955,
-      "name": "Devil Town",
-      "url": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 175493,
+      "name": "Ain't No Rest for the Wicked",
+      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
+    },
+    {
       "added_at": "2023-03-22 22:58:28",
       "album": {
         "name": "We Go Down Together (with Khalid)",
@@ -767,22 +783,6 @@
       "duration_ms": 184963,
       "name": "We Go Down Together (with Khalid)",
       "url": "https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Ain't No Rest for the Wicked",
-      "url": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
+        "name": "The Golden Age",
+        "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+      },
+      "artists": [
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "Run Boy Run",
+      "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
         "name": "The Animals",
         "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
       },
@@ -1175,18 +1191,30 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "The Golden Age",
-        "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
+        "name": "ALL OUT",
+        "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
       },
       "artists": [
         {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
+          "name": "K/DA",
+          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+        },
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 213266,
-      "name": "Run Boy Run",
-      "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+      "duration_ms": 199125,
+      "name": "VILLAIN",
+      "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1223,34 +1251,6 @@
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
-        "name": "ALL OUT",
-        "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
-      },
-      "artists": [
-        {
-          "name": "K/DA",
-          "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
-        },
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        },
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "VILLAIN",
-      "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 257053,
-      "name": "Lithium",
-      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "Cradles",
         "url": "https://open.spotify.com/album/746AA6hN51bj4yUlGBHgUX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 209829,
       "name": "Cradles",
       "url": "https://open.spotify.com/track/5sSYvDVyP0CP9TUiqy3fuF"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 257053,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "I'm Sorry...",
-        "url": "https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Wires",
-      "url": "https://open.spotify.com/track/5v8aEcHcaJIGYpfVVPtJjI"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "abcdefu (angrier)",
         "url": "https://open.spotify.com/album/23M1xUF2RoRSvXtpwQP4rJ"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 159836,
       "name": "abcdefu (angrier)",
       "url": "https://open.spotify.com/track/1EQFOouqdKYdpbNoOHRVO2"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "I'm Sorry...",
+        "url": "https://open.spotify.com/album/4hRjuAxpm9X6h1H95QVgJ9"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Wires",
+      "url": "https://open.spotify.com/track/5v8aEcHcaJIGYpfVVPtJjI"
     },
     {
       "added_at": "2023-02-03 21:18:44",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-02-03 21:18:44",
       "album": {
-        "name": "Dangerous Woman",
-        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 235946,
-      "name": "Dangerous Woman",
-      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
-    },
-    {
-      "added_at": "2023-02-03 21:18:44",
-      "album": {
         "name": "The Runaways",
         "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 138706,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
+    },
+    {
+      "added_at": "2023-02-03 21:18:44",
+      "album": {
+        "name": "Dangerous Woman",
+        "url": "https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 235946,
+      "name": "Dangerous Woman",
+      "url": "https://open.spotify.com/track/6RUhbFEhrvGISaQ8u2j2JN"
     },
     {
       "added_at": "2023-02-03 21:18:44",

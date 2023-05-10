@@ -4,7 +4,7 @@
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-251 songs - 10 hr 59 min
+252 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Avientense Todos](https://open.spotify.com/track/0uwJPoeNBIXtwMNRhPEl5K) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 2:06 | 2020-04-17 | 2022-07-25 |
 | [Avientense Todos](https://open.spotify.com/track/32kVN6PscmfBfSG9jy6gTg) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 2:06 | 2020-04-17 | 2022-07-28 |
 | [Avientense Todos](https://open.spotify.com/track/59V9ZorlWoxEM6bUAqqtnx) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Pólvora](https://open.spotify.com/album/6JIa7qlgXYi5SQ9us8tr3a) | 2:06 | 2020-04-17 |  |
-| [Ay Preciosa](https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 3:03 | 2020-04-17 |  |
+| [Ay Preciosa](https://open.spotify.com/track/4gbCzon8Z58sdMUKac8C4Q) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 3:03 | 2020-04-17 | 2023-05-10 |
 | [Ay Preciosa](https://open.spotify.com/track/62XFP0MQK1naJJZ9rogTKD) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Idolos del Rock](https://open.spotify.com/album/3noLqOqUNBHAklGVJBfivo) | 3:03 | 2020-04-17 | 2022-07-19 |
 | [Bep Bop A Lula](https://open.spotify.com/track/5xxUnLAlsWIiwiVA3qHGEQ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 3:22 | 2020-04-17 | 2022-07-13 |
 | [Besos por Telefono](https://open.spotify.com/track/39G6HswUvV0jPexFBzgAjQ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj) | 2:57 | 2020-04-17 | 2022-07-29 |
@@ -88,7 +88,7 @@
 | [Eddy Eddy](https://open.spotify.com/track/5zFjvUEEQEU1H5oZWeuA9C) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J) | 2:31 | 2020-04-17 |  |
 | [El Bikini Amarillo](https://open.spotify.com/track/0zk9626vnVuwb3eEFKB69k) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Idolos del Rock](https://open.spotify.com/album/796rbHwswuXttLOFmj8IJy) | 2:33 | 2020-04-17 |  |
 | [El Boogie De La Guitarra](https://open.spotify.com/track/48cEguH7oiubCgVL6T3YK3) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 3:03 | 2020-04-17 | 2022-07-29 |
-| [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 | 2020-04-17 |  |
+| [El Boogie de la Guitarra](https://open.spotify.com/track/7xBPsrdhuTa6R9lQlBVGzJ) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 3:04 | 2020-04-17 | 2023-05-10 |
 | [El caramelero](https://open.spotify.com/track/6H7jjJ2WPXdM56DkYams4s) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Idolos del Rock & Roll \- Alberto Vazquez](https://open.spotify.com/album/1k4042gbahCtD4v3viiQ8L) | 3:05 | 2020-04-17 | 2022-07-14 |
 | [El Esqueleto](https://open.spotify.com/track/1vSBPw23dARiJyon6Ttoj7) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:45 | 2020-04-17 |  |
 | [El Juego de Simon](https://open.spotify.com/track/2U02m7NXtYdD4WVMGD6U9i) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [100 Años de Musica](https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO) | 2:24 | 2020-04-17 | 2022-07-29 |
@@ -99,6 +99,7 @@
 | [El Pecador](https://open.spotify.com/track/5k6fOcv3B7sE6V1uZ5kwb6) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Exitos Baladas \- Alberto Vazquez](https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX) | 3:20 | 2020-04-17 | 2022-07-29 |
 | [El Primer Beso](https://open.spotify.com/track/7zU8MbMRmSUs5opM9z5Kdh) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boys](https://open.spotify.com/album/4RQujlGcEP0Mfa96ZVkkhD) | 2:41 | 2020-04-17 | 2022-07-21 |
 | [El Primer Beso](https://open.spotify.com/track/7dpZ4d47HlWfLUCyidiDKD) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Los Exitos de Oro de Los Crazy Boy's](https://open.spotify.com/album/5lG5OkHggw53C1VkNRFzqh) | 2:42 | 2020-04-17 |  |
+| [El Tigre](https://open.spotify.com/track/2MqQNwrDgJ53TedEeQtxzF) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Rock Con Manolo Muñoz, Vol\. 1](https://open.spotify.com/album/6I5vEMZ1ke0g2PJz8gJDlp) | 2:12 | 2020-04-17 |  |
 | [El Tigre](https://open.spotify.com/track/4bIUG6hvKOsVzbuBprHXuH) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Idolos del Rock](https://open.spotify.com/album/3noLqOqUNBHAklGVJBfivo) | 2:12 | 2020-04-17 | 2022-06-08 |
 | [Ella No Está Ahí](https://open.spotify.com/track/0pQY35zkNpzWhYT9187fxR) | [Polo](https://open.spotify.com/artist/4tiGY5k0vmyz1eLLppihMk) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:32 | 2020-04-17 | 2022-11-13 |
 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 | 2020-04-17 |  |
@@ -240,7 +241,7 @@
 | [Tu Significas Todo Para Mi](https://open.spotify.com/track/0ZXw2HZ4hFw8AM7mp2xfRF) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [Ballads del Rock](https://open.spotify.com/album/1o7i3eHMR0vxTLqGk81uUh) | 4:12 | 2020-04-17 |  |
 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 | 2020-04-17 |  |
 | [Twist del Perro](https://open.spotify.com/track/3cyUYWyKgvJVIMA2jYJmvo) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/6BWOXdSPnMbekP7fDAx1hH) | 2:19 | 2020-04-17 | 2022-07-25 |
-| [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 | 2020-04-17 | 2023-05-02 |
+| [Twist del Perro](https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0) | [Los Rogers](https://open.spotify.com/artist/2m7zyOAASO7A8ipy4XkDcC) | [15 Exitos del Rock & Roll](https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh) | 2:19 | 2020-04-17 |  |
 | [Un Gran Pedazo de Amor](https://open.spotify.com/track/44AxBLLvdhOUqjDvVC7hCC) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Polvora](https://open.spotify.com/album/3KefX7SdLViRTuFffsmmxq) | 2:25 | 2020-04-17 | 2022-07-07 |
 | [Un hombre respet](https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:29 | 2020-04-17 |  |
 | [Venus](https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 3:05 | 2020-04-17 | 2022-07-29 |

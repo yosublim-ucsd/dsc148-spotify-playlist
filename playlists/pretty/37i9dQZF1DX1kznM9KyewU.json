@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 65024,
+  "num_followers": 65072,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzNlOWFmOWEwNjY1ZDkxOGZiNjg4Njc4ZGRlMmM3NTgwMTNlOTM1",
+  "snapshot_id": "MCw0Mzc0ODc5ZjY0MWYxOGY3Y2Y4ZGZlYjExOWFkMWU2ZWRiNTU3MzBi",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 172466,
-      "name": "Why Don't You Get A Job",
-      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Keep The Faith",
         "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 394400,
       "name": "Bed Of Roses",
       "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 172466,
+      "name": "Why Don't You Get A Job",
+      "url": "https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Use Your Illusion II",
         "url": "https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 343640,
       "name": "You Could Be Mine",
       "url": "https://open.spotify.com/track/0dlTGl67UFWcKupzkxZYOn"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2022-11-17 16:12:41",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "Everything Must Go 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "A Design for Life - Remastered",
-      "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 258533,
       "name": "Stupid Girl - Remastered 2015",
       "url": "https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "Everything Must Go 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "A Design for Life - Remastered",
+      "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
     },
     {
       "added_at": "2022-11-17 16:12:41",

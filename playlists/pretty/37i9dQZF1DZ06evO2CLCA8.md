@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 4 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 |
 | 5 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 |
 | 6 | [Breakdown](https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:43 |
-| 7 | [Angel Dream \(No\. 4\)](https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [She's the One \(Songs and Music from the Motion Picture\)](https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto) | 2:27 |
+| 7 | [The Waiting](https://open.spotify.com/track/4ZA0EXmjnZIYguEMf0Mc88) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:58 |
 | 8 | [Don't Do Me Like That](https://open.spotify.com/track/5AzpZ5ADn1AFPxcEBd2Ugf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 2:41 |
-| 9 | [The Waiting](https://open.spotify.com/track/4ZA0EXmjnZIYguEMf0Mc88) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 3:58 |
+| 9 | [Angel Dream \(No\. 4\)](https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [She's the One \(Songs and Music from the Motion Picture\)](https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto) | 2:27 |
 | 10 | [Into The Great Wide Open](https://open.spotify.com/track/63xBnyUVKIupzjHno4wFs3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:43 |
 | 11 | [I Need to Know](https://open.spotify.com/track/26TpLkciA8vz3kAvSI5tHG) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [You're Gonna Get It!](https://open.spotify.com/album/5hULIIwBVNm3cinAAFmv1P) | 2:24 |
 | 12 | [Here Comes My Girl](https://open.spotify.com/track/685sEpLJe80Zzuxz3siOVT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 4:24 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 30 | [I Should Have Known It](https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 3:35 |
 | 31 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 |
 | 32 | [Needles And Pins \- Live At The The Forum/1981](https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Pack Up The Plantation: Live!](https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0) | 2:25 |
-| 33 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 |
-| 34 | [Change Of Heart](https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:18 |
+| 33 | [Change Of Heart](https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:18 |
+| 34 | [Insider](https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Hard Promises](https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3) | 4:20 |
 | 35 | [The Dark Of The Sun](https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Into The Great Wide Open](https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd) | 3:22 |
 | 36 | [Room at the Top](https://open.spotify.com/track/7By7UYWA21PcKoKCl8ZaI7) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 5:00 |
 | 37 | [Something Good Coming](https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CLCA8.md) - [plain]
 | 49 | [Rockin' Around \(With You\)](https://open.spotify.com/track/0inmDzoPyVU5PYVgHJ8y7b) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:29 |
 | 50 | [Good Enough](https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Mojo](https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ) | 5:50 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDAxYmM5NGZkMGViYTgxNWZmYTY4Njc0OThkYTU5YWY3NA==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDA0NDdjNTAzZjBjZTY1Y2M4ZGVlYWUzMDEzYzIyOTExMg==`

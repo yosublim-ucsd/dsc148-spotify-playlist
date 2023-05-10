@@ -4,11 +4,12 @@
 
 > To all the 7abieb out there\. Cover: Assala Nasri.
 
-117 songs - 7 hr 17 min
+118 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Daqat](https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [3 Daqat](https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6) | 4:35 | 2022-05-04 |  |
+| [3A Faw2a](https://open.spotify.com/track/0ytxL01ma8qk2YY1KINSnp) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/2okWWnFbcpdFYNBCxHhP4N) | 3:23 | 2023-05-01 |  |
 | [3A Faw2a](https://open.spotify.com/track/0boYXcfTfncE3Fj1NC7Idd) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [3A Faw2a](https://open.spotify.com/album/62IKmEjQBPbHReySk6hAg8) | 3:26 | 2022-05-04 | 2023-04-02 |
 | [Aam Betaala' Feek](https://open.spotify.com/track/3vVEtCxtdwSSC1qz2rSHLW) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 3:39 | 2022-07-25 |  |
 | [Aam Betaala' Feek \- عم بتعلق فيك](https://open.spotify.com/track/2BC0N2IXlbb0OdKp8DbNRj) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Hassa Beek \- حاسة بيك](https://open.spotify.com/album/1mdzvv893iZQZ5JYlrZjgR) | 3:39 | 2022-05-04 | 2022-07-29 |
@@ -38,7 +39,7 @@
 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 | 2022-07-21 |  |
 | [Bardo Betewhashni](https://open.spotify.com/track/6o25gM7QU4WmiZxCea7yNt) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg), [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Bardo Betewhashni](https://open.spotify.com/album/29mrsnZ7Pbq3OjHqX5qHBC) | 4:01 | 2022-05-04 |  |
 | [Bde'ellak](https://open.spotify.com/track/4g3dSoIjesUCD7MoyHD9zz) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Bde'ellak](https://open.spotify.com/album/6qMYqrsovsovPbl6EkSkhI) | 2:54 | 2022-05-04 |  |
-| [Beehom Kolohom](https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Beehom Kolohom](https://open.spotify.com/album/1TUpXSqsCKAT3nm6EJszhe) | 3:48 | 2022-05-04 |  |
+| [Beehom Kolohom](https://open.spotify.com/track/4yDzT37LAYRLnOgVDsZPCV) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Beehom Kolohom](https://open.spotify.com/album/1TUpXSqsCKAT3nm6EJszhe) | 3:48 | 2022-05-04 | 2023-05-10 |
 | [Bel Ahlam](https://open.spotify.com/track/2p6TxDI6Slpp69ZZxsCvqV) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [بالأحلام](https://open.spotify.com/album/4FK3MDZXQHciricJ7zUcop) | 2:49 | 2022-10-23 | 2023-03-18 |
 | [Btwhasheni](https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Btwhasheni](https://open.spotify.com/album/3M315U7mkSSUoxoUXv6M27) | 3:51 | 2022-05-04 |  |
 | [Craziness \- أصابك عشق](https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN) | [Abdulrahman Mohammed](https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl), [Mohab Omer](https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY) | [Craziness \- أصابك عشق](https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF) | 4:51 | 2022-05-04 |  |

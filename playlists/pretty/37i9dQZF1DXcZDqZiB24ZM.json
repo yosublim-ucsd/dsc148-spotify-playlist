@@ -1,12 +1,12 @@
 {
   "description": "Les essentiels du hip-hop qu\u00e9b\u00e9cois des derni\u00e8res ann\u00e9es. Photo: Dead Obies",
-  "num_followers": 7215,
+  "num_followers": 7221,
   "original_name": "Les nouveaux classiques",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmUwY2IzYjRiZjc4ODM2NDc4ZjVmMDJhNzIxYjNkY2JkMmE2NzA4",
+  "snapshot_id": "MCwwMDVjNTdiNWU4M2VhMmE0Y2NjOWEzOGFlYzA4NzNhYTYzMjExNGVi",
   "tracks": [
     {
       "added_at": "2022-03-11 05:02:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "5 / 5",
-        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 209235,
-      "name": "PLG",
-      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Cerb\u00e8re",
         "url": "https://open.spotify.com/album/4FXtD2a2crSUwtpZsrgsfA"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 237662,
       "name": "Bando",
       "url": "https://open.spotify.com/track/3TockaqZaBW4hPSP5UqdzE"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "5 / 5",
+        "url": "https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj"
+      },
+      "artists": [
+        {
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
+        }
+      ],
+      "duration_ms": 209235,
+      "name": "PLG",
+      "url": "https://open.spotify.com/track/0ecCGqrWllETh8IoQ357Wk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -847,38 +847,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Bonhomme Pendu (Chapitre 3)",
-        "url": "https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Sourire kabyle",
-        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
-      },
-      "artists": [
-        {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
-        }
-      ],
-      "duration_ms": 196410,
-      "name": "Jack Sparrow",
-      "url": "https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Ind\u00e9l\u00e9bile",
         "url": "https://open.spotify.com/album/3PeHK6ZLGxxjMOoNjFcLOf"
       },
@@ -895,6 +863,22 @@
       "duration_ms": 166835,
       "name": "Kr\u00e8ve",
       "url": "https://open.spotify.com/track/08jHhrkEDsMwHWIDEI7jD7"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Sourire kabyle",
+        "url": "https://open.spotify.com/album/5bjl2OsXC5O59ctm9UJXK9"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        }
+      ],
+      "duration_ms": 196410,
+      "name": "Jack Sparrow",
+      "url": "https://open.spotify.com/track/3l84IuZ7KdXYT1cFbDyh8G"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -919,6 +903,22 @@
       "duration_ms": 167418,
       "name": "B\u00e2timent",
       "url": "https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Bonhomme Pendu (Chapitre 3)",
+        "url": "https://open.spotify.com/album/590NTKVPSghzSqjd7QX5fn"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/6JmVD6HWmhgUKMqAz11qIk"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Les Fr\u00e8res Cueilleurs",
-        "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
-      },
-      "artists": [
-        {
-          "name": "Alaclair Ensemble",
-          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "\u00c7a que c'tait",
-      "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "La Nuit des Longs Couteaux",
         "url": "https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 283613,
       "name": "\u00c9l\u00e9phant",
       "url": "https://open.spotify.com/track/1FKWP1WvUxG0vXodvuO7HL"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Les Fr\u00e8res Cueilleurs",
+        "url": "https://open.spotify.com/album/5tSbeMQIFeJts8pPjkhLD6"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "duration_ms": 228092,
+      "name": "\u00c7a que c'tait",
+      "url": "https://open.spotify.com/track/72ZihdKBFqjHmITh7e6U2R"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1343,6 +1343,26 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Faya",
+        "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
+      },
+      "artists": [
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
+        },
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "duration_ms": 236657,
+      "name": "Faya",
+      "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Temple de la Renomm\u00e9e",
         "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 204988,
       "name": "Pavel Bure",
       "url": "https://open.spotify.com/track/5CXOwEgCeq7BQkUJc968S5"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Faya",
-        "url": "https://open.spotify.com/album/3NfTSM0rNXjI1k6aZLhD87"
-      },
-      "artists": [
-        {
-          "name": "MB",
-          "url": "https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU"
-        },
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        }
-      ],
-      "duration_ms": 236657,
-      "name": "Faya",
-      "url": "https://open.spotify.com/track/3ix3AVDfnEO88gxpCKtFAF"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Temple de la Renomm\u00e9e",
-        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+        "name": "II",
+        "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
       },
       "artists": [
         {
-          "name": "LES ANTICIPATEURS",
-          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
         }
       ],
-      "duration_ms": 227711,
-      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
-      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
+      "duration_ms": 193293,
+      "name": "Dollaz",
+      "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1PN3Kkwd2mOyIOOiRJkBAh"
-      },
-      "artists": [
-        {
-          "name": "TNGHT",
-          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "Dollaz",
-      "url": "https://open.spotify.com/track/2LI5ggYAq4MC7zmHhD3x9A"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "Blue Volvo",
         "url": "https://open.spotify.com/album/4s7S302I93Q2S9BTyGHqYc"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 251228,
       "name": "Xoxo",
       "url": "https://open.spotify.com/track/1oskigGKTv9ryFNO5Q8AVC"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Temple de la Renomm\u00e9e",
+        "url": "https://open.spotify.com/album/1OVEum6GHxESeZR4kyRt1A"
+      },
+      "artists": [
+        {
+          "name": "LES ANTICIPATEURS",
+          "url": "https://open.spotify.com/artist/74tb4BL2gQ28BJicVAWsdb"
+        }
+      ],
+      "duration_ms": 227711,
+      "name": "Parle-Mo\u00e9 Don D'\u00e7a",
+      "url": "https://open.spotify.com/track/6uWnhnk7qsOtZwZZwbRiDA"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
+        "name": "Henny",
+        "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
+      },
+      "artists": [
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "duration_ms": 227262,
+      "name": "Henny",
+      "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
         "name": "Aliens",
         "url": "https://open.spotify.com/album/7JU5YEYdVPaCvidQqMa8ke"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 180983,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/6tHFkpUYC9xjwqvICdhZkO"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
-        "name": "Henny",
-        "url": "https://open.spotify.com/album/0RgMc7wfq8zSRyYBoDSY6Z"
-      },
-      "artists": [
-        {
-          "name": "Enima",
-          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
-        }
-      ],
-      "duration_ms": 227262,
-      "name": "Henny",
-      "url": "https://open.spotify.com/track/2kr0AZ8R4zMR6aQu0Icnzp"
     },
     {
       "added_at": "2022-03-11 05:02:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2022-03-11 05:02:00",
       "album": {
-        "name": "Sainte-Foy",
-        "url": "https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g"
-      },
-      "artists": [
-        {
-          "name": "KNLO",
-          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
-        },
-        {
-          "name": "Micro",
-          "url": "https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5"
-        }
-      ],
-      "duration_ms": 252259,
-      "name": "\u00c7a fait mal",
-      "url": "https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1"
-    },
-    {
-      "added_at": "2022-03-11 05:02:00",
-      "album": {
         "name": "La Barquetterie",
         "url": "https://open.spotify.com/album/1NrmMEOZY5M0AwC1Dokqef"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 262800,
       "name": "Fais ton shift",
       "url": "https://open.spotify.com/track/4rXzUQCQQSfa8pybnq5Wok"
+    },
+    {
+      "added_at": "2022-03-11 05:02:00",
+      "album": {
+        "name": "Sainte-Foy",
+        "url": "https://open.spotify.com/album/7BEPwXmSWLXN8iaNP3683g"
+      },
+      "artists": [
+        {
+          "name": "KNLO",
+          "url": "https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV"
+        },
+        {
+          "name": "Micro",
+          "url": "https://open.spotify.com/artist/0QAE7vtf7znl9nN6822bM5"
+        }
+      ],
+      "duration_ms": 252259,
+      "name": "\u00c7a fait mal",
+      "url": "https://open.spotify.com/track/1sAB7fCrQ4YUIdoP24qlO1"
     },
     {
       "added_at": "2022-03-11 05:02:00",

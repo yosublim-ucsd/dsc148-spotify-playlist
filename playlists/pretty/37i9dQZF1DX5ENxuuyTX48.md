@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,669 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,762 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 28 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
 | 29 | [Santai](https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Santai](https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO) | 3:14 |
 | 30 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
-| 31 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
-| 32 | [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 |
-| 33 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
+| 31 | [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 |
+| 32 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
+| 33 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
 | 34 | [Jangan Cepat Berlalu](https://open.spotify.com/track/536YlC50Soxss5zuiJ9SJN) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:05 |
 | 35 | [Buka Hati](https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Merakit](https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp) | 3:20 |
 | 36 | [PadaMu Kubersujud \- Religi Islam](https://open.spotify.com/track/7zEfPbCxwSJXB4DGDBOrjc) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [PadaMu Kubersujud \(Religi Islam\)](https://open.spotify.com/album/3WbSafPqolU1eH5O38cBuL) | 3:24 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 41 | [Lagu Untuk Hari Ini](https://open.spotify.com/track/18FWPrC6EO02vBKI29F1N9) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Lagu Untuk Hari Ini](https://open.spotify.com/album/7Kp8QzGujjdNQdYFrPCKwf) | 3:38 |
 | 42 | [Heal](https://open.spotify.com/track/6UFpWtfMuJLgWZIqrB049f) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e), [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7), [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER), [Jona](https://open.spotify.com/artist/7LVPSD4kabI5LiXIVPI8tn), [Kyla](https://open.spotify.com/artist/2vTbuBRo7ACOZ3JsCnaL7S), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28), [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Rinni Wulandari](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [Shalma Eliana](https://open.spotify.com/artist/1FTe3sL0JqQ7ncd7fXvakq), [Xela](https://open.spotify.com/artist/1W058QfMEfehk2NClZH18h) | [Heal](https://open.spotify.com/album/4H5GSTSAa6kdkUSb7hTQWo) | 4:45 |
 | 43 | [Santai](https://open.spotify.com/track/3VdEnnRIfnDaKKq4xjlMCn) | [NonaRia](https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2) | [NonaRia](https://open.spotify.com/album/4v8NgbV1DNNItOJzT7Tywu) | 2:32 |
-| 44 | [Aku Tanpa CintaMu 2021](https://open.spotify.com/track/5946XCpAYjK0trq7naJE0S) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Mirwana](https://open.spotify.com/artist/6uA98wUGp8HJMZwIIPp4GE) | [QIBLA](https://open.spotify.com/album/1XxPZGV1e93gGSwnso00cV) | 2:45 |
-| 45 | [Hadir](https://open.spotify.com/track/3ZOnflxIUFZLokxZo87cpA) | [Rudeen](https://open.spotify.com/artist/7rbGFN00tHyGCKXH3ctR0f), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [Hadir](https://open.spotify.com/album/1euwE2avAJ4w1hUS0UpQmz) | 2:13 |
+| 44 | [Hadir](https://open.spotify.com/track/3ZOnflxIUFZLokxZo87cpA) | [Rudeen](https://open.spotify.com/artist/7rbGFN00tHyGCKXH3ctR0f), [Hullera](https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH) | [Hadir](https://open.spotify.com/album/1euwE2avAJ4w1hUS0UpQmz) | 2:13 |
+| 45 | [Aku Tanpa CintaMu 2021](https://open.spotify.com/track/5946XCpAYjK0trq7naJE0S) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk), [Mirwana](https://open.spotify.com/artist/6uA98wUGp8HJMZwIIPp4GE) | [QIBLA](https://open.spotify.com/album/1XxPZGV1e93gGSwnso00cV) | 2:45 |
 | 46 | [Ku Mohon](https://open.spotify.com/track/6ZypUMclVIm3YziM9cDCVR) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ku Mohon](https://open.spotify.com/album/5maxDRWhSlXbln4effsPPD) | 4:37 |
 | 47 | [Cinta Sederhana](https://open.spotify.com/track/5srmbaORKvTMUYpYME1fuy) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 3:23 |
 | 48 | [Friends \(with Pamungkas\)](https://open.spotify.com/track/2A8GaaJgqP0TcW6wmhly7n) | [Rendy Pandugo](https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8), [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Friends \(with Pamungkas\)](https://open.spotify.com/album/0IkIWfbpYlDL0fRUgUAfrm) | 3:19 |
 | 49 | [33x](https://open.spotify.com/track/0I3I9hgBRat6HR5Gzy26jx) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 7:14 |
 | 50 | [Anugerah Terindah](https://open.spotify.com/track/3thk64qVZxCjkuTgzfrdon) | [Alif Satar & The Locos](https://open.spotify.com/artist/3QJLrhJdfnlCvNg7fcJWNP) | [Anugerah Terindah](https://open.spotify.com/album/11csO7VmgUoKIZptXXBIt1) | 4:12 |
 
-Snapshot ID: `MCwwZWUwN2M4YmYxODdiZGRkMGZjZDYyZjZkMTg2MTczNmEzYTU1YjU4`
+Snapshot ID: `MCxkMmZiMDM5NmU4NjlmMGI1MjEyY2Q5YTg4OTdiMzk3OTRjNDUyOTll`

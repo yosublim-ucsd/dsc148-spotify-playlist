@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,314 likes - 270 songs - 15 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,317 likes - 270 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 41 | [If It Ain’t Me](https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 3:15 |
 | 42 | [Confetti](https://open.spotify.com/track/5zQ00D9j9MkQbsd9qmenBa) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 2:47 |
 | 43 | [Rumour Mill \(feat\. Anne\-Marie & Will Heard\)](https://open.spotify.com/track/7DwgS4noRe9dIie3QPZUWF) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [We the Generation \(Deluxe Edition\)](https://open.spotify.com/album/5q9e0KBDIjiRBYWXxaWVAG) | 4:03 |
-| 44 | [OK \(Anxiety Anthem\)](https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:36 |
-| 45 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 44 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 45 | [OK \(Anxiety Anthem\)](https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [High Expectations](https://open.spotify.com/album/2X7koaJ4bojj8zMqacqIhW) | 3:36 |
 | 46 | [Freak Like Me \(feat\. Katy B & MNEK\) \- Radio Edit](https://open.spotify.com/track/6HkxDV61YbCbXfjHj6euAz) | [Lee Walker](https://open.spotify.com/artist/1JXKfGs594mz23sQepWOWP), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Freak Like Me \(feat\. Katy B & MNEK\) \[Radio Edit\]](https://open.spotify.com/album/2F8BracaDn8k2ysDmNCWQr) | 2:59 |
 | 47 | [Koala \- Radio Edit](https://open.spotify.com/track/2LsKvF1f5PVm18UZgQrwml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Koala \(Radio Edit\) \[feat\. KStewart\]](https://open.spotify.com/album/7CG4gKjF3XMrIZ0DUwCxkl) | 3:15 |
 | 48 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 79 | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/track/2iBm8zv7d3qUKphL0FgVog) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Throwback \(with Crazy Cousinz\)](https://open.spotify.com/album/28yED9i2j4hJHx4NPlRSXP) | 3:07 |
 | 80 | [DNA](https://open.spotify.com/track/0FfC67AEwBvtTWWfzzWo0m) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 2:57 |
 | 81 | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Fly Girl \(feat\. Missy Elliott\)](https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv) | 3:25 |
-| 82 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
-| 83 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 82 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 |
+| 83 | [Tongue](https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:28 |
 | 84 | [Entirety](https://open.spotify.com/track/7Cu9VJOK9A0gJtTTLbJ9GU) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [A\*M\*E](https://open.spotify.com/artist/0tMbQtD3YwrVFk9Lb6abmB) | [Entirety](https://open.spotify.com/album/32LE97oCqz8Nw0DvJOK1PT) | 3:08 |
 | 85 | [Feel Good \(It's Alright\) \(feat\. Karen Harding\)](https://open.spotify.com/track/46VKKXfpbJDi9aqhomNFrZ) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Feel Good \(It's Alright\) \[feat\. Karen Harding\]](https://open.spotify.com/album/0NQhCyUDNtZvd7pVBiHP4I) | 3:11 |
 | 86 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 269 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 270 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `MjgwNTk5MDQsMDAwMDAwMDA5ODFiYWI3ODYyNzM0YTY3MDU1OTc3MGEyMDg0MmY1NQ==`
+Snapshot ID: `MjgwNjEzNDQsMDAwMDAwMDBiMGIyMjUyZWRmZWE2YzQ0M2ZmYzhjYTM5MDUzMmZiZQ==`

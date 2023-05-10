@@ -1,12 +1,12 @@
 {
   "description": "El amor no se escucha, se siente...",
-  "num_followers": 492423,
+  "num_followers": 492666,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDJhMzBmNWY0ZDIzMDRlMWI3OGFjZGQ2YWZlYmRkOGIyOTQwMzE3",
+  "snapshot_id": "MCw1ZDFkMmEzMDU0NTAwMDMwNzdjN2FhNmU5ZjRhNTM4YThmYTY3ZWYw",
   "tracks": [
     {
       "added_at": "2023-02-23 02:07:34",
@@ -347,6 +347,38 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -383,38 +415,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/0zbw6YNuejcVp8XgDKO0yF"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/0xXhgLXfEHnWJHVgRvFvdn"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Rocanlover",
-        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
         "name": "Lo Que Siempre So\u00f1amos Ser",
         "url": "https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 229760,
       "name": "A quien t\u00fa decidiste amar",
       "url": "https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
+        "name": "Rocanlover",
+        "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+        "name": "777",
+        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+      "duration_ms": 209268,
+      "name": "Felices Perdidos",
+      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1091,22 +1095,18 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 209268,
-      "name": "Felices Perdidos",
-      "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Quiero Dormir Cansado",
-      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Te Equivocaste",
-      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+      "duration_ms": 241226,
+      "name": "Quiero Dormir Cansado",
+      "url": "https://open.spotify.com/track/6LmKDVBBlMsWqUbuNTeCuF"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0vfE72mb2weKSONtBC6SPJ"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "\u00c9l Lo Tiene Todo",
-        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 214081,
-      "name": "\u00c9l Lo Tiene Todo",
-      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/5DeSD9bKMtDQCN1ErYy7jj"
       },
@@ -1671,22 +1671,6 @@
       "duration_ms": 183546,
       "name": "Por Primera Vez",
       "url": "https://open.spotify.com/track/0gWbAFRcUyZKdfUxEOuOiD"
-    },
-    {
-      "added_at": "2023-02-23 02:07:34",
-      "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Si T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
     },
     {
       "added_at": "2023-02-23 02:07:34",
@@ -1711,6 +1695,22 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Si T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv"
+    },
+    {
+      "added_at": "2023-02-23 02:07:34",
+      "album": {
         "name": "K.O.",
         "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
@@ -1725,7 +1725,7 @@
       "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
     },
     {
-      "added_at": "2023-05-09 00:38:26",
+      "added_at": "2023-05-10 00:20:33",
       "album": {
         "name": "Fugitivos",
         "url": "https://open.spotify.com/album/4ep9KHgO8WKp7ZEI3NoDTe"
@@ -1759,18 +1759,22 @@
     {
       "added_at": "2023-02-23 02:07:34",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+        "name": "999 (with Camilo)",
+        "url": "https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+      "duration_ms": 224168,
+      "name": "999 (with Camilo)",
+      "url": "https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz"
     }
   ],
   "unique_name": "Radio Coraz\u00f3n",

@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7733775,
+  "num_followers": 7735669,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmE2YTBjNDM0YzA4NGQ3ZmY5YjgxMTAzODdlYzIxZDM5MjQ4NmIz",
+  "snapshot_id": "MCwzZWNlYTk0ZjFjNDkyNDZhODljYmIzMWVhMmZhYzdkMDA5MjNmY2Ni",
   "tracks": [
     {
       "added_at": "2023-04-06 11:03:39",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
       "artists": [
         {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+      "duration_ms": 202106,
+      "name": "It Ain't Hard to Tell",
+      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
         }
       ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1047,26 +1047,6 @@
       "duration_ms": 203026,
       "name": "This D.J.",
       "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
-        "name": "Nigga Please",
-        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        },
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 239546,
-      "name": "Got Your Money (feat. Kelis)",
-      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1175,6 +1155,26 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
+        "name": "Nigga Please",
+        "url": "https://open.spotify.com/album/26ykyKCa7xOHOnzLdGARfz"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Got Your Money (feat. Kelis)",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
         "name": "I Am...",
         "url": "https://open.spotify.com/album/4UhEjfIRx4tE1XRY21vwNa"
       },
@@ -1191,8 +1191,8 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Full Clip: A Decade Of Gang Starr",
-        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+        "name": "Moment Of Truth",
+        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
       },
       "artists": [
         {
@@ -1200,9 +1200,9 @@
           "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Full Clip",
-      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+      "duration_ms": 177666,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Aquemini",
-        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 324373,
-      "name": "Rosa Parks",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
         "name": "Poverty's Paradise (25th Anniversary - Remastered)",
         "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 212760,
       "name": "Feel Me Flow",
       "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "Aquemini",
+        "url": "https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 324373,
+      "name": "Rosa Parks",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1339,38 +1339,6 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
         "name": "Harlem World",
         "url": "https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy"
       },
@@ -1387,6 +1355,38 @@
       "duration_ms": 242946,
       "name": "What You Want (feat. Total)",
       "url": "https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "Full Clip: A Decade Of Gang Starr",
+        "url": "https://open.spotify.com/album/0TMIeuykc2gfMc68YGppoh"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Full Clip",
+      "url": "https://open.spotify.com/track/30oTS7bm0aH3p7lqjEIu8q"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Hard To Earn",
-        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Mass Appeal",
-      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
         "name": "Return of the Boom Bap",
         "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 258506,
       "name": "Sound of da Police",
       "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "Hard To Earn",
+        "url": "https://open.spotify.com/album/67kl5m0df6Bn0aSe3g5Ea7"
+      },
+      "artists": [
+        {
+          "name": "Gang Starr",
+          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "Mass Appeal",
+      "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1826,6 +1826,10 @@
         {
           "name": "LL COOL J",
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Leshaun",
+          "url": "https://open.spotify.com/artist/0vHAWbRVMR4fNF1ABEe8D2"
         }
       ],
       "duration_ms": 293933,

@@ -1,15 +1,31 @@
 {
-  "description": "Tarantino not only produces great movies, he produces great soundtracks",
-  "num_followers": 671301,
+  "description": "Tarantino not only produces great movies, he produces great soundtracks.",
+  "num_followers": 671626,
   "original_name": "Best Tracks from Tarantino Films",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQ2M2E3NjRjZGM1ZmI0OTljMjVkM2JkYjgxNWVlMzM0OWQxMjBl",
+  "snapshot_id": "MCw4ZTE5MzlhNTc5OTcxMDU0N2Y4N2UzOWM2YTUzZWViMmY4YzliZjQ0",
   "tracks": [
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
+      "album": {
+        "name": "The Kpm 1000 Series - Volume 1",
+        "url": "https://open.spotify.com/album/1svikpX3DorNerwbCIGi6H"
+      },
+      "artists": [
+        {
+          "name": "Keith Mansfield",
+          "url": "https://open.spotify.com/artist/5slh4AZGBwQKHeKZJCHEYH"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Funky Fanfare",
+      "url": "https://open.spotify.com/track/3Vr406z58yyyO2Ofh1fbqA"
+    },
+    {
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Stealers Wheel",
         "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/47Zqlw3jmibtVPy8usPjBj"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Dusty In Memphis [Deluxe Edition]",
         "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
@@ -77,10 +93,10 @@
       "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
-        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
-        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
       },
       "artists": [
         {
@@ -88,12 +104,12 @@
           "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
         }
       ],
-      "duration_ms": 228640,
+      "duration_ms": 230506,
       "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/2Q5rvrn3qR5HpLlvz3fcOy"
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "The Heritage / Colossus Story",
         "url": "https://open.spotify.com/album/1tGqutWu2yieaVEqR3AwUj"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/2RWMaxTOvjadKecWquqq09"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Wanna Surf?",
         "url": "https://open.spotify.com/album/7bGmjO5Cthm1SNOwUhLwKE"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/3OnCnEWgy79xR5pr2kv4TX"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Kill Bill Vol. 2 Original Soundtrack",
         "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/5jQPDVjgSGnNYl8G3H3qul"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "De Stijl",
         "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
@@ -157,7 +173,7 @@
       "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Kill Bill Vol. 1 Original Soundtrack (PA Version)",
         "url": "https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ"
@@ -173,7 +189,7 @@
       "url": "https://open.spotify.com/track/6rhVKeUhQTGLIRmQOfc9Wo"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "The Blasters Collection",
         "url": "https://open.spotify.com/album/5bFPCsAzT5pb4BiQIUleh1"
@@ -189,7 +205,7 @@
       "url": "https://open.spotify.com/track/3mY7dBi0uXzOrdS0qAUa5G"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/43JngJ3vMsaTL8SiRwEYQp"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Rumble / The Swag",
         "url": "https://open.spotify.com/album/70hzJHg6pWndTe9lm4SZVB"
@@ -221,7 +237,7 @@
       "url": "https://open.spotify.com/track/5W45ACJYATjWEwUDYM5TDi"
     },
     {
-      "added_at": "2022-09-09 17:25:19",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "The Best Of Roy Head",
         "url": "https://open.spotify.com/album/1pY5yYIU9DNm9GTFhCyMTt"
@@ -237,7 +253,7 @@
       "url": "https://open.spotify.com/track/2dq2J24oIF67Uvttut4dv7"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/342v3Is0g1CfidoxekA4f8"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "The Best of David Bowie 1980 / 1987",
         "url": "https://open.spotify.com/album/2FUCvmW24RbDwxyFaXm7Lt"
@@ -289,7 +305,7 @@
       "url": "https://open.spotify.com/track/0JclT9mkYAgOlXFu4loVH4"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Tarantino Fiction",
         "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/0p8lGTQcHQx6XgsVLrkQdx"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Hits from Dance Movie",
         "url": "https://open.spotify.com/album/2A10yR3eSX3yF68n8Uq2S9"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/0QWGQc1NVsgjm6T25Bcxxw"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Out Of Limits!",
         "url": "https://open.spotify.com/album/36SLEYpVr7zHe3oDCC6hcI"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/7xAJpAeopaV6rilu3iiwME"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Surf Rider",
         "url": "https://open.spotify.com/album/0Sr5iRFquCQ5wFpKplZWSO"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/7sOBuRK26Ov7CR5fRSR7Om"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Still Bill",
         "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Flowers On The Wall: The Essential Statler Brothers 1964-1969",
         "url": "https://open.spotify.com/album/0OrV6t1YYdWXmiOD4ot2iD"
@@ -401,7 +417,7 @@
       "url": "https://open.spotify.com/track/7ledv9CTjqdwnvHgRmETyZ"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "The Legendary Masters Series (Volume 1)",
         "url": "https://open.spotify.com/album/5R27t83T8Jhltww09lriMo"
@@ -417,7 +433,7 @@
       "url": "https://open.spotify.com/track/56XoFI6v7kbGNdM8ALYWof"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "American Recordings",
         "url": "https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/5mRBBpUjXN3jHFT5GYNrrk"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Jackie Brown (Music from the Miramax Motion Picture)",
         "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Wild And Peaceful",
         "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Tarantino Fiction",
         "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/6zHTQ3QaQSsQSLEtZzh377"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
@@ -497,7 +513,7 @@
       "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Tarantino Fiction",
         "url": "https://open.spotify.com/album/7CbtI4B2UbPKq4oYkqeGTQ"
@@ -513,7 +529,7 @@
       "url": "https://open.spotify.com/track/3iudOmlAzKCHpsTP3DDgvf"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6K9qoK0Zuzog57Eg7EAtIR"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/1bpdYRadFTesAkM8gpMAJy"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "True Romance (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/1cXKvVWM24YaLlM5DzrPy4"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Kill Bill Vol. 2 Original Soundtrack",
         "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/0WN1ICX0u0NenOccX8gRp3"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "The Delfonics",
         "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/25CUJO08rkvZV9rIIP4L4B"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/15en5xAk3uORkyA01e6pIO"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Rock & Roll - The Best of The Robins",
         "url": "https://open.spotify.com/album/2M6r8R8SZfy9D5io8aZYcs"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/0vGyXveSjPnALkLiqfZDOg"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Music For All Occasions",
         "url": "https://open.spotify.com/album/4gEFOyes5HJJMIzTHlGG76"
@@ -633,7 +649,7 @@
       "url": "https://open.spotify.com/track/0o0QiBgJqMJjaZLSR4aJFj"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Quentin Tarantino's The Hateful Eight (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6K9qoK0Zuzog57Eg7EAtIR"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/2GVCSfDQIDhe9FCCxpRMAI"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "San Francisco Days",
         "url": "https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/4s33OWdJwxpD4Va3XgAS1K"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Kill Bill Vol. 2 Original Soundtrack",
         "url": "https://open.spotify.com/album/0yrK3jKRexjtP4CRdYizjs"
@@ -681,7 +697,7 @@
       "url": "https://open.spotify.com/track/4H8wbuOyL7gBXfzN2f8kQ6"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Rhythmeen",
         "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
@@ -697,7 +713,7 @@
       "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Ridin' High",
         "url": "https://open.spotify.com/album/3kCVkiAlYhOOUIom8GgGPy"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/6V9zt5xJ65Q2rugWX77iFb"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Badmotorfinger (25th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/4VwPsMcRt1HPVKIdcwY9Uj"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "True Romance (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/5keVHhRytkZTQ6tukYtXS9"
     },
     {
-      "added_at": "2018-08-20 07:31:02",
+      "added_at": "2023-05-09 20:55:54",
       "album": {
         "name": "Quentin Tarantino\u2019s Django Unchained Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/0m7dZQ6nLNjDI78hBmpG1L"

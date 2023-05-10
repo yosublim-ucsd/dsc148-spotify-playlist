@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,968 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,945 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,17 +29,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 19 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 |
 | 20 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/5YBmVtkeoRdxU1GhRDrxuz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Let It Snow! \(10th Anniversary\)](https://open.spotify.com/album/17Qr6J860gp3HrESuJ5D2M) | 2:39 |
 | 21 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 |
-| 22 | [Here Comes Santa Claus](https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas With The Puppini Sisters](https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0) | 3:01 |
-| 23 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
+| 22 | [Just Me This Year](https://open.spotify.com/track/03nVaudcIV9z2XjgB6PlHa) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [Just Me This Year](https://open.spotify.com/album/41LqeaMFiSUUY9IygGpmTr) | 3:07 |
+| 23 | [Here Comes Santa Claus](https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht) | [The Puppini Sisters](https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs) | [Christmas With The Puppini Sisters](https://open.spotify.com/album/3u6OeK5MR1dNsK7UQId0W0) | 3:01 |
 | 24 | [A Child Is Born \- Remastered 2003](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again \(Remastered 2003\)](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 |
 | 25 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 |
 | 26 | [Here Comes Santa Claus](https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU) | [Ramsey Lewis Trio](https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu) | [Sound Of Christmas](https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl) | 2:38 |
 | 27 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 |
-| 28 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 |
-| 29 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
+| 28 | [O Little Town Of Bethlehem](https://open.spotify.com/track/7lFGTWPpGaBMxX8vjHLmLT) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/4lkW34BvnZk0RBZLlvDddC) | 3:16 |
+| 29 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 |
 | 30 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/53oBX4dx0KGxIaAWCFSjks) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 3:20 |
-| 31 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 |
-| 32 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
+| 31 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4swVkhYwnmA0ls8UWzz5VU) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday Love Songs](https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4) | 2:54 |
+| 32 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/2GKbw2FCDXHIddECLeSLef) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [It's the Most Wonderful Time of the Year](https://open.spotify.com/album/7qUr1ApU9oVSD9V7xyVWyc) | 2:57 |
 | 33 | [Christmas in New York](https://open.spotify.com/track/4OtoXQ2ySVcmudZT4jF8jH) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [Merry Christmas from José James](https://open.spotify.com/album/4bcdBu4Vjwu1J0GGs7HU72) | 2:58 |
 | 34 | [Shake Hands with Santa Claus \- Mono Recording](https://open.spotify.com/track/4uWOOyWwhkYAchf4WFuiTT) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Breaking It Up!](https://open.spotify.com/album/0nwd49YxEDzYuCJG5hlfAX) | 2:25 |
 | 35 | [Home For The Holidays](https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 |
 | 50 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
 
-Snapshot ID: `MCw2NTFmYjA2YTIwZmM0M2Y5NjcxNjI5Zjc1ODNiNGFkM2E5NzEwY2M2`
+Snapshot ID: `MCwyNTNmOTQ5ODIxZmRkMTUzNjJmYzhjYWRkMjViYWE3M2JlOWQyOTEz`

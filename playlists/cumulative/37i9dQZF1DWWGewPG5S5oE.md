@@ -2,16 +2,17 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 海野雅威
 
-144 songs - 11 hr 54 min
+146 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3rd](https://open.spotify.com/track/1s7v6fKiwjEwfr5Zs47A10) | [河野祐亮ピアノトリオ](https://open.spotify.com/artist/092IE7fBMbMQLHhKgVPfPE), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD) | [3rd](https://open.spotify.com/album/0pYrvqsHxb63zU0wOZGikc) | 3:32 | 2022-11-08 | 2023-04-12 |
 | [500 Miles High](https://open.spotify.com/track/1l5B1beJKVDv39E828gCTF) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Kurena](https://open.spotify.com/album/12ASEzXbr664jCgcU4coZl) | 4:55 | 2023-03-21 |  |
 | [83](https://open.spotify.com/track/75R36NibuUqvqaksKHAhLn) | [THE BED ROOM TAPE](https://open.spotify.com/artist/6FQe8UCJgRKmFoInsr0Sjk) | [83](https://open.spotify.com/album/5Y9LSZnzVuGGW61KdcYdI4) | 3:27 | 2022-09-06 | 2022-11-23 |
-| [Ain't No Sunshine](https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy) | 5:22 | 2022-12-20 | 2023-05-09 |
+| [After The Rain](https://open.spotify.com/track/0jBhPAm2fIgHBvXxHfoEI2) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [After The Rain](https://open.spotify.com/album/1lkDBztlMk800kfsazV7Er) | 4:55 | 2023-05-09 |  |
+| [Ain't No Sunshine](https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy) | 5:22 | 2022-12-20 |  |
 | [All I Want](https://open.spotify.com/track/5dQBgiQpBL3OUog4yJiWnz) | [Sunaga T Experience](https://open.spotify.com/artist/3wk47tC10a5UfPokpH6lmj), [J.Lamotta Suzume](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [All I Want](https://open.spotify.com/album/5Rf11k7OdhnxUAs5EuGadY) | 4:54 | 2022-10-11 | 2022-11-16 |
 | [All The Things You Are](https://open.spotify.com/track/1HObIEY8XDGgNjSTGJxMV0) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [All The Things You Are](https://open.spotify.com/album/3XLtciMbAUrvX4EiFwcCe9) | 2:35 | 2022-10-04 | 2022-10-19 |
 | [And we'll keep on going](https://open.spotify.com/track/0lGNdeRWLqaMgiaRgbRiKW) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [The Moon, Its Recollections Abstracted](https://open.spotify.com/album/0rqPzyBcDq8xO4UCn0gIw8) | 9:49 | 2022-10-18 | 2022-11-16 |
@@ -43,6 +44,7 @@
 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 | 2023-02-16 |  |
 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 | 2022-10-18 | 2022-11-03 |
 | [Futurez](https://open.spotify.com/track/3NTaVjpl7VY1RGWd6RGroz) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Futurez](https://open.spotify.com/album/4iK5RotnCqsb4hBtluRXn5) | 4:52 | 2022-10-25 | 2022-12-13 |
+| [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 | 2023-05-09 |  |
 | [Good Thing Will Happen](https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta) | [Light Music Society](https://open.spotify.com/artist/1uhicIWb5CGO8NLsWX1a5q), [Yu KUga](https://open.spotify.com/artist/6xQwMgylM6kuOlQJ5MW47s) | [From Where The Sun Rises](https://open.spotify.com/album/4Cccfl5EmABNIq7YFedo5z) | 6:45 | 2023-03-28 | 2023-04-19 |
 | [Goreezin'](https://open.spotify.com/track/0EqXbkxKfOpJl6XfqNOkwu) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Goreezin'](https://open.spotify.com/album/2flFBbyybmmy7nB4NTnWWd) | 5:29 | 2022-09-06 | 2022-10-19 |
 | [Gris et Liberte \- Instrumental](https://open.spotify.com/track/6s65YPAcJvDlwr39acdfBd) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Gris et Liberte \(Instrumental\)](https://open.spotify.com/album/7lfafdRUa09dtEvcO0cB6J) | 4:09 | 2022-10-11 | 2023-03-08 |
@@ -88,7 +90,7 @@
 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 | 2023-04-25 |  |
 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 | 2022-09-06 | 2023-05-04 |
 | [Saudade Vem Correndo](https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Saudade Vem Correndo](https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf) | 4:09 | 2023-04-04 | 2023-04-19 |
-| [Sculpture Garden](https://open.spotify.com/track/3qnU9gnI0RKhBjqTlC5Hmw) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [CALM&CLASH](https://open.spotify.com/album/4oIMx6MSXISy3iC2EQRnJB) | 3:55 | 2023-02-14 |  |
+| [Sculpture Garden](https://open.spotify.com/track/3qnU9gnI0RKhBjqTlC5Hmw) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [CALM&CLASH](https://open.spotify.com/album/4oIMx6MSXISy3iC2EQRnJB) | 3:55 | 2023-02-14 | 2023-05-10 |
 | [Sea Wasp](https://open.spotify.com/track/3jcntFs79rOVzxiyLPh7hE) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Sea Wasp](https://open.spotify.com/album/141pR22qsorIeF9MXqZBAn) | 6:23 | 2023-02-21 | 2023-03-08 |
 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 | 2022-09-06 |  |
 | [Session zero \- Feat\. 馬場智章](https://open.spotify.com/track/5RDAfd9hVQA9IqlAaxpVIP) | [HHMM](https://open.spotify.com/artist/1XPTvuhra2ygPO1E9UQcfi), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [Session zero \(Feat\. 馬場智章\)](https://open.spotify.com/album/4TFS3YoYDhYzieXw6PQWms) | 3:16 | 2023-02-21 | 2023-04-19 |
@@ -129,7 +131,7 @@
 | [くちばしにチェリー](https://open.spotify.com/track/5qSOiMOIJ7e6YdRciPafef) | [EGO\-WRAPPIN’](https://open.spotify.com/artist/133lXHKraE97JysMPVLgOX) | [ROUTE 20 HIT THE ROAD](https://open.spotify.com/album/5EQ4i1sBwc4LKmFwqQt8jT) | 4:18 | 2022-09-06 |  |
 | [ほとり](https://open.spotify.com/track/0pxQ9OIN7NLZiZAX2C5B7H) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ほとり](https://open.spotify.com/album/6gpUCKIj7g6zGXlzkJcWBj) | 5:09 | 2022-09-06 | 2022-11-20 |
 | [まるくなって](https://open.spotify.com/track/4Ygoj6ygvEYM5Msadc3Ko8) | [矢崎恵理](https://open.spotify.com/artist/5u29jSzmiMAB7bfz8kroxU) | [it](https://open.spotify.com/album/1Lm5y4PE7Ld6lMHtOPfRgN) | 4:10 | 2022-09-06 | 2022-09-21 |
-| [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 |  |
+| [みずいろの雨](https://open.spotify.com/track/75iEGWh5t7ZyqYKuvns6Ma) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [みずいろの雨](https://open.spotify.com/album/41aqTAsLAIAMGgW1tOqErz) | 4:50 | 2023-03-14 | 2023-05-10 |
 | [やわらかな夜](https://open.spotify.com/track/4C2QmZ97vRkzXOiWTwn6FL) | [Orange Pekoe](https://open.spotify.com/artist/0C9HwsaagMBxCdG43F9A0l) | [Organic Plastic Music](https://open.spotify.com/album/0CFCsLMHqaByFkM5USUOfP) | 4:00 | 2022-09-06 |  |
 | [アイ・ミス・ユー](https://open.spotify.com/track/3CSI0s3623E1ExOVG0fQus) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [ムード・インディゴ](https://open.spotify.com/album/79DUHlyE8a7R77ETOVCyDM) | 4:47 | 2022-09-06 | 2022-10-11 |
 | [エッグ・オン・ザ・ルーフ](https://open.spotify.com/track/6Cfjbe0yuS82fNIdbFWImO) | [小曽根啓](https://open.spotify.com/artist/6bK6xLnS0wYCNLQlqMqM6M), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Egg On The Roof](https://open.spotify.com/album/16P20y7PWqVG3VlknqqK3A) | 7:09 | 2023-01-10 |  |
@@ -142,7 +144,7 @@
 | [乙女の祈り](https://open.spotify.com/track/1vdO8aMVXs3OqGkwEmjA2f) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [ユートピア](https://open.spotify.com/album/5dyet4VQmQe4iqoxTqtZT2) | 4:16 | 2022-09-06 |  |
 | [今日、明日](https://open.spotify.com/track/0hbipI6H7ZniYEiUYTZjpl) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [今日、明日](https://open.spotify.com/album/5F2ivWiZ8ABtYHib8KWQ4E) | 4:47 | 2022-10-04 | 2022-11-16 |
 | [具縄](https://open.spotify.com/track/3FuM8gmydIY2D4Q4BYvMTP) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [具縄](https://open.spotify.com/album/2KqcYIchslRedPNFe8MPuL) | 5:00 | 2022-10-18 | 2022-11-28 |
-| [冬芽](https://open.spotify.com/track/1WK88cyLnq7C3KZEZ3dfme) | [橋本芳](https://open.spotify.com/artist/1w2jeP5GS2uAD6zvs0M9dj) | [One Step Beyond](https://open.spotify.com/album/6C5hS53oCZ67Vz7M9gEAeW) | 6:41 | 2023-04-18 |  |
+| [冬芽](https://open.spotify.com/track/1WK88cyLnq7C3KZEZ3dfme) | [橋本芳](https://open.spotify.com/artist/1w2jeP5GS2uAD6zvs0M9dj) | [One Step Beyond](https://open.spotify.com/album/6C5hS53oCZ67Vz7M9gEAeW) | 6:41 | 2023-04-18 | 2023-05-10 |
 | [夜空からの来訪者](https://open.spotify.com/track/5tPF81ERdwsYA7VhV3lJT7) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [夜空からの来訪者](https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm) | 4:13 | 2022-12-06 | 2023-02-08 |
 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 | 2023-01-03 | 2023-02-18 |
 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 |  |

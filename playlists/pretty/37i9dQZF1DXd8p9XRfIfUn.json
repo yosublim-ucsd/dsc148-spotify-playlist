@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de la nueva. Foto: Saiko",
-  "num_followers": 63957,
+  "num_followers": 63983,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI1MjVhYmJiOTUxNmExYTM3MGI4Mzg1Yzg0NTI0NGYwYjc2MWIw",
+  "snapshot_id": "MCw1ZWEyMzY2ZTE0MmUwOTE3MTgwOWY4MDIwZDI0ZDVhY2Y5NWQ1Zjdi",
   "tracks": [
     {
       "added_at": "2023-04-28 00:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
         "name": "Vete Pal Carajo",
         "url": "https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2023-04-28 00:01:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-04-28 00:01:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
-      },
-      "artists": [
-        {
-          "name": "ONIX",
-          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
-        },
-        {
-          "name": "castleurbano",
-          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
-    },
-    {
-      "added_at": "2023-04-28 00:01:00",
-      "album": {
         "name": "Tus Besos (Remix)",
         "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 229106,
       "name": "Tus Besos - Remix",
       "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
+    },
+    {
+      "added_at": "2023-04-28 00:01:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/28NfWdCACj7M0DpWgxz3FI"
+      },
+      "artists": [
+        {
+          "name": "ONIX",
+          "url": "https://open.spotify.com/artist/0YMk9b6Lijw7f6PVUknCKn"
+        },
+        {
+          "name": "castleurbano",
+          "url": "https://open.spotify.com/artist/1jS17bkQpQzybCKZ04CTws"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/003CpLpVCGuyfZe4dLB1No"
     },
     {
       "added_at": "2023-04-28 00:01:00",

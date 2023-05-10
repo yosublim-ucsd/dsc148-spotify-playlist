@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 
 > Start your day right and wake up with some calm and cool Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,189 likes - 242 songs - 13 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,388 likes - 242 songs - 13 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -251,4 +251,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdziGPHNE40t.md) - [plain]
 | 241 | [I Loves You, Porgy](https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [I Loves You, Porgy](https://open.spotify.com/album/6OwHbZzxOCbGgOvi3rnl1A) | 3:30 |
 | 242 | [The Law of Attraction](https://open.spotify.com/track/5f2btCjcN87enR8OBijRBz) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [The Law of Attraction](https://open.spotify.com/album/2otEcJ7pOUvnnX4nO34aJL) | 2:31 |
 
-Snapshot ID: `MCxkNzQzYTcxMDRkOWM5YmVjYzg4MDVkNzQ5ZGQyZGM4MmRmMDY5ZGVl`
+Snapshot ID: `MCxlMzE3ZGY4YmM5YzMzMDg1Zjk3MjVlNGYxNzlmZmRjMDFjNzdiZTFi`

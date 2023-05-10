@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66590,
+  "num_followers": 66597,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2NhMjlkMDdlNGQ5ZjBiNWZlNTZiNjJlYTM5N2NmZGY4ZWZhNWEy",
+  "snapshot_id": "MCw2ZWE3ZTAwNTcwYjU4YmFmOGQwOGZjYWU5NGZlOThlODVkYWUwMDM0",
   "tracks": [
     {
       "added_at": "2023-05-04 22:09:38",
@@ -206,15 +206,11 @@
         {
           "name": "Kaliffa",
           "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
-        },
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
         }
       ],
-      "duration_ms": 257399,
-      "name": "Det str\u00e5lar s\u00e5 om dig",
-      "url": "https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv"
+      "duration_ms": 194988,
+      "name": "Spontanitet",
+      "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
     },
     {
       "added_at": "2023-05-04 22:09:38",
@@ -310,11 +306,15 @@
         {
           "name": "Kaliffa",
           "url": "https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY"
+        },
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
         }
       ],
-      "duration_ms": 194988,
-      "name": "Spontanitet",
-      "url": "https://open.spotify.com/track/7nriQOQo6oaMoD3ZBBP7cX"
+      "duration_ms": 257399,
+      "name": "Det str\u00e5lar s\u00e5 om dig",
+      "url": "https://open.spotify.com/track/0kDL2MQeL800pf9LFQGzQv"
     },
     {
       "added_at": "2023-05-04 22:09:38",
@@ -807,18 +807,22 @@
     {
       "added_at": "2023-05-04 22:09:38",
       "album": {
-        "name": "Class Brut\u00e1ls",
-        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
+        "name": "The Tomtations Show",
+        "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
       },
       "artists": [
         {
-          "name": "USCB Allstars",
-          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
+          "name": "L\u00f6stFolk",
+          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
+        },
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
         }
       ],
-      "duration_ms": 242973,
-      "name": "12 Steps",
-      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
+      "duration_ms": 282124,
+      "name": "Aina \u00c4lskar Reggae",
+      "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
     },
     {
       "added_at": "2023-05-04 22:09:38",
@@ -839,22 +843,18 @@
     {
       "added_at": "2023-05-04 22:09:38",
       "album": {
-        "name": "The Tomtations Show",
-        "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
+        "name": "Class Brut\u00e1ls",
+        "url": "https://open.spotify.com/album/2VAHC09MS16zk0YTJLlAlB"
       },
       "artists": [
         {
-          "name": "L\u00f6stFolk",
-          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
-        },
-        {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "USCB Allstars",
+          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
         }
       ],
-      "duration_ms": 282124,
-      "name": "Aina \u00c4lskar Reggae",
-      "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
+      "duration_ms": 242973,
+      "name": "12 Steps",
+      "url": "https://open.spotify.com/track/3xWqcepZ8eUdMOP6KqWxl2"
     },
     {
       "added_at": "2023-05-04 22:09:38",

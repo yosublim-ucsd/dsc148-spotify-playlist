@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=cc4qsqDzSfS21lTakVte6w\">Wizkid</a>",
-  "num_followers": 585150,
+  "num_followers": 585315,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTgyNjczOGZjYWFlNDk1NWU5YTdiNmJlOTY5NzI5ZmIxODEwMTk5",
+  "snapshot_id": "MCwwYzJhM2Y3MTFkM2I3OTk0OWQ0NjhlMGEwZmJjYTQxNzBkODI5NGVm",
   "tracks": [
     {
       "added_at": "2023-01-26 17:39:34",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 308820,
+      "name": "Texts Go Green",
+      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
         "name": "My Oasis (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 179916,
       "name": "My Oasis (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 308820,
-      "name": "Texts Go Green",
-      "url": "https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 185364,
-      "name": "Kwaku The Traveller",
-      "url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "A Good Time",
         "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Big Thug Boys",
-        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
       },
       "artists": [
         {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 171998,
-      "name": "Big Thug Boys",
-      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
+      "duration_ms": 185364,
+      "name": "Kwaku The Traveller",
+      "url": "https://open.spotify.com/track/2LqvzGaZniHiZ9CXhzkclD"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1419,6 +1403,42 @@
       "duration_ms": 225103,
       "name": "Do To Me",
       "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Big Thug Boys",
+        "url": "https://open.spotify.com/album/79PtaeN11NuACxUaeipBom"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 171998,
+      "name": "Big Thug Boys",
+      "url": "https://open.spotify.com/track/64f7mZuEkeNeKOuzSjrIGm"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1459,26 +1479,6 @@
       "duration_ms": 402890,
       "name": "Ba Straata (feat. 2woshort, Stompiiey, ShaunMusiQ, Ftears & Madumane)",
       "url": "https://open.spotify.com/track/3DssiWp4pAGNvPrvHVi94f"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4aMtac1abQZDOliAZpbIJF"
+      "duration_ms": 179884,
+      "name": "D O D O - Adekunle Gold Version",
+      "url": "https://open.spotify.com/track/5XYFwMy9hJ45a6NoavtyEa"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1839,22 +1839,22 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/1uPEctEKBVjCRO5iGsya3b"
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/0vNvd6GC6cy7BKyP2dqPZY"
       },
       "artists": [
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         },
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 179884,
-      "name": "D O D O - Adekunle Gold Version",
-      "url": "https://open.spotify.com/track/5XYFwMy9hJ45a6NoavtyEa"
+      "duration_ms": 194000,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4aMtac1abQZDOliAZpbIJF"
     },
     {
       "added_at": "2023-01-26 17:39:34",
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-01-26 17:39:34",
       "album": {
-        "name": "Simmer (feat. Burna Boy)",
-        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 167680,
-      "name": "Simmer (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
-    },
-    {
-      "added_at": "2023-01-26 17:39:34",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1lOAu6ugGCM0WVXfmdwEnO"
       },
@@ -1943,6 +1923,26 @@
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
+    },
+    {
+      "added_at": "2023-01-26 17:39:34",
+      "album": {
+        "name": "Simmer (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 167680,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
     },
     {
       "added_at": "2023-01-26 17:39:34",

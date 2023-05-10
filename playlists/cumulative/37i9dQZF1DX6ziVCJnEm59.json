@@ -5013,6 +5013,28 @@
     },
     {
       "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc"
+    },
+    {
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -5028,7 +5050,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 193133,
       "name": "You and I",
       "url": "https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a"

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-701 songs - 1 day 13 hr 7 min
+702 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,7 +630,7 @@
 | [Tilt](https://open.spotify.com/track/0eQadZfhWLntMvsEjYDRLk) | [GRANT](https://open.spotify.com/artist/6SkVKlAmIWVD0LQvCGQqSj) | [Tilt](https://open.spotify.com/album/0AC4E1o8yb9e0RMmqxcgXI) | 3:34 | 2022-04-28 | 2022-07-29 |
 | [Timmar](https://open.spotify.com/track/5sXAGhrXIeUtAVLzpdJIfH) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Timmar](https://open.spotify.com/album/4gajMx6fgWWLyPrrPCfc1Z) | 3:33 | 2021-12-16 | 2022-01-13 |
 | [Tjugofyra sju](https://open.spotify.com/track/5Fz8257fkwgpnUMNlbvtP4) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Tjugofyra sju](https://open.spotify.com/album/2PWptHPalgmRvTz5GaeVpb) | 3:10 | 2022-04-07 | 2022-05-11 |
-| [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 |  |
+| [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-05-10 |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |
 | [Trip](https://open.spotify.com/track/6sQ1IeoCqOF3RjpCitYDWq) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Trip](https://open.spotify.com/album/5qirpX94upVMrdr43t4HYC) | 2:58 | 2022-04-01 | 2022-04-21 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2023-02-24 |
@@ -696,6 +696,7 @@
 | [ye, aha](https://open.spotify.com/track/04C1OEisyN3uS6tzJ3qWll) | [Naomi Vaughn](https://open.spotify.com/artist/1SCpIF2L2jzSfIcdgGtPE8) | [ye, aha](https://open.spotify.com/album/5zDnEjhZS5CxglWmVRPCCS) | 2:57 | 2022-06-30 | 2022-07-20 |
 | [Yellow](https://open.spotify.com/track/2qyVS8PtyshEjMG2EWfr06) | [Tyra Chantey](https://open.spotify.com/artist/2TTmUTfsQjQb9Wx8arAZy9) | [Yellow](https://open.spotify.com/album/3XRfjXygP16DWk8sjuPbHt) | 3:00 | 2022-09-29 |  |
 | [YES](https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [YES](https://open.spotify.com/album/4YYiMfMEYp6qrXoI41AYO6) | 3:27 | 2023-04-06 | 2023-04-14 |
+| [YES \(feat\. Namasenda\)](https://open.spotify.com/track/3QSVDpDSz8XcH3Oz7YuHIZ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [YES \(feat\. Namasenda\)](https://open.spotify.com/album/4VbClfuZF83eFsdmfqX7TU) | 2:38 | 2023-05-04 |  |
 | [YOU](https://open.spotify.com/track/2OyauYlmXhB8ffpf4S9mjQ) | [Alissa Reah](https://open.spotify.com/artist/53TuN2OUabI6gDAjd49Fs2) | [YOU](https://open.spotify.com/album/1htfK5RJY2vuj6P4XaofbY) | 3:01 | 2022-03-24 | 2022-07-20 |
 | [You to Me](https://open.spotify.com/track/5xQmNeAKK6Y3p5Y5K2zqIT) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [You to Me](https://open.spotify.com/album/4abCLxqbInPOw7fiblaLVL) | 2:36 | 2021-12-16 | 2022-01-13 |
 | [Younger](https://open.spotify.com/track/5VehjO5iZZ9iitRbTt9P69) | [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id) | [Younger](https://open.spotify.com/album/14ZHCYhVN0B2dzY8GVISWO) | 3:06 | 2022-05-12 | 2022-05-14 |

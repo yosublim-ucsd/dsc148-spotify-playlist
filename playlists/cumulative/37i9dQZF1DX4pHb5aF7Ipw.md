@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover:  GD 47, Prince Narula & Rannvijay Singh
 
-46 songs - 2 hr 18 min
+47 songs - 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [LKLG](https://open.spotify.com/track/4M5WhMWntRfnKaHF38DsTb) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [QUAKE World](https://open.spotify.com/artist/40U1tcKh3xQ2kLo2QNoYIQ), [Levl9ne](https://open.spotify.com/artist/2VRLihnvWF8a28nJBXfmdB) | [LKLG](https://open.spotify.com/album/6pSyw1UabD2d7XUcffFuzN) | 3:21 | 2023-03-18 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-27 |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2023-03-18 |  |
+| [Mic Naal](https://open.spotify.com/track/1SLyCkYNyrG97uxhoTBmJa) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [H$](https://open.spotify.com/artist/6BX0k14TnSKrto2FyXiakW) | [Mic Naal](https://open.spotify.com/album/3HHbnXG28SluMAf6vg1rYO) | 2:56 | 2023-05-09 |  |
 | [Midnight Mob](https://open.spotify.com/track/6phxf8uhi3eQ0EGefpTeTA) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Jagga](https://open.spotify.com/artist/6eRi6fEqY6bxzFN2iNPSwz), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Midnight Mob](https://open.spotify.com/album/5ysc3i4fJbBo9hPivlXslV) | 3:22 | 2023-03-18 |  |
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-18 |  |
 | [My Talk](https://open.spotify.com/track/1blSrivSm7CgTwoy3JeIC9) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [My Talk](https://open.spotify.com/album/6QedbscvibNXbm8MIKy9Kz) | 3:09 | 2023-03-18 |  |

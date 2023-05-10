@@ -4,7 +4,7 @@
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-80 songs - 4 hr 28 min
+81 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Hellbound](https://open.spotify.com/track/2LOmpKlSRfDfxB8ZUP4ANf) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [The Sixty90’s](https://open.spotify.com/album/52OLN3MpGAVuwOA2nmxXW6) | 2:45 | 2022-11-30 |  |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-11-30 |  |
 | [Hollywood Hillbilly](https://open.spotify.com/track/3wXKJzil3gjJnqqBf40nSI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hot Trash](https://open.spotify.com/album/0GFTMkVh3GFZpJ18KPZLI1) | 2:35 | 2022-11-30 |  |
-| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-11-30 |  |
+| [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 | 2022-11-30 |  |
+| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-11-30 | 2023-05-10 |
 | [It'll Hurt](https://open.spotify.com/track/1gaVMd4SNDKJLKNfMnhd8R) | [The Flatliners](https://open.spotify.com/artist/6bx5jeXP6LSRVY29adUFdB) | [New Ruin](https://open.spotify.com/album/7C9cX1cxSbHnzGPBQVQfeG) | 3:50 | 2022-11-30 |  |
 | [Jackie Down The Line](https://open.spotify.com/track/4DNbKvO9fI8bjnxis4yddk) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 4:01 | 2022-11-30 |  |
 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 | 2022-11-30 |  |

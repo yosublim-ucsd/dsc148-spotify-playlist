@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Relax and indulge with beautiful piano pieces",
+  "description": "Peaceful piano to help you slow down, breathe, and relax. ",
   "name": "Peaceful Piano",
   "tracks": [
     {
@@ -662,6 +662,24 @@
       "duration_ms": 179253,
       "name": "A subtle joy",
       "url": "https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud"
+    },
+    {
+      "album": {
+        "name": "A Time Long Ago",
+        "url": "https://open.spotify.com/album/5JWfUFwzVSKBohZnszGUoj"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135105,
+      "name": "A Time Long Ago",
+      "url": "https://open.spotify.com/track/67ntAUXUgYdO3YUt04zk5E"
     },
     {
       "album": {
@@ -2690,6 +2708,24 @@
       "duration_ms": 177000,
       "name": "Away",
       "url": "https://open.spotify.com/track/2mpDoMepkxUD7GusdybNIq"
+    },
+    {
+      "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5"
     },
     {
       "album": {
@@ -5322,7 +5358,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 142124,
       "name": "Dans",
       "url": "https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD"
@@ -12780,7 +12816,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 143624,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3"
@@ -13106,6 +13142,24 @@
       "duration_ms": 159056,
       "name": "Lj\u00f3ma",
       "url": "https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7"
+    },
+    {
+      "album": {
+        "name": "Lofoten",
+        "url": "https://open.spotify.com/album/0FsLOcwk1jL1yB1e64LKXD"
+      },
+      "artists": [
+        {
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161913,
+      "name": "Lofoten",
+      "url": "https://open.spotify.com/track/3cn7PHrN7FdhOrH2wqPeKe"
     },
     {
       "album": {
@@ -15378,6 +15432,24 @@
       "duration_ms": 178000,
       "name": "Mursejler",
       "url": "https://open.spotify.com/track/4WsMQ3rw3Y5JPHIgJcG8Qc"
+    },
+    {
+      "album": {
+        "name": "Muse",
+        "url": "https://open.spotify.com/album/79O1A7s9FraBt1gmppbMt3"
+      },
+      "artists": [
+        {
+          "name": "Ina Lawson",
+          "url": "https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133375,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/3SV20Qhy0Ttd1f8fIZQiUT"
     },
     {
       "album": {
@@ -18447,6 +18519,24 @@
     },
     {
       "album": {
+        "name": "Printemps",
+        "url": "https://open.spotify.com/album/2BPTDSwabVcb0C315KGctp"
+      },
+      "artists": [
+        {
+          "name": "Les R\u00eaveries",
+          "url": "https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137424,
+      "name": "Printemps",
+      "url": "https://open.spotify.com/track/5aqsEPDq44asJ3eJDlYq1F"
+    },
+    {
+      "album": {
         "name": "Pri\u00e4re",
         "url": "https://open.spotify.com/album/5X1iOEmnifoNXSNxUxLV5E"
       },
@@ -19560,7 +19650,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 148000,
       "name": "Rester Dans Les Parages",
       "url": "https://open.spotify.com/track/3NqUYlQxTAWw3Mg3OaOwUE"
@@ -22404,6 +22494,24 @@
       "duration_ms": 123452,
       "name": "Spring",
       "url": "https://open.spotify.com/track/7gpOugvWq2g76J6bhXGlgy"
+    },
+    {
+      "album": {
+        "name": "Spring Thaw",
+        "url": "https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy"
+      },
+      "artists": [
+        {
+          "name": "Josh Jacobson",
+          "url": "https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180371,
+      "name": "Spring Thaw",
+      "url": "https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA"
     },
     {
       "album": {
@@ -26398,6 +26506,24 @@
       "duration_ms": 172431,
       "name": "Valse Mistral",
       "url": "https://open.spotify.com/track/6fnYjOnJIiCctDggEhTMti"
+    },
+    {
+      "album": {
+        "name": "Valse Naturelle",
+        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
+      },
+      "artists": [
+        {
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139624,
+      "name": "Valse Naturelle",
+      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
     },
     {
       "album": {

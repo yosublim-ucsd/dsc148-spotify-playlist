@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,428 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,442 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 30 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
 | 31 | [Tubaluba](https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Rebirth For Life](https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho) | 5:49 |
 | 32 | [Canal Street Blues](https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q) | [Dr\. Michael White](https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
-| 33 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
-| 34 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 |
+| 33 | [Mardi Gras In New Orleans](https://open.spotify.com/track/0QR95uiVATqSNRqu9PN3Hc) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [Ultimate Mardi Gras](https://open.spotify.com/album/0RxbmfEfbaSsHmE4E5lWZb) | 3:21 |
+| 34 | [You're Gonna Lose Your Gal](https://open.spotify.com/track/1efoNOFSkLcLXVuxvINY7Z) | [Henry "Red" Allen](https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf) | [Swing Out](https://open.spotify.com/album/11kTqrVXvFnbB8nWwpLldc) | 2:53 |
 | 35 | [Hotter Than That](https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:02 |
 | 36 | [Lord, Lord, Lord](https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [New Orleans Brass Band Music \- Memories Of The Fairview & Hurricane Band](https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu) | 2:25 |
 | 37 | [His Eye Is On The Sparrow](https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed) | [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [Shake That Thing](https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 | 50 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 
-Snapshot ID: `MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4`
+Snapshot ID: `MCwwZWNlYWEwOTE0NTljZjQ4NzRlYWU4MGRkOGMyNjkwYzFjODU4NWE5`

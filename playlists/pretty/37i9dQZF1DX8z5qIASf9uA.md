@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 
 > Honramos la memoria de las leyendas de nuestra Música Mexicana\. Ariel Camacho en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,154 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,431 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8z5qIASf9uA.md) - [plain]
 | 74 | [Los Chismes](https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Ya Después De Muerto](https://open.spotify.com/album/31OklCEo9716SuyztIgGLy) | 2:59 |
 | 75 | [El Destino \(with Juan Gabriel\)](https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB), [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [La Absoluta Colección](https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law) | 4:44 |
 
-Snapshot ID: `MCxlOTk0MWU5ODg2NTMwNDNkM2Y5YWM4OWNmNjRhY2M3NDE5ODhmNGVk`
+Snapshot ID: `MCw5YjE5Zjk0ZDRkN2MwZWI2N2QxNWEyYWM1NmU3NGY0ZjExMWEyY2Y0`

@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "alter",
+        "url": "https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC"
+      },
+      "artists": [
+        {
+          "name": "Indie Anthony",
+          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138049,
+      "name": "alter",
+      "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
+    },
+    {
+      "album": {
         "name": "Always Then",
         "url": "https://open.spotify.com/album/6K1bLeeV0TSh37uczoEvFC"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 320625,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/2L7yZATBaLmKEb0BvIBXK2"
@@ -1138,7 +1156,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 270094,
       "name": "Go and Come Back",
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
@@ -2936,7 +2954,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 307000,
       "name": "Involved",
       "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 209000,
       "name": "Last Night's Haze",
       "url": "https://open.spotify.com/track/6P8FKtzzxYE2cNy2kRgzFV"
@@ -3282,7 +3300,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 186253,
       "name": "Long Holiday",
       "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
@@ -3444,7 +3462,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-23",
+      "date_removed": null,
       "duration_ms": 280243,
       "name": "means to an end (not enough)",
       "url": "https://open.spotify.com/track/3umsW2c9mVYfLOL1uvMUuM"
@@ -3570,7 +3588,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 344000,
       "name": "night is young",
       "url": "https://open.spotify.com/track/3mALM7a4cLufetyxSUPbl5"
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 211319,
       "name": "Press",
       "url": "https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ"
@@ -4738,7 +4756,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 304240,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
@@ -5110,6 +5128,24 @@
       "duration_ms": 198773,
       "name": "This Time",
       "url": "https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x"
+    },
+    {
+      "album": {
+        "name": "Dopamine Loop",
+        "url": "https://open.spotify.com/album/5Rkg1yHCcy0XqsSU8kZNxq"
+      },
+      "artists": [
+        {
+          "name": "Luster",
+          "url": "https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240941,
+      "name": "Thorn In Yr Kiss",
+      "url": "https://open.spotify.com/track/2nKrmlSHiJcNnnED2QLaAz"
     },
     {
       "album": {

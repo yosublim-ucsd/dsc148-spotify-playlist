@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,001 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,081 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 36 | [It's Crazy \(feat\. Melody\)](https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Melody](https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:15 |
 | 37 | [HO4ME](https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [HO4ME](https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0) | 3:55 |
 | 38 | [Needed That](https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Me vs\. Myself \(Deluxe\)](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:26 |
-| 39 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
-| 40 | [Friend Zone](https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:55 |
+| 39 | [Friend Zone](https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:55 |
+| 40 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 |
 | 41 | [WAKA](https://open.spotify.com/track/6ZyjQTlZxDtdjYKDwcAWNk) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 2:08 |
 | 42 | [Already Know](https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB) | [Yung Pooda](https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai), [Angelica Vila](https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Already Know](https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA) | 2:43 |
 | 43 | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Right Back \(feat\. A Boogie Wit Da Hoodie\)](https://open.spotify.com/album/36Mq31otog86NGRflpMmkg) | 4:14 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 51 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b) | 4:41 |
 | 52 | [Somebody](https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Somebody](https://open.spotify.com/album/2tGRWs8mrUVyjgbMIQpWQN) | 2:54 |
 
-Snapshot ID: `MjgwNTkxOTksMDAwMDAwMDA5OWIxNWZiYmM0MDFkNjAwYmU1MjVmOGMwNjZjYjg4Mg==`
+Snapshot ID: `MjgwNjA1NjAsMDAwMDAwMDAwYzc5YTZlMjA1NGZkZjhmNzBmNjUyZGQ2NGY0NDU2OA==`

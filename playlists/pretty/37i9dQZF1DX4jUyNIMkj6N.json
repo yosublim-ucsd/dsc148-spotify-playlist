@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 179833,
+  "num_followers": 179883,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODVjNzZhNjU3YmQxNDA1MjY4Mzg3NjQwMDhjODM1MTJiMzQ4ZWNj",
+  "snapshot_id": "MCw5Yjg1NjRjZDZiNTgwY2FjMjZkZjUyNTlmOTZmZDNmNGQ0MzZkYzNm",
   "tracks": [
     {
       "added_at": "2023-05-04 22:01:00",
@@ -307,6 +307,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Wolf",
+        "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Skisser",
         "url": "https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 299840,
       "name": "bl\u00f3mi",
       "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Wolf",
-        "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "The Ghost in Your Smile",
+        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
+      },
+      "artists": [
+        {
+          "name": "Jarle Skavhellen",
+          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "The Ghost in Your Smile",
+      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Jag \u00e4r sen igen",
         "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 170875,
       "name": "Halsmandlar",
       "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "The Ghost in Your Smile",
-        "url": "https://open.spotify.com/album/7Lr7uajuRiYoGcUkmTrBRc"
-      },
-      "artists": [
-        {
-          "name": "Jarle Skavhellen",
-          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "The Ghost in Your Smile",
-      "url": "https://open.spotify.com/track/2BOGhPt0OosTyHJZEc8SYA"
     },
     {
       "added_at": "2023-05-04 22:01:00",

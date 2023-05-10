@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > FFVII REMAKE O.S.Tから楽曲追加！ 緻密な映像美と豊かな物語性で世界中から愛されている最高峰RPGシリーズ、ファイナルファンタジーの珠玉の名曲集。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,895 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,911 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 79 | [Final Fantasy](https://open.spotify.com/track/5CkooXsljzvOXWdgLWP3i8) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 3:56 |
 | 80 | [Welcome Home \- Journey's End](https://open.spotify.com/track/74rgO4P5sXSmL2Cohs5l69) | [柴田 徹也](https://open.spotify.com/artist/52I37y2UE48RmajyAG2LMG) | [FINAL FANTASY XV Original Soundtrack \(Volume 2【2/2】\)](https://open.spotify.com/album/74zIzz2axfAFkEXeNozoau) | 3:19 |
 
-Snapshot ID: `MCw2ZDBhMzNmNmM4M2Y2MzVlMGVjZGJjYTk5ODJlN2Q4MzhkODFlMDJh`
+Snapshot ID: `MCw5ZTIzMGYxNzkyYTlkM2RjZjk2N2I1YmNmZDQ1YmNkOTllNDU4ZGYw`

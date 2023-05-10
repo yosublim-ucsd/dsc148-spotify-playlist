@@ -1,12 +1,12 @@
 {
   "description": "Repeat-free hours of new and beloved indie folk. Cover: Paris Paloma",
-  "num_followers": 791189,
+  "num_followers": 791306,
   "original_name": "Infinite Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDRlNDE4OWYwMWMyODY2ZjJhN2JiNGRmNzM1OTRlMmFmMWQ4YTRk",
+  "snapshot_id": "MCwxY2E4NGNkZmEwNmM2OTNmOTJjODIwNTc0MTFlY2JkNjMxMTI2NWMz",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Slow Reveal: Chapter One",
         "url": "https://open.spotify.com/album/5iTODzVpwUxEctZCqOo15s"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 158948,
       "name": "The Love",
       "url": "https://open.spotify.com/track/1WWF1IGjA7VjAFjnpaNoRI"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Calico",
+        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 192961,
+      "name": "Bruises Off The Peach",
+      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Monoflora",
         "url": "https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 309072,
       "name": "Deep In Love",
       "url": "https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Calico",
-        "url": "https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Bruises Off The Peach",
-      "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/2tsB8pb7S525A50GUVL1IE"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/5zzbToGMuEli0E7RVFIhDA"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 174773,
       "name": "Faith Healer",
       "url": "https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Younger & Dumber",
-        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
-      },
-      "artists": [
-        {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        }
-      ],
-      "duration_ms": 279040,
-      "name": "Younger & Dumber",
-      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Big Picture",
         "url": "https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 165133,
       "name": "Pick",
       "url": "https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        }
+      ],
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "This Is A Photograph",
-      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Other\u2019s Melodies",
         "url": "https://open.spotify.com/album/3rkUjM57mjVjnqr2f2nvtA"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 187211,
       "name": "Other\u2019s Melodies",
       "url": "https://open.spotify.com/track/2XpiUG08IAJThd0MLsH0AB"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "This Is A Photograph",
+      "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Know You Know Me (With Matt Berninger)",
-        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        },
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 199123,
-      "name": "I Know You Know Me (With Matt Berninger)",
-      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Cusp",
         "url": "https://open.spotify.com/album/6jGsKEUE3weS6QBs5tR2M4"
       },
@@ -1883,18 +1863,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Drop Cherries",
-        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+        "name": "I Know You Know Me (With Matt Berninger)",
+        "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        },
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
         }
       ],
-      "duration_ms": 206103,
-      "name": "God Above",
-      "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
+      "duration_ms": 199123,
+      "name": "I Know You Know Me (With Matt Berninger)",
+      "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1931,6 +1915,22 @@
       "duration_ms": 240000,
       "name": "Feel - with Kyson",
       "url": "https://open.spotify.com/track/2OmxtFDC3E0AYNr3Rixnx4"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Drop Cherries",
+        "url": "https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 206103,
+      "name": "God Above",
+      "url": "https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "This Is Really Going To Hurt",
-        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 198266,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Heartache of the Wind (Prologue)",
         "url": "https://open.spotify.com/album/41LTqRAe5X0pd97STdyBwn"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 144568,
       "name": "Heartache of the Wind (Prologue)",
       "url": "https://open.spotify.com/track/0py2QszUwxAnnH1uRhSvJS"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "This Is Really Going To Hurt",
+        "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        }
+      ],
+      "duration_ms": 198266,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/6tPrmeifTXshblYA7ahTUA"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2119,6 +2119,26 @@
       "duration_ms": 211994,
       "name": "Habit",
       "url": "https://open.spotify.com/track/7gssKF1R5EclIP8Izaxcle"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
+      },
+      "artists": [
+        {
+          "name": "Garrett Kato",
+          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
+        },
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 143560,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2267,22 +2287,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Bedouine (Deluxe)",
-        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
-      },
-      "artists": [
-        {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Nice and Quiet",
-      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -2295,6 +2299,22 @@
       "duration_ms": 176268,
       "name": "4th of july",
       "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bedouine (Deluxe)",
+        "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
+      },
+      "artists": [
+        {
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Nice and Quiet",
+      "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2343,26 +2363,6 @@
       "duration_ms": 219680,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Never Alone",
-        "url": "https://open.spotify.com/album/3JqNfyou9m91bGd9s7HMMU"
-      },
-      "artists": [
-        {
-          "name": "Garrett Kato",
-          "url": "https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t"
-        },
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 143560,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/19F9zI5CTg1MZAVMA9EQ5P"
     },
     {
       "added_at": "2023-05-05 04:00:00",

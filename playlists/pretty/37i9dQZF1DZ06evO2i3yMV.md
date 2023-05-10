@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,341 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,350 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 50 | [Day Job](https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Creature Dreams](https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm) | 4:35 |
 | 51 | [Dusty Stars](https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Desiderium](https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC) | 3:11 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDBhMThiNmEzYTA3YzdiZGMwNDUwMjIxYzM1NmYyOGEzMg==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDBiOTcxN2Y1ZGQxOGZmMWM2NmU4MDk3NTcxMDY3Mzk1YQ==`

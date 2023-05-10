@@ -4,7 +4,7 @@
 
 > Come on down to the waters ye sinner and dig deep into this collection of songs and stories steeped in struggle, hope, darkness, light, sin and salvation.
 
-56 songs - 3 hr 45 min
+57 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 | 2018-04-16 |  |
 | [Beat The Devil's Tattoo](https://open.spotify.com/track/466LASOuTbWDkrwZ3Ylxvv) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/3ZF8HT7KB4gOvszKgSfUkP) | 3:45 | 2018-04-16 | 2022-07-29 |
 | [Beat the Devil's Tattoo](https://open.spotify.com/track/61OOEzfcJvTLHhFiLZOGRN) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/7tSapn3n98ZkK3B1EXEGII) | 3:45 | 2018-04-16 | 2022-11-13 |
-| [Blood of the Lamb](https://open.spotify.com/track/0wXMp5d60RI5Fq3VvmvsNH) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue Vol\. II](https://open.spotify.com/album/2kgMlE1WK8ZCepSEawikNw) | 4:14 | 2023-02-18 |  |
+| [Blood of the Lamb](https://open.spotify.com/track/0wXMp5d60RI5Fq3VvmvsNH) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue Vol\. II](https://open.spotify.com/album/2kgMlE1WK8ZCepSEawikNw) | 4:14 | 2023-02-18 | 2023-05-10 |
+| [Blood Of The Lamb](https://open.spotify.com/track/4JWjFabQSR3qDRw3vAttGu) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue Vol\. II](https://open.spotify.com/album/6OvETYe8LcicSCHzNxXn4m) | 4:14 | 2023-02-18 |  |
 | [Blood of the Lamb](https://open.spotify.com/track/6tjDxt61i23RSWhGCruFLr) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Mermaid Avenue: The Complete Sessions](https://open.spotify.com/album/7uSgX0fbBol4NDyqsSZJaE) | 4:14 | 2018-04-16 | 2023-04-27 |
 | [Brace for Impact \(Live a Little\)](https://open.spotify.com/track/1cRc03E5Ps0fwe4l8fz2J0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 5:49 | 2018-04-16 |  |
 | [Brother, Do You Know the Road?](https://open.spotify.com/track/0J37PvXDuYgnTjpuMli03s) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Brother, Do You Know the Road?](https://open.spotify.com/album/1NTRLhDozTGthCY7JyBc54) | 6:09 | 2018-04-16 |  |

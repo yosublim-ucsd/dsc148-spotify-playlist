@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-48 songs - 3 hr 53 min
+49 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Fleeting Lullaby](https://open.spotify.com/track/1pnXMEGyw85jtg9fFZf4GP) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 2:53 | 2022-10-09 |  |
 | [FREEDOM](https://open.spotify.com/track/6yx0b2fX0JegQZFsYdLFwl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:06 | 2022-10-09 |  |
 | [Gira Gira](https://open.spotify.com/track/0vHCmjN8pepvdu41r69gcB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:36 | 2022-10-09 |  |
+| [Ibara](https://open.spotify.com/track/3GOPpPhR2FYGvIE0WdZdeT) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ibara](https://open.spotify.com/album/5mTalfXdPFFP3M5VShajlw) | 4:21 | 2023-05-09 |  |
 | [I’m a Controversy](https://open.spotify.com/track/7JATH77DeeEJL69Au9osjM) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [I’m a Controversy](https://open.spotify.com/album/28nsX0whh8XuEMgYfqbrOd) | 3:14 | 2023-02-19 |  |
 | [Kagakushu](https://open.spotify.com/track/7MJgZqsnLjhGwcZpRuHyp0) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:35 | 2022-10-09 |  |
 | [KokoroToIuNaNoFukakai](https://open.spotify.com/track/5b2Zd5mH2MNYohcWYfnUze) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:29 | 2022-10-09 |  |

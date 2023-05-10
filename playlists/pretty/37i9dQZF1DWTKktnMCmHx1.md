@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,019 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,023 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 57 | [Eurovision \(feat\. Rondodasosa, Baby Gang, A2 Anti, Morad, Beny Jr, Ashe 22 & Freeze corleone\)](https://open.spotify.com/track/4f5TKGvkD4TkTjr61GKNAG) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [A2 Anti](https://open.spotify.com/artist/3TTq94wgOIj0skk2wT8bnb), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 4:03 |
 | 58 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
 | 59 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 |
-| 60 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
-| 61 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
+| 60 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
+| 61 | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [HOE + HARD \(feat\. Tony Effe\)](https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd) | 2:33 |
 | 62 | [Tyler Herro](https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tyler Herro](https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe) | 2:36 |
 | 63 | [Yamamay](https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [Yamamay](https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB) | 2:42 |
 | 64 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 76 | [Coco \(feat\. DaBaby\)](https://open.spotify.com/track/6MGRweoLPBAaPcXTMpMWsA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 2:22 |
 | 77 | [SOLITE PARE \(feat\. thasup & Sfera Ebbasta\)](https://open.spotify.com/track/0PQxC8NHgiKXLK3Zm6QoCj) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2](https://open.spotify.com/album/6ZVOpNfX2JMfAFDqEfmyQ5) | 3:31 |
 | 78 | [CRAZY LOVE](https://open.spotify.com/track/2p5OyhSm5fS90n0Q7R3r6D) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:12 |
-| 79 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 |
-| 80 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
+| 79 | [Cancelo](https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cancelo](https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8) | 2:54 |
+| 80 | [PENSAVA](https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [PENSAVA](https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn) | 2:28 |
 
-Snapshot ID: `MCxjYzQxNGNiMjQ1ODI1ZTQxYWFjMzhiYjc4MWJlY2ZlYjFjY2I5ODYw`
+Snapshot ID: `MCw5MjdmMTg3ZmFmNmJiZjFkZWIwNTg3Y2E4ZDVkM2NhYTM2ZmMzOTMz`

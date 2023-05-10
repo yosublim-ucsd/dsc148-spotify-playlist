@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,919 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,927 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 12 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
 | 13 | [When Times Get Rough](https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [When Times Get Rough](https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui) | 2:16 |
 | 14 | [Someone You Love](https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Someone You Love](https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT) | 4:14 |
-| 15 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
-| 16 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 |
+| 15 | [Dreamer](https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Dreamer](https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg) | 2:53 |
+| 16 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
 | 17 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 |
 | 18 | [Whatever Turns You On](https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Buck](https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV) | 2:04 |
 | 19 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 30 | [Lost & Found](https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Lost & Found](https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV) | 2:38 |
 | 31 | [Today I Started Loving You Again](https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 2:36 |
 | 32 | [Maybe, Maybe Not](https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB) | [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Maybe, Maybe Not](https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf) | 3:20 |
-| 33 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
-| 34 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
+| 33 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
+| 34 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
 | 35 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
 | 36 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 |
 | 37 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 46 | [Colours](https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50) | [Christof van der Ven](https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F) | [In The Morning, When We Rise](https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM) | 3:52 |
 | 47 | [Closing Time](https://open.spotify.com/track/0CIfnjBJxhYbL69mU4K4yl) | [Deborah Parlor](https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl), [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [Closing Time](https://open.spotify.com/album/75jo912nYXWzN6TY8bBFgO) | 3:22 |
 | 48 | [By My Side](https://open.spotify.com/track/4o5tHS1nMLrBZD2WfUPMn8) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [By My Side](https://open.spotify.com/album/6bqpDp9MHIzsa9wx0DTKZT) | 2:53 |
-| 49 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 |
-| 50 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 |
+| 49 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 |
+| 50 | [Once Upon A Town](https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Once Upon A Town](https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4) | 2:59 |
 
-Snapshot ID: `MCxmOTA0MGIwMDg3MWY1ZDRlNDcyMmQwY2I5NTE4YTExMWIwMzk5NzNh`
+Snapshot ID: `MCxjMDVmZTliNzMxZjA2YmExYzAyNzYzNDNjNzQ5OTg1MDA5ODZiMTZi`

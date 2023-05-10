@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6492,
+  "num_followers": 6499,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2FkZTEyOTE2MDdjMjgxNTA5MTVkMWE3ZGM5NjRhNDNkMDMyYjhm",
+  "snapshot_id": "MCwyNGQ0NzY4ZDNiZjYzOTllOTVkZmQyMTY1ZjFhYTUzYTUzNTljZWM0",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Goodbye - Instrumental",
+      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 251173,
       "name": "You're My End and My Beginning - Instrumental",
       "url": "https://open.spotify.com/track/3v0HU7S4mzqQxFQJXW9970"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Goodbye - Instrumental",
-      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
-      },
-      "artists": [
-        {
-          "name": "DMEANOR",
-          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "I'll Take You To Tomorrow - Instrumental",
-      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Romance is a Bonus Book OST Part.4",
         "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+        "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
       },
       "artists": [
         {
-          "name": "YONGZOO",
-          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+          "name": "DMEANOR",
+          "url": "https://open.spotify.com/artist/0Czr7RzCmwnRfMK0dQOi4V"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Puzzle - Instrumental",
-      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+      "duration_ms": 222786,
+      "name": "I'll Take You To Tomorrow - Instrumental",
+      "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -779,6 +763,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
         "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 240946,
       "name": "Leaning on you - Instrumental",
       "url": "https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
-      },
-      "artists": [
-        {
-          "name": "Jo Hyun Ah",
-          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "When We Were Together - Instrumental",
-      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -839,6 +823,22 @@
       "duration_ms": 251483,
       "name": "A Poem For Poetry - Instrumental",
       "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
-      },
-      "artists": [
-        {
-          "name": "YOOK SUNG JAE",
-          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Love Resembles Memories - Instrumental",
-      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Trying to say good-bye",
         "url": "https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 238573,
       "name": "Trying to say good-bye (Inst.)",
       "url": "https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNG JAE",
+          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Love Resembles Memories - Instrumental",
+      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
-        }
-      ],
-      "duration_ms": 418375,
-      "name": "EYES , NOSE ,LIPS - Piano Version",
-      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 230768,
       "name": "Please Forget Me - Instrumental",
       "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "duration_ms": 418375,
+      "name": "EYES , NOSE ,LIPS - Piano Version",
+      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-pop Reimaginings",
-        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
-      },
-      "artists": [
-        {
-          "name": "postmoderndisco",
-          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
-        }
-      ],
-      "duration_ms": 322910,
-      "name": "Bae Bae x Loser",
-      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "K-POP PIANO BEST",
         "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 314345,
       "name": "LOVE SCENARIO - Piano Version",
       "url": "https://open.spotify.com/track/1ppUu8SFXpY9ulzvu4KtA2"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "duration_ms": 322910,
+      "name": "Bae Bae x Loser",
+      "url": "https://open.spotify.com/track/0UFFqrDNF1uqO01n1NAqsv"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Best of BTS, Vol. 2",
-        "url": "https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 250224,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "KPOP Piano Collection, Vol. 1",
         "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 300840,
       "name": "Into The New World",
       "url": "https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The Best of BTS, Vol. 2",
+        "url": "https://open.spotify.com/album/0eVZHRyaA8xrIhMCTcLA9w"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 250224,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/5M6UhxWExK0Tc9ZsXsMjIQ"
     },
     {
       "added_at": "2022-11-02 13:40:53",

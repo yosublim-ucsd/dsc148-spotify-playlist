@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Lambrini Girls
 
-131 songs - 6 hr 29 min
+132 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,13 +91,14 @@
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2022-12-02 |  |
 | [me vs me vs all of y'all](https://open.spotify.com/track/0t7VlVRdaVBqH1p1UIPcrV) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [me vs me vs all of y'all](https://open.spotify.com/album/5wJmMACyVn4r4Eb3AXqM1u) | 2:59 | 2023-01-20 | 2023-04-15 |
 | [Moto](https://open.spotify.com/track/1Zqw6aRk59n8RcgxJkHkEn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [punkadonk](https://open.spotify.com/album/3Hg3voKbxtusae5j83FLMR) | 2:45 | 2022-12-02 | 2023-03-18 |
+| [New England](https://open.spotify.com/track/3T43iJI71ZeD7V256LNxxn) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here's What You Could Have Won \(Deluxe\)](https://open.spotify.com/album/5keOCrzujqEiUbtsf0mDq7) | 3:38 | 2023-03-03 |  |
 | [New England](https://open.spotify.com/track/5zbKXMod7hqor3gJH72enV) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 3:38 | 2022-12-02 | 2023-05-04 |
 | [Night Pill](https://open.spotify.com/track/4ZO9c1pWgiSQHVS5HW2Qvy) | [Wu\-Lu](https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd), [Asha Lorenz](https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX) | [LOGGERHEAD](https://open.spotify.com/album/47XvaxAeDolqhNOnGYLxEk) | 3:40 | 2022-12-02 | 2023-01-19 |
 | [No One to Judge Me](https://open.spotify.com/track/3caRPcZ7eOYhxvgIsiVEQe) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings \(Deluxe\)](https://open.spotify.com/album/01qHqKXqAp9103BTmj4J1A) | 2:41 | 2022-12-02 | 2023-02-05 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-12-02 |  |
 | [Paranoid](https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Paranoid](https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv) | 3:19 | 2022-12-02 |  |
 | [Paying The Price](https://open.spotify.com/track/6F4DAh0ANpqlP20iR4Fqlh) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Paying The Price](https://open.spotify.com/album/5lXmnuAhMGGRYkQwOCVR3w) | 2:40 | 2022-12-02 |  |
-| [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-12-02 |  |
+| [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-12-02 | 2023-05-10 |
 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 | 2023-04-21 |  |
 | [Relentless](https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 4:34 | 2022-12-02 |  |
 | [Reset My Password](https://open.spotify.com/track/7GipCwr5UKD9qtjr15UBMz) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Reset My Password](https://open.spotify.com/album/5dj8uEetIgU9k9GSTTyYdB) | 2:50 | 2022-12-02 | 2023-03-04 |

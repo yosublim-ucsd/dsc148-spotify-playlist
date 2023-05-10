@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "Frontier",
+        "url": "https://open.spotify.com/album/4W0Dxg2rjqyKP0VqIW2gBm"
+      },
+      "artists": [
+        {
+          "name": "Kaori Watt",
+          "url": "https://open.spotify.com/artist/4fOpYq3DgziDI0B3g0OXYM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230294,
+      "name": "Frontier",
+      "url": "https://open.spotify.com/track/3pmtd2RlCyMzq0oHFvkswv"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/0Nx7HrtVR1jpwpAtD9O8ob"
       },
@@ -422,7 +440,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 227290,
       "name": "Heart is King",
       "url": "https://open.spotify.com/track/2sG6KBbIaVCVD0oxMgUWbW"
@@ -538,10 +556,46 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 252000,
       "name": "In Time",
       "url": "https://open.spotify.com/track/5MceUn8ht65byQXvBBsUsf"
+    },
+    {
+      "album": {
+        "name": "In Your Mind EP",
+        "url": "https://open.spotify.com/album/1YBf9rbFGSkHddjJKUPUOO"
+      },
+      "artists": [
+        {
+          "name": "Drunken Kong",
+          "url": "https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336617,
+      "name": "In Your Mind",
+      "url": "https://open.spotify.com/track/6B0A3sFOMKxg01sOrvGRYa"
+    },
+    {
+      "album": {
+        "name": "Indian Summer EP",
+        "url": "https://open.spotify.com/album/7wdlWSkWBFuvItliqZyopd"
+      },
+      "artists": [
+        {
+          "name": "Filterheadz",
+          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399416,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/19HEW23HyFHzSBtyzzJT0D"
     },
     {
       "album": {
@@ -560,7 +614,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 356245,
       "name": "Infiltrate",
       "url": "https://open.spotify.com/track/2yymh5uzrGJWrHexLQxsu3"
@@ -578,7 +632,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 432000,
       "name": "Invisible - Original Mix",
       "url": "https://open.spotify.com/track/5Oj8ltcM86fcZk30A7RQTY"
@@ -618,6 +672,24 @@
       "duration_ms": 385658,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3f6YDVnQ4xy8Aw9mcIW71o"
+    },
+    {
+      "album": {
+        "name": "Liberty",
+        "url": "https://open.spotify.com/album/5X3xCHpz9IYIbvbaFbRYs6"
+      },
+      "artists": [
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317083,
+      "name": "Liberty",
+      "url": "https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF"
     },
     {
       "album": {
@@ -708,10 +780,32 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 392709,
       "name": "Missing Channel - Original Mix",
       "url": "https://open.spotify.com/track/1Hs5l7PHbZ0LZAZfAUw1bZ"
+    },
+    {
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/4ZDcXG75hSksSLM9TacL69"
+      },
+      "artists": [
+        {
+          "name": "Advokate",
+          "url": "https://open.spotify.com/artist/2NGXNMIoLH8NjuXAp6AssA"
+        },
+        {
+          "name": "Benefice",
+          "url": "https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227272,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/1AwDVCplzWNyqDV1Ss64sb"
     },
     {
       "album": {
@@ -748,7 +842,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 209794,
       "name": "On The Beach - Eli Brown Remix",
       "url": "https://open.spotify.com/track/2mHsfuHrY40djfLRFVxCm2"
@@ -770,6 +864,24 @@
       "duration_ms": 366266,
       "name": "On The Grind",
       "url": "https://open.spotify.com/track/0OnPEzZR0HYVG1pxrEa1Hm"
+    },
+    {
+      "album": {
+        "name": "Physical Change EP",
+        "url": "https://open.spotify.com/album/0QeMDNqrQdFQoBNcem9UqF"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598208,
+      "name": "Physical Change",
+      "url": "https://open.spotify.com/track/0xlGYnc6gnO8KwyhPlavjL"
     },
     {
       "album": {
@@ -846,7 +958,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 234721,
       "name": "PURA VIDA",
       "url": "https://open.spotify.com/track/316urhiKblYLrzwW3WO51a"
@@ -1006,7 +1118,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 333134,
       "name": "Rosso Profondo",
       "url": "https://open.spotify.com/track/2lHBQNCTJjSldyb61SeZeD"
@@ -1064,7 +1176,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 384009,
       "name": "Solar Deity",
       "url": "https://open.spotify.com/track/1EGRJ6ekCKA3DigfsFTce6"
@@ -1082,7 +1194,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 348444,
       "name": "Spatial Perception",
       "url": "https://open.spotify.com/track/0rAdstq2FtKpApOYyouwAf"
@@ -1115,6 +1227,24 @@
     },
     {
       "album": {
+        "name": "Touch The Darkness",
+        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379060,
+      "name": "The Alchemist",
+      "url": "https://open.spotify.com/track/5rSLRPEBdRaqDjdbcLZrUo"
+    },
+    {
+      "album": {
         "name": "When the Lights Go Down",
         "url": "https://open.spotify.com/album/50v574ovT1KSQBsrLU6vbe"
       },
@@ -1144,7 +1274,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 429841,
       "name": "The Club",
       "url": "https://open.spotify.com/track/3ypZhP8UQrkevv7CxhcaW7"
@@ -1205,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Touch The Darkness",
+        "url": "https://open.spotify.com/album/4RJKnty59mAjgmslaWAGkm"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453333,
+      "name": "Touch The Darkness",
+      "url": "https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3"
+    },
+    {
+      "album": {
         "name": "Senso Sounds Level 11",
         "url": "https://open.spotify.com/album/4jeU0bEaImdBYqYUhmrQRw"
       },
@@ -1216,10 +1364,28 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 527921,
       "name": "Unravel Me",
       "url": "https://open.spotify.com/track/4fKHj7e2wCouGDXIEIXEKk"
+    },
+    {
+      "album": {
+        "name": "Frontier",
+        "url": "https://open.spotify.com/album/4W0Dxg2rjqyKP0VqIW2gBm"
+      },
+      "artists": [
+        {
+          "name": "Kaori Watt",
+          "url": "https://open.spotify.com/artist/4fOpYq3DgziDI0B3g0OXYM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245217,
+      "name": "Virtue of the Change",
+      "url": "https://open.spotify.com/track/4OHZB5GgoVYIXCzKW6DSTO"
     },
     {
       "album": {

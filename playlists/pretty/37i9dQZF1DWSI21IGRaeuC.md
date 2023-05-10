@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,275 likes - 75 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,320 likes - 75 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 38 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
 | 39 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 |
 | 40 | [No Turning Back](https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug) | [MANT](https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y) | [No Turning Back](https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt) | 3:10 |
-| 41 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
-| 42 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 |
-| 43 | [Gozar](https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Gozar](https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW) | 3:24 |
+| 41 | [Gozar](https://open.spotify.com/track/5pwPJceEvQK9B41jCZ7HD1) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Gozar](https://open.spotify.com/album/5AQeJCMWPNAPw8wPmZlqUW) | 3:24 |
+| 42 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
+| 43 | [La Serenata](https://open.spotify.com/track/2xoB9e4xWilVsqZhlHnBQF) | [The Shooters](https://open.spotify.com/artist/1RJGNOlgGHlD8vl0uire0y) | [La Serenata](https://open.spotify.com/album/3wwXFMVnxEs6CVqM2jPynR) | 2:58 |
 | 44 | [Ole](https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe) | [Zilka](https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP) | [Ole](https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen) | 2:38 |
 | 45 | [This Energy](https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [This Energy EP](https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU) | 3:18 |
 | 46 | [Zigazigahhhh](https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Zigazigahhhh](https://open.spotify.com/album/65OvZNHJCTa2arcl7bDzbx) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [Bear](https://open.spotify.com/track/0233tCHQ7wju5xzpQfeb5s) | [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh) | [Bear](https://open.spotify.com/album/1gyE0xFDCHrJwh7djleXcz) | 5:11 |
 | 75 | [Ramona](https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Beings of Light](https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM) | 7:03 |
 
-Snapshot ID: `MCwwZmRkMDI0OTI0ZTE0ZTQ4MjMzYmYwODQzMThhN2ZiYjI4NzQxNDhl`
+Snapshot ID: `MCxjZmRhOGU2YjdlZTEzZWJmNzgzM2Y5NzZmMTI4ZmY3NzAzNDQzZDFk`

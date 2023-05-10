@@ -1,12 +1,12 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3057955,
+  "num_followers": 3058283,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzE3MDU0NGY2ODYyNmNmY2RhMTY3NWYzNWI0MzI3MGZkMGJiNTAy",
+  "snapshot_id": "MCxhYTM3MjNiYmUxZmJiNjJlOTU3MGM4NzFlYTYyNWVlOGI3NGVjZGJk",
   "tracks": [
     {
       "added_at": "2023-01-12 23:01:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Que De Raro Tiene",
-        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "15 \u00c9xitos de Marisela Vol. 1",
         "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 213506,
       "name": "La Pareja Ideal",
       "url": "https://open.spotify.com/track/6HTBhdYFWi1wIGbm7dV7iV"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Que De Raro Tiene",
+        "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Hacer El Amor Con Otro",
-      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 234320,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Hacer El Amor Con Otro",
+      "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Lo Dudo",
-      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Lo Dudo",
+      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Si Me Dejas Ahora",
-        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
+        "name": "Canta A Juan Gabriel",
+        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Si Me Dejas Ahora",
-      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
+      "duration_ms": 222760,
+      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -911,22 +915,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Canta A Juan Gabriel",
-        "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
+        "name": "Si Me Dejas Ahora",
+        "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
       },
       "artists": [
         {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 222760,
-      "name": "D\u00e9jame Vivir (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
+      "duration_ms": 272000,
+      "name": "Si Me Dejas Ahora",
+      "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 137560,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 203753,
+      "name": "Contigo En La Distancia",
+      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Solo Exitos",
         "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 261982,
       "name": "Castillos",
       "url": "https://open.spotify.com/track/1Wv08uEqny4IZk45kPH6rx"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 203753,
-      "name": "Contigo En La Distancia",
-      "url": "https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+        "name": "Mi Vida. Historia Musical De Un Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/6VvOYxN8hECTjvqUHbD0ce"
       },
       "artists": [
         {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+          "name": "Miguel Gallardo",
+          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
         }
       ],
-      "duration_ms": 276600,
-      "name": "Con los A\u00f1os Que Me Quedan",
-      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+      "duration_ms": 210546,
+      "name": "Otro Ocupa Mi Lugar",
+      "url": "https://open.spotify.com/track/2i7oFlgafYTgri8LvGueYt"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Con los A\u00f1os Que Me Quedan",
+      "url": "https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 218706,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/08Jr52g99jcHUYx9NhU0IE"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "Mi Vida. Historia Musical De Un Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/6VvOYxN8hECTjvqUHbD0ce"
-      },
-      "artists": [
-        {
-          "name": "Miguel Gallardo",
-          "url": "https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T"
-        }
-      ],
-      "duration_ms": 210546,
-      "name": "Otro Ocupa Mi Lugar",
-      "url": "https://open.spotify.com/track/2i7oFlgafYTgri8LvGueYt"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "De Nina A Mujer",
-        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
-      },
-      "artists": [
-        {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "De Ni\u00f1a a Mujer",
-      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "Mis 30 Mejores Canciones",
         "url": "https://open.spotify.com/album/4OFqUGVCznz7kSWhdpSkN4"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 272360,
       "name": "No Basta",
       "url": "https://open.spotify.com/track/3dvw72c1XCh2oznmecISzA"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "De Nina A Mujer",
+        "url": "https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "De Ni\u00f1a a Mujer",
+      "url": "https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
         "name": "El Sonido Vol. 1",
         "url": "https://open.spotify.com/album/4pikNCtnVpJMebAIS5tuYS"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 262973,
       "name": "Mi Buen Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5rH8LM84M3eG0ZtzkkYMLD"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
+        "name": "\"Miguel\"",
+        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 251226,
+      "name": "Morir de Amor",
+      "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
+    },
+    {
+      "added_at": "2023-01-12 23:01:08",
+      "album": {
         "name": "Llorar\u00e1s",
         "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 231967,
       "name": "Mudanzas",
       "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
-    },
-    {
-      "added_at": "2023-01-12 23:01:08",
-      "album": {
-        "name": "\"Miguel\"",
-        "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 251226,
-      "name": "Morir de Amor",
-      "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+        "name": "Todo El Amor",
+        "url": "https://open.spotify.com/album/3K3pNRZGFoW9T0iMuQOw3n"
       },
       "artists": [
         {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
         }
       ],
-      "duration_ms": 169720,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
+      "duration_ms": 297466,
+      "name": "Huele A Peligro",
+      "url": "https://open.spotify.com/track/5qPsvYBxpqxZYwRgq1SQ9j"
     },
     {
       "added_at": "2023-01-12 23:01:08",
@@ -2115,18 +2115,18 @@
     {
       "added_at": "2023-01-12 23:01:08",
       "album": {
-        "name": "Todo El Amor",
-        "url": "https://open.spotify.com/album/3K3pNRZGFoW9T0iMuQOw3n"
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
       "artists": [
         {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
         }
       ],
-      "duration_ms": 297466,
-      "name": "Huele A Peligro",
-      "url": "https://open.spotify.com/track/5qPsvYBxpqxZYwRgq1SQ9j"
+      "duration_ms": 169720,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
     },
     {
       "added_at": "2023-01-12 23:01:08",

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-462 songs - 1 day 7 hr 28 min
+463 songs - 1 day 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A Ghost In The Weed Garden](https://open.spotify.com/track/1fKNZgza6MFW1WbkplcMIg) | [Dwen](https://open.spotify.com/artist/6HBC1vvrpaB0Zg9944uRCk) | [A Ghost In The Weed Garden](https://open.spotify.com/album/7ygpAZedWTikPn8PtNJbGU) | 3:52 | 2022-12-07 | 2023-01-26 |
 | [Abigail](https://open.spotify.com/track/75NgXlkXMMtUI9611uR5kX) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 1:53 | 2022-10-26 | 2022-12-08 |
 | [Accidental Momentary Blur](https://open.spotify.com/track/5J5oJAE95Es8IZfN5umlqr) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Compact Trauma](https://open.spotify.com/album/6ADAOhSIu5dIJqBN2rxMtz) | 2:43 | 2023-03-29 | 2023-05-04 |
+| [Adriene](https://open.spotify.com/track/41LWp11o90tOinH3V3xpky) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [In My Myth](https://open.spotify.com/album/7r3Avec8jernU9ZI1GNKjl) | 4:20 | 2023-05-09 |  |
 | [Afar](https://open.spotify.com/track/3FBt3GWqhqSzkCnzki3uPQ) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Afar](https://open.spotify.com/album/3JHxLksSAKuZzYFhgHHEcB) | 3:35 | 2022-08-10 | 2022-09-22 |
 | [After The Earthquake](https://open.spotify.com/track/3wAcEO1ZpR4qFJaVw3k8QS) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/5ifRlHZX33kTfE5kb1Cpf1) | 3:05 | 2022-10-12 | 2022-11-24 |
 | [Agreeing For Two](https://open.spotify.com/track/0OaZ3lUufHXFuSd67agjS4) | [Rozi Plain](https://open.spotify.com/artist/2plHc7V92yXf40BD8lQl2x), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Agreeing For Two](https://open.spotify.com/album/4zL7YyyHC47HFDbLYgDEVB) | 4:45 | 2022-09-28 | 2022-11-10 |

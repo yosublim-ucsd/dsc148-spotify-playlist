@@ -1,12 +1,12 @@
 {
   "description": "Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies\u2014it\u2019s an example of how music really can bring us all together. (Includes the 2021 edition + bonus tracks)",
-  "num_followers": 101259,
+  "num_followers": 101258,
   "original_name": "Barack Obama\u2019s Summer Playlist 2023",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "NDUzOCwwYzBkOGRmNTY1YmU3NGI0YjFkMjJmZDhiNjUwZjQ1ZmVjNDQxMzI3",
+  "snapshot_id": "NDU0Miw1NmNmNGRhYmE5MmMyYWM3ODAwMzVjZDY3NmIxNzBhN2Q1MDBhMWNj",
   "tracks": [
     {
       "added_at": "2022-08-10 13:59:43",
@@ -187,6 +187,26 @@
       "duration_ms": 228813,
       "name": "I Can't Get Next to You",
       "url": "https://open.spotify.com/track/2UclV6Lu93Ssh1spktn0Fp"
+    },
+    {
+      "added_at": "2023-05-09 14:55:34",
+      "album": {
+        "name": "Sister Switch",
+        "url": "https://open.spotify.com/album/4JptphwhDq0PEGrEYX07eJ"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Nathan Thomas",
+          "url": "https://open.spotify.com/artist/3EFOH4vydSGrN61cySTpvR"
+        }
+      ],
+      "duration_ms": 243609,
+      "name": "Sister Switch",
+      "url": "https://open.spotify.com/track/3ovEjhgUxM5Dn1yqvj113I"
     },
     {
       "added_at": "2022-07-26 20:11:22",
@@ -1847,6 +1867,22 @@
       "duration_ms": 141573,
       "name": "Warm Soul",
       "url": "https://open.spotify.com/track/66wswCojBn33ZKM7bFmg4E"
+    },
+    {
+      "added_at": "2023-05-09 10:48:28",
+      "album": {
+        "name": "Demerol",
+        "url": "https://open.spotify.com/album/15l3tr1Ew6L6jWpDdvgTEu"
+      },
+      "artists": [
+        {
+          "name": "Albert Mikkelsen",
+          "url": "https://open.spotify.com/artist/1oo52O7yO42i7HPz1PPxpd"
+        }
+      ],
+      "duration_ms": 192973,
+      "name": "Demerol",
+      "url": "https://open.spotify.com/track/36DASxyRjxTMpvllB80ayp"
     },
     {
       "added_at": "2023-04-21 16:30:54",

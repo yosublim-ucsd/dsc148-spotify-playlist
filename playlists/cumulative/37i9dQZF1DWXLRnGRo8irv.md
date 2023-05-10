@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-795 songs - 1 day 21 hr 57 min
+796 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Highway](https://open.spotify.com/track/0i5SCHuolYUF6IANrb8Dfb) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Highway](https://open.spotify.com/album/0LkUIcYk2Nu8tjbNiBygpF) | 3:03 | 2021-12-08 | 2022-01-05 |
 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 | 2023-02-28 | 2023-04-05 |
 | [Hold me …](https://open.spotify.com/track/6mglxgJ3ZV9WDFOVTgTFvi) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [The Crush Of Spring OST Part.3](https://open.spotify.com/album/6cxI2NnSA8YBlHJip1mdji) | 3:44 | 2022-05-31 | 2022-08-03 |
-| [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-05-02 |  |
+| [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 | 2023-05-02 | 2023-05-10 |
 | [Honest](https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC) | 3:15 | 2021-12-08 | 2022-01-05 |
 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2022-04-05 | 2022-05-05 |
 | [HOOKAH](https://open.spotify.com/track/6XWOYMVN6EvdhjVfUdXc0Q) | [DALsooobin](https://open.spotify.com/artist/0ZjVwJw2cFymrcIwmGuVEl) | [337](https://open.spotify.com/album/5jSyTkYQr74mc9TQLxU33Y) | 2:57 | 2022-08-02 | 2022-09-07 |
@@ -615,6 +615,7 @@
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-04-05 | 2022-05-05 |
 | [SOMETIMES](https://open.spotify.com/track/0OtjUV1mxN4idSXfdKFCOu) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [She Was Pretty OST Part.2](https://open.spotify.com/album/5XYNu18StbdLuRczU34Sbg) | 3:56 | 2023-02-28 | 2023-04-05 |
 | [Sorry for not being nice to you](https://open.spotify.com/track/7cOTduEv7z4YtWgmxlSjKY) | [Siha](https://open.spotify.com/artist/5K3A4z2E0liZXwmI4W3dzY) | [Sorry for not being nice to you](https://open.spotify.com/album/4FEOu5PZPHBEzuZHc3SEnj) | 3:22 | 2022-02-01 | 2022-03-08 |
+| [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-09 |  |
 | [SPICY](https://open.spotify.com/track/1k7WUkZrKqDMf2IOxVFWjW) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:14 | 2021-12-08 | 2022-01-05 |
 | [Spotlight](https://open.spotify.com/track/1fMCp60Wtrv6jqmp7awVXR) | [Serri](https://open.spotify.com/artist/38oZ3lMBfgejBalxm1GDgc) | [Dream](https://open.spotify.com/album/3vM1AXKOPmsUJYV8RF8fM8) | 3:01 | 2023-02-28 | 2023-04-05 |
 | [Spring day](https://open.spotify.com/track/3wavu8N4ikJWifoQ0It4Pc) | [Kim Pil Sun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [FEEL SUN](https://open.spotify.com/album/1d9pNp41QtcdtOd5N2qLbt) | 2:42 | 2022-02-01 | 2022-03-08 |

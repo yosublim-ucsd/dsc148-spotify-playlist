@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Joseph
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,048 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,080 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 81 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 82 | [I Love You](https://open.spotify.com/track/5oadAvQl9a6DIcCNhHSbZ5) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [I Love You](https://open.spotify.com/album/7dg4duv5N9lY7Ozu5RgfTF) | 3:37 |
 | 83 | [Waking Up in Los Angeles](https://open.spotify.com/track/0sknpzrcFUhQbWIzPZUnHz) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Waking Up in Los Angeles](https://open.spotify.com/album/6BSF6Bo8NYnHTtn0N4XgP5) | 4:01 |
-| 84 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 |
+| 84 | [Believer](https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 4:23 |
 | 85 | [Malina](https://open.spotify.com/track/5UWTtkrcnVXqkjdes4fX0W) | [Hollier](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Malina](https://open.spotify.com/album/5uXL2a5ig3x5zTvRoqsFoQ) | 4:39 |
 | 86 | [Thick of the Honey](https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:17 |
 | 87 | [An Alien In Minneapolis \- Edit](https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W) | [An Alien in Minneapolis](https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk) | 4:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 99 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 100 | [Easier Said Than Done](https://open.spotify.com/track/4zIeRcsaho6lZuaXEYR1y3) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 2:54 |
 
-Snapshot ID: `MCw2M2FiZGVkNTY4Njg2YjRjYzNmMTMyNjc4MmUwNmY4MTc2YmFkMzYz`
+Snapshot ID: `MCxjMDBiZDE3YjBiOGQ5MTg0ZWQzMjBjY2JjNTE1ZTFiMzNmYmRlNzQ3`

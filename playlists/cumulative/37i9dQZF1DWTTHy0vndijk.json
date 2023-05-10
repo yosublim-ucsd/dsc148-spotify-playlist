@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: tripleS (\ud2b8\ub9ac\ud50c\uc5d0\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: Feverse (\ud53c\ubc84\uc2a4) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 195667,
       "name": "As You Wish",
       "url": "https://open.spotify.com/track/42zMiF3EFBg5CsYbgKdhj1"
@@ -938,6 +938,24 @@
       "duration_ms": 206600,
       "name": "Chillin' Chillin'",
       "url": "https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr"
+    },
+    {
+      "album": {
+        "name": "CHO",
+        "url": "https://open.spotify.com/album/3xRq6x8OjeM3rrLU2Mepgc"
+      },
+      "artists": [
+        {
+          "name": "Feverse",
+          "url": "https://open.spotify.com/artist/2HEGA0QyWlpVzyNF6WaMVQ"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "CHO",
+      "url": "https://open.spotify.com/track/0I8H0lm68BUZphZx3Qu611"
     },
     {
       "album": {
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-28",
+      "date_removed": null,
       "duration_ms": 183413,
       "name": "FUN!",
       "url": "https://open.spotify.com/track/3bD1rBz24Pnu6tjXf4wJxH"
@@ -3524,7 +3542,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 247360,
       "name": "O.O.O (Over&Over&Over)",
       "url": "https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re"

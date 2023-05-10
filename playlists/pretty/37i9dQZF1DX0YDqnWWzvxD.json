@@ -1,12 +1,12 @@
 {
   "description": "Relax, heal and restore your energy",
-  "num_followers": 64591,
+  "num_followers": 64660,
   "original_name": "Savasana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzFkMjIxYTM0NmU5MjVlMDY3MWEzMmZkMTg4NGE2ZGVlMzRiYmQ4",
+  "snapshot_id": "MCxiZDQzMTgxZTQxNWY0ODE2YzkzZWU1MjQ3YTcwN2NiMWIzN2I5MmNi",
   "tracks": [
     {
       "added_at": "2021-06-15 08:38:14",
@@ -271,18 +271,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Bedside Angels",
-        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
+        "name": "Music to Be Born To",
+        "url": "https://open.spotify.com/album/2dvYfMDU4g8CavyhfVYeJs"
       },
       "artists": [
         {
-          "name": "Sleepy Stills",
-          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
         }
       ],
-      "duration_ms": 134504,
-      "name": "Bedside Angels",
-      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
+      "duration_ms": 382444,
+      "name": "For Elena",
+      "url": "https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -303,18 +303,18 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Music to Be Born To",
-        "url": "https://open.spotify.com/album/2dvYfMDU4g8CavyhfVYeJs"
+        "name": "Bedside Angels",
+        "url": "https://open.spotify.com/album/2TFKgSDqj74cQAMvQMMsZq"
       },
       "artists": [
         {
-          "name": "East Forest",
-          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+          "name": "Sleepy Stills",
+          "url": "https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r"
         }
       ],
-      "duration_ms": 382444,
-      "name": "For Elena",
-      "url": "https://open.spotify.com/track/5ZQxDOeaSFNZZI3GQi8gNs"
+      "duration_ms": 134504,
+      "name": "Bedside Angels",
+      "url": "https://open.spotify.com/track/5zWCWoMWqqBtvJxqlzNG3k"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
-        "name": "Zen Music for Relaxation Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
-      },
-      "artists": [
-        {
-          "name": "Anzan",
-          "url": "https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA"
-        },
-        {
-          "name": "Tomas Walker",
-          "url": "https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr"
-        }
-      ],
-      "duration_ms": 126965,
-      "name": "Unbroken Flow",
-      "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
         "name": "OM Yoga Mix",
         "url": "https://open.spotify.com/album/29AsaeGR8iCXv5hBxYzP9P"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 581266,
       "name": "Descending",
       "url": "https://open.spotify.com/track/2zyIF3bu7REVrFEbCkKeqR"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
+        "name": "Zen Music for Relaxation Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/1BfQqPK7yJwwTsyfCyXrts"
+      },
+      "artists": [
+        {
+          "name": "Anzan",
+          "url": "https://open.spotify.com/artist/1Mhq1g88z5a6wYqaAoYpIA"
+        },
+        {
+          "name": "Tomas Walker",
+          "url": "https://open.spotify.com/artist/5pbkjz0DBO4qbMrsM92GXr"
+        }
+      ],
+      "duration_ms": 126965,
+      "name": "Unbroken Flow",
+      "url": "https://open.spotify.com/track/7LL5mwQEOD6dpm4Qb0K2rn"
     },
     {
       "added_at": "2021-06-15 08:38:14",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2021-06-15 08:38:14",
       "album": {
+        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
+        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
+      },
+      "artists": [
+        {
+          "name": "Nature Sound Series",
+          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
+        }
+      ],
+      "duration_ms": 231428,
+      "name": "Life of Birds",
+      "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
+    },
+    {
+      "added_at": "2021-06-15 08:38:14",
+      "album": {
         "name": "Yoga Music",
         "url": "https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 335766,
       "name": "Healing",
       "url": "https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT"
-    },
-    {
-      "added_at": "2021-06-15 08:38:14",
-      "album": {
-        "name": "Ambient Nature - Sounds of Nature, Natural Pain Relief, Healing Nature Sounds",
-        "url": "https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe"
-      },
-      "artists": [
-        {
-          "name": "Nature Sound Series",
-          "url": "https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE"
-        }
-      ],
-      "duration_ms": 231428,
-      "name": "Life of Birds",
-      "url": "https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB"
     },
     {
       "added_at": "2021-06-15 08:38:14",

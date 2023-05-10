@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr?si=1371e8a5f65f4820">Victory</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,115 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,222 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Show Me Your Glory \- Live](https://open.spotify.com/track/10nGOy0wVKIdn6CYzRiEfj) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Show Me Your Glory \(Live\)](https://open.spotify.com/album/1W5zJ4oPEYQbf5scIsfo7u) | 9:15 |
 | 100 | [Be Glorified \- Live](https://open.spotify.com/track/0WIfQN8w8EZIjbCeJfXBn2) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Be Glorified \(Live\)](https://open.spotify.com/album/59UQIY7Llrc3aZgXNxFEnK) | 7:26 |
 
-Snapshot ID: `MCwwOWI5ZTlmMTdjZGNkYTdmM2Q2ZjY0ZTkyODhhNGIzNGYzNjE3Y2E3`
+Snapshot ID: `MCxiMjQxZmZiNjQ4NzU3NWE1ZmY2ZjhmYmU1NDYzNTg2NDFkNmI5Yzhj`

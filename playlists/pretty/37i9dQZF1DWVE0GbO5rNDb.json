@@ -1,12 +1,12 @@
 {
   "description": "Hit dance per l'estate 2023! \u2600\ufe0f\ud83c\udf79\ud83c\udfdd\ufe0f",
-  "num_followers": 92719,
+  "num_followers": 92748,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDkwODg2NzMxYzg4OWNkOThhNTgxM2UwMWFkYWQ4ZGMwNDY5ZjUx",
+  "snapshot_id": "MCw0YTBjNzNhYzc1YmY0MDEwNzhkZTZiMTY2N2ZmZWNmZjJkNGEzYWIx",
   "tracks": [
     {
       "added_at": "2023-05-04 22:01:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Rock My Body (with INNA & Sash!)",
+        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "duration_ms": 137419,
+      "name": "Rock My Body",
+      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -775,6 +799,22 @@
       "duration_ms": 180638,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -799,18 +839,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+          "name": "Sol Novaro",
+          "url": "https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq"
+        },
+        {
+          "name": "blackbird",
+          "url": "https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT"
         }
       ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
+      "duration_ms": 192786,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -831,26 +875,6 @@
       "duration_ms": 193475,
       "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
       "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/2VktwZFuyTiu2KaMrJLuaN"
-      },
-      "artists": [
-        {
-          "name": "Sol Novaro",
-          "url": "https://open.spotify.com/artist/7uWyUhtmPeGAg3ylpXE3yq"
-        },
-        {
-          "name": "blackbird",
-          "url": "https://open.spotify.com/artist/6n05pHuHJGmIbBAB42bAAT"
-        }
-      ],
-      "duration_ms": 192786,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/44oCpRnWR2WklimLfScTV4"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -911,30 +935,6 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Rock My Body (with INNA & Sash!)",
-        "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Rock My Body",
-      "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
         "name": "Kissed by the Sun",
         "url": "https://open.spotify.com/album/5NRS1J7Ri5Ic1SAOx0xihE"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 135276,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
+        "name": "Jacar\u00e9",
+        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 156620,
+      "name": "Jacar\u00e9",
+      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -1007,22 +1023,6 @@
       "duration_ms": 182462,
       "name": "Better (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Jacar\u00e9",
-        "url": "https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 156620,
-      "name": "Jacar\u00e9",
-      "url": "https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        }
+      ],
+      "duration_ms": 119084,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5"
       },
@@ -1123,42 +1139,6 @@
       "duration_ms": 178064,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        }
-      ],
-      "duration_ms": 119084,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8"
-    },
-    {
-      "added_at": "2023-05-04 22:01:00",
-      "album": {
-        "name": "Crazy Love",
-        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        }
-      ],
-      "duration_ms": 186184,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -1187,6 +1167,26 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM"
+    },
+    {
+      "added_at": "2023-05-04 22:01:00",
+      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Damn (You\u2019ve Got Me Saying)",
-        "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
+        "name": "Fool 4 U (feat. Enisa)",
+        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
       },
       "artists": [
         {
@@ -1216,17 +1216,17 @@
           "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         },
         {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          "name": "Enisa",
+          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
         }
       ],
-      "duration_ms": 195268,
-      "name": "Damn (You\u2019ve Got Me Saying)",
-      "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
+      "duration_ms": 146076,
+      "name": "Fool 4 U (feat. Enisa)",
+      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
     },
     {
       "added_at": "2023-05-04 22:01:00",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2023-05-04 22:01:00",
       "album": {
-        "name": "Fool 4 U (feat. Enisa)",
-        "url": "https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT"
+        "name": "Damn (You\u2019ve Got Me Saying)",
+        "url": "https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp"
       },
       "artists": [
         {
@@ -1336,17 +1336,17 @@
           "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Enisa",
-          "url": "https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6"
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
         }
       ],
-      "duration_ms": 146076,
-      "name": "Fool 4 U (feat. Enisa)",
-      "url": "https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ"
+      "duration_ms": 195268,
+      "name": "Damn (You\u2019ve Got Me Saying)",
+      "url": "https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj"
     },
     {
       "added_at": "2023-05-04 22:01:00",

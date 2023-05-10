@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Designer",
+      "url": "https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t"
+    },
+    {
+      "album": {
         "name": "Didn't Break It Enough",
         "url": "https://open.spotify.com/album/2Zd8vhZtRzFkNWe2GQrc1v"
       },

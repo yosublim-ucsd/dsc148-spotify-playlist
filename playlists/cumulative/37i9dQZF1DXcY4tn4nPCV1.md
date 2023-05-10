@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-334 songs - 14 hr 18 min
+337 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Impuissance](https://open.spotify.com/track/3W5GfZBvDJQKovjdCww4pL) | [Luisa Amogida](https://open.spotify.com/artist/6G62bUbzGc5W2y0yxeHEKj) | [Impuissance](https://open.spotify.com/album/7Md0Z0mUYIC9WVmnIGTuay) | 2:03 | 2022-04-04 |  |
 | [In The Presence Of Starlight](https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv) | [Rusyav](https://open.spotify.com/artist/31Cm8F7MLg9rGw3vnmSk6w) | [In The Presence Of Starlight](https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX) | 3:19 | 2022-04-04 | 2022-07-08 |
 | [Indigo](https://open.spotify.com/track/0CtEIiyMbfaRDamb6Xuowz) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Indigo \| Serendipity](https://open.spotify.com/album/5iWWHiqGGNmgANGeomXzFt) | 3:09 | 2022-04-04 | 2022-11-19 |
-| [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-04-04 |  |
+| [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2022-04-04 | 2023-05-10 |
 | [Inside Out](https://open.spotify.com/track/1OTHwPZtINBdYK4wAFyF4V) | [Borghild Wenn](https://open.spotify.com/artist/1r8KaUu0MuGreHt8J0ZqT7) | [Inside Out](https://open.spotify.com/album/3ZNnzT63UWTBmWMF7yjbY7) | 2:32 | 2022-04-04 | 2022-12-24 |
 | [Insomnia](https://open.spotify.com/track/5jKUoCq3PWz3bpB1X5dIon) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Insomnia](https://open.spotify.com/album/03L0T3H6lTrd3upsTHFUPG) | 2:40 | 2022-04-04 |  |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2022-04-04 |  |
@@ -136,6 +136,7 @@
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-04-04 |  |
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-04 | 2022-11-19 |
 | [Just For Now](https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Just For Now](https://open.spotify.com/album/0eA9Y4ZuUUFAEySggUBnKV) | 1:50 | 2022-04-04 | 2022-07-08 |
+| [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-09 |  |
 | [Kokachin](https://open.spotify.com/track/2pzrTJSU6bTqEmZ7Zv5XLM) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Kokachin](https://open.spotify.com/album/0D5XBOqxs8fW0dU0MgQM8G) | 4:02 | 2022-04-04 |  |
 | [Kokyu](https://open.spotify.com/track/5v9dmm3md5BdP2qpH0lriI) | [Mizuki Lee](https://open.spotify.com/artist/3Q4E32Z1xrz9ZrDx8pyB0y) | [Kokyu](https://open.spotify.com/album/5C72uHPlWlDljYbWxVGjhU) | 2:06 | 2022-04-04 | 2022-07-08 |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-04 |  |
@@ -157,10 +158,11 @@
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2022-04-04 |  |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-04-04 |  |
 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-02-28 |  |
-| [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2022-04-04 |  |
+| [Mandeville](https://open.spotify.com/track/2IL8731S2rxVzOuMzIbm08) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Mandeville](https://open.spotify.com/album/5MuXyJBi2fK0SDWdDwAQPS) | 2:17 | 2022-04-04 | 2023-05-10 |
 | [Manus in Mano](https://open.spotify.com/track/3igpedNqhZcfhXMLtqn4Cr) | [Jacques Moni](https://open.spotify.com/artist/4jfYO6eSH5i7WlvIasFP6b) | [Manus in Mano](https://open.spotify.com/album/0UZv7J3zLMPRhhxcZuOmDa) | 3:00 | 2022-04-04 |  |
 | [Marée](https://open.spotify.com/track/30OJqSJ1sxV2E8eWt9ONQD) | [Brielle De Villiers](https://open.spotify.com/artist/04Xt0qmp91mLlKm5aFsWWW) | [Marée](https://open.spotify.com/album/22dbfN4ag9uCzk6ic7TH8V) | 3:02 | 2022-04-04 | 2022-12-24 |
 | [Marietta](https://open.spotify.com/track/7I3YkJ333ghsMaQXSiQNi2) | [Isaac Nash](https://open.spotify.com/artist/32MlHIPCHJoM3V9IlknCxD) | [Marietta](https://open.spotify.com/album/1GFJ90yWL7Y9rBYrIpI7LG) | 2:23 | 2022-07-07 |  |
+| [Mariposas](https://open.spotify.com/track/19LkgC0gfH6XkcmkNyDMO6) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Mariposas](https://open.spotify.com/album/2dSKOwskMESQyrroTG5sLW) | 2:58 | 2023-05-09 |  |
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2022-04-04 |  |
 | [Melifluo](https://open.spotify.com/track/2n0nS9mYrxSL7skwjb7qrD) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Emociones](https://open.spotify.com/album/4yjNn6XnKBS6eAkpIeKa88) | 2:38 | 2022-09-20 |  |
 | [Memories In Red](https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Memories In Red](https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y) | 2:15 | 2022-04-04 | 2022-07-08 |
@@ -286,7 +288,7 @@
 | [The Farewell](https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1Ak9Cy3afdJz2itTFxLDWy) | 2:48 | 2022-04-04 | 2023-02-15 |
 | [The Farewell](https://open.spotify.com/track/2Mc7mVrymhooU24Hitf5D7) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1G1ATtg73fL1UQnCcGAHg6) | 2:48 | 2023-02-03 |  |
 | [The French Library](https://open.spotify.com/track/5mrxUVYEyowgATPU35aZay) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [The French Library](https://open.spotify.com/album/4ueYzOaC8Jbvxs3MbznNhY) | 2:59 | 2022-04-04 | 2022-07-08 |
-| [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-04-04 |  |
+| [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-04-04 | 2023-05-10 |
 | [The Garden Level](https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN) | [Rachel Page](https://open.spotify.com/artist/5Wa9BCfxcZp6m8buEvClQF) | [Infinite Landing](https://open.spotify.com/album/3OUb8u8blLuUt2i4gnTUdD) | 2:17 | 2022-04-04 | 2023-04-19 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-04 | 2022-11-19 |
 | [The shadow](https://open.spotify.com/track/35FJNNkCTHJ8qKyfPXDbxL) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [The shadow](https://open.spotify.com/album/2EZ31BP3AKAZd2yDJv48Wd) | 2:15 | 2022-11-18 |  |
@@ -339,6 +341,7 @@
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2022-04-04 |  |
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-04-04 | 2022-07-08 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-04-04 |  |
+| [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-05-09 |  |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-04-04 |  |
 | [You Make It Look So Easy](https://open.spotify.com/track/1K0EF5MVFglZjojGngwn6P) | [Bea Boethius](https://open.spotify.com/artist/63QcI4ykgbf0wor4YYOQz5) | [You Make It Look So Easy](https://open.spotify.com/album/43RudrRuvcpO1umxMEZQWI) | 2:40 | 2022-04-04 |  |
 | [Àvia](https://open.spotify.com/track/2bMzUi0VFTKvovl6stkgLw) | [Wings for Louise](https://open.spotify.com/artist/1dGyneCVpOnWfd9eCPGeMj) | [Àvia](https://open.spotify.com/album/52M8y5WnG7A4rGO193HA6m) | 2:22 | 2022-04-28 |  |

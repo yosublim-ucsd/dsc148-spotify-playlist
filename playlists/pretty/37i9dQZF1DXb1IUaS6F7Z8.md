@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,943 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,107 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 20 | [The Rocky Road To Dublin](https://open.spotify.com/track/59sa6RabsXP6xXIPA2UAb6) | [The Tossers](https://open.spotify.com/artist/6JqiYCJwtFqBMCvX772Pw2) | [On A Fine Spring Evening](https://open.spotify.com/album/5KSnHmtTDuFsNNapMDrRnW) | 2:40 |
 | 21 | [The Gipsy Dancer](https://open.spotify.com/track/5kHz0PMhxREjnD3rmulNbC) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 2:49 |
 | 22 | [Victor and His Demons](https://open.spotify.com/track/1IN6dz9wbuszss9OIOoPjv) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [25 Blarney Roses](https://open.spotify.com/album/4xM98dNv7jelS5A8b5a4k5) | 3:27 |
-| 23 | [Shine On](https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc) | [The Porters](https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL) | [Rum, Bum and Violina](https://open.spotify.com/album/1TB28bVg1LeTAerr8G5ZEJ) | 4:35 |
+| 23 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
 | 24 | [Smash Shit Up](https://open.spotify.com/track/5WWOVWXoOBa0IPUOSPiU7w) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:49 |
-| 25 | [Tura Lu](https://open.spotify.com/track/2ftkqHtPfuYkyy0oy76qBq) | [The Bollox](https://open.spotify.com/artist/435s6mcvZ5gKmemNx6Kgip) | [The Bollox](https://open.spotify.com/album/0JNaZ27UDkqvTDqWK9efuP) | 3:44 |
+| 25 | [Shine On](https://open.spotify.com/track/4FqRa2XKagduNRKn8qnmVc) | [The Porters](https://open.spotify.com/artist/1xD4yUPlDCNpdY1Rckd0eL) | [Rum, Bum and Violina](https://open.spotify.com/album/1TB28bVg1LeTAerr8G5ZEJ) | 4:35 |
 | 26 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 |
 | 27 | [Freedom](https://open.spotify.com/track/20ZPFGWFDdCehIlCRBSene) | [Paddy And The Rats](https://open.spotify.com/artist/3XquRQYlB1gXQkYdOV7S2x) | [Rats On Board](https://open.spotify.com/album/6UrU8iv81fRiywK0IlVsQw) | 3:44 |
 | 28 | [The Foreman O'rourke](https://open.spotify.com/track/5His2KyaJt6tuKCdeXCtcn) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Saints Preserve Us](https://open.spotify.com/album/0WcoMbjC7kzJJpqP488gTc) | 4:31 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 36 | [Paint the Town Red](https://open.spotify.com/track/7tPW4cLySo5f6WCVUxYvC4) | [The Mahones](https://open.spotify.com/artist/1aTLhV7R5gUjrR60ubjz6V) | [Rise Again](https://open.spotify.com/album/03Anfa0odGVDlS8ol83RO9) | 3:24 |
 | 37 | [Orange and the Green](https://open.spotify.com/track/3Czlbc2EbEiaIjSrWY5zKA) | [The Kreellers](https://open.spotify.com/artist/39ljFcdvjH7BB9OsVJwnBn) | [Sixth and Porter](https://open.spotify.com/album/7tn0ug4ECBWSrNSBxGVVo8) | 2:53 |
 | 38 | [Follow Me Up To Carlow](https://open.spotify.com/track/0FDTn9eV0JeoRYBcVP0Pdp) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect: The Irish Sessions](https://open.spotify.com/album/291LYTwbCHyPWBrD12eD3B) | 3:37 |
-| 39 | [This Is Our Day](https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ) | 3:23 |
-| 40 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
+| 39 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 |
+| 40 | [This Is Our Day](https://open.spotify.com/track/0yqvEhELr8LocDUNJ0mtgr) | [The Roughneck Riot](https://open.spotify.com/artist/3ZEVCSPdokOgNx4uaueOdi) | [This Is Our Day](https://open.spotify.com/album/1ANmq1z1kNWjeetSl7V0rJ) | 3:23 |
 | 41 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 |
 | 42 | [Old Maui](https://open.spotify.com/track/3RR2COvkYZlw28BmyxdTFO) | [Brave the Sea](https://open.spotify.com/artist/2ImOzhCBveQtdB7x0RcHkQ) | [The Murders Three](https://open.spotify.com/album/32nwMM1uqcXZpRyD3sxgfo) | 2:26 |
 | 43 | [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1IUaS6F7Z8.md) - [plain]
 | 49 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 |
 | 50 | [Haul Away, Joe](https://open.spotify.com/track/1aW6Tir7Q7qSPaD7ZQS9hC) | [Fiddler's Green](https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe) | [3 Cheers for 30 Years](https://open.spotify.com/album/4RhmgxIRCzuo9fyF2SZAVh) | 3:21 |
 
-Snapshot ID: `MCw4MjYxMjAxNzllZTJjYjQwNDQ0NjBiZDkxOTQ0ZDU4NWZkMTIwYmEy`
+Snapshot ID: `MCwyNGZmZTU4NWNjM2M3YTQ0ZWQ2NTQyZTBhOTk4MWU3OWE0YTlmZDI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,343 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,368 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 42 | [Tu Respuesta](https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA) | [Valeria Lopez Vila](https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA) | [Tu Respuesta](https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto) | 3:42 |
 | 43 | [La Flor del Jazmín](https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Abrazo](https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ) | 2:46 |
 | 44 | [En el Fresco de la Noche](https://open.spotify.com/track/5E9q7IZebg8StZ900IVDFp) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [Cría](https://open.spotify.com/album/3u8noXMGS9gqu3ccMriEZ8) | 5:40 |
-| 45 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 |
-| 46 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
+| 45 | [De Los Dias, Los Mas Lindos](https://open.spotify.com/track/2YtgcLaJPgUjAyJD3mAVFW) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 3:38 |
+| 46 | [Cuando Llegue el Alba](https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI) | [Yamila Cafrune](https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV) | [Herencia](https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ) | 3:57 |
 | 47 | [Doña Ubenza](https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como Un Pájaro Libre \(Slidepack\)](https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH) | 3:16 |
 | 48 | [Canto Enamorado](https://open.spotify.com/track/7BRno8jhBTQXCQbqJNFGrq) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Canto Enamorado](https://open.spotify.com/album/4j9cLwpYYtEVoHxQTNmNrZ) | 3:04 |
 | 49 | [Cambá Galleta](https://open.spotify.com/track/6kMOKOKSbMqLAYVx54jXHP) | [Dúo Bote](https://open.spotify.com/artist/0L2SCJoosQOW5BRqi9fEgL), [Abel Tesoriere](https://open.spotify.com/artist/6E68tprZpx0EA8mXQaUaQS), [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j) | [Ysyry](https://open.spotify.com/album/6YCvmX5LGwqomhb1xXjmQn) | 2:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 74 | [La Canastita](https://open.spotify.com/track/43AzIdY7QJbDuxMx11Fozi) | [Melania Perez](https://open.spotify.com/artist/4kBzSQOAfn2TbUvsc8auN6) | [Luz Del Aire](https://open.spotify.com/album/05gqff5GwrLBXnk2WErcdj) | 3:18 |
 | 75 | [Algo de Mí](https://open.spotify.com/track/4MQ06nxvpm8IxjCCGbc1Wa) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Soy Semilla](https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD) | 3:40 |
 
-Snapshot ID: `MCxmMGViNWQ2NGFhMDdhNzhjZTUxN2MxZDljNTM5NzE2MDcwMzljZmY5`
+Snapshot ID: `MCw3MTExZmZiZWMyMjU3MTIwNzYxZTUyMjJiMDM1YTJjYWEwZTY5M2M5`

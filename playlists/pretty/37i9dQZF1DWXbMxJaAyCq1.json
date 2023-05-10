@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Justin Quiles, Myke Towers, Ozuna",
-  "num_followers": 389893,
+  "num_followers": 390326,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDY1NjMxNTljNmQwZjQ5YzQ1MjBkOWQ3NTNmNDJiODQzZjg0ZWYy",
+  "snapshot_id": "MCw2NDBjOTQ5YWMyZDZhNjYwMDNmZTE0ZmYxODQzNDRmYzg1YTUxYzEz",
   "tracks": [
     {
       "added_at": "2023-05-05 19:11:41",
@@ -388,16 +388,16 @@
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
         },
         {
           "name": "Bernier",
           "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
         },
         {
-          "name": "Malito Malozo",
-          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
         }
       ],
       "duration_ms": 270000,
@@ -939,30 +939,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Mi Gata (Remix)",
-        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 246315,
-      "name": "Mi Gata - Remix",
-      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "No Fue (feat. Brray, Feid) [Remix]",
         "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 317789,
       "name": "No Fue - Remix",
       "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Mi Gata (Remix)",
+        "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 246315,
+      "name": "Mi Gata - Remix",
+      "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 197374,
-      "name": "Gladiador - Remix",
-      "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 197374,
+      "name": "Gladiador - Remix",
+      "url": "https://open.spotify.com/track/1IbYD5V9zCvkPfIPcWqerO"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Quien TV Remix",
-        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 163708,
-      "name": "Quien TV Remix",
-      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Darte Remix",
         "url": "https://open.spotify.com/album/0Rg4l9kXJQyl04Oz4XyMWB"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 512060,
       "name": "Darte Remix",
       "url": "https://open.spotify.com/track/6wxZq37sANWYDJiDN5khyL"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Quien TV Remix",
+        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 163708,
+      "name": "Quien TV Remix",
+      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1587,42 +1587,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
-        "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        }
-      ],
-      "duration_ms": 258600,
-      "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
-      "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "47 (Remix)",
         "url": "https://open.spotify.com/album/0uwIB5LyXa2riRyWUwKiJA"
       },
@@ -1663,6 +1627,42 @@
       "duration_ms": 517809,
       "name": "47 - Remix",
       "url": "https://open.spotify.com/track/6IoKSUyNOOheJRjiuGb1ew"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) [Remix]",
+        "url": "https://open.spotify.com/album/71uU1JDWZ61OMDtW8h1Kp8"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "duration_ms": 258600,
+      "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
+      "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Hood (Remix)",
-        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Hood - Remix",
-      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Hood (Remix)",
+        "url": "https://open.spotify.com/album/4ojUS0aIHkPPxworw8ZMTv"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Hood - Remix",
+      "url": "https://open.spotify.com/track/3UytZp1xDkNkROyIwE7DbY"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Mbappe (Remix)",
-        "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 237344,
-      "name": "Mbappe - Remix",
-      "url": "https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Caramelo (Remix)",
         "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
       },
@@ -2015,30 +1995,6 @@
       "duration_ms": 233160,
       "name": "Caramelo - Remix",
       "url": "https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
-        "name": "Monumento (Remix)",
-        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 208622,
-      "name": "Monumento - Remix",
-      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -2075,6 +2031,50 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
+        "name": "Monumento (Remix)",
+        "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 208622,
+      "name": "Monumento - Remix",
+      "url": "https://open.spotify.com/track/1bUTLkxM3nMUngIGP0M8ws"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Mbappe (Remix)",
+        "url": "https://open.spotify.com/album/1AJXKqkuN7bzSGBWcpiE2h"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 237344,
+      "name": "Mbappe - Remix",
+      "url": "https://open.spotify.com/track/21ocGfx68UnoPH89sXkhzu"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
         "name": "X (feat. Maluma & Ozuna) [Remix]",
         "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
       },
@@ -2103,26 +2103,26 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Instagram (Remix)",
-        "url": "https://open.spotify.com/album/2VJLr9Szd9xv7Dcrey5oOd"
+        "name": "2:50 Remix",
+        "url": "https://open.spotify.com/album/0hbwAcjGBGP2gutKpQHA8d"
       },
       "artists": [
         {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         },
         {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         },
         {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 243622,
-      "name": "Instagram - Remix",
-      "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"
+      "duration_ms": 231708,
+      "name": "2:50 Remix",
+      "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
     }
   ],
   "unique_name": "Remixes Urbanos",

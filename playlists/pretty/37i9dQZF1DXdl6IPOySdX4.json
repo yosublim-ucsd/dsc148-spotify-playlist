@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1319057,
+  "num_followers": 1320721,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWViNTIxMjU5MmVkZTc2MjExMGFlYzRjODMxOTc5Mzc4OWU1ZTgx",
+  "snapshot_id": "MCxkYTc1ZWQ0OWVmODcwOTY1MjQ2ZTk1MmQ1MDI3NzFmNjk1ZjEyMjJh",
   "tracks": [
     {
       "added_at": "2023-05-01 14:37:24",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-01 14:37:24",
       "album": {
-        "name": "The Perfect Girl",
-        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
-      },
-      "artists": [
-        {
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        }
-      ],
-      "duration_ms": 194423,
-      "name": "The Perfect Girl",
-      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
-    },
-    {
-      "added_at": "2023-05-01 14:37:24",
-      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 219692,
       "name": "Teenage Fever",
       "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+    },
+    {
+      "added_at": "2023-05-01 14:37:24",
+      "album": {
+        "name": "The Perfect Girl",
+        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "The Perfect Girl",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
       "added_at": "2023-05-01 14:37:24",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-01 14:37:24",
       "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
-    },
-    {
-      "added_at": "2023-05-01 14:37:24",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 158420,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+    },
+    {
+      "added_at": "2023-05-01 14:37:24",
+      "album": {
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2023-05-01 14:37:24",
@@ -1034,11 +1034,15 @@
         {
           "name": "Chase Atlantic",
           "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        },
+        {
+          "name": "GOON DES GARCONS*",
+          "url": "https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR"
         }
       ],
-      "duration_ms": 196767,
-      "name": "Into It",
-      "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
+      "duration_ms": 267920,
+      "name": "Consume (feat. Goon Des Garcons)",
+      "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
     },
     {
       "added_at": "2023-05-01 14:37:24",
@@ -1131,22 +1135,6 @@
     {
       "added_at": "2023-05-01 14:37:24",
       "album": {
-        "name": "orange blood",
-        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
-      },
-      "artists": [
-        {
-          "name": "Zach Templar",
-          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
-        }
-      ],
-      "duration_ms": 145833,
-      "name": "missin something",
-      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
-    },
-    {
-      "added_at": "2023-05-01 14:37:24",
-      "album": {
         "name": "Sleep Well",
         "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
       },
@@ -1159,6 +1147,22 @@
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
+      "added_at": "2023-05-01 14:37:24",
+      "album": {
+        "name": "orange blood",
+        "url": "https://open.spotify.com/album/1ulPzOYjb3Ez1S3HUn4glH"
+      },
+      "artists": [
+        {
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+        }
+      ],
+      "duration_ms": 145833,
+      "name": "missin something",
+      "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
     },
     {
       "added_at": "2023-05-01 14:37:24",
@@ -1202,35 +1206,27 @@
         {
           "name": "Chase Atlantic",
           "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        },
-        {
-          "name": "GOON DES GARCONS*",
-          "url": "https://open.spotify.com/artist/5WyJhpNewRPUahSlrxkOeR"
         }
       ],
-      "duration_ms": 267920,
-      "name": "Consume (feat. Goon Des Garcons)",
-      "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
+      "duration_ms": 196767,
+      "name": "Into It",
+      "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
     },
     {
       "added_at": "2023-05-01 14:37:24",
       "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+      "duration_ms": 260776,
+      "name": "Like I Want You",
+      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
     },
     {
       "added_at": "2023-05-01 14:37:24",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2023-05-01 14:37:24",
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 260776,
-      "name": "Like I Want You",
-      "url": "https://open.spotify.com/track/6qBFSepqLCuh5tehehc1bd"
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2023-05-01 14:37:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-05-01 14:37:24",
       "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
-    },
-    {
-      "added_at": "2023-05-01 14:37:24",
-      "album": {
         "name": "Champagne & Sunshine",
         "url": "https://open.spotify.com/album/0ypRXml4YrjqnfL4D4S7qg"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 196363,
       "name": "Champagne & Sunshine",
       "url": "https://open.spotify.com/track/77U6kcldLRFl9vCfaw11Sr"
+    },
+    {
+      "added_at": "2023-05-01 14:37:24",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
     },
     {
       "added_at": "2023-05-01 14:37:24",

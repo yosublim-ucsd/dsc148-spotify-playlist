@@ -1,12 +1,12 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 54721,
+  "num_followers": 54801,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzdhYjY1NmQyNTY4NDhiMWViMzA3MmE4Mjg5Nzk1MzJkYjYwZjMy",
+  "snapshot_id": "MCwxYmI1ZjM0ZTc5YTI0ODRjZDc4YjQ0YjFiNjZkNTQwNDdjNDM1OTAz",
   "tracks": [
     {
       "added_at": "2023-02-21 15:13:27",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Queen Alone",
-        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 214573,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/5io1OKXglvIexVDrBXxuF4"
+        "name": "Queen Alone",
+        "url": "https://open.spotify.com/album/6k2kl7wWK57baFDPkpN9It"
       },
       "artists": [
         {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/2ffGZTdlRN0lNxA4LOYyTs"
+      "duration_ms": 214573,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/3MLwKelG4PQ7rXkd8Qjz4g"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -323,18 +323,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
+        "name": "No Time For Dreaming",
+        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
       },
       "artists": [
         {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
         }
       ],
-      "duration_ms": 329400,
-      "name": "Lifetime - Remastered 2021",
-      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
+      "duration_ms": 202492,
+      "name": "The World (Is Going Up in Flames)",
+      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -383,22 +387,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "No Time For Dreaming",
-        "url": "https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp"
+        "name": "Now",
+        "url": "https://open.spotify.com/album/3Ul8Nyuzr2AEwE8iSrQepC"
       },
       "artists": [
         {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
         }
       ],
-      "duration_ms": 202492,
-      "name": "The World (Is Going Up in Flames)",
-      "url": "https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R"
+      "duration_ms": 329400,
+      "name": "Lifetime - Remastered 2021",
+      "url": "https://open.spotify.com/track/0tXq1ob3ysGZN2oK1abtyp"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -435,22 +435,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Return To The 37th Chamber",
-        "url": "https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT"
+        "name": "Soul of a Woman",
+        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
       },
       "artists": [
         {
-          "name": "El Michels Affair",
-          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 127587,
-      "name": "Snakes",
-      "url": "https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF"
+      "duration_ms": 176560,
+      "name": "Come and Be a Winner",
+      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -495,6 +491,26 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Return To The 37th Chamber",
+        "url": "https://open.spotify.com/album/70OhGmsHTYRhPNmDmMMcwT"
+      },
+      "artists": [
+        {
+          "name": "El Michels Affair",
+          "url": "https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 127587,
+      "name": "Snakes",
+      "url": "https://open.spotify.com/track/0QgZ2k778hWtS5W1ohVKNF"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Subject",
         "url": "https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 249573,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Soul of a Woman",
-        "url": "https://open.spotify.com/album/6Y3Hr84DBJ7oV76c3BuInv"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Come and Be a Winner",
-      "url": "https://open.spotify.com/track/2vyxCz7ixvER0Zxh02Bk9x"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -625,6 +625,22 @@
       "url": "https://open.spotify.com/track/7km1tntASwmtyzGr8vaT0e"
     },
     {
+      "added_at": "2023-05-10 00:12:59",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 195086,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
+    },
+    {
       "added_at": "2023-02-21 15:13:27",
       "album": {
         "name": "Follow the Sunshine",
@@ -639,22 +655,6 @@
       "duration_ms": 181346,
       "name": "Follow the Sunshine",
       "url": "https://open.spotify.com/track/1gbVT4Och2a9kk3mtpEYQw"
-    },
-    {
-      "added_at": "2023-05-09 01:06:27",
-      "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 195086,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Underneath the Surface",
-        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
-        }
-      ],
-      "duration_ms": 254680,
-      "name": "Cards",
-      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "Rahsaan Patterson",
         "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 293400,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Underneath the Surface",
+        "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+        }
+      ],
+      "duration_ms": 254680,
+      "name": "Cards",
+      "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -867,18 +867,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
-        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
       },
       "artists": [
         {
-          "name": "Sabrina Starke",
-          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
         }
       ],
-      "duration_ms": 260506,
-      "name": "Just The Two Of Us",
-      "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "Lean On Me - The Songs Of Bill Withers (Bonustrack Edition)",
+        "url": "https://open.spotify.com/album/6SNemCUWVfYobddj98KgXh"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Sabrina Starke",
+          "url": "https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub"
         }
       ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 260506,
+      "name": "Just The Two Of Us",
+      "url": "https://open.spotify.com/track/2P3YVlcxm5m4cRxjNiZ96q"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Live for Each Other",
-        "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
-      },
-      "artists": [
-        {
-          "name": "Fat Night",
-          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Question",
-      "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Precious Love",
-      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/3owhRoShVOJ29xOAgoLG8w"
       },
@@ -1135,18 +1103,34 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
       },
       "artists": [
         {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
+      "duration_ms": 278160,
+      "name": "Precious Love",
+      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Live for Each Other",
+        "url": "https://open.spotify.com/album/3LEPfjcf5STf3EQj9jEfBU"
+      },
+      "artists": [
+        {
+          "name": "Fat Night",
+          "url": "https://open.spotify.com/artist/0jUjkZEu17LkjSEQJmcqqi"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "Question",
+      "url": "https://open.spotify.com/track/06mrnjvi4UhBLOTdSLo3Yj"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1171,6 +1155,22 @@
       "duration_ms": 208418,
       "name": "Things We Do for Love",
       "url": "https://open.spotify.com/track/6f3hzGasIjbHOjvwmylCze"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4QrSU9pX2FzV2vc6vj19Fl"
+      },
+      "artists": [
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/6qjrJJppRQlIpqnfypeMsr"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
+        "name": "Make the Road By Walking",
+        "url": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Montego Sunset",
+      "url": "https://open.spotify.com/track/46g7hr6VAtl08So3KkvLc8"
+    },
+    {
+      "added_at": "2023-02-21 15:13:27",
+      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 185333,
       "name": "O-O-H Child",
       "url": "https://open.spotify.com/track/4x0ub8v8iGkcQ1WrJWhiJl"
-    },
-    {
-      "added_at": "2023-02-21 15:13:27",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
-      },
-      "artists": [
-        {
-          "name": "Adriana Evans",
-          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2023-02-21 15:13:27",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-02-21 15:13:27",
       "album": {
-        "name": "Make the Road By Walking",
-        "url": "https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Adriana Evans",
+          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
         }
       ],
-      "duration_ms": 198786,
-      "name": "Montego Sunset",
-      "url": "https://open.spotify.com/track/46g7hr6VAtl08So3KkvLc8"
+      "duration_ms": 265560,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2023-02-21 15:13:27",

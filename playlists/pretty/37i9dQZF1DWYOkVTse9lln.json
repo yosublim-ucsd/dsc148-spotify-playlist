@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 687280,
+  "num_followers": 687432,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGUxNGFiMjFhNjNhYWY2OTU0ZWUwZDVkZDIyYjJjZWYwYTQzMzRj",
+  "snapshot_id": "MCw0NGU1NDNhZWQzYzBhM2IzYTFlYTg3ZjQxZTk2ZGRhNjA2ZDMzYmI2",
   "tracks": [
     {
       "added_at": "2023-04-21 02:31:06",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -691,6 +675,22 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
         "name": "Cuatro Caminos",
         "url": "https://open.spotify.com/album/3ifA4OUPiT92YB4vYtAdVh"
       },
@@ -703,6 +703,38 @@
       "duration_ms": 267600,
       "name": "Eres",
       "url": "https://open.spotify.com/track/6kdCN6gTWLcLxmLXoUcwuI"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -747,38 +779,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 222560,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Destino o casualidad",
         "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 258504,
       "name": "Destino o casualidad",
       "url": "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Palabras Del Silencio (Edici\u00f3n Aniversario - Un A\u00f1o Despues)",
         "url": "https://open.spotify.com/album/5gCxcHCAA50nboku1ks180"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
+        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
+        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 329155,
+      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
         "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 244933,
       "name": "T\u00fa S\u00ed Sabes Quererme (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/6p3yxt0uJJshAS3CT0znQg"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
-        "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
-        "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 329155,
-      "name": "Eres Mi Religi\u00f3n - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/2H3kc8vwKWtgaDWs0Xw98Y"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Traicionera",
-        "url": "https://open.spotify.com/album/7aTqiX68z42xqpEsiWBz4O"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 228466,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/79Jhw5xn4gGn6PZak275gg"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/5WGN7m5BK95GiuafTCL3JQ"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/4XTMj7kd8DHLl0r7ghmEAr"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Traicionera",
+        "url": "https://open.spotify.com/album/7aTqiX68z42xqpEsiWBz4O"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/79Jhw5xn4gGn6PZak275gg"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 217986,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
         "name": "Lo Mejor De OV7",
         "url": "https://open.spotify.com/album/3YEri67vvZWR0WJxbda8D0"
       },
@@ -2395,22 +2411,6 @@
       "duration_ms": 235426,
       "name": "Shabadabada",
       "url": "https://open.spotify.com/track/0v5lV9xxdEumQ2jKf5CBVp"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2431,6 +2431,22 @@
     {
       "added_at": "2023-04-21 02:31:06",
       "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 289293,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/4pUmQqaZklcCOB3rFdWc7g"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
         "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
         "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
       },
@@ -2443,6 +2459,22 @@
       "duration_ms": 271813,
       "name": "El Ni\u00e1gra En Bicicleta - Live - Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/210f6k9YxkeQt3ZThb2wxV"
+    },
+    {
+      "added_at": "2023-04-21 02:31:06",
+      "album": {
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     },
     {
       "added_at": "2023-04-21 02:31:06",
@@ -2463,38 +2495,6 @@
       "duration_ms": 277453,
       "name": "Te lo agradezco, pero no (feat. Shakira)",
       "url": "https://open.spotify.com/track/67g3Wn5bMFDV4qGICl4u6J"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/63EzbC00mdZurdZzRcO4w3"
-    },
-    {
-      "added_at": "2023-04-21 02:31:06",
-      "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     },
     {
       "added_at": "2023-04-21 02:31:06",

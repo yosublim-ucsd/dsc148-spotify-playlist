@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Bente op de cover van d\u00e9 Nederpop playlist",
+  "description": "MEAU op de cover van de vernieuwde Je Moerstaal! ",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 138653,
       "name": "2022",
       "url": "https://open.spotify.com/track/1QqQHrWGQrK0NhITVo1NYo"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "22",
+      "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
     },
     {
       "album": {
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 139000,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/1TJ9GtbZEJC2Ze5J3PAVH7"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 202023,
       "name": "Helen",
       "url": "https://open.spotify.com/track/0MsLcStKOzqMxpE5b7NO8K"
@@ -1362,7 +1380,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 216774,
       "name": "Hou Me Vast",
       "url": "https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49"
@@ -2415,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Proosten",
+      "url": "https://open.spotify.com/track/17RCtGei6r6tWw1QGZEJfE"
+    },
+    {
+      "album": {
         "name": "Rommel",
         "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
       },
@@ -2711,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207194,
+      "name": "Terug In M'n Armen",
+      "url": "https://open.spotify.com/track/6pwln6CjzTKZJuYdoA0jSc"
+    },
+    {
+      "album": {
         "name": "Terugweg",
         "url": "https://open.spotify.com/album/46lVBb2r3TX8sG9ViP0pii"
       },
@@ -2740,7 +2794,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 181666,
       "name": "Therapie",
       "url": "https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT"
@@ -3040,7 +3094,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 183839,
       "name": "Voor De Gek",
       "url": "https://open.spotify.com/track/6BXVmVTRyEnTcJHjmy8kCg"

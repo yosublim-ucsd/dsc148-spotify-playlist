@@ -3498,7 +3498,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 230141,
       "name": "Oil (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
@@ -4226,6 +4226,28 @@
       "duration_ms": 249667,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
+    },
+    {
+      "album": {
+        "name": "Selfish Soul (ODESZA Remix)",
+        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206210,
+      "name": "Selfish Soul - ODESZA Remix",
+      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
     },
     {
       "album": {

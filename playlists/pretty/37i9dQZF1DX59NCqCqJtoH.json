@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 1139548,
+  "num_followers": 1139668,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjU0ODUzZDI5MDhmZGVmYWZkMGUyZTJiZDMwY2ZiN2NhNGQ2MmQw",
+  "snapshot_id": "MCw3YWNmZmM2ODc4Y2FhYTRmZTJmZThiMzQ0MDZkOWIwODE4MTc3MThi",
   "tracks": [
     {
       "added_at": "2023-04-26 17:21:25",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "goodnight moon (demos)",
+        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 107344,
+      "name": "i'll never fall in love with myself (demo)",
+      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/55el5L9WQeGe5LUm73cWL7"
       },
@@ -283,26 +299,6 @@
       "duration_ms": 120000,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/4P1L6AniTDJzANaubzWGYs"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "homies",
-        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        },
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 225068,
-      "name": "homies",
-      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "goodnight moon (demos)",
-        "url": "https://open.spotify.com/album/1nClgygrTl1OYhaPssJsgz"
+        "name": "homies",
+        "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },
       "artists": [
         {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
         }
       ],
-      "duration_ms": 107344,
-      "name": "i'll never fall in love with myself (demo)",
-      "url": "https://open.spotify.com/track/1LwwYjfoClXVx4lJAngPpp"
+      "duration_ms": 225068,
+      "name": "homies",
+      "url": "https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Kenny",
-      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Worn Out Heart",
         "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 142588,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Kenny",
+      "url": "https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0qRnyZEgvqF96kGSZALooq"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 261471,
       "name": "Die Alone",
       "url": "https://open.spotify.com/track/6q2MA87tphYrGm5Jr7xHMl"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 279306,
-      "name": "Pictures of Us",
-      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+      "duration_ms": 279306,
+      "name": "Pictures of Us",
+      "url": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -847,22 +831,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Maybe I\u2019m Lonely",
-        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 152141,
-      "name": "Maybe I\u2019m Lonely",
-      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "curse,",
         "url": "https://open.spotify.com/album/7M6YYETrlwqiUxHBqaz5eO"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 238734,
       "name": "curse,",
       "url": "https://open.spotify.com/track/4sOhW5vsO7eCC0OaxQi7DJ"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Maybe I\u2019m Lonely",
+        "url": "https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 152141,
+      "name": "Maybe I\u2019m Lonely",
+      "url": "https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Tell Me About You (feat. Mishaal)",
-        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Tell Me About You (feat. Mishaal)",
-      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Smoke Signals (feat. Tessa Violet)",
         "url": "https://open.spotify.com/album/0BcN30IU7guOqvKxVeXXqQ"
       },
@@ -1051,6 +1031,26 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "Tell Me About You (feat. Mishaal)",
+        "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Tell Me About You (feat. Mishaal)",
+      "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "songs written for piano",
         "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
@@ -1063,22 +1063,6 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1115,6 +1099,62 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Carbon Monoxide",
+        "url": "https://open.spotify.com/album/29wCCY467y1WfvF427K8Q2"
+      },
+      "artists": [
+        {
+          "name": "Krooked Kings",
+          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
+        },
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        }
+      ],
+      "duration_ms": 190558,
+      "name": "Carbon Monoxide",
+      "url": "https://open.spotify.com/track/7lpEGQi4FdLnuT6gRT9sZ1"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "Things I Wanted To Tell You",
+        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
+      },
+      "artists": [
+        {
+          "name": "Kina",
+          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 139354,
+      "name": "Feel Again (Feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx"
       },
@@ -1143,26 +1183,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Carbon Monoxide",
-        "url": "https://open.spotify.com/album/29wCCY467y1WfvF427K8Q2"
-      },
-      "artists": [
-        {
-          "name": "Krooked Kings",
-          "url": "https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE"
-        },
-        {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
-        }
-      ],
-      "duration_ms": 190558,
-      "name": "Carbon Monoxide",
-      "url": "https://open.spotify.com/track/7lpEGQi4FdLnuT6gRT9sZ1"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "Tired",
         "url": "https://open.spotify.com/album/4H95f4yelOV9xhe2FI9F9c"
       },
@@ -1175,42 +1195,6 @@
       "duration_ms": 178303,
       "name": "Tired",
       "url": "https://open.spotify.com/track/4ys3qPP1YnF2IgEB2x8EOW"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Stoner",
-        "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
-      },
-      "artists": [
-        {
-          "name": "Teddy Failure",
-          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
-        }
-      ],
-      "duration_ms": 160900,
-      "name": "Stoner",
-      "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
-        "name": "Things I Wanted To Tell You",
-        "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
-      },
-      "artists": [
-        {
-          "name": "Kina",
-          "url": "https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 139354,
-      "name": "Feel Again (Feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+        "name": "Stoner",
+        "url": "https://open.spotify.com/album/6kkweQ6EwBhFCTbaFM9jgc"
       },
       "artists": [
         {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+          "name": "Teddy Failure",
+          "url": "https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2"
         }
       ],
-      "duration_ms": 148401,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
+      "duration_ms": 160900,
+      "name": "Stoner",
+      "url": "https://open.spotify.com/track/50IJlcU371grV5aTy1BAQh"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "howling",
-        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
       },
       "artists": [
         {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
         }
       ],
-      "duration_ms": 213720,
-      "name": "howling",
-      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
+      "duration_ms": 148401,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1323,6 +1307,22 @@
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "howling",
+        "url": "https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "howling",
+      "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "emma, u up?",
-        "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
-      },
-      "artists": [
-        {
-          "name": "Yxngxr1",
-          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "emma, u up?",
-      "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "the dog",
         "url": "https://open.spotify.com/album/0UEP9M5UNKJNGlqYlybXA0"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+        "name": "emma, u up?",
+        "url": "https://open.spotify.com/album/0SSLoMyVE2AiMtUMWVwg76"
       },
       "artists": [
         {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+          "name": "Yxngxr1",
+          "url": "https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Trashfire",
-      "url": "https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ"
+      "duration_ms": 144000,
+      "name": "emma, u up?",
+      "url": "https://open.spotify.com/track/5Z7WYPOCE6FCbg3NZrYDvh"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Never Gets Old",
-        "url": "https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO"
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
       },
       "artists": [
         {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 200506,
-      "name": "Never Gets Old",
-      "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
+      "duration_ms": 171066,
+      "name": "Trashfire",
+      "url": "https://open.spotify.com/track/6qS66tgZSJABlsorG6vOiZ"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
+        "name": "Never Gets Old",
+        "url": "https://open.spotify.com/album/4SFmWILl18Ol37dQ9WLFpO"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "Never Gets Old",
+      "url": "https://open.spotify.com/track/4RIPTau9DhWdg0rozoyttq"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
         "name": "freckles,",
         "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
       },
@@ -1539,6 +1539,22 @@
       "duration_ms": 230615,
       "name": "freckles,",
       "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "infinity",
+        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
+      },
+      "artists": [
+        {
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+        }
+      ],
+      "duration_ms": 174198,
+      "name": "infinity",
+      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Ball",
-        "url": "https://open.spotify.com/album/75RDBx0Z18jNRzwQafl5Hi"
-      },
-      "artists": [
-        {
-          "name": "Eryn Martin",
-          "url": "https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph"
-        }
-      ],
-      "duration_ms": 151525,
-      "name": "Ball",
-      "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "hit the road",
         "url": "https://open.spotify.com/album/0sNfewS7CR8syZCkPbDa53"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "infinity",
-        "url": "https://open.spotify.com/album/213BkPPTJcU9MlLj8YJFXW"
+        "name": "Ball",
+        "url": "https://open.spotify.com/album/75RDBx0Z18jNRzwQafl5Hi"
       },
       "artists": [
         {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
+          "name": "Eryn Martin",
+          "url": "https://open.spotify.com/artist/58nhaWrZa0dN2OxZ1Pr2Ph"
         }
       ],
-      "duration_ms": 174198,
-      "name": "infinity",
-      "url": "https://open.spotify.com/track/6hbSCFjiWeL9vmOvoA7xvp"
+      "duration_ms": 151525,
+      "name": "Ball",
+      "url": "https://open.spotify.com/track/3CL4OEx96xE6eO9vrHunJY"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "hurt me enough",
-        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
-      },
-      "artists": [
-        {
-          "name": "Nathan Archie",
-          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
-        }
-      ],
-      "duration_ms": 186032,
-      "name": "hurt me enough",
-      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
-    },
-    {
-      "added_at": "2023-04-26 17:21:25",
-      "album": {
         "name": "shame",
         "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
       },
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
+        "name": "hurt me enough",
+        "url": "https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0"
       },
       "artists": [
         {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+          "name": "Nathan Archie",
+          "url": "https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6"
         }
       ],
-      "duration_ms": 214768,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
+      "duration_ms": 186032,
+      "name": "hurt me enough",
+      "url": "https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs"
     },
     {
       "added_at": "2023-04-26 17:21:25",
@@ -1715,18 +1699,34 @@
     {
       "added_at": "2023-04-26 17:21:25",
       "album": {
-        "name": "608",
-        "url": "https://open.spotify.com/album/2qeW8Za58rqb0fZ1PvNyfi"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz"
       },
       "artists": [
         {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 204760,
-      "name": "608",
-      "url": "https://open.spotify.com/track/5b5bij5caee3a88pIXz5VK"
+      "duration_ms": 214768,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/54SmecWdCNXBjAXBuVrSV6"
+    },
+    {
+      "added_at": "2023-04-26 17:21:25",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     }
   ],
   "unique_name": "idk.",

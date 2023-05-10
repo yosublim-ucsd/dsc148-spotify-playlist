@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 171839,
       "name": "EGO",
       "url": "https://open.spotify.com/track/0tn0i6zH7uEhRDrT0Yticv"
@@ -4127,6 +4127,28 @@
     },
     {
       "album": {
+        "name": "Dove Volano Le Aquile Vol. 2",
+        "url": "https://open.spotify.com/album/5533SD7HXknP7vKdshypG1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177233,
+      "name": "Non Siamo Uguali (feat. CoCo)",
+      "url": "https://open.spotify.com/track/5gNI6SVOOugp1KOrDpw3O4"
+    },
+    {
+      "album": {
         "name": "Non \u00e8 Easy",
         "url": "https://open.spotify.com/album/2C8BWxEdF4kCgUH4FpT2cP"
       },
@@ -5430,6 +5452,28 @@
     {
       "album": {
         "name": "Shawty (feat. ANNA)",
+        "url": "https://open.spotify.com/album/0Lk62qOfyMoDWD4iIpNZjy"
+      },
+      "artists": [
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184931,
+      "name": "Shawty (feat. ANNA)",
+      "url": "https://open.spotify.com/track/2FSyRgYesfoqC0xGVmHgeH"
+    },
+    {
+      "album": {
+        "name": "Shawty (feat. ANNA)",
         "url": "https://open.spotify.com/album/0wspBxNHGHBkPldJLX0Cjd"
       },
       "artists": [
@@ -5444,7 +5488,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 184931,
       "name": "Shawty (feat. ANNA)",
       "url": "https://open.spotify.com/track/3VAebI378Ag8dJECkUmT5G"

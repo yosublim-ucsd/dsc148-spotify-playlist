@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,793 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,817 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 9 | [Baby One More Time \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 2:57 |
 | 10 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
 | 11 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 |
-| 12 | [Hold Me While You Wait \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4XJ2SmdXNTkMkkx6PFPU8m) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:24 |
-| 13 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
+| 12 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
+| 13 | [Hold Me While You Wait \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4XJ2SmdXNTkMkkx6PFPU8m) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/65mtbxKKczJgxPUeyVPUrc) | 3:24 |
 | 14 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
 | 15 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
 | 16 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 3:03 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 75 | [Knights Of Cydonia \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3MMhtroreghawB4y14vaUP) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 4:37 |
 | 76 | [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 |
 | 77 | [Walking On A Dream \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5VxhB7hzV7rAR8YSjYPL8c) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:57 |
-| 78 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
-| 79 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 |
-| 80 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 |
-| 81 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 |
+| 78 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 |
+| 79 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
+| 80 | [Echo \(Recorded at Spotify Studios NYC\)](https://open.spotify.com/track/2h8n2emA3q0JBFVoKqQxIW) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Spotify Singles](https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9) | 3:31 |
+| 81 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 |
 | 82 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
 | 83 | [Electric Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4ZRWxX9gfnsfKhQDRKoCui) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Spotify Singles](https://open.spotify.com/album/0pwbZvmxb1mwXNmIKupMnN) | 3:28 |
 | 84 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 99 | [Feels \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Spotify Singles](https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t) | 1:35 |
 | 100 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 |
 
-Snapshot ID: `MCwxZDUzMmU4NWMwZTI3Nzg4OTQ0YjZhN2M4ZmQ3YmU2M2Y2ODJiZGQy`
+Snapshot ID: `MCw4YTA3OGFlNTMyZWEwYmJkNTIzYTI4YmVhY2ZlYzA4ZGNiN2IxZjBl`

@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bLena Park(\ubc15\uc815\ud604)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 319121,
+  "num_followers": 319165,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjllOTY1YzViNTRiOWVmMWJjMmI4ZjAzYWU2MmJhOGYzMzZlMDFk",
+  "snapshot_id": "MCw1YzNkN2MyNWRkNjVjOTA1ODhkNmYzODZjODlhYWEzYWVhNDJkYjI4",
   "tracks": [
     {
       "added_at": "2023-05-03 09:06:31",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "Jelly box Flower Way SEJEONG",
-        "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 239122,
-      "name": "Flower Way (Prod. By ZICO)",
-      "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
-    },
-    {
-      "added_at": "2023-05-03 09:06:31",
-      "album": {
         "name": "Stay Here",
         "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 228615,
       "name": "Stay Here",
       "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
+    },
+    {
+      "added_at": "2023-05-03 09:06:31",
+      "album": {
+        "name": "Jelly box Flower Way SEJEONG",
+        "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 239122,
+      "name": "Flower Way (Prod. By ZICO)",
+      "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-05-03 09:06:31",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2023-05-03 09:06:31",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "love",
-        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
       },
       "artists": [
         {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
         }
       ],
-      "duration_ms": 213275,
-      "name": "comedy",
-      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+        "name": "love",
+        "url": "https://open.spotify.com/album/3TzHGHpI61xn4CqKrMhRRS"
       },
       "artists": [
         {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+      "duration_ms": 213275,
+      "name": "comedy",
+      "url": "https://open.spotify.com/track/1kNVRCfLtotmIKQOb87tUL"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "Drunken confession at night",
-        "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
-      },
-      "artists": [
-        {
-          "name": "Lim Jae Hyun",
-          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
-        }
-      ],
-      "duration_ms": 246491,
-      "name": "Drunken confession at night (Prod. 2soo)",
-      "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
-    },
-    {
-      "added_at": "2023-05-03 09:06:31",
-      "album": {
         "name": "Faith OST",
         "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 267937,
       "name": "Walking Slowly",
       "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
+    },
+    {
+      "added_at": "2023-05-03 09:06:31",
+      "album": {
+        "name": "Drunken confession at night",
+        "url": "https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "duration_ms": 246491,
+      "name": "Drunken confession at night (Prod. 2soo)",
+      "url": "https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "To You",
-        "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
-      },
-      "artists": [
-        {
-          "name": "WSG WANNBE (Gaya-G)",
-          "url": "https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
-    },
-    {
-      "added_at": "2023-05-03 09:06:31",
-      "album": {
         "name": "#tb",
         "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 275200,
       "name": "#tb",
       "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
+    },
+    {
+      "added_at": "2023-05-03 09:06:31",
+      "album": {
+        "name": "To You",
+        "url": "https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f"
+      },
+      "artists": [
+        {
+          "name": "WSG WANNBE (Gaya-G)",
+          "url": "https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "Can Love Be Fair",
-        "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        },
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 255746,
-      "name": "Can Love Be Fair",
-      "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
-    },
-    {
-      "added_at": "2023-05-03 09:06:31",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 251160,
       "name": "You're My End and My Beginning",
       "url": "https://open.spotify.com/track/1q3axbxKGkwHdLLQtxmyl2"
+    },
+    {
+      "added_at": "2023-05-03 09:06:31",
+      "album": {
+        "name": "Can Love Be Fair",
+        "url": "https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        },
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 255746,
+      "name": "Can Love Be Fair",
+      "url": "https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm"
     },
     {
       "added_at": "2023-05-03 09:06:31",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-05-03 09:06:31",
       "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
-    },
-    {
-      "added_at": "2023-05-03 09:06:31",
-      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 240840,
       "name": "First Line",
       "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-05-03 09:06:31",
+      "album": {
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
+      },
+      "artists": [
+        {
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
+        }
+      ],
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-05-03 09:06:31",

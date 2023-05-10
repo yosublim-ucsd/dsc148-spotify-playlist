@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Cheryl Öztürk
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,263 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,273 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 31 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 |
 | 32 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 |
 | 33 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 |
-| 34 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 |
-| 35 | [Cap](https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Cap](https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK) | 2:15 |
+| 34 | [Cap](https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06) | [Mello](https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Cap](https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK) | 2:15 |
+| 35 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 |
 | 36 | [I Need You](https://open.spotify.com/track/2BxpTbiPVty66AwYhTrKbt) | [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [I Need You](https://open.spotify.com/album/3xztCVZEMTiU5er5V5RL0H) | 2:35 |
 | 37 | [Er Was Eens Een Meid](https://open.spotify.com/track/128TSKhbp925wwRpJksRXH) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Er Was Eens Een Meid](https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE) | 2:56 |
 | 38 | [Engelbewaarder](https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Engelbewaarder](https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH) | 3:16 |
 | 39 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
 | 40 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 |
 
-Snapshot ID: `MCxkYWNhMmM1NzEzOGQyNTZmOTJkMzI5ZGY1NTQ1NzU3ODA2MzY4NWU5`
+Snapshot ID: `MCwxYzljOTRjNTdmNTBmZTBmOTdiMTBiMzk0MGFhNTMzZmY5YzFkZTUy`

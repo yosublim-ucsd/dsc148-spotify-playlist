@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Lauren Spencer Smith, GAYLE & Em Beihold
 
-1,475 songs - 2 day 23 hr 39 min
+1,476 songs - 2 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [feelings](https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [feelings](https://open.spotify.com/album/1ScPqJzn6l2a8JdnndMZUV) | 2:20 | 2023-03-03 |  |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-02 | 2021-11-20 |
 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2021-02-16\* | 2021-02-19 |
+| [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-09 |  |
 | [fingers crossed](https://open.spotify.com/track/7jb91qnNv2R1XdrICW4A0y) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [fingers crossed](https://open.spotify.com/album/1AOdjdSeO5rdnZHCIZTvIg) | 2:43 | 2022-02-18 | 2022-09-03 |
 | [Fingers Crossed](https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY) | 2:55 | 2022-04-01 | 2022-04-29 |
 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 | 2022-01-07 | 2022-03-26 |

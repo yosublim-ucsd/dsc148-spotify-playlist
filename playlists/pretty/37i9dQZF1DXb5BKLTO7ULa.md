@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: De Jeugd Van Tegenwoordig
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,854 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,842 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 49 | [The Birds Of Van Gogh](https://open.spotify.com/track/2EQ3wRVyWUfiLVTQOCMalb) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [The Birds Of Van Gogh](https://open.spotify.com/album/02oEWQu39Y0K5QAoirUMjb) | 3:48 |
 | 50 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 |
 | 51 | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/track/1qMJAquNvVR74RlAxYG6Ys) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Chris Stills](https://open.spotify.com/artist/73BKaGq96QFgdnRXU3v0t7) | [Harvest \(feat\. Andrew Bird & Chris Stills\)](https://open.spotify.com/album/4GDA3v5DT10GdOhOPyY85q) | 3:03 |
-| 52 | [Verdwaald](https://open.spotify.com/track/4iPqaKTolwHIpccUTpY5v5) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Verdwaald](https://open.spotify.com/album/7jmrlHZklJgth5ksYZv65Y) | 2:52 |
+| 52 | [Verdwaald](https://open.spotify.com/track/0tHIjuDFd6xONs39EK8UuN) | [Babs](https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M) | [Verdwaald](https://open.spotify.com/album/4Wo6CpI2FHxTq5gAgQv4CP) | 2:52 |
 | 53 | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/track/4BtscbDsAeMeIXRCpEXMTH) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [The Otherside \(feat\. Paige Cavell\)](https://open.spotify.com/album/79yXQTjSXHNmWjpsrmPjAW) | 3:22 |
 | 54 | [Riptide \(feat\. The Haunted Youth\)](https://open.spotify.com/track/0qLerBz0rNYKARVqBTzLLX) | [King Viktor](https://open.spotify.com/artist/4O8MbCzsOScPb5KzkE1bdI), [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Riptide \(feat\. The Haunted Youth\)](https://open.spotify.com/album/5ooh3g7uYQIFXJCPuV7ff9) | 3:44 |
 | 55 | [We Were Never Really Friends](https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [We Were Never Really Friends](https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Pieces](https://open.spotify.com/track/5bwL1JGq1j4SFfCSGZtwZd) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Pieces](https://open.spotify.com/album/7wXDiXmcDVgqSQZeZwIM4d) | 4:24 |
 | 100 | [Hey Zonnebloem](https://open.spotify.com/track/7BxNuSuxxoT3EN1lQuvxB6) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Hey Zonnebloem](https://open.spotify.com/album/7lHVCPQO5bkTAdU7b9l3oN) | 3:27 |
 
-Snapshot ID: `MCxiNjRiNzhkM2JmNTM0YWVlYjVhZWNkNzAyMGU0OTQwMDg4MTk1YjIx`
+Snapshot ID: `MCw5M2M2ZGI3ODExMTVjY2QwN2U5YmYxNjYyMjc1OTE5MTM0OGYyODlm`

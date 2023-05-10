@@ -4,7 +4,7 @@
 
 > The premier alternative melancholia playlist, featuring Billie Eillish
 
-326 songs - 22 hr 6 min
+327 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bobby](https://open.spotify.com/track/4Zwaww34UGavdW9NSuleck) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/5Vcf5ekQ91AngcNKkdMNvL) | 3:23 | 2019-09-29\* | 2022-04-10 |
 | [Bony Shelter](https://open.spotify.com/track/4ZB6Wrh3QUnjfl9ciZXeGh) | [Many Voices Speak](https://open.spotify.com/artist/58F5GqfOMje69JMa2LIHD6) | [Tank Town](https://open.spotify.com/album/3JaT9SX5pSHdOAXFGX8Ktx) | 6:09 | 2019-09-29\* | 2022-04-10 |
 | [boy with the winfields and the wild heart](https://open.spotify.com/track/3wtgAhO0Jo2MDdpwlJEOSg) | [flowerkid](https://open.spotify.com/artist/4VFDBAAO80bu4bTcVJ6M8i) | [boy with the winfields and the wild heart](https://open.spotify.com/album/1Ohy7yiJ2mhcrsNd335h9p) | 4:13 | 2020-01-17 | 2022-05-21 |
-| [Boyish \- Recorded At Electric Lady Studios](https://open.spotify.com/track/1JaTuamCumQREzmUAszn3v) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 4:06 | 2022-08-26 |  |
+| [Boyish \- Recorded At Electric Lady Studios](https://open.spotify.com/track/1JaTuamCumQREzmUAszn3v) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 4:06 | 2022-08-26 | 2023-05-10 |
 | [Brooklyn Baby](https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:51 | 2020-08-30 | 2020-09-11 |
 | [California \(Prius Edition\)](https://open.spotify.com/track/4mvOKMtq3o1q5U2N5SEcm0) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA), [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [California \(Prius Edition\)](https://open.spotify.com/album/0MaHBBTjUCxim3SEo4xs61) | 3:58 | 2020-05-01 | 2022-04-10 |
 | [caroline](https://open.spotify.com/track/05RI03bh5Mn7Dz254H5XdB) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [caroline](https://open.spotify.com/album/3Nsfsb5QeDLoTClGzWRxpd) | 3:18 | 2022-06-17 | 2022-10-07 |
@@ -63,6 +63,7 @@
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-03-31 |  |
 | [Cooperstown](https://open.spotify.com/track/0qqVJpwWzbNQzg1GyMqCX3) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [Yonder Is The Clock](https://open.spotify.com/album/4XLwMmgcC0cGQ2lDziGaDa) | 6:13 | 2020-08-30 | 2020-09-11 |
 | [Corpses](https://open.spotify.com/track/1xfSkmFILeXIXalVyFU5OB) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Shape of Silence](https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W) | 4:30 | 2019-09-29\* | 2022-04-10 |
+| [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2023-05-09 |  |
 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2022-08-22 |  |
 | [dad](https://open.spotify.com/track/3ZdGWogMp00sHjyXW4o4Mk) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [dad](https://open.spotify.com/album/6Gh4KS4MxQP04klmHWVAtZ) | 3:12 | 2022-04-01 | 2022-07-16 |
 | [Demand It](https://open.spotify.com/track/2AuugcWwwlDCjUU5JcbDcD) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Wildly Idle \(Humble Before the Void\)](https://open.spotify.com/album/6U8MP9A9MF2fTdFRf0RTr1) | 5:01 | 2020-08-30 | 2020-09-11 |

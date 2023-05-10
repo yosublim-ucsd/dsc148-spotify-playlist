@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "- (Deluxe)",
+        "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224803,
+      "name": "Curtains",
+      "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
+    },
+    {
+      "album": {
         "name": "ACTA",
         "url": "https://open.spotify.com/album/3gjpogPcDu12ZDRaDtV5KL"
       },
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
@@ -1592,6 +1610,36 @@
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
+    },
+    {
+      "album": {
+        "name": "LEFT RIGHT REMIXX (FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS)",
+        "url": "https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "JAKOPS",
+          "url": "https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "LEFT RIGHT REMIXX - FEAT. CIARA & JACKSON WANG // PROD BY JAKOPS",
+      "url": "https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar"
     },
     {
       "album": {
@@ -2159,6 +2207,28 @@
     },
     {
       "album": {
+        "name": "FINE LINE",
+        "url": "https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        },
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180638,
+      "name": "PUMP! feat.chelmico",
+      "url": "https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC"
+    },
+    {
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -2214,6 +2284,24 @@
       "duration_ms": 162973,
       "name": "River",
       "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
+    },
+    {
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/3t7CqRlWGw1hsDXZ5yKUkZ"
+      },
+      "artists": [
+        {
+          "name": "Panorama Panama Town",
+          "url": "https://open.spotify.com/artist/7sfAmVy66Zdt9ykZwcg7hf"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/47D4W2Heqb7XHKSdiuI0dZ"
     },
     {
       "album": {
@@ -2788,7 +2876,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 183925,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
@@ -3258,7 +3346,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 217942,
       "name": "You Might Like It",
       "url": "https://open.spotify.com/track/0XarZ75YT67Ov5WeVSlI6g"
@@ -3454,7 +3542,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 195760,
       "name": "\u30b5\u30fc\u30af\u30eb",
       "url": "https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe"
@@ -3602,7 +3690,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 185945,
       "name": "\u30ea\u30f3\u30b8\u30e5\u30fc\u30fb\u30e9\u30f4",
       "url": "https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX"
@@ -3642,6 +3730,24 @@
       "duration_ms": 249687,
       "name": "\u5922\u306e\u7d9a\u304d\u3092",
       "url": "https://open.spotify.com/track/0fHXumWliyCu45JzeHM5nc"
+    },
+    {
+      "album": {
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/2sBQhSi92938W2hCLALSHy"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224806,
+      "name": "\u602a\u7363\u306e\u82b1\u5504",
+      "url": "https://open.spotify.com/track/10zz9RZt9DnqcxNWksRNrx"
     },
     {
       "album": {

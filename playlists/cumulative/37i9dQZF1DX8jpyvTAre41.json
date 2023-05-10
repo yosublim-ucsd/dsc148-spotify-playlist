@@ -5092,10 +5092,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 131181,
       "name": "Kool",
       "url": "https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H"
+    },
+    {
+      "album": {
+        "name": "Past // Present // Future",
+        "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131181,
+      "name": "Kool",
+      "url": "https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt"
     },
     {
       "album": {

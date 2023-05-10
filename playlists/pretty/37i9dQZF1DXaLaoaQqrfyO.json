@@ -1,12 +1,12 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 332980,
+  "num_followers": 332662,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjEzOGZmZjc2NWVlMTZjNTMyMDdhMzNmNzhkN2Y4M2Q2NGYyM2Nk",
+  "snapshot_id": "MCwwZDY3M2IxOTc2MjBhODYyMThlM2E2OGFlY2Q3MjdkYjZkZmI0ZDU0",
   "tracks": [
     {
       "added_at": "2021-03-15 19:25:13",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
-        "name": "1950",
-        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "1950",
-      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
         "name": "Melodrama",
         "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 277506,
       "name": "Supercut",
       "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2021-03-15 19:25:13",
       "album": {
+        "name": "Waiting For The Dawn",
+        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
+      },
+      "artists": [
+        {
+          "name": "The Mowgli's",
+          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
+        }
+      ],
+      "duration_ms": 173093,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
         "name": "iii",
         "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/51DZ0wUocQ8sQfjnibXVcD"
-    },
-    {
-      "added_at": "2021-03-15 19:25:13",
-      "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/1sO3d5N07nqu5CeJTLg7PG"
-      },
-      "artists": [
-        {
-          "name": "The Mowgli's",
-          "url": "https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ"
-        }
-      ],
-      "duration_ms": 173093,
-      "name": "San Francisco",
-      "url": "https://open.spotify.com/track/5RRWirYSE08FPKD6Mx4v0V"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1493,20 +1493,20 @@
       "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
     },
     {
-      "added_at": "2021-03-15 19:25:13",
+      "added_at": "2022-07-07 04:00:00",
       "album": {
-        "name": "Ritual Union",
-        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Ritual Union",
-      "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
+      "duration_ms": 176146,
+      "name": "Sarah",
+      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
     },
     {
       "added_at": "2022-07-07 04:00:00",
@@ -1527,6 +1527,22 @@
       "duration_ms": 296266,
       "name": "Ocean Eyes - Astronomyy Remix",
       "url": "https://open.spotify.com/track/6NOq79ynBpBi6BSJMdgReN"
+    },
+    {
+      "added_at": "2021-03-15 19:25:13",
+      "album": {
+        "name": "Ritual Union",
+        "url": "https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Ritual Union",
+      "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
     },
     {
       "added_at": "2021-03-15 19:25:13",
@@ -1623,22 +1639,6 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2022-07-07 04:00:00",
-      "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 176146,
-      "name": "Sarah",
-      "url": "https://open.spotify.com/track/4HuiEuJ7ZW8jewUuZBg6sk"
     }
   ],
   "unique_name": " Indie Pop 2010s",

@@ -4,7 +4,7 @@
 
 > self\-reinvention never sounded so good.
 
-86 songs - 4 hr 30 min
+87 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dye Yer Hair](https://open.spotify.com/track/22rHS6KkGbNccIdXLlQoFg) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [Dye Yer Hair](https://open.spotify.com/album/7bUhqpm35dpdoRYNgZCS7m) | 3:00 | 2022-11-04 | 2023-01-14 |
 | [Easy](https://open.spotify.com/track/1tMHI563pbsdAHEozFBmFx) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [Like a Stone](https://open.spotify.com/album/08zCMl7mc5WtilUOurDiqS) | 3:32 | 2022-09-23 | 2022-11-06 |
 | [estella//](https://open.spotify.com/track/3emo5sUq2OwBctNgX0NMEV) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 1:58 | 2023-01-13 |  |
-| [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 | 2022-09-23 |  |
+| [Fall Asleep](https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx) | [Big Joanie](https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j) | [Sistahs](https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr) | 2:56 | 2022-09-23 | 2023-05-10 |
 | [Fast in My Car](https://open.spotify.com/track/5HqY0PolOVfmhTgCTih4HF) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:42 | 2022-11-04 | 2022-12-30 |
 | [Fast in My Car](https://open.spotify.com/track/6r9cqn3KG824MXSo7sHPlK) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:42 | 2022-09-23 |  |
 | [flutter](https://open.spotify.com/track/1D8sCqR7SwxUTwUDqMyUAp) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [flutter](https://open.spotify.com/album/0r2dEhL4Ijur6WDzvgXygl) | 4:27 | 2022-09-23 | 2022-11-11 |
@@ -50,6 +50,7 @@
 | [Hey Heartbreaker](https://open.spotify.com/track/5rHOYjTsgZSt4FTIkVtcVc) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Dream Wife](https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty) | 3:20 | 2022-09-23 | 2023-03-18 |
 | [Human Condition](https://open.spotify.com/track/2LmFju01RfconFtiqKtmMb) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:50 | 2023-03-31 |  |
 | [Hunned Bandz](https://open.spotify.com/track/0nJM3li3qU18Q7MJqzbZ4R) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/64TSZqQszg2OHzX5vYiqRP) | 2:48 | 2022-09-23 | 2023-04-30 |
+| [Hunned Bandz](https://open.spotify.com/track/5kfE9Jig5bwEqb5IVDZXrF) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Sundays](https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP) | 2:48 | 2023-03-31 |  |
 | [i gave you everything](https://open.spotify.com/track/10Z0dIrJJY2eSRRqLOjD7b) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i gave you everything](https://open.spotify.com/album/60QraYbdjszTauLdxDBnnQ) | 2:38 | 2022-09-23 |  |
 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 | 2022-09-23 |  |
 | [In Too Deep](https://open.spotify.com/track/76rOZ9F8s8mX9N3NhZBgxt) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [In Too Deep](https://open.spotify.com/album/5cBeOUywALVmPxmCS8CPPw) | 3:41 | 2022-09-23 |  |

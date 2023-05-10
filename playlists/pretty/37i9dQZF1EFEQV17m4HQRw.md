@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 26 | [Sonhos de José](https://open.spotify.com/track/0WStd5zTa892KcxoMAiwMx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
 | 27 | [Altar da Graça](https://open.spotify.com/track/3kKsYXQevowt1FwbP8Fvac) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 5:29 |
 | 28 | [Sinai](https://open.spotify.com/track/56wjqnXX7fv7YY1LgvxT3d) | [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb) | [Sinai](https://open.spotify.com/album/6Z3FThXEeuuHq06E5vnCBy) | 4:58 |
-| 29 | [Seu Amigo](https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Matheus Bird](https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
-| 30 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 |
+| 29 | [Originais](https://open.spotify.com/track/0Qx8lDXJOAZlu59dpFdMqX) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Originais](https://open.spotify.com/album/0CBOe3rCben0oysg4KZN2p) | 3:33 |
+| 30 | [Seu Amigo](https://open.spotify.com/track/1LCzoXgWyDy8zMsuiiSsnx) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Matheus Bird](https://open.spotify.com/artist/5eDSBAfXhtDmDcuA4x6oed) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:46 |
 | 31 | [Tóxico](https://open.spotify.com/track/3Pmh33KdrzB0imutuOUjoZ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:08 |
 | 32 | [La Drácula](https://open.spotify.com/track/6fd79PtewFZgLXYiIYhhLJ) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:45 |
 | 33 | [Me Garanto](https://open.spotify.com/track/0M0PZQD7FVD9tgzX1VdRXf) | [Carol Roberto](https://open.spotify.com/artist/7jrmYkaX7aXULg3BX9YAYx) | [Me Garanto](https://open.spotify.com/album/1vWNsqfX0Bbq9Y7F7gEuHB) | 2:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEQV17m4HQRw.md) - [plain]
 | 43 | [Surpresa do Céu](https://open.spotify.com/track/1cRCKI1md8hR2jyLHv18ky) | [Márcia Christiny](https://open.spotify.com/artist/1pYxPPrWsaPLwiEyAXBcbe) | [Surpresa do Céu](https://open.spotify.com/album/2JScFg46WmYoCtd1dIGup9) | 5:01 |
 | 44 | [Vem Sabendo](https://open.spotify.com/track/6xw0ym9rtm8qxP9DYCzW8q) | [Célia Bueno](https://open.spotify.com/artist/7GWzRK6e1esN02UDMZLhpz) | [Tudo Novo](https://open.spotify.com/album/2GdUy47fwXjOrOjU9v12Pg) | 4:59 |
 
-Snapshot ID: `MjgwNTk5MDEsMDAwMDAwMDAzMjFmZDA1YjQ0MDhkODU0NGRmYTNjNjY1ZDAyOWY4ZQ==`
+Snapshot ID: `MjgwNjEzNDEsMDAwMDAwMDBhMmU4ZTRjMjRkZmUzZGI2Yjg4MTE1MTIwOWJjNDFlMQ==`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Romeo Santos",
-  "num_followers": 211952,
+  "num_followers": 212067,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzk0YjM3ZDJmOWZkOTBmMTVjYTI1NmZjMGUxODY1NDhlZjM3N2E4",
+  "snapshot_id": "MCxlMjY5YzE4ZjI5ZDEwMzUzNDU0NWQ2OTQ1MGNiNDY1MGVkNDk3ODEz",
   "tracks": [
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Me Voy de Ti",
-      "url": "https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "A la Mar",
         "url": "https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 239426,
       "name": "Bachata En Kingston",
       "url": "https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/4LgZqa5JapYTlGjOv85FNa"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Me Voy de Ti",
+      "url": "https://open.spotify.com/track/513D1s7hHXD8xneGDHOatZ"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Vine a Decirte Adios",
-        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 277453,
-      "name": "Vine A Decirte Adios",
-      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "La Soga",
         "url": "https://open.spotify.com/album/1gP8J1yTruazTsPOGozAG0"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 219866,
       "name": "El Profesor",
       "url": "https://open.spotify.com/track/4jUznRZO8FyJgkEAP6QDBx"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Vine a Decirte Adios",
+        "url": "https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 277453,
+      "name": "Vine A Decirte Adios",
+      "url": "https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
+        "name": "Devu\u00e9lveme Mi Libertad",
+        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Mujer de las Mil Batallas",
+      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 228000,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
-        "name": "Devu\u00e9lveme Mi Libertad",
-        "url": "https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 204564,
-      "name": "Mujer de las Mil Batallas",
-      "url": "https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU"
     },
     {
       "added_at": "2023-04-27 23:54:49",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-27 23:54:49",
       "album": {
-        "name": "Decid\u00ed",
-        "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
-      },
-      "artists": [
-        {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "Decid\u00ed",
-      "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
-    },
-    {
-      "added_at": "2023-04-27 23:54:49",
-      "album": {
         "name": "Latin Dance Series - Bachata",
         "url": "https://open.spotify.com/album/0EQ8hVtn1UFDK8jGB8ub8o"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 251250,
       "name": "Besito en la Boca",
       "url": "https://open.spotify.com/track/4sXYZFBtkrLwGQdu9vFLsF"
+    },
+    {
+      "added_at": "2023-04-27 23:54:49",
+      "album": {
+        "name": "Decid\u00ed",
+        "url": "https://open.spotify.com/album/4D36ldGdxrsKprFudusBbs"
+      },
+      "artists": [
+        {
+          "name": "Frank Reyes",
+          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Decid\u00ed",
+      "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
     },
     {
       "added_at": "2023-04-27 23:54:49",

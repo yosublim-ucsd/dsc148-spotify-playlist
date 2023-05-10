@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 
 > Our editors’ picks for the best of Rock in Canada in 2022.<br/> Cover: TALK \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,660 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,663 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 65 | [29](https://open.spotify.com/track/0REv856zadB0e8IM1brlwr) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [HOLY FVCK](https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR) | 2:43 |
 | 66 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 |
 | 67 | [Love Is All I Bring](https://open.spotify.com/track/3YDfEw7uM8Rg9Hwa5FEVdB) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Lose My Cool](https://open.spotify.com/album/02ywTruEAT82sHErogZXzP) | 3:27 |
-| 68 | [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 |
+| 68 | [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 |
 | 69 | [Hollywood Hillbilly](https://open.spotify.com/track/3wXKJzil3gjJnqqBf40nSI) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hot Trash](https://open.spotify.com/album/0GFTMkVh3GFZpJ18KPZLI1) | 2:35 |
 | 70 | [Sober](https://open.spotify.com/track/7K3rRx00hcS6MpZmYGUFH2) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Sober](https://open.spotify.com/album/51xoJomo3hvVg4BE7GHnHI) | 2:32 |
 | 71 | [Misfits](https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY), [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Baku's Revenge](https://open.spotify.com/album/07wQSjTds9132XAwuYzBWF) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KANutsQaVe.md) - [plain]
 | 74 | [My Limitations](https://open.spotify.com/track/3jbBgWsDIvqYeF1Du6z6EE) | [The Zolas](https://open.spotify.com/artist/0BVWMc7JEHdh2Ku6xgKuYL) | [My Limitations](https://open.spotify.com/album/55P9us6DOduyACzkWhjMJk) | 3:01 |
 | 75 | [Ricochet](https://open.spotify.com/track/0JlqCj8qRtUSUsrMvVpszW) | [New Friends](https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb) | [Ricochet](https://open.spotify.com/album/6DxrVhCsvW24hSrP94FZLQ) | 2:57 |
 
-Snapshot ID: `MCxkNjg3ZTJmMmJlNjJjODFlNDE4ODcwMmUzZTk3ZTVlMzJmODZhOGUw`
+Snapshot ID: `MCw1ZGU1NWQ0NGVhYTFlNjM1MWUyNWNjOWQ4NTE1M2IwZTU4ODk4MmZi`

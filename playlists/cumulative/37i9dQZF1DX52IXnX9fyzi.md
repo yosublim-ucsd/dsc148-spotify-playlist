@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-312 songs - 13 hr 32 min
+313 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-04-14 | 2022-04-28 |
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-14 | 2022-10-27 |
 | [Freddie's Theme](https://open.spotify.com/track/2oBPx5k5ejQcgzyDMoRlAU) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Freddie's Theme](https://open.spotify.com/album/7zJCUf2zTgutPRpweGoQiS) | 2:15 | 2022-04-14 | 2022-05-27 |
-| [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-04-14 |  |
+| [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-04-14 | 2023-05-10 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-14 | 2022-05-05 |
 | [Fýsi](https://open.spotify.com/track/0zYyu43x5caXk8EbIVGdqU) | [Thalis](https://open.spotify.com/artist/7yHGLV2Dy9w1FYG6RqTzp7) | [Fýsi](https://open.spotify.com/album/12ccCzAaV8mc4V8heoPnw1) | 2:18 | 2022-05-13 |  |
 | [Girandel](https://open.spotify.com/track/4MMelETKhj2Da5bw2jgGe8) | [Klaus Steiner](https://open.spotify.com/artist/0QqxPV8XBzOlkgKWoXAhbt) | [Charleston](https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG) | 2:22 | 2023-01-20 |  |
@@ -181,7 +181,7 @@
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2022-04-14 |  |
 | [momente](https://open.spotify.com/track/3e9Gta423esoiEi5AoIApd) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [momente](https://open.spotify.com/album/0gy348UnTXyvNQ0pMxGcq7) | 2:06 | 2022-04-14 |  |
 | [Moments and Secrets](https://open.spotify.com/track/76bSdzagqHxEZwoDmC6g7I) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Moments and Secrets](https://open.spotify.com/album/7yw5lAeCAgWo2CnDEXjy9w) | 2:13 | 2022-04-14 |  |
-| [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2022-04-14 |  |
+| [Montmarte](https://open.spotify.com/track/0I4fEtucjFVQcwNvMCgqoL) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Waltzes from Paris](https://open.spotify.com/album/5QNjTrkjRD32KWQZywf17x) | 2:03 | 2022-04-14 | 2023-05-10 |
 | [Monuments](https://open.spotify.com/track/3UuRldDkQBgFmEkgWG42Ge) | [Daníel Fannar](https://open.spotify.com/artist/5N36wGewpkol8rMbwxx0nj) | [Monuments](https://open.spotify.com/album/0vq2GgBYof806maqlWvTky) | 2:48 | 2022-04-14 | 2022-09-15 |
 | [Moonlight](https://open.spotify.com/track/13b7swHOlTGpZoDgtTWFIc) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Moonlight](https://open.spotify.com/album/1bRqYfdj4ipHdK3JXuhxQz) | 2:20 | 2022-04-14 | 2022-04-28 |
 | [My Affliction](https://open.spotify.com/track/49bBnHT2FcuusDAaIfZVLC) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [My Affliction](https://open.spotify.com/album/7mmt3L0Tva5TBR1gJ3fbtY) | 2:19 | 2022-12-22 |  |
@@ -199,7 +199,7 @@
 | [Nocturne des elfes](https://open.spotify.com/track/0SndGJp12rItbzoR7DIczf) | [Admalou](https://open.spotify.com/artist/2I3OPWjSg3DOoS1QeRof4t) | [Nocturne des elfes](https://open.spotify.com/album/7HcQg3Jr2itIFwIxFomtCy) | 2:32 | 2022-04-27 |  |
 | [Nocturne in C](https://open.spotify.com/track/6oxOGjqU2fRw9USI2sddoC) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Nocturne in C](https://open.spotify.com/album/66tnYfegl9yV4STuFafEfT) | 2:13 | 2022-04-14 | 2023-04-05 |
 | [Numéro 13](https://open.spotify.com/track/6aXG0T4NOzpWGskxokvXHL) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Numéro 13](https://open.spotify.com/album/1bzvnR1w0tPL7pjZUiTXWb) | 2:18 | 2022-08-30 |  |
-| [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 | 2022-12-22 |  |
+| [Nuxe](https://open.spotify.com/track/6h0V5bM7dDmwvrrmqHVlPE) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:18 | 2022-12-22 | 2023-05-10 |
 | [Nyári séta](https://open.spotify.com/track/7CgSotbNO8YesINbIWsmaV) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Gyere velem](https://open.spotify.com/album/7zzn1Mlpv7S8SY8t80qR9H) | 2:13 | 2022-07-15 |  |
 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 | 2022-04-14 | 2022-04-28 |
 | [Old Friends](https://open.spotify.com/track/7gK75qkpI8WjfL2Tpi3Z5C) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [Old Friends](https://open.spotify.com/album/0RwX2sJ91NUNGsEvaOiwLF) | 1:50 | 2022-08-30 |  |
@@ -270,6 +270,7 @@
 | [The Half Light](https://open.spotify.com/track/71yLhDpyToB7Z0e7COEd6a) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [The Half Light](https://open.spotify.com/album/6xOrmL9RVWh61RdOGZ7f6n) | 3:04 | 2022-04-14 | 2022-04-28 |
 | [The Light Will Return](https://open.spotify.com/track/0wHtZIo4VfYdXVKj3xrxWG) | [Bernadette Boulet](https://open.spotify.com/artist/40Da6NXKY8x4oGkVoCcIFw) | [The Light Will Return](https://open.spotify.com/album/4HBKYcRStmQOq1QrdPceqo) | 2:45 | 2022-04-14 | 2022-07-16 |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2022-04-14 | 2022-12-24 |
+| [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-09 |  |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-14 | 2022-12-24 |
 | [The Perfect Two](https://open.spotify.com/track/6ybvlo7BzMqEChtAwWoAew) | [Lílian Pinto](https://open.spotify.com/artist/6zo4rHxIGBohn7OaoTS1qa) | [The Perfect Two](https://open.spotify.com/album/2WE9WtMlbnh12kSbdJWA09) | 2:09 | 2022-12-22 |  |
 | [The Persistence of Memory](https://open.spotify.com/track/3QSKmjKCMCc8halbvPmwkl) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [The Persistence of Memory](https://open.spotify.com/album/6Bk0HhWSAZfMAioQEc1dl0) | 2:30 | 2022-04-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6838571,
+  "num_followers": 6839487,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODBiMWYxNTI5Y2ZlODE0YmU4ODM3NGM2MzliMDMwMDk4Y2M2OTI2",
+  "snapshot_id": "MCxmY2M0N2E3ZTZjM2EwNzlmYTQ4ZWU4OWJjNTI3MTg3ZDJjNDYzZTIy",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Kernkraft 400 (A Better Day)",
-        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Kernkraft 400 (A Better Day)",
-      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 147986,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Kernkraft 400 (A Better Day)",
+        "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Kernkraft 400 (A Better Day)",
+      "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -455,8 +455,8 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Baby again..",
-        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
       "artists": [
         {
@@ -464,17 +464,17 @@
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 319963,
-      "name": "Baby again..",
-      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -667,8 +667,8 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+        "name": "Baby again..",
+        "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
       "artists": [
         {
@@ -676,17 +676,17 @@
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         },
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+      "duration_ms": 319963,
+      "name": "Baby again..",
+      "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
-        }
-      ],
-      "duration_ms": 178908,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Lay All Your Love On Me",
         "url": "https://open.spotify.com/album/5JsvDPpSwOB2CgxUxGzy5T"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 155076,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/3bjM6KcvV1MwkAm7DJQb9O"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -995,6 +995,26 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Broken (Lost Frequencies Cut)",
+        "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Isak Danielson",
+          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
+        }
+      ],
+      "duration_ms": 172790,
+      "name": "Broken - Lost Frequencies Cut",
+      "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "WOW (feat. \u00c1SD\u00cdS)",
         "url": "https://open.spotify.com/album/5wGgVYOO2isbGL0WA5fs2Q"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 143055,
       "name": "WOW (feat. \u00c1SD\u00cdS)",
       "url": "https://open.spotify.com/track/318quSv1UJeamoAkEDjAuY"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Broken (Lost Frequencies Cut)",
-        "url": "https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Isak Danielson",
-          "url": "https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7"
-        }
-      ],
-      "duration_ms": 172790,
-      "name": "Broken - Lost Frequencies Cut",
-      "url": "https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1407,26 +1407,22 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+        "name": "Hit 'Em Up Style (Oops!)",
+        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
-      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+      "duration_ms": 159840,
+      "name": "Hit 'Em Up Style (Oops!)",
+      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1455,6 +1451,30 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
+        "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+        "url": "https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Worlds On Fire (with R3HAB & Au/Ra)",
+      "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
         "name": "Numb (Alok Remix)",
         "url": "https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
-        "name": "Hit 'Em Up Style (Oops!)",
-        "url": "https://open.spotify.com/album/5OlOJVvdqUc8BoMMjTGamk"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "James Hurr",
-          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Hit 'Em Up Style (Oops!)",
-      "url": "https://open.spotify.com/track/6s2vYgLML3ClOtlJhYyYKR"
     },
     {
       "added_at": "2023-05-04 22:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-05-04 22:00:00",
       "album": {
-        "name": "1x1",
-        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 139435,
-      "name": "1x1",
-      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
-    },
-    {
-      "added_at": "2023-05-04 22:00:00",
-      "album": {
         "name": "Shake That",
         "url": "https://open.spotify.com/album/5SoTXkh99EXoin02hPhgoL"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 179738,
       "name": "Shake That",
       "url": "https://open.spotify.com/track/47TOnN2ffRwsEvWsTZ6IaI"
+    },
+    {
+      "added_at": "2023-05-04 22:00:00",
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 139435,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66"
     },
     {
       "added_at": "2023-05-04 22:00:00",

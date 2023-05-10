@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "At Dusk",
+        "url": "https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX"
+      },
+      "artists": [
+        {
+          "name": "Heretoir",
+          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
+        },
+        {
+          "name": "Suldusk",
+          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "At Dusk",
+      "url": "https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT"
+    },
+    {
+      "album": {
         "name": "Demonoir",
         "url": "https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4"
       },
@@ -3038,7 +3060,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 507640,
       "name": "Hvite Krists D\u00f8d - Remastered 2021",
       "url": "https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw"
@@ -3136,6 +3158,24 @@
       "duration_ms": 360840,
       "name": "I Am The Black Wizards",
       "url": "https://open.spotify.com/track/2956v4MaiU78SkPpeTXxhq"
+    },
+    {
+      "album": {
+        "name": "In The Nightside Eclipse",
+        "url": "https://open.spotify.com/album/0va7zHEUQixlEhLAFz2r63"
+      },
+      "artists": [
+        {
+          "name": "Emperor",
+          "url": "https://open.spotify.com/artist/6jPWrSmxOd9mj7Xaj4EP2Y"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360840,
+      "name": "I Am The Black Wizards",
+      "url": "https://open.spotify.com/track/4jjlYfhduOrGY4mySof5C3"
     },
     {
       "album": {
@@ -4718,7 +4758,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 320333,
       "name": "Profetens \u00c5penbaring",
       "url": "https://open.spotify.com/track/3xVfnZDhLogW1qluw3YHgg"

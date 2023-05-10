@@ -1,15 +1,63 @@
 {
   "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Mazyn. Artwork: Isu Kim",
-  "num_followers": 5452,
+  "num_followers": 5459,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzI5NjliODAyYmU1MDA0YmVlNjhhNDE2ZjUxOTNmYzRlMGViM2Nj",
+  "snapshot_id": "MCxjMDRmOWEwMWI4NGU2NjJlYmNlOTQ3ZWQzNTA3MTQ1MDA0ZjRjMzgw",
   "tracks": [
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
+      "album": {
+        "name": "Outro",
+        "url": "https://open.spotify.com/album/3NTz2FUGdJXdqQo1yDYOyH"
+      },
+      "artists": [
+        {
+          "name": "Debani",
+          "url": "https://open.spotify.com/artist/5YQpqLghmViWnrQUwXM41R"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Outro",
+      "url": "https://open.spotify.com/track/3pQuKEIvQD7cEOD6cLobU0"
+    },
+    {
+      "added_at": "2023-05-09 20:05:00",
+      "album": {
+        "name": "RAS L'KHEIT",
+        "url": "https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y"
+      },
+      "artists": [
+        {
+          "name": "Fulan",
+          "url": "https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "RAS L'KHEIT",
+      "url": "https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo"
+    },
+    {
+      "added_at": "2023-05-09 20:05:00",
+      "album": {
+        "name": "Bashbah Emmbareh",
+        "url": "https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj"
+      },
+      "artists": [
+        {
+          "name": "Zohud",
+          "url": "https://open.spotify.com/artist/0HR4ZnnXwIRjOMYz0UP68D"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Bashbah Emmbareh",
+      "url": "https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq"
+    },
+    {
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Scorsese",
         "url": "https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla"
@@ -41,7 +89,7 @@
       "url": "https://open.spotify.com/track/750DwBev1112r16elo8Mom"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Mtgish",
         "url": "https://open.spotify.com/album/7J3YFv6zkfp4gZPodBFIW7"
@@ -57,7 +105,7 @@
       "url": "https://open.spotify.com/track/7bvLFia8U9lJmExtvgZncB"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
@@ -73,7 +121,7 @@
       "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M"
@@ -89,7 +137,7 @@
       "url": "https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/5S7iMl6Wfl4hHMKTzNxLPw"
@@ -105,7 +153,7 @@
       "url": "https://open.spotify.com/track/12tZyFvHuaiIbP80ukDWH5"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Ode to life",
         "url": "https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz"
@@ -137,7 +185,7 @@
       "url": "https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Something I Need",
         "url": "https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX"
@@ -153,7 +201,7 @@
       "url": "https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Fallen Angels",
         "url": "https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd"
@@ -169,7 +217,7 @@
       "url": "https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "waht if_6",
         "url": "https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf"
@@ -185,7 +233,7 @@
       "url": "https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Make You Happier",
         "url": "https://open.spotify.com/album/6prbjVMCvjEwKP42VJ5jNY"
@@ -201,7 +249,7 @@
       "url": "https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Open the Pit",
         "url": "https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP"
@@ -217,7 +265,7 @@
       "url": "https://open.spotify.com/track/0wH4CxUFXPy8QjjJLZHass"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Change Tomorrow",
         "url": "https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn"
@@ -233,7 +281,7 @@
       "url": "https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Tmsa7",
         "url": "https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8"
@@ -249,7 +297,7 @@
       "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "HYSTERIA",
         "url": "https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48"
@@ -265,7 +313,7 @@
       "url": "https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Freecutter",
         "url": "https://open.spotify.com/album/373pGsj37jfjrtozC8AT89"
@@ -281,7 +329,7 @@
       "url": "https://open.spotify.com/track/25dZ0pb2Jut2LuDu5t1x8f"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/7d9o63pw979XngrDlHRrey"
@@ -297,7 +345,7 @@
       "url": "https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Chapter 2: Love Come Get Me",
         "url": "https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3"
@@ -313,7 +361,7 @@
       "url": "https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6"
@@ -329,7 +377,7 @@
       "url": "https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "How stupid is this?",
         "url": "https://open.spotify.com/album/3ZxRnhdZ5hJbrrZfPveQDL"
@@ -345,7 +393,7 @@
       "url": "https://open.spotify.com/track/3dcRnj7wvnhpSdEE3fyTzL"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "3ALA BALI",
         "url": "https://open.spotify.com/album/4H6F1ToFkjw4pDQWsA2CON"
@@ -361,7 +409,7 @@
       "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Dodi and Diana",
         "url": "https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi"
@@ -377,7 +425,7 @@
       "url": "https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Late at Night",
         "url": "https://open.spotify.com/album/7idOjiu9Ue6uZCvvC517g4"
@@ -393,7 +441,7 @@
       "url": "https://open.spotify.com/track/3ucPO98aE91zqyQVL7LL3U"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "\u0627\u0646\u0627 \u0628\u0639\u064a\u062f",
         "url": "https://open.spotify.com/album/4THTNtqBn0ux8S5GBBTDLg"
@@ -409,7 +457,7 @@
       "url": "https://open.spotify.com/track/7MaHcIjcqR7lGxmZDXAhDO"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Gazing",
         "url": "https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz"
@@ -425,7 +473,7 @@
       "url": "https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "OBSESSED",
         "url": "https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG"
@@ -441,7 +489,7 @@
       "url": "https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw"
@@ -457,7 +505,7 @@
       "url": "https://open.spotify.com/track/2bhbwipmX2S5PsE1VHPk0V"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "DENYA",
         "url": "https://open.spotify.com/album/3ai4sZXguA2esRD3rQ0MKx"
@@ -473,7 +521,7 @@
       "url": "https://open.spotify.com/track/2szYtXOwdOsSodY3wefybT"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Leh Ya Hana ?",
         "url": "https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Options",
         "url": "https://open.spotify.com/album/3OYilYvbdSROl1RphaJ3HB"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/1vFoehNqZiEjAwYReBdAff"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "LOWKEY",
         "url": "https://open.spotify.com/album/6Ds5HnLl6sPABjnioSR9dG"
@@ -533,7 +581,7 @@
       "url": "https://open.spotify.com/track/5DPsRMm9YBzNgcOLLemG43"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "ZIK",
         "url": "https://open.spotify.com/album/1XnTTW2lDUzhq1WmSkOu9o"
@@ -549,7 +597,7 @@
       "url": "https://open.spotify.com/track/2KtjMjvG5ZMRlKTpFQB4eJ"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "IM HIM",
         "url": "https://open.spotify.com/album/3s32ncsz7ZxWIoeydfGLbS"
@@ -565,7 +613,7 @@
       "url": "https://open.spotify.com/track/4DIs8WvTe6VNaapddoUqY3"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg"
@@ -581,7 +629,7 @@
       "url": "https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Barzak",
         "url": "https://open.spotify.com/album/6nHE1H2IXDVRtozH48Xm43"
@@ -621,7 +669,7 @@
       "url": "https://open.spotify.com/track/0xHqT7a3BXGgn3uTzKEUbr"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "daydreamer",
         "url": "https://open.spotify.com/album/7lu9PAgEM5XqPLrU0hi8wA"
@@ -637,7 +685,7 @@
       "url": "https://open.spotify.com/track/4CsrJAOj9SEEFbWWmwyC9U"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "FAG2A",
         "url": "https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ"
@@ -657,7 +705,7 @@
       "url": "https://open.spotify.com/track/7mokTKlzN0a3zlBGZeSsdM"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "In the Music",
         "url": "https://open.spotify.com/album/5IjEWqasrST65LtDSo0gEJ"
@@ -681,7 +729,7 @@
       "url": "https://open.spotify.com/track/5TQiZXRf45cJthdjbsmlYy"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Aroma \u0639\u0628\u064a\u0631",
         "url": "https://open.spotify.com/album/1ZuKymhfVlambrhftRjWRJ"
@@ -697,23 +745,7 @@
       "url": "https://open.spotify.com/track/0uaGiRPEILWQbamtwPmtVb"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
-      "album": {
-        "name": "Dog",
-        "url": "https://open.spotify.com/album/1mB8S3VcFKPk5fP5dMTeRg"
-      },
-      "artists": [
-        {
-          "name": "Farrah Hanna",
-          "url": "https://open.spotify.com/artist/2IbXHOUXZmrRTByaOaRn8Z"
-        }
-      ],
-      "duration_ms": 171345,
-      "name": "Dog",
-      "url": "https://open.spotify.com/track/1WWtxXDnHFJQJXqSr0wZ4D"
-    },
-    {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Ouli Liya",
         "url": "https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/3gjyvRAkNSf8u4eSBfCLmM"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/7h3MyaF9PwcTRsoTugynP6"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "103",
         "url": "https://open.spotify.com/album/0UmHC2jX7B5oIb64bDkPh0"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "QAAR A",
         "url": "https://open.spotify.com/album/6mCMQFns9e0g2civC8khcB"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/0Eh0KuFNOQ0gPilhJzZRXz"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Banda",
         "url": "https://open.spotify.com/album/2357p5LMBTSEQYjFdXshIn"
@@ -793,7 +825,7 @@
       "url": "https://open.spotify.com/track/1MPM80AcWKknvhIJL8nZON"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "M\u00e9diterran\u00e9e",
         "url": "https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt"
@@ -809,7 +841,7 @@
       "url": "https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR"
     },
     {
-      "added_at": "2023-05-02 21:49:48",
+      "added_at": "2023-05-09 20:05:00",
       "album": {
         "name": "Ouda",
         "url": "https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ"
@@ -823,38 +855,6 @@
       "duration_ms": 308526,
       "name": "Ouda",
       "url": "https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ"
-    },
-    {
-      "added_at": "2023-05-02 21:49:48",
-      "album": {
-        "name": "Faqat Ala Bali",
-        "url": "https://open.spotify.com/album/3q8zNHHfUUAMrNgDIan35P"
-      },
-      "artists": [
-        {
-          "name": "Gharam Electric",
-          "url": "https://open.spotify.com/artist/7bSZexnmG19HNWsNh1xok7"
-        }
-      ],
-      "duration_ms": 403861,
-      "name": "Faqat Ala Bali",
-      "url": "https://open.spotify.com/track/1wuVpWw54aPEeTrr95uRjp"
-    },
-    {
-      "added_at": "2023-05-02 21:49:48",
-      "album": {
-        "name": "ODE.",
-        "url": "https://open.spotify.com/album/0pZ3DLUZg5QWIFHTpRUmWM"
-      },
-      "artists": [
-        {
-          "name": "Meta4 Planet",
-          "url": "https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r"
-        }
-      ],
-      "duration_ms": 196407,
-      "name": "Mermaid datni l'darha",
-      "url": "https://open.spotify.com/track/5DUguL7lB4cREG7LUjntlU"
     }
   ],
   "unique_name": "Fresh Finds Arabia",

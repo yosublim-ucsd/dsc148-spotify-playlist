@@ -4,7 +4,7 @@
 
 > An eclectic mix of past & current Indie favourites\. Cover: Arlo Parks
 
-679 songs - 1 day 17 hr 22 min
+680 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,6 +372,7 @@
 | [MANY FACES](https://open.spotify.com/track/3h1WHFQhYwwDtFRreAfSVd) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [I AM JUST A BOY LEAVE ME ALONE !!!](https://open.spotify.com/album/7KKDPcNCaaVphHT1WbKEKZ) | 2:33 | 2021-06-21 | 2022-07-28 |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2021-12-17 | 2022-08-24 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-08-23 |  |
+| [Mary](https://open.spotify.com/track/4p9iQNEmsIGkB6eG8Val8n) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 3:17 | 2023-04-21 |  |
 | [Mary](https://open.spotify.com/track/5T0Ib1Hjhsua7qbGTczU7j) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 3:17 | 2023-02-10 | 2023-05-01 |
 | [Me & My Dog](https://open.spotify.com/track/2jGAR1n5D2z8WXYLsmjE4P) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP), [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [Me & My Dog](https://open.spotify.com/album/3v8X73XvgiVNxGQHGmJT5w) | 3:26 | 2021-01-15 | 2022-07-29 |
 | [Me and the Devil](https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh) | [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Sugarbread](https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa) | 3:05 | 2023-04-21 |  |
@@ -660,7 +661,7 @@
 | [We Will Run](https://open.spotify.com/track/5q3lFZYp9HLaXATffQSgcj) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/3U46TtL4xmHrr1RaCw8C0M) | 4:15 | 2021-02-23 | 2022-04-15 |
 | [We're Just Strangers Now](https://open.spotify.com/track/6cLaa0fgJMAwpUhvtXHneY) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [Cruel Joke](https://open.spotify.com/album/3XHPwHimw4VjTMSIdNgPCv) | 2:44 | 2021-12-17 | 2022-07-24 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2022-08-23 | 2023-02-11 |
-| [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-03-03 |  |
+| [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-03-03 | 2023-05-10 |
 | [West Coast Love](https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. II](https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS) | 3:35 | 2020-10-29\* | 2022-08-24 |
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-11-11 |  |
 | [What You Do](https://open.spotify.com/track/6SjUDhQsGP1Ynz4aYGxckR) | [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [What You Do](https://open.spotify.com/album/6dqfF61t5F8M7HvyAZuder) | 3:35 | 2021-02-24 | 2022-04-14 |

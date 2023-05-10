@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,040 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,032 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 15 | [Frosty The Snowman](https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:11 |
 | 16 | [\(There's No Place Like\) Home for the Holidays \- 1954 Version](https://open.spotify.com/track/5mKxNjNnRFpO9Muzw3Ug0u) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:51 |
 | 17 | [Cool Yule](https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:56 |
-| 18 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
-| 19 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
+| 18 | [I'll Be Home for Christmas](https://open.spotify.com/track/5PCS7feLWXvEsp5s5fSpXe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:28 |
+| 19 | [\(Everybody's Waitin' For\) The Man With The Bag \- Remastered 1996](https://open.spotify.com/track/2UA49yZYjwyhKqGH3hPIih) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [Ultra\-Lounge: Christmas Cocktails](https://open.spotify.com/album/6dJBEVFDu7iW0k5VFFA53t) | 2:42 |
 | 20 | [The Merriest](https://open.spotify.com/track/2hDdstWRM7fF0Tf1RZmduM) | [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [This Time Of The Year](https://open.spotify.com/album/0szcykJDXIrks6ETFZF6Zw) | 2:09 |
 | 21 | [Sleigh Ride](https://open.spotify.com/track/4ukUoXLuFzMixyZyabSGc4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:55 |
 | 22 | [Caroling, Caroling](https://open.spotify.com/track/11Z7sdkpC5IaaydoIvDn74) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 2:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 69 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM) | 3:09 |
 | 70 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 
-Snapshot ID: `MCxlODhjYTZkY2VlZDFiYjM4M2IyYmQ1ZTk3ZDViODI4NjU5YWEyMTIx`
+Snapshot ID: `MCwyOWNhOWZkNTUxN2Y0NTUxZjA0Nzk1MjJhZDJhMTdlZWZjZjA3MmRj`

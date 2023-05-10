@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,236 likes - 92 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,184 likes - 92 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \- Orchestral](https://open.spotify.com/track/34zlt87xSyaFUZGvnN0wpD) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Queen Charlotte's Global Orchestra](https://open.spotify.com/artist/5Xzm3ggNexDSCMhS7ndmfY) | [If I Ain't Got You \(feat\. Queen Charlotte's Global Orchestra\) \[Orchestral \- from Queen Charlotte: A Bridgerton Story \[Covers from the Netflix Series\]\]](https://open.spotify.com/album/220Eq2Z7tpEebUZDanHeVE) | 4:54 |
-| 2 | [A Feeling I've Never Been](https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:44 |
+| 2 | [A Feeling I've Never Been](https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ), [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:44 |
 | 3 | [Halo](https://open.spotify.com/track/74N9z23qZd1q3rViChUdB7) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 2:53 |
 | 4 | [If I Ain't Got You](https://open.spotify.com/track/1NaQBIECEo3dFOMtgvCWFN) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 3:34 |
 | 5 | [Deja Vu](https://open.spotify.com/track/6TSNKoF2jWWIiFfK4g8SFI) | [Mike Froudarakis](https://open.spotify.com/artist/3gGBjO6ke4rl7eFJ2XFpFg), [Alexander Leeming Froudakis](https://open.spotify.com/artist/6h94vIxQQmEQL26ver8Vt8) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 2:20 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 91 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 92 | [You Oughta Know](https://open.spotify.com/track/1dUpj0vJ2mMPZC9P3jecyq) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know](https://open.spotify.com/album/7eMwL8nKcoYE8AYFO7LTuO) | 4:08 |
 
-Snapshot ID: `MCw5MGE3YzEzNzAxMzVkZTEzY2Y1M2FlOTE1YTc2ZDhmOTY1MTE0MzU4`
+Snapshot ID: `MCw5NzQ3MmMxMDUxYzM3OWI1OTAzODNjMzA5NTY0ZThjYjIyYTU5YTg5`

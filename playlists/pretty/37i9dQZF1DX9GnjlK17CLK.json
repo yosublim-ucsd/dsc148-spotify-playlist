@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 94839,
+  "num_followers": 94971,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGIwOTc4YjAyOGEyNTU4MGE3MjljZTkyNjllNGMzOTkzY2M4MDg4",
+  "snapshot_id": "MCxmMzA2NGY2YmZjODlkYTEzZGZhNDEyNzU2NDMxYmIzZmIxNTU5NDk3",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "Al's Big Deal",
+        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
         }
       ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+      "duration_ms": 414000,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
     },
     {
       "added_at": "2023-03-03 18:13:49",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Al's Big Deal",
-        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 414000,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
       "added_at": "2023-03-03 18:13:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,082 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,228 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [LIGHTNING](https://open.spotify.com/track/6ptDJrpmo53dp5weWeN0A5) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [LIGHTNING](https://open.spotify.com/album/5omg8JAqL1wXARrfBLWXHD) | 2:42 |
 | 75 | [Thinking Bout Ya](https://open.spotify.com/track/5XJJxc2t9gUsyi80KCcs4M) | [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [Thinking Bout Ya](https://open.spotify.com/album/2eExKyZnFUqEHLsK7HUcNU) | 2:43 |
 
-Snapshot ID: `MCxkOWExNTA3ZTgzY2I0YzUwNTgzMjdlYjBmZjA2N2ExYWYxMWIzYmY1`
+Snapshot ID: `MCxmMDdiYjJjZmFkNmJkZDUwNTI2OTg1NzA3NTBlYTc0MzI4MTBkYzBm`

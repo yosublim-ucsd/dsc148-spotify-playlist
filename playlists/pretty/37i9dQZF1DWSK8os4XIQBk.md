@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best modern country music\. Cover: Luke Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,413 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,470 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 99 | [My Boy](https://open.spotify.com/track/47fyYjbsfq48e3fUys4Xaa) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:23 |
 | 100 | [Cold Beer Calling My Name](https://open.spotify.com/track/67wUHsoXdZ8UOLt6rodpQ9) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Bet You're from a Small Town](https://open.spotify.com/album/00rNMpiSdqmVWMmQsahNTo) | 3:30 |
 
-Snapshot ID: `MCwxZWM3M2U5YTE2YTJkY2M4M2E4YTdlNDliNDczZTNkYzNiOTQyNGI5`
+Snapshot ID: `MCw3ZTg3NGIzZmQwZTM5ZjQzNTAwYmFhZDU0ODA1ZDAzNDk4N2JlMjhj`

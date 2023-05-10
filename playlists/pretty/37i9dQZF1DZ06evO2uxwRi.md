@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,489 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,495 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 46 | [Nothing To Say](https://open.spotify.com/track/2pLu37xnqwG8j2oZg86O8M) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:01 |
 | 47 | [Mouth to Mouth](https://open.spotify.com/track/65aqwAYrWYPVftgfV1xEz1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Make The Most Of It](https://open.spotify.com/album/6Dbr1h4wgGml15jhfBmXsA) | 4:12 |
 | 48 | [47](https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:51 |
-| 49 | [Backseat](https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Backseat](https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW) | 3:30 |
-| 50 | [Doubt Full](https://open.spotify.com/track/4c5uNta9rSiOkWT3dlhWuf) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:35 |
+| 49 | [Doubt Full](https://open.spotify.com/track/4c5uNta9rSiOkWT3dlhWuf) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/1Igrcji3zf5aC61saylDE1) | 3:35 |
+| 50 | [Backseat](https://open.spotify.com/track/4lQcddTT0dqUgRsiFux4bK) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Backseat](https://open.spotify.com/album/7wEu93qQCQX4PaTwka6jvW) | 3:30 |
 
-Snapshot ID: `MjgwNTkxOTgsMDAwMDAwMDBlMDRlZjBlNDI0ZWFjZDdlYzM2YmJjODVjNGRhZmU0MA==`
+Snapshot ID: `MjgwNjA1NTksMDAwMDAwMDAwMDMyNDNkNGY5NzRkN2I5ZDc2NDRlOTc5N2JlNzgzZA==`

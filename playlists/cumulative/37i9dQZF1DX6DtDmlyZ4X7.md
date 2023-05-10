@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-580 songs - 1 day 1 hr 19 min
+581 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Haze](https://open.spotify.com/track/0eKrfTBCTXCvKMvwffIiFP) | [Benito Hidaka](https://open.spotify.com/artist/4UyhrqbotqTVu12QkpsQWg) | [Haze](https://open.spotify.com/album/3TmuG0POkrpP8Ulcu3n977) | 2:33 | 2021-12-07 | 2023-03-29 |
 | [Hazel](https://open.spotify.com/track/0gGMapNpfOR8H4TSnI2HLH) | [Elliot Ziegler](https://open.spotify.com/artist/0Wh30jSV0ZQf0IzHkEddBY) | [Hazel](https://open.spotify.com/album/5QuLejmhyUVRk6LLHNX9n6) | 3:07 | 2021-12-07 | 2022-06-03 |
 | [Heart of the River of the Sun](https://open.spotify.com/track/2YIC6Cp33wgMVEYruivCuH) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Heart of the River of the Sun](https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny) | 2:31 | 2021-12-07 |  |
-| [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2021-12-07 | 2023-01-17 |
+| [Heartfelt](https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Heartfelt](https://open.spotify.com/album/4n944iZef2VPY0Ahfnc8J9) | 2:16 | 2021-12-07 |  |
 | [hearts and clover](https://open.spotify.com/track/3fBzuGNrnXZc5yT4kB39Sq) | [Holly Jones](https://open.spotify.com/artist/6Ub8jxQatQvncgReWsJ5XC) | [hearts and clover](https://open.spotify.com/album/2fO5w0DgMkBnRTiFlXr7ZS) | 2:48 | 2022-05-20 | 2022-06-08 |
 | [Helgoland](https://open.spotify.com/track/3CHSUEhxoy2s7NKVhH89wu) | [Filip Klein](https://open.spotify.com/artist/5TEPJRzplaEk3hEaFSM11w) | [Helgoland](https://open.spotify.com/album/7kdR3MtQBnZNb6ECrR1i6g) | 2:26 | 2021-12-07 |  |
 | [Hengivenhet](https://open.spotify.com/track/09xhHABxdKi798ORUSbor5) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Hengivenhet](https://open.spotify.com/album/2UqDfKhXAABKso80rqHEAW) | 2:00 | 2021-12-07 | 2022-09-16 |
@@ -238,10 +238,10 @@
 | [Jalousie](https://open.spotify.com/track/0EhY59G3z36qhZvRf4JLWi) | [Amy\-Leigh Williamson](https://open.spotify.com/artist/5rc29ZWhATx7oy7gk525xx) | [Jalousie](https://open.spotify.com/album/38V6f82x9xE1Tet8pItNnj) | 2:00 | 2022-01-04 | 2022-06-07 |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-12-07 |  |
 | [Julia](https://open.spotify.com/track/3q5Z6pJSHH8s2ClI7WS45p) | [Jenna Elizabeth](https://open.spotify.com/artist/5If5kZtYCXDNwUSgVqu5Fr) | [Julia](https://open.spotify.com/album/5h0ryO3dNKBJ8gywTezvD2) | 2:36 | 2021-12-07 | 2022-03-02 |
-| [June](https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [June](https://open.spotify.com/album/73xsz6Gc6VotpfbmHDEi7j) | 2:36 | 2021-12-07 |  |
+| [June](https://open.spotify.com/track/6QPV9cbVo1wFr3unL0y2qZ) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [June](https://open.spotify.com/album/73xsz6Gc6VotpfbmHDEi7j) | 2:36 | 2021-12-07 | 2023-05-10 |
 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 | 2022-02-01 |  |
 | [Kaschmir \- Solitaer Edit](https://open.spotify.com/track/1OxTi7rRGglL7DUzvcFIaS) | [Clemens Christian Poetzsch](https://open.spotify.com/artist/2LJQMhQRljgt80qLTSsqyc) | [Kaschmir \(Solitaer Edit\)](https://open.spotify.com/album/6Mux8k7o6aaqIveZhssLiD) | 3:47 | 2021-12-07 | 2022-09-24 |
-| [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 |  |
+| [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 | 2023-03-14 | 2023-05-10 |
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-01-18 | 2022-02-16 |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2021-12-07 | 2023-01-12 |
 | [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2021-12-07 | 2022-09-16 |
@@ -335,7 +335,7 @@
 | [My fellow creatures](https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU) | [Carlos Cipa](https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO) | [Correlations B\-Sides \(on Yamaha Upright, 1981\)](https://open.spotify.com/album/2G4IIha9htug2thniT54uy) | 3:25 | 2021-12-07 | 2022-06-08 |
 | [My Mind Made Up](https://open.spotify.com/track/28EEsmFKYr0HTeCxyEeeqO) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [My Mind Made Up](https://open.spotify.com/album/5gj3aLJleU4wkfTN2bttEO) | 3:35 | 2021-12-07 | 2022-09-24 |
 | [My Promise To You](https://open.spotify.com/track/4ZvOrYWUCgIRRQ4xwrFbRI) | [Maria Buehler](https://open.spotify.com/artist/414bu4YqVabs17TyYuWzbt) | [My Promise To You](https://open.spotify.com/album/732OE6JgjqVwEXCY6CqpaF) | 2:23 | 2021-12-07 | 2022-09-24 |
-| [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2021-12-07 |  |
+| [Mère bien\-aimée](https://open.spotify.com/track/4iUW2jCsr1jofP9GQGuXPh) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Mère bien\-aimée](https://open.spotify.com/album/6l6nZMFvZ8SYslMUPvuOdr) | 2:16 | 2021-12-07 | 2023-05-10 |
 | [Mélange](https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z) | [Helena Roche](https://open.spotify.com/artist/5EJ97hGYe8LfBXYvX2Rfvt) | [Mélange](https://open.spotify.com/album/1p11b4Y3nK9bHNpLfiuC0x) | 1:55 | 2021-12-07 |  |
 | [Naoko](https://open.spotify.com/track/69eVeuJn0NONg1vRdhLmmU) | [Emilija Grey](https://open.spotify.com/artist/3tv3uBF05Jt45Q3ZbXeCSI) | [Naoko](https://open.spotify.com/album/50eCW2CjWfy37vvKaWOoUE) | 2:27 | 2021-12-07 |  |
 | [Naoko](https://open.spotify.com/track/42vtu2WdEl9Di6zzdiRpBV) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:04 | 2022-06-07 | 2022-11-20 |
@@ -370,6 +370,7 @@
 | [Pagnossini](https://open.spotify.com/track/0rYtdfXg99nfq9ZUJS4LwY) | [Pietro Madigan](https://open.spotify.com/artist/3ilaXnCy8JNUWKNvF4GTwW) | [Pagnossini](https://open.spotify.com/album/1BMndjUepTnrweBlHNOQtr) | 2:26 | 2021-12-07 |  |
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 |  |
 | [Paisible](https://open.spotify.com/track/1tmUqof1lj9IgHQoh4LjA7) | [Belle Margaux](https://open.spotify.com/artist/3WKsLlBJ9kQc0ccsuEuZdu) | [Paisible](https://open.spotify.com/album/2bYxwhnFN7tyW3FKu4BWWu) | 2:33 | 2021-12-07 | 2022-09-24 |
+| [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-05-03 |  |
 | [Passage sombre](https://open.spotify.com/track/22wBRYNiY0W3Kl1Zk6hmAk) | [Chloé Aubrée](https://open.spotify.com/artist/7hNVE8EgE0njBXBgSEo7kT) | [Passage sombre](https://open.spotify.com/album/0QwnyoB5v0ZhhFThPZg3Y9) | 2:14 | 2022-01-18 |  |
 | [Passing Robes](https://open.spotify.com/track/1pFfGRhwqs1SHblhJcvR8d) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Passing Robes](https://open.spotify.com/album/005XUz22uopTJZFzq4KvJD) | 2:43 | 2021-12-07 | 2022-04-22 |
 | [Patchouli](https://open.spotify.com/track/3PpvhHp9USOBQFFQ7pJwsy) | [Barry Hudson\-Taylor](https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02) | [Patchouli](https://open.spotify.com/album/2IKEDd4NsJtezuTDjBqhDg) | 1:52 | 2022-04-21 | 2022-09-24 |
@@ -542,7 +543,7 @@
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2021-12-07 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-07 | 2022-02-16 |
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2021-12-07 | 2022-09-24 |
-| [Uprise](https://open.spotify.com/track/2Ys6Pl9WewP7ubO6kpevWI) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Uprise](https://open.spotify.com/album/7L1L6rmODWaSldjBga3fEl) | 2:19 | 2021-12-07 | 2023-05-08 |
+| [Uprise](https://open.spotify.com/track/2Ys6Pl9WewP7ubO6kpevWI) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Uprise](https://open.spotify.com/album/7L1L6rmODWaSldjBga3fEl) | 2:19 | 2021-12-07 |  |
 | [Vaguely Reminiscent](https://open.spotify.com/track/3PJLOitvkwc2NXlqOYmd4C) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Vaguely Reminiscent](https://open.spotify.com/album/2pnqRa2Xk7YBNGiqlM5xvQ) | 3:18 | 2021-12-07 | 2022-08-23 |
 | [Vaguely Reminiscent](https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Kraal Total](https://open.spotify.com/album/10TgvyPmbBmRjNA2j2w4jU) | 3:18 | 2022-06-07 | 2023-02-16 |
 | [Valse De Beaufort](https://open.spotify.com/track/57cnKa2QfwxhWRY7ZiabvW) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse De Beaufort](https://open.spotify.com/album/71ywywv3R4nZ4HzUeaokZQ) | 2:43 | 2021-12-07 | 2022-06-07 |

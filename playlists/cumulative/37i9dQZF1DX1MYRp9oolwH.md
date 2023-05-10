@@ -2,9 +2,9 @@
 
 ### [Latest Romance Telugu](https://open.spotify.com/playlist/37i9dQZF1DX1MYRp9oolwH)
 
-> Bringing out the best of latest love tracks<br/>Cover : Custody
+> Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-123 songs - 8 hr 6 min
+124 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Mehabooba](https://open.spotify.com/track/1XOCtdeIjy7eIIPsYFGXzZ) | [Ananya Bhat](https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8) | [Kgf Chapter 2](https://open.spotify.com/album/6tYYbx3TIgC0xIqAYGkCD7) | 3:32 | 2022-05-04 | 2023-02-21 |
 | [Murari Vaa](https://open.spotify.com/track/2WaeonrgxaN0lZvK994gtR) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Sruthi Ranjani](https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL), [M.L\. Gayatri](https://open.spotify.com/artist/5fFxNxWE9e0C0inW3bsWKR) | [Sarkaru Vaari Paata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q) | 4:17 | 2022-06-02 | 2023-02-21 |
 | [Musi Musi Navvula Manjula \(From "Pareshan"\)](https://open.spotify.com/track/0saFMfpWgW1Y1D5wESlCu5) | [Yashwanth Nag](https://open.spotify.com/artist/3bKJ5PWY9uLhNGhTKiBrlG) | [Musi Musi Navvula Manjula \(From "Pareshan"\)](https://open.spotify.com/album/6zj2cbBlXw8LZAQx1IgIhY) | 3:04 | 2023-01-27 |  |
+| [Na Roja Nuvve](https://open.spotify.com/track/2mFkD2KjL1dUhkpNKteaKP) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Na Roja Nuvve \(From "Kushi"\) \(Telugu\)](https://open.spotify.com/album/2rYw1yEuTj2qOHj3J8YTJN) | 4:02 | 2023-05-09 |  |
 | [Naa Manaseto \(From "Govindaa Bhaja Govindaa"\)](https://open.spotify.com/track/3agGLyPL6EN9EtqW4XGNc2) | [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp) | [Naa Manaseto \(From "Govindaa Bhaja Govindaa"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/29IbrTaW1o4HS4C3J2zOA6) | 2:54 | 2023-02-06 | 2023-02-21 |
 | [Naa Ninnalaloo](https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Satyan](https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m) | [Richie Gadi Pelli](https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp) | 3:35 | 2023-04-04 | 2023-05-09 |
 | [Naa Sasi \(From "Kanmani Rambo Khatija"\)](https://open.spotify.com/track/0akrCYr9rl0FJaAH0qg7to) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Manju Sri](https://open.spotify.com/artist/7M93JHO1tdhN0Ayjgk46zj) | [Naa Sasi \(From "Kanmani Rambo Khatija"\)](https://open.spotify.com/album/5O2ntpQgCrO3HOKhnLeT2u) | 4:03 | 2022-04-29 | 2023-02-21 |
@@ -114,7 +115,7 @@
 | [Romeo Juliet](https://open.spotify.com/track/74PLxHWwuyBKjZ3vB7y6wS) | [Aditi Shankar](https://open.spotify.com/artist/5xLJfbHjlXr4OYawjoGhE8) | [Ghani](https://open.spotify.com/album/0M0bEaoDVFePXtIp32CCNT) | 3:51 | 2022-02-09 | 2023-02-21 |
 | [Saami Saami](https://open.spotify.com/track/4ZUxhQNRCzlh6alqBHPNRC) | [Mounika Yadav](https://open.spotify.com/artist/2oLVeyUyYNFELwC93iZWGG) | [Pushpa \- The Rise](https://open.spotify.com/album/4EP0PqETB5XNtJT9vOIfnu) | 3:43 | 2022-05-04 | 2023-02-21 |
 | [Sasivadane \(From "Sasivadane"\)](https://open.spotify.com/track/56hTZ6zIdAWyp0hfaDm41T) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Sasivadane \(From "Sasivadane"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0om1k7mkxELxkWOyfqoiWQ) | 3:44 | 2023-02-02 |  |
-| [Seethakoka Chiluka](https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX) | 4:05 | 2022-10-28 |  |
+| [Seethakoka Chiluka](https://open.spotify.com/track/4V1B6HlZ7UABy0FBuyqaHU) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX) | 4:05 | 2022-10-28 | 2023-05-10 |
 | [Shanna Shanna](https://open.spotify.com/track/4hqLCbV2r2g5LTyBIhzOQ6) | [Yasaswi Kondepudi](https://open.spotify.com/artist/3VR731cNZHEYH9krO4ewOb), [Pragna Nayani](https://open.spotify.com/artist/2Ih0i7NCAiVhyIkyp1kmL4) | [Mayapetika](https://open.spotify.com/album/4aT3YgjStbhHTyCXvd3mcN) | 4:08 | 2023-01-31 | 2023-02-21 |
 | [Siri Siri Muvvallona \(From "Ranga Ranga Vaibhavanga"\)](https://open.spotify.com/track/1ATGKQGak8Yqx7zuc6bZEY) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Siri Siri Muvvallona \(From "Ranga Ranga Vaibhavanga"\)](https://open.spotify.com/album/7jaB0bpbD4aeeXLiuLOx6N) | 3:38 | 2022-08-01 | 2023-04-25 |
 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 | 2021-12-07 | 2023-02-21 |

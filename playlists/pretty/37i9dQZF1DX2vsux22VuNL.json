@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Nairo, Matheus Fernandes",
-  "num_followers": 270153,
+  "num_followers": 270325,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzA3MTlmNDRhMGI3OTQwZGZlYmYyM2FmMjcwOTk4MWIxYmIyNGRj",
+  "snapshot_id": "MCw5OWVlYmU0Mzc3ODk1ODU4YzU2M2NiNDMwODBkODVkNjFiNzEwN2Y5",
   "tracks": [
     {
       "added_at": "2023-05-05 19:35:30",
@@ -315,6 +315,30 @@
     {
       "added_at": "2023-05-05 19:35:30",
       "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
+    },
+    {
+      "added_at": "2023-05-05 19:35:30",
+      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 195692,
       "name": "Le\u00e3o",
       "url": "https://open.spotify.com/track/2J1ypgIAzXp75ekOrTtYkC"
-    },
-    {
-      "added_at": "2023-05-05 19:35:30",
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2023-05-05 19:35:30",
@@ -495,26 +495,22 @@
     {
       "added_at": "2023-05-05 19:35:30",
       "album": {
-        "name": "N\u00e3o Demora",
-        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
+        "name": "Cora\u00e7\u00e3o Pisciano",
+        "url": "https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK"
       },
       "artists": [
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
         },
         {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Rapha Ren\u00f3",
+          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
         }
       ],
-      "duration_ms": 182003,
-      "name": "N\u00e3o Demora",
-      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
+      "duration_ms": 121690,
+      "name": "Cora\u00e7\u00e3o Pisciano",
+      "url": "https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba"
     },
     {
       "added_at": "2023-05-05 19:35:30",
@@ -583,22 +579,26 @@
     {
       "added_at": "2023-05-05 19:35:30",
       "album": {
-        "name": "Cora\u00e7\u00e3o Pisciano",
-        "url": "https://open.spotify.com/album/715QE6k8vb9r6T6WSYMKmK"
+        "name": "N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
       },
       "artists": [
         {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Rapha Ren\u00f3",
-          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         }
       ],
-      "duration_ms": 121690,
-      "name": "Cora\u00e7\u00e3o Pisciano",
-      "url": "https://open.spotify.com/track/5VfvCrEYlOASsqhBvceeba"
+      "duration_ms": 182003,
+      "name": "N\u00e3o Demora",
+      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     },
     {
       "added_at": "2023-05-05 19:35:30",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2023-05-05 19:35:30",
       "album": {
-        "name": "Contram\u00e3o",
-        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
-        }
-      ],
-      "duration_ms": 170538,
-      "name": "Contram\u00e3o",
-      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
-    },
-    {
-      "added_at": "2023-05-05 19:35:30",
-      "album": {
         "name": "Sentir Saudade",
         "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2023-05-05 19:35:30",
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/5kYMFNNbCWdP6QnC0xxbNr"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+        }
+      ],
+      "duration_ms": 170538,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/14eggbtU5LaK77oKIduOyT"
     },
     {
       "added_at": "2023-05-05 19:35:30",

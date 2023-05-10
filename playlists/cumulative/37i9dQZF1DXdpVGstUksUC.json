@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 295866,
       "name": "Absolutego",
       "url": "https://open.spotify.com/track/1WuqBt17J3Kk8ngUOwK1rw"
@@ -4700,6 +4700,24 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
+    },
+    {
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
     },
     {
       "album": {

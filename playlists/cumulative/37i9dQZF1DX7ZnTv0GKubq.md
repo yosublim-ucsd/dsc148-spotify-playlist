@@ -4,7 +4,7 @@
 
 > Late night chilled vibes, for those intimate moments.
 
-238 songs - 13 hr 31 min
+239 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [My Own Person](https://open.spotify.com/track/0o0BtyLhvu05czmflES2tH) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/04D3qjBVzStR7FNHXFK373) | 4:24 | 2022-07-17 | 2022-10-13 |
 | [Mystics \- Live](https://open.spotify.com/track/5LvYyX92OBI2bNAdfT98X9) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience Live at Joshua Tree \(Presented by Soulection\)](https://open.spotify.com/album/0kJc3MpSWk7zlItn5DOJOg) | 3:47 | 2022-08-22 | 2022-10-24 |
 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 | 2022-03-21 | 2022-09-26 |
-| [New Light](https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [New Light](https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq) | 2:31 | 2022-08-22 |  |
+| [New Light](https://open.spotify.com/track/6GQTJDcxw4c4qHkk4CUDt8) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [New Light](https://open.spotify.com/album/7fUsf40ugmlvEjNj6uGrFq) | 2:31 | 2022-08-22 | 2023-05-10 |
 | [No Love](https://open.spotify.com/track/2sw0hynk9tJosW0SLqihkN) | [Sainte](https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Love](https://open.spotify.com/album/26myM8GwmLQrMiBbUCfSx1) | 3:11 | 2022-03-21 | 2022-07-19 |
 | [Nostalgia \(feat\. Taura\)](https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Taura Lamb](https://open.spotify.com/artist/6YvaXV2q3iL1MyxYiiDWbH) | [Nostalgia](https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7) | 3:43 | 2022-03-21 | 2022-07-29 |
 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 | 2022-07-17 |  |
@@ -238,6 +238,7 @@
 | [why did you go use your head?](https://open.spotify.com/track/3jzqVN41cmRK8chGun15On) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [if you were a day, you'd be sunday \(songs to go walking to\)](https://open.spotify.com/album/1Vn2seTK7Ezozor5vEqarE) | 4:47 | 2022-03-21 | 2022-06-26 |
 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 | 2022-03-21 | 2022-10-13 |
 | [Will I See You Again?](https://open.spotify.com/track/0gzDu0smnvgwslqwOiQ8f1) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/0fn7UEGVBI22jMeeH7R4rj) | 4:00 | 2023-03-03 | 2023-04-30 |
+| [Will I See You Again?](https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Will I See You Again?](https://open.spotify.com/album/3eUX1MOKVAF7ogaLFPY8uN) | 4:00 | 2023-03-03 |  |
 | [Woman](https://open.spotify.com/track/1zlgbp5I9lT66WgJhB8XfG) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Woman](https://open.spotify.com/album/75Jv7kcViHce2fUsPr7uBD) | 2:39 | 2022-03-21 | 2022-05-14 |
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 | 2022-03-21 | 2022-07-29 |
 | [Woman Like Me](https://open.spotify.com/track/589J1iNEmKbbaF1sCWO2eb) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Woman Like Me](https://open.spotify.com/album/4AX2UftLs8F3bWmzdlJ4oV) | 2:58 | 2022-03-21 | 2022-06-09 |

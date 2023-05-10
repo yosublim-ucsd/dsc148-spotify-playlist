@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 
 > New Rock driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,315 likes - 62 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,336 likes - 62 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [SICK OF IT\*](https://open.spotify.com/track/25SRFuJqLVrgApeFw4vFCb) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [CHAOS NOW\*](https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM) | 2:09 |
 | 2 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 |
 | 3 | [Echolalia](https://open.spotify.com/track/7uECCWx2tz4T102b2QBS0p) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Echolalia](https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r) | 3:00 |
-| 4 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 |
+| 4 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 |
 | 5 | [curious/furious](https://open.spotify.com/track/2OdRGWLkvSccWOrYFlbIFF) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 3:01 |
 | 6 | [DIRTY WHITE VANS REMIX// \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4itBuIySoAuWR1gVk1xA1S) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [DIRTY WHITE VANS REMIX// \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/5jODAtLZwHOfDaOWprFtZL) | 2:21 |
 | 7 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rbJEM3cke.md) - [plain]
 | 61 | [Can't Wait](https://open.spotify.com/track/3GEhHEU3nkK2vGFqmKWKc3) | [Ergo, Bria](https://open.spotify.com/artist/0AF9HrL08aOaZPsIiO8GmA), [In the Mourning](https://open.spotify.com/artist/1uzirhDmkUbDDaBGcwfd0h) | [Can't Wait](https://open.spotify.com/album/02OI10erl4E2J2WUOp5mv0) | 3:47 |
 | 62 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 |
 
-Snapshot ID: `MCwwZDRjODM4YjQ1Yzc0MjMwZTFmZWExYWNmYzNkYzMzNjkxZDFlYjY5`
+Snapshot ID: `MCwzMjYzZDFmZGVhZmM5YjZiMGYzNzJiOTE3MmZiNGQ3ZDY4YWRiYTkz`

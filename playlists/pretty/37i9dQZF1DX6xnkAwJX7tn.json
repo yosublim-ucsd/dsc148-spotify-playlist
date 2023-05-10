@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 436624,
+  "num_followers": 437685,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTBiN2ExMjBiNmQ4YTEwOGYwMzk5MTM5OGJmM2MzMzg2ZDhmMjg4",
+  "snapshot_id": "MCwwOTkzMTJlOGRlNmQ3NGM5OGQzN2I3OTM0ZDdiNjFkZGU3MzA5MDI4",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1561,6 +1561,22 @@
       "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "No Jacket Required (2016 Remaster)",
+        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Sussudio - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Stompin' At The Savoy",
@@ -1579,22 +1595,6 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "No Jacket Required (2016 Remaster)",
-        "url": "https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "Sussudio - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4qM461TqtpnP4GLRIXwEnW"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1757,6 +1757,26 @@
       "url": "https://open.spotify.com/track/62GYoGszQfROZswLee6W3O"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Keep On Movin'",
+        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+      },
+      "artists": [
+        {
+          "name": "Soul II Soul",
+          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
+        },
+        {
+          "name": "Caron Wheeler",
+          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Fore!",
@@ -1771,22 +1791,6 @@
       "duration_ms": 245466,
       "name": "Hip To Be Square",
       "url": "https://open.spotify.com/track/648BMGrt98kUbLo24A4vgj"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1823,38 +1827,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Keep On Movin'",
-        "url": "https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
-          "name": "Soul II Soul",
-          "url": "https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf"
-        },
-        {
-          "name": "Caron Wheeler",
-          "url": "https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2021-09-18 06:09:03",
@@ -1875,6 +1859,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "Brothers in Arms",
         "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
@@ -1887,22 +1887,6 @@
       "duration_ms": 506400,
       "name": "Money for Nothing",
       "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1969,6 +1953,22 @@
       "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse"
     },
     {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
+    },
+    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Freedom of Choice",
@@ -2017,22 +2017,6 @@
       "url": "https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 272147,
-      "name": "Ride on Time",
-      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Everything",
@@ -2047,6 +2031,22 @@
       "duration_ms": 268186,
       "name": "Love Changes (Everything)",
       "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 272147,
+      "name": "Ride on Time",
+      "url": "https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Straight from the Heart (Remastered)",
+        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "Forget Me Nots - Remastered",
+      "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "One Night In Bangkok (Radio Edit / From \u201cChess\u201d / Remastered 2016)",
         "url": "https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g"
       },
@@ -2129,36 +2145,20 @@
       "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Straight from the Heart (Remastered)",
-        "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
+        "name": "Brothers in Arms",
+        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 284506,
-      "name": "Forget Me Nots - Remastered",
-      "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Lexicon Of Love",
-        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
-      },
-      "artists": [
-        {
-          "name": "ABC",
-          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "The Look Of Love, Pt.1",
-      "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+      "duration_ms": 252466,
+      "name": "Walk of Life",
+      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2177,20 +2177,20 @@
       "url": "https://open.spotify.com/track/2RVQIq7bLi4Eu6xHPyQ46t"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Brothers in Arms",
-        "url": "https://open.spotify.com/album/7jvcSnCnugLcisBCNBm60s"
+        "name": "The Lexicon Of Love",
+        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "ABC",
+          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
         }
       ],
-      "duration_ms": 252466,
-      "name": "Walk of Life",
-      "url": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+      "duration_ms": 209160,
+      "name": "The Look Of Love, Pt.1",
+      "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Crazy Crazy Nights",
-      "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
       },
@@ -2425,6 +2409,22 @@
       "url": "https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB"
     },
     {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Crazy Crazy Nights",
+      "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
+    },
+    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Frantic Romantic",
@@ -2443,18 +2443,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "The Very Best of Billy Ocean",
-        "url": "https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi"
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 248000,
-      "name": "When the Going Gets Tough, The Tough Get Going",
-      "url": "https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME"
+      "duration_ms": 208026,
+      "name": "Invisible Touch - 2007 Remaster",
+      "url": "https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk"
     }
   ],
   "unique_name": "80s Party",

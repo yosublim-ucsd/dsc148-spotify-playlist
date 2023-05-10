@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-487 songs - 1 day 3 hr 17 min
+489 songs - 1 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [First Time](https://open.spotify.com/track/5opWaIeDfBClUVlde1kvO4) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [First Time](https://open.spotify.com/album/48nORViECETPn7P9c8opIT) | 5:09 | 2021-03-06 | 2022-01-28 |
 | [Fix It to Break It](https://open.spotify.com/track/1uviKYHZuM4uINK33F7sCt) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [Fix It to Break It](https://open.spotify.com/album/1Y0hY5nNKjrfP54eztDUV8) | 3:18 | 2020-03-27 | 2021-06-22 |
 | [Fix You \- Live](https://open.spotify.com/track/0Hbn9DrKJiXgoQdVSwBn7B) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Fix You \(Live\)](https://open.spotify.com/album/6VnppEx0PoQpbnfTOutyaQ) | 4:17 | 2020-07-10 | 2021-06-09 |
-| [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2021-10-27 |  |
+| [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2021-10-27 | 2023-05-10 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-05-19 |  |
 | [Fools](https://open.spotify.com/track/483L8PI80pZoUSlF8GgdkD) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Fools](https://open.spotify.com/album/7da2XojsKMIKSRCom0mAg7) | 3:44 | 2019-08-02 | 2019-09-13 |
 | [For a Reason](https://open.spotify.com/track/6FDBhWk8xddZfVdbO9q8S2) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [For a Reason](https://open.spotify.com/album/2UG0IazlHRzHGtaEMN5yFo) | 3:13 | 2021-01-23 | 2021-09-14 |
@@ -175,7 +175,7 @@
 | [Home To You](https://open.spotify.com/track/0qBug5X3DaJv2zgXtp55wn) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Home To You](https://open.spotify.com/album/2GI67nlY6eFPjXDwLjp6Wy) | 3:41 | 2019-11-08 | 2020-07-24 |
 | [Homesick](https://open.spotify.com/track/2aebx3mv9S8pzFA1EQkyKN) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Homesick](https://open.spotify.com/album/1qvLC9PebBBTap6pHH6VN5) | 3:31 | 2019-12-09 | 2019-12-13 |
 | [Honey](https://open.spotify.com/track/2s1ydHPP8KlPloM67KU3Tm) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Honey](https://open.spotify.com/album/1VQ70muaN98685CmVrPWE2) | 3:55 | 2020-09-25 | 2021-07-23 |
-| [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 | 2021-09-14 |  |
+| [Hopeless Romantics](https://open.spotify.com/track/0zn5Sa8fRjpUo7XXUaNRTB) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Hopeless Romantics](https://open.spotify.com/album/4caqBOEvibGE77J3LaRrzK) | 2:59 | 2021-09-14 | 2023-05-10 |
 | [Horizon](https://open.spotify.com/track/2whls6fZqLiMd0XIP07ehw) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 4:24 | 2019-07-29\* | 2019-08-02 |
 | [Hospital Bed](https://open.spotify.com/track/0BZwSLuRna3yZuQz3GO9gW) | [Bri Clark](https://open.spotify.com/artist/5TYdUfesG0QEhROR76Hp2Y) | [Waiting](https://open.spotify.com/album/196pUs3pRTBCmfZjv9nqbi) | 4:10 | 2022-06-16 |  |
 | [HOW DO YOU HOLD WHAT HURTS](https://open.spotify.com/track/5n32lvqZjFkqUczA5zclaF) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [HOW DO YOU HOLD WHAT HURTS](https://open.spotify.com/album/0sqm5pSfXgsewthKh02L8S) | 3:09 | 2021-03-06 | 2021-10-16 |
@@ -300,6 +300,7 @@
 | [Mind Is A Prison](https://open.spotify.com/track/4GGSmoTmc5LClrowB4SmEw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Mind Is A Prison](https://open.spotify.com/album/3oFteG1YXJg2LS6R7Ge2yB) | 2:42 | 2019-12-13 | 2020-06-29 |
 | [Miss The Rest](https://open.spotify.com/track/1UE3EwqySM5IXywpXUyuNZ) | [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Miss The Rest](https://open.spotify.com/album/1QoshcVjsmudDw9K2JSDWJ) | 2:50 | 2022-01-27 |  |
 | [Modern Loneliness](https://open.spotify.com/track/7MZF7YLxOP2to9iblSulLc) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/0YuPbtHpnpGEhyjg0rCyEi) | 4:12 | 2020-02-21 | 2020-11-20 |
+| [Monster Brain](https://open.spotify.com/track/4TJbCoFd2cF2HOemoZ2WYG) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Monster Brain](https://open.spotify.com/album/5jU7sB2508KOa1gXnAtA7h) | 3:37 | 2023-05-09 |  |
 | [Moral of the Story](https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Moral of the Story](https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP) | 3:21 | 2020-02-17 | 2020-06-19 |
 | [More of You](https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [More of You](https://open.spotify.com/album/6otrwuXbuZ1ntS6AHWX0AT) | 2:34 | 2021-06-18 | 2022-01-28 |
 | [Movie](https://open.spotify.com/track/2XY8SEXGvex4UzC8tL3UMH) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Movie](https://open.spotify.com/album/7fZoiNqVuJsXFth6SvvBYZ) | 4:07 | 2022-07-08 | 2022-10-14 |
@@ -425,6 +426,7 @@
 | [Suitcase](https://open.spotify.com/track/5HlFO9E6TgsCpJWVjguZDl) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Suitcase](https://open.spotify.com/album/6h3PNka0gyNBOX2yVuW3JN) | 3:34 | 2019-07-29\* | 2020-02-11 |
 | [Surrender](https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6) | [Natalie Taylor](https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY) | [Surrender](https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf) | 3:03 | 2020-04-14 | 2021-04-07 |
 | [swan song](https://open.spotify.com/track/4usm1GSxHP41mtvBK73QZ0) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [swan song](https://open.spotify.com/album/4BKr7uEHxiqnMnUO3KwNgs) | 3:40 | 2022-08-12 |  |
+| [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 | 2023-05-09 |  |
 | [Symptomatic \- Acoustic](https://open.spotify.com/track/73rmLSDAnRIwME7Z2eobSM) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Symptomatic \(Acoustic\)](https://open.spotify.com/album/1GlFnneEXDJ9TxquYq37r2) | 3:02 | 2021-07-23 | 2022-04-29 |
 | [Take Me Back](https://open.spotify.com/track/0r6ccEU9IVpXTUG6CLdDNX) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Take Me Back](https://open.spotify.com/album/0JtLCcaCSa1hdUOq8FUexO) | 3:20 | 2020-06-05 | 2021-04-24 |
 | [Tell Me About It](https://open.spotify.com/track/4NVTUHYCmMGtnnULELfZjy) | [thea wang](https://open.spotify.com/artist/1Rlj58KRo8BwuksKHsoZCo) | [Tell Me About It](https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls) | 3:20 | 2022-02-03 | 2023-02-24 |

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 | 2021-05-12 |  |
+| [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 | 2021-05-12 | 2023-05-10 |
 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 | 2021-05-12 |  |
 | [A Woman Like You](https://open.spotify.com/track/3oyMHCAAcnWFdcGuVgwfhd) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hard 2 Love](https://open.spotify.com/album/0RnVSSUbSBEjk5MlQZhYYP) | 3:29 | 2021-06-07 |  |
 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 | 2021-05-12 |  |
@@ -78,7 +78,7 @@
 | [Drink In My Hand](https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:11 | 2021-05-12 |  |
 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 | 2021-06-07 |  |
 | [Drowns The Whiskey \(feat\. Miranda Lambert\)](https://open.spotify.com/track/2dwoqUYTy6SOy1dFqcTndC) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Rearview Town](https://open.spotify.com/album/5irmzpXixcdNF2ZJjcrN0A) | 3:22 | 2021-05-12 | 2022-08-23 |
-| [Drunk Last Night](https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:39 | 2021-05-12 | 2023-05-09 |
+| [Drunk Last Night](https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:39 | 2021-05-12 |  |
 | [Drunk Me](https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Telling All My Secrets](https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0) | 3:31 | 2021-05-12 |  |
 | [Drunk On A Plane](https://open.spotify.com/track/1soxUgYIZb1qx1c7o1Lc7z) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [RISER](https://open.spotify.com/album/5FoxaIGIRuXsbhZhwdfknU) | 4:14 | 2021-05-12 |  |
 | [Drunk On You](https://open.spotify.com/track/3b7CDTKB0SRTmQ6ytYi5vZ) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/4ybWq0AegFFAvHULAe7q0K) | 3:33 | 2021-05-12 | 2022-07-29 |

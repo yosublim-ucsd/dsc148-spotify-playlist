@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Puras morras rifadas\. ¡Súbele al volumen! En portada: Vondré
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,552 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,571 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 39 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 40 | [Niños furbito y niñas lo que sea](https://open.spotify.com/track/7JM2NCmPwdBldEWCJlzpUZ) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Niños furbito y niñas lo que sea](https://open.spotify.com/album/5O7QhTmi2g5f7Y91KmfO4L) | 2:24 |
 | 41 | [Break!](https://open.spotify.com/track/333xDv6J2GJiNWtWphz0aw) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct) | 2:53 |
-| 42 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 |
-| 43 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 |
+| 42 | [Tu Color](https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m) | 3:46 |
+| 43 | [SUPERFICIAL](https://open.spotify.com/track/3dHJrJdkNVVpYa4oOwIsX8) | [xHEIDIx](https://open.spotify.com/artist/5cZ3ADw8t6lZQSyBXmFe4j) | [xADR3N4LIN4x](https://open.spotify.com/album/6nXUebcx7kYg6hnGlr8Wg0) | 2:00 |
 | 44 | [2000nunca](https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:00 |
 | 45 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 |
 | 46 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 59 | [Caer](https://open.spotify.com/track/4ISBnFzh1VdY0lybDzFQxK) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 5:11 |
 | 60 | [Volver a Ser](https://open.spotify.com/track/6aD9eUyPdBed9zUcmEJkNj) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Volver a Ser](https://open.spotify.com/album/4D1RRo53qiOmWLI25UZvrV) | 3:28 |
 
-Snapshot ID: `MCxmZjUzZWEwZGIzNmY5NTA1YjRkYzJiYWU3NjQ4NDQ5NGZlYWZjZDI4`
+Snapshot ID: `MCxlMDNlY2M3OGM4ZGE5NTFmY2NiMzgyYTQ4ZmQ1ZWM2ODg5Nzk2ZWM0`

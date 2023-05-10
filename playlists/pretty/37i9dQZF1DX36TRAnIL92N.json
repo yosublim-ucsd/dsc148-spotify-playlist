@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 143318,
+  "num_followers": 143855,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWI3MzM4NzQ0MDZmYzk1YzM4Yjg2YzNkMDIwMWRkOTFkYzAzN2I0",
+  "snapshot_id": "MCwzMjY0NzYxNWEyZDBkOGI2MmE2ODcyZjhiNmFiN2JmNDI5Y2NlMWJk",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "You Can't Stop Us",
+        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
+      },
+      "artists": [
+        {
+          "name": "Denise Schneider",
+          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "You Can't Stop Us",
+      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Flying Octopus",
         "url": "https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 211617,
       "name": "Flying Octopus",
       "url": "https://open.spotify.com/track/2XWBbVold8LNroIDyeockI"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "You Can't Stop Us",
-        "url": "https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM"
-      },
-      "artists": [
-        {
-          "name": "Denise Schneider",
-          "url": "https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "You Can't Stop Us",
-      "url": "https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 231437,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Club Vibes Part 05",
         "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 485760,
       "name": "Black Unicorn",
       "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 231437,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Deep Down",
-        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 220488,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Platia",
         "url": "https://open.spotify.com/album/41qA6izdabkSGBrE4wc6TL"
       },
@@ -603,6 +587,42 @@
       "duration_ms": 192380,
       "name": "Platia",
       "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Deep Down",
+        "url": "https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 220488,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -759,26 +779,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
-        }
-      ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "We All Unite",
         "url": "https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Dance for Me",
-        "url": "https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Dance for Me",
-      "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "The Coldest Form",
         "url": "https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 360000,
       "name": "The Coldest Form",
       "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Dance for Me",
+        "url": "https://open.spotify.com/album/4qZdltCA4DKqzoh3hUM01W"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Dance for Me",
+      "url": "https://open.spotify.com/track/6wJ22X7UZ56eCmrsibz6Td"
     }
   ],
   "unique_name": "Techno Workout",

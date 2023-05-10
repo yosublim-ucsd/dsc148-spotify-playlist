@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Ed Sheeran, Céline Dion, grandson, and MacKenzie Porter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,057 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,068 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 11 | [Little Runaway](https://open.spotify.com/track/7F9TZ2RT8rdVyzLFmfagiR) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [PULSE](https://open.spotify.com/album/7nr5rtJ59Y0jBxKHPrGdW5) | 3:15 |
 | 12 | [Ambiance](https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Ambiance](https://open.spotify.com/album/4ZxWW2tTsVcDqk4TkuEINf) | 2:17 |
 | 13 | [Realism VS Idealism](https://open.spotify.com/track/7qMjBggnUBWYnyCAcECkHh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Spring Season \(1989\-1990\)](https://open.spotify.com/album/16PcU977zDCfmFY5crNgBB) | 2:38 |
-| 14 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/3odNd531aBdTtCFryB2zYr) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 |
+| 14 | [Aftertaste](https://open.spotify.com/track/5Cf2pyHgpISB5OyNBEPrmc) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [AIDN](https://open.spotify.com/artist/2A4zFavCrJ5iur5VuOIQdc) | [Aftertaste](https://open.spotify.com/album/74aVmqdhWC06dQtbjstQaT) | 4:17 |
 | 15 | [SHAKE SUMN](https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 |
 | 16 | [don’t call me pretty](https://open.spotify.com/track/6XV4GwRq92E9N3MmXxuxLy) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [don’t call me pretty](https://open.spotify.com/album/02EVktWJJ2yuJs2Q1eqiSB) | 3:01 |
 | 17 | [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
 | 100 | [Sorcery](https://open.spotify.com/track/3HdPQvs6SmerSFSweuwgJk) | [Sorry Girls](https://open.spotify.com/artist/5tMARXM4XOsODrCmJ0zI2M) | [Sorcery](https://open.spotify.com/album/28xNTR0Ay7FMqh5PShz1l8) | 3:32 |
 
-Snapshot ID: `MCw4YzQ2ZjAxZjVlYmVhYTNmMjc0YmM2ZDE4OWZmNWM5MzhkMDk5MTQ2`
+Snapshot ID: `MCxiMTRjZGVmZTkyODQxOWZmMTc0MGNlN2EwOTNjNjFiYzYzYjhmNmI0`

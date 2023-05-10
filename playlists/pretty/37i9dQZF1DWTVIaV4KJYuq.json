@@ -1,12 +1,12 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 675961,
+  "num_followers": 676049,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmJiN2Y5Y2I5NDc0N2VmMTZlY2FiMzAxY2ZjNDhjNTQ4NGM1Mjdm",
+  "snapshot_id": "MCxhZjA0Yzk0NTE3NWIyOGU0MGIzZGRlNzY3YzJiOWEwODg2NDRkNDFk",
   "tracks": [
     {
       "added_at": "2022-09-30 04:00:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
       },
       "artists": [
         {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
         }
       ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Between the Bars",
         "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 260053,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Elvis Now",
-        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 271573,
-      "name": "Hey Jude",
-      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Judah & The Lion (Unplugged)",
         "url": "https://open.spotify.com/album/5wyJZFkxAJEshBtXnsUZi7"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 251805,
       "name": "Soak up the Sun - Unplugged",
       "url": "https://open.spotify.com/track/19EQenvo8RhidHzEbblHT1"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Elvis Now",
+        "url": "https://open.spotify.com/album/2x7QaKvvJ45DcYl78JCf25"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 271573,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/3tNyFKxcFszV0TiDDJsYVx"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
-      },
-      "artists": [
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 229574,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/6f1cqywnPjDqVWpQzPK4UW"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 180779,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/54rAiXEsNi52Wmw2LMxGhe"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/0s4mjch2kYLFQQNbgPNbuE"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "duration_ms": 229574,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0wDRNOFe1nzWFDQc5FoKk1"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Judah & The Lion (Live)",
-        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
-      },
-      "artists": [
-        {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "I Won't Back Down - Live",
-      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 256798,
       "name": "My City of Ruins",
       "url": "https://open.spotify.com/track/0F8Ec2ppXwQxDEdMRWEVaX"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Judah & The Lion (Live)",
+        "url": "https://open.spotify.com/album/67GBzlYsDzYVJvdQ9l5HXy"
+      },
+      "artists": [
+        {
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "I Won't Back Down - Live",
+      "url": "https://open.spotify.com/track/0xmbLELG8S9b49SrdnOj7A"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Anthem +3",
-        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 345773,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "You Don't Know How It Feels",
         "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 222008,
       "name": "You Don't Know How It Feels",
       "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Anthem +3",
+        "url": "https://open.spotify.com/album/6QjbX8JjvSfG5daXAeQKEU"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 345773,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2oubpFgSp6kOuL4XeBIHe9"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Fredericks",
+          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
+        }
+      ],
+      "duration_ms": 162907,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
         "name": "Classics",
         "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 230813,
       "name": "Unchained Melody (feat. The Chapin Sisters)",
       "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
-        "name": "What a Wonderful World",
-        "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Fredericks",
-          "url": "https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn"
-        }
-      ],
-      "duration_ms": 162907,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "(500) Days of Summer (Music from the Motion Picture)",
-        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 132493,
-      "name": "Please, Please, Please, Let Me Get What I Want",
-      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Mercy Mercy Me (The Ecology)",
         "url": "https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 190885,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "(500) Days of Summer (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Please, Please, Please, Let Me Get What I Want",
+      "url": "https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC"
     },
     {
       "added_at": "2022-09-30 04:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-09-30 04:00:00",
       "album": {
-        "name": "Vignettes",
-        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 218389,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
-    },
-    {
-      "added_at": "2022-09-30 04:00:00",
-      "album": {
         "name": "Have A Little Faith In Me",
         "url": "https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 222600,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU"
+    },
+    {
+      "added_at": "2022-09-30 04:00:00",
+      "album": {
+        "name": "Vignettes",
+        "url": "https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 218389,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE"
     }
   ],
   "unique_name": "Classic Covers",

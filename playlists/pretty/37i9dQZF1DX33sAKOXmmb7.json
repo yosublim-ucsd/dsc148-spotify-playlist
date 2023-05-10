@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 45081,
+  "num_followers": 45169,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNTQ0MmEzY2I1NThmMzkwNGE1NTY5ZmFiYmY3MTE2Zjg0NmNhMTI0",
+  "snapshot_id": "MCw0MzZkMDRkMjkyYmU4ZTJkMTU5YTc4MTA0YmM2YzE0ZjExMTcyMDE0",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Headlong",
         "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
       },
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Writing of Blues and Yellows (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "La Lune",
-      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Little Giant",
         "url": "https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+        "name": "Writing of Blues and Yellows (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+      "duration_ms": 187266,
+      "name": "La Lune",
+      "url": "https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1079,6 +1063,22 @@
       "duration_ms": 244426,
       "name": "Kansas City",
       "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Civilian",
         "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 220917,
       "name": "Civilian",
       "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Hundred Acres",
-        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 196195,
       "name": "Getting Ready to Get Down",
       "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Hundred Acres",
+        "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 555883,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "The Wilds",
         "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 233289,
       "name": "Real Peach",
       "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Harlem River",
+        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 555883,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Joan Shelley",
-        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
-      },
-      "artists": [
-        {
-          "name": "Joan Shelley",
-          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Where I\u2019ll Find You",
-      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1879,6 +1863,22 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
+        "name": "Joan Shelley",
+        "url": "https://open.spotify.com/album/4VHpVi7PChqkW5ydU9yX8n"
+      },
+      "artists": [
+        {
+          "name": "Joan Shelley",
+          "url": "https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Where I\u2019ll Find You",
+      "url": "https://open.spotify.com/track/3HAhYAuSLAxYAMSxFjx29f"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
         "name": "Wildewoman (Expanded Edition)",
         "url": "https://open.spotify.com/album/2CphcTXBge3BKqAHeuNUUK"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 275628,
       "name": "Two of Us On the Run",
       "url": "https://open.spotify.com/track/0zDfYXlgOZMA2leT4Slz4m"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/3CwgFOEB6g9vfADfAcYaIL"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0EIS2zaB3aQGtKOvzrodOU"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1955,22 +1971,6 @@
       "duration_ms": 196973,
       "name": "The Mother",
       "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
-        "name": "Not Even Happiness",
-        "url": "https://open.spotify.com/album/1ZgvdUee6cQ0NCDHfKxbH0"
-      },
-      "artists": [
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        }
-      ],
-      "duration_ms": 242387,
-      "name": "Follow My Voice",
-      "url": "https://open.spotify.com/track/3yQ7OQoOtzVgBNEJ8i7Vcs"
     }
   ],
   "unique_name": "10s Indie Folk",

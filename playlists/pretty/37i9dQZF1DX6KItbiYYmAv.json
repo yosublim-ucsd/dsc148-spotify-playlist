@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 715701,
+  "num_followers": 715753,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjdiZDE1YWQxZjg2OGUxZjE0OGJkYTg4NTJjODU1NDc5NzdmYWY4",
+  "snapshot_id": "MCxhMDBiY2Q0MmY2NTVmYTM3MmJhMjY3Y2YyYWRhMzE1YTYwMmNiNmEx",
   "tracks": [
     {
       "added_at": "2023-05-05 08:37:35",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
         "name": "Loma Vista",
         "url": "https://open.spotify.com/album/7MbjiPSVdi2TbYALX4gneg"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 190280,
       "name": "Hero",
       "url": "https://open.spotify.com/track/1B10XgaxSXRLAFq967oMpF"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 174360,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 384080,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
         "name": "Waiting on a Song",
         "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 384080,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/4qyfir5Yr7nfo05g6cyFMT"
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
         "name": "Sleeping Operator",
         "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 248964,
       "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
       "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Drunk On A Flight",
+      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 199359,
       "name": "Boardwalks - Remastered 2015/ Bonus Track",
       "url": "https://open.spotify.com/track/23Zlb66N7xcIWbpt2C1bsi"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
-        "name": "Drunk On A Flight",
-        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
-      },
-      "artists": [
-        {
-          "name": "Eloise",
-          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Drunk On A Flight",
-      "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
+        "name": "If Only",
+        "url": "https://open.spotify.com/album/2w5KeioTKKUi2rLyH54WVD"
+      },
+      "artists": [
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        }
+      ],
+      "duration_ms": 204857,
+      "name": "If Only",
+      "url": "https://open.spotify.com/track/05DjGdZSV6nEeUkd78afBO"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
         "name": "Darling Arithmetic",
         "url": "https://open.spotify.com/album/1hrv3F7Fbi9gMPkkcwCxRG"
       },
@@ -2003,6 +2019,22 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 141200,
+      "name": "Between the Bars",
+      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -2015,22 +2047,6 @@
       "duration_ms": 162413,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/2w5KeioTKKUi2rLyH54WVD"
-      },
-      "artists": [
-        {
-          "name": "TEEKS",
-          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
-        }
-      ],
-      "duration_ms": 204857,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/05DjGdZSV6nEeUkd78afBO"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -2063,22 +2079,6 @@
       "duration_ms": 201301,
       "name": "Play Me Something Nice",
       "url": "https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Between the Bars",
-      "url": "https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm"
     },
     {
       "added_at": "2023-05-05 08:37:35",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -2423,6 +2407,38 @@
     {
       "added_at": "2023-05-05 08:37:35",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
+        "name": "To Let A Good Thing Die",
+        "url": "https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/3ThbiGsMJGSLOUHVxyFQQk"
+    },
+    {
+      "added_at": "2023-05-05 08:37:35",
+      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -2435,22 +2451,6 @@
       "duration_ms": 199653,
       "name": "Back to Autumn",
       "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
-    },
-    {
-      "added_at": "2023-05-05 08:37:35",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "Grapevine",
-      "url": "https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ"
     }
   ],
   "unique_name": "Kaffeehausmusik",

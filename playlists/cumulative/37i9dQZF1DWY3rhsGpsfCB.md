@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-293 songs - 15 hr 35 min
+294 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Don't Take Your Love](https://open.spotify.com/track/35fBkyvLRrHKO4edE69LtA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Don't Take Your Love](https://open.spotify.com/album/64LOyCjv3fkbUBEYkcbbH9) | 3:06 | 2022-10-28 | 2022-11-26 |
 | [Double Fantasy \(with Future\)](https://open.spotify.com/track/4VMRsbfZzd3SfQtaJ1Wpwi) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Double Fantasy](https://open.spotify.com/album/0Ct52rooGyvjv6qXrBPNzm) | 4:28 | 2023-04-20 |  |
 | [Ease Up](https://open.spotify.com/track/6sgHkgLMPeSqZIDb5wGVrg) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Ease Up](https://open.spotify.com/album/1rTssvyovuKtbzwxwWOvrW) | 3:34 | 2023-01-20 | 2023-02-11 |
+| [Elmina](https://open.spotify.com/track/3NlFpLNLAyv1f838clGuQD) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:40 | 2023-05-04 |  |
 | [Emotions](https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 2:54 | 2022-11-04 | 2023-03-18 |
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-02-24 |
@@ -192,7 +193,7 @@
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-06-24 | 2023-02-24 |
 | [Odo Ntia](https://open.spotify.com/track/1QnYYZp3tVNXeqGiOdhvz1) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Odo Ntia](https://open.spotify.com/album/3NJ0QccSYDHEkXDuZi9bN0) | 4:05 | 2023-02-03 | 2023-03-31 |
 | [Old Wineskins](https://open.spotify.com/track/3MzoX3cSxKxrxarYOt6IJL) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Old Wineskins](https://open.spotify.com/album/1wHbVtTz7SLQi50QI4stdV) | 3:44 | 2022-10-21 | 2022-12-02 |
-| [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 |  |
+| [On Yah \- Intro](https://open.spotify.com/track/7I384J2xogr4UpOYbE93FJ) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [On Yah \(Intro\)](https://open.spotify.com/album/6cPFGIKefpQSuQtdXdlCrk) | 3:00 | 2022-10-13 | 2023-05-10 |
 | [Only](https://open.spotify.com/track/0BWXrf3aW3ZLgComAYwCR2) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Only](https://open.spotify.com/album/0CS7QjPjgW2cJnLRv2Dc3f) | 2:39 | 2022-10-28 | 2022-12-09 |
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 | 2023-02-11 |
 | [Our Souls Cry \(feat\. Obongjayar\)](https://open.spotify.com/track/7cnlFOceSNmLDJVsIffrGd) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 3:50 | 2023-05-04 |  |

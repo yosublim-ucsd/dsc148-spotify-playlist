@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-460 songs - 19 hr 59 min
+461 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,10 @@
 | [as the sun shines, dewdrops glisten](https://open.spotify.com/track/4ZrV1hcAXWu6ahXEE8PIK0) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [as the sun shines, dewdrops glisten](https://open.spotify.com/album/0vRufu0u2fR8A6H6GlUcTN) | 2:31 | 2022-04-22 | 2023-01-27 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-04-22 |  |
 | [Augury](https://open.spotify.com/track/11Ipu3bo6eWoa9TiiOEJ0I) | [Anne Franco](https://open.spotify.com/artist/6IEySWUOgBlDS2HQfjCbSw) | [Augury](https://open.spotify.com/album/3bWQAA7YZqmobEapyM8Vgu) | 2:40 | 2022-04-22 |  |
-| [Aurelian](https://open.spotify.com/track/0uddb7tRm6KmMGzh3wFMcH) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b), [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aurelian](https://open.spotify.com/album/3HFnP1YvQvlyPbiK4nU4q9) | 2:28 | 2022-04-22 |  |
+| [Aurelian](https://open.spotify.com/track/0uddb7tRm6KmMGzh3wFMcH) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b), [S.A\. Karl](https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM) | [Aurelian](https://open.spotify.com/album/3HFnP1YvQvlyPbiK4nU4q9) | 2:28 | 2022-04-22 | 2023-05-10 |
 | [Aurora Sky](https://open.spotify.com/track/5YBWy8UoQC9oRzFQwxZ1VL) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Aurora Sky](https://open.spotify.com/album/5wy5R5QIx2XXLBkC78IjXg) | 2:06 | 2022-04-22 |  |
 | [Ártabra](https://open.spotify.com/track/3AMGT6wBi8UYxmYK4dS1mP) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Ártabra](https://open.spotify.com/album/1d1jH5lYcRiaRZVCOCSNTe) | 3:22 | 2022-04-22 | 2023-05-04 |
-| [Be Still](https://open.spotify.com/track/0xNJLfwntlwTEVXZbmj0PF) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Be Still](https://open.spotify.com/album/6OO0iefvJco2Wc1OZ1B2ml) | 3:30 | 2022-04-22 |  |
+| [Be Still](https://open.spotify.com/track/0xNJLfwntlwTEVXZbmj0PF) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Be Still](https://open.spotify.com/album/6OO0iefvJco2Wc1OZ1B2ml) | 3:30 | 2022-04-22 | 2023-05-10 |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-04-22 |  |
 | [Before and After](https://open.spotify.com/track/1qdF4ws4FoTuQ9ojY4vQOg) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Before and After](https://open.spotify.com/album/3s7nEIScJqXvt99fB5kMGR) | 2:19 | 2023-02-20 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-22 |  |
@@ -125,7 +125,7 @@
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-22 | 2023-01-27 |
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2022-04-22 | 2023-01-27 |
 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-02-20 |  |
-| [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-22 |  |
+| [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-22 | 2023-05-10 |
 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-03-14 |  |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-04-22 |  |
 | [Flow like there's no tomorrow](https://open.spotify.com/track/1qkv4AQX3dQ93UtiEjLETB) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Flow like there's no tomorrow](https://open.spotify.com/album/6NhPWzJslCZoTFClYBtOuP) | 3:36 | 2022-07-27 |  |
@@ -182,7 +182,7 @@
 | [Just a Thought](https://open.spotify.com/track/0yoaGTIVmywSYedV1YsIhG) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Just a Thought](https://open.spotify.com/album/2ThuoXpPbWohcnLD3na9SP) | 2:34 | 2022-04-22 | 2022-07-28 |
 | [Keepsakes](https://open.spotify.com/track/6KH1ipvlKEfafZOSXR5nwm) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Keepsakes](https://open.spotify.com/album/0VOvPEYdsYbzHwrLabGK8E) | 2:46 | 2023-02-07 |  |
 | [Kiruna](https://open.spotify.com/track/7FIIDU8NgQSsVPPZOQa3Hu) | [Sverker Johansson](https://open.spotify.com/artist/01Enhg7P7vObcpQjxL2Lrj) | [Kiruna](https://open.spotify.com/album/1YVlg8DLYswEs5oCdm57IU) | 2:39 | 2022-05-27 |  |
-| [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-22 |  |
+| [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-22 | 2023-05-10 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-04-22 |  |
 | [Laetitia](https://open.spotify.com/track/39e67SWLFobtjgr1S10iYE) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Laetitia](https://open.spotify.com/album/2MeED0qq5A14TCiVU2UNdn) | 1:57 | 2022-04-22 |  |
 | [Landscape Sedate](https://open.spotify.com/track/78HgRXSRwG7GOMDxIepo5r) | [Junius Clyde](https://open.spotify.com/artist/0RvljygdcU5lXCCnNMwAGU) | [Landscape Sedate](https://open.spotify.com/album/2DfiQCx6sbwbrbf15XnZUv) | 2:41 | 2023-01-31 |  |
@@ -363,12 +363,13 @@
 | [Space Comfort](https://open.spotify.com/track/5mSl1LEERyevaU6mykcfh0) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Safe and Sound](https://open.spotify.com/album/116LyDErcLTqD1BBQ0nBJz) | 2:21 | 2022-04-22 | 2022-05-28 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-27 |  |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-22 | 2022-08-22 |
+| [Spring Thaw](https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Spring Thaw](https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy) | 3:00 | 2023-05-09 |  |
 | [Springtime Afternoons](https://open.spotify.com/track/0V2qmRvvcoXijqbvL3vzPb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Springtime Afternoons](https://open.spotify.com/album/4n4SNcxSj6m7D2tqDFyNfi) | 1:49 | 2022-07-27 |  |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-04-22 | 2022-07-28 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-04-22 |  |
 | [Stay here](https://open.spotify.com/track/0ikGD2kxo348Cqxdb2jkzQ) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Stay here](https://open.spotify.com/album/43zF1UhpFqNjcFc28PQIfk) | 2:52 | 2022-04-22 | 2022-07-28 |
 | [Stay In Yesterday](https://open.spotify.com/track/68gOBP9twtrWZUOlwt6wZ6) | [Emanuel Driesen](https://open.spotify.com/artist/1VknQzlayUN0eDkWEJCsBU) | [Stay In Yesterday](https://open.spotify.com/album/68GR3IKpucg2wwvYVDjIwH) | 2:35 | 2022-11-14 |  |
-| [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 | 2023-03-28 |  |
+| [Stay with me](https://open.spotify.com/track/7K1S5y76RWJY7jIxSWupEy) | [Réka Ioescu](https://open.spotify.com/artist/57Mmf69hQyTIEZxSCo4k5H) | [Stay with me](https://open.spotify.com/album/72ApxPcjCBMGRaHZgmbByA) | 2:47 | 2023-03-28 | 2023-05-10 |
 | [Stolen Moments](https://open.spotify.com/track/5y3ZKV2ze2sbNHN4InCSax) | [Thomas Michel](https://open.spotify.com/artist/744uxt5OILVuM5odydzxS3) | [Stolen Moments](https://open.spotify.com/album/2Meli6G9X3R09ZJgwB1fM4) | 2:07 | 2022-05-27 |  |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2022-04-22 | 2023-01-27 |
 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 | 2022-04-22 | 2023-03-29 |

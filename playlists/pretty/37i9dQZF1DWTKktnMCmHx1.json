@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 92019,
+  "num_followers": 92023,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQxNGNiMjQ1ODI1ZTQxYWFjMzhiYjc4MWJlY2ZlYjFjY2I5ODYw",
+  "snapshot_id": "MCw5MjdmMTg3ZmFmNmJiZjFkZWIwNTg3Y2E4ZDVkM2NhYTM2ZmMzOTMz",
   "tracks": [
     {
       "added_at": "2023-04-19 14:13:03",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-04-19 14:13:03",
       "album": {
+        "name": "Pelele",
+        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Pelele",
+      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
+    },
+    {
+      "added_at": "2023-04-19 14:13:03",
+      "album": {
         "name": "HOE + HARD (feat. Tony Effe)",
         "url": "https://open.spotify.com/album/5YclMYzrQvzpUu3mTbBhBd"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 153300,
       "name": "HOE + HARD (feat. Tony Effe)",
       "url": "https://open.spotify.com/track/43Wy3qYbTLUxUqsLZlTAa7"
-    },
-    {
-      "added_at": "2023-04-19 14:13:03",
-      "album": {
-        "name": "Pelele",
-        "url": "https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Pelele",
-      "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
     },
     {
       "added_at": "2023-04-19 14:13:03",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-04-19 14:13:03",
       "album": {
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
+    },
+    {
+      "added_at": "2023-04-19 14:13:03",
+      "album": {
         "name": "PENSAVA",
         "url": "https://open.spotify.com/album/7tC6dFwgPbCx4oNoNnJfHn"
       },
@@ -1571,26 +1587,6 @@
       "duration_ms": 148997,
       "name": "PENSAVA",
       "url": "https://open.spotify.com/track/3a2OF3JdIW9VXC9wnbs68X"
-    },
-    {
-      "added_at": "2023-04-19 14:13:03",
-      "album": {
-        "name": "REPEAT IT",
-        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "REPEAT IT (with Gunna)",
-      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
     }
   ],
   "unique_name": "GOOD GAME",

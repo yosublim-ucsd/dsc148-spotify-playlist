@@ -4,7 +4,7 @@
 
 > Listen to women from all over the world, at full volume\. Cover: Katherine Li
 
-1,203 songs - 2 day 18 hr 22 min
+1,204 songs - 2 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -906,6 +906,7 @@
 | [space coaster](https://open.spotify.com/track/1YZYpXsFmmeJiUEHOrxu85) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [Here or Heaven](https://open.spotify.com/album/0D52xN7k7iJuCAyJUo2gtw) | 2:27 | 2022-02-02 | 2022-02-04 |
 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 | 2022-09-07 | 2023-01-05 |
 | [Spell Me Free](https://open.spotify.com/track/5HqwIMsJYJclEzCuiVMjEh) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Spell Me Free](https://open.spotify.com/album/1sxmGb4ycn0jhoHCLNPm0h) | 6:15 | 2022-11-02 | 2022-12-01 |
+| [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-09 |  |
 | [Spinning World](https://open.spotify.com/track/0qMWgeZ0noIwad06RmVQpm) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:00 | 2022-09-07 | 2022-10-05 |
 | [Stamina](https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Stamina](https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm) | 2:46 | 2023-04-05 | 2023-05-04 |
 | [Stathero](https://open.spotify.com/track/3tQakkOHMmqb8zhpC3sfcz) | [Eleonora Zouganeli](https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt) | [Stathero](https://open.spotify.com/album/6p59dFt7fSVQeuxRMNF3sS) | 3:33 | 2022-01-05 | 2022-02-03 |
@@ -1050,7 +1051,7 @@
 | [we could be so electric](https://open.spotify.com/track/5x93hIyimblbepRycF3enM) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [we could be so electric](https://open.spotify.com/album/08pOwk3KPLWRVRaruuDwgV) | 2:51 | 2022-03-08 | 2023-01-05 |
 | [We Should Get Lost](https://open.spotify.com/track/6i2dcVvDPfHp8EkrPf21bD) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH1](https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV) | 2:08 | 2023-03-01 | 2023-04-06 |
 | [we're gonna die anyway!!!](https://open.spotify.com/track/3dsraaer0toPT5ZpcisxOb) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6) | [we're gonna die anyway!!!](https://open.spotify.com/album/3BZzDyp6uLeAvhFp4XbC5T) | 2:32 | 2023-04-05 | 2023-05-04 |
-| [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-03 |  |
+| [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 | 2023-05-03 | 2023-05-10 |
 | [Weź skręć](https://open.spotify.com/track/42HeuVcP5xaOkQUmOkAOMp) | [DOROTA](https://open.spotify.com/artist/2fEs4vr7qFxwyrzmTrXxYE) | [Weź skręć](https://open.spotify.com/album/7bZeRcZQbmGKoaxGZv1hDK) | 2:41 | 2023-04-05 | 2023-05-04 |
 | [What You Like](https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [What You Like](https://open.spotify.com/album/5QOziDmjbHnDqZTUgajTub) | 3:13 | 2021-12-11 | 2022-01-06 |
 | [Whatchu Gonna...?](https://open.spotify.com/track/2RyutaGvhmCUfpBqLM4BRp) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Rainbow Chan](https://open.spotify.com/artist/1tQUVWgrAbVlla78VYcFjy) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:48 | 2022-09-07 | 2022-10-05 |

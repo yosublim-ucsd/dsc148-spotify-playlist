@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 8089,
+  "num_followers": 8092,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjBkZWFlMTIwYTA1ODc1MWJlNmNmZmRkZjYxYzM2YTFlMzAyODVi",
+  "snapshot_id": "MCw4ZGQ5MWNjODkxY2EwMzZkYjM2OGIyNjgzMWUwNzkwYTg1ODg2OWIz",
   "tracks": [
     {
       "added_at": "2023-03-31 06:00:00",
@@ -483,22 +483,18 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Tres Patines",
-        "url": "https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA"
+        "name": "El Precio del Sudor",
+        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
       },
       "artists": [
         {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        },
-        {
-          "name": "Skuela de Baile",
-          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
+          "name": "Los Rude Boys",
+          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
         }
       ],
-      "duration_ms": 152137,
-      "name": "Tres Patines",
-      "url": "https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ"
+      "duration_ms": 164186,
+      "name": "Somos del Barrio",
+      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -523,18 +519,22 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "El Precio del Sudor",
-        "url": "https://open.spotify.com/album/3GeVKe0S3AIyGRbt5L40tc"
+        "name": "Tres Patines",
+        "url": "https://open.spotify.com/album/1IfdViO2KIMROZJYhxsWlA"
       },
       "artists": [
         {
-          "name": "Los Rude Boys",
-          "url": "https://open.spotify.com/artist/2hnZsQ7mRwI8Sy2fOFL9wA"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        },
+        {
+          "name": "Skuela de Baile",
+          "url": "https://open.spotify.com/artist/28i5b12ENfU4hsxPt5fIs1"
         }
       ],
-      "duration_ms": 164186,
-      "name": "Somos del Barrio",
-      "url": "https://open.spotify.com/track/4f3B6Ts5LUR2X0DLwr00JV"
+      "duration_ms": 152137,
+      "name": "Tres Patines",
+      "url": "https://open.spotify.com/track/52Ocbi72eRBWUpE4gYK6PQ"
     },
     {
       "added_at": "2023-03-31 06:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-03-31 06:00:00",
       "album": {
-        "name": "Piel De Banqueta",
-        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "Esperges\u00eda",
-      "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
-    },
-    {
-      "added_at": "2023-03-31 06:00:00",
-      "album": {
         "name": "La Ciudad Es...Nuestra",
         "url": "https://open.spotify.com/album/301TF8N2daQRdcXHLrP6yz"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 60033,
       "name": "Skarface",
       "url": "https://open.spotify.com/track/2JZCTp1q4DQ6tZJDg0vsrl"
+    },
+    {
+      "added_at": "2023-03-31 06:00:00",
+      "album": {
+        "name": "Piel De Banqueta",
+        "url": "https://open.spotify.com/album/7mR3Ox82acBqCYaHv9B2ce"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Esperges\u00eda",
+      "url": "https://open.spotify.com/track/28mMkrQCx6zaDtdwpqrXT1"
     },
     {
       "added_at": "2023-03-31 06:00:00",

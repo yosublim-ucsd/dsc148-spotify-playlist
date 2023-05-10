@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 17755,
+  "num_followers": 17766,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjc3OGE5NjRmZjhhZjhmM2QzMDEwZjFhZjk5OWYzNGFmZWVjZDU1",
+  "snapshot_id": "MCwyNmEzMDRhOGQ1ZDFjM2JkZGViMzA2YjU4YmRhMmMzYzZiODZiODk1",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi"
-      },
-      "artists": [
-        {
-          "name": "Kirk Fletcher",
-          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
-        }
-      ],
-      "duration_ms": 305253,
-      "name": "Two Steps Forward",
-      "url": "https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
         "name": "The Bookends",
         "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 259906,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0BfGpr0TSmGczrpxupv6yi"
+      },
+      "artists": [
+        {
+          "name": "Kirk Fletcher",
+          "url": "https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "Two Steps Forward",
+      "url": "https://open.spotify.com/track/2HYvSsxyLiCMUMtM7ux8rd"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/4J5YIM08RZ9SJCcCJeEv9z"
     },
     {
-      "added_at": "2022-02-23 14:50:27",
-      "album": {
-        "name": "Devil May Care",
-        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
-      },
-      "artists": [
-        {
-          "name": "Tinsley Ellis",
-          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
-        }
-      ],
-      "duration_ms": 240173,
-      "name": "28 Days",
-      "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
-    },
-    {
       "added_at": "2020-10-21 17:37:12",
       "album": {
         "name": "Ashes & Dust",
@@ -483,6 +467,22 @@
       "duration_ms": 446346,
       "name": "Coal Tattoo",
       "url": "https://open.spotify.com/track/56DSKF2O31YPrblvpA8xVk"
+    },
+    {
+      "added_at": "2022-02-23 14:50:27",
+      "album": {
+        "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/0vetIsh52LB0I10eBDTdLP"
+      },
+      "artists": [
+        {
+          "name": "Tinsley Ellis",
+          "url": "https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on"
+        }
+      ],
+      "duration_ms": 240173,
+      "name": "28 Days",
+      "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -517,22 +517,6 @@
       "url": "https://open.spotify.com/track/6enELEFBmbFdCuS2cxrS8G"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Reckless Blues",
-        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 315178,
-      "name": "Here Comes the Flood",
-      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -547,6 +531,22 @@
       "duration_ms": 63720,
       "name": "Rattlin' Change",
       "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
+    },
+    {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Reckless Blues",
+        "url": "https://open.spotify.com/album/6m2bsgDVf8yygmksgYsPzm"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 315178,
+      "name": "Here Comes the Flood",
+      "url": "https://open.spotify.com/track/0YnCkOeeKV7G6H3K86kJH1"
     },
     {
       "added_at": "2021-04-27 23:04:41",
@@ -651,18 +651,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Middle of the Road",
-        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
+        "name": "Reckless Heart",
+        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
       },
       "artists": [
         {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
         }
       ],
-      "duration_ms": 277160,
-      "name": "Change In Me (The Rebirth)",
-      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
+      "duration_ms": 221430,
+      "name": "Creepin'",
+      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -683,18 +683,18 @@
     {
       "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Reckless Heart",
-        "url": "https://open.spotify.com/album/4qg7yQHWWUw0DMlix6ZbUG"
+        "name": "Middle of the Road",
+        "url": "https://open.spotify.com/album/7egwxXjYLZsui8rZb5cUFL"
       },
       "artists": [
         {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
         }
       ],
-      "duration_ms": 221430,
-      "name": "Creepin'",
-      "url": "https://open.spotify.com/track/6Aag6dVH7JZtS8VkvGmofm"
+      "duration_ms": 277160,
+      "name": "Change In Me (The Rebirth)",
+      "url": "https://open.spotify.com/track/4cZv2MppweMlDEo0p5MF1n"
     },
     {
       "added_at": "2022-05-13 04:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1019845,
+  "num_followers": 1020082,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjk0ZDVkODA4NGVkZDZiMTIzNTAwNjQwYTQ1YThlN2U0NGExZDMy",
+  "snapshot_id": "MCwzNzVhZTVmZjFiNWNlMWVkNTE5NTJmYTVmMzYyZTRlMjE4MDIzZDRi",
   "tracks": [
     {
       "added_at": "2022-11-29 19:35:01",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
-      "added_at": "2023-02-10 00:03:20",
-      "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
-    },
-    {
       "added_at": "2022-11-29 19:35:01",
       "album": {
         "name": "Masterpiece",
@@ -947,6 +931,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2023-02-10 00:03:20",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "Sylvan Esso",
         "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 268213,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Muchacho",
-        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 370200,
-      "name": "Song for Zula",
-      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1207,6 +1207,22 @@
       "duration_ms": 199742,
       "name": "Empress",
       "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Muchacho",
+        "url": "https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "Song for Zula",
+      "url": "https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1287,22 +1303,6 @@
       "duration_ms": 148866,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 223866,
       "name": "Sheep",
       "url": "https://open.spotify.com/track/2fEcMBdl3BUmPclvQKSBfV"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 198927,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "LCD Soundsystem",
         "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 181400,
       "name": "Tessellate",
       "url": "https://open.spotify.com/track/1o22EcqsCANhwYdaNOSdwS"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "Ode to a Conversation Stuck in Your Throat",
-        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
     },
     {
       "added_at": "2022-11-29 19:35:01",

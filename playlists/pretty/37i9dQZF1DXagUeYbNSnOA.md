@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Juli Gervasoni\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,803 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,812 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 13 | [MALANDRA](https://open.spotify.com/track/1GNfZ80XXzxy6t8PZhgBNy) | [MARI](https://open.spotify.com/artist/0og2ubpPFrJOMK9ppv8gGU) | [MALANDRA](https://open.spotify.com/album/4q8dxXTDgSictwPmpvfcv3) | 2:36 |
 | 14 | [AAP](https://open.spotify.com/track/5KoFGCIAuX9aFVUXaJawvW) | [Cosmic Brothers](https://open.spotify.com/artist/08tsg7xu6UKkxOjSqvn8ba) | [AAP](https://open.spotify.com/album/0vpfrMyERPmFF1wA7XqOeJ) | 5:41 |
 | 15 | [Paño De Lágrimas](https://open.spotify.com/track/4OyJijqmk5Hs38c51UrFbM) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG) | [Paño De Lágrimas](https://open.spotify.com/album/6VnMzKj6rU8EVFC76h9KzA) | 2:49 |
-| 16 | [Los Amigos](https://open.spotify.com/track/1xWAFAA90hdcdPfi2VrTKT) | [Juliana Quédate Otro Dia](https://open.spotify.com/artist/2m6iAL3gp5mysPREyfZTrR) | [Los Amigos](https://open.spotify.com/album/0y0ZkDK6vDRpeA1HtrS6i9) | 2:39 |
+| 16 | [Euterpe](https://open.spotify.com/track/4ZGpzcXZe73n0mx4BHdAFi) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Euterpe](https://open.spotify.com/album/0sjKiWPHWeMIhHRVYBOPf4) | 4:09 |
 | 17 | [Q Si Q No](https://open.spotify.com/track/7vjl6zhzyrSxVA1d7R7Ii5) | [Manu Manzo](https://open.spotify.com/artist/7EbduPILtytQAiMYt3nBb3) | [Q Si Q No](https://open.spotify.com/album/1Q5tRQjjM9OGctqVocQ9z1) | 2:33 |
-| 18 | [Mejor Odiarnos](https://open.spotify.com/track/2B6Omk6vjD27Ip1sfpNFLt) | [Daniel Mejia](https://open.spotify.com/artist/47h3s5hCP06yHYpmtegIt4) | [Mejor Odiarnos](https://open.spotify.com/album/2MLS0uq4I82WpwMn7Nxpfe) | 3:16 |
+| 18 | [Los Amigos](https://open.spotify.com/track/1xWAFAA90hdcdPfi2VrTKT) | [Juliana Quédate Otro Dia](https://open.spotify.com/artist/2m6iAL3gp5mysPREyfZTrR) | [Los Amigos](https://open.spotify.com/album/0y0ZkDK6vDRpeA1HtrS6i9) | 2:39 |
 | 19 | [suave acento](https://open.spotify.com/track/0B1XBUQQp9JDkT74z3TQo2) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [suave acento](https://open.spotify.com/album/4YPqbmI28tGEYzs2fV96LS) | 3:54 |
-| 20 | [Euterpe](https://open.spotify.com/track/4ZGpzcXZe73n0mx4BHdAFi) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [Euterpe](https://open.spotify.com/album/0sjKiWPHWeMIhHRVYBOPf4) | 4:09 |
+| 20 | [Mejor Odiarnos](https://open.spotify.com/track/2B6Omk6vjD27Ip1sfpNFLt) | [Daniel Mejia](https://open.spotify.com/artist/47h3s5hCP06yHYpmtegIt4) | [Mejor Odiarnos](https://open.spotify.com/album/2MLS0uq4I82WpwMn7Nxpfe) | 3:16 |
 | 21 | [Seres](https://open.spotify.com/track/4Frl3G7vrrio9Wkf3WI7c6) | [Sueño Tsunami](https://open.spotify.com/artist/3t3BhxRxSzyOBq9vQKKWr6) | [Seres](https://open.spotify.com/album/4KWPrqOmDSp8wbRChTRVFf) | 4:13 |
 | 22 | [Don't Let Me Go](https://open.spotify.com/track/4bCZHjTRVlWOxoOIcz4sx4) | [Nikky Bourbon](https://open.spotify.com/artist/7akxqX9dq5DIqO0VwHo1jL), [Stylolive](https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ) | [Don't Let Me Go](https://open.spotify.com/album/2k3GiqtqWr8OG20dliRc8a) | 3:15 |
 | 23 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 28 | [Aves Negras](https://open.spotify.com/track/5YZkhQmnSunYYRCd3dtgUH) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z) | [Aves Negras](https://open.spotify.com/album/2Po2dPDn6lMdNSjkfcM1OU) | 2:45 |
 | 29 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
 | 30 | [ETERNOS](https://open.spotify.com/track/6WJEzm3yMbJ0qI1qvfOqXR) | [MVLDITOS HOMBRES](https://open.spotify.com/artist/6FbUVVleVVOhgdyarEIVba) | [ETERNOS](https://open.spotify.com/album/0xUdJJa6uoKH8CZV3lzRYd) | 3:33 |
-| 31 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
-| 32 | [Noche de Ronda](https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7) | [Thony Neal](https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR) | [Noche de Ronda](https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf) | 3:29 |
-| 33 | [Vienen y Van](https://open.spotify.com/track/0wkPwoD6fV7WndMpIBWcQa) | [Eduardo Campa](https://open.spotify.com/artist/10lvIDZuD2JUF3Jo5XAGg4), [Jona](https://open.spotify.com/artist/72UNRKUxOypoMdIOsUgeA1) | [Vienen y Van](https://open.spotify.com/album/1973kia33gsHtB3LtuTaBh) | 3:01 |
-| 34 | [Veracruz \- en bolero](https://open.spotify.com/track/3hSCWAqHeF9PX2hZJD7t5B) | [jawli](https://open.spotify.com/artist/7lFZo33jgeKsrkfkT38vJ4) | [Veracruz \(en bolero\)](https://open.spotify.com/album/0oufEYk2YWA6bVPqI4CQCF) | 3:44 |
+| 31 | [Noche de Ronda](https://open.spotify.com/track/74XndrGyo2DYbDwaWjmZo7) | [Thony Neal](https://open.spotify.com/artist/01WRnfupxbgWvuWI56UebR) | [Noche de Ronda](https://open.spotify.com/album/2W4eAl6o6AQ7MilPDHnXYf) | 3:29 |
+| 32 | [Atada](https://open.spotify.com/track/4XUS6E19iUfJeE7zvlQwaE) | [Sofi Terán](https://open.spotify.com/artist/31KuvYNsxdSKqFyaIKfBDD), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Atada](https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv) | 2:51 |
+| 33 | [Veracruz \- en bolero](https://open.spotify.com/track/3hSCWAqHeF9PX2hZJD7t5B) | [jawli](https://open.spotify.com/artist/7lFZo33jgeKsrkfkT38vJ4) | [Veracruz \(en bolero\)](https://open.spotify.com/album/0oufEYk2YWA6bVPqI4CQCF) | 3:44 |
+| 34 | [Vienen y Van](https://open.spotify.com/track/0wkPwoD6fV7WndMpIBWcQa) | [Eduardo Campa](https://open.spotify.com/artist/10lvIDZuD2JUF3Jo5XAGg4), [Jona](https://open.spotify.com/artist/72UNRKUxOypoMdIOsUgeA1) | [Vienen y Van](https://open.spotify.com/album/1973kia33gsHtB3LtuTaBh) | 3:01 |
 | 35 | [Fuimos](https://open.spotify.com/track/44TiJHnzGE1VbKf3GXBf5j) | [Cata Claro](https://open.spotify.com/artist/4fn4Adu7mtG06Ysp1wzw6F) | [Fuimos](https://open.spotify.com/album/74YrRIvRIkjP70l2ru57rG) | 3:17 |
 | 36 | [BIEN RARO](https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [BIEN RARO](https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2) | 2:00 |
 | 37 | [Un Veneno \- Tigre Den Session](https://open.spotify.com/track/6EiQaPHDsK8LNFBgHabIZl) | [Miluhska](https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY) | [Miluhska \(Tigre Den Session\)](https://open.spotify.com/album/0NEH1iZEps2ak8mSculbL3) | 4:24 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 45 | [El Tiempo](https://open.spotify.com/track/4kTTqGmrYcXJrKraYN9kQG) | [The Spanish Flies](https://open.spotify.com/artist/14YQALGWjiMXgxY7meViy9) | [El Tiempo](https://open.spotify.com/album/5E7gO9OukMsNjdc1VAmEne) | 3:32 |
 | 46 | [DIME](https://open.spotify.com/track/2jo5MSuiZw7Y3VJtQzuVmt) | [Un Man Muy X](https://open.spotify.com/artist/0Nvvmd5ZJ9oZtkGVrCRzvD) | [DIME](https://open.spotify.com/album/5jWJXMG6sWr4Z1tUl2ZTYI) | 3:05 |
 | 47 | [Síndrome de la Cabaña](https://open.spotify.com/track/5AC8psJ6Ef1ecMXRvUmkhd) | [macloviiin](https://open.spotify.com/artist/1qmZ7rGi95Uk5bdi58E2wM) | [Síndrome de la Cabaña](https://open.spotify.com/album/4ywX0ggUpYByY4GIMvW5D7) | 3:07 |
-| 48 | [So Bad](https://open.spotify.com/track/0Bv41AllBqvKGzyOAOS4PH) | [Pezk](https://open.spotify.com/artist/5c7D1CAnaECx5upe6kjfAW) | [So Bad](https://open.spotify.com/album/03GJmaxCoDhr1Lyli3F4vr) | 3:58 |
-| 49 | [Hace Días](https://open.spotify.com/track/0LwYew0vKp72ZFTc1dN3xj) | [Santiago Vélez](https://open.spotify.com/artist/5nCnuQHyws6IKOKvQaCyIq), [Los Melancohólicos](https://open.spotify.com/artist/74eLPblHbplIGaeXwgEmUj) | [Hace Días](https://open.spotify.com/album/1ouqzJCYVO8CYUQtf11n3z) | 4:40 |
+| 48 | [Hace Días](https://open.spotify.com/track/0LwYew0vKp72ZFTc1dN3xj) | [Santiago Vélez](https://open.spotify.com/artist/5nCnuQHyws6IKOKvQaCyIq), [Los Melancohólicos](https://open.spotify.com/artist/74eLPblHbplIGaeXwgEmUj) | [Hace Días](https://open.spotify.com/album/1ouqzJCYVO8CYUQtf11n3z) | 4:40 |
+| 49 | [So Bad](https://open.spotify.com/track/0Bv41AllBqvKGzyOAOS4PH) | [Pezk](https://open.spotify.com/artist/5c7D1CAnaECx5upe6kjfAW) | [So Bad](https://open.spotify.com/album/03GJmaxCoDhr1Lyli3F4vr) | 3:58 |
 | 50 | [Nina Flowers](https://open.spotify.com/track/3uzfNVfGwWnLUwv5bE71et) | [Ladrones de Bicicletas](https://open.spotify.com/artist/6nNkhgWX9xu8T3s9h1Bu65) | [Nina Flowers](https://open.spotify.com/album/0C3x6sgrHvN8VUlhgitnUC) | 3:35 |
 
-Snapshot ID: `MCw1ZGI0MDZlMjFiNTZiMzU4NWJjZmM2NzE4NTkxYjBmZWIyMGFmZmVi`
+Snapshot ID: `MCxlZjZhZDI3MGQxYTk2ZmZmMmZhMTJjN2ZhM2ZiNmM3ZDY5MjE3Nzcy`

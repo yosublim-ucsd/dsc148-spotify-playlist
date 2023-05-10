@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Wende
 
-76 songs - 4 hr 14 min
+77 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Forever](https://open.spotify.com/track/6mWi1D3usqO9JSFTqZWUuZ) | [YVES](https://open.spotify.com/artist/4QjFiRcZUcXUppYUR29MuQ), [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [GODSPEED](https://open.spotify.com/album/5PznlTVFdnmXyp34K4iJjI) | 3:06 | 2023-02-23 |  |
 | [Glas In Lood](https://open.spotify.com/track/2jXsjXKDneBlnppUhdaaKC) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Ik Zou Voor Veel Kunnen Sterven Maar Niet Voor Een Vlag](https://open.spotify.com/album/27F3o3c9Li3EfhG4XSEWbS) | 3:36 | 2023-02-23 |  |
 | [Golvend Water](https://open.spotify.com/track/11WNquIczwWq8t8utMQpae) | [Navarone Cole](https://open.spotify.com/artist/1G3G1fCNjBgR3OwTmj2QHb) | [Golvend Water](https://open.spotify.com/album/3rqmnLiK024NpId3HhxkdB) | 2:30 | 2023-02-23 |  |
-| [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 |  |
+| [Guitar Guy](https://open.spotify.com/track/2PN5wHMSWg8U6Ord2lfwU7) | [Mayer Malik](https://open.spotify.com/artist/0WMRcmW4gPPbnJOR6XJXmc), [Boaz van de Beatz](https://open.spotify.com/artist/7Gl7G1JK7feTWHy1YJExfw) | [Guitar Guy](https://open.spotify.com/album/1dW4MSpzSFrVPUQZ46WT6T) | 3:24 | 2023-02-23 | 2023-05-10 |
 | [Hard Work](https://open.spotify.com/track/5erRk2eskp3Ns8pfOEtbxq) | [Anuka](https://open.spotify.com/artist/4tp1pUIwgLWIIIIOo1yPYp) | [Hard Work](https://open.spotify.com/album/5iCijpR8CvLw1ftF7M71k1) | 2:35 | 2023-02-23 |  |
 | [I Don't Know Why](https://open.spotify.com/track/0eh7RLHWRTKozBQVebazyB) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Jobsen](https://open.spotify.com/artist/1nXpJ4oZgB8PlKvQ3DFkaH), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [I Don't Know Why](https://open.spotify.com/album/2l4DnWUZwezkK6n40YI1UY) | 2:48 | 2023-02-23 |  |
 | [I Found](https://open.spotify.com/track/7BqGd98KWC3b5GGx1wEQ2V) | [Faint Louis](https://open.spotify.com/artist/6noj0RSKEQhY8LtQBeCmfz), [Subtle Static](https://open.spotify.com/artist/5YFASQmAPmWw2eMVnU84aL) | [I Found](https://open.spotify.com/album/450H51CyucEN9AHiIrTUHp) | 3:52 | 2023-02-23 |  |
@@ -71,6 +71,7 @@
 | [Take It In](https://open.spotify.com/track/30vIfB5gtZGGFg97dEjOEe) | [Myrwood](https://open.spotify.com/artist/1fy4Uo845NnAgRroPZk3LD) | [Take It In](https://open.spotify.com/album/5qdadtcVVOMgJIAYJKlOP4) | 3:32 | 2023-02-23 |  |
 | [The Edge](https://open.spotify.com/track/6qz0vy1Vmlk0CkcIZVfDe6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [The Edge](https://open.spotify.com/album/4xBRWqgv6LwgOO15guGN5Z) | 4:07 | 2023-02-23 | 2023-04-01 |
 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 | 2023-02-23 |  |
+| [Time for Love](https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Time for Love](https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p) | 3:41 | 2023-05-09 |  |
 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 |  |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 |  |
 | [Vanavond](https://open.spotify.com/track/5bNXaDNh0p6qQk1CWs9tVO) | [Gianski](https://open.spotify.com/artist/1tC6NRB6c1mVgV4xrqrOgy) | [Vanavond](https://open.spotify.com/album/5PpFQHdoDf04BYHH29Rtwy) | 2:34 | 2023-02-23 |  |

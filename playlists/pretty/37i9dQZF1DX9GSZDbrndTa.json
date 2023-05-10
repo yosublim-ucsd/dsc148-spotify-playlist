@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 82266,
+  "num_followers": 82330,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzBkMzU0N2ViMDk1MjZkYjA0MDllN2E4ZTUwMGFjMjRhNWU4MDNi",
+  "snapshot_id": "MCxhYmQ5Y2YyYWRjYmNiOGViMTYwYjQ3MDFhYzFmNzA3YzU2NjY1NmU2",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -335,18 +335,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+      "duration_ms": 311813,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -367,22 +371,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 311813,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2020-10-12 18:15:54",

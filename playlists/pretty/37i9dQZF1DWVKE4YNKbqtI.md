@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,449 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,457 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 9 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
 | 10 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 11 | [Don't Start Me To Talkin'](https://open.spotify.com/track/1f9FEeBWZkuT4ItJZwsJ2l) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [Down And Out Blues](https://open.spotify.com/album/6uhJ93exe9enyJnV3jgyLO) | 2:36 |
-| 12 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
-| 13 | [Blues On The Moon](https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Louisiana Legend](https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa) | 2:56 |
+| 12 | [Blues On The Moon](https://open.spotify.com/track/1xDHpQuobDjDTs0bS3mETv) | [Raful Neal](https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0) | [Louisiana Legend](https://open.spotify.com/album/4s0G9NIPxGreWN5IiliCEa) | 2:56 |
+| 13 | [Hoodoo Man Blues](https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:06 |
 | 14 | [One More Headache](https://open.spotify.com/track/5uPWILEXkNy1D0MJzi9ByM) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [The Resurrection Of Pigboy Crabshaw](https://open.spotify.com/album/5nEOJtjR1clDZQZwAlA7Qs) | 3:40 |
 | 15 | [Have A Good Time](https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:48 |
 | 16 | [Got The Bottle Up And Gone](https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO) | [Sonny Boy Williamson I](https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4) | [Sonny Boy Williamson Vol\. 1 \(1937 \- 1938\)](https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L) | 2:33 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 20 | [What My Mama Told Me](https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Harpslinger](https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw) | 3:04 |
 | 21 | [Cotton Mouth Man](https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cotton Mouth Man](https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS) | 3:47 |
 | 22 | [Nobody But You](https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y) | [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y) | [Roots And Branches \- The Songs Of Little Walter](https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz) | 3:07 |
-| 23 | [Ain't Seen My Baby](https://open.spotify.com/track/5r1gF2DneZC8pBL86SDarK) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Shoulder To Shoulder](https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV) | 3:22 |
-| 24 | [The Bottle Wins Again](https://open.spotify.com/track/7c2FB64ULKN97mjU5wvIyQ) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:38 |
+| 23 | [The Bottle Wins Again](https://open.spotify.com/track/7c2FB64ULKN97mjU5wvIyQ) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [No Mercy In This Land \(Deluxe Edition\)](https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4) | 3:38 |
+| 24 | [Ain't Seen My Baby](https://open.spotify.com/track/5r1gF2DneZC8pBL86SDarK) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF) | [Shoulder To Shoulder](https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV) | 3:22 |
 | 25 | [Carey Bell Rocks](https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 3:31 |
 | 26 | [The Wine Talkin'](https://open.spotify.com/track/4jwpFbAnl9e5fsMbhVZgjV) | [The Cash Box Kings](https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c) | [Hail To The Kings!](https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA) | 3:49 |
 | 27 | [Down Home Shake\-Down](https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 | 50 | [Levee Camp Moan](https://open.spotify.com/track/5P3AlDI4rXsBxU4YC3rkL2) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Best of Blues Vol\. 8: Forrest City Joe \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/75TS3pJaEN702DolImKo8K) | 5:19 |
 
-Snapshot ID: `MCw2MDRkZGZkMjZhOWUzMzhlNDRkMmRjYzY2OTVmMjNmY2Y4MDYxNTc2`
+Snapshot ID: `MCxkZDU4MjUxOTExZmZjYTZlZTc2ZGUwMjNjNGU3MzE3OTdiY2VjYTI4`

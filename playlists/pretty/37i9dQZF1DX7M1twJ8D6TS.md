@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,215 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,18 +75,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 65 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
 | 66 | [Boots](https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [American Soul](https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe) | 3:09 |
 | 67 | [Like I Love You](https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo) | [Sarah Hobbs](https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI) | [Texas Made](https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA) | 3:51 |
-| 68 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 |
-| 69 | [Happier Alone](https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1) | 3:44 |
+| 68 | [Happier Alone](https://open.spotify.com/track/6TTb1rInj0xBs0naVYyaHD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Black Sheep](https://open.spotify.com/album/0tNJiCqDocKe1rG3jwdqK1) | 3:44 |
+| 69 | [Heaven's Jukebox](https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L) | [Jaden Hamilton](https://open.spotify.com/artist/2Hee241e76SakjULcG18OH) | [Heaven's Jukebox](https://open.spotify.com/album/1S99G84SweuUP30hI31utF) | 3:31 |
 | 70 | [Phones Don't Work](https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Where Phones Don't Work](https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ) | 3:33 |
 | 71 | [New Tattoos](https://open.spotify.com/track/34WXK8DJ3AuVtyS4w4ShIx) | [South Texas Tweek](https://open.spotify.com/artist/7i1TAJ7JbLXS8OMi0tABmM) | [New Tattoos](https://open.spotify.com/album/780rPEbni816HNo8Fk2Yom) | 2:37 |
-| 72 | [Sticks and Stones](https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side A\)](https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D) | 3:30 |
-| 73 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
+| 72 | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy) | [Where the Neon Lies \(with Ronnie Dunn\)](https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy) | 4:02 |
+| 73 | [Sticks and Stones](https://open.spotify.com/track/3WNW8524vTA2ZAGHEkGiex) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [Makin' It By \(Side A\)](https://open.spotify.com/album/19luaHWSUvdGpgyTNOqt7D) | 3:30 |
 | 74 | [Hold My Beer](https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Hold My Beer](https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh) | 3:59 |
 | 75 | [Without Me](https://open.spotify.com/track/79x7JfmQNotGvACGW3cUsR) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Words to Say](https://open.spotify.com/album/49ph0cXQVZFh8mx1fMcdLI) | 4:33 |
 | 76 | [Crown and Coke](https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Crown and Coke](https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK) | 2:47 |
 | 77 | [Cigarettes and Alcohol](https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol](https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ) | 4:37 |
-| 78 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
-| 79 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
+| 78 | [Picture Frames](https://open.spotify.com/track/5BdubaMMmTMJGit2D5Sw0b) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Picture Frames](https://open.spotify.com/album/2EMEIbtBzUveg1CJIFrtXD) | 3:16 |
+| 79 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 80 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 |
 | 81 | [Sunlight](https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Sunlight](https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7) | 3:55 |
 | 82 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 99 | [Keep on Moving](https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw) | [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [Keep on Moving](https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc) | 3:16 |
 | 100 | [Waiting for the Fall](https://open.spotify.com/track/0kTxPEHRite7TMCZTC42bk) | [Sam Riggs](https://open.spotify.com/artist/3vmCb694uLT5FBO1lVB52U) | [Waiting for the Fall](https://open.spotify.com/album/0TVD2skKoSDmQOhG8LgXid) | 3:37 |
 
-Snapshot ID: `MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl`
+Snapshot ID: `MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4`

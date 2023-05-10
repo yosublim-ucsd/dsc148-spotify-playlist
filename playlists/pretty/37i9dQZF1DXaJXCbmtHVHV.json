@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Sam Hunt",
-  "num_followers": 500689,
+  "num_followers": 500781,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjcwZTAxMzAyNDJhOWVmYjNmNTgxMGE2NTNjNzI5MWRmZjgwOTk4",
+  "snapshot_id": "MCwxMjc1NWVhNzliYjk3ZDhiODQ4ZGU1N2FkODllOWYyZTkzNWI5MDBi",
   "tracks": [
     {
       "added_at": "2023-05-03 15:56:06",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "5 Leaf Clover",
-        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
+        "name": "Mr. Saturday Night",
+        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 211053,
-      "name": "5 Leaf Clover",
-      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
+      "duration_ms": 161200,
+      "name": "Your Heart Or Mine",
+      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Mr. Saturday Night",
-        "url": "https://open.spotify.com/album/2QriWWJQt8g8XXoC1ATDPa"
+        "name": "5 Leaf Clover",
+        "url": "https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 161200,
-      "name": "Your Heart Or Mine",
-      "url": "https://open.spotify.com/track/7ETjhPaIU4UmHOiimJBZz9"
+      "duration_ms": 211053,
+      "name": "5 Leaf Clover",
+      "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
         "name": "Famous Friends",
         "url": "https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 165569,
       "name": "Famous Friends",
       "url": "https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-03 15:56:06",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
         "name": "Fortune Favors the Bold",
         "url": "https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw"
       },
@@ -1515,22 +1499,6 @@
       "duration_ms": 249872,
       "name": "Russell County Line",
       "url": "https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA"
-    },
-    {
-      "added_at": "2023-05-03 15:56:06",
-      "album": {
-        "name": "Doing Life With Me",
-        "url": "https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0"
-      },
-      "artists": [
-        {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Doing Life With Me",
-      "url": "https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c"
     },
     {
       "added_at": "2023-05-03 15:56:06",
@@ -1551,6 +1519,38 @@
       "duration_ms": 199000,
       "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
       "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "Doing Life With Me",
+        "url": "https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Doing Life With Me",
+      "url": "https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c"
+    },
+    {
+      "added_at": "2023-05-03 15:56:06",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "added_at": "2023-05-03 15:56:06",

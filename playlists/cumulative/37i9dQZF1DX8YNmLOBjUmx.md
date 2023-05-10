@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Rock & Alternative songs this year\. Cover: WILLOW \#SpotifyWrapped
 
-241 songs - 13 hr 24 min
+242 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [I.N.V.U.](https://open.spotify.com/track/6Lbn55HrUZHP5W0F2fqIh5) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Here’s What You Could Have Won](https://open.spotify.com/album/7xq7v7rW8L7QAgvw5i6Ig8) | 2:43 | 2022-11-30 | 2023-05-04 |
 | [In My Head](https://open.spotify.com/track/7jJKNG1a6J1EmovRTjGMb7) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [In My Head](https://open.spotify.com/album/63lqbNX9o5kx1msCb8LS0L) | 3:53 | 2021-12-01 | 2022-12-01 |
 | [In My Sleep](https://open.spotify.com/track/6jYgoiJu5ZMw4d8ma2fkJ9) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 4:11 | 2021-12-01 | 2022-12-01 |
-| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-11-30 |  |
+| [In The Mirror](https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:04 | 2022-11-30 |  |
+| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-11-30 | 2023-05-10 |
 | [in the wake of your leave](https://open.spotify.com/track/3tr7NTCykrBqLxaFTQMIYx) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 4:03 | 2022-11-30 |  |
 | [Invincible \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/1PXUZ5Cpat6HipfJkn31ng) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Invincible \(feat\. Lindsey Stirling\)](https://open.spotify.com/album/06Jc0H2unWIErvyxu5LgoC) | 3:52 | 2021-12-01 | 2022-12-01 |
 | [I’m a Mess \(with YUNGBLUD\)](https://open.spotify.com/track/77zu6q8jHBRPJSJRu6rsTf) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Love Sux \(Deluxe\)](https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK) | 3:07 | 2022-11-30 |  |

@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 336329,
       "name": "Raag Hansdhwani Jod and Jhalla",
       "url": "https://open.spotify.com/track/7Ms7N8GxU46EsS57GECJu0"
@@ -1626,6 +1626,52 @@
       "duration_ms": 679760,
       "name": "Vatapiganapatim - Hamsadhwani - Adi",
       "url": "https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG"
+    },
+    {
+      "album": {
+        "name": "Vrindavan Sojourn (From the Album \"Manoyatri\")",
+        "url": "https://open.spotify.com/album/2G0NX8PGJkRCdn1beqaQ65"
+      },
+      "artists": [
+        {
+          "name": "George Brooks",
+          "url": "https://open.spotify.com/artist/2XfVMjEed5ozwWxinyXDHy"
+        },
+        {
+          "name": "Pt. Subhen Chatterjee",
+          "url": "https://open.spotify.com/artist/3S8BaEhq0cLMn9XV6T0WN2"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        },
+        {
+          "name": "Avra Banerjee",
+          "url": "https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3"
+        },
+        {
+          "name": "Mainak Bumpy Chowdhury",
+          "url": "https://open.spotify.com/artist/2dcZ3EkiSJ0qnEf2Fd7zdd"
+        },
+        {
+          "name": "Tamal Halder",
+          "url": "https://open.spotify.com/artist/5uPwgx7NUxZwnK0jn4nbvS"
+        },
+        {
+          "name": "Gaytri Ashokan",
+          "url": "https://open.spotify.com/artist/5b4Kg0qx45mqSMGYQ4XyB3"
+        },
+        {
+          "name": "Sambit Chatterjee",
+          "url": "https://open.spotify.com/artist/1k1JTLGm0dUcSIflDlZ6tb"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 689100,
+      "name": "Vrindavan Sojourn",
+      "url": "https://open.spotify.com/track/4P1I8fZOObedYQoftl6Vqn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3LrQBSMX6aK"

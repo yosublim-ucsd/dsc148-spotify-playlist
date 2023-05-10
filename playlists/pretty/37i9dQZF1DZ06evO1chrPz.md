@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,952 likes - 50 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,983 likes - 50 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Victory Is Yours \- Live](https://open.spotify.com/track/42bdU7oDyRvyRXaKbUrtfu) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Victory \(Live\)](https://open.spotify.com/album/6EsmModhcfmKIeCeNQjeDY) | 5:33 |
 | 50 | [Extravagant \- Live](https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 6:11 |
 
-Snapshot ID: `MjgwNTkxOTksMDAwMDAwMDAyNjY3N2M2YmYzOGEzMmNjODllYTkzOTkyOTBiMGE4NQ==`
+Snapshot ID: `MjgwNjA1NjAsMDAwMDAwMDA4MGVjNGY2NDZkZTBmYzZlYTU0NTk1NTgxODZjN2RiOA==`

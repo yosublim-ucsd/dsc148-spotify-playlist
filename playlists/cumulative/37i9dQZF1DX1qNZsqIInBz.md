@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-141 songs - 6 hr 24 min
+142 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [My Toy](https://open.spotify.com/track/47C0kcP46CKw8DX69aXmRK) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [My Toy](https://open.spotify.com/album/6ai1YGBCS8Y83QWtJrRJz8) | 3:18 | 2022-10-10 | 2023-01-21 |
 | [Next Day Was Yesterday](https://open.spotify.com/track/2TaFenxaQaYmeSpq4EaPNl) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Next Day Was Yesterday](https://open.spotify.com/album/3zzx0LzD0pqX9BUPUZzacZ) | 2:52 | 2022-10-10 |  |
 | [Night Drive](https://open.spotify.com/track/0zUaZGWTnuU9eAvYIAOCet) | [Digma](https://open.spotify.com/artist/4yoc4oFXtddeMUM0IPPr4a), [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2) | [Night Drive](https://open.spotify.com/album/4KfiISrF4UYPIhPLvJsIjI) | 2:47 | 2023-02-24 |  |
-| [Night Drive](https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/1WAQ6fdYFjJuSjs0rKDx31) | 2:51 | 2022-10-10 |  |
+| [Night Drive](https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/1WAQ6fdYFjJuSjs0rKDx31) | 2:51 | 2022-10-10 | 2023-05-10 |
+| [Night Drive](https://open.spotify.com/track/3dEiXRHTDuBsG1C3An4aP2) | [DVXRK](https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [Night Drive](https://open.spotify.com/album/3CCeB3HbTc1UjhOEFBN2J2) | 2:51 | 2023-03-10 |  |
 | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/track/331H6137RMXrWPqdoinXfA) | [Wilee](https://open.spotify.com/artist/0PszchiiynrfCAwjdHdN5r) | [Night Drive \(Slowed + Reverb\)](https://open.spotify.com/album/6im4iD0gt2vezgk3xhyrhh) | 2:17 | 2022-10-10 |  |
 | [Night Finding](https://open.spotify.com/track/6e8aObTgP8Jb4eZt5mAAk1) | [yellow pixie](https://open.spotify.com/artist/0OeJ57WX4JoCw1FdTM8Uwe) | [Night Finding](https://open.spotify.com/album/29JbcmWxHt4KNqMCM4TRME) | 1:54 | 2022-10-10 |  |
 | [NIGHT RIDE](https://open.spotify.com/track/5l5b7TnBr5naVGNZq7SPca) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [BLESSED MANE](https://open.spotify.com/artist/4RsEAdLhbUy7j3zHWauPwF) | [NIGHT RIDE](https://open.spotify.com/album/0NaK3ZZFCdGpydTOBgfhDQ) | 3:12 | 2022-10-10 |  |

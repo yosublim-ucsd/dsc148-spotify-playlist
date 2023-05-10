@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 
 > Revenge is best served raw...Watch Ali Wong and Steven Yeun in Beef, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,032 likes - 25 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,295 likes - 25 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoiPY96kwt.md) - [plain]
 | 24 | [Hibachi Suicide](https://open.spotify.com/track/6xGcJ2HaHeFJY3YvohOVCc) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 1:14 |
 | 25 | [On the Up](https://open.spotify.com/track/2TlTxMXBt9GZCDyPmc1yEb) | [Bobby Krlic](https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J) | [BEEF \(Original Score\)](https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E) | 0:37 |
 
-Snapshot ID: `MCxhYzcxOWU3ZDU1OGU0MTg2OWY2MjMwZjdlOTQ2OTZhOGVlNTI2MzU4`
+Snapshot ID: `MCxmYzczZjZlMjNhNGU5MTc3YTFiOTFiMjg5OTQ4YjZlOGY2ZTBjNzU2`

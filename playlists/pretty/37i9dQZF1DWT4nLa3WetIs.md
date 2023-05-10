@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Timeless afrobeats tracks curated by Davido
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,125 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,277 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 39 | [Bizzy Body](https://open.spotify.com/track/3rGBlf0cp7M3jbpsghlOH3) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:49 |
 | 40 | [Godwin](https://open.spotify.com/track/1xMj8OCAN3atp4tcdY4MiM) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa) | [Godwin](https://open.spotify.com/album/19NL6cXxKUls7Im7vwhC4T) | 2:59 |
 
-Snapshot ID: `MCxmMjA0NTM2NGQ4MThhZmEzNTE4Yjg0NGMyMjllY2RiNTFhZGQ4MzA5`
+Snapshot ID: `MCxkYmZmM2Q2OTQwNjE1NzM4YjBkNDM0N2E4ZTFjMDBhN2RlNGUyNmFh`

@@ -2,9 +2,9 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Delaossa
+> Lo mejor del hip hop español\. Feat\. Prok
 
-196 songs - 10 hr 53 min
+197 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Bukowski](https://open.spotify.com/track/04G7s84Y5Wpuq77I6IfVvX) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Bukowski](https://open.spotify.com/album/2CqlKHx9gPw8nfYvKZlaIZ) | 3:28 | 2022-07-19 |  |
 | [Bukowski](https://open.spotify.com/track/34fKPzASNYaX70vBeg24Lv) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU) | [Bukowski](https://open.spotify.com/album/0yjXpvYpPQVwlI3qBofkhi) | 3:28 | 2022-01-21 | 2022-07-29 |
 | [Cada Motivo](https://open.spotify.com/track/5RwF8yjTv6LvpCjJL8yjkL) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx), [Lu Decker](https://open.spotify.com/artist/74LXFsgo40nbOJaO74QTAm), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [Cada Motivo](https://open.spotify.com/album/5ZkrNdw8WiUr1kvpwAIT6x) | 4:28 | 2022-01-21 |  |
+| [CALIENTE](https://open.spotify.com/track/3mh6bL6SJVg7T57IhKNZXA) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [CALIENTE](https://open.spotify.com/album/1xTcDLX3SnSY6rpqEeJlfT) | 5:02 | 2023-05-09 |  |
 | [Chatarra](https://open.spotify.com/track/0M9PsXoNAsUzmOeMlhbx44) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Brawler](https://open.spotify.com/artist/3ou0JTD6UMkXvymmMrzBOJ), [Nerso](https://open.spotify.com/artist/2sA17fdEW3AIUbETkwrsKY) | [Chatarra](https://open.spotify.com/album/1dZrdu4MxyX2gBuN4CWCC1) | 3:26 | 2022-08-04 | 2023-04-04 |
 | [Chatarra](https://open.spotify.com/track/2pqaZXlvOQLL51UwDHDi4o) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Brawler](https://open.spotify.com/artist/3ou0JTD6UMkXvymmMrzBOJ), [Nerso](https://open.spotify.com/artist/2sA17fdEW3AIUbETkwrsKY) | [Chatarra](https://open.spotify.com/album/61AnsKPGiCjCPlGn7n1NS4) | 3:26 | 2022-01-21 | 2022-08-12 |
 | [Cicatrices](https://open.spotify.com/track/2zQvtkghOHiBG48Bj0oFR9) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/3DtogKlZPCChofGSlc7DUu) | 2:56 | 2022-08-04 |  |

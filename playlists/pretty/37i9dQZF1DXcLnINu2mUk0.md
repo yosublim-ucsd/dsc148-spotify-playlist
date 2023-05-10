@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,941 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,028 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 30 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 31 | [Farda](https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954) | [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Farda](https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs) | 3:09 |
 | 32 | [Dama & Vagabundo](https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [Dama & Vagabundo](https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM) | 5:13 |
-| 33 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
-| 34 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 33 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 34 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
 | 35 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 36 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 37 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 74 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 | 75 | [Preciso de alguém](https://open.spotify.com/track/30U1EU9Tn3cx8iFp2QSbQn) | [Dougie Knight](https://open.spotify.com/artist/2PU8j6LKs1ndgXQQ92n5RB) | [Preciso de alguém](https://open.spotify.com/album/5j326RJto69tuJk04jned4) | 2:30 |
 
-Snapshot ID: `MCwyM2M4ZDg3MmEwNjcxMzE0NTQ2Y2EyZGI5NTY1MzdlMjMxNzQwZDI5`
+Snapshot ID: `MCxiODRkOGM3MWQ5OGJjNWYxYzhhNmZkMWQxYTZiMmJiMzU4MjI3YzUy`

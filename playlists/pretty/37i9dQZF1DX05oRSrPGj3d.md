@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Cover: Remembering Keith Gattis
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,316 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,449 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [Sunday Mornin' Comin' Down](https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [The Essential Kris Kristofferson](https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3) | 4:30 |
 | 100 | [Hey Moon](https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 2:54 |
 
-Snapshot ID: `MCxjMWNhYTE3NTVkMGM0ODU5ZTc0MmJjZjBhMjhiYmIyMDM1NDhiYmJh`
+Snapshot ID: `MCw1YTdiYzg5MTdkNDIzMjc5ODBjMGIyZDY2NDIwOWNhYmRlMWJkNTlj`

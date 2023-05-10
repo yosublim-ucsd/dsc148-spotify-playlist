@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,913 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,936 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 39 | [Moonwalk Away](https://open.spotify.com/track/7pcd9XP1fZsiFGFCOFhtY3) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Three Second Memory \(Deluxe\)](https://open.spotify.com/album/4zfXvbTiPAfmHt56Q3tQEc) | 5:59 |
 | 40 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
 | 41 | [Mortal Man](https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Mortal Man](https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2) | 3:55 |
-| 42 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
-| 43 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
+| 42 | [I'm With You](https://open.spotify.com/track/5gXjp3ZnKx0UDaXvwXCOgS) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [I'm With You](https://open.spotify.com/album/1PHQokRN6Hrh10ZQNjZn6A) | 3:33 |
+| 43 | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/track/3ZznDRLojMv5oWkeuvGSFR) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Stay \(feat\. Dana Williams\)](https://open.spotify.com/album/659fdu0EaiK5Ilsh3dBTQW) | 3:53 |
 | 44 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 45 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
 | 46 | [Ellie](https://open.spotify.com/track/5KNLAnH7BBtoRxDqYP58h6) | [Regi](https://open.spotify.com/artist/77ehFS1P2bU6Bfcs1qu6Jd), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Vergeet De Tijd](https://open.spotify.com/album/7B8rmxIjhAODSsLOvcJtLM) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 59 | [Fire](https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:23 |
 | 60 | [Video Games](https://open.spotify.com/track/1ImmEy1b7WFuFvQmDNnpbr) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [Karun](https://open.spotify.com/artist/5RDH4iOoVeMAh0ylr16Obe) | [Video Games](https://open.spotify.com/album/6UNRdmz5jH99djUUpdocEe) | 3:36 |
 
-Snapshot ID: `MCw1MTQxNGMyMWJkN2ViZTEwMWJjM2FjNDFmNWMwYjVmYWFkZTdhYjYy`
+Snapshot ID: `MCw1MGEyY2MyNWZhN2JhMzQ5MjU3YzQ2OTE5NTNjNTUwNWY2YmYyMjk5`

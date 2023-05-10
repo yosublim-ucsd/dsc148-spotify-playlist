@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,781 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,798 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 35 | [Stay Tuned](https://open.spotify.com/track/2dOtM9EeM3bhQvzOWEQPwP) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Stay Tuned](https://open.spotify.com/album/6o4nLp0Ra5dW31bxWk91s6) | 3:20 |
 | 36 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |
 | 37 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
-| 38 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
+| 38 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 |
 | 39 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
-| 40 | [Real Damn Good](https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:02 |
+| 40 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 |
 | 41 | [Warning Label](https://open.spotify.com/track/2MQZttVGYDyTEcCXVTdWa7) | [Morgan Ashley](https://open.spotify.com/artist/1367lWMUHMwzcnvgdFEVJu) | [Warning Label](https://open.spotify.com/album/4VUenncoqrnFbiO6R8lRxA) | 3:42 |
-| 42 | [All It Cost Me Was Everything](https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/3OMTlnEISam5mlHSO9kdxq) | 3:50 |
+| 42 | [Real Damn Good](https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 3:02 |
 | 43 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 |
 | 44 | [Pretty Ugly](https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Pretty Ugly](https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb) | 2:58 |
-| 45 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
-| 46 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 |
+| 45 | [Tough Country](https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L) | [Tough Country](https://open.spotify.com/album/4usJHvZr3K0vTvb7bzzw7w) | 4:03 |
+| 46 | [Different Now](https://open.spotify.com/track/50F1kaXRx8Ns8PvZDj3ZLR) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Different Now](https://open.spotify.com/album/7uMjBi7VLbpjEQOgNcTSI7) | 3:09 |
 | 47 | [Honky Tonk Song](https://open.spotify.com/track/1fhbyvzbuG8PCOmF8jDtdG) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Honky Tonk Song](https://open.spotify.com/album/56CkqCuPrXkmHoI3OD35MR) | 3:04 |
 | 48 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 |
 | 49 | [Neon You](https://open.spotify.com/track/2AlEprA31NMOha3nS5TLvI) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Neon You](https://open.spotify.com/album/760jwSfqYPJ0qmPlTPOQaz) | 3:07 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 71 | [The Bar Guy](https://open.spotify.com/track/1N7c1NQGE4LMMJMpUE9MSP) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Bar Guy](https://open.spotify.com/album/4zVUFBJoGcli595MQJ7eEc) | 3:34 |
 | 72 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 |
 | 73 | [Texas Is My Home](https://open.spotify.com/track/0caKs7RDt6nIwdvkkXFnPD) | [Rich O'Toole](https://open.spotify.com/artist/2t6FHAUXxi9eiatP2Mavh0) | [Texas Is My Home](https://open.spotify.com/album/7GEOpsPQMd9DIKQHIJcTRs) | 3:24 |
-| 74 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
+| 74 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
 | 75 | [Fine By Me](https://open.spotify.com/track/4X5GnkmymLagGzBmJRO0tf) | [Curtis Grimes](https://open.spotify.com/artist/21NiIObyfGUR3UPql6UrkP) | [Fine By Me](https://open.spotify.com/album/6Gnd8NfKh9x90a7lUURXZz) | 3:07 |
-| 76 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
+| 76 | [Love Talking](https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Talking](https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB) | 2:53 |
 | 77 | [Watered Down Whiskey](https://open.spotify.com/track/6F3ljY5dEQqgkinBfkffYc) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [This Is for You](https://open.spotify.com/album/4JQRW8zHwam1pglpvoIxRy) | 3:28 |
 | 78 | [Sunny and 72 \- Extended Album Cut](https://open.spotify.com/track/2kovTGOIJ5HIEsXpbk1A12) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Cheaper Than the Truth](https://open.spotify.com/album/17fxEpm9d1gPl8RLkShdrZ) | 4:44 |
 | 79 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [That Ain't No Way To Go](https://open.spotify.com/track/5zq8Y9sg8XEgWD6pyBt7VX) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [That Ain't No Way To Go](https://open.spotify.com/album/6SxfUyEpdAOhSo26GJaPm6) | 3:33 |
 | 100 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 |
 
-Snapshot ID: `MCw1MGU1MTE4NDA0Mzc2M2RiMTg1YWQzNDBiM2MxYTA1MjU0NWEzMDIy`
+Snapshot ID: `MCxiZWZiMzI1YTg1NTA2MzE4NjQ1YzQ4OTJhNzViM2U0NDljMjQwNjRj`

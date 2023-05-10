@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Xamã, KayBlack, MC Maneirinho, Kiaz e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,300 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,520 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [X6](https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Buccy](https://open.spotify.com/artist/0j4YvpvQYySHXXpVgqyPqT) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 4:53 |
 | 50 | [C'est la vie \(Bônus\)](https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:04 |
 
-Snapshot ID: `MCw3NmQwYTNiMzU1ZDk1MDJiNWY5NzBlYzNjZDNiMWE4NzdlMTMyYjcw`
+Snapshot ID: `MCw4MGRmMjIwYjljM2RhMjZhNzkyMmE4MzUyYWQ5ZjdlMDhjNWI4ZDE0`

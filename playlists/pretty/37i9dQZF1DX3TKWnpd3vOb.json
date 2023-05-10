@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200211,
+  "num_followers": 200212,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjJhNDcxMDRlNzM0ZWQ1NzYwNTE0YjI0ZDRhMjZiOTJkMzQwODA2",
+  "snapshot_id": "MCw0ZTFlZjA4MjRiYzM5YjEwMjUwMWNkNDljMGZhYjFkN2RiYzEwZGJi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -379,18 +379,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Rocanrol de los Misterios",
-        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+        "name": "Fuego y Mar",
+        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
       },
       "artists": [
         {
-          "name": "Congreso",
-          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+          "name": "Jawar",
+          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
+        },
+        {
+          "name": "Todos Me Caen Bien",
+          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
         }
       ],
-      "duration_ms": 259329,
-      "name": "Rocanrol de los Misterios",
-      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+      "duration_ms": 224096,
+      "name": "Fuego y Mar",
+      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -431,6 +435,22 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
+        "name": "Rocanrol de los Misterios",
+        "url": "https://open.spotify.com/album/4oQsoi5cEKYBVikVUjREua"
+      },
+      "artists": [
+        {
+          "name": "Congreso",
+          "url": "https://open.spotify.com/artist/0S7gyQcve5aVdbPiUjym4H"
+        }
+      ],
+      "duration_ms": 259329,
+      "name": "Rocanrol de los Misterios",
+      "url": "https://open.spotify.com/track/3xUxTxWrERgq8p6XpUfRaO"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
         "name": "Camino a Casa",
         "url": "https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 173664,
       "name": "Camino a Casa",
       "url": "https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Fuego y Mar",
-        "url": "https://open.spotify.com/album/0QltDd9iKuydLMzH5vGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Jawar",
-          "url": "https://open.spotify.com/artist/6Y2c7oVQPj8XJbsv3vHndS"
-        },
-        {
-          "name": "Todos Me Caen Bien",
-          "url": "https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb"
-        }
-      ],
-      "duration_ms": 224096,
-      "name": "Fuego y Mar",
-      "url": "https://open.spotify.com/track/63Cj7eloC0gtgyUQNP1Xhe"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Un D\u00eda por Concepci\u00f3n",
-        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
-      },
-      "artists": [
-        {
-          "name": "Billy Norton",
-          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "Un D\u00eda por Concepci\u00f3n",
-      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
         "name": "7 Mares",
         "url": "https://open.spotify.com/album/4im29JIy0zo9FsVD5rHvAy"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 258331,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/4RbFoRUXx2LxWvjpSanqqa"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Un D\u00eda por Concepci\u00f3n",
+        "url": "https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw"
+      },
+      "artists": [
+        {
+          "name": "Billy Norton",
+          "url": "https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb"
+        }
+      ],
+      "duration_ms": 183484,
+      "name": "Un D\u00eda por Concepci\u00f3n",
+      "url": "https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+        "name": "Eso que ves ah\u00ed",
+        "url": "https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf"
       },
       "artists": [
         {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
         }
       ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 208468,
+      "name": "Eso que ves ah\u00ed",
+      "url": "https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Bien",
-        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
       },
       "artists": [
         {
-          "name": "99 Payasos",
-          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
         }
       ],
-      "duration_ms": 177487,
-      "name": "Bien",
-      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Eso que ves ah\u00ed",
-        "url": "https://open.spotify.com/album/5sckF891FftmKRBQblX3Qf"
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs"
       },
       "artists": [
         {
-          "name": "Valija Diplomatica",
-          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
         }
       ],
-      "duration_ms": 208468,
-      "name": "Eso que ves ah\u00ed",
-      "url": "https://open.spotify.com/track/4arEyzZvnPJjvPLpkYNNL0"
+      "duration_ms": 177487,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B"
     },
     {
       "added_at": "2023-04-28 04:01:00",

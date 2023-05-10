@@ -4,7 +4,7 @@
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-177 songs - 10 hr 32 min
+178 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Can't Cheat Death](https://open.spotify.com/track/3ocLv1zQYgIT09uIWjmTSz) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Paper Crown](https://open.spotify.com/album/0uy6EewPzVoPQ1sxRphfre) | 3:10 | 2021-10-01 | 2022-07-27 |
 | [Can’t Do Much](https://open.spotify.com/track/0sEJmxTlb2SZNxdjzBATPK) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:44 | 2021-10-01 |  |
 | [Can’t Do Much](https://open.spotify.com/track/46nIiL5q7LNeUtbnOwiOH2) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/04HMMwLmjkftjWy7xc6Bho) | 3:44 | 2021-10-01 | 2022-07-29 |
-| [Chariot](https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Chariot](https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0) | 3:20 | 2023-01-20 |  |
+| [Chariot](https://open.spotify.com/track/1ZHboJHdP97xyCaQWuP9h6) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Chariot](https://open.spotify.com/album/3R9K985Qq28VqqzeV65bZ0) | 3:20 | 2023-01-20 | 2023-05-10 |
+| [Chariot](https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:20 | 2023-04-28 |  |
 | [Chateau](https://open.spotify.com/track/62oCnK99vT8HOgwPsvXuiM) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq) | 4:33 | 2021-10-01 | 2022-07-28 |
 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 | 2021-10-01 |  |
 | [Coast](https://open.spotify.com/track/53l8hswqklbWd7XXqDEMtq) | [Gone Gone Beyond](https://open.spotify.com/artist/6r1h2CZVoKSTyKANP5Ptu5), [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [2030](https://open.spotify.com/album/2dzvQbx6X5atdFDWYIRuMw) | 3:29 | 2021-10-01 |  |

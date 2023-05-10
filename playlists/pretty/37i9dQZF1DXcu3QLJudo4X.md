@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,208 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,281 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boom Boom](https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 2:32 |
 | 2 | [Help Me](https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [More Real Folk Blues](https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV) | 3:08 |
-| 3 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 |
-| 4 | [Born Under A Bad Sign \- Mono Mix](https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:49 |
+| 3 | [Born Under A Bad Sign \- Mono Mix](https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign \(Mono\)](https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR) | 2:49 |
+| 4 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 |
 | 5 | [Crossroads \- Live](https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:18 |
 | 6 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
 | 7 | [I'm Your Hoochie Coochie Man](https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:58 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 41 | [Forty Four](https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:50 |
 | 42 | [Reconsider Baby](https://open.spotify.com/track/1sdXpmB13AyaHaiSlgeITt) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Cannonball](https://open.spotify.com/album/59wGnewkXsHCgDahKUPBqu) | 3:59 |
 | 43 | [Everyday I Have The Blues](https://open.spotify.com/track/6MrLjEmXy9IAPAX1mAKySE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' The Blues](https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun) | 2:49 |
-| 44 | [Mean Old World](https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:55 |
+| 44 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 |
 | 45 | [Mystery Train \- Remastered 2022](https://open.spotify.com/track/5lgo86IFpVmZkP2tllm5eX) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM), [The Blue Flames](https://open.spotify.com/artist/6v2b0J4pJj4uQhyL9Onz2A) | [Sun Records Originals: Mystery Train](https://open.spotify.com/album/6ah1LPcA93TpiesTgaLUsy) | 2:24 |
 | 46 | [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 |
 | 47 | [I'm a Man](https://open.spotify.com/track/2Bi0JWdxDMaKPanNofJSdL) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [The Yardbirds Story \- Pt\. 3 \- 1965/66 \- Big Hits & America Calling](https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K) | 2:39 |
 | 48 | [Sitting On Top Of The World](https://open.spotify.com/track/2YOgkdUHyhEFeYObo3pYHx) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [One Kind Favor \(Deluxe\)](https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV) | 3:36 |
 | 49 | [Stack\-O\-Lee](https://open.spotify.com/track/5gpPPzQg5HirXumU4KnjzD) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:56 |
-| 50 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 |
+| 50 | [Mean Old World](https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:55 |
 | 51 | [Crosscut Saw](https://open.spotify.com/track/1uu03dv8HEchMBXcR08uke) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 2:34 |
 | 52 | [\(You've Got To\) Love Her With A Feeling](https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Blues With A Feeling](https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB) | 3:45 |
 | 53 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/2eUyfVpeq45J3kQmAI78YZ) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Let The Good Times Roll: The Music Of Louis Jordan](https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u) | 4:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 59 | [I Can't Quit You Baby](https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Can't Quit You Baby / Sit Down Baby](https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV) | 3:07 |
 | 60 | [One Night \- Remastered](https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:27 |
 
-Snapshot ID: `MCwyYmM4ZDE4N2VjYmRlMTFjOTA3NDkyZmU3N2M5ZjkxNTU5YmU1MGI4`
+Snapshot ID: `MCwwODI2YjBmOTg1MjYwNDQ2YmFlNzk1MjliMjQ4NjI2NTQyOTBmYWJl`

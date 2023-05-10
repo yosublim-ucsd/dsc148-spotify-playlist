@@ -4,7 +4,7 @@
 
 > New Rock driving the current, every week.
 
-194 songs - 9 hr 50 min
+195 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Kerosene!](https://open.spotify.com/track/1Kjw0LwdniCWran4PxJqPQ) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/5wnCTZtzIZxasRSHzI1JeW) | 5:05 | 2022-07-22 | 2022-08-27 |
 | [Kids Don't Buy Groceries](https://open.spotify.com/track/3qpZF480vZzafyfVqIaf4f) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Kids Don't Buy Groceries](https://open.spotify.com/album/7gy5MwfTEMiom8RoUdIBLp) | 2:03 | 2022-03-18 | 2022-12-03 |
 | [Knock Me Out](https://open.spotify.com/track/6hZg9eBzZtn5SpHarPehbU) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Knock Me Out](https://open.spotify.com/album/5X4AuforMNHvb66UZU3zfE) | 3:05 | 2022-02-12 | 2022-07-23 |
-| [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 |  |
+| [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 | 2023-02-24 | 2023-05-10 |
+| [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 | 2023-04-07 |  |
 | [Life Goes On](https://open.spotify.com/track/5fHTdGsnnj0minXaTKAdFV) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Strawberries \(Deluxe Edition\)](https://open.spotify.com/album/4c5bfktL4iyMH7Ute5azfw) | 4:03 | 2022-07-22 | 2022-08-27 |
 | [Little](https://open.spotify.com/track/0lfKHiSPfnNOazjUCyjR8a) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/3lphUHd1yZ8IkozaqxTCWb) | 2:37 | 2022-11-25 |  |
 | [Little](https://open.spotify.com/track/2fozfsVzd6kCYp5OA3sOUJ) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Little](https://open.spotify.com/album/6Vr5O6l6WpEMfAXS1AB9iv) | 2:37 | 2022-08-26 | 2023-01-28 |

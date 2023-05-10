@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,293 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,380 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 24 | [DARLING DANCE](https://open.spotify.com/track/32cvZTXsJi4EzkvVDMH4Ij) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [DARLING SYNDROME](https://open.spotify.com/album/3fUCHpaeNuP6psWjFsDgZ9) | 3:26 |
 | 25 | [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 |
 | 26 | [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 |
-| 27 | [アマツキツネ \(feat.鏡音リン\)](https://open.spotify.com/track/3izZHDVwlnwjdoWhs1KrMM) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [空想メモライズ](https://open.spotify.com/album/6dnlAEI38OgEft5ukc6crm) | 3:54 |
+| 27 | [ボニー&クライド](https://open.spotify.com/track/2o3z08ZoSbTt8yGw5rSH4T) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [ボニー&クライド](https://open.spotify.com/album/1ml6frwbwpvD4XLWzSmYnD) | 2:45 |
 | 28 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
 | 29 | [BUG](https://open.spotify.com/track/1fqfev7K0mfX7e1W64pDvA) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [BUG](https://open.spotify.com/album/04BZd03CZ9HuiiZBWDcp1J) | 2:51 |
 | 30 | [ロキ](https://open.spotify.com/track/5WCK18MbTKuOcmLsOXMaHd) | [Mikito P](https://open.spotify.com/artist/0iu8aSfeRUY5aUTLpEDo52) | [DAISAN WAVE](https://open.spotify.com/album/1s65jj1INBw5EMo5pimB6i) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 | 50 | [オルターエゴ](https://open.spotify.com/track/7kR5u7rrajGzBuCiJjdOyU) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [オルターエゴ](https://open.spotify.com/album/0gZwTh7C2gc4kTCLDe7JvC) | 3:42 |
 
-Snapshot ID: `MCw5Mjc2OWVhZTlmNzNkZmMyZGViZDViZGY4MWU4MjRkYzRmYjQ3NTZl`
+Snapshot ID: `MCxmNmFlYjg5ZDBiZmQyMDA0ZGU0MzMzYjIxMjNkZmZmM2QxZDkwY2Y2`

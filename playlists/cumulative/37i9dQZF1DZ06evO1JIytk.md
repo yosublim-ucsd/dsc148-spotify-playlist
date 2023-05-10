@@ -4,7 +4,7 @@
 
 > This is Anti\-Flag\. The essential tracks, all in one playlist.
 
-83 songs - 3 hr 56 min
+84 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,8 +41,9 @@
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/1XudAZqvPQUyPa8OLkkpgC) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 3:04 | 2023-01-10 | 2023-04-05 |
 | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/track/3ksWMAOiMobIucBbEGuHW3) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Shane Told](https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY) | [LAUGH\. CRY\. SMILE\. DIE\. \(feat\. Shane Told of Silverstein\)](https://open.spotify.com/album/2NgWggKqJHxlvzLkMrbhOP) | 3:04 | 2022-09-16 |  |
 | [Mind the G.A.T.T.](https://open.spotify.com/track/6jP08vvhuFYZedF8iI7cUS) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Terror State](https://open.spotify.com/album/1GHpqoqOxKzUBpHeUcWShP) | 3:14 | 2022-09-16 | 2022-11-05 |
+| [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/6ryk9mshVmR6KoXkguU7fV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk) | 3:35 | 2023-05-09 |  |
 | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/1yuQcwJsaaUZHoZq8KeK9a) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 3:36 | 2023-01-09 | 2023-04-09 |
-| [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 | 2022-10-07 |  |
+| [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/track/2fPKdiqwKvEdhtytC0kDED) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [MODERN META MEDICINE \(feat\. Jesse Leach of Killswitch Engage\)](https://open.spotify.com/album/16zuCh6AvPoS058XshhseX) | 3:36 | 2022-10-07 | 2023-05-10 |
 | [No Allegiance To A Flag](https://open.spotify.com/track/798wYM5enzA8WSIIpLdtlw) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Division](https://open.spotify.com/album/3thDALJX9mvXyJVNSqHwd7) | 2:01 | 2022-09-16 | 2023-04-20 |
 | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/track/5i0eynynsGbrYn3i9MP7LV) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT), [Stacey Dee](https://open.spotify.com/artist/5MzVW6bfqpL5hrSa9wfc9T) | [NVREVR \(feat\. Stacey Dee of Bad Cop/Bad Cop\)](https://open.spotify.com/album/5av6EgtQOT323PZhk2E8lU) | 4:40 | 2022-11-04 |  |
 | [ONLY IN MY HEAD](https://open.spotify.com/track/6U5w3f9d7VfLIBWazU9dw1) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [LIES THEY TELL OUR CHILDREN](https://open.spotify.com/album/2BM1TbbHbKLqcKmrmqS2aQ) | 2:45 | 2023-01-08 | 2023-01-10 |

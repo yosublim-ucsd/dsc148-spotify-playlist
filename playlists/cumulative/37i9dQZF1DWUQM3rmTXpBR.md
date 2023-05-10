@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Dina El Wedidi.
 
-148 songs - 9 hr 14 min
+149 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Elak w Bas](https://open.spotify.com/track/16QkRfapLRwe9kBtYlctFC) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Elak w Bas](https://open.spotify.com/album/6YkN9Z2hJk7g9h2aeBN7RY) | 4:01 | 2022-08-22 |  |
 | [Emlaq](https://open.spotify.com/track/27269Mf2BDkWfLaC4oOw87) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Emlaq](https://open.spotify.com/album/3eeP7ZflvhlVWdgHDgxuWp) | 4:07 | 2021-12-23 | 2022-02-11 |
 | [Endal Eneed](https://open.spotify.com/track/4p3XxooOxt2YHbC9DTI0mj) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Endal Eneed](https://open.spotify.com/album/7ygqnUn67EX1VQ9DUA0JSp) | 3:04 | 2022-07-23 |  |
+| [Enti El Asas](https://open.spotify.com/track/0TTl1pEex2tFSFGvaVbu8t) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Enti El Asas](https://open.spotify.com/album/3lvvDWDr8o3Jexg1NgqdG9) | 4:03 | 2023-05-09 |  |
 | [Estana Shway](https://open.spotify.com/track/4FpuQ35dEPPfrGmmeIU8nQ) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway](https://open.spotify.com/album/5fs7QWGjKT8B6BWxas8b9k) | 3:51 | 2023-04-01 | 2023-04-24 |
 | [Estana Shway \- أخرس \- استنى شوي](https://open.spotify.com/track/3TabrhNZICePlryYNcw4C9) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Estana Shway \(أخرس \- استنى شوي\)](https://open.spotify.com/album/46o2uznwnj6kiw4NYa2rtc) | 3:51 | 2022-02-09 | 2023-04-01 |
 | [Estesna'i](https://open.spotify.com/track/2ZR3Vb01kfWlNDQ6P16Qjv) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv) | [Hadis El Layl](https://open.spotify.com/album/01Gq3fakZdS0h4sk6pKwea) | 3:41 | 2022-11-17 |  |

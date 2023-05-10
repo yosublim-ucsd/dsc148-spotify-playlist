@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wI0prya1veVHKQOtLbmxB.md) - [plain]
 
 > Uh oh! Feeling all the butterflies in your stomach? Constantly checking your phone to see if they texted back? Feel all the feels with this playlist\. You might be in love.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 147,943 likes - 55 songs - 3 hr 22 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 147,939 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

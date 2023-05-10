@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Still Charles in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,270 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,281 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 |
 | 80 | [Mille pare](https://open.spotify.com/track/2XzN0SolJ8TVddPRcfLeUN) | [Etta](https://open.spotify.com/artist/2U2hbzE2tUhswaUQipbQVB) | [Mille pare](https://open.spotify.com/album/2Yz4jWAU8rcdhN8ZLYySPO) | 2:54 |
 
-Snapshot ID: `MCwyOWNkNWNhNGFkODY4YzFkMWEyZDA0YmUxZjE3Y2FmNjJlNmY4ZmI0`
+Snapshot ID: `MCxhNTA3NThkZjU3Mzc1NmVkZGUzZDNkM2EwOWI5ZDhkOWRhYmNhZmY1`

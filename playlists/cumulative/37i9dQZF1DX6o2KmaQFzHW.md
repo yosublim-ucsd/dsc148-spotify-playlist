@@ -4,7 +4,7 @@
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-216 songs - 12 hr 38 min
+217 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Angelitos Negros](https://open.spotify.com/track/26vjShJngRrRkg9WViCm5U) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 del Río](https://open.spotify.com/album/5xPYEnF8FHzPffAILoTblq) | 4:16 | 2023-03-31 |  |
 | [Anoche No Dormi](https://open.spotify.com/track/4Z6TFi9jac4qmdqeeJjVYn) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:41 | 2021-07-23 |  |
 | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/track/1IR1Pxh6ctS4A2UaBlHW02) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/album/6eHS88kUgb7yGCOxXFpYmU) | 12:50 | 2021-07-23 | 2022-07-21 |
+| [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/track/5VEz8JoUEW5AofnVvnxhSz) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Arriando Caminos / Zamba de Amor y Mar / Luna Tucumana / Mujer Niña y Amiga / Jazmín de Luna / Cenizas / Nada Tengo de Ti / Anoche No Dormí](https://open.spotify.com/album/31v430ql2w15Ap4ahNeY5D) | 12:50 | 2023-03-31 |  |
 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 | 2021-07-23 |  |
 | [Añoranzas](https://open.spotify.com/track/2H0jbraCWzCg45Al8dD0tu) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Las Chacareras Vol.1](https://open.spotify.com/album/4jfQ43IAdWCXAONZdoMPRh) | 2:51 | 2021-07-23 | 2023-04-29 |
 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan Vol\. II](https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t) | 3:38 | 2021-07-23 | 2022-07-29 |
@@ -114,7 +115,7 @@
 | [Juan de la Calle](https://open.spotify.com/track/0FEY980G19GmeiVBK2AYzA) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/6HRTNRUeBVVntGVR5e6Amf) | 3:12 | 2021-07-23 | 2022-07-29 |
 | [Juan de la Calle](https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a) | 3:12 | 2022-02-21 |  |
 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 | 2021-07-23 |  |
-| [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 | 2021-07-23 |  |
+| [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 | 2021-07-23 | 2023-05-10 |
 | [La Cautiva](https://open.spotify.com/track/3CoSoKjB1jTBDUl4nbZfGB) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Jorge Cafrune\-Los Elegidos](https://open.spotify.com/album/40jHMGBc83ukE2rXbRUlIX) | 3:54 | 2021-07-23 | 2022-07-29 |
 | [La Cautiva](https://open.spotify.com/track/15cSWHIrhn61e77VJ6uqYZ) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Yo Digo Lo Que Siento](https://open.spotify.com/album/6aPCsUPEEFY441vUHimyVe) | 3:55 | 2022-02-21 |  |
 | [La Cerrillana](https://open.spotify.com/track/4E38Uglo9qAS9VqHdhyycF) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:00 | 2022-02-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15483,
+  "num_followers": 15490,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTI4ZjU5ZWY2OGY0ZDNhYmM1MjNjNTQyNzcxZDk5YWIwMDljMTg5",
+  "snapshot_id": "MCxkYmI3ZDhiOTlmZDliZWMyYTU5ZjM3NzQxZjU2NTQwYWQ2Y2VkY2Nj",
   "tracks": [
     {
       "added_at": "2023-05-05 23:28:35",
@@ -351,6 +351,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "El d\u00eda libre de Polux",
+        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
+      },
+      "artists": [
+        {
+          "name": "Chini.png",
+          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
+        }
+      ],
+      "duration_ms": 229010,
+      "name": "Venenos",
+      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "Nadie+",
         "url": "https://open.spotify.com/album/5bpk7x7dhCGetRY2onJA1X"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 142525,
       "name": "Nadie+",
       "url": "https://open.spotify.com/track/4Hc0J63unKggiHSpP47tXw"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "El d\u00eda libre de Polux",
-        "url": "https://open.spotify.com/album/0a6o6qjzEwWFBsTYf2b3do"
-      },
-      "artists": [
-        {
-          "name": "Chini.png",
-          "url": "https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz"
-        }
-      ],
-      "duration_ms": 229010,
-      "name": "Venenos",
-      "url": "https://open.spotify.com/track/5jp8WhWLBjvKnFGsB2cwR3"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP"
       },
@@ -535,22 +551,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Desorden",
         "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Aviones De Papel",
-        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 193336,
-      "name": "Aviones De Papel",
-      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 180867,
       "name": "HYPERREAL",
       "url": "https://open.spotify.com/track/50GATIYGEwMVtSkc2UxVd3"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Aviones De Papel",
+        "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 193336,
+      "name": "Aviones De Papel",
+      "url": "https://open.spotify.com/track/15G5tjajmf4FHllo0rGltv"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "7 canciones antes de que nos corten la luz",
-        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
-      },
-      "artists": [
-        {
-          "name": "DEFENSA",
-          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
-        },
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 223278,
-      "name": "Fiebre",
-      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "BOTON",
         "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
       },
@@ -955,18 +935,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Cometa",
-        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+        "name": "7 canciones antes de que nos corten la luz",
+        "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
       "artists": [
         {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+          "name": "DEFENSA",
+          "url": "https://open.spotify.com/artist/6FkVttiTT84WehLzoTrMEy"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
         }
       ],
-      "duration_ms": 276156,
-      "name": "Nina",
-      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
+      "duration_ms": 223278,
+      "name": "Fiebre",
+      "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -983,6 +967,22 @@
       "duration_ms": 176453,
       "name": "es mejor",
       "url": "https://open.spotify.com/track/2V6bROogDktEqNrsALo0hY"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Cometa",
+        "url": "https://open.spotify.com/album/0csI3KBXP4qZSBI4EXdsww"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 276156,
+      "name": "Nina",
+      "url": "https://open.spotify.com/track/6X4UMsSCMKJKhmio8tOpED"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Dime Algo (bonito)",
+        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
+      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "\u00d3rbita",
         "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 197933,
       "name": "\u00d3rbita",
       "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Dime Algo (bonito)",
-        "url": "https://open.spotify.com/album/4k49Cpa6LldpfvPxcQWdFL"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
-      "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Recuerdo Infinito",
-        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
-      },
-      "artists": [
-        {
-          "name": "Christian Jean",
-          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
-        }
-      ],
-      "duration_ms": 293386,
-      "name": "Recuerdo Infinito",
-      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Solos",
         "url": "https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 252026,
       "name": "Solos",
       "url": "https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Recuerdo Infinito",
+        "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
+      },
+      "artists": [
+        {
+          "name": "Christian Jean",
+          "url": "https://open.spotify.com/artist/2Fmp7ynBi1C038SEpA4EOL"
+        }
+      ],
+      "duration_ms": 293386,
+      "name": "Recuerdo Infinito",
+      "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1335,26 +1335,6 @@
       "duration_ms": 219800,
       "name": "La Luna de Madrid",
       "url": "https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Siempre Es Igual",
-        "url": "https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT"
-      },
-      "artists": [
-        {
-          "name": "Ambos dos",
-          "url": "https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz"
-        },
-        {
-          "name": "Lux Raptor",
-          "url": "https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Siempre Es Igual",
-      "url": "https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1427,18 +1407,22 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH"
+        "name": "Siempre Es Igual",
+        "url": "https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "Ambos dos",
+          "url": "https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz"
+        },
+        {
+          "name": "Lux Raptor",
+          "url": "https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq"
         }
       ],
-      "duration_ms": 291960,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR"
+      "duration_ms": 209600,
+      "name": "Siempre Es Igual",
+      "url": "https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1459,6 +1443,22 @@
       "duration_ms": 345716,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/00JPUCphJMySF6oEz7IxlH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+        }
+      ],
+      "duration_ms": 291960,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/4fQLD78x6Sp5JQXII9hcXR"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV"
-      },
-      "artists": [
-        {
-          "name": "Curena M\u00eda",
-          "url": "https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
         "name": "Extranjera",
         "url": "https://open.spotify.com/album/2GLLUxEHe9E2nEY6bCQG3r"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 239776,
       "name": "Extranjera",
       "url": "https://open.spotify.com/track/5xQ5TwGBRU8DmMnJaPq2d4"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV"
+      },
+      "artists": [
+        {
+          "name": "Curena M\u00eda",
+          "url": "https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db"
     },
     {
       "added_at": "2023-05-05 23:28:35",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-05-05 23:28:35",
       "album": {
+        "name": "Tiempo Sin Piel",
+        "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
+      },
+      "artists": [
+        {
+          "name": "Surikata Ki",
+          "url": "https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7"
+        },
+        {
+          "name": "Ignacia",
+          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
+        }
+      ],
+      "duration_ms": 248700,
+      "name": "Tiempo Sin Piel",
+      "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
+    },
+    {
+      "added_at": "2023-05-05 23:28:35",
+      "album": {
         "name": "Affaire",
         "url": "https://open.spotify.com/album/2rcupujtoKYrUySHxUEsJt"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 247798,
       "name": "Extra\u00f1o ser",
       "url": "https://open.spotify.com/track/4mNa3w5AU70QSYzfls5ujK"
-    },
-    {
-      "added_at": "2023-05-05 23:28:35",
-      "album": {
-        "name": "Tiempo Sin Piel",
-        "url": "https://open.spotify.com/album/4zPQIbjtEJVPeXUZ1UIFSz"
-      },
-      "artists": [
-        {
-          "name": "Surikata Ki",
-          "url": "https://open.spotify.com/artist/7bwitWynogcb1LuOM02ln7"
-        },
-        {
-          "name": "Ignacia",
-          "url": "https://open.spotify.com/artist/4iRLbZ6V8scJryvHJrirlg"
-        }
-      ],
-      "duration_ms": 248700,
-      "name": "Tiempo Sin Piel",
-      "url": "https://open.spotify.com/track/1v934v2OwYtvdQTgNnpHfZ"
     },
     {
       "added_at": "2023-05-05 23:28:35",

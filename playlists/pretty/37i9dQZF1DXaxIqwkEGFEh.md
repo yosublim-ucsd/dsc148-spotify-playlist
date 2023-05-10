@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,387 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,534 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
-| 2 | [Chromosomes](https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX) | 2:31 |
-| 3 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
+| 1 | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/track/3xOEfEmsrLwf9jcG4gErdA) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Pissy \(feat\. Roddy Ricch, Nardo Wick\)](https://open.spotify.com/album/2dd8aKS08SH8ly3aNFpKl8) | 3:38 |
+| 2 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 |
+| 3 | [Chromosomes](https://open.spotify.com/track/2Elyauqg6bZmGr0fr48nbQ) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/6CStfhn3zZbyMbJ2o8CkkX) | 2:31 |
 | 4 | [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 |
 | 5 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 |
 | 6 | [Whip It](https://open.spotify.com/track/3TmwzKk7dOnMka3Q7NvGht) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR \(Deluxe\)](https://open.spotify.com/album/3NMpB1bl2kVyZSqMUN9F3I) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Ex Dealer Flow 2 \(feat\. Jeezy\)](https://open.spotify.com/track/3uQomGKwOomTBnuwWs9RGd) | [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Ghost Mode](https://open.spotify.com/album/5bEfOL1sP6CiGnWSCSAOlL) | 2:51 |
 | 100 | [Just Getting By](https://open.spotify.com/track/1PoBUMid74DdWs6CzlM2oL) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Never On Time](https://open.spotify.com/album/7ahn5M0aOm7w6vrgK8IIJq) | 2:44 |
 
-Snapshot ID: `MCw3YzM0MDgxNzExNWRjNDhmM2E5YjJkZTFkYTc3Njg4NDk5Nzk1MThl`
+Snapshot ID: `MCw2MTRiMDk4ODU5NzM3NTllNDEwNTc4Yjk2MDg0Y2IxYWY1NjgwODk2`

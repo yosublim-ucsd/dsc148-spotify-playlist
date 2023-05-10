@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The hottest tunes in rock\. Crank it up! Cover: grandson
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,168 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,334 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 68 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 |
 | 69 | [The King](https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The King](https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6) | 5:34 |
 | 70 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 |
-| 71 | [Kool](https://open.spotify.com/track/2lgUEHBeAM9b0gpkwzLW6H) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Kool](https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv) | 2:11 |
+| 71 | [Kool](https://open.spotify.com/track/5j8B7LSCepVPnwUrNB4pXt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:11 |
 | 72 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 |
 | 73 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 |
 | 74 | [Lifetime](https://open.spotify.com/track/19dNZyDyw00aKgr6S0Os6e) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [EXPLOSIONS](https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 99 | [you're not special](https://open.spotify.com/track/6Mc1snn8uClt3FzkUREymB) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [you're not special](https://open.spotify.com/album/7vvGNS9MRPrzfi0cHbDeQC) | 2:46 |
 | 100 | [Waiting On The Sky To Change](https://open.spotify.com/track/5qMSuD0mfQVQSA0CjifBi0) | [STARSET](https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Waiting On The Sky To Change](https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn) | 4:04 |
 
-Snapshot ID: `MCxlZGE2ZjI3MjkyYmUwZDgwM2NjNzU1OTliN2VjMjgyYTFjMTkxMjll`
+Snapshot ID: `MCw4MGI0MTAxNTE5M2JhNTk3NmNiOTU3OGM5M2E4NmRiZGE3YTAwMDMw`

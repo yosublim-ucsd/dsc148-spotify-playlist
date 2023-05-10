@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 471453,
+  "num_followers": 471461,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTE2NGJjODYzZmQ5ZWZmYzEzNjY2OWI4MGE5MTY4YTc2Mjk2ZGI3",
+  "snapshot_id": "MCxjODMyMGVjYWYwZWRmMDJlYWM5MzMzZDE2N2NmZDdkMzU1NjUzNzI4",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "As I Rise",
+        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 140741,
+      "name": "As I Rise",
+      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "NUDES",
         "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 190470,
       "name": "Anti-Hero - Country Version",
       "url": "https://open.spotify.com/track/3d8XudkDMa3bH7SnEdpwDF"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "As I Rise",
-        "url": "https://open.spotify.com/album/46CZFGYq5QHOkeSG92vgV9"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 140741,
-      "name": "As I Rise",
-      "url": "https://open.spotify.com/track/0RDKLBngMSnIi5ZTnXaw4j"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "A Long December",
+        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 260812,
+      "name": "A Long December",
+      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 237013,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/3OvHirYV8mduJlkjwttxbo"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "A Long December",
-        "url": "https://open.spotify.com/album/4FSXo1nSy4io1w2NUfxMJt"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 260812,
-      "name": "A Long December",
-      "url": "https://open.spotify.com/track/5MbfStLnmOTHdAc9cftGyR"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 193671,
+      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
+      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Uummati Attanarsimat (Heart of Glass)",
         "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
       },
@@ -1151,22 +1167,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Other People's Songs Volume One",
-        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
+        "name": "To Emmylou",
+        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
       },
       "artists": [
         {
-          "name": "Damien Jurado",
-          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
-        },
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 184693,
-      "name": "Hello Sunshine",
-      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
+      "duration_ms": 173714,
+      "name": "Prayer in Open D",
+      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1187,18 +1199,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "To Emmylou",
-        "url": "https://open.spotify.com/album/75ix8IKKYtfXppQ9SqoWKr"
+        "name": "Other People's Songs Volume One",
+        "url": "https://open.spotify.com/album/6sedkUKN10b6Md5CyGI9On"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        },
+        {
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
         }
       ],
-      "duration_ms": 173714,
-      "name": "Prayer in Open D",
-      "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
+      "duration_ms": 184693,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5T9LtP6vTj0vGBRHwmWheX"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 251760,
       "name": "All the Best",
       "url": "https://open.spotify.com/track/0fCpCpJbkcbN0Gxv68U6M0"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1jd6rbYgVc4EoGEVhi3QF9"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam (Recorded at Spotify Studios NYC)",
-      "url": "https://open.spotify.com/track/4nxqNGWbm9RYDFvNhrM9rY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
+      },
+      "artists": [
+        {
+          "name": "Korey Dane",
+          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
+        }
+      ],
+      "duration_ms": 274185,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
-      },
-      "artists": [
-        {
-          "name": "Korey Dane",
-          "url": "https://open.spotify.com/artist/3exi2bRixIA3McekDcw1Jf"
-        }
-      ],
-      "duration_ms": 274185,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Mr. Bojangles",
+        "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 243448,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "There Is A War [Feat. Kevin Morby & Sam Cohen]",
         "url": "https://open.spotify.com/album/0lk3T7UZlCQBhVZeizAWbP"
       },
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1695,18 +1695,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Mr. Bojangles",
-        "url": "https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC"
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 243448,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP"
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1727,6 +1743,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Cheers",
         "url": "https://open.spotify.com/album/2GiTle0hAv3No98jIKe9pb"
       },
@@ -1739,22 +1771,6 @@
       "duration_ms": 246722,
       "name": "Cheers",
       "url": "https://open.spotify.com/track/0ZWylHSASM1tHUiPy5ob48"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1787,22 +1803,6 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "This Land Is Your Land",
-        "url": "https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 220621,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Tea, Milk & Honey",
         "url": "https://open.spotify.com/album/7KHSCUxZ8MYOBnu6lOJpVX"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "This Land Is Your Land",
+        "url": "https://open.spotify.com/album/6egKGbJYX9n7YJhUBDibh9"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 220621,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/4UtOOzXrtDa7G4gecQptuf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/4orDzkPsSJkrAilIccQasl"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 260040,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Something",
+        "url": "https://open.spotify.com/album/4orDzkPsSJkrAilIccQasl"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA"
     }
   ],
   "unique_name": "Folksy Covers",

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: Chromeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,989 likes - 75 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,029 likes - 75 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
+| 1 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
 | 2 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 |
 | 3 | [Night by Night](https://open.spotify.com/track/5bgYTzUDzerRFN7fp86MkQ) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Business Casual](https://open.spotify.com/album/7iZU6KMPD0iT7QqtMkTmL1) | 3:45 |
 | 4 | [Heartbreaker \(feat\. John Legend\)](https://open.spotify.com/track/3xwm0faDUX5DQxvNVpawjB) | [MSTRKRFT](https://open.spotify.com/artist/2squZ8HjM4AzR0j6jsPn4a), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Fist of God](https://open.spotify.com/album/1DnzLOrLqOGgyqQdrt5ize) | 3:12 |
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 13 | [Pop The Glock](https://open.spotify.com/track/0fotWs4R5dPWw7YnJEtRw0) | [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Sex Dreams And Denim Jeans](https://open.spotify.com/album/53mU2L8Ngi8zFAD9JoXNqx) | 3:30 |
 | 14 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 |
 | 15 | [Zombies!](https://open.spotify.com/track/3BxBeWuefRTDxzNy5qFG5H) | [Designer Drugs](https://open.spotify.com/artist/57cAxOmmlpgjNDQovRUuXA) | [Zombies! / Back Up in This](https://open.spotify.com/album/6L75qyadavEpgZJkNtxFJZ) | 4:46 |
-| 16 | [Bonkers](https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 2:57 |
-| 17 | [I Think I Like It](https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Fix Your Accent](https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0) | 5:35 |
-| 18 | [Crimewave](https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:18 |
+| 16 | [Shooting Stars](https://open.spotify.com/track/0UeYCHOETPfai02uskjJ3x) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46) | [Bag Raiders \(Deluxe\)](https://open.spotify.com/album/6zVi5jNALX1GeD3MxiFmqo) | 3:55 |
+| 17 | [Bonkers](https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC) | 2:57 |
+| 18 | [I Think I Like It](https://open.spotify.com/track/5cPcd6pLrpDVmKnonjd3EQ) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Fix Your Accent](https://open.spotify.com/album/1kL1IqyXcsRJ54J5WyTjK0) | 5:35 |
 | 19 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
 | 20 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 |
 | 21 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 57 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
 | 58 | [Signatune \- Thomas Bangalter Edit](https://open.spotify.com/track/0mbN6sStNZ9yb2twaffP20) | [DJ Mehdi](https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun) | [Lucky Girl](https://open.spotify.com/album/4nPSFdPtaZwp7oyy5bTumn) | 6:19 |
 | 59 | [Banquet \- Phones Disco Edit](https://open.spotify.com/track/3ZQK3zrHOHFZtgvIL6W2eW) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm Remixed](https://open.spotify.com/album/73gLi25b8sQukoOreAL9x5) | 5:24 |
-| 60 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
-| 61 | [Time To Realize](https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 3:30 |
+| 60 | [Time To Realize](https://open.spotify.com/track/7mjNEIhe8lRG9sbwM5su3M) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764) | [Chapter One](https://open.spotify.com/album/5F00Gf428CfhyD0TGxAZFi) | 3:30 |
+| 61 | [Mars](https://open.spotify.com/track/59psl7nHl2qbUbht6mTeWp) | [Fake Blood](https://open.spotify.com/artist/6NaTOhsj6iiUNONPrE980Z) | [Mars](https://open.spotify.com/album/3AybLunP9HeRxlcmYzJJ7B) | 4:21 |
 | 62 | [Cornelius](https://open.spotify.com/track/4LnYDT25GCV0za9cuzhzOI) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 4:13 |
 | 63 | [Black & Gold](https://open.spotify.com/track/6aMTBaxY2A1GbvO4tFanxF) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Sam Sparro](https://open.spotify.com/album/1gYtav3PWh8I8bXZLs6SgR) | 4:34 |
 | 64 | [Discotirso](https://open.spotify.com/track/2wPFKEHst1xNzoOa9qvN3B) | [Knightlife](https://open.spotify.com/artist/5NteBfpzjcVerc1OK9XelJ) | [II](https://open.spotify.com/album/2wBocslSoTkKR57uvqkdhf) | 4:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 74 | [Do I Look Like a Slut \- Original Mix](https://open.spotify.com/track/3HO7khnC1Ixt0gLNqdYUtt) | [Avenue D](https://open.spotify.com/artist/07vquvD3jE2VQShcu6V4fL) | [Do I Look Like a Slut?](https://open.spotify.com/album/3POpYIOM1cRRCJbOAHyXbz) | 4:55 |
 | 75 | [I Get Around \- Midnight Juggernauts Remix](https://open.spotify.com/track/5JMD9oFmIh4PsVbTygcMB6) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [Midnight Juggernauts](https://open.spotify.com/artist/2tGIh9kwbXuko0z3BTldBx) | [Kitsuné Maison Compilation 4](https://open.spotify.com/album/3cp2LC6H6viFxFsoZw9CBQ) | 5:55 |
 
-Snapshot ID: `MCw4Zjc5N2ZkNDJkYmYxMDNiOGM0Y2YyOTI5OTA4NTcwMGQwNTkyMWM2`
+Snapshot ID: `MCxhMDZmM2FmZGJiZDFjZjc3MDJhNmFjNTU5NTA2ZmEyNTVlYWQzZjVl`

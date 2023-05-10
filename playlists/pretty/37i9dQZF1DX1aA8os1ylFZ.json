@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 230273,
+  "num_followers": 230326,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmY0ODczYTQwYWMzNDhkMDcyNmVmYzMyMjgwODQxNjZkYmYxNWM2",
+  "snapshot_id": "MCwyZTM5YTU2NTY3YjVlODJkM2I4MGI4NTg0MmM4ZTEwYjBiZTM2NDUw",
   "tracks": [
     {
       "added_at": "2023-05-08 14:13:50",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 171019,
-      "name": "ANGOSTURA",
-      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "Heart On My Sleeve (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 206429,
       "name": "This Is",
       "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 171019,
+      "name": "ANGOSTURA",
+      "url": "https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "listen up (Radio Edit)",
-        "url": "https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 108949,
-      "name": "listen up - Radio Edit",
-      "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 218320,
       "name": "How (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
+        "name": "listen up (Radio Edit)",
+        "url": "https://open.spotify.com/album/7oK78X0LqZqzVpU4N7Rvz9"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 108949,
+      "name": "listen up - Radio Edit",
+      "url": "https://open.spotify.com/track/3cVhTgUF4R97T7LJqWLOYP"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "Get Away",
-        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "What I Didn\u2019t Tell You (Deluxe)",
         "url": "https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 162188,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/2SUQ7JvEtKtPwkyKQMsr0q"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
+        "name": "Get Away",
+        "url": "https://open.spotify.com/album/2Sll2aUvBGz49Ig5bYbWuK"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
+        "name": "Queen Space (with Summer Walker)",
+        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 230841,
+      "name": "Queen Space (with Summer Walker)",
+      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
         "url": "https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS"
       },
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 193789,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152574,
-      "name": "Plot Twist",
-      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152574,
+      "name": "Plot Twist",
+      "url": "https://open.spotify.com/track/17hfTG2AmDsmt2KmBVhV6d"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
         "name": "Three Dimensions Deep",
         "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "Out of Touch",
-        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1259,18 +1239,22 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
         }
       ],
-      "duration_ms": 196641,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
+      "duration_ms": 212574,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 196641,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/3UCgE70SIwy0s4zoXPn7gY"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
         "name": "Goofy",
         "url": "https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW"
       },
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "On Lock",
         "url": "https://open.spotify.com/album/59ig3e6AiguuU9sdiXcy1i"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
         "name": "Bubble",
         "url": "https://open.spotify.com/album/3HOhTyKfISCPdz1cdhWuye"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 195240,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/7JT1xrV4ixSAGYPcR6FwWB"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
         "name": "Man Makes Plans",
         "url": "https://open.spotify.com/album/4EoRSfnvTlf6iofV9L23PC"
       },
@@ -1483,22 +1483,6 @@
       "duration_ms": 169311,
       "name": "Drunk Tank",
       "url": "https://open.spotify.com/track/4NZmBeRHvRSl79EkOj3pBH"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1523,6 +1507,22 @@
       "duration_ms": 208000,
       "name": "Open - Remix",
       "url": "https://open.spotify.com/track/7aXpFdZ8WIvpSmvu1AW5X7"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
+        "name": "SASSY (Deluxe)",
+        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 129666,
+      "name": "Spoon & Bang",
+      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2023-05-08 14:13:50",
       "album": {
-        "name": "SASSY (Deluxe)",
-        "url": "https://open.spotify.com/album/2FBmbNR9eJ6BY4QIWBRI38"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 129666,
-      "name": "Spoon & Bang",
-      "url": "https://open.spotify.com/track/65fTruLlZlBtPiZuEFUFN7"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
         "name": "Candydrip (Deluxe)",
         "url": "https://open.spotify.com/album/6AKGzvNhum0xFrnYnYzDXL"
       },
@@ -1635,26 +1635,6 @@
       "duration_ms": 284893,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
-    },
-    {
-      "added_at": "2023-05-08 14:13:50",
-      "album": {
-        "name": "Just Expectationz",
-        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
-      },
-      "artists": [
-        {
-          "name": "Azekel",
-          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
-        },
-        {
-          "name": "Ivy Sole",
-          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
-        }
-      ],
-      "duration_ms": 228877,
-      "name": "Just Expectationz",
-      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
     },
     {
       "added_at": "2023-05-08 14:13:50",
@@ -1675,6 +1655,26 @@
       "duration_ms": 195976,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/3XD2WOmair7ks4u65FTL4v"
+    },
+    {
+      "added_at": "2023-05-08 14:13:50",
+      "album": {
+        "name": "Just Expectationz",
+        "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
+      },
+      "artists": [
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        },
+        {
+          "name": "Ivy Sole",
+          "url": "https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu"
+        }
+      ],
+      "duration_ms": 228877,
+      "name": "Just Expectationz",
+      "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
     },
     {
       "added_at": "2023-05-08 14:13:50",

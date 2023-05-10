@@ -1,12 +1,12 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 1555563,
+  "num_followers": 1556079,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWM4M2YwNTFiNDk0YTc3MWY5ZjJjYTRmZTZkNjk4ZDE5NTFkZTkw",
+  "snapshot_id": "MCxlNGI5MDdjNGE1ZDZhMGI4NmI0MTZmNDkyZTUwMzdhMjE3NDY3YzY4",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -719,22 +719,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "King Snipe",
-        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+        "name": "Bops",
+        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 214593,
-      "name": "King Snipe",
-      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
+      "duration_ms": 128666,
+      "name": "Bops",
+      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -771,22 +767,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "I'M THAT BITCH",
-        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 152043,
-      "name": "I'M THAT BITCH",
-      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -815,18 +811,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Bops",
-        "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
       "artists": [
         {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 128666,
-      "name": "Bops",
-      "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hell Yeah",
         "url": "https://open.spotify.com/album/1xOSJRyVoXb7wlEJatx5Ow"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 168160,
       "name": "Hell Yeah",
       "url": "https://open.spotify.com/track/0jQ4mEnWB1AuSVqnFLhxT6"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
-      },
-      "artists": [
-        {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/1tIgeZloeOtSJrVx9WiArC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "IN DIMES WE TRUST",
+        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        }
+      ],
+      "duration_ms": 151285,
+      "name": "NO TRENDS",
+      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Conceited (feat. Lola Brooke & Maiya The Don)",
         "url": "https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5"
       },
@@ -1287,18 +1303,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "IN DIMES WE TRUST",
-        "url": "https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF"
+        "name": "Bussin",
+        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
       },
       "artists": [
         {
-          "name": "Mike Dimes",
-          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 151285,
-      "name": "NO TRENDS",
-      "url": "https://open.spotify.com/track/1R7IfLjtJ4B9kqjIqaEeVf"
+      "duration_ms": 136760,
+      "name": "Bussin",
+      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1319,26 +1339,6 @@
       "duration_ms": 148855,
       "name": "Twin (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5B40Td13cDQ4adeAiLf8Z4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Bussin",
-        "url": "https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 136760,
-      "name": "Bussin",
-      "url": "https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Back On My Baby Jesus Sh!t AGAIN",
+        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 94520,
+      "name": "ROOF",
+      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Wow. (Remix)",
         "url": "https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Back On My Baby Jesus Sh!t AGAIN",
-        "url": "https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B"
+        "name": "Straightenin",
+        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
-      "duration_ms": 94520,
-      "name": "ROOF",
-      "url": "https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs"
+      "duration_ms": 255532,
+      "name": "Straightenin",
+      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 186200,
       "name": "Love For The Streets",
       "url": "https://open.spotify.com/track/7k5lDslyLbcykzUOPGEdKR"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Straightenin",
-        "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 255532,
-      "name": "Straightenin",
-      "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
     },
     {
       "added_at": "2023-05-05 04:00:00",

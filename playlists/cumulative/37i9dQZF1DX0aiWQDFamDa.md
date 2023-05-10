@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-268 songs - 22 hr 23 min
+269 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,11 +152,12 @@
 | [Lonnie's Lament](https://open.spotify.com/track/4m16y4HrVSk9N60oHNZBqI) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Crescent](https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp) | 11:47 | 2022-05-18 | 2023-03-18 |
 | [Losing You](https://open.spotify.com/track/20QthMrVYk5Ji64YFRdZJC) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2z72SdeVR3kLHOp9I2zS4S) | 3:24 | 2022-06-29 | 2022-08-27 |
 | [Losing You](https://open.spotify.com/track/4EyL9JMzL8TPBWqGiPfgtQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Interlude](https://open.spotify.com/album/2P3V9N2u2JNGDKXbDU0weF) | 3:24 | 2022-05-18 | 2022-07-29 |
+| [Lousanne](https://open.spotify.com/track/0h0viT2OPpnxwzlwBmbEkU) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [Lousanne](https://open.spotify.com/album/7mMtf6zUZvZjY1o3XguazB) | 3:19 | 2023-05-04 |  |
 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 | 2022-05-18 | 2023-03-18 |
 | [Lover Man](https://open.spotify.com/track/4Xe3z7dPzInaIhNbv1MjCf) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jeremy Steig](https://open.spotify.com/artist/0ffBb2SCAQzfwrs1PoYSiW) | [Bill Evans For Lovers \(Deluxe Edition\)](https://open.spotify.com/album/7ospq6FzP9bz1B6LfGBB0c) | 6:21 | 2022-05-18 | 2022-09-02 |
 | [Madrigal](https://open.spotify.com/track/3u4BpjWcxvAJNcW4AgRPFj) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Madrigal](https://open.spotify.com/album/3g7XP0N3nxkDmmKfvRYEo7) | 3:15 | 2023-02-16 |  |
 | [Maybe You'll Be There](https://open.spotify.com/track/3CtayjiEM7bB0XMAtlLCsS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Look Of Love](https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3) | 5:30 | 2022-05-18 | 2022-08-27 |
-| [Melancholee \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 6:14 | 2022-05-18 |  |
+| [Melancholee \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/7evUA1KCKUv2cAxRU0hVDI) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Search For The New Land \(Rudy Van Gelder Edition/2000 Remastered\)](https://open.spotify.com/album/6NmykD5FJftiDWqjWlwKfr) | 6:14 | 2022-05-18 | 2023-05-10 |
 | [Midnight midtown](https://open.spotify.com/track/23SM99bJ0j6IejFfLXkUoA) | [Nordic Swing](https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4) | [Midnight midtown](https://open.spotify.com/album/0zCX7YfKIsb7SmiDl93KZi) | 4:33 | 2022-11-10 | 2022-12-24 |
 | [Miles and Miles](https://open.spotify.com/track/6EjkHR4gYfNQjWwoyiCTbh) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Miles and Miles](https://open.spotify.com/album/1Gl5EDLgmZ5qFglvsJUCSX) | 4:31 | 2022-11-10 | 2022-12-08 |
 | [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 | 2022-12-23 |  |

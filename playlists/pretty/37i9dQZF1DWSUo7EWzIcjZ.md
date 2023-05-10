@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Johnny Ventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,558 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,624 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 68 | [Noches de Fantasía](https://open.spotify.com/track/2f2k0KjxqB9p1e6scnkRh9) | [Merengue Latin Band](https://open.spotify.com/artist/6CfAyHRZimRXEFeC7Tcseo) | [Merengue Passion](https://open.spotify.com/album/4TSbaYA6NamAkS11pQGV67) | 4:30 |
 | 69 | [Yo Soy Asi](https://open.spotify.com/track/7hgNJBaN3BmxMIGtVHoBvm) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Exitos Inolvidables de Benny Sadel](https://open.spotify.com/album/0Lj9QPARe6Fr2vJZqmYUq2) | 3:38 |
 | 70 | [Gotas De Pena](https://open.spotify.com/track/0VEHjnxsd8ItIRv9eIDbvg) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [El Maestro Con Sus 16 Exitos](https://open.spotify.com/album/4kiSXrCgg4AukLYDFQCuuJ) | 4:32 |
-| 71 | [¡Ay Doctor!](https://open.spotify.com/track/0WiXmhgxvudybPq4htELpo) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Arrasando Con Todo ¡Ay Doctor!](https://open.spotify.com/album/5938ac4vSf3QB2rJpWTAbi) | 5:04 |
+| 71 | [Es Lo Que Pide...](https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:43 |
 | 72 | [Jenny](https://open.spotify.com/track/5uLGkinVFCTlB4BaqUveE2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Y Mas](https://open.spotify.com/album/2i8ck7yEbr1MCqzKeJckke) | 4:08 |
-| 73 | [Es Lo Que Pide...](https://open.spotify.com/track/4jaU9paYfr39pw8lqozNfW) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:43 |
+| 73 | [¡Ay Doctor!](https://open.spotify.com/track/0WiXmhgxvudybPq4htELpo) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Arrasando Con Todo ¡Ay Doctor!](https://open.spotify.com/album/5938ac4vSf3QB2rJpWTAbi) | 5:04 |
 | 74 | [Dame Veneno](https://open.spotify.com/track/7a4f6P95wEvMyHmksWgpDU) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 4:16 |
 | 75 | [El Gusto](https://open.spotify.com/track/5zEnd7eyGNLNRSoU6NiMUK) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/0clBuxkS9kO7gKLpxU93Qu) | 5:04 |
 | 76 | [El Cantante del Amor](https://open.spotify.com/track/5RPWLHocWVJxJlDNH96YJn) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 3:48 |
@@ -121,12 +121,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 111 | [Faltaste A La Cita](https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg) | [Nando Galan](https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 4:27 |
 | 112 | [Cuando Me Enamora](https://open.spotify.com/track/1aZJr8j1ohkai58pEAImxA) | [Angelito Villalona](https://open.spotify.com/artist/5hgBIdemm7387ucuVt3Gul) | [La Gozadera](https://open.spotify.com/album/7q1Je0pbosmOx0cQq2ubKK) | 4:05 |
 | 113 | [Esa Loca](https://open.spotify.com/track/2icXGdgNtEVvSw7uHCFBXu) | [Miriam Cruz](https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL) | [Siempre Diva](https://open.spotify.com/album/33KbyTdwcz7jwntBp7svfb) | 4:03 |
-| 114 | [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 |
-| 115 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |
+| 114 | [Te Compro Tu Novia](https://open.spotify.com/track/3n30H2cexSzXGCxbAb8mF4) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Fiesta Latina](https://open.spotify.com/album/2QB6lzbYjwCmzWliRTPSau) | 4:25 |
+| 115 | [Enamorar](https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [16 Exitos de Sandy Reyes](https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi) | 4:05 |
 | 116 | [De Que Manera Te Olvido](https://open.spotify.com/track/4kXP9pHrqMpPHOMJdIWu6k) | [Jochy Hernandez](https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231) | [Es Mejor Decir Adios](https://open.spotify.com/album/18YYQe5VRMW0ol0TuXIe2k) | 5:17 |
 | 117 | [Hipocresía](https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 5:15 |
-| 118 | [Te Odio y Te Quiero](https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 3:26 |
-| 119 | [La Varita](https://open.spotify.com/track/2zp5lkyP0FPbCOxBdiYT4h) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:10 |
+| 118 | [La Varita](https://open.spotify.com/track/2zp5lkyP0FPbCOxBdiYT4h) | [Aramis Camilo](https://open.spotify.com/artist/2uXrtZz6GmQnXEJR1eh97C) | [Merengues Limpio](https://open.spotify.com/album/771HsH0BQNvh1S8iYiX1Ss) | 4:10 |
+| 119 | [Te Odio y Te Quiero](https://open.spotify.com/track/14L7HV9ybYWOTD784H3oxy) | [Rubby Pérez](https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx) | [Buscando Tus Besos](https://open.spotify.com/album/1l02hyM8dkgdC3ujkxiBmT) | 3:26 |
 | 120 | [Tu Eres Mi Embra](https://open.spotify.com/track/7xaIDbXG8PpotUv7ym2V2N) | [Monchy Capricho](https://open.spotify.com/artist/0R8lrNHlo9m4xovk3wbBua) | [Capricho](https://open.spotify.com/album/6rByF9R6prjXdNFwawHP3q) | 4:49 |
 | 121 | [Dominicano Ausente](https://open.spotify.com/track/19McMfrjItYsAIu8Cx3pcc) | [El Zafiro Carlos Manuel & Orquesta](https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6) | [Con el Alma](https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA) | 3:49 |
 | 122 | [Feliciana](https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8) | [Los Hijos Del Rey](https://open.spotify.com/artist/6GzYE02GejB3ufs6CaW2Ou), [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu), [Robert JeanD'or](https://open.spotify.com/artist/6I2TsnwUL8n5hLrRUDb8g0) | [Todos Exitos, Vol\. 1](https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs) | 4:51 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 149 | [Caminando por la Vida](https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu) | [Confusion](https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE) | [Merengues Clásicos de los 80´s, Vol\. 3](https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv) | 5:16 |
 | 150 | [Cuando Llegara](https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb) | [La Gran Manzana](https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF) | [Merengues Clásicos de los 80's, Vol\. 1](https://open.spotify.com/album/6a2IqhC6p4EExbsoMrYpso) | 4:12 |
 
-Snapshot ID: `MCwwMjczZWZlNDhmMjMxYWZmNjcyMzBiYTJkNWMyZGM5MDhjYjExNjYz`
+Snapshot ID: `MCxhZjg1OTMyMjNlNjU1MjljODgxNjEwNzc5NjYxMzhiYWNmNmJjZjFk`

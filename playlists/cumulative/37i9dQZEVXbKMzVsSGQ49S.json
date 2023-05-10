@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 136586,
       "name": "10 AF 10",
       "url": "https://open.spotify.com/track/504OgplAqStvOQuwnlI9lp"
@@ -8551,6 +8551,24 @@
     },
     {
       "album": {
+        "name": "Heart of Steel (Eurovision Version)",
+        "url": "https://open.spotify.com/album/0jGnnA1n6iYtDq1fOxMfgx"
+      },
+      "artists": [
+        {
+          "name": "TVORCHI",
+          "url": "https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158461,
+      "name": "Heart of Steel - Eurovision Version",
+      "url": "https://open.spotify.com/track/155yInH5aDNEI1MkcX6NNk"
+    },
+    {
+      "album": {
         "name": "TAKE TIME",
         "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
@@ -9778,7 +9796,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 129802,
       "name": "I AM HiM",
       "url": "https://open.spotify.com/track/2J4n7gDyygM33Y9QAzY0Fh"
@@ -18214,7 +18232,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -23541,6 +23559,28 @@
     },
     {
       "album": {
+        "name": "Who the Hell Is Edgar?",
+        "url": "https://open.spotify.com/album/0Pc0YjphyuqsZbeHJq7AJ0"
+      },
+      "artists": [
+        {
+          "name": "TEYA",
+          "url": "https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI"
+        },
+        {
+          "name": "SALENA",
+          "url": "https://open.spotify.com/artist/5uoK1zfpi48x9aKAM8x6pt"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "Who the Hell Is Edgar?",
+      "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
+    },
+    {
+      "album": {
         "name": "Halloween Night in the Forest",
         "url": "https://open.spotify.com/album/7K6uBf6GdWusWtFZ77gABw"
       },
@@ -24362,7 +24402,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 222600,
       "name": "\u00c1STIN M\u00cdN",
       "url": "https://open.spotify.com/track/1yx2RxOMtkjEeBfc2EfLsV"

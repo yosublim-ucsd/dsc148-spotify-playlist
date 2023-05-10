@@ -4,7 +4,7 @@
 
 > The most known Afro\-pop classics, all in one place! Cover: <a href="spotify:artist:18RkLKfeoUgZflWv9os25W">Miriam Makeba</a>
 
-59 songs - 5 hr 48 min
+60 songs - 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Greetings](https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9) | [Joni Haastrup](https://open.spotify.com/artist/4Mp7yETSzhsOZt0lm4TaRu) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 6:13 | 2019-06-28 |  |
 | [Guitar Boy](https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU), [His Titibitis](https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm) | [The Best Of Victor Uwaifo, Vol\. 1](https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD) | 5:53 | 2019-06-28 | 2022-11-13 |
 | [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 | 2019-06-28 | 2022-11-13 |
+| [Heaven](https://open.spotify.com/track/1KT0sltdhzB2LxfS0GM8Uq) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/6qSmpM356gfbFMpy97f2JF) | 6:05 | 2019-06-28 |  |
 | [Heaven](https://open.spotify.com/track/2GNzKVnqNE1E6VcHn9QjH7) | [Ebo Taylor](https://open.spotify.com/artist/1yDtHakLGMYiERfsHbXiv7) | [Afro Tropical Soundz, Vol\. 1](https://open.spotify.com/album/65bFwgGVr8WOlERe4kt5Gz) | 6:05 | 2019-06-28 | 2023-04-30 |
 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 | 2019-06-28 |  |
 | [In Your Eyes \- Live](https://open.spotify.com/track/4eaCU2oPnksTeuwsQmFr12) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1vJ8rCzq6BJtKGz9Yf6oT3) | 10:38 | 2019-06-28 |  |
@@ -58,7 +59,7 @@
 | [Special Star](https://open.spotify.com/track/1xMFHgilbKXS02lMSBlDvZ) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/5snC2QWALNCAMl7FW521yb) | 5:53 | 2020-04-07 | 2022-09-25 |
 | [Special Star](https://open.spotify.com/track/549xBLH0dGz2e2jDultQQH) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/30DrlbUcoHdqSwOrtpTNu3) | 5:53 | 2020-04-07 | 2022-10-14 |
 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 | 2020-04-07 |  |
-| [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 | 2019-06-28 |  |
+| [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 | 2019-06-28 | 2023-05-10 |
 | [Thathi Sgubu](https://open.spotify.com/track/6ue7mX2VMfHzMXYzjXDGiP) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 5:20 | 2020-04-07 |  |
 | [The Warrior](https://open.spotify.com/track/1xjSFzaiaA1XCMyvq5fJKl) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/6bHGRYoRt21wn95Dlz4YSU) | 3:44 | 2019-06-28 |  |
 | [Theresa](https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 5:39 | 2019-06-28 |  |

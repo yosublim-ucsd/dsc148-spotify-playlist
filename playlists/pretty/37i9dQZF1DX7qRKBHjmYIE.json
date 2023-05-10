@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Nicole Horts",
-  "num_followers": 747791,
+  "num_followers": 747792,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTM3NGEzZTllMThmNzNkNTBmMGM4Mjk3ZmRjMjUyNDEwOTZhYzk3",
+  "snapshot_id": "MCw3MDUyZWMxZmJiOTE1MzRlNDJiODE5YmI0ZjM5NTRhODE4ZjhmNjg3",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Ribbons",
-      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 222346,
       "name": "serotonina",
       "url": "https://open.spotify.com/track/0cvNgL1H2mrGMxYZJmagUP"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 197653,
+      "name": "Ribbons",
+      "url": "https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "en la ciudad",
-        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "d\u00f3ntia",
-          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "en la ciudad",
-      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "DE REVERSA",
         "url": "https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B"
       },
@@ -743,6 +723,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "en la ciudad",
+        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "d\u00f3ntia",
+          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "en la ciudad",
+      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Let Me Down Slow",
         "url": "https://open.spotify.com/album/7oTuz8OVNUqLSjRzjRubwz"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Entremundos",
-        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 205911,
-      "name": "Entremundos",
-      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "SI ME ELEVO",
         "url": "https://open.spotify.com/album/5x1uFs84xX2MnzCaB7Uvkr"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 142222,
       "name": "te di mi luz",
       "url": "https://open.spotify.com/track/66xdsJEW1KSeWi2rFmB7QF"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Entremundos",
+        "url": "https://open.spotify.com/album/5FOPdtLOMGEqGd47N3np4X"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 205911,
+      "name": "Entremundos",
+      "url": "https://open.spotify.com/track/1usku2SDrwW0738LbRyGkk"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "LOS FELIZ",
         "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 203157,
       "name": "Miel <3",
       "url": "https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Futuro",
-        "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 242374,
-      "name": "Futuro",
-      "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "No Puedo Olvidarte",
         "url": "https://open.spotify.com/album/07zsPKA92ljSmL6X6jNE4Y"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 207576,
       "name": "No Puedo Olvidarte",
       "url": "https://open.spotify.com/track/1n6HUdzct5wsH4xUvPgwnF"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "buena vista!",
+        "url": "https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv"
+      },
+      "artists": [
+        {
+          "name": "Ariel & The Culture",
+          "url": "https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4"
+        }
+      ],
+      "duration_ms": 175007,
+      "name": "t\u00fa y yo",
+      "url": "https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4"
     }
   ],
   "unique_name": "Mixto",

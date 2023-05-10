@@ -542,7 +542,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 160624,
       "name": "Belle Chose",
       "url": "https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY"
@@ -708,7 +708,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 115815,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3N3BWrupDuvM7ZKbNO534V"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 146504,
       "name": "Evenfall",
       "url": "https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 214400,
       "name": "Flirting Youths",
       "url": "https://open.spotify.com/track/0Y859fXJjBPZgUQPGOAgGQ"
@@ -1558,6 +1558,24 @@
       "duration_ms": 179250,
       "name": "Foreigners",
       "url": "https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/38TwtRxD4Jolu2W9nwUKs6"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127026,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/5XEqILE72L66tQ6IQHTxJX"
     },
     {
       "album": {
@@ -2530,7 +2548,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 147374,
       "name": "Lekko",
       "url": "https://open.spotify.com/track/6hg8132jlk9fZsSbfpdmGR"
@@ -5068,6 +5086,24 @@
       "duration_ms": 279325,
       "name": "Vals a 2",
       "url": "https://open.spotify.com/track/3izkAvP68zr2SYvgWSzLN9"
+    },
+    {
+      "album": {
+        "name": "Valse Naturelle",
+        "url": "https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD"
+      },
+      "artists": [
+        {
+          "name": "Etienne Balestre",
+          "url": "https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139624,
+      "name": "Valse Naturelle",
+      "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Varinder Brar
 
-109 songs - 5 hr 21 min
+110 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Jatt Da Nishana](https://open.spotify.com/track/6N9A8SUlqnGQghsclChU5x) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:29 | 2023-03-29 | 2023-04-21 |
 | [Jatt Life Zone](https://open.spotify.com/track/6V3RLScZlL8Bim7KyqW2cA) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Jatt Life Zone](https://open.spotify.com/album/5VdJWuu3ixHuZsqpMrkbUa) | 3:17 | 2023-03-29 |  |
 | [Jatt Naal Yaari](https://open.spotify.com/track/2P3foCzLxJPobVTVzQGIQ7) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jatt Naal Yaari](https://open.spotify.com/album/6q2iZjYKWC4gNHfb6C6cHr) | 3:00 | 2023-03-29 | 2023-04-25 |
+| [Jatta Ve](https://open.spotify.com/track/7oWnaeVhCW0cqypHaOOJ1u) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Guri Singh](https://open.spotify.com/artist/4tHWvy5DmCGSp8oIzFalUH) | [Jatta Ve](https://open.spotify.com/album/3eRh8KRPybLy4wDDnUnYBi) | 2:52 | 2023-05-09 |  |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2023-03-29 |  |
 | [Jhoonte](https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Jhoonte](https://open.spotify.com/album/0MXIzksYo12EZKYQiGC8KT) | 2:30 | 2023-04-03 | 2023-04-21 |
 | [Look At Me](https://open.spotify.com/track/3Om27K297aRPV9I5GRw9F7) | [Karn Sekhon](https://open.spotify.com/artist/3xOt6ZsKiyP9p8hmFNiYNz), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Look At Me](https://open.spotify.com/album/7ArPNvpEQHvUPb7tqBAd6s) | 2:25 | 2023-04-26 | 2023-05-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,625 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,760 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 48 | [Phantom 309](https://open.spotify.com/track/2IVpJWwVPGlfSeZ4uXgGb3) | [Red Sovine](https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf) | [Phantom 309](https://open.spotify.com/album/6QZ4vYqDJzcbBf4HaBkMJV) | 3:29 |
 | 49 | [Little Green Apples \- Single Version](https://open.spotify.com/track/30jEnUWPJIt6zh25s2Kbh0) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [A Tender Look At Love](https://open.spotify.com/album/3Vlcvce8W9eBIyNoOBQXCy) | 2:36 |
 | 50 | [Jackson \(with June Carter Cash\)](https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Keep On the Sunny Side \- June Carter Cash: Her Life In Music](https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN) | 2:46 |
-| 51 | [Does My Ring Hurt Your Finger](https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Country Way](https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta) | 2:17 |
-| 52 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
+| 51 | [Welcome to My World](https://open.spotify.com/track/4xpjtAqc46tg04BzHTZnz2) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [The Essential Jim Reeves](https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA) | 2:32 |
+| 52 | [Does My Ring Hurt Your Finger](https://open.spotify.com/track/6VUXsWN3aNqEhaPawlFjep) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Country Way](https://open.spotify.com/album/0mMQCBMVvGhDx5Kfu3Fwta) | 2:17 |
 | 53 | [It's Such A Pretty World Today](https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F) | [Wynn Stewart](https://open.spotify.com/artist/0ZnXSl6jvNavoEpJ5I5AdE) | [Lost Country Hits of the 60s](https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto) | 2:30 |
 | 54 | [Devil Woman](https://open.spotify.com/track/58ojWS1EGL6z5rEOELtJmH) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 2:52 |
 | 55 | [Let's Have A Party](https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 99 | [Wine Me Up](https://open.spotify.com/track/2QS8C4T3H1hYpnADMpq8Uz) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [Hello Walls](https://open.spotify.com/album/1wkRC5qOr6uz5lbOZNcFfL) | 2:24 |
 | 100 | [Statue Of A Fool](https://open.spotify.com/track/6mYIZzGhfj9z1TJNL6ZhYh) | [Jack Greene](https://open.spotify.com/artist/14h0UcPJlGYv5Qrjp7m1jQ) | [Sings His Best](https://open.spotify.com/album/5T41fC09ilKmDfREcWeQrW) | 2:52 |
 
-Snapshot ID: `MCxhY2RiMTM1OTlkY2IxMDgzZTM5ODE1YmUwMDBiNTVhMDMxYjhjNjk2`
+Snapshot ID: `MCxlZTk4MjIyMmZlOGJlOTcyNTBkY2NhNWM5MWM1NGZjMWM1NzM5MTQx`

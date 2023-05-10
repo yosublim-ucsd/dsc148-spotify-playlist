@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: aespa\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,988 likes - 51 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,987 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 |
-| 2 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 |
+| 1 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
+| 2 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 |
 | 3 | [Illusion](https://open.spotify.com/track/396FqjKmViUZ92Wmm4rx3i) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 3:15 |
 | 4 | [PINK YOUR MOMENT](https://open.spotify.com/track/0Z4g9s48umnsfDYGKj7jOT) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [PINK YOUR MOMENT](https://open.spotify.com/album/0XJXxqADyzn0ed4QbTvsBD) | 2:57 |
 | 5 | [Expectations](https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Expectations](https://open.spotify.com/album/3T6Xy6iJPpYmawK2LmJWFF) | 3:09 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 50 | [That's all I have to do \(with Yoonhansol\)](https://open.spotify.com/track/1W1ISJ1PLQeimOCEqeflKP) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 4:34 |
 | 51 | [Because \(with KIMmM\)](https://open.spotify.com/track/3uYip19DHKDCRyPMipa2jX) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [KIMmM](https://open.spotify.com/artist/2G6OGPNjCA2OmUAeVD8lFN) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:46 |
 
-Snapshot ID: `MCw0ZTRiNjRkYTE4NTljZmI3ZWVjNWIxZmM3ZTQ1N2ZlNWFmY2Y0OTUw`
+Snapshot ID: `MCwwMzJlZWM3MjgzYzE5ZTllZTA4MzhhZTRjOWU3MDU3Zjg3ZmFlMjE0`

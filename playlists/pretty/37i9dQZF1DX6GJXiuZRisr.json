@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1477791,
+  "num_followers": 1478064,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmRmOGY1ZmQ3ODZlMDBlODgyNjNkZWM5ODhiYTIyZjdlODQzNmZj",
+  "snapshot_id": "MCwyYWFmOGFiNDkwNzRiOGFlODE3NzQwOTdhYTJjOTFjZDZiYjdmMGU5",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -315,18 +315,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+        "name": "Weightless (jamesjamesjames Remix)",
+        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
       },
       "artists": [
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "jamesjamesjames",
+          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+      "duration_ms": 249779,
+      "name": "Weightless - jamesjamesjames Remix",
+      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -355,26 +363,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Weightless (jamesjamesjames Remix)",
-        "url": "https://open.spotify.com/album/5la1PqKrf6aVJeIlL6i1lv"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
       "artists": [
         {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "jamesjamesjames",
-          "url": "https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 249779,
-      "name": "Weightless - jamesjamesjames Remix",
-      "url": "https://open.spotify.com/track/0OOT6JmtkcYidsuQ9Fh54i"
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0"
       },
@@ -911,22 +931,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
       "artists": [
         {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
         },
         {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
         }
       ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -991,26 +1011,6 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1119,30 +1119,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
-      },
-      "artists": [
-        {
-          "name": "Ytram",
-          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
-        },
-        {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 168319,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "It's Ours",
         "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
       },
@@ -1179,6 +1155,30 @@
       "duration_ms": 158192,
       "name": "Love Run Out",
       "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
+      },
+      "artists": [
+        {
+          "name": "Ytram",
+          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 168319,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "To The Ground",
+        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "duration_ms": 233440,
+      "name": "To The Ground",
+      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/2tDkKv4Np1nZp8qDGBrwjz"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 234960,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/7u7RMMynAINKO3iMS0s0pZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "To The Ground",
-        "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
-      },
-      "artists": [
-        {
-          "name": "Matt Fax",
-          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
-        }
-      ],
-      "duration_ms": 233440,
-      "name": "To The Ground",
-      "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Midnight / Equal",
-        "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Alison May",
-          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
-        }
-      ],
-      "duration_ms": 480000,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
       },
@@ -1711,22 +1691,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+        "name": "Midnight / Equal",
+        "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
       },
       "artists": [
         {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
         },
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Alison May",
+          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+      "duration_ms": 480000,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1747,6 +1727,26 @@
       "duration_ms": 224978,
       "name": "All I Want (feat. Goatchy)",
       "url": "https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+      },
+      "artists": [
+        {
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Kensh\u014d",
-        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
-      },
-      "artists": [
-        {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Kensh\u014d",
-      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Discopolis 2.0 (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/69RPZXcg3PGWRsWWiP4Mds"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 182400,
       "name": "Discopolis 2.0 - MEDUZA Remix",
       "url": "https://open.spotify.com/track/1zu8sQCLjW5jtzf7JVpGop"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Kensh\u014d",
+        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
+      },
+      "artists": [
+        {
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+        }
+      ],
+      "duration_ms": 220161,
+      "name": "Kensh\u014d",
+      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
     },
     {
       "added_at": "2023-05-05 04:00:00",

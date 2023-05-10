@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Niall Horan
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,771,679 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,771,574 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 99 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 100 | [Dance Dance \(feat\. Alessandra\)](https://open.spotify.com/track/2UzWIjVXtv8PLa5JRKPYSb) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Alessandra](https://open.spotify.com/artist/5g1AQDQ0LUBpgZBmmuH88c) | [Dance Dance \(feat\. Alessandra\)](https://open.spotify.com/album/0ZG7ELXwpcPfZTZlbBW5TN) | 2:31 |
 
-Snapshot ID: `MCw5M2U4NTk2Y2NlNWRhM2Y0ZGY5NDQ1MDFiYWE2YjgyNDhmYzVhMDkx`
+Snapshot ID: `MCwzMTc5MTQxOWM2Mzg1MDkwM2MzMmRjOTdiMGNhM2MzZTM0MjZjY2Yz`

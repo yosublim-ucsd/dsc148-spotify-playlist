@@ -1,12 +1,12 @@
 {
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
-  "num_followers": 208245,
+  "num_followers": 208534,
   "original_name": "80s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGJkOWNjOGY5ZDIwOTE5NTExODE0NjNmNDk5ZDFhYzg5NDQ4MmM3",
+  "snapshot_id": "MCwzMjBkOGJhYWJkODljZDJjYTE0OTlhNzM3ZWRmZTQ5ZGM0YzI3MTM5",
   "tracks": [
     {
       "added_at": "2021-03-16 22:32:51",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
+        "name": "Introduce Yourself",
+        "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 243600,
+      "name": "We Care a Lot",
+      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
         "name": "Flesh & Blood",
         "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "Nobody's Fool",
-      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -603,18 +603,18 @@
     {
       "added_at": "2021-03-16 22:32:51",
       "album": {
-        "name": "Introduce Yourself",
-        "url": "https://open.spotify.com/album/0kBy2KA6BuCWveFo88VmMX"
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
       },
       "artists": [
         {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 243600,
-      "name": "We Care a Lot",
-      "url": "https://open.spotify.com/track/2z1uVu3OwTmPlfqt5TWk5k"
+      "duration_ms": 287400,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
     },
     {
       "added_at": "2021-03-16 22:32:51",
@@ -713,38 +713,6 @@
       "url": "https://open.spotify.com/track/6Fba9RZtC6vTY814JToDtP"
     },
     {
-      "added_at": "2022-06-29 17:56:03",
-      "album": {
-        "name": "Winger",
-        "url": "https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo"
-      },
-      "artists": [
-        {
-          "name": "Winger",
-          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
-        }
-      ],
-      "duration_ms": 245266,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
-    },
-    {
-      "added_at": "2021-03-16 22:32:51",
-      "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 235733,
-      "name": "Gypsy Road",
-      "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
-    },
-    {
       "added_at": "2021-03-16 22:32:51",
       "album": {
         "name": "Pride",
@@ -763,6 +731,22 @@
     {
       "added_at": "2022-06-29 17:56:03",
       "album": {
+        "name": "Winger",
+        "url": "https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo"
+      },
+      "artists": [
+        {
+          "name": "Winger",
+          "url": "https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874"
+        }
+      ],
+      "duration_ms": 245266,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9"
+    },
+    {
+      "added_at": "2022-06-29 17:56:03",
+      "album": {
         "name": "Eat 'Em and Smile",
         "url": "https://open.spotify.com/album/0Ali88C44gQdI065upsgKU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234706,
       "name": "Yankee Rose",
       "url": "https://open.spotify.com/track/5Fh5nmTu6TEk0ze8QAU7og"
+    },
+    {
+      "added_at": "2021-03-16 22:32:51",
+      "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 235733,
+      "name": "Gypsy Road",
+      "url": "https://open.spotify.com/track/2F8Glc7r4mHHSCEegD4Ju1"
     },
     {
       "added_at": "2021-03-16 22:32:51",

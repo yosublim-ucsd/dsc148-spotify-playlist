@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5727,
+  "num_followers": 5729,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzNlMjY2NTg2ZWU4MzJjZmJkZGFmMWIzZjg4MGM4YzA2ZDA1YmVk",
+  "snapshot_id": "MCwxYmJiNzZiYjYxYjg0NDEzMzFkZTkwNmZiMjFkYmI5NjNmYmQ4NTQ1",
   "tracks": [
     {
       "added_at": "2023-05-05 08:16:27",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
-      },
-      "artists": [
-        {
-          "name": "YURA",
-          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
-        }
-      ],
-      "duration_ms": 233059,
-      "name": "Pearl",
-      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "because I'm stupid?",
         "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 151453,
       "name": "because I'm stupid?",
       "url": "https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3"
+      },
+      "artists": [
+        {
+          "name": "YURA",
+          "url": "https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6"
+        }
+      ],
+      "duration_ms": 233059,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/1m8GgkDxECNCVgRTFikwMX"
       },
@@ -739,18 +755,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2L572virNeJpe4X8SAVbQ1"
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
       "artists": [
         {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
         }
       ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -767,22 +783,6 @@
       "duration_ms": 176759,
       "name": "20MIN",
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Je N\u2032aime Que Toi",
-        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Je N\u2032aime Que Toi",
-      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Kangaroo",
-        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 225903,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -855,22 +839,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "Like A Film : 4 Songs",
         "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
       },
@@ -883,6 +851,38 @@
       "duration_ms": 226000,
       "name": "Smile, Wait For The Flash",
       "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Kangaroo",
+        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

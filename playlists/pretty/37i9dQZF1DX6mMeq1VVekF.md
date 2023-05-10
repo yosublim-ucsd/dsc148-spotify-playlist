@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jim Legxacy
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,411 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,453 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 54 | [July](https://open.spotify.com/track/1aUJc88f1y0vsC93U1DbGk) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [MIDNIGHT PHUNK](https://open.spotify.com/artist/4ALqqxZGxXSP8g10Q1xvWI) | [The Silhouettes Project](https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL) | 3:13 |
 | 55 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 56 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 |
-| 57 | [Im Workin \(feat\. Jorja Smith\)](https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 5:19 |
-| 58 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
+| 57 | [The Gang](https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [The Gang](https://open.spotify.com/album/605XKaVg1al5g8F2FwSlSN) | 2:33 |
+| 58 | [Im Workin \(feat\. Jorja Smith\)](https://open.spotify.com/track/4cqjB1MFbHYmCzN6ENAbOV) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Now Or Never](https://open.spotify.com/album/5REuIeh4EBrkU0Nrz3n5jT) | 5:19 |
 | 59 | [Eden \- From “Black History Always / Music For the Movement Vol\. 2"](https://open.spotify.com/track/61gjdUMePfAOD5p0gnGvfv) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Eden \(From “Black History Always / Music For the Movement Vol\. 2"\)](https://open.spotify.com/album/4yxSZ0Qm7wPKw5cvREXiyA) | 3:19 |
 | 60 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 
-Snapshot ID: `MCxhNDc4OTMxN2Y4MWFjZWRhYjFkNTU1ZTRkZGM0OGE0OGY5ZTBmYTVm`
+Snapshot ID: `MCw4MDMzZjUzMjlhNTZiZjNkYThmZDE4ZjgyZGE3ZDQ0MzJjMzY5YTYw`

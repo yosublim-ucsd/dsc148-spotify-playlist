@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Lil Baby, DaBaby, and more\. Cover: Gucci Mane
 
-2,780 songs - 5 day 9 hr 42 min
+2,781 songs - 5 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2161,6 +2161,7 @@
 | [Self Worth \(feat\. Lil Perco\)](https://open.spotify.com/track/6IhYveUZOkd1dVuE1mdX5N) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [Lil Perco](https://open.spotify.com/artist/1zBajAbkG72h752UzxeUAB) | [Vultures Don't Kry](https://open.spotify.com/album/1ZD7JYrhxigRGhjzpPzEJ3) | 2:52 | 2022-08-19 | 2022-08-27 |
 | [Selfish](https://open.spotify.com/track/6pARo6B8MqnsSd3WfOG0fM) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd), [SSGKOBE](https://open.spotify.com/artist/0Bthg9M0URs88I9KaYIdBd) | [For The Better](https://open.spotify.com/album/2LxLmgk1knP6GXgunLMmtV) | 3:02 | 2022-06-17 | 2022-06-25 |
 | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/track/3qVGGk6cIJOvIMQhIXl7sE) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/album/3webAmY4mW31UWVXzWA26o) | 2:09 | 2022-05-27 | 2022-06-04 |
+| [SELLIN CRACK \(feat\. Offset\)](https://open.spotify.com/track/4n5vrfS3mYdxiEz0ODBnlL) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [CALL DA FIREMAN](https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL) | 2:04 | 2023-05-09 |  |
 | [Send My Bitch](https://open.spotify.com/track/2wnoErv6VZkoWJ63a6PkR0) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Vier](https://open.spotify.com/album/4ygFnoFAaK7itvJnopevQO) | 2:00 | 2022-07-29 | 2022-08-06 |
 | [SENSES](https://open.spotify.com/track/2uMFTGz3NkRBhUpfj9THfp) | [Henny Hermes](https://open.spotify.com/artist/4b0ZS6ycwwhZvMOdhIqJHy) | [SENSES](https://open.spotify.com/album/3DfUfm2Ps8mLBOcrAYgnXT) | 2:31 | 2022-09-16 | 2022-09-24 |
 | [SentRock](https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [SentRock](https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro) | 2:50 | 2023-04-28 | 2023-05-06 |

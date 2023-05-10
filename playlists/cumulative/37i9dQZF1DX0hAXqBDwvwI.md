@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-616 songs - 1 day 16 hr 40 min
+618 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [BLOODY STREAM](https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw) | [Coda](https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n) | [BLOODY STREAM](https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW) | 4:21 | 2022-07-28 |  |
 | [blooming](https://open.spotify.com/track/6An8U3MjTePqA3kdpRKVt1) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [blooming](https://open.spotify.com/album/3pBafqCDpTd30E0j4Xuky6) | 3:26 | 2022-06-24 | 2022-07-04 |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2022-07-28 |  |
+| [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-05-09 |  |
 | [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2022-06-03 | 2023-01-18 |
 | [Brand new diary](https://open.spotify.com/track/1NDpxm2rXBs9xCuKjcrknw) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Brand new diary / まほうのかぜ](https://open.spotify.com/album/3amd7Ciz9s1KIksBdoGXZB) | 4:08 | 2022-06-14 | 2022-07-26 |
 | [Break](https://open.spotify.com/track/4hWhNL4cLfhLrt4Un3pdMG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Break](https://open.spotify.com/album/7heQ4Bz4LxGNSln7Z7uoPp) | 4:53 | 2022-06-21 | 2022-07-18 |
@@ -550,7 +551,7 @@
 | [火炎](https://open.spotify.com/track/3xVCQGla5LLhrwqNS2FcHo) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [Fire \(Full Edition\)](https://open.spotify.com/album/74Ml5uN949WSHheLQxgaeB) | 3:35 | 2022-07-28 | 2022-09-16 |
 | [灯日](https://open.spotify.com/track/5shTlJsofq6UMl93Q4BwDZ) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [灯日](https://open.spotify.com/album/4IG5QN4PXjTZBsGTlPzggG) | 3:15 | 2022-06-24 | 2022-07-27 |
 | [灰色のサーガ](https://open.spotify.com/track/2prKFbvl9cvM2IKDB1twOi) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [灰色のサーガ](https://open.spotify.com/album/2jZ60kmYUrfI8X5ozmXi25) | 3:32 | 2022-07-26 | 2022-07-28 |
-| [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-03 |  |
+| [炎](https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [炎](https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY) | 4:35 | 2022-06-03 | 2023-05-10 |
 | [無心拍数 \- アオアシ ver.](https://open.spotify.com/track/5PfEiDJQNLsk0XCZ0GH1FJ) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [無心拍数 \(アオアシver.\)](https://open.spotify.com/album/59Cuih5G9jnGF2Qs5WrmvH) | 3:30 | 2022-07-28 | 2022-09-16 |
 | [無敵☆moment](https://open.spotify.com/track/2goljoDnqomoNJJ2p3riqj) | [Peaky P\-key](https://open.spotify.com/artist/2y2OpuI8DOIoELH8NEqd6D) | [無敵☆moment](https://open.spotify.com/album/19PpDv8I45mvefli1Nuwdx) | 4:53 | 2022-07-14 | 2022-07-25 |
 | [熱情のスペクトラム](https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:43 | 2022-07-28 | 2023-01-04 |
@@ -571,6 +572,7 @@
 | [空に歌えば](https://open.spotify.com/track/3XKMO7tvyyUmxRvlJGhYQm) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [地方都市のメメント・モリ](https://open.spotify.com/album/5H70NIneu6i4h5LKIG9TH6) | 3:37 | 2022-07-28 | 2022-09-16 |
 | [突破口](https://open.spotify.com/track/481beimUiUnMUzSbOAFcUT) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [突破口 / 自慢になりたい](https://open.spotify.com/album/7leiGT0C2C6iTwyfzOVBqB) | 4:15 | 2022-06-03 | 2022-07-28 |
 | [窓を開けて](https://open.spotify.com/track/4TwD0lFw27wyvl3ZmHV9Vi) | [CIEL](https://open.spotify.com/artist/3br9le9sNFSVAVBDTjdOn4) | [窓を開けて](https://open.spotify.com/album/3BPnbO888UkvL18f3Sdj9s) | 3:36 | 2022-06-03 | 2022-07-26 |
+| [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 | 2023-05-09 |  |
 | [箱庭の幸福](https://open.spotify.com/track/1OCE0YptdrXn8h31fzkwT2) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/1Ln2bsxA0nLjlsMtsoS4R2) | 4:55 | 2022-06-03 | 2022-07-15 |
 | [約束](https://open.spotify.com/track/3wE3rGZpYYvOPPE6r0Dtp8) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [約束](https://open.spotify.com/album/5snHlvUPqmmv3wB0M7QWcv) | 4:56 | 2022-06-03 | 2022-07-29 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 |  |
@@ -600,7 +602,7 @@
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-14 | 2022-07-25 |
 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 | 2022-06-03 | 2022-10-19 |
 | [轍\~Wadachi\~](https://open.spotify.com/track/0AuEHmUQAMbqf9hrXBQcuT) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [轍\~Wadachi\~](https://open.spotify.com/album/5IgvSUIyXgrR0cvpcOVqho) | 3:42 | 2022-06-03 | 2022-06-13 |
-| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 |  |
+| [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 | 2022-10-19 | 2023-05-10 |
 | [透明](https://open.spotify.com/track/6HM9odeh1TcxBlkghy69iO) | [Mamoru Miyano](https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X) | [透明](https://open.spotify.com/album/7atpOizmkOdg4GtPTjhjrZ) | 3:50 | 2022-06-03 | 2022-07-24 |
 | [透明な世界](https://open.spotify.com/track/6MjG6j8Iuea6XL9cp1aUec) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [透明な世界](https://open.spotify.com/album/5UIoqGhZcqn5XFa1CwWx7I) | 4:03 | 2022-06-03 | 2022-07-27 |
 | [道楽心情](https://open.spotify.com/track/5sFRbi81LzEk9ENVUVs81h) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [道楽心情](https://open.spotify.com/album/0U7oKS8tnOvaeDlBilqYX7) | 3:49 | 2022-06-24 | 2022-06-27 |

@@ -4,7 +4,7 @@
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-274 songs - 16 hr 6 min
+275 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,8 @@
 | [Prisoner](https://open.spotify.com/track/1UIcUADr3ueN31xSnEuJuD) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Who You Selling For](https://open.spotify.com/album/3AZEkfskdyarjKUJKVgKHS) | 3:00 | 2020-12-11 | 2022-07-29 |
 | [Prisoner](https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Who You Selling For](https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA) | 3:00 | 2022-06-17 |  |
 | [Raise Hell](https://open.spotify.com/track/02Msss3kY3GSGgeY8oUGMF) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Raise Hell](https://open.spotify.com/album/0igXZxXbAV5a5EkVcQdlxb) | 3:01 | 2020-12-11 | 2022-02-03 |
-| [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-09-23 |  |
+| [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 | 2022-10-07 |  |
+| [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 | 2022-09-23 | 2023-05-10 |
 | [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-07-22 |  |
 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 | 2022-06-13 |  |
 | [Remember the Taker](https://open.spotify.com/track/59n8RDNnJn29BTFaPTIRZy) | [The Steepwater Band](https://open.spotify.com/artist/2TgTMg8jrIQjJ3uWkLw93J) | [Clava](https://open.spotify.com/album/5N08hT5K9KObeFZHiaz1p1) | 6:10 | 2020-12-11 |  |

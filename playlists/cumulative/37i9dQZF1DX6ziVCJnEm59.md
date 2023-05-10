@@ -4,7 +4,7 @@
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 
-274 songs - 16 hr 23 min
+275 songs - 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,7 +280,8 @@
 | [Without a Light](https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Without a Light](https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR) | 2:22 | 2023-01-05 |  |
 | [Woandering](https://open.spotify.com/track/1bjqyTv5A06p8yGIG8KoeJ) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/3cD3DhLcRjllMz8otD9F2X) | 3:44 | 2019-09-29\* | 2022-07-29 |
 | [Woandering](https://open.spotify.com/track/5E9uahV1IHYZ4qyJMvgpkp) | [I Am Oak](https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe) | [Our Blood](https://open.spotify.com/album/5oY9X7jA6A3JFUmSrRjvvQ) | 3:44 | 2022-06-06 |  |
-| [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-12-14 |  |
+| [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 | 2023-04-12 |  |
+| [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 | 2022-12-14 | 2023-05-10 |
 | [You And I \- Moon And Stars / Acoustic](https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [You And I \(Moon And Stars / Acoustic\)](https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C) | 3:20 | 2021-12-13 |  |
 
 \*This playlist was first scraped on 2019-09-29. Prior content cannot be recovered.

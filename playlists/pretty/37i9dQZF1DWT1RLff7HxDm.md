@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Jackie Venson
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,718 likes - 60 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,777 likes - 60 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 50 | [Crying For My Baby](https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Live\-Spontaneous Combustion](https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb) | 4:41 |
 | 51 | [Stoop Down Baby \- Live](https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad and Beautiful \(Live\)](https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2) | 5:50 |
 | 52 | [Red Light \- Live](https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Live at the Ryman](https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1) | 10:15 |
-| 53 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 |
+| 53 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
 | 54 | [Diamonds & Gold \- Live](https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Straight To You: Live](https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc) | 6:27 |
-| 55 | [Freedom](https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp) | [Tony Spinner](https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z) | [Live In Europe](https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf) | 3:50 |
+| 55 | [Mr Luck \(feat\. Mick Taylor\) \- Live](https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK), [The Ronnie Wood Band](https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE), [Mick Taylor](https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY) | [Mr\. Luck \- A Tribute to Jimmy Reed: Live at the Royal Albert Hall](https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW) | 7:06 |
 | 56 | [Step By Step \- Live](https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA) | [Eugene Hideaway Bridges](https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY) | [Live In Tallahassee](https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG) | 3:32 |
 | 57 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 | 58 | [Pocket Full of Dust \(Live\)](https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW) | [Dave Fields](https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf) | [Unleashed](https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28) | 8:17 |
 | 59 | [I'm In The Mood \- Live](https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [I'm In The Mood \(Live\)](https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS) | 4:08 |
 | 60 | [True Lies \- Live](https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Live in Chicago](https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa) | 5:54 |
 
-Snapshot ID: `MCw4N2M4NDVhYzUyMDVhODQyYWFiYzQwMWViYTdkYjYxMjkwMWU1YTk4`
+Snapshot ID: `MCwyNGNlYTEwOWZkZGM5MjFhM2JiZmJiZjk5ZGYzNTAzY2EyYzRjOGZm`

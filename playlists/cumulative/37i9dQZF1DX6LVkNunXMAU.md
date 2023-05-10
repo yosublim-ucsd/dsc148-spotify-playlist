@@ -4,10 +4,11 @@
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Luz Pinos
 
-166 songs - 9 hr 15 min
+167 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2:42](https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ) | [SANTACRUZ](https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2) | [2:42](https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O) | 2:51 | 2023-05-09 |  |
 | [31 de Febrero](https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [31 de Febrero](https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp) | 3:09 | 2022-05-20 | 2023-04-15 |
 | [6 Am](https://open.spotify.com/track/4jLdQovU5ocprshd0eCaDO) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [6 Am](https://open.spotify.com/album/4u1iJcba94747cyq7u9OxX) | 3:26 | 2022-05-20 | 2022-08-27 |
 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 | 2022-11-11 |  |
@@ -48,7 +49,7 @@
 | [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 | 2022-05-20 |  |
 | [Coronita](https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Coronita](https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms) | 3:43 | 2022-05-20 |  |
 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 | 2022-05-20 | 2023-04-15 |
-| [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 |  |
+| [CTM](https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [CTM](https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC) | 3:21 | 2022-05-20 | 2023-05-10 |
 | [Cualquiera](https://open.spotify.com/track/3YJLwVJ2sJaAQFYc74ZNZN) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Cualquiera](https://open.spotify.com/album/6qJpE4usHCDJsOwasJauTD) | 3:31 | 2022-11-11 |  |
 | [Cuando Estemos Solos](https://open.spotify.com/track/5O8nLq2WsBmn7NoBsTns6d) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Cuando Estemos Solos](https://open.spotify.com/album/2H5mxVSPzZ7gP9Gd26ArdS) | 3:13 | 2022-11-11 |  |
 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 | 2022-05-20 | 2022-08-27 |

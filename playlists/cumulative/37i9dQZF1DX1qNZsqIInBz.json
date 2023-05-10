@@ -1652,10 +1652,32 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 171152,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/4TixrVMeVgwh6VuIc7WjMr"
+    },
+    {
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/3CCeB3HbTc1UjhOEFBN2J2"
+      },
+      "artists": [
+        {
+          "name": "DVXRK",
+          "url": "https://open.spotify.com/artist/76ajlfoI4iJ83Ngcqod5Xv"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171181,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/3dEiXRHTDuBsG1C3An4aP2"
     },
     {
       "album": {

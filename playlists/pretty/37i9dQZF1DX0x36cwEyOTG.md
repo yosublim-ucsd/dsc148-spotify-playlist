@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,654 likes - 110 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,714 likes - 110 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 29 | [Homegrown](https://open.spotify.com/track/6LGoGD6GV9BadApTSaUqcv) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 4:02 |
 | 30 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 |
 | 31 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 32 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
-| 33 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
+| 32 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
+| 33 | [Ascend and Try Again](https://open.spotify.com/track/6ngeEvA6aq0e8f1KyGTTGR) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 2:13 |
 | 34 | [lesson](https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Mia Gargaret](https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7) | 1:37 |
 | 35 | [Words](https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 5:48 |
 | 36 | [Arrows](https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 2:29 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 45 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
 | 46 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |
 | 47 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
-| 48 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
-| 49 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 48 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
+| 49 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
 | 50 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
 | 51 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 52 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 54 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
 | 55 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 |
 | 56 | [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 |
-| 57 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 |
-| 58 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
+| 57 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
+| 58 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 |
 | 59 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 |
 | 60 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 |
 | 61 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 89 | [Clarence Difference](https://open.spotify.com/track/2LncPy3DNKutXIuRByB1ZL) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Clarence Difference](https://open.spotify.com/album/4e5asp6c0avCzVAg4vkEFI) | 3:57 |
 | 90 | [X\-Ray](https://open.spotify.com/track/0rOSE6B6ame2XNCzm4ZJQu) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Savage Hills Ballroom](https://open.spotify.com/album/2REi0vGs8rCaFms8lVwZzk) | 2:42 |
 | 91 | [Cloud Speed](https://open.spotify.com/track/33x5orlhgXWVIVCHnqfs8S) | [Sad Souls](https://open.spotify.com/artist/7AY92GzSGpzuFD6KHCytte) | [Apeiron](https://open.spotify.com/album/0QvZfXRFEBf5lzWmstHcn6) | 3:05 |
-| 92 | [Dark Clouds](https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Dark Clouds](https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8) | 3:30 |
-| 93 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 |
+| 92 | [Big Light](https://open.spotify.com/track/6Brl1KblZxDsOSgEuSHBuO) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [A Quiet Darkness](https://open.spotify.com/album/0PERfSHIEXbw9sNTxL4qgo) | 4:48 |
+| 93 | [Dark Clouds](https://open.spotify.com/track/0cVVoj6Iik6TTogJgcWJnJ) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Dark Clouds](https://open.spotify.com/album/42WblGGFxS4DtbpJLl8Ih8) | 3:30 |
 | 94 | [First Rain](https://open.spotify.com/track/3RoMEppHj4Q80lHLwFx0lp) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Themes for Dying Earth](https://open.spotify.com/album/23g4cu8Pp9yY2vTp3Wf96y) | 3:57 |
 | 95 | [The Magic Place](https://open.spotify.com/track/2DDEwBhKW7yvQJedcb9CT7) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Magic Place](https://open.spotify.com/album/4JW1OsBRpDNF23lDFPaFQ7) | 3:51 |
 | 96 | [Meadow Song](https://open.spotify.com/track/1XDGbnepd3c3kqYsy6E0fx) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:56 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 |
 | 110 | [Andalusia](https://open.spotify.com/track/75LdAXSmYSJkS2aVYBxxDW) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows..\. Living With the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS) | 7:42 |
 
-Snapshot ID: `MCwwMmE2YjA2ZjBhZGZmMzRjZWI5NzBhZGNlMmI0YTNjZmNmNjk2ZjQ3`
+Snapshot ID: `MCxhMjQ0NTE3ZTRlNDAxZWM1YzJjNzU1N2NiZTZjZTM0ZDZhZTE4MmZl`

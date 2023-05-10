@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-410 songs - 1 day 17 hr 35 min
+411 songs - 1 day 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Rush](https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Rush](https://open.spotify.com/album/21sXD23Pxw2SHuzf0ApnDI) | 3:07 | 2022-06-03 |  |
 | [Safe \- Joris Voorn Remix](https://open.spotify.com/track/2cVGCUx6xnmcdIz2Ns9OLw) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Safe \(Joris Voorn Remix\)](https://open.spotify.com/album/4E3pSvdTWyLs6K9saNu97L) | 4:54 | 2022-04-19 | 2022-06-18 |
 | [Sahara](https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Sahara](https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT) | 6:18 | 2022-08-19 | 2023-02-01 |
+| [Samum](https://open.spotify.com/track/4Jmid2ZZKHAyLhibaC3UvR) | [Woo York](https://open.spotify.com/artist/3F4cmqlG4wCV3aEZlHHO8p) | [Samum](https://open.spotify.com/album/0GLLdUvIwBuauWU6i1MWUp) | 3:14 | 2023-05-05 |  |
 | [Save Us](https://open.spotify.com/track/2gGs5GIOPRiQawcGVAEye3) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:30 | 2021-04-21 | 2022-07-22 |
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
@@ -349,7 +350,7 @@
 | [Swing \- Solomun Remix](https://open.spotify.com/track/4uzb1HhlygWVTlH18TlUwM) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Swing \(Solomun Remix\)](https://open.spotify.com/album/6pMAtljFLCdqpVNVLY0iwB) | 4:06 | 2022-05-27 | 2022-07-29 |
 | [Symphonic Fantasy](https://open.spotify.com/track/0BZxv1E9EqjwWQneH7zFYQ) | [Makebo](https://open.spotify.com/artist/0hMfbfkUs2tiOOZpSwLmDu), [Amonita](https://open.spotify.com/artist/1bpbyzXfwOMIBHq6y02Nqc) | [A Winter Sampler II](https://open.spotify.com/album/0m3OpCuqwyI3It73R2Gqwp) | 8:16 | 2021-04-21 | 2022-07-28 |
 | [Synthopia](https://open.spotify.com/track/71S7v0lVV56U2wYzBuhM0b) | [Guy J](https://open.spotify.com/artist/7Em4kWZ5atMYknHwSkp3gD) | [Synthopia / Cicada](https://open.spotify.com/album/5GieeeiYau5SSbD0C5FI8N) | 8:39 | 2021-04-21 | 2022-04-21 |
-| [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-21 |  |
+| [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 | 2023-04-21 | 2023-05-10 |
 | [Tantale](https://open.spotify.com/track/011mlIOhqipYb0bttQZnuX) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Ra\*faelle](https://open.spotify.com/artist/1j3ssAVlxEXuW9zikS7gfO) | [Tantale](https://open.spotify.com/album/0KguNfeAVd9Jyv5p4m65ao) | 8:35 | 2022-07-08 | 2022-07-29 |
 | [Tarantism](https://open.spotify.com/track/5YWJDRdl0kh913dc17ZkxI) | [YokoO](https://open.spotify.com/artist/45fzhLbHZdBIgOGQT6M5zr), [Retza](https://open.spotify.com/artist/4DcuYkIAYuHiWl0AOiY9Vy) | [Euneirophrenia EP](https://open.spotify.com/album/25q2hciAYKUzf7ShqviLFd) | 6:57 | 2021-04-21 | 2022-04-21 |
 | [Tarlabasi \- Be Svendsen Remix](https://open.spotify.com/track/41JWvOS6vhn2uANnUsKVEG) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Indoor Voyager EP](https://open.spotify.com/album/3909IHgEbjaOHcmPDZwAPM) | 9:05 | 2021-04-21 | 2022-06-06 |

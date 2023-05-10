@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
@@ -712,7 +712,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 208630,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 101818,
       "name": "Fiets",
       "url": "https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 128776,
       "name": "Green Green Grass - Sped-Up",
       "url": "https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 214455,
       "name": "Gyal You a Party Animal",
       "url": "https://open.spotify.com/track/6bOLRTULQUiXeVnxOIPZVA"
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 169813,
       "name": "Mad Love",
       "url": "https://open.spotify.com/track/6ImEBuxsbuTowuHmg3Z2FO"
@@ -1560,6 +1560,28 @@
       "duration_ms": 141343,
       "name": "Mad Love - Sped-Up Version",
       "url": "https://open.spotify.com/track/4R4kVENgrhlwymPZFxuhdK"
+    },
+    {
+      "album": {
+        "name": "DUMMY BOY",
+        "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206550,
+      "name": "MALA",
+      "url": "https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G"
     },
     {
       "album": {
@@ -1618,6 +1640,24 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "album": {
@@ -2036,7 +2076,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
@@ -2099,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "album": {
         "name": "Push Up EP",
         "url": "https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b"
       },
@@ -2128,7 +2186,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 240059,
       "name": "Push Up - Original Mix",
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
@@ -2314,6 +2372,36 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
+        "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
+        "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Soweto (with Don Toliver, Rema and Tempoe)",
+      "url": "https://open.spotify.com/track/25Kyv5SeEenT0EETpP2hYn"
     },
     {
       "album": {
@@ -2546,7 +2634,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 155643,
       "name": "Wat Is Er Gebeurd",
       "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
@@ -2686,6 +2774,24 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU"
+    },
+    {
+      "album": {
+        "name": "Zusje",
+        "url": "https://open.spotify.com/album/0SNid4vYygVVvwph9bueos"
+      },
+      "artists": [
+        {
+          "name": "Cheryl \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147765,
+      "name": "Zusje",
+      "url": "https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8"

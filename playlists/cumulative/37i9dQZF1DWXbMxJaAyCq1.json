@@ -130,7 +130,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 231708,
       "name": "2:50 Remix",
       "url": "https://open.spotify.com/track/74znaWw1hmQBusGPSOuTFy"
@@ -2448,16 +2448,16 @@
           "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
         },
         {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
         },
         {
           "name": "Bernier",
           "url": "https://open.spotify.com/artist/7AvLpOO8f4xJk24a2DeIOK"
         },
         {
-          "name": "Malito Malozo",
-          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
         }
       ],
       "date_added": "2023-05-05",
@@ -3174,7 +3174,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 243622,
       "name": "Instagram - Remix",
       "url": "https://open.spotify.com/track/6yMJejrOneyPtkDnrZkEVQ"

@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148321,
+      "name": "AL BORDE",
+      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
+    },
+    {
+      "album": {
         "name": "Alas Rotas",
         "url": "https://open.spotify.com/album/6Zii4FrSvlwpqI984JXuHI"
       },
@@ -2412,7 +2430,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 146086,
       "name": "Brinca",
       "url": "https://open.spotify.com/track/77z9iYnZxmx89VGgaKfbFh"
@@ -3905,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -4508,7 +4544,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 162624,
       "name": "Donde?",
       "url": "https://open.spotify.com/track/5iaGRmDzm4aPhttaOEK8OD"
@@ -5590,7 +5626,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 186015,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/2m6FuVpKUaDTekCZ90pMRV"
@@ -6362,7 +6398,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 183286,
       "name": "Gabbana",
       "url": "https://open.spotify.com/track/1zkoSIuTrvJ1N4Bfqn76B3"
@@ -7614,7 +7650,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 133829,
       "name": "I Know - PR1SVX Edit",
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
@@ -8824,7 +8860,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 143313,
       "name": "Lacoste",
       "url": "https://open.spotify.com/track/1T2mvgp81CeuMPogxytiFE"
@@ -11224,7 +11260,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
@@ -11674,10 +11710,28 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 110510,
       "name": "NARCISSISTIC PERSONALITY DISORDER",
       "url": "https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29"
+    },
+    {
+      "album": {
+        "name": "NARCISSISTICPERSONALITYDISORDER",
+        "url": "https://open.spotify.com/album/7vW1HMhMkyuDcGADlfM3PU"
+      },
+      "artists": [
+        {
+          "name": "FenoSkii",
+          "url": "https://open.spotify.com/artist/21vH6ZrmLrLiMTH6DqUgsC"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110510,
+      "name": "NARCISSISTICPERSONALITYDISORDER",
+      "url": "https://open.spotify.com/track/4Gh7On1O5VzyFJ1mpHqdOw"
     },
     {
       "album": {
@@ -13349,6 +13403,24 @@
     },
     {
       "album": {
+        "name": "Perfume - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
+      },
+      "artists": [
+        {
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -14360,7 +14432,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 231644,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
@@ -14452,10 +14524,28 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 239637,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3upTB6o5YgeALHgDp3mzte"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica para la inmensa minor\u00eda",
+        "url": "https://open.spotify.com/album/1csPvFOij9s12EohE7CbtC"
+      },
+      "artists": [
+        {
+          "name": "La Brigida Orquesta",
+          "url": "https://open.spotify.com/artist/4XbPmAuePPr3JhIoN6WNGP"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276876,
+      "name": "Qu\u00e9 tan arriba",
+      "url": "https://open.spotify.com/track/5vqtuGxoIMCrs1N0BlINcE"
     },
     {
       "album": {
@@ -14604,7 +14694,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 177412,
       "name": "REGALONA",
       "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
@@ -16356,7 +16446,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 181044,
       "name": "Su Altura",
       "url": "https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E"
@@ -17397,6 +17487,32 @@
     },
     {
       "album": {
+        "name": "COLABORACIONES",
+        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125026,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
+    },
+    {
+      "album": {
         "name": "Todo Mentira",
         "url": "https://open.spotify.com/album/6DnLVVNxEbvqpThiPxWwk9"
       },
@@ -17616,6 +17732,28 @@
       "duration_ms": 360323,
       "name": "Trains - Remastered",
       "url": "https://open.spotify.com/track/2iatXu415rxIRAQJ9dXWi5"
+    },
+    {
+      "album": {
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
     },
     {
       "album": {
@@ -18207,6 +18345,28 @@
     },
     {
       "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
         "name": "Una Cunumi (Remix)",
         "url": "https://open.spotify.com/album/3uZZPln5pd94l7A9ToAgqf"
       },
@@ -18600,6 +18760,28 @@
       "duration_ms": 213877,
       "name": "VENENO",
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
+    },
+    {
+      "album": {
+        "name": "Venga Pa' Ac\u00e1",
+        "url": "https://open.spotify.com/album/7L8D9kACIqQuMZfYRSICLu"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Venga Pa' Ac\u00e1",
+      "url": "https://open.spotify.com/track/6aiFYVWZZVVckJEfvdmiu8"
     },
     {
       "album": {
@@ -19684,6 +19866,24 @@
       "duration_ms": 212335,
       "name": "|BONKERS|",
       "url": "https://open.spotify.com/track/2G23H0snYYKYqRlyFvVObS"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "album": {

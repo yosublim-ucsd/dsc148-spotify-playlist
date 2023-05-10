@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,741 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,791 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,16 +44,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 34 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
 | 35 | [Quédate conmigo \- Eurovisión](https://open.spotify.com/track/2BSe0bFhNhDUXqyQbcGyFJ) | [Pastora Soler](https://open.spotify.com/artist/6nh96lsvDLuCVpgpfjeYnM) | [Carácter Latino 2012](https://open.spotify.com/album/5NiODkbnfFQxA05xlWYoMJ) | 3:04 |
 | 36 | [Te amaré, te amo, y te querré](https://open.spotify.com/track/7niuvgIISf1vGrnh00cVuQ) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Oraciones de amor](https://open.spotify.com/album/7LO9wG4cG5xUNC01xUVwdg) | 4:41 |
-| 37 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
-| 38 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
+| 37 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
+| 38 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
 | 39 | [Bandido](https://open.spotify.com/track/2rHhKu1hW8uqyr7LSrRn8E) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Bandido](https://open.spotify.com/album/4WkxTr5s8N6LLNscUyl3oW) | 3:02 |
 | 40 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 41 | [Se nos rompió el amor](https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Tan Solo Una Mujer](https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd) | 4:31 |
 | 42 | [Y se amaron dos caballos](https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [De siempre \- Antología de las sevillanas Vol\. 1](https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R) | 3:35 |
 | 43 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 |
 | 44 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
-| 45 | [Se Me Enamora el Alma](https://open.spotify.com/track/6FG8TkQCTo5TfOQ6bG5Fxf) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Pasion Y Deseo \(Sus Grandes Exitos De La Copla Y De La Balada Romantica\)](https://open.spotify.com/album/0RZu47C1vhpUs4QbWJunyg) | 5:05 |
-| 46 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
+| 45 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
+| 46 | [Se Me Enamora el Alma](https://open.spotify.com/track/6FG8TkQCTo5TfOQ6bG5Fxf) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Pasion Y Deseo \(Sus Grandes Exitos De La Copla Y De La Balada Romantica\)](https://open.spotify.com/album/0RZu47C1vhpUs4QbWJunyg) | 5:05 |
 | 47 | [Como Tu Mujer](https://open.spotify.com/track/48FyOW0CTVaPLFnWmOYDzB) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 4:25 |
 | 48 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
 | 49 | [Sevillanas de los Bloques](https://open.spotify.com/track/5I2t3LU5UTMdxc9sODCT1d) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Isidro Sanlucar](https://open.spotify.com/artist/3CmNkHj1gWBUw3ZKfRmm42), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Cristalitos Machacaos](https://open.spotify.com/album/1Ftarn4wOspiKUBODeu5Rj) | 3:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 69 | [Los Nardos](https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Pecado de Amor \(Original Motion Picture\)](https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq) | 3:31 |
 | 70 | [El relicario \- Remastered](https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El relicario \(Remastered\)](https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh) | 3:48 |
 
-Snapshot ID: `MCw0MzljODcyMGYzZWE0OTQ0MmI1MDBmNjRhN2EzOTZhNjhhNDViY2Mx`
+Snapshot ID: `MCw4OWMwMjc1MTZhZmUzMzU2NmViYTY2N2I2ZTQxOWUxMTBlZWY0MTcy`

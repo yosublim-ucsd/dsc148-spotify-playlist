@@ -252,6 +252,24 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136888,
+      "name": "20191009 I Like Her",
+      "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
+    },
+    {
+      "album": {
+        "name": "One Wayne G",
+        "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -2613,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263253,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0rwrb7euyHuIUMhrsQ7A1b"
+    },
+    {
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou"
       },
@@ -2624,7 +2660,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 263253,
       "name": "Believer",
       "url": "https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS"
@@ -17906,7 +17942,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-10",
       "duration_ms": 278760,
       "name": "Nothing's Free",
       "url": "https://open.spotify.com/track/5IyRSZy0R7UdweNISjf5qS"

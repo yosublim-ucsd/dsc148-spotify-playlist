@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Christian Nodal en portada.",
-  "num_followers": 562844,
+  "num_followers": 563356,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDE2M2U4MGY0ZjA3YTA5MjdlNzZhOTZmZDc5ZTM0NzkzOTM4MTg3",
+  "snapshot_id": "MCw3ZmExZThhNTkzYjI0NWZjZmE2NzA1NDY3M2NmZDYzNzI3YWY4ZTBk",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Ya Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -1191,6 +1191,46 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "JJ Araujo",
+          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
+        }
+      ],
+      "duration_ms": 128073,
+      "name": "Me Aceptaste - En Vivo",
+      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1215,22 +1255,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/6c9OpYLQ5un43FUvQELOlR"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "JJ Araujo",
-          "url": "https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 128073,
-      "name": "Me Aceptaste - En Vivo",
-      "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"
+      "duration_ms": 151486,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/1JhGcvVRdJoteIf56GkGwf"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -1275,26 +1311,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Tu Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/1p1LvWM0ysgMEPmK8paYm0"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Tu Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -1307,26 +1323,6 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
     },
     {
       "added_at": "2023-05-05 06:00:00",

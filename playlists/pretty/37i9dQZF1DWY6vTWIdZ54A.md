@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: The Blue Stones
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,959 likes - 145 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,049 likes - 145 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 11 | [Come Together](https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Come Together](https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC) | 3:13 |
 | 12 | [The Woods](https://open.spotify.com/track/5dzvsWBcAxt4onHIDYSDHz) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK), [Brad Wilk](https://open.spotify.com/artist/1kQiJ0OIEzwr1oVCSZ1Y6o) | [The Woods](https://open.spotify.com/album/1PJnVKmDtXcIT1zK3AE5Vn) | 2:53 |
 | 13 | [Talk & Walk](https://open.spotify.com/track/0BvFgXSJZ1irgFEbhHT5hc) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Talk & Walk](https://open.spotify.com/album/6jJpnrltVW9zHyfBSNk2FE) | 4:35 |
-| 14 | [Raised By Wolves](https://open.spotify.com/track/4lUubz3TMfHfQDJl0mAo2l) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:01 |
+| 14 | [Raised By Wolves](https://open.spotify.com/track/2dTp74IGy0E8kv1cSWUrAJ) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild \(Deluxe Edition\)](https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i) | 3:01 |
 | 15 | [Beauty](https://open.spotify.com/track/0j4FFgyRleA5IbWP4BmlIC) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Beauty](https://open.spotify.com/album/2xe0gTFgZok8BDgUlkpRQ6) | 3:40 |
 | 16 | [Lights of The City](https://open.spotify.com/track/5APY2t9RdWVJSg4jDObkip) | [Pink Mountaintops](https://open.spotify.com/artist/1g58rJkJZVaUGMUTHTZmYi) | [Lights of The City](https://open.spotify.com/album/3fh6NNy3oDxvPS3EILbMw5) | 4:33 |
 | 17 | [Time Machine](https://open.spotify.com/track/0ufX7CKKUMCAknALKH5Cmq) | [Painted Shield](https://open.spotify.com/artist/7kmm4Wi3pbsCHHIYqgYgX9) | [Painted Shield](https://open.spotify.com/album/1jn9erY1pdPLhHCaYogq1U) | 2:57 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 144 | [Haunted Heart](https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx) | [little hurricane](https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2) | [Homewrecker](https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF) | 2:45 |
 | 145 | [Wannabe In L.A](https://open.spotify.com/track/68HGqHHc41qmJHUWlLUKCd) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Heart On](https://open.spotify.com/album/2WxHlLQsHHJ8lb4xQrb65A) | 2:15 |
 
-Snapshot ID: `MCw3MjMwODUzMTRlMzZhNzE5NTg4MmE3MzlhMTQwMzI3ZjExM2RjNjlk`
+Snapshot ID: `MCw5ZGJlYjFkOTYwMzhmYTM2ZDkwODg3ZTkwNzFmZTc3YTE5YjhmZDZk`
